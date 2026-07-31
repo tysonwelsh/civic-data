@@ -42,7 +42,7 @@ Source map: `recon.md`. Read this file before analyzing MAG.
   forecast behind the city projections. **This is where housing-supply / density / future-
   land-use questions go.** Per-county services (TAZ, geography, traffic) list the Utah-County
   endpoint + name the Summit/Wasatch analogs. Verify `?f=json`; catalog, don't mirror.
-- **`legislative/` + `db/` — the adoption/certification record (635 motions).** The MPO Board
+- **`legislative/` + `db/` — the adoption/certification record (649 motions).** The MPO Board
   + TAC decision log: TIP modifications, RTP amendments + air-quality conformity, corridor-
   preservation purchases, functional-classification submittals, funding awards. **This is where
   "what did the board adopt / certify / vote to approve" goes** — an adoption record, NOT a
@@ -58,7 +58,7 @@ Source map: `recon.md`. Read this file before analyzing MAG.
   (Housing Unit Inventory, General Plan Land Use 2025, Station Area Planning HB462).
 - **What the MPO decided / adopted + who moved/seconded:** `db/mag_mpo.db` (fed `motion` where
   `city='mag_mpo'`) — join `person` on mover/seconder; approve/deny mix via `disposition`
-  (compose with `outcome`); failed/contested = `outcome='Fail'` (3 motions). **No `vote` rows.**
+  (compose with `outcome`); failed/contested = `outcome='Fail'` (5 motions) + divided-pass tallies in `result_raw`. **No `vote` rows.**
 - **Thematic / keyword search** (TIP mods, RTP amendments, corridor preservation, conformity):
   `cities.db` `fts_minutes` filtered to `city='mag_mpo'`.
 - **Who sits on the board / voting vs liaison:** `roster/seats.csv` (`entity_slug` joins repo
@@ -87,18 +87,27 @@ Williams/TAC-Chair/Bluffdale sit as non-voting liaisons. Meets **monthly, ~2nd T
 ## The vote-recording ceiling — a SOURCE PROPERTY, not a gap (verified 2014-2026)
 
 The MPO Board and TAC are **high-consensus, tally-only bodies**. Minutes name the **MOVER** and
-**SECONDER** and record a **tally-only result** ("the motion passed all in favor") — **NO roll
-call, NO per-member vote, usually not even a numeric count**, even on divided votes. Attendance
-is a named ✓-table, but presence is not a vote. So:
+**SECONDER** and record a **tally-only result** ("the motion passed all in favor") — no roll
+call is ever printed as a table. **Divided votes are RARE (5 Fail motions + a handful of
+divided passes in 12 years), and where one occurs the clerk sometimes prints the numeric
+count and even the dissenters' names in the result sentence** (e.g. 2015-11-05 "Motion
+failed with 10 yes and 12 no votes by [12 named mayors]"; 2014-09-04 "18 yes, 3 no (Mayor
+Pengra, Mayor Wall, and Mayor Miller), Mayor Clyde abstained") — those sentences are
+preserved VERBATIM in `result_raw` (G8a recovery 2026-07-31) but are NOT parsed into
+`vote` rows (a queued option, see root LEADS.md). Attendance is a named ✓-table, but
+presence is not a vote. So:
 
 - **The db `vote` table is HONESTLY EMPTY** and **`role` is empty** — an attribution ceiling
   exactly like alta / nephi voice votes / west_jordan PC. `names_recorded=0` on every motion.
   **Do NOT run per-member vote analytics on MAG.** Do not infer individual member positions.
 - Motions carry **full-name mover/seconder person links** (`mover_person_id`/`seconder_person_id`,
-  633/635 each), a **verbatim `result_raw`**, a derived **`outcome`** (**632 Pass / 3 Fail**),
-  and a keyword **`disposition`** (approve/procedural/continue/deny; NULL = honestly
-  unclassified, 58). **Contested signal**: `outcome='Fail'` (3 motions) is the only dissent the
-  record exposes.
+  646/647 of 649), a **verbatim `result_raw`** (divided-vote sentences carried in FULL since
+  the G8a grammar fix — the old extractor truncated at the first comma and dropped bare
+  "Motion …" sentences entirely, losing 14 motions incl. both 2015-11-05 divided votes), a
+  derived **`outcome`** (**644 Pass / 5 Fail**), and a keyword **`disposition`**
+  (approve/procedural/continue/deny; NULL = honestly unclassified, 62). **Contested
+  signal**: `outcome='Fail'` (5 motions) plus the divided-pass tallies visible in
+  `result_raw`.
 - Older-era (2014–2019) prose often names movers by **surname only** ("Mayor Acerson moved"),
   lifted to full names against that meeting's named attendance roster only when unambiguous
   (surnames collide — never guessed across meetings).
@@ -139,8 +148,8 @@ db/            fetch_minutes.py (site -> markdown + index), build_db.py (-> mag_
 Body / person / meeting / application / motion / vote / role / referral — the same tables
 every per-city db carries (+ the `provenance` and `disposition` motion columns), so
 `scripts/build_cities_db.py` federates it unchanged. Totals: **2 bodies** (MPO Board
-`kind=council`, MPO TAC `kind=commission`), **151 meetings** (2014-01 → 2026-06), **635 motions**
-(Board 418 / TAC 217), **169 persons**. `vote`, `role`, `application`, `referral` are **empty by
+`kind=council`, MPO TAC `kind=commission`), **151 meetings** (2014-01 → 2026-06), **649 motions**
+(Board 432 / TAC 217), **169 persons**. `vote`, `role`, `application`, `referral` are **empty by
 design** — no named votes (ceiling), no structured matter keys (the TIP/RTP project pipeline is
 the `projects/` module), `referral` present-but-empty so the federator's loader does not
 hard-fail. Gates all pass: `foreign_key_check` empty, `integrity_check` ok, rebuild idempotent,

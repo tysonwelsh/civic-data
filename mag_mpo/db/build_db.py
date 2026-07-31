@@ -123,12 +123,25 @@ def clean_name(raw):
 # or trailing period, so a sentence boundary ('...Provo. Mayor Miller moved') hard-stops
 # the run — the name is only what follows the last period.
 NAME_RUN = r"((?:[A-Z][a-z][A-Za-z'’-]*\s+){1,5})"
-MOVED_RE = re.compile(NAME_RUN + r"mov(?:ed|es)\b", re.U)
+# G8a (2026-07-31): 'mov(?:ed|es|e)' — the clerk's bare-'move' typo ("Mayor Brian
+# Wall move that…", 2015-11-05 Elk Ridge) dropped a whole motion. "I move that"
+# inside SUGGESTED-MOTION boilerplate cannot false-positive: "I" is not a
+# NAME_RUN token (needs Capital+lowercase).
+MOVED_RE = re.compile(NAME_RUN + r"mov(?:ed|es|e)\b", re.U)
 SEC_RE = re.compile(NAME_RUN + r"second(?:ed|s)\b", re.U)
 SEC_BY_RE = re.compile(r"second(?:ed)?\s+by\s+" + NAME_RUN, re.U)
+# G8a (2026-07-31): two result-grammar fixes, both cardinal-rule-2 defects.
+# (1) 'The ' is OPTIONAL — bare "Motion failed with 10 yes and 12 no votes by
+#     [12 named mayors]" (2015-11-05 strike) and "Motion passed with 20 yes and
+#     1 no (Mayor Miller)" (2014-09-04) never anchored, dropping whole DIVIDED
+#     motions from a body whose only dissent signal is these sentences.
+# (2) divided tallies run to SENTENCE end ([^.;]*), not first comma — the old
+#     [^.,;]* truncated "passed with 18 yes" and amputated the printed name
+#     lists; result_raw is verbatim and must carry them in full.
 RESULT_RE = re.compile(
-    r"[Tt]he motion\s+(passed all in favor|passed unanimously|passed with[^.,;]*|"
-    r"passed|carried unanimously|carried|failed[^.,;]*|failed|did not pass|"
+    r"(?:[Tt]he\s+)?[Mm]otion\s+(passed all in favor|passed unanimously|"
+    r"passed(?:\s+(?:with|[0-9])[^.;]*)?|carried unanimously|carried|"
+    r"failed(?:\s+with[^.;]*)?|failed|did not pass|"
     r"was approved|was denied|was tabled|was continued)", re.U)
 
 

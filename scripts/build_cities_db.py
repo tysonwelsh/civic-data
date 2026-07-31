@@ -499,10 +499,13 @@ CAVEATS = [
      "MAG is a data-forward regional entity: analytic center = regional_project "
      "(TIP/RTP/RPO) + projection (city grain) + the Housing Unit Inventory / "
      "Wasatch Choice GIS catalog, NOT the vote spine. MPO Board/TAC minutes are "
-     "tally-only (mover/seconder named; no roll call ever, even on divided "
-     "votes — vote table empty by construction). The MPO Board is "
-     "UTAH-COUNTY-only: summit_county/park_city belong to MAG's AOG/RPO side "
-     "and never vote on the MPO Board."),
+     "tally-only (mover/seconder named; no roll-call table ever — vote table "
+     "empty by construction). Divided votes are RARE (5 Fail in 12 years) and "
+     "where one occurs the clerk sometimes prints the count and even dissenter "
+     "names IN THE RESULT SENTENCE — preserved verbatim in result_raw (G8a "
+     "2026-07-31), not parsed to vote rows. The MPO Board is UTAH-COUNTY-only: "
+     "summit_county/park_city belong to MAG's AOG/RPO side and never vote on "
+     "the MPO Board."),
     # --- named-vote / dissent recording limits (affect contested/member views)
     ("nephi", "meeting_minutes", "tally-only",
      "Nephi votes are mostly tally-only (~80% of rows carry no member name; only "

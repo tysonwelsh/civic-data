@@ -83,6 +83,10 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   2026 pending minutes + ordinance back-catalog. (L2233–2709, L1907/1911/1987)
 - **Ogden referrals FP class** — two named CRAs sharing the generic 'Community Reinvestment
   Project Area' string. (L1801)
+- **2026-07-31: mag_mpo named-dissent parsing** — the G8a grammar fix recovered divided-vote
+  result sentences that sometimes NAME dissenters (2015-11-05 twelve named nays; 2014-09-04
+  three named + one abstain). Parsing those rare sentences into `vote` rows would give MAG a
+  small honest named-dissent layer; today they live verbatim in `result_raw` only.
 - **2026-07-31: wire comment redaction into the builders** — `scripts/redact_comments.py`
   currently runs as a documented post-step (GOTCHAS.md); folding it into the per-city
   comment-clean scripts + weeks_lib would remove the re-run-after-rebuild footgun.

@@ -44,10 +44,11 @@ magna rows in v_member_record_all carry `dissent-only`.
 
 ## NEXT (the PUBLISH GATE, in TODO.md — owner-approved 2026-07-31)
 
-**G1 (git init private + .gitignore fix) is next and most urgent** — gov.db (1.64 GB) is
-UNIGNORED (rule still says `/cities.db`), one 105 MB draper text file exceeds GitHub's limit,
-and 51 GB of hand-adjudicated work has no safety net beyond same-disk `_backups/`. Then
-G3 (LICENSE/CITATION/METHODS/PRIVACY + the owner's two privacy decisions), G4 (doc-
+**G1 DONE 2026-07-31 — the repo is under git with a private remote:
+`github.com/tysonwelsh/civic-data` (main, initial commit `e9872b9`, 59,468 files).**
+Owner residue: rotate the ANTHROPIC_API_KEY; enable secret scanning at public-flip.
+Commits are now the change record — wave-record prose in TODO.md is retired for good.
+Next: G3 (LICENSE/CITATION/METHODS/PRIVACY + the owner's two privacy decisions), G4 (doc-
 consistency pass — README county counts 24,346→27,269 etc.; CLAUDE.md 27,376→27,269;
 regenerate cities_db_SCHEMA.md), G5 (FTS: 935 excluded pmn_minutes), G6 (quickstart +
 gov.db.gz release asset), G7 (atomic build + lockfile + auto-gate), G8 (three wrong-value

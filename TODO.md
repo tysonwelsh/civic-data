@@ -33,12 +33,15 @@ publish only if it makes a published value WRONG; incompleteness ships with its 
 
 Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md` §2.
 
-- [ ] **G1. .gitignore fix → `git init` (private) → first commit.** gov.db (1.64 GB) is
-  UNIGNORED (ignore rule still says `/cities.db`, now a symlink); draper
-  `packets/text/2020-05-28_…att1624.txt` (105 MB) exceeds GitHub's limit inside the committed
-  text layer; also add `*/pmn_backfill/work/`, `_backup_*/`, `*.bak`; decide
-  `mag_mpo/legislative/raw_pdf/`; `git check-ignore` both live `.env` files; rotate the
-  ANTHROPIC_API_KEY; inspect `git count-objects -vH` before the first commit.
+- [x] **G1. git init + private remote — ✅ DONE 2026-07-31.** .gitignore corrected
+  (`/gov.db` + `/cities.db` symlink + the 110 MB draper whitespace-bloat sidecar
+  [re-extraction lead in LEADS.md] + `mag_mpo/legislative/raw_pdf/` [name kept — referenced
+  by its index/provenance] + `*/pmn_backfill/work/`, `_backup_*/`, `*.bak`,
+  `.claude/settings.local.json`); every rule check-ignore-verified incl. both `.env` files;
+  oversize scan clean (largest staged file 42.7 MB); 59,468 files / 548 MiB committed
+  (`e9872b9`) and pushed → **private `github.com/tysonwelsh/civic-data`** (main). OWNER
+  RESIDUE: rotate the ANTHROPIC_API_KEY (cheap insurance); enable secret scanning + push
+  protection when the repo flips public (free tier is public-only).
 - [x] **G2. Caveat refresh + re-federation — ✅ DONE 2026-07-31.** Caveat table 63→88 rows:
   falsified utah_county/weber rows rewritten (post-repair reality + the 42-of-63 honest
   residual); south_jordan PC `dissent-only` row added (Hollist's 100% nay rate now caveated);

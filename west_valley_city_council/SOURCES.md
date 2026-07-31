@@ -2,7 +2,7 @@
 
 Civic records of the West Valley City Council and Planning Commission, 2020–present. Minutes are published on the city's self-hosted Hyland OnBase 'Agenda Online' portal (ob.wvc-ut.gov). West Valley publishes no written public-comment compilations. Election results are produced by the Salt Lake County Clerk.
 
-The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-20 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py west_valley`.
+The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-31 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py west_valley`.
 
 ## Council meeting minutes
 
@@ -17,9 +17,9 @@ The machine-readable companion to this page is [`sources.csv`](sources.csv) — 
 
 - **Published by:** West Valley City Community & Economic Development
 - **Portal:** OnBase Agenda Online (ob.wvc-ut.gov)
-- **Documents indexed:** 266  ·  **Date range:** 2020-01-02 to 2026-05-27
-- **Direct source URLs recorded:** 266/266 (100%)  ·  **Host(s):** ob.wvc-ut.gov
-- **How the text was obtained:** text (266)
+- **Documents indexed:** 264  ·  **Date range:** 2020-01-02 to 2026-05-27
+- **Direct source URLs recorded:** 264/264 (100%)  ·  **Host(s):** ob.wvc-ut.gov
+- **How the text was obtained:** text (264)
 - **Note:** Born-digital documents.
 
 ## Public comments

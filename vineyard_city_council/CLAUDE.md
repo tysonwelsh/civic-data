@@ -67,9 +67,11 @@ named councilmembers in 2026.
   - *Within-body core is EXACT*; project keys **resolved from prose** and **body-scoped** — `0
     applications span >1 body`. Vineyard's **ALL-CAPS, name-poor minutes** mean almost every
     application is a `singleton`(high); the `name`(medium, heuristic) tier barely fires (just 2 motions).
-    3 bodies · 310 applications · 1,620 motions · 7,840 votes. Motions: Council 1,040 · PC 362 · RDA 218
+    3 bodies · 310 applications · 1,610 motions · 7,806 votes. Motions: Council 1,040 · PC 352 · RDA 218
     (RDA 15 council-embedded + 203 promoted standalone RDA-board minutes; provenance='pmn_minutes').
-    PC stages: 56 recommendations (55 positive / 1 negative) + 306 final actions.
+    PC stages: 53 recommendations (52 positive / 1 negative) + 299 final actions.
+    (2026-07-31: −10 motions / −34 votes — the phantom PC 2023-04-19 duplicate removed, see
+    `planning_commission/CLAUDE.md` + `VERIFICATION.md`.)
   - *Cross-body `referral` is RECONSTRUCTED + scored + GENERALIZED* — keyed `primary_body←related_body`
     (covers Council←PC / Council←RDA / PC←RDA). Small, high-consensus town → **9 links, all
     medium/subject, all Council←PlanningCommission** (RDA shares no linkable text → 0 agency links);

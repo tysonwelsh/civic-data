@@ -13,6 +13,22 @@ Magna council minutes live on TWO portals and the PC on a third body:
 ⚠ ALWAYS fetch PMN files from the `www.utah.gov/pmn/files/<id>.pdf` host — `pmn.utah.gov/...`
   302-redirects to the PMN home page and returns HTML, not the PDF.
 
+⚠⚠ THE PMN DRAFT-COPY TRAP (body 1559, and check any PMN body before ingesting).  A notice's
+  `Meeting Minutes` attachments are NOT all that notice's minutes:
+    * `YYMMDD_MagnaPC_MinutesApproved.pdf` -> the APPROVED minutes of THAT notice's own
+      meeting.  Ingest under the notice date.
+    * `<Month> minutes.pdf` (e.g. `July minutes.pdf`) -> the DRAFT minutes of the PREVIOUS
+      meeting, posted with THIS meeting's agenda packet because this meeting is the one that
+      will APPROVE them.  Its true date is ONE MEETING EARLIER than the notice.
+  Ingesting the second kind under the notice date manufactures a PHANTOM meeting that
+  double-counts the previous meeting's motions.  It happened four times (2023-08-10,
+  2023-10-12, 2024-08-08, 2025-10-16 — de-ingested 2026-07-31, see
+  planning_commission/raw/_duplicate_drafts/README.md).  Approved copies carry a
+  `**Meeting minutes approved on <later date>**` stamp; drafts do not.  ALWAYS confirm the
+  in-body `MAGNA PLANNING COMMISSION MEETING — <Weekday>, <Month> <D>, <Y>` header before
+  writing a minutes_index.csv row, and run
+  `python3 planning_commission/validate_votes.py --check-dates` after any PC ingest.
+
 Default action is a READ-ONLY probe: list documents newer than the current index max for each
 dataset, excluding dates already indexed or logged in minutes_unrecovered.csv. `--fetch` (not
 implemented here as a network-mutating step) would download new dates' minutes into raw/, convert

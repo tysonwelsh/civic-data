@@ -10,6 +10,11 @@ ceiling and the Gettel council→mayor transition, check date coverage against t
 and cross-check election winners against outside sources with a browser UA. **No canonical
 CSV or minutes file was mutated.**
 
+> ⚠ **Counts below the 2026-07-12/07-16 sections predate the 2026-07-31 phantom-meeting
+> removal** (4 misdated documents, −16 motions / −62 flat vote rows / −4 meetings). Current
+> totals and the full evidence are in **Addendum 2026-07-31** at the end of this file; the
+> earlier sections are kept verbatim as dated audit records.
+
 Grades: **PASS** = reconciles / matches source. Documented defects are listed and were
 verified to be already logged in the root `TODO.md`, not new findings.
 
@@ -247,3 +252,70 @@ fuzzy canon could not fold were added to `extract_votes.py` `NAME_ALIASES`
 Billings); db `person` table is unchanged vs pre-promotion (34, zero artifacts). Roster:
 same 7 members, +463 named rows reconcile exactly; Gettel's council tenure still ends
 2024-12-10 (no mayor-era leak).
+
+---
+
+## Addendum 2026-07-31 — four PHANTOM meetings removed (separator-less filename misparse)
+
+**Defect.** Midvale's Revize Document Center files many minutes under a *separator-less*
+date run — `CC Minutes 11723001.pdf`, `CC Minutes 1182022001.pdf`, `CC Minutes 1212020.pdf`,
+`11123 Approved PC Minutes.pdf`. Every such run reads two ways (`11723` = **1-17-23** or
+11-7-23). The 2026-07-12 build read four of them the wrong way, creating **phantom meetings**
+whose motions/votes double-counted the real session:
+
+| phantom date (removed) | true meeting (in-body header) | source file | where the real meeting still lives |
+|---|---|---|---|
+| Council 2020-12-01 | **2020-01-21** — "January 21, 2020 … the 21st day of January 2020" | `CC Minutes 1212020.pdf` | `pmn_backfill` promotion, PMN file 572397 `CC Minutes 1-21-2020.pdf` (`provenance=pmn_minutes`; a superset — it also carries that night's RDA session) |
+| Council 2022-11-08 | **2022-01-18** — "JANUARY 18,2022 … the 18th day of January 2022" | `CC Minutes 1182022001.pdf` | PMN file 810853 `CC Minutes 1-18-2022001.pdf` |
+| Council 2023-11-07 | **2023-01-17** — "JANUARY 17,2023 … the 17th day of January 2023" | `CC Minutes 11723001.pdf` | PMN file 941597 `CC Minutes 1-17-23001.pdf` |
+| PC 2023-11-01 | **2023-01-11** — "11th Day of January 2023" | `11123 Approved PC Minutes.pdf` | the SAME PDF, already indexed correctly at `minutes/2023/2023-01-09/2023-01-11_planning-commission-regular-meeting.md` |
+
+The PMN filenames are the hyphenated form of the identical Revize filenames, which
+independently fixes the intended reading. Motion sets at the phantom dates were exact
+subsets of the true dates' (identical motion text, movers, rolls) — **nothing was lost**.
+
+**No real meeting was vacated.** Utah Public Notice (the statutory channel; entity 201,
+bodies 753 Council / 754 Planning Commission) notices no session on any of the four dates:
+Council Nov–Dec 2020 = 11-10, 11-17, 12-08; Nov 2022 = 11-01, 11-15; Nov 2023 = 11-14 (the
+2023-11-07 regular slot moved a week — 2022-11-08 and 2023-11-07 were municipal **Election
+Days**); PC Nov 2023 = 11-08 only (it meets 2nd & 4th Wednesday). **No rows were added to
+either `minutes_unrecovered.csv`** — there is no gap to ledger.
+
+**Delta (expected-rows-only).** Row-signature diff on
+`(source, date, body, motion_no, member, vote)`: council **53 removed / 0 added**
+(2020-12-01 ×21, 2022-11-08 ×16, 2023-11-07 ×16), PC **9 removed / 0 added** (2023-11-01);
+**every removed row is on a phantom date, no other row changed**. `motions_std.csv`: 13 + 3
+rows removed, all four phantom source files, 0 added. `db/civic.db`: meeting 291→287 (−4),
+motion 2,202→2,186 (−16), vote 5,810→5,752 (−58; the 4-row gap vs the flat count is the four
+tally-only adjournment rows, which carry no named member), application 490→487 (−3),
+referral 114→113 (−1). `weeks/`: 159→156 bundles (only the three phantom-only weeks
+2020-12-01, 2022-11-08, 2023-11-07 disappear; PC 2023-11-08 keeps its bundle at 2023-11-14).
+`validate_entity.py midvale`: **25 PASS / 1 WARN (the documented `provenance` extension) /
+0 FAIL**, db reconciles exactly (5,752 == 5,752).
+
+**Collision no longer reproduces.** The same-signature/different-date detector
+(≥0.90 motion-text similarity, same body, ≥2 motions) finds **4 collisions at ratio 1.000 in
+the pre-fix db and 0 in the rebuilt db** across all 2,186 motions.
+
+**Retained originals.** Raw files are never deleted: the four PDFs moved to
+`meeting_minutes/raw/_misdated/` and `planning_commission/raw/_misdated/`, each with a README
+recording the misparse. They are deliberately out of the top level of `raw/` because
+`convert_minutes.py` rebuilds `minutes_index.csv` from a flat listing of `raw/` — a
+wrong-dated file left there would re-create the phantom on any re-convert.
+
+**Root cause fixed in `fetch_new.py` (so a refresh cannot re-create them).** The driver
+now **never guesses** a filename date: `_date_candidates()` enumerates every calendar-valid
+reading (leading-year YYYYMMDD/YYMMDD and leading-month M|MM + D|DD + YY|YYYY), strips
+Revize's `001` re-upload suffix, and honours the year folder in the URL; when more than one
+reading survives, the row is flagged `date_ambiguous` and `fetch()` resolves the date from
+the **document's own header block** (`_date_from_text`, first 1,800 chars only, so a later
+"approve the minutes of December 14, 2022" can never re-date the doc), renaming the raw file
+to match. If the document confirms no candidate, the file is left **RAW-ONLY and reported**
+rather than indexed under a guess. A single-candidate filename whose header disagrees emits
+a `WARN` for hand review. The parser was also taught the space-separated forms
+(`12-11- 2024`, `0928 22`) the old one dropped.
+
+**Regression check of the whole index:** all 251 indexed documents re-parsed — **239 resolve
+to exactly their indexed date, 12 are correctly flagged ambiguous (the truth is always among
+the candidates), 0 misparse.** Each of those 12 was then re-verified against its own header
+date and **all 12 are correctly dated** — the four phantoms were the complete set.

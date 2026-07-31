@@ -194,3 +194,46 @@ All winners confirmed against a source **other than** the parsed rcvis/EV files.
 ```
 
 **2026-07-02 (3.1) council-vote validation:** bespoke `meeting_minutes/validate_votes.py` re-run — 1,076 motions, 2 numeric tally mismatches (both documented SOURCE clerk errors: 2024-05-08 m8, 2025-08-26 m3), 0 unparsed results, 22 tally-only; shared-template checks (schema/dates, motion-group convention, double votes, tally-vs-counted with the 2 knowns config-documented): 0 hard failures, 0 unexplained mismatches.
+
+**Addendum (2026-07-31, duplicate-ingest date-collision wave — PC 2023-04-05 ↔ 2023-04-19):**
+A repo-wide collision screen flagged Planning Commission 2023-04-05 and 2023-04-19 as carrying
+an identical 10-motion set (similarity 0.994). Verified at source: this is the **same city-side
+mis-upload defect as item #4 of the 2026-07-02 addendum**, a second instance the earlier audit
+missed. Evidence:
+1. Both markdown bodies are the **same document** — in-body header on each reads "REGULAR
+   MEETING OF THE VINEYARD PLANNING COMMISSION, **Wednesday April 5, 2023**"; the only textual
+   differences are leading whitespace, the footer "Final" vs "Draft", and the signature block
+   ("CERTIFIED CORRECT BY … Planner" vs "Certified BY … Planning Tech").
+2. The CivicClerk source file NAMES both say 4.5.23 — event **787 / fileId 1275**
+   `896m-4.5.23 PC final meeting minutes` (the certified FINAL) and event **792 / fileId 1281**
+   `901m-4.5.23 PC final  meeting minutes` (the DRAFT). Re-queried live 2026-07-31:
+   `GET /v1/Events?$filter=startDateTime ge 2023-04-15…` returns event 792 (2023-04-19,
+   "Planning Commission - Public Hearing") with exactly two published files — agenda 1280
+   `901a-4.19.23 PC Meeting Agenda with Attachments` and minutes 1281 (the April 5 doc). The
+   city never posted the real April 19 minutes.
+3. **2023-04-05 is the real date of the recorded content** (also the date the 4/5 minutes were
+   certified on: "Certified correct ON: April 19, 2023" — i.e. approved at the 4/19 meeting).
+4. **An April 19, 2023 PC meeting nevertheless occurred**: it was agendaed (fileId 1280) and the
+   2023-12-06 PC minutes approve "**4.1 Approval of the April 19, 2023 PC Meeting Minutes**" as a
+   consent item. Its minutes are therefore MISSING, not nonexistent → ledgered in
+   `planning_commission/minutes_unrecovered.csv` (16 rows). Unlike the 2023-06-21 case, PMN is
+   **not** a recovery channel here: the repo's body-531 harvest holds only 2015–2018 +
+   2024-02-07 (2019–2023 blobs purged), and the live PMN body-531 sitemap lists 2026 only.
+
+**Action:** phantom `planning_commission/minutes/2023/2023-04-17/` (+ its votes JSON) deleted, its
+`minutes_index.csv` row removed, a `minutes_unrecovered.csv` row added. No parser change was
+warranted — the ingest date came from the CivicClerk event date, which is correct for event 792;
+the defect is the city's attachment, so there is no date-parse bug to harden.
+**Deltas (expected-rows-only, diffed at (source,date,body,motion_no,member,vote) — never by id):**
+PC `all_votes.csv` 1,617 → **1,583** rows (−34, ALL dated 2023-04-19; **0 added**, every other row
+byte-identical); PC motions 375 → **365**; `motions_std.csv` 362 → **352**; `db/civic.db`
+meetings 290 → **289**, motions 1,620 → **1,610** (−10), votes 7,840 → **7,806** (−34),
+applications unchanged at 310, referral links unchanged at 15; `weeks/` regenerated, **163 bundles,
+byte-identical** (weeks/ is council+RDA only — PC is not bucketed). `validate_votes.py` PASS (0
+flags); `scripts/validate_entity.py vineyard` **25 PASS / 1 WARN / 0 FAIL** (the WARN is the
+pre-existing documented `provenance` column). Re-running the collision screen inside
+`db/civic.db` leaves **one** identical-signature pair — RDA 2024-08-28 ↔ 2025-06-11, both a single
+boilerplate "APPROVE THE CONSENT ITEM AS PRESENTED / Carried unanimously" motion from two distinct,
+md5-different minutes documents: a genuine coincidence, **not** a duplicate ingest, no action taken.
+Originals in `_backups/2026-07-31-g8/vineyard_city_council/`. gov.db re-federation is the
+coordinator's step (validator reports it STALE by exactly −1 meeting / −10 motions / −34 votes).

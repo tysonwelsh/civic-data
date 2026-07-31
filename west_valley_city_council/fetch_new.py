@@ -52,6 +52,26 @@ SEARCH = (HOST + "/OnBaseAgendaOnline/Meetings/Search"
           "?dropid=11&mtids=all&dropsv={start}%2000:00:00&dropev={end}%2000:00:00")
 OVERLAP_DAYS = 28
 
+# KNOWN WRONG-DOCUMENT SLOTS (city mis-uploads) — (date, OnBase meetingId).
+# OnBase publishes these meetings' minutes anchors, but the PDF served under the
+# slot is a DIFFERENT meeting's minutes, so ingesting it creates a phantom
+# meeting that double-counts the other meeting's motions. Each is ledgered in
+# planning_commission/minutes_unrecovered.csv with the evidence:
+#   2024-07-10 (meetingId 7889) -> serves the 2024-04-10 PC minutes
+#   2025-04-16 (meetingId 8228) -> serves the 2025-04-23 PC public-hearing minutes
+# Both re-verified live 2026-07-31. If the city ever fixes an upload, drop the
+# entry here AND the corresponding minutes_unrecovered.csv row, then re-probe.
+WRONG_DOC_SLOTS = {
+    ("2024-07-10", "7889"),
+    ("2025-04-16", "8228"),
+}
+
+
+def _quarantined(date, url):
+    """True if (date, meetingId-in-url) is a known wrong-document slot."""
+    mid = urllib.parse.parse_qs(urllib.parse.urlparse(url).query).get("meetingId", [""])[0]
+    return (date, mid) in WRONG_DOC_SLOTS
+
 # Minutes-PDF filename prefix -> (dataset, index title, slug).
 # Qualifier ({q}) = Regular/Special/Study taken from the filename itself.
 PREFIX_MAP = [
@@ -129,9 +149,14 @@ def probe(dataset, max_date):
     start = datetime.date.fromisoformat(max_date) - datetime.timedelta(days=OVERLAP_DAYS)
     minutes, pending, endpoint = portal_minutes(start)
     known = {(r["date"], r["slug"]) for r in rl.load_index(CITY_DIR / dataset)}
+    quarantined = [(d, u) for d, ds, _, _, u in minutes
+                   if ds == dataset and _quarantined(d, u)]
+    for d, _ in quarantined:
+        print(f"  QUARANTINED {d}: known wrong-document slot (see "
+              f"{dataset}/minutes_unrecovered.csv) — not ingested")
     new = [{"date": d, "title": t, "slug": s, "url": u}
            for d, ds, t, s, u in minutes
-           if ds == dataset and (d, s) not in known]
+           if ds == dataset and (d, s) not in known and not _quarantined(d, u)]
     new.sort(key=lambda x: x["date"])
     have = {it["date"] for it in new}
     pending_dates = sorted({d for d, ds, _ in pending

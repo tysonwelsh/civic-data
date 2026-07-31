@@ -21,14 +21,16 @@ research. This is the **LAND_USE** module of the `salt_lake_county/` entity (the
 
 | Body | Meetings w/ minutes | Range | Cancelled meetings | Held, no minutes posted |
 |---|---|---|---|---|
-| Planning Commission | 62 | 2020-01-15 … 2026-03-11 | 17 | 8 |
+| Planning Commission | 61 | 2020-01-15 … 2026-03-11 | 17 | 8 |
 | Mountainous Planning District PC | 35 | 2020-01-02 … 2026-03-19 | 41 | 4 |
 
-**Total: 97 meetings, 97 markdown files, 97 raw PDFs. Every PDF is born-digital
-(clean pypdf text); zero OCR/image-only.**
+**Total: 96 meetings, 96 markdown files, 97 raw PDFs. Every PDF is born-digital
+(clean pypdf text); zero OCR/image-only.** (⚠ **corrected 2026-07-31**, was 62 PC / 97
+meetings — see "One meeting, two PMN postings" below. Raw PDFs exceed meetings by one
+because the 2024-12-11 meeting has both its draft and its approved posting retained.)
 
 Per-year meetings-with-minutes:
-- Planning Commission: 2020=11, 2021=12, 2022=11, 2023=11, 2024=10, 2025=6, 2026=1
+- Planning Commission: 2020=11, 2021=12, 2022=11, 2023=11, 2024=9, 2025=6, 2026=1
 - Mountainous PDPC: 2020=8, 2021=9, 2022=4, 2023=4, 2024=5, 2025=4, 2026=1
 
 ## Honest gaps (never fabricate to fill these)
@@ -45,6 +47,22 @@ Per-year meetings-with-minutes:
   cancels frequently (it only convenes when the mountain district has business).
 - **Agendas / packets / staff reports / audio** exist on PMN but are out of scope here
   (this module is the minutes text corpus only).
+
+## One meeting, two PMN postings — the 2024-12-10 phantom (fixed 2026-07-31)
+
+PMN carried the **same** Planning Commission meeting twice: a pre-approval posting
+(file `1240211`) and the approved posting (file `1250791`, stamped "Meeting minutes
+approved on March 26, 2025"). The two were dated differently because the SOURCES.md
+dating rule falls back to the minutes **header text** when no `YYMMDD` filename prefix
+is present — and the clerk's header carries a **typo**, "Wednesday, December 10, 2024".
+December 10, 2024 was a **Tuesday**; **December 11 was the Wednesday**, and the
+2025-03-26 minutes approve "the **December 11, 2024** Planning Commission Meeting
+Minutes." The real date is **2024-12-11**. The `2024-12-10` markdown + index row were
+therefore removed (4 phantom motions, 0 votes — the meeting is tally-only); the raw
+draft PDF is retained as `raw/2024-12-11_1240211_minutes.pdf`. **No meeting occurred on
+2024-12-10**, so nothing is now missing. When both postings of one meeting are present,
+prefer the approved one, but note the pypdf superscript artifact `build_votes.py`
+now repairs (`rejoin_split_second`): the approved copy splits `2nd by:` across two lines.
 
 ## Cardinal rules (repo-wide)
 

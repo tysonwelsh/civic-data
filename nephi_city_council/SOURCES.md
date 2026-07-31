@@ -2,15 +2,15 @@
 
 Civic records of the Nephi City Council and Planning Commission, 2020–present. Minutes are published on the city's CivicPlus CivicEngage AgendaCenter (nephi.utah.gov). Nephi publishes no written public-comment compilations. Election results come from the Utah state Enhanced Voting portal (Juab County, 2023+) and archived news canvasses for 2019/2021 (no county archive exists).
 
-The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-19 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py nephi`.
+The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-31 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py nephi`.
 
 ## Council meeting minutes
 
 - **Published by:** Nephi City Recorder
 - **Portal:** CivicPlus AgendaCenter (nephi.utah.gov)
-- **Documents indexed:** 252  ·  **Date range:** 2020-01-07 to 2026-06-16
-- **Direct source URLs recorded:** 252/252 (100%)  ·  **Host(s):** www.nephi.utah.gov, www.utah.gov
-- **How the text was obtained:** text (252)
+- **Documents indexed:** 251  ·  **Date range:** 2020-01-07 to 2026-06-16
+- **Direct source URLs recorded:** 251/251 (100%)  ·  **Host(s):** www.nephi.utah.gov, www.utah.gov
+- **How the text was obtained:** text (251)
 - **Note:** Born-digital documents.
 
 ## Planning Commission minutes
@@ -33,9 +33,9 @@ The machine-readable companion to this page is [`sources.csv`](sources.csv) — 
 
 - **Published by:** Utah Enhanced Voting portal (Juab County); archived news canvasses (2019 Deseret News, 2021 Mid-Utah Radio)
 - **Portal:** electionresults.utah.gov / juabcounty.gov
-- **Documents indexed:** 11  ·  **Date range:** 2019 to 2025
-- **Direct source URLs recorded:** 3/11 (27%)  ·  **Host(s):** juabcounty.gov, midutahradio.com, www.deseret.com
-- **How the text was obtained:** json (raw retained verbatim) (8), html (raw retained verbatim) (3)
+- **Documents indexed:** 12  ·  **Date range:** 2019 to 2025
+- **Direct source URLs recorded:** 3/12 (25%)  ·  **Host(s):** juabcounty.gov, midutahradio.com, www.deseret.com
+- **How the text was obtained:** json (raw retained verbatim) (8), html (raw retained verbatim) (3), pdf (raw retained verbatim) (1)
 - **Note:** No pre-existing Juab County election archive; 2019/2021 numbers rest on archived unofficial canvasses (documented in election_results/CLAUDE.md).
 
 ## Agenda packets / staff reports
@@ -54,7 +54,7 @@ The machine-readable companion to this page is [`sources.csv`](sources.csv) — 
 
 - **Documents indexed:** 103  ·  **Date range:** 2020-01-21 to 2026-06-02
 - **Direct source URLs recorded:** 103/103 (100%)  ·  **Host(s):** www.nephi.utah.gov, www.utah.gov
-- **How the text was obtained:** reconstructed from meeting_minutes (ordinance number in minutes header/motion text) (via minutes document) (78), minutes header/motion text only; no discrete vote row on adoption date (audit signal) (via minutes document) (11), reconstructed from meeting_minutes; same-day multi-ordinance, motion linked POSITIONALLY (suffix letter truncated in all_votes source) (via minutes document) (9), PMN Notice-of-Ordinance PDF corroborates number+subject; linked to council motion (5)
+- **How the text was obtained:** reconstructed from meeting_minutes (ordinance number in minutes header/motion text) (via minutes document) (80), reconstructed from meeting_minutes; same-day multi-ordinance, motion linked POSITIONALLY (suffix letter truncated in all_votes source) (via minutes document) (10), minutes header/motion text only; no discrete vote row on adoption date (audit signal) (via minutes document) (8), PMN Notice-of-Ordinance PDF corroborates number+subject; linked to council motion (5)
 
 ## Utah Public Notice backfill
 

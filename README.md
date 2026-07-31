@@ -70,14 +70,14 @@ Headline federated totals (measured, not estimated):
 
 | Layer | city | county | regional | state | notes |
 |---|---:|---:|---:|---:|---|
-| **motions** | 49,172 | 27,269 | 959 | 1,208 | `motion` table |
-| **member-votes** | 181,119 | 38,597 | 0 | 27,887 | `vote`; regional minutes are tally-only, so MPOs record no member-votes |
+| **motions** | 49,105 | 27,262 | 973 | 1,208 | `motion` table |
+| **member-votes** | 180,979 | 38,589 | 0 | 27,887 | `vote`; regional minutes are tally-only, so MPOs record no member-votes |
 | **elections** | | | | | `election_race` 680 (authoritative winners/margins) + `election_result` 5,482 (SLCo SOVC tallies) |
 | **regional projects** | | | 5,717 | | `regional_project` — WFRC + MAG programmed TIP/RTP projects |
 | **projections** | | 980 | 9,832 | 140 | `projection` — county / annual city-area regional / state grains |
-| **searchable minutes** | | | | | `fts_minutes` — 14,713 documents across 40 entities (incl. 823 recovered-PMN texts) |
+| **searchable minutes** | | | | | `fts_minutes` — 14,696 documents across 40 entities (incl. 823 recovered-PMN texts) |
 
-*(counts as of the gov.db build of 2026-07-31; re-verify any headline number with
+*(counts as of the gov.db build of 2026-07-31 17:00; re-verify any headline number with
 `python3 scripts/check_doc_numbers.py`, which compares these docs against the live db)*
 
 The State layer adds a **264-bill land-use/housing subset (2015–2026)** with 1,208 named

@@ -10,7 +10,10 @@ floor **2020**. Modeled on `meeting_minutes/extract_votes.py` (the council pipel
 
 ```
 planning_commission/
-  minutes_index.csv            # 263 meetings: date,year,title,slug,path,source,source_url,format
+  minutes_index.csv            # 264 meetings: date,year,title,slug,path,source,source_url,format
+  minutes_unrecovered.csv      # meetings that HAPPENED but whose minutes we do not have
+                               # (no document on OnBase, not yet posted, or the OnBase
+                               #  document slot serves the WRONG meeting's PDF)
   minutes/<year>/<week>/<date>_<slug>.md   # markdown minutes (source of truth)
   raw/                         # EMPTY — original PDFs not retained; re-fetchable via minutes_index.csv source_url (DownloadFile→DownloadFileBytes; see meeting_minutes/CLAUDE.md)
   extract_votes.py             # the parser (this pipeline)
@@ -179,7 +182,7 @@ range starts there). `n_meetings` = meetings where the commissioner was present.
 
 | Last name | Full name | First seen → last seen |
 |---|---|---|
-| Fuller   | Brent Fuller    | 2020-01 → 2024-07 |
+| Fuller   | Brent Fuller    | 2020-01 → 2024-06 |
 | Meaders  | Clover Meaders  | 2020-01 → 2022-05 |
 | McEwen   | David McEwen    | 2020-01 → 2024-08 |
 | Winters  | Martell Winters | 2020-01 → 2026-05 |
@@ -211,7 +214,7 @@ the roster.
 
 - 0 off-roster names, 0 out-of-range votes (every roll-call name is on the roster and
   within its attendance range).
-- JSON member-vote rows reconcile **1:1** with `all_votes.csv` (3,022 = 3,022).
+- JSON member-vote rows reconcile **1:1** with `all_votes.csv` (2,991 = 2,991).
 - result strings well-formed; recommendation strings carry `recommendation` +
   positive/negative, final-action strings never do.
 - **Tally-vs-source mismatches (source typos, NOT parser bugs, NOT fabricated)** — the
@@ -224,22 +227,44 @@ the roster.
 
 ## Coverage / honesty
 
-- **263 meetings parsed, 0 unparsed** (133 regular + 130 study).
-- **606 motions**: **487 named roll-calls** (3,022 member-vote rows) + **119 tally-only
+- **264 meetings parsed, 0 unparsed** (134 regular + 130 study) — measured 2026-07-31.
+- **604 motions**: **483 named roll-calls** (2,991 member-vote rows) + **121 tally-only
   voice votes** (recorded with `names_recorded:false`, no guessed members).
-- **283 recommendations · 247 final actions · 76 procedural/appointment.**
+- **282 recommendations · 247 final actions · 75 procedural/appointment.**
 - **57 contested motions** (≥1 Nay/Abstain/Recuse) — the analytical signal.
 - An audit of all 658 "X motioned/moved" statements in the source confirms the 52
   not turned into vote rows are all legitimate skips (4 failed-for-lack-of-a-second +
   ~47 superseded substitute motions / statements embedded in discussion); **0**
   skipped statements have an unrecorded nearby vote.
-- **128 study meetings carry no recorded votes** — expected (study sessions are
+- **129 study meetings carry no recorded votes** — expected (study sessions are
   discussion; the action votes happen at the regular meeting two days later). The few
   study-meeting votes that exist are chair elections / minutes approvals.
 - A motion with **no recorded outcome** near it (superseded substitute motions) is
   intentionally skipped. Consent-style multi-item motions are one row.
 
+## OnBase WRONG-DOCUMENT slots (duplicate-ingest defect, fixed 2026-07-31)
+
+OnBase publishes a minutes anchor for two PC meetings but serves **a different
+meeting's PDF** under the slot (a city mis-upload, re-verified live 2026-07-31).
+Ingesting them had created **phantom meetings that double-counted another
+meeting's motions**:
+
+| Phantom date (removed) | OnBase meetingId | PDF actually served | Evidence the meeting itself was REAL |
+|---|---|---|---|
+| 2024-07-10 (Regular)      | 7889 | the **2024-04-10** PC minutes (in-body header "April 10, 2024"; approves the March 6/13 minutes) | its minutes were approved at the 2024-08-28 meeting ("Minutes from July 10, 2024, August 7, 2024…"); the 2024-08-14 agenda item reads "continued from July 10, 2024" |
+| 2025-04-16 (Study)        | 8228 | the **2025-04-23** PC public-hearing minutes (in-body "MET IN REGULAR SESSION ON WEDNESDAY, APRIL 23, 2025"; every page footer says April 23) | its minutes were approved at the 2025-05-14 meeting ("the Minutes of the Study Meeting held April 16, 2025, and the Public Hearing held April 23, 2025") |
+
+Both meetings HAPPENED — only their minutes are missing — so each is ledgered in
+`minutes_unrecovered.csv` rather than silently dropped, and `fetch_new.py`'s
+`WRONG_DOC_SLOTS` quarantine keeps a refresh from re-creating the phantoms.
+Removed with the phantoms: 10 motions / 37 `all_votes.csv` rows (26 + 11);
+the surviving 2024-04-10 and 2025-04-23 records are untouched.
+
 ---
+*Doc correction 2026-07-31: counts above re-measured after the duplicate-ingest
+removal (the 2026-07-02 audit paragraph about 658 "motioned/moved" statements
+describes the corpus as of that audit and is left as written).*
+
 *Doc correction 2026-07-02 (audit `_audits/2026-07-02/report.md`, Phase 1.8): the layout
 line claiming `raw/` holds the original PDFs was false — raw/ is empty (PDFs not
 retained); sources remain re-fetchable via `minutes_index.csv` `source_url`

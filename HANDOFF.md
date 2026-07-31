@@ -52,14 +52,22 @@ G3 DONE 2026-07-31 (MIT code / CC-BY-4.0 data / comment emails+phones redacted �
 across 87 files, `scripts/redact_comments.py`, GOTCHAS re-run rule / CF text ships
 verbatim per PRIVACY.md). ⚠ Next federation must precede any G9 release asset so
 comment/fts_comment carry the redacted text.
-G4 DONE 2026-07-31 (README/CLAUDE.md reconciled to the live db; schema doc regenerated as
-`gov_db_SCHEMA.md`; 5 closed plans → docs/history/; NEW `scripts/check_doc_numbers.py`
-asserts 13 headline numbers docs-vs-db — SHIP_GATE P3 now runnable and PASSING 13/13).
-Next: G5 (FTS: 935 excluded pmn_minutes + statute floor), G6 (quickstart + gov.db.gz
-release asset), G7 (atomic build + lockfile + auto-gate), G8 (three wrong-value data
-fixes: mag_mpo inverted outcome, mis-dated-meetings class, weber 2019-07-30), G9 (declare
-against SHIP_GATE.md → publish). Run check_doc_numbers.py after every federation — G5/G8
-rebuilds change fts/caveat counts, and the checker will name the doc lines to update.
+**G4–G8 ALL DONE 2026-07-31 — the PUBLISH GATE is complete through G8 and SHIP_GATE
+shows P1/P2/P3 ALL PASS at build 17:00:54.** G4 doc pass + check_doc_numbers (13
+assertions); G5 FTS fixes (823 recovered-PMN texts indexed; statute floor); G6 packaging
+(quickstart, examples 5/5, DATA_DICTIONARY, gov-sample.db, build_status registry column);
+G7 hardening (lockfile + atomic build + auto-gate, proven live); G8 data fixes — mag_mpo
+grammar (+14 motions, the inverted 2015-11-05 strike recovered), the date-collision class
+(17 verified pairs across 10 entities fixed by an owner-approved 10-agent wave; ~70
+phantom motions removed; ~10 vacated real meetings ledgered; detector now clean), weber
+loop-skip (+15 motions corpus-wide). Headline counts moved to 49,105/27,262/973/1,208
+motions · 180,979/38,589/0/27,887 votes · motion_std 77,340 · fts 14,696 — all docs
+reconciled.
+**REMAINING = G9 ONLY (owner's move):** declare against SHIP_GATE.md, cut the GitHub
+release (gzip gov.db → ~400 MiB asset + sha256), mint the Zenodo DOI, flip the repo
+public, link from municipalsky.com. Also owner residue: rotate the ANTHROPIC_API_KEY;
+enable secret scanning at public-flip. Run `check_doc_numbers.py` + the federation gate
+after ANY future rebuild (both are one command each; the build auto-runs the gate).
 
 ## Session rules that changed today
 

@@ -20,7 +20,7 @@ meeting date; `build_weeks.py` buckets every record onto that weekly grid. Elect
 **person + year** (at-large — no district key).
 
 ## How to analyze
-- **Motions / time-series**: `meeting_minutes/all_votes.csv` (1,180 rows / 989 motions). NOTE Nephi
+- **Motions / time-series**: `meeting_minutes/all_votes.csv` (1,170 rows / 979 motions). NOTE Nephi
   records votes as **narrative** ("passed unanimously") — only 51 motions name individual voters, so
   most rows are tally-only (`names_recorded:false`, mover/seconder present, no per-member Aye/Nay).
   Use the `result` + `mover`/`seconder` for most; per-member analysis is only possible on the 46
@@ -50,6 +50,12 @@ tie** (2 tie-breaks in the record). 4-year staggered terms. Meets 1st & 3rd Tues
   `meeting_minutes/minutes_unrecovered.csv`; agenda in `packets/`). Pre-floor CRA history (2016–2019) is
   enumerated but not promoted (its only live PMN attachment is a 2019 meeting-schedule doc; the 2017-12-19
   minutes doc is a 404/purge).
+- **2024-10-01 is an honest minutes GAP, not a missing meeting** (fixed 2026-07-31). The
+  AgendaCenter Minutes slot `_10012024-346` is a **city mis-upload** serving the **2024-09-17**
+  minutes verbatim; it had been ingested as a separate meeting, duplicating 10 motions. The
+  phantom 2024-10-01 meeting was removed and the real (agendized, later-approved) 2024-10-01
+  council meeting is ledgered in `meeting_minutes/minutes_unrecovered.csv` — no minutes document
+  exists on AgendaCenter or PMN. `fetch_new.py` skips that slot (`KNOWN_MISUPLOAD_URLS`).
 - **Elections**: at-large, no RCV. **2019 & 2021 are unofficial** (Juab's portal only goes back to
   2023; sourced from news archives) — winners solid, exact totals caveated. See `election_results/CLAUDE.md`.
 - **weeks/ is derived** — `python3 build_weeks.py`; never hand-edit.
@@ -67,8 +73,8 @@ tie** (2 tie-breaks in the record). 4-year staggered terms. Meets 1st & 3rd Tues
   - *Within-body core is EXACT*; project keys are **resolved from prose** (no file number exists in
     Nephi) and **body-scoped** — `0 applications span >1 body` by design. `motion.app_match_method` ∈
     `name`(medium, heuristic) / `singleton`(high) / `override`(high) tells you how solid each grouping
-    is. Build totals: **3 bodies · 24 persons · 268 meetings · 231 applications · 1,329 motions · 288
-    votes · 18 referrals** (motions: Council 988 · PC 340 · CRA 1).
+    is. Build totals: **3 bodies · 24 persons · 267 meetings · 229 applications · 1,319 motions · 288
+    votes · 18 referrals** (motions: Council 978 · PC 340 · CRA 1).
   - *Cross-body `referral` is RECONSTRUCTED + GENERALIZED* — **18 scored links (all medium / subject),
     all Council←PlanningCommission here** (the table also models Council←CRA / PC←CRA for cities with an
     agency; Nephi's single CRA action carries none). Keyed `(primary_application_id, primary_body,

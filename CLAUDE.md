@@ -98,7 +98,7 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   the db's `disposition-coverage` caveat rides every non-city motion_std row).
 - **Thematic / keyword questions** ("every mention of accessory dwelling units",
   "density bonus discussions"): the **FTS5 layer in `gov.db`** — `fts_minutes`
-  (full minutes text across cities + counties + MPOs, **14,713 docs** from 40 entities,
+  (full minutes text across cities + counties + MPOs, **14,696 docs** from 40 entities,
   incl. 823 recovered-PMN texts since 2026-07-31),
   `fts_motion`, `fts_comment`, `fts_ordinance`, `fts_packet`.
   Query with `MATCH`, filter by the stored `city`/`date` columns, use `snippet()` for
@@ -173,12 +173,12 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 
 - **Start with `gov.db`** (repo root; `cities.db` is a legacy symlink) for any
   cross-entity question: all built entities' standard tables unioned with `city` +
-  `gov_level` columns — **motions 49,172 city / 27,269 county / 959 regional / 1,208 state**;
-  **member-votes 181,119 city / 38,597 county / 0 regional / 27,887 state** (regional
+  `gov_level` columns — **motions 49,105 city / 27,262 county / 973 regional / 1,208 state**;
+  **member-votes 180,979 city / 38,589 county / 0 regional / 27,887 state** (regional
   minutes are tally-only, so the MPOs contribute projects + projections, not votes) —
   `motion_std` (the normalization layer — **now covers the CITY + COUNTY + REGIONAL
-  tiers, 77,400 rows joined to `motion` at 100%**: city 49,172 + county 27,269 +
-  regional 959, closing TODO High-priority item (j) on 2026-07-29). **The two paths are
+  tiers, 77,340 rows joined to `motion` at 100%**: city 49,105 + county 27,262 +
+  regional 973, closing TODO High-priority item (j) on 2026-07-29). **The two paths are
   built differently and that is a real distinction:** city rows are read from the on-disk
   `motions_std.csv` files; counties and MPOs publish no such file (no uniform flat-motion
   shape; mag_mpo has no flat motion CSV at all), so their rows are **COMPUTED AT

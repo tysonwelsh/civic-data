@@ -13,14 +13,14 @@ Verified 2026-07-12. `python3 scripts/validate_city.py holladay_city_council` = 
 
 | Dataset | Result | Notes |
 |---|---|---|
-| Council minutes + votes (Council/RDA/LBA) | **PASS** | 152 files, 702 motions, 2,475 rows; reconciles exactly |
+| Council minutes + votes (Council/RDA/LBA) | **PASS** | 152 files, 702 motions, 2,483 rows; reconciles exactly |
 | Planning Commission minutes + votes | **PASS** | 45 files, 167 motions, 610 rows; reconciles exactly |
 | Vote-value vocabulary | **PASS** | 0 `Yes`/`No` remain — all normalized to Aye/Nay per SCHEMA_SPEC §4 |
 | Relational db (`db/civic.db`) | **PASS** | 869 motions / 2,702 votes; the CSV−db delta of +10 is fully explained (§4) |
 | Elections | **PASS** | 34 races 2007–2025; 2021/2023/2025 winners cross-checked to outside sources (§6) |
 | Public comments | **PASS (honest-empty)** | submit-only city; header-only `all_comments_clean.csv` by design |
 | Geo | **PASS** | official 5-district polygon layer; City Hall → District 1 (§5) |
-| Weeks / derived | **PASS** | weekly vote sum 2,475 == flat total; not stale |
+| Weeks / derived | **PASS** | weekly vote sum 2,483 == flat total; not stale |
 
 ## 1. Row / motion / body reconciliation (both bodies)
 
@@ -28,11 +28,11 @@ Per-meeting `votes/**/*.json` expand to exactly the flat CSV rows:
 
 | Body | JSON files | Motions | Expanded rows | `all_votes.csv` rows | Match |
 |---|---|---|---|---|---|
-| meeting_minutes | 152 | 702 | 2,475 | 2,475 | ✅ |
+| meeting_minutes | 152 | 702 | 2,483 | 2,483 | ✅ |
 | planning_commission | 45 | 167 | 610 | 610 | ✅ |
 
 Motions by body (council CSV): **Council 678 · RDA 21 · LBA 3 = 702**; PC 167. This matches the
-`body` column tallies (Council 2,403 + RDA 60 + LBA 12 = 2,475 rows).
+`body` column tallies (Council 2,411 + RDA 60 + LBA 12 = 2,483 rows).
 
 **Index reconcile:** every `source` path in each `all_votes.csv` exists in that dataset's
 `minutes_index.csv` (0 missing). Council index = 152 paths (145 carry ≥1 motion; 7 informational

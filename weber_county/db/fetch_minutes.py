@@ -11,8 +11,18 @@ is complete alone, so we harvest their UNION:
 
 Floor: 2015-01-01 (the 2000-2014 depth is recorded in recon.md for a future backfill).
 DERIVED + idempotent — cached PDFs are reused; re-run to pick up new meetings.
+
+MIS-POSTED PORTAL FILE GUARD (2026-07-31): the county occasionally uploads the WRONG PDF
+under a date's filename — min_06012021.pdf is byte-for-byte the 2021-05-11 minutes. Ingesting
+it created a PHANTOM 2021-06-01 meeting that double-counted 13 motions / 39 votes. A date is
+rejected only on BOTH conditions: (1) its extracted text duplicates a date already harvested
+in this run, AND (2) the title-block date printed inside the document names that OTHER date.
+Both are required because a bare header/date mismatch is usually just a CLERK TYPO in a real
+document (2022-01-11 prints "January 18, 2022"; 2025-08-05 prints "August 4th, 2025") and
+those documents must be kept. A rejected date is written to minutes_unrecovered.csv — the
+meeting happened, its minutes are not published — never silently dropped.
 """
-import csv, os, re, sys, time, urllib.request, urllib.error, subprocess
+import csv, hashlib, os, re, sys, time, urllib.request, urllib.error, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 COUNTY = os.path.dirname(HERE)
@@ -47,6 +57,24 @@ def mmddyyyy_iso(f):  # "01062026" -> "2026-01-06"
 
 def dash_iso(d):  # "01-06-2026" -> "2026-01-06"
     return "%s-%s-%s" % (d[6:], d[0:2], d[3:5])
+
+
+MONTHS = {m.lower(): i + 1 for i, m in enumerate(
+    ["January", "February", "March", "April", "May", "June", "July", "August",
+     "September", "October", "November", "December"])}
+TITLE_DATE_RE = re.compile(
+    r"\b(January|February|March|April|May|June|July|August|September|October|"
+    r"November|December)\s+(\d{1,2})(?:st|nd|rd|th)?\s*,?\s*(\d{4})\b", re.I)
+
+
+def title_block_date(txt):
+    """ISO date printed in the minutes' own title block ("Tuesday, May 11, 2021"), or None
+    (image-only scans have no text layer until db/ocr_empty_minutes.py runs)."""
+    head = "\n".join([l for l in txt.split("\n") if l.strip()][:8])
+    m = TITLE_DATE_RE.search(head)
+    if not m:
+        return None
+    return "%04d-%02d-%02d" % (int(m.group(3)), MONTHS[m.group(1).lower()], int(m.group(2)))
 
 
 def build_index():
@@ -104,6 +132,7 @@ def main():
     print("meeting dates 2015+ (union):", len(index))
 
     rows, missing = [], []
+    seen_text = {}  # sha1(extracted text) -> iso already harvested with that exact text
     for iso in sorted(index):
         fn, src, url = index[iso]
         year = iso[:4]
@@ -131,6 +160,20 @@ def main():
         except Exception as e:  # noqa
             missing.append((iso, "pdftotext failed: %s" % e))
             continue
+
+        # MIS-POSTED PORTAL FILE: this date's PDF text duplicates a date already harvested
+        # AND the document's own title block names that other date -> the county uploaded the
+        # wrong file. The meeting still happened; its minutes are unrecovered (see docstring).
+        key = hashlib.sha1(txt.encode("utf-8", "replace")).hexdigest()
+        prior = seen_text.get(key)
+        tdate = title_block_date(txt)
+        if prior and prior != iso and tdate == prior:
+            missing.append((iso, "portal file %s is the %s minutes verbatim (county "
+                                 "mis-post) - this meeting's minutes are not published" %
+                            (fn, prior)))
+            print("  MIS-POST", iso, "->", fn, "is the", prior, "minutes; skipped")
+            continue
+        seen_text.setdefault(key, iso)
 
         # meeting type from the TITLE block only (real work-session docs print
         # "WORK SESSION OF THE / WEBER COUNTY COMMISSION" up top) — not prose mentions.

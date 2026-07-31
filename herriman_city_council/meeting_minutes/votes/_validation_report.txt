@@ -1,6 +1,6 @@
 Herriman — council vote validation report (shared validator, plan item 3.1)
 ============================================================================
-rows: 4335   motions: 1348   named-vote motions: 749   tally-only motions: 599
+rows: 4329   motions: 1346   named-vote motions: 748   tally-only motions: 598
 
 1. SCHEMA/DATES/VOCAB defects: 0
 
@@ -10,7 +10,7 @@ rows: 4335   motions: 1348   named-vote motions: 749   tally-only motions: 599
 
 4. ROSTER: roster.csv present (10 names); off-roster voters: 0
 
-5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 747/749 match (99.7%)
+5. TALLY vs COUNTED MEMBER ROWS (parsed tallies from motions_std.csv): 746/748 match (99.7%)
    known, hand-verified source quirks: 1
       2020-09-30 m1: stated 52:4 vs counted aye=3 nay=2 abstain=0 :: result='The motion failed with the lack of a super majority vote as required by Utah Code Annotated 52-4-204'  [KNOWN: not a tally: the result sentence cites Utah Code Annotated 52-4-204 (closed-session 2/3 supermajority requirement) and motions_std's tally regex reads '52-4' as 52:4; the named roll (3 Aye / 2 Nay, motion FAILED for lack of a supermajority) is verified against the PMN-recovered 2020-09-30 special work meeting minutes (promotion pass 2026-07-16)]
    UNEXPLAINED mismatches (hand-review; never auto-corrected): 1

@@ -232,3 +232,69 @@ Broadway-project-area pair — note the prior CLAUDE.md "6 links" claim was stal
 built db's 1). `validate_city.py`: **22 PASS / 4 WARN / 0 FAIL** (WARNs: documented
 provenance extension, pre-existing index column order, and the narrative-tally
 named-vs-tally ceiling).
+
+---
+
+## Addendum — 2026-07-31: four PHANTOM Planning Commission meetings de-ingested
+
+**Defect.** Utah PMN body 1559 attaches minutes to a notice in two distinct ways:
+`YYMMDD_MagnaPC_MinutesApproved.pdf` is the APPROVED minutes of **that notice's own**
+meeting, while `<Month> minutes.pdf` is the **DRAFT of the PREVIOUS meeting**, posted with
+this meeting's agenda packet because this meeting is the one that will approve it. Across
+all 112 minutes attachments on body 1559, exactly **four** notices carry no approved copy;
+on those four the original ingest fell back to the draft and stamped it with the notice
+date, manufacturing a duplicate of the previous meeting.
+
+| PHANTOM date (removed) | PMN file ingested | what the file actually is |
+|---|---|---|
+| 2023-08-10 | 1008935 `July minutes.pdf` | draft of **2023-07-13** |
+| 2023-10-12 | 1032545 `September minutes.pdf` | draft of **2023-09-14** |
+| 2024-08-08 | 1154441 `July minutes.pdf` | draft of **2024-07-11** |
+| 2025-10-16 | 1337021 `September minutes.pdf` | draft of **2025-09-11** |
+
+**Evidence (four independent lines, all four pairs).** (1) The in-body MSD header
+(`MAGNA PLANNING COMMISSION MEETING — Thursday, <true date>`) names the earlier meeting.
+(2) The correctly-dated twin carries the stamp `**Meeting minutes approved on <phantom
+date>**` — i.e. the phantom date is when the earlier meeting's minutes were APPROVED, not
+when the meeting happened; the draft copies lack that stamp. (3) PMN attachment filenames
+(above). (4) Later meetings' own minute-approval motions — 2023-11-09 m1 "To continue the
+October 12, 2023 ... minutes to the December meeting", 2024-09-12 m1 continuing approval of
+the August 8, 2024 minutes, 2023-09-14 m4 approving the August 10, 2023 minutes.
+
+**Delta — expected rows only.** motions **314 → 302** (−12: 4+4+2+2, each a verbatim
+duplicate of its twin's motions), all_votes rows **315 → 303**, named vote rows **19 → 18**
+(the one removed row, `2024-08-08 m1 VanRoosendaal Abstain`, is a duplicate of
+`2024-07-11 m1 VanRoosendaal Abstain`), indexed PC documents **80 → 76**, db meetings
+**252 → 248**, db motions **1,302 → 1,290**, db votes **175 → 174**, db applications
+**223 → 217** (six singleton apps keyed only to the phantom source files). **No motion,
+vote, or application unique to a real meeting was removed.** Referrals unchanged (3 medium).
+`weeks/` is byte-identical — Magna's weekly grid covers `meeting_minutes/` only.
+
+**Honest-gap handling.** All four vacated dates are **REAL meetings** (PMN notice + audio
+recording + agenda packet exist for each, and each was the meeting that approved its
+predecessor's minutes) whose **approved minutes PMN never published**. Four rows were added
+to `planning_commission/minutes_unrecovered.csv` (**59 → 63 rows**: the 57 township-era
+2017–2018 meetings + 2 from 2019 were already there; the 4 new rows are the first modern
+ones) with the notice URL and the specific evidence. The four retained PDFs live in
+`planning_commission/raw/_duplicate_drafts/` with a README — nothing was deleted.
+
+**Regression guard.** `planning_commission/validate_votes.py` now runs a DOCUMENT-DATE
+GUARD: every indexed minutes document's in-body MSD header month+day must equal its index
+date (year mismatches are WARN only — the MSD clerk typo'd the year on five 2023 documents).
+`--check-dates` makes a mismatch a non-zero exit. Current state: **fails=0, warns=5**.
+
+**Also regenerated.** `planning_commission/roster.csv` — its `last_seen` values for Elieson
+and VanRoosendaal pointed at the phantom dates. It had no build script (hand-written, not
+reproducible), so it is now produced by the documented `planning_commission/build_roster.py`
+(attendance-block seat/presence + narrative motion action). Elieson last_seen
+2023-08-10 → **2023-09-14** (seated but marked absent that night), VanRoosendaal
+2024-08-08 → **2024-07-11**; counts shift because the rule is now explicit.
+
+**Post-fix validator:** `python3 scripts/validate_entity.py magna` = **22 PASS / 4 WARN /
+0 FAIL** (same four pre-existing WARNs), plus the expected `gov.db is STALE` federation
+notice — re-federation is the wave coordinator's step, not this entity's.
+
+**Not a duplicate (checked, left alone).** A repo-wide same-signature scan of magna's db
+now returns one pair above 0.90: CRA **2025-02-11 ↔ 2025-04-08** (0.936). Both are genuine,
+distinct meetings — each from its own `*- APPROVED.pdf`, each self-referencing its own date;
+the similarity is the two-motion CRA template (approve prior minutes / adjourn).

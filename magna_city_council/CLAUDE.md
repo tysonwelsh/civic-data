@@ -58,9 +58,20 @@ VERIFICATION.md       independent QA + external election cross-check (REQUIRED)
    covers **2022+**; **Utah PMN body 5803** covers the township years **2018–2021**.
    **⚠ Fetch PMN files from `www.utah.gov/pmn/files/<id>.pdf`** — the `pmn.utah.gov` host
    302-redirects to the PMN home HTML.
-4. **MSD-staffed Planning Commission.** Magna runs its **own** PC (records on **PMN body 1559**),
-   staffed by Greater Salt Lake MSD planners; it recommends on Magna land use (rezones keyed
-   `REZ####-######`, subdivision plats, conditional uses, text amendments) up to the Council.
+4. **MSD-staffed Planning Commission — and the PMN DRAFT-COPY TRAP.** Magna runs its **own** PC
+   (records on **PMN body 1559**), staffed by Greater Salt Lake MSD planners; it recommends on
+   Magna land use (rezones keyed `REZ####-######`, subdivision plats, conditional uses, text
+   amendments) up to the Council. **⚠ A PMN notice carries minutes in two roles:**
+   `YYMMDD_MagnaPC_MinutesApproved.pdf` is that notice's OWN meeting (ingest under the notice
+   date); `<Month> minutes.pdf` is the **DRAFT of the PREVIOUS meeting**, posted with this
+   meeting's agenda because this meeting will approve it (its true date is one meeting earlier).
+   Ingesting the second kind under the notice date manufactures a **phantom meeting**. That is
+   what produced `2023-08-10` / `2023-10-12` / `2024-08-08` / `2025-10-16` — **de-ingested
+   2026-07-31** (12 duplicate motions removed; PC 314 → **302** motions, 80 → **76** documents).
+   The retained PDFs are in `planning_commission/raw/_duplicate_drafts/`; all four vacated dates
+   are REAL meetings whose approved minutes PMN never published and are now in
+   `planning_commission/minutes_unrecovered.csv`. Guard:
+   `python3 planning_commission/validate_votes.py --check-dates`.
 5. **Mild PMN-era garble + an OCR seam.** The 2018–2023 PMN PDFs carry systematic
    character-substitution garble (`quonrm`→quorum, `Hoffrnan`→Hoffman) normalized during
    extraction; **21** Apr–Dec-2024 / early-2025 council minutes are signed image scans **OCR'd**
@@ -119,6 +130,11 @@ written comments. Treat as a legitimate honest zero — see `public_comments/AVA
 - **2017 + Jan–Jun 2018 council minutes (36 meetings) are 404-unrecoverable** on PMN → council
   votes start **2018-07-17**. **PC 2017–2018 (57 meetings) are agenda/audio only** → PC votes
   start **2019-03-14**. Both logged in the respective `minutes_unrecovered.csv`, never stubbed.
+- **PC coverage after the 2026-07-31 phantom removal:** **76 documents / 302 motions / 303
+  all_votes rows (18 named)**; `db/civic.db` = 1,290 motions · 174 votes · 248 meetings ·
+  3 medium referrals. Four dates that used to appear as PC meetings (2023-08-10, 2023-10-12,
+  2024-08-08, 2025-10-16) are now honest gaps, not meetings — see item 4 above. Note the PC's
+  modern gap ledger is only partial (other post-2018 no-minutes dates are not yet logged).
 - **Board-of-Canvassers certification motions are deliberately excluded** from the vote datasets
   (a distinct statutory body — the council sitting as canvassers to certify an election — not a
   legislative vote). This is why some indexed canvass/work-session files carry 0 motions.

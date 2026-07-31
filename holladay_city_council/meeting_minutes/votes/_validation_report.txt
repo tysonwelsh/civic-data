@@ -1,26 +1,26 @@
 HOLLADAY Council — VOTE VALIDATION REPORT
 ================================================================
 Meetings (json):        152
-Motions:                702  (named 400, tally-only/consent 302)
-JSON vote rows:         2475
-all_votes.csv rows:     2475   reconcile: OK
+Motions:                702  (named 402, tally-only/consent 300)
+JSON vote rows:         2483
+all_votes.csv rows:     2483   reconcile: OK
 Per-body motions:       {'Council': 678, 'RDA': 21, 'LBA': 3}
 Motion types:           {'Procedural': 343, 'Resolution': 186, 'Ordinance': 132, 'Other': 36, 'Land-Use/Zoning': 3, 'Appointment': 1, 'Contract/Agreement': 1}
-Mayor vote rows:        365
+Mayor vote rows:        367
 >6-voter parse flags: 0
 Named-roll size !=5/6:  36 (informational)
-Contested motions:      6
+Contested motions:      7
 
 RESULT: PASS
 
 -- Observed roster (member: first..last, rows) --
    Quinn          2020-01-09..2026-04-16  rows=390
-   Fotheringham   2020-01-09..2026-04-16  rows=384  [MAYOR]
-   Durham         2020-01-09..2026-04-16  rows=366
-   Dahle          2020-01-09..2025-12-18  rows=358  [MAYOR]
+   Fotheringham   2020-01-09..2026-04-16  rows=386  [MAYOR]
+   Durham         2020-01-09..2026-04-16  rows=368
+   Dahle          2020-01-09..2025-12-18  rows=360  [MAYOR]
    Gibbons        2020-01-09..2024-12-12  rows=236
-   Brewer         2022-01-20..2025-12-18  rows=176
-   Gray           2024-01-04..2026-04-16  rows=131
+   Brewer         2022-01-20..2025-12-18  rows=178
+   Gray           2024-01-04..2026-04-16  rows=133
    Petersen       2020-01-09..2021-12-16  rows=104
    Bradley        2026-01-08..2026-04-16  rows=14
    Sundwall       2026-01-08..2026-04-16  rows=14
@@ -31,11 +31,12 @@ RESULT: PASS
    2022: Fotheringham(57), Quinn(57), Dahle(57), Durham(52), Gibbons(49), Brewer(45)
    2023: Quinn(53), Gibbons(49), Fotheringham(48), Durham(47), Dahle(46), Brewer(30)
    2024: Quinn(74), Fotheringham(74), Durham(72), Dahle(69), Gray(57), Brewer(55), Gibbons(4)
-   2025: Quinn(63), Fotheringham(61), Gray(60), Durham(59), Dahle(55), Brewer(46)
+   2025: Fotheringham(63), Quinn(63), Gray(62), Durham(61), Dahle(57), Brewer(48)
    2026: Gray(14), Bradley(14), Durham(14), Sundwall(14), Fotheringham(14), Quinn(12)
 
--- Contested motions (6) --
+-- Contested motions (7) --
    2025-08-28 [Council] m1 | The motion passed unanimously. | Gray=Aye Quinn=Aye Fotheringham=Recuse Durham=Aye Brewer=Aye Dahle=Aye :: DENY the Appeal of Christian and Amanda Hansen for the Subdi
+   2025-05-01 [Council] m1 | The motion passed with a vote of 4-to-1. | Brewer=Aye Durham=Aye Fotheringham=Nay Gray=Aye Dahle=Aye :: APPROVE Ordinance 2025-06 - Restricting the Use of Personal 
    2025-03-06 [Council] m1 | The motion failed with a unanimous vote. | Brewer=Nay Durham=Nay Fotheringham=Nay Quinn=Nay Gray=Nay Dahle=Nay :: APPROVE Ordinance 2025-01- Amending Title 13.02.030 of the C
    2024-10-24 [Council] m1 | The motion FAILED with a vote of 5-to-0. | Gray=Nay Quinn=Nay Fotheringham=Nay Durham=Nay Dahle=Nay :: APPROVE Ordinance 2024-16 - Amending Title 13 of the City Co
    2024-04-25 [Council] m3 | Ordinance 2024-06 was adopted by a 5-to-1 vot | Brewer=Aye Durham=Aye Fotheringham=Nay Quinn=Aye Gray=Aye Dahle=Aye :: ADOPT Ordinance 2024-06 - Restricting the Use of Personal Fi
@@ -80,7 +81,7 @@ RESULT: PASS
    2020-05-07 [Council] m8 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
    2020-06-18 [Council] m9 roll=4 [('Dahle', 'Aye'), ('Durham', 'Aye'), ('Quinn', 'Aye'), ('Gibbons', 'Aye')] :: adjourn the Closed Session
 
--- Mayor vote rows (sample 20 of 365) --
+-- Mayor vote rows (sample 20 of 367) --
    2022-08-18 Dahle=Aye m1
    2022-08-18 Dahle=Aye m2
    2022-04-21 Dahle=Aye m1

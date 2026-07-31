@@ -1,12 +1,12 @@
 Magna Planning Commission — vote extraction validation report
 ==========================================================================
-Meeting JSONs             : 80
-Meetings with >= 1 motion : 80
-Motions extracted         : 314   (Land-Use/Zoning: 155)
+Meeting JSONs             : 76
+Meetings with >= 1 motion : 76
+Motions extracted         : 302   (Land-Use/Zoning: 147)
 
 Motion-type distribution:
-   Land-Use/Zoning              155
-   Procedural/Administrative    82
+   Land-Use/Zoning              147
+   Procedural/Administrative    78
    Other                        75
    Ordinance                    2
 
@@ -34,7 +34,7 @@ motions are tally-only 'unanimous in favor', majority unnamed by source).
    VanRoosendaal      1
 
 2024:
-   VanRoosendaal      3
+   VanRoosendaal      2
 
 2025:
    Cripps             1
@@ -43,7 +43,7 @@ motions are tally-only 'unanimous in favor', majority unnamed by source).
    Weight             1
 
 --------------------------------------------------------------------------
-CONTESTED VOTES (named Nay/Abstain) — the signal: 18
+CONTESTED VOTES (named Nay/Abstain) — the signal: 17
 --------------------------------------------------------------------------
    2022-09-08 m1 Pass (dissent: VanRoosendaal) | NAY=[] ABSTAIN=['VanRoosendaal'] :: To approve the August 11, 2022 Planning Commission Meeting minutes as prese
    2022-10-13 m4 Pass (dissent: Cripps) | NAY=['Cripps'] ABSTAIN=[] :: To approve application #CUP2022-000633 Richard Bardauskas requesting a cond
@@ -51,7 +51,6 @@ CONTESTED VOTES (named Nay/Abstain) — the signal: 18
    2025-08-14 m3 Pass (dissent: Cripps) | NAY=['Cripps'] ABSTAIN=[] :: To recommend application #CUP2025-001379 Development Agreement – Cingular W
    2024-05-09 m5 Pass (dissent: VanRoosendaal) | NAY=[] ABSTAIN=['VanRoosendaal'] :: To approve the April 11, 2024 Planning Commission Meeting minutes
    2024-07-11 m1 Pass (dissent: VanRoosendaal) | NAY=[] ABSTAIN=['VanRoosendaal'] :: To approve the June 13, 2024 Planning Commission Meeting minutes
-   2024-08-08 m1 Pass (dissent: VanRoosendaal) | NAY=[] ABSTAIN=['VanRoosendaal'] :: To approve the June 13, 2024 Planning Commission Meeting minutes
    2023-06-08 m2 Pass (dissent: VanRoosendaal) | NAY=['VanRoosendaal'] ABSTAIN=[] :: To continue application #SUB2023-000853 Mike Kessler is requesting a 4-lot 
    2026-03-12 m3 Pass (dissent: Weight) | NAY=[] ABSTAIN=['Weight'] :: To approve application number #SUB2026-001573 Ivory Homes requests prelimin
    2019-03-14 m1 Pass (dissent: Sudbury) | NAY=['Sudbury'] ABSTAIN=[] :: To recommend application #30878 for approval to the Magna Metro Township Co
@@ -63,3 +62,14 @@ CONTESTED VOTES (named Nay/Abstain) — the signal: 18
    2020-07-09 m4 Pass (dissent: Richards) | NAY=['Richards'] ABSTAIN=[] :: To approve application #31183 with staff recommendations and add a solid ba
    2020-07-09 m6 Pass (dissent: Weight) | NAY=['Weight'] ABSTAIN=[] :: To return to application #31183
    2020-07-09 m9 Pass (dissent: Weight) | NAY=[] ABSTAIN=['Weight'] :: To recommend the Amendment to Overpressure Ordinance to the Magna Metro Tow
+
+--------------------------------------------------------------------------
+DOCUMENT-DATE GUARD (in-body MSD header date vs index date; catches the PMN
+'<Month> minutes.pdf' draft-copy trap that manufactures phantom meetings)
+--------------------------------------------------------------------------
+   FAIL: 0    WARN: 5
+   WARN 2023-02-09: in-body year 2022 != index year 2023 (known MSD clerk year-typo era) [minutes/2023/2023-02-09_planningcommission_953470.md]
+   WARN 2023-04-13: in-body year 2022 != index year 2023 (known MSD clerk year-typo era) [minutes/2023/2023-04-13_planningcommission_977417.md]
+   WARN 2023-05-11: in-body year 2022 != index year 2023 (known MSD clerk year-typo era) [minutes/2023/2023-05-11_planningcommission_987577.md]
+   WARN 2023-06-08: in-body year 2022 != index year 2023 (known MSD clerk year-typo era) [minutes/2023/2023-06-08_planningcommission_999592.md]
+   WARN 2023-07-13: in-body year 2022 != index year 2023 (known MSD clerk year-typo era) [minutes/2023/2023-07-13_planningcommission_1010401.md]

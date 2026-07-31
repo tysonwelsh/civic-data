@@ -7,17 +7,17 @@ roster, elections, campaign-finance, regional-project, and projection layers, an
 
 Renamed from `cities.db` on 2026-07-20 (a `cities.db` symlink remains; the builder is
 still `python3 scripts/build_cities_db.py`). **DERIVED — regenerated, never hand-edited.**
-Counts below are from the build of **2026-07-31T14:30:48** and are reprinted by every
+Counts below are from the build of **2026-07-31T17:00:54** and are reprinted by every
 build; re-verify any number against the live db (`build_info` table) or with
 `python3 scripts/check_doc_numbers.py`. Query read-only:
 `sqlite3 "file:gov.db?mode=ro"`.
 
 ## What's in it / what's not
 
-IN: 41 built entities' vote spine (**motion 78,608** — city 49,172 / county 27,269 /
-regional 959 / state 1,208; **vote 247,603** member-vote rows — city 181,119 / county
-38,597 / regional 0 (tally-only by source) / state 27,887), the normalization layer
-(**motion_std 77,400**), elections (**election_race 680** audited races +
+IN: 41 built entities' vote spine (**motion 78,548** — city 49,105 / county 27,262 /
+regional 973 / state 1,208; **vote 247,455** member-vote rows — city 180,979 / county
+38,589 / regional 0 (tally-only by source) / state 27,887), the normalization layer
+(**motion_std 77,340**), elections (**election_race 680** audited races +
 **election_result 5,482** SLCo SOVC tallies), campaign finance (**cf_contribution
 19,685** / cf_expenditure 15,750 / cf_filing 1,889 / **cf_cycle 805** — the only
 sanctioned per-candidate totals), comments (**14,202**), ordinances (**7,550**, 5,480
@@ -51,14 +51,14 @@ Every entity's integer ids are offset by a per-entity `fed_index` band at federa
 | `entity_relationship` | 81 | entity_a, relation, entity_b (the geography graph) |
 | `body` | 154 | name, kind (council / PlanningCommission / RDA / …) |
 | `person` | 1,664 | full_name, name_key — ⚠ state legislators are a DISJOINT population |
-| `meeting` | 12,592 | body_id, meeting_date, title, source_file |
-| `motion` | 78,608 | motion_text, motion_type + result_raw (VERBATIM), outcome, stage, recommendation, disposition (+method/confidence), application_id, mover/seconder, names_recorded, source_file, provenance |
-| `vote` | 247,603 | motion_id, person_id, vote_value (verbatim vocabulary — see `vote_values`), note |
-| `application` | 20,548 | app_key, name, rep_title — ⚠ includes ut_state's 264 bills (app_key `bill:…`) pending the state-tier reintegration; filter `gov_level` |
-| `referral` | 1,837 | reconstructed PC→Council links, confidence-scored; `low` = don't quote |
+| `meeting` | 12,574 | body_id, meeting_date, title, source_file |
+| `motion` | 78,548 | motion_text, motion_type + result_raw (VERBATIM), outcome, stage, recommendation, disposition (+method/confidence), application_id, mover/seconder, names_recorded, source_file, provenance |
+| `vote` | 247,455 | motion_id, person_id, vote_value (verbatim vocabulary — see `vote_values`), note |
+| `application` | 20,533 | app_key, name, rep_title — ⚠ includes ut_state's 264 bills (app_key `bill:…`) pending the state-tier reintegration; filter `gov_level` |
+| `referral` | 1,836 | reconstructed PC→Council links, confidence-scored; `low` = don't quote |
 | `role` | 2,195 | person × body service spans derived from votes |
 
-**Normalization**: `motion_std` 77,400 (city rows read from each city's
+**Normalization**: `motion_std` 77,340 (city rows read from each city's
 `motions_std.csv`; county/regional rows COMPUTED AT FEDERATION with the same classifier —
 their 100% join rate is definitional, and `dataset` there is body-derived:
 `land_use` = planning commission(s), `legislative` = everything else). Plus
@@ -75,7 +75,7 @@ candidate×contest tallies 2007–2025; `rank_in_contest` is plurality order).
 city/state only — never street addresses. Coverage: 29 of 31 cities (see the
 `cf-coverage` caveat; slc portal-blocked, draper unstructured).
 
-**Documents & text**: `document` 54,702 (doc_type × dataset catalog with
+**Documents & text**: `document` 54,686 (doc_type × dataset catalog with
 has_text/text_path) · `ordinance` 7,550 (`motion_resolution='unique'` rows carry a
 quotable enacting-motion link; 321 ambiguous — never forced) · `comment` 14,202
 (published comment layers are email/phone-redacted per PRIVACY.md).
@@ -96,7 +96,7 @@ join rates — the numeric source of truth).
 
 ## Search layer (FTS5)
 
-`fts_minutes` 14,713 docs (40 entities — incl. 823 recovered-PMN texts and 523 ut_state
+`fts_minutes` 14,696 docs (40 entities — incl. 823 recovered-PMN texts and 523 ut_state
 rows: 305 advisory opinions + 218 LUDMA statute sections) · `fts_motion` · `fts_comment` ·
 `fts_ordinance` 7,550 · `fts_packet` 13,725. Query with `MATCH`, filter the stored
 `city`/`date` columns, pull passages with `snippet()`.

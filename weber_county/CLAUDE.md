@@ -22,11 +22,13 @@ as **modules**, not big cities — only the modules that fit are built. Each mod
   Commission is both legislative and executive; agencies (RDA, etc.) convene in-session as
   the same Commission. County Clerk/Auditor (Ricky Hatch) takes the minutes.
 
-## Bodies in the db — totals: 4,404 motions / 12,585 votes / 7 persons (2015-01-06 .. 2026-04-14)
+## Bodies in the db — totals: 4,406 motions / 12,577 votes / 7 persons (2015-01-06 .. 2026-04-14)
 
-- **Board of Commissioners** — the regular meeting body: **4,404 motions / 12,585 votes**,
-  **99.6% named** (4,387/4,404 carry a named roll call). Outcomes: 4,225 Pass, 2 Fail, 15
-  no-result-printed (`outcome=''`). **76 contested** motions (≥1 Nay/Abstain/Recuse).
+- **Board of Commissioners** — the regular meeting body: **4,406 motions / 12,577 votes**
+  across **532 meetings**, **99.5% named** (4,385/4,406 carry a named roll call). Outcomes:
+  4,383 Pass, 2 Fail, 21 no-result-printed (`outcome=''`). **81 contested** motions (≥1
+  Nay/Abstain/Recuse). (Totals restated 2026-07-31 — see the repair note at the bottom:
+  the phantom 2021-06-01 meeting was removed and 15 swallowed motions recovered.)
 - **Board of Commissioners Work Session** — 3 posted work sessions in the floor (2016-07-06,
   2016-07-13, 2018-10-10), all discussion-only (**0 motions**); kept as a distinct body so
   the meeting-type distinction is preserved. Detection is **title-block-only** (regular
@@ -42,9 +44,10 @@ aye; Commissioner Harvey – aye; Commissioner Bolos – aye"); `outcome` (Pass/
 from the aye/nay tally (there is no separate "carried 3-0" result string). Two roll-call
 grammars are handled: (a) the modern single semicolon-separated dash-joined line, and (b) an
 EARLY-ERA (mostly 2015–2017) `Roll Call Vote:` header + one dot-leader member line each.
-**`names_recorded=0` = an honest recording ceiling** (source printed no roll call) — **15
-motions (0.35%)**: a lost-for-lack-of-second motion, a recess motion, a source-malformed
-roll, and stacked organizational motions sharing one roll call. Never fabricated.
+**`names_recorded=0` = an honest recording ceiling** (source printed no roll call) — **21
+motions (0.48%)**: lost-for-lack-of-second motions, a recess motion, source-malformed rolls
+(e.g. 2015-07-14 prints "Commissioner Ebert; Chair Gibson – aye" — one member, no value),
+and stacked organizational motions sharing one roll call. Never fabricated.
 
 - **Data floor 2015-01-01.** The county's own born-digital archive reaches back to **2000**
   (~690 additional meetings, same named grammar) — a high-value backfill logged in `recon.md`,
@@ -67,13 +70,14 @@ not by editing staging.
 ## Modules
 
 ```
-legislative/  Commission minutes markdown (533 docs, 2015+) + minutes_index.csv (UNION of
-              two portal indexes). minutes_unrecovered.csv = none within floor — TRUE again
-              as of 2026-07-26: 21 docs had been front-matter-only Konica copier scans with
-              no OCR fallback (see the repair note below).
+legislative/  Commission minutes markdown (532 docs, 2015+) + minutes_index.csv (UNION of
+              two portal indexes). minutes_unrecovered.csv = ONE row (2021-06-01, the county
+              mis-post — see the 2026-07-31 repair note); the 2026-07-26 note that it was
+              empty held until then. (21 docs had been front-matter-only Konica copier scans
+              with no OCR fallback — closed 2026-07-26, see the repair note below.)
 db/           extract_votes.py (prose → staging/), build_db.py (→ weber_county.db, the
               STANDARD 8-table schema; federates unchanged). DERIVED — rerun in that order.
-              staging/motion_refs.csv = 1,148 motion-anchored instrument refs (feeds ordinances/).
+              staging/motion_refs.csv = 1,147 motion-anchored instrument refs (feeds ordinances/).
               ocr_empty_minutes.py = the 2026-07-26 image-only-scan OCR backfill.
 land_use/     County planning corpus — FTS-ONLY (166 minutes, 4 bodies). NO vote layer (by
               scope). See the consolidation seam below.
@@ -88,24 +92,25 @@ gis/          CATALOG ONLY (link, never mirror) — 8 UGRC/county ArcGIS layers 
 ## Which artifact for which question
 
 - **County vote record / contested actions / a commissioner's record:** `gov.db`
-  `motion`/`vote` where `city='weber_county'`; `v_contested_all` (76 contested),
-  `v_member_record_all`. NAMED roll call on 99.6% of motions.
+  `motion`/`vote` where `city='weber_county'`; `v_contested_all` (81 contested),
+  `v_member_record_all`. NAMED roll call on 99.5% of motions.
 - **Adopted ordinances + who enacted them:** the **`ordinances/` register** — the
   adopted-ordinance / resolution table Weber never published, derived from the named-roll
   minutes (`ordinances/build_adopted_instruments.py`). `adopted_instruments.csv` is the full
-  working register (**844 rows — 277 ordinances + 567 resolutions**, one per distinct
+  working register (**845 rows — 277 ordinances + 568 resolutions**, one per distinct
   instrument, each citing its minutes). `index.csv` is the **ordinance-class subset (277
   rows)** in the federation loader's schema (direct county-db `motion_id`) → `cities.db`
-  `ordinance` **with enacting-vote linkage**: **247/277 (89.2%)** carry a unique link; **30
+  `ordinance` **with enacting-vote linkage**: **248/277 (89.5%)** carry a unique link; **29
   ambiguous/unlinked** (same-date/same-stage ties, or an ordinance number matched from a
   nearby header) are honestly `unlinked` (blank motion_id, `prior_readings` recorded).
   ⚠ **Was 198/277 before 2026-07-29**: procedural motions (adjourn / recess / reconvene)
   were competing as "adopting" motions, because a number read off an ALL-CAPS section
   header anchors to whichever motion follows it. Excluding them recovered 50 correct links
   and turned **ordinance 2019-13** from a WRONG link (it pointed at "moved to adjourn the
-  public meeting and reconvene the public hearing") into an honest `unlinked` — its real
-  adopting motion is in the 2019-07-30 minutes but was never extracted (an `extract_votes.py`
-  gap, logged in `ordinances/README.md`). Resolutions
+  public meeting and reconvene the public hearing") into an honest `unlinked`. **2019-13 is
+  now correctly linked (2026-07-31)** — its real adopting motion (Solar Overlay Zone, Little
+  Mountain Solar) was being swallowed by the `extract_votes.py` skip bug fixed that day; the
+  ordinances/README.md note about it is superseded. Resolutions
   stay register-only. `code_sources.csv` = the dual-codification code catalog (Municode +
   Municipal Code Online); `case_keys.csv` = 169 PC/BOA land-use case keys (a DIFFERENT
   numbering from Commission ordinances — join is a future task).
@@ -177,9 +182,55 @@ stay suppressed (`suppressed=True, votes=''`). Module `elections/CLAUDE.md` is a
   Chair Froerer – aye"). The CSV keeps them verbatim; the build now prints every collision.
   db vote = 12,585 vs CSV 12,594 — the 9-row difference is expected and itemized on build.
 
+## 2026-07-31 repairs (G8 duplicate-ingest / collision wave)
+
+- **PHANTOM 2021-06-01 meeting REMOVED (13 motions / 39 votes were double-counted).** The
+  portal file `min_06012021.pdf` **is the 2021-05-11 minutes verbatim** — identical body text,
+  title block "Tuesday, May 11, 2021", same PDF page count/size — on **both** portal channels
+  (`commission_meetings.php` and archive `minute_id=1118`), re-verified live 2026-07-31 (no
+  `_1`/`_2` revision exists). Ingesting it created a second copy of the May 11 meeting under a
+  June 1 date. The markdown + its `minutes_index.csv` row are gone. **The June 1, 2021 meeting
+  really happened** (2021-06-15 consent: "Minutes for the meetings held on May 25 and June 1,
+  2021"), so it is now the single row in `legislative/minutes_unrecovered.csv` — an honest
+  gap, not silence. Downstream: ordinances **2021-13 / 2021-14 / 2021-15** were dated to the
+  phantom with a bogus "prior reading" on 2021-05-11 (the same meeting, twice); they now
+  correctly show **adoption_date 2021-05-11, one reading**.
+- **`db/fetch_minutes.py` guard so a refresh cannot re-create it.** A date is rejected only
+  when its extracted text **duplicates a date already harvested in the same run** AND the
+  document's own **title-block date names that other date**. Both conditions are required:
+  a bare header/date mismatch is usually a CLERK TYPO in a real document (`2022-01-11` prints
+  "January 18, 2022"; `2025-08-05` prints "August 4th, 2025") and those must be kept. Replayed
+  over all 533 cached raws the guard rejects exactly one date (2021-06-01) and writes it to
+  `minutes_unrecovered.csv`.
+- **`db/extract_votes.py` skip bug FIXED — 15 real motions / 31 votes recovered.** When the
+  roll-call scan stopped at the NEXT motion (i.e. this motion had no roll call), the loop
+  resumed at `j + 1` and **stepped over that next motion entirely**. Any motion printed
+  directly under a retracted / lost-for-lack-of-second / unvoted motion was silently lost.
+  Recovered, each verified against the minutes: **2019-07-30 Ordinance 2019-13** (the Solar
+  Overlay Zone / Little Mountain Solar adoption — the G8 target; now uniquely linked in
+  `ordinances/index.csv`, motion_resolution `unique`, confidence `high`), **2021-11-16
+  Resolution 49-2021** (2-1, Jenkins "no" — the register had been showing the failed
+  "approve Chris Davis; no second" motion as its title), **2022-11-15** (Harvey **recused**),
+  **2025-12-16** (Harvey **nay**), **2015-07-21 Resolution 33-2015** (register 844 → 845),
+  and 10 more. Contested motions **76 → 81**; totals **4,404 → 4,406 motions / 12,585 →
+  12,577 db votes** (−13 phantom, +15 recovered; votes −39 phantom, +31 recovered, −9 the
+  documented duplicate-roll drops).
+- **2025-07-29 ↔ 2025-08-12 examined and left ALONE — both meetings are REAL.** Their motion
+  sets are identical because the **clerk copy-pasted** the July 29 consent + budget-hearing
+  block into the August 12 document, not because of a duplicate ingest: the two PDFs are
+  distinct files with distinct title-block dates and distinct opening sections (July 29 has
+  the Winning In Weber awards; August 12 has "there are municipality elections today" — Utah's
+  2025 municipal primary was Aug 12). The duplicated block belongs to **July 29**: its
+  warrants #105543-105605 sit immediately before 2025-08-05's #105606-105656, and Resolution
+  33-2025 falls between 31-2025 (7/15) and 35-2025 (8/5). The county's own rev-0 and rev-2
+  Aug 12 PDFs both carry the block, so this is a **source-fidelity defect, retained
+  verbatim** (cardinal rule 2). ⚠ Consequence to respect: **Resolution 33-2025 appears as two
+  adopting motions**, and Aug 12's real consent items/warrants (≈#105657-105718) were never
+  printed. The same clerk habit shows at 2025-07-08/07-15 and 2025-08-19/08-26.
+
 ## Honest gaps (not fabricated)
 
-- **Land-use votes are out of scope** (FTS-only), not missing. 15 Commission motions are
+- **Land-use votes are out of scope** (FTS-only), not missing. 21 Commission motions are
   `names_recorded=0` (genuine recording ceilings). Joint **Weber+Davis** boundary meetings
   (2020-10-14, 2023-08-01) print both boards' roll calls — visiting Davis commissioners
   (Kamalu/Stevenson) are excluded via the extractor's `VISITING` set and never become Weber
@@ -188,6 +239,18 @@ stay suppressed (`suppressed=True, votes=''`). Module `elections/CLAUDE.md` is a
   (OVPC ~29 / WWPC ~43 / BOA ~28) are logged, not ingested (no deliberative record). Three
   portal source mis-links are recorded in `land_use/gaps.csv` (mislinked copies dropped).
 - **2000–2014 Commission history** is a logged future backfill (~690 meetings), not a gap.
+- ⚠ **OPEN QUESTION (flagged 2026-07-31, NOT acted on): is `2022-01-11` really January 18?**
+  The portal file `min_01112022.pdf` prints "**Tuesday, January 18, 2022**" in its title block,
+  and the county lists **no 01-18-2022 meeting at all** (absent from both indexes;
+  `min_01182022.pdf` 404s). Evidence it is a real Jan 11 meeting with a clerk header typo:
+  its warrants (#4935-4969) continue directly from Jan 4's (#4910-4934), and it approves
+  "Minutes for the meeting held on January 4th, 2022". Evidence it is really the Jan 18
+  meeting misfiled under a Jan 11 name: it carries **two** warrant batches (the catch-up
+  pattern Weber uses after a skipped week), **nothing in the corpus ever approves "January 11,
+  2022" minutes**, and **2022-02-15 approves "the meeting held on January 18, 2022"**. Both
+  readings are live; resolving it needs an agenda/PMN notice for January 11 vs 18, 2022. Two
+  other header/date mismatches were checked and ARE plain clerk typos in real documents
+  (`2025-08-05` prints "August 4th, 2025"; the mis-post guard deliberately keeps both).
 - **MIH** — Weber publishes no standalone Moderate-Income Housing plan; MIH lives as chapters
   inside the two General Plans (search the `plans/text/` sidecars).
 

@@ -62,6 +62,17 @@ _audits/              graded audit reports (audit-city-data skill)
    gaps in each `minutes_unrecovered.csv`, GRAMA-only. A few minutes are **.docx**
    (1 council + 1 PC). **The corpus is born-digital — no OCR seam.**
 
+5. **Two removed duplicate ingests (the `_removed_duplicates/` ledger).** `2024-01-02` (oath-of-office
+   vs work-session double-listing) and, added **2026-07-31**, **`2025-05-06`** — the portal's May 6,
+   2025 row links Minutes doc **9961**, which IS the **May 20, 2025** minutes (byte-identical to doc
+   10171; in-body "HELD TUESDAY, MAY 20, 2025"; still mis-uploaded as of 2026-07-31), so the same
+   meeting had been ingested under both dates (**7 motions / 23 vote rows double-counted**). The
+   phantom index row + markdown + vote JSON were removed; the markdown sits in `_removed_duplicates/`
+   so `fetch_new.py --ingest` can never re-add it. **The May 6, 2025 meeting is real** (Agenda doc
+   9809; Ord 438 adopted that night; the May 20 minutes approve the "Meetings of May 6, 2025") — its
+   minutes are now an honest row in `meeting_minutes/minutes_unrecovered.csv`. ⚠ If the city ever
+   reposts the correct May 6 file, delete the ledger entry first or the refresh will skip it.
+
 ## Index + vote schemas are the collection standard
 - `minutes_index.csv`: `date,year,title,slug,path,source,source_url,format` — one row per
   document on disk; unrecoverable meetings live in `minutes_unrecovered.csv`, never as
@@ -199,8 +210,11 @@ header set (the CivicEngage edge 403s bare UAs) — `polite_fetch.py` sends them
   3 city annual reports + 4 state excerpts. CH present all state years. No compliance letter.
 - **`ordinances/`** — **128 adopted (Ord 336→467 + one `2024-58`; 40 land-use)** from the
   MunicipalCodeOnline public S3 bucket (39 PDFs) ∪ PMN council body 2147 attachments (82) = 121
-  raws (104 tesseract OCR — Recorder signed scans). Linkage **86 high** (all verified — 0
-  mismatches) / 36 within_source / 5 none / 1 low. Handled CH's -A/-D draft/denial convention
+  raws (104 tesseract OCR — Recorder signed scans). Linkage **88 high** / 36 within_source / 4 none
+  (regenerated 2026-07-31 alongside the 2025-05-06 duplicate removal — the rebuild also absorbed the
+  2026-07-17 Wayback-recovered 2020-10-06 council doc, which promoted Ord **344**/**345** from
+  `none` to `high`, and dropped the phantom-dated Ord 440 citation; the earlier **86 high / 36 /
+  5 none / 1 low** figures were the 2026-07-13 build). Handled CH's -A/-D draft/denial convention
   (adopted -D = enacted denial) and correctly EXCLUDED the failed Ord 464 (phantom-"Highland"
   clerk error) + a mislabeled "Ordinance 2024-09" that's actually a resolution. Code host
   MunicipalCodeOnline (SPA auth-gated, S3 backing bucket anonymous-listable).

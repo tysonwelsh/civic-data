@@ -29,7 +29,6 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2020-10-20](2020-10-20/summary.md) | 0 | 1 | 7 | 0 |
 | [2020-11-10](2020-11-10/summary.md) | 0 | 1 | 12 | 0 |
 | [2020-11-17](2020-11-17/summary.md) | 0 | 1 | 13 | 0 |
-| [2020-12-01](2020-12-01/summary.md) | 0 | 1 | 5 | 0 |
 | [2020-12-08](2020-12-08/summary.md) | 0 | 1 | 7 | 0 |
 | [2021-01-05](2021-01-05/summary.md) | 0 | 1 | 9 | 0 |
 | [2021-01-19](2021-01-19/summary.md) | 0 | 0 | 12 | 0 |
@@ -77,7 +76,6 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2022-10-04](2022-10-04/summary.md) | 0 | 1 | 11 | 0 |
 | [2022-10-18](2022-10-18/summary.md) | 0 | 1 | 13 | 0 |
 | [2022-11-01](2022-11-01/summary.md) | 0 | 1 | 9 | 0 |
-| [2022-11-08](2022-11-08/summary.md) | 0 | 1 | 4 | 0 |
 | [2022-11-15](2022-11-15/summary.md) | 0 | 1 | 5 | 0 |
 | [2022-12-06](2022-12-06/summary.md) | 0 | 2 | 9 | 0 |
 | [2023-01-03](2023-01-03/summary.md) | 0 | 1 | 9 | 2 |
@@ -99,7 +97,6 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2023-09-19](2023-09-19/summary.md) | 0 | 1 | 6 | 0 |
 | [2023-10-03](2023-10-03/summary.md) | 0 | 1 | 7 | 0 |
 | [2023-10-17](2023-10-17/summary.md) | 0 | 1 | 9 | 0 |
-| [2023-11-07](2023-11-07/summary.md) | 0 | 1 | 4 | 0 |
 | [2023-11-14](2023-11-14/summary.md) | 0 | 1 | 3 | 0 |
 | [2023-12-05](2023-12-05/summary.md) | 0 | 1 | 0 | 0 |
 | [2023-12-12](2023-12-12/summary.md) | 0 | 1 | 14 | 0 |

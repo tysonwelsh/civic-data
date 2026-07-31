@@ -65,8 +65,8 @@ canvass does carry Park City's contests at precinct grain; see elections routing
 | module | what it is | routing |
 |---|---|---|
 | `legislative/` | County Council minutes (Granicus, 2023-01→present), 198 mtgs, 1,831 motions | meeting context, Council votes |
-| `land_use/` | the **two PCs** (Snyderville Basin PC + Eastern Summit County PC), 393 minutes, 1,571 motions, 496 named rows, 2015→2026 | PC votes/recommendations, minutes corpus |
-| `development/` | the **development pipeline** — `applications.csv`, 576 land-use application rows | one row per PC application item; growth/housing research |
+| `land_use/` | the **two PCs** (Snyderville Basin PC + Eastern Summit County PC), 393 minutes rows / 378 text-bearing, **1,566** motions, 496 named rows, 2015→2026 | PC votes/recommendations, minutes corpus |
+| `development/` | the **development pipeline** — `applications.csv`, **575** land-use application rows | one row per PC application item; growth/housing research |
 | `ordinances/` | adopted-ordinance catalog, `index.csv` (11 rows incl. **both development codes**) | what an ordinance did; enacting-motion link |
 | `elections/` | the **canonical county canvass, 2006–2026** | authoritative winners/margins/precinct grain |
 | `plans/` | General Plans (Basin 2015, Eastern 2023) + the MIH plans; searchable text | growth vision, HB462 MIH obligations |
@@ -81,7 +81,9 @@ canvass does carry Park City's contests at precinct grain; see elections routing
 - **Cross-body / project questions, or a motion's full context**: `db/summit_county.db`
   (standard 8-table schema). Bodies: `County Council` (council), `Snyderville Basin Planning
   Commission` + `Eastern Summit County Planning Commission` (planning). Council motion_ids
-  **1–1820** are stable; PC motion_ids **1821–3346** append above them.
+  **1–1831** are stable; PC motion_ids **1832–3397** append above them (the PC band shifts
+  on any land_use re-extraction — never cite a PC motion_id across rebuilds; key on
+  `(source_file, date, body, motion_no)`).
 - **Approve/deny vs carried**: PC `motion.outcome` = did the motion CARRY (`Pass` 1369 / `Fail`
   24 / blank 133 = no result printed); the application-level disposition
   (`applications.csv.pc_recommendation` = approve/deny/continue) is ORTHOGONAL — compose at
@@ -101,7 +103,7 @@ canvass does carry Park City's contests at precinct grain; see elections routing
 
 ## Development-pipeline & ordinance linkage (closing-pass, 2026-07-20)
 
-- **Applications → PC motions.** `db/link_applications.py` loads all **571** `applications.csv`
+- **Applications → PC motions.** `db/link_applications.py` loads all **575** `applications.csv`
   rows into the db `application` table and resolves each outcome-bearing row to its unique
   enacting PC motion, restricted to the same (body, date) and scored on shared
   parcel/project/location token + a distinctive **project-NAME** phrase. **70 of 224** rows
@@ -125,9 +127,13 @@ canvass does carry Park City's contests at precinct grain; see elections routing
   built Council db is the **contiguous-weekly Granicus era only (2023-01→present)**; Jan–Mar
   2015 and earlier are unposted (availability floor). **PMN body 1330** is the born-digital
   OCR-upgrade channel (queued follow-on).
-- **PC portal gaps.** **Snyderville 2021 (4 of ~20)** and **Eastern 2022 (5 of ~17)** are
-  genuine AgendaCenter/Granicus seam gaps; **14 image-only PC minutes** are
-  `minutes_exist_text_unrecovered` (meeting recorded, text unrecovered). **PMN body 1503**
+- **PC portal gaps.** **Snyderville 2021 (4 of ~20)** and **Eastern 2022 (5 posted rows, only
+  4 with usable text)** are genuine AgendaCenter/Granicus seam gaps; **15 PC minutes** are
+  `minutes_exist_text_unrecovered` (meeting recorded, text unrecovered) — 14 image-only plus
+  **`2022-08-04` Eastern PC**, whose Minutes slot serves the **2022-06-16** minutes PDF
+  (county mis-upload, re-verified live 2026-07-31). That phantom's 5 duplicate motions were
+  removed 2026-07-31; the Aug 4 meeting itself is real (agenda posted, not cancelled), so its
+  text is an honest gap. Full record in `land_use/CLAUDE.md`. **PMN body 1503**
   ("Summit County Community Development") is the recovery channel (its search backend errored at
   build — logged). The 14 unrecovered are excluded from the db meeting set (logged in
   `land_use/minutes_index.csv`).
@@ -197,7 +203,12 @@ Council motion_ids (1–1820) are **stable** across rebuilds (staging read first
 sort); PC appends above. `db/build_db.py` reads `db/staging/` first, then the optional
 `db/staging_pc/` last — the designed append path. FK/integrity gates print on every db build.
 
-## Federated totals (in `summit_county.db`; verified 2026-07-25 after the PC vote-recovery pass)
+## Federated totals (in `summit_county.db`; verified 2026-07-31 after the 2022-08-04 phantom removal)
 
-body 3 · person 104 · meeting 577 · application 576 · motion **3402** (Council 1831 / PC 1571) · vote 605 (Council 109 / PC 496) · role 71 · named-roll motions 304 ·
+body 3 · person 104 · meeting **576** · application **575** · motion **3397** (Council 1831 /
+PC 1566) · vote 605 (Council 109 / PC 496) · role 71 · named-roll motions 304 ·
 motion.application_id linked 67. `foreign_key_check` OK, `integrity_check` ok, idempotent.
+(Was meeting 577 / application 576 / motion 3402 / PC 1571 before 2026-07-31 — the delta is
+exactly the one phantom `2022-08-04` Eastern PC meeting, its 5 duplicate motions and its 1
+duplicate application row; **no vote row changed**. `gov.db` must be re-federated by the
+coordinator.)

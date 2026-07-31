@@ -38,8 +38,8 @@ business.** Consequences:
 Nephi has no separate Redevelopment Agency. (Currently Council 1,089 rows / CRA 1.)
 
 ## Coverage (last run)
-- **252 meetings · 989 motions · 1,180 rows · 22 contested · 2020–2026.**
-- Body: Council 988 · CRA 1. Named roll-calls: 51; the rest are narrative tally-only.
+- **251 meetings · 979 motions · 1,170 rows · 22 contested · 2020–2026.**
+- Body: Council 978 · CRA 1. Named roll-calls: 51; the rest are narrative tally-only.
 - **~97% of motions pass with no recorded dissent** — the highest consensus rate of any city in
   the collection (a small rural council that moves most business by unanimous voice).
 
@@ -66,3 +66,21 @@ Promoted 8 PMN-recovered council minutes (2020-11-24, 2021-10-12, 2022-02-22, 20
 2022-07-26, 2023-03-07, 2024-06-25, 2025-10-21) → 243→251 meetings, all_votes 1090→1104 rows,
 918→932 motions (named still 46). source=pmn/format=text; raw+text in `pmn_backfill/`.
 Two of them (2020-11-24, 2021-10-12) are tour/discussion work sessions with no motion (0 rows).
+
+## 2026-07-31 — PHANTOM 2024-10-01 meeting removed (duplicate ingest, −10 motions)
+The AgendaCenter Minutes slot `_10012024-346` ("October 01, 2024 … Minutes") is a **city
+mis-upload**: it serves the **September 17, 2024** minutes verbatim — same in-body header
+("NEPHI CITY COUNCIL MEETING / September 17, 2024"), same recorder certification ("the meeting
+held on September 17, 2024"), same consent agenda (approving 9-3-24 minutes + the 9-17-24
+warrant register) — i.e. the same document as slot `_09172024-345`, differing only in PDF text
+extraction. Ingesting it created a phantom **2024-10-01** meeting whose 10 motions duplicated
+2024-09-17's. Removed: the minutes .md + its votes JSON + the `minutes_index.csv` row
+(252→251 meetings, 989→979 motions, 1,180→1,170 rows — the delta is exactly the 10 phantom
+motions; `vote` rows unchanged at 288 because all 10 were tally-only).
+**The 2024-10-01 meeting itself is REAL** (1st Tuesday; agenda published — PC-member
+appointment, Red Cliffs annexation certification, Civil Review + well-equipping contracts —
+retained at `packets/raw/2024-10-01/`; its minutes are approved in the 2024-10-15 consent
+agenda) but **no minutes document is published for it on any channel** (AgendaCenter slot holds
+the wrong file; PMN body 1788 notice 950083 has no attachment) → ledgered in
+`minutes_unrecovered.csv`. `fetch_new.py` now carries a `KNOWN_MISUPLOAD_URLS` skip for that
+slot so a re-ingest cannot re-create the phantom.

@@ -100,17 +100,27 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   the integrity gate passes (mid-build crash leaves the prior db intact), and auto-runs
   `validate_entity.py --federation` at the end of every build (printed 44/44 in step on
   the 15:58 run; nonzero exit propagates). Both temp paths gitignored since G1.
-- [ ] **G8. Wrong-value data fixes** (the only pre-publish data work):
-  (a) **mag_mpo divided-tally loss** — 2015-11-05 "Motion failed with 10 yes and 12 no votes
-  by [12 named mayors]" stored as `outcome='Pass'` (INVERTED); one divided motion missing
-  entirely (2014-09-04 gasoline, "20 yes and 1 no"); truncated result_raw on others;
-  mag_mpo/CLAUDE.md:87-101 falsely asserts dissent is never named (cardinal rule 2).
-  (b) **Mis-dated duplicate meetings — repo-wide class**: midvale council ×3 (Revize `M DD YY`
-  parsed `MM D YY`) + midvale PC 2023-11-01≡2023-01-11 + magna PC + weber 2021-06-01 +
-  holladay 2025-05-01 (~20+ motions under wrong dates, 4 entities). Deliverable = the
-  date-collision detector (identical motion-text signature, different date), then the fixes.
-  (c) **weber 2019-07-30 Solar Overlay** adopting motion + roll call never extracted (mid-roll
-  amendment defeats the extractor; Ord 2019-13 has no motion).
+- [x] **G8. Wrong-value data fixes — ✅ DONE 2026-07-31.**
+  (a) **mag_mpo**: RESULT_RE grammar fixed (optional "The", sentence-end tallies, bare-"move"
+  typo) → 635→649 motions (+14, zero lost, motion-level diff proven), Fail 3→5, the
+  2015-11-05 failed strike + its 12 named dissenters recovered verbatim; CLAUDE.md + caveat
+  corrected (dissent IS sometimes named in result_raw); named-dissent parsing → LEADS.
+  (b) **Date-collision class — 17 pairs verified, not the filed ~5**: new
+  `scripts/detect_date_collisions.py` (213 raw pairs → body-text diffing → 17 confirmed
+  duplicates across 10 entities, incl. nephi/vineyard/CH/summit/WVC/slco/herriman the TODO
+  never knew). Owner-approved 10-agent Opus wave fixed all of them (backups, source
+  adjudication, exact-delta proofs, per-entity validators green): ~70 phantom motions +
+  ~190 phantom vote rows removed; ~10 vacated REAL meetings honestly ledgered (LEADS
+  recovery class); midvale's Revize date parser + weber's mis-post guard root-fixed; magna's
+  agent found+fixed an unassigned 4th pair; 2 pairs proven both-real and untouched (weber
+  clerk copy-paste documented). Detector re-run: class CLOSED.
+  (c) **weber 2019-07-30 Solar Overlay**: filed cause WRONG again — the real bug was a
+  generic roll-scan loop-skip (`i=j+1` stepping over the next motion) that had eaten
+  **15 motions corpus-wide**; all recovered (+31 votes, incl. a 2-1 contested resolution);
+  Ord 2019-13 now uniquely linked with its full named roll.
+  Closed with ONE federation (build 2026-07-31T17:00:54): auto-gate 44/44, integrity ok,
+  reconciliation exact; docs reconciled (check_doc_numbers 13/13); coverage.json + sample db
+  + data dictionary regenerated; marquee examples 5/5.
 - [ ] **G9. Declare against SHIP_GATE.md → publish provisionally** (public repo + gov.db.gz
   release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
   LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.

@@ -42,6 +42,26 @@ def name_after(label_text):
 # stop patterns for capturing vote continuation
 STOP = re.compile(r"(Motion:|Motion by:|2nd by:|Speaker\s*#|PUBLIC PORTION|LEGISLATIVE|ADMINISTRATIVE|Hearings began|The Planning Commission|^Commissioners Public|^Business|^Planning Staff|Salt Lake County .* Meeting Summary|Mountainous Planning)", re.I)
 
+def rejoin_split_second(lines):
+    """Repair the pypdf artifact that splits a '2nd by:' label across two lines.
+
+    Some PMN PDFs superscript the 'nd' in '2nd by:', and pypdf then emits the '2' on
+    its own line with 'nd by: Commissioner X' on the next (observed: the approved
+    2024-12-11 Planning Commission minutes, motion 3). Without this repair the label
+    matches nothing and a seconder the source DOES print is silently lost. Purely a
+    text-layout repair — no content is invented."""
+    out = []
+    i = 0
+    while i < len(lines):
+        if (lines[i].strip() == "2" and i + 1 < len(lines)
+                and re.match(r"^\s*nd by:", lines[i + 1])):
+            out.append("2" + lines[i + 1].lstrip())
+            i += 2
+            continue
+        out.append(lines[i])
+        i += 1
+    return out
+
 TABLE_START = re.compile(r"^(Commissioners\s+Public|Business|Mtg\b|Absent\b|Planning Staff|Planning and Development|Phone:|Fax:|\*?NOTE:|ATTENDANCE)", re.I)
 
 def extract_voters(vote_text):
@@ -83,7 +103,7 @@ for f in files:
     year = date[:4]
     title = body_val
     src = os.path.relpath(f, "/Users/tysonwelsh/civic-data/salt_lake_county")
-    lines = body_text.splitlines()
+    lines = rejoin_split_second(body_text.splitlines())
     n = len(lines)
 
     # label each line by type, ignoring interleaved attendance-table lines
@@ -208,8 +228,9 @@ with open(os.path.join(BASE, "roster.csv"), "w", newline="", encoding="utf-8") a
 tot_motions = sum(s['motions'] for s in meeting_stats.values())
 print("wrote all_votes.csv (%d named rows) + motions_tally.csv (%d tally motions) + "
       "roster.csv (%d commissioners)" % (len(vote_rows), len(tally_rows), len(roster)))
-print("meetings=97  motions=%d  named-vote motions=%d  tally-only=%d"
-      % (tot_motions, tot_motions - len(tally_rows), len(tally_rows)))
+print("meetings=%d  motions=%d  named-vote motions=%d  tally-only=%d"
+      % (sum(s['meetings'] for s in meeting_stats.values()), tot_motions,
+         tot_motions - len(tally_rows), len(tally_rows)))
 for b, st in sorted(meeting_stats.items()):
     print("  %-30s meetings=%d motions=%d named=%d tally=%d"
           % (b, st['meetings'], st['motions'], st['named'], st['tally']))

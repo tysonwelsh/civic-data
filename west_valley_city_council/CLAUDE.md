@@ -56,8 +56,8 @@ are city-wide; geo maps addresses to Districts 1–4 only.
 
 ## Planning Commission + the relational database (cross-body analysis)
 - **`planning_commission/all_votes.csv`** — identical schema to council; every row
-  `body=PlanningCommission`. **606 motions** (3,022 named member-vote rows + 119 tally-only) across
-  **263 meeting files** — but **128 discussion-only study meetings hold no votes** (study sessions are
+  `body=PlanningCommission`. **604 motions** (2,991 named member-vote rows + 121 tally-only) across
+  **264 meeting files** — but **129 discussion-only study meetings hold no votes** (study sessions are
   deliberative; the action votes happen at the regular meeting two days later). 57 contested. Roster of
   **13 appointed commissioners** in `planning_commission/roster.csv`. The `result` string encodes the
   **recommendation-vs-final-action taxonomy** (legislative items → Council vs PC final actions on
@@ -99,6 +99,14 @@ are city-wide; geo maps addresses to Districts 1–4 only.
   (`meeting_minutes/CLAUDE.md`).
 
 ---
+*Data correction 2026-07-31 (duplicate-ingest wave): two PHANTOM Planning Commission
+meetings — **2024-07-10** and **2025-04-16** — were removed. OnBase serves the wrong
+meeting's PDF under those two document slots (the 2024-04-10 and 2025-04-23 minutes
+respectively), so their motions were double-counted. Both meetings really happened, so
+both are now ledgered in `planning_commission/minutes_unrecovered.csv`, and
+`fetch_new.py` quarantines the two slots. Net: PC 614→604 motions, db 2,577→2,567
+motions / 12,154→12,122 votes. Details: `planning_commission/CLAUDE.md`.*
+
 *Doc correction 2026-07-02 (audit `_audits/2026-07-02/report.md`, Phase 1.8): speaker-log
 row count 819 → 818 (measured from `public_comments/minutes_speaker_log.csv`).*
 

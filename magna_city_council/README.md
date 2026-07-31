@@ -18,17 +18,17 @@ important structural fact — the presiding officer's vote flips across the seam
 | Dataset | Coverage | Volume | Source | Status |
 |---|---|---|---|---|
 | Council + CRA minutes | 2018-07-17 → 2026-05-26 | **173 md** (== 173 index) | CivicPlus AgendaCenter (catID 3, 2022+) + Utah PMN body 5803 (2017–2021) | ✅ 151 `pdf-text` + 21 `pdf-ocr` + 1 `docx-text`; **2017 + Jan–Jun 2018 (36 mtgs) 404-UNRECOVERABLE** — logged, not stubbed |
-| Council + CRA votes | 2018–2026 | **988 motions** (Council 956 · CRA 32) · **1,033 vote rows** (175 named) — incl. **67 motions promoted from `pmn_backfill/` (`provenance=pmn_minutes`; +16 Aug–Dec 2020 COVID-cluster 2026-07-17)** | extracted from minutes (audited + PMN-promoted sidecars) | ✅ verified; **presiding officer's vote flips at the seam**, max roll **5 both eras**; narrative-tally (unanimous majorities honestly unnamed) |
-| PC minutes | 2019-03-14 → 2026-06-11 | **80 md** (== 80 index) | Utah PMN body 1559 (MSD-staffed) | ✅ all `pdf-text`; **2017–2018 (57 mtgs) agendas-only** — logged |
-| PC votes | 2019–2026 | **314 motions** (~151 land-use) · **315 rows** (19 named) | extracted from minutes | ✅ verified; recommends to Council; rezones keyed `REZ####-######` |
-| Relational db (`db/civic.db`) | 2018–2026 | **1,226 motions** · **91 votes** · **236 meetings** · **6 PC→Council referrals** (all medium) | standard cross-city schema | ✅ reconciles exactly (91 named CSV rows == 91 db votes; 0 orphan FKs); see `db/SCHEMA.md` |
+| Council + CRA votes | 2018–2026 | **988 motions** (Council 956 · CRA 32) · **1,033 vote rows** (156 named) — incl. **67 motions promoted from `pmn_backfill/` (`provenance=pmn_minutes`; +16 Aug–Dec 2020 COVID-cluster 2026-07-17)** | extracted from minutes (audited + PMN-promoted sidecars) | ✅ verified; **presiding officer's vote flips at the seam**, max roll **5 both eras**; narrative-tally (unanimous majorities honestly unnamed) |
+| PC minutes | 2019-03-14 → 2026-06-11 | **76 md** (== 76 index) | Utah PMN body 1559 (MSD-staffed) | ✅ all `pdf-text`; **2017–2018 (57 mtgs) agendas-only** — logged; **4 PHANTOM meetings de-ingested 2026-07-31** (PMN draft-copy trap — see below) |
+| PC votes | 2019–2026 | **302 motions** (143 land-use-typed) · **303 rows** (18 named) | extracted from minutes | ✅ verified; recommends to Council; rezones keyed `REZ####-######` |
+| Relational db (`db/civic.db`) | 2018–2026 | **1,290 motions** · **174 votes** · **248 meetings** · **3 cross-body referrals** (all medium) | standard cross-city schema | ✅ reconciles exactly (174 named CSV rows == 174 db votes; 0 orphan FKs); see `db/SCHEMA.md` |
 | Public comments | — | **AVAILABILITY.md** + header-only CSV | n/a — SUBMIT-ONLY | ⚠ **HONEST-EMPTY** — in-person sign-up + QR only; no published/eComment archive |
 | Election results | 2016 → 2025 | **18 races** + candidate & precinct tables | Salt Lake County SOVC (raw retained) | ✅ verified; 2016 founding + 2019 D1/D3/D5 **recovered from raw SOVC**, 2021 de-suppressed, 2025 primary+general; Water-District decoys EXCLUDED |
 | Geo (address→district) | mixed vintage | **18 precincts → Districts 1–5**; derived polygons | precinct-derived (no official layer; UGRC CountyID 18) | ✅ tool + geojson; **MIXED-VINTAGE** — D2/D4 2025-high, D1/D3/D5 2019-medium, 4 precincts honestly unresolved |
-| Weekly bundles | 2018–2026 | **167 week bundles** | derived (`build_weeks.py`, Tuesday grid) | ✅ regenerable; weekly vote sum 934 == flat total |
+| Weekly bundles | 2018–2026 | **177 week bundles** | derived (`build_weeks.py`, Tuesday grid) | ✅ regenerable; weekly vote sum 1,033 == flat total (council + CRA only — the PC is NOT in the weekly grid) |
 
 `result` and `motion_type` are city-verbatim; cross-city comparison goes through
-`motions_std.csv` (Council 912 / PC 314 rows) and the repo-root `crosswalks/`.
+`motions_std.csv` (Council 988 / PC 302 rows) and the repo-root `crosswalks/`.
 
 ## The structural fact that makes Magna different — the form-of-government seam
 
@@ -66,7 +66,7 @@ total in `meeting_minutes/all_votes.csv` tagged `body=CRA`; the same members app
 - **Narrative-tally minutes — unanimous majorities are honestly UNNAMED.** A motion records mover
   + seconder + a numeric tally ("vote was 4-0, unanimous in favor with Council Member Pierce
   absent"); a real roll call is taken but the printed minutes give the tally, not each Aye. Only
-  **72 of 912** council rows (and **19 of 314** PC rows) are named — the dissenters, abstainers,
+  **156 of 1,033** council+CRA rows (and **18 of 303** PC rows) are named — the dissenters, abstainers,
   and absentees. A blank member list on a unanimous motion is source style, not an extraction miss.
 - **Mild PMN-era text garble + an OCR seam.** The 2018–2023 PMN PDFs carry systematic
   character-substitution garble (`quonrm`→quorum, `Hoffrnan`→Hoffman) that the extractor
@@ -85,6 +85,20 @@ total in `meeting_minutes/all_votes.csv` tagged `body=CRA`; the same members app
   purged; no Wayback). Logged in `meeting_minutes/minutes_unrecovered.csv`, never stubbed →
   council record starts **2018-07-17**. **PC 2017–2018 (57 meetings) are agenda/audio only** (no
   minutes published) → PC record starts **2019-03-14**.
+- **The PMN draft-copy trap — 4 PHANTOM PC meetings removed 2026-07-31.** PMN body 1559 attaches
+  minutes to a notice two ways: `YYMMDD_MagnaPC_MinutesApproved.pdf` (that notice's OWN meeting)
+  and `<Month> minutes.pdf` (the **DRAFT of the PREVIOUS meeting**, posted with this meeting's
+  agenda because this meeting will approve it). On the four notices where MSD never posted an
+  approved copy, the original ingest took the draft and stamped it with the notice date, creating
+  duplicate meetings that double-counted 12 motions: **2023-08-10** (= a draft of 2023-07-13),
+  **2023-10-12** (= 2023-09-14), **2024-08-08** (= 2024-07-11), **2025-10-16** (= 2025-09-11).
+  All four were de-ingested; the retained PDFs sit in
+  `planning_commission/raw/_duplicate_drafts/`. **All four vacated dates are REAL meetings whose
+  approved minutes PMN never published** — they are logged in
+  `planning_commission/minutes_unrecovered.csv` (their agenda packets and audio, correctly dated,
+  remain in `packets/` and `transcripts/`). Guard:
+  `python3 planning_commission/validate_votes.py --check-dates` fails if any indexed document's
+  in-body header date disagrees with its index date.
 - **Elections:** county-administered; only Magna council + mayor races (the **Magna Water
   District** and its variants — ~95% of raw "magna" rows — plus the 2015 MSD/incorporation ballot
   questions are EXCLUDED). 2016 founding + 2019 D1/D3/D5 **re-parsed from the raw SOVC** (the

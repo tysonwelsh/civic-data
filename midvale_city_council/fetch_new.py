@@ -15,8 +15,8 @@ build time 2026-07-12):
       Document Center/Agendas & Minutes/Recorders Office/<YEAR>/Minutes/
     named "CC Minutes <M-D-YYYY>.pdf" (recent) — plus a few flat-path
     "Document Center/Agendas & Minutes/CC Minutes <M-D-YYYY>.pdf" (no year folder)
-    and legacy separator-less "CC Minutes <MDYYYY>.pdf" / .docx (all pre-floor,
-    already indexed).
+    and SEPARATOR-LESS "CC Minutes <MDYYYY>.pdf" / .docx (2020-2023, not just
+    pre-floor — see "Ambiguous separator-less dates" below).
   * PC listing: /government/departments/community_development/planning_and_zoning/
     planning___zoning_commission.php (itself the flat listing). Files under
       Document Center/Agendas & Minutes/Planning & Zoning Commission/<YEAR>/Minutes/
@@ -24,6 +24,21 @@ build time 2026-07-12):
     "_w_votes").
   * All Document Center hrefs carry spaces + a literal "&" and a ?t=<token>
     cache-buster — the driver URL-encodes and uses refresh_lib.BROWSER_UA.
+
+Ambiguous separator-less dates (the phantom-meeting trap, fixed 2026-07-31)
+  Midvale files many minutes under separator-less date runs — "CC Minutes
+  11723001.pdf", "11123 Approved PC Minutes.pdf", "CC Minutes 1212020.pdf".
+  Those are genuinely AMBIGUOUS: 11723 reads as 1-17-23 OR 11-7-23; 11123 as
+  1-11-23 OR 11-1-23; 1212020 as 1-21-2020 OR 12-1-2020. The 2026-07-12 build
+  guessed the wrong branch four times and produced PHANTOM meetings — January
+  sessions filed under November/December dates on which no meeting was ever
+  held, double-counting the real meeting's motions (removed 2026-07-31; the
+  originals are retained under each dataset's raw/_misdated/ with a README).
+  This driver therefore NEVER guesses: _date_candidates() enumerates every
+  calendar-valid reading, and when more than one survives the date is resolved
+  from the document's OWN header text after download (_date_from_text). If the
+  document can't confirm a date, the file is left RAW-ONLY and reported rather
+  than indexed under a guess.
 
 Conversion mirrors convert_minutes.py: pdftotext -layout, OCR fallback
 (pdftoppm 300dpi + tesseract) for scanned PDFs, .docx via macOS textutil; each
@@ -42,6 +57,7 @@ After --fetch, rebuild the derived layers:
     python3 build_weeks.py
 """
 
+import datetime
 import glob
 import os
 import re
@@ -64,27 +80,145 @@ PC_LIST = (BASE + "government/departments/community_development/"
 EXCLUDE = ("agenda", "packet", "presentation", "notice", "ordinance", "resolution")
 MINUTES_RE = re.compile(r"minut", re.I)
 
-# separated date forms (legacy separator-less MDYYYY are all pre-floor, so they
-# never pass the "> index max" gate and need no parser)
+# ---------------------------------------------------------------- date parsing
+# SEPARATED forms are unambiguous by construction.
 YMD_RE = re.compile(r"(20\d{2})[.\-](\d{1,2})[.\-](\d{1,2})")   # 2025.12.02 / 2025-12-02
 MDY_RE = re.compile(r"(\d{1,2})[.\-](\d{1,2})[.\-](20\d{2})")   # 12-2-2025 / 12.2.2025
 MDYY_RE = re.compile(r"(\d{1,2})[.\-](\d{1,2})[.\-](\d{2})(?!\d)")  # 3.12.25 / 6.24.26_Minutes
+# fixed-width month+day, then a space, then a 2-digit year: "0928 22 Approved PC
+# Minute.pdf" / "1214 22 ...". Unambiguous because the widths are fixed.
+MMDD_YY_RE = re.compile(r"(?<!\d)(\d{2})(\d{2})\s+(\d{2})(?!\d)")
+
+# SEPARATOR-LESS runs are ambiguous — see the module docstring. A trailing "001"
+# (Revize's duplicate-upload suffix, "CC Minutes 1-17-23001.pdf") is stripped so
+# it can't be mistaken for date digits.
+SEPLESS_RE = re.compile(r"(?<!\d)(\d{4,8})(?!\d)")
+YEAR_DIR_RE = re.compile(r"/(20\d{2})/")
+# Revize appends "001" to re-uploaded files ("CC Minutes 1-17-23001.pdf",
+# "CC Minutes 1182022001.pdf") — it is NOT part of the date.
+REUPLOAD_RE = re.compile(r"(?<=\d)001(?=\D|$)")
+
+MONTHS = {m: i for i, m in enumerate(
+    ["january", "february", "march", "april", "may", "june", "july", "august",
+     "september", "october", "november", "december"], 1)}
+_MON_ALT = "|".join(MONTHS)
+# In-body header dates: "JANUARY 17,2023" and "the 17th day of January 2023".
+INBODY_RES = (
+    (re.compile(rf"\b({_MON_ALT})\s+(\d{{1,2}})(?:st|nd|rd|th)?\s*,?\s*(20\d{{2}})\b", re.I),
+     "mdy"),
+    (re.compile(rf"\b(\d{{1,2}})(?:st|nd|rd|th)?\s+day\s+of\s+({_MON_ALT})\s*,?\s*(20\d{{2}})\b",
+                re.I), "dmy"),
+)
 
 
-def _parse_date(name):
-    for rx, order in ((YMD_RE, "ymd"), (MDY_RE, "mdy"), (MDYY_RE, "mdyy")):
-        m = rx.search(name)
-        if not m:
-            continue
-        if order == "ymd":
-            y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
-        elif order == "mdy":
-            mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
-        else:
-            mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3)) + 2000
-        if 2000 <= y <= 2035 and 1 <= mo <= 12 and 1 <= d <= 31:
-            return f"{y:04d}-{mo:02d}-{d:02d}"
-    return None
+def _iso(y, mo, d):
+    try:
+        return datetime.date(y, mo, d).isoformat()
+    except ValueError:
+        return None
+
+
+def _sepless_candidates(run, year_hint=None):
+    """Every calendar-valid reading of a separator-less digit run.
+
+    Covers YYYYMMDD / YYMMDD (leading-year) and M|MM + D|DD + YY|YYYY
+    (leading-month). Returns a sorted list of distinct ISO dates.
+    """
+    out, n = set(), len(run)
+    for ylen in (4, 2):
+        for mlen in (1, 2):
+            dlen = n - ylen - mlen
+            if dlen not in (1, 2):
+                continue
+            # leading month:  MDYY / MMDDYYYY / ...
+            mo, d, ytxt = int(run[:mlen]), int(run[mlen:mlen + dlen]), run[n - ylen:]
+            y = int(ytxt) if ylen == 4 else 2000 + int(ytxt)
+            iso = _iso(y, mo, d)
+            if iso and 2000 <= y <= 2035:
+                out.add(iso)
+            # leading year:  YYYYMMDD / YYMMDD  (only when month+day are fixed-width)
+            if mlen == 2 and dlen == 2:
+                ytxt2 = run[:ylen]
+                y2 = int(ytxt2) if ylen == 4 else 2000 + int(ytxt2)
+                iso2 = _iso(y2, int(run[ylen:ylen + 2]), int(run[ylen + 2:ylen + 4]))
+                if iso2 and 2000 <= y2 <= 2035:
+                    out.add(iso2)
+    if year_hint:
+        narrowed = [d for d in out if d.startswith(str(year_hint))]
+        if narrowed:
+            return sorted(narrowed)
+    return sorted(out)
+
+
+def _stem_variants(name):
+    """Filename stems to try, most literal first: the stem itself, the stem with
+    stray space after a separator closed up ("12-11- 2024"), and each of those
+    with a Revize "001" re-upload suffix stripped. Nothing is assumed correct —
+    every variant that yields a reading is considered."""
+    stem = re.sub(r"\.(pdf|docx?|txt)$", "", name, flags=re.I)
+    out = [stem]
+    for v in (re.sub(r"([.\-])\s+", r"\1", stem),):
+        if v not in out:
+            out.append(v)
+    for v in [REUPLOAD_RE.sub("", s) for s in list(out)]:
+        if v not in out:
+            out.append(v)
+    return out
+
+
+def _date_candidates(name, year_hint=None):
+    """All ISO dates `name` could denote. len()>1 means AMBIGUOUS — never guess;
+    resolve from the document text (_date_from_text) after download."""
+    variants = _stem_variants(name)
+    for stem in variants:                        # separated forms are unambiguous
+        for rx, order in ((YMD_RE, "ymd"), (MDY_RE, "mdy"), (MDYY_RE, "mdyy"),
+                          (MMDD_YY_RE, "mdyy")):
+            m = rx.search(stem)
+            if not m:
+                continue
+            if order == "ymd":
+                y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            elif order == "mdy":
+                mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            else:
+                mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3)) + 2000
+            iso = _iso(y, mo, d)
+            if iso and 2000 <= y <= 2035:
+                return [iso]
+    best = []
+    for stem in variants:
+        for m in SEPLESS_RE.finditer(stem):
+            cands = _sepless_candidates(m.group(1), year_hint)
+            if cands and (not best or len(cands) < len(best)):
+                best = cands
+        if best:
+            break
+    return best
+
+
+def _parse_date(name, year_hint=None):
+    """The single UNAMBIGUOUS date for `name`, else None."""
+    c = _date_candidates(name, year_hint)
+    return c[0] if len(c) == 1 else None
+
+
+def _date_from_text(text, window=1800):
+    """ISO dates printed in the document's own header block, most frequent first.
+
+    Only the header window is scanned — later prose ("approve the minutes of
+    December 14, 2022") names OTHER meetings and must never re-date this one.
+    """
+    head, found = text[:window], []
+    for rx, order in INBODY_RES:
+        for m in rx.finditer(head):
+            if order == "mdy":
+                mo, d, y = MONTHS[m.group(1).lower()], int(m.group(2)), int(m.group(3))
+            else:
+                d, mo, y = int(m.group(1)), MONTHS[m.group(2).lower()], int(m.group(3))
+            iso = _iso(y, mo, d)
+            if iso:
+                found.append(iso)
+    return sorted(set(found), key=lambda x: (-found.count(x), found.index(x)))
 
 
 def _abs_url(href):
@@ -97,8 +231,8 @@ def _hrefs(page_url):
 
 
 def _candidates(page_url, path_needle):
-    """(date, basename, href) for every minutes-looking file whose decoded href
-    contains `path_needle`."""
+    """(dates, basename, href) for every minutes-looking file whose decoded href
+    contains `path_needle`. `dates` is the CANDIDATE list — len>1 = ambiguous."""
     out = []
     for href in _hrefs(page_url):
         dec = urllib.parse.unquote(href)
@@ -110,10 +244,22 @@ def _candidates(page_url, path_needle):
             continue
         if any(x in low for x in EXCLUDE):
             continue
-        date = _parse_date(name)
-        if date:
-            out.append((date, name, href))
+        yh = YEAR_DIR_RE.search(dec)
+        dates = _date_candidates(name, int(yh.group(1)) if yh else None)
+        if dates:
+            out.append((dates, name, href))
     return out
+
+
+def _new_item(dates, max_date, name, href, title, slug):
+    """Probe row for a candidate set, or None if nothing in it is newer than the
+    index max. Ambiguous rows carry every reading; fetch() resolves from text."""
+    fresh = [d for d in dates if not max_date or d > max_date]
+    if not fresh:
+        return None
+    return {"date": fresh[0], "title": title, "slug": slug,
+            "url": _abs_url(href), "file": name,
+            "date_ambiguous": len(dates) > 1, "date_candidates": dates}
 
 
 def _council_kind(name):
@@ -137,20 +283,23 @@ def probe_council(max_date):
     seen, new = set(), []
     # year-folder form and flat "CC Minutes" form both live off the same page
     for needle in ("Recorders Office", "Agendas & Minutes/CC Minutes"):
-        for date, name, href in _candidates(COUNCIL_LIST, needle):
+        for dates, name, href in _candidates(COUNCIL_LIST, needle):
             if "planning" in urllib.parse.unquote(href).lower():
                 continue
-            if max_date and date <= max_date:
-                continue
             title, slug = _council_kind(name)
-            key = (date, slug)
+            it = _new_item(dates, max_date, name, href, title, slug)
+            if not it:
+                continue
+            key = (it["date"], slug)
             if key in seen:
                 continue
             seen.add(key)
-            new.append({"date": date, "title": title, "slug": slug,
-                        "url": _abs_url(href), "file": name})
+            new.append(it)
     new.sort(key=lambda x: (x["date"], x["slug"]))
-    return {"new_items": new, "endpoint": COUNCIL_LIST, "notes": ""}
+    return {"new_items": new, "endpoint": COUNCIL_LIST,
+            "notes": ("separator-less filenames are ambiguous; rows with "
+                      "date_ambiguous=true are date-resolved from the document "
+                      "text at --fetch time, never from the filename")}
 
 
 def probe_pc(max_date):
@@ -165,27 +314,29 @@ def probe_pc(max_date):
             continue
         if "cc minutes" in low or "recorders office" in dec.lower():
             continue                                   # not a council file
-        date = _parse_date(name)
-        if not date or (max_date and date <= max_date):
+        yh = YEAR_DIR_RE.search(dec)
+        dates = _date_candidates(name, int(yh.group(1)) if yh else None)
+        if not dates:
             continue
-        if date in seen:
-            continue
-        seen.add(date)
         slug = ("planning-commission-work-meeting" if "work" in low
                 else "planning-commission-special-meeting" if "special" in low
                 else "planning-commission-regular-meeting")
+        it = _new_item(dates, max_date, name, href, slug.replace("-", " ").title(), slug)
+        if not it or it["date"] in seen:
+            continue
+        seen.add(it["date"])
         # The page sets <base href="https://www.midvale.utah.gov/">, so both the
         # older full Document-Center paths and the recent BARE-RELATIVE root-level
         # minutes (e.g. '6.24.26_Minutes_Approved.pdf', served at site root)
         # resolve correctly via _abs_url. (NB: the build's stored source_url for
         # some recent bare-relative PC files points at a canonical Document-Center
         # path that 404s live — the working URL is the root-level one used here.)
-        new.append({"date": date, "title": slug.replace("-", " ").title(),
-                    "slug": slug, "url": _abs_url(href), "file": name})
+        new.append(it)
     new.sort(key=lambda x: (x["date"], x["slug"]))
     return {"new_items": new, "endpoint": PC_LIST,
             "notes": ("recent PC minutes are bare-relative root-level files served "
-                      "at the site root")}
+                      "at the site root; separator-less filenames are ambiguous and "
+                      "are date-resolved from the document text at --fetch time")}
 
 
 # ------------------------------------------------------------- conversion
@@ -232,8 +383,10 @@ def fetch(dataset, items):
     rows, n = [], 0
     for it in items:
         date, url, name, slug = it["date"], it["url"], it["file"], it["slug"]
+        cands = it.get("date_candidates") or [date]
         ext = Path(name.split("?")[0]).suffix.lower().lstrip(".") or "pdf"
         blob = rl.http_get(url, binary=True, ua=rl.BROWSER_UA, referer=BASE)
+        # provisional raw name; renamed below if the document re-dates itself
         raw_name = f"{date}_{slug}.{ext}"
         raw = rl.save_raw(ds_dir, raw_name, blob)
         try:
@@ -241,6 +394,27 @@ def fetch(dataset, items):
         except Exception as e:
             print(f"  RAW-ONLY {date} ({name}): {e}")
             continue
+        # --- the phantom-meeting guard: the DOCUMENT dates itself, not the name
+        inbody = _date_from_text(text)
+        agree = [d for d in inbody if d in cands]
+        if len(cands) > 1:                       # ambiguous filename: must resolve
+            if not agree:
+                print(f"  RAW-ONLY {name}: filename date is ambiguous {cands} and "
+                      f"the document header confirms none of them "
+                      f"(header dates seen: {inbody or 'none'}) — NOT indexed")
+                continue
+            resolved = agree[0]
+        else:
+            resolved = agree[0] if agree else date
+            if inbody and not agree:
+                print(f"  WARN {name}: filename says {date} but the document header "
+                      f"says {inbody[0]} — keeping {date}; verify by hand")
+        if resolved != date:
+            print(f"  RE-DATED {name}: {date} -> {resolved} (from document header)")
+            date = resolved
+            new_raw = ds_dir / "raw" / f"{date}_{slug}.{ext}"
+            raw.rename(new_raw)
+            raw, raw_name = new_raw, new_raw.name
         rel = rl.minutes_rel_path(date, slug, "md", prefix="minutes")
         out = ds_dir / rel
         out.parent.mkdir(parents=True, exist_ok=True)

@@ -60,6 +60,22 @@ DATASET_CFG = {
     },
 }
 
+# --- known CITY MIS-UPLOADS (portal slot serves another meeting's document) -----
+# AgendaCenter slot _10012024-346 ("October 01, 2024 ... Minutes") serves the
+# SEPTEMBER 17, 2024 minutes verbatim — byte-identical business to slot
+# _09172024-345 (in-body header + recorder certification both read
+# "September 17, 2024"). Ingesting it created a phantom 2024-10-01 meeting with
+# 10 duplicate motions; removed 2026-07-31. The real 2024-10-01 meeting IS held
+# (agenda in packets/, minutes approved at 2024-10-15) but no minutes document
+# is published on any channel — it is ledgered in
+# meeting_minutes/minutes_unrecovered.csv. Skip the slot so any full re-ingest
+# (or a reset of the index max date) cannot re-create the phantom.
+KNOWN_MISUPLOAD_URLS = {
+    "/AgendaCenter/ViewFile/Minutes/_10012024-346":
+        "city mis-upload: serves the 2024-09-17 minutes (see "
+        "meeting_minutes/minutes_unrecovered.csv, 2024-10-01)",
+}
+
 MINUTES_ROW_RE = re.compile(
     r'href="(/AgendaCenter/ViewFile/Minutes/_(\d{8})-\d+)"\s+'
     r'aria-label="([^"]*?)\.?\s*Minutes"', re.I)
@@ -74,6 +90,9 @@ def _parse_section(html, category):
             continue
         for m in MINUTES_ROW_RE.finditer(parts[i + 1]):
             href, mmddyyyy, label = m.groups()
+            if href in KNOWN_MISUPLOAD_URLS:
+                print(f"  SKIP {href}: {KNOWN_MISUPLOAD_URLS[href]}")
+                continue
             date = f"{mmddyyyy[4:]}-{mmddyyyy[:2]}-{mmddyyyy[2:4]}"
             # label: "June 09, 2026, Work Session" -> title after the year
             title = re.sub(r"^.*?\d{4},\s*", "", label).strip()

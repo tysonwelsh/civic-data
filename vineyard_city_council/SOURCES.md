@@ -2,7 +2,7 @@
 
 Civic records of the Vineyard City Council and Planning Commission, 2020–present. Minutes are published via the city's CivicClerk portal (vineyardut.api.civicclerk.com), with one meeting recovered from the Utah Public Notice Website. Vineyard publishes no written public-comment compilations. Election results come from rcvis.com (2019–2023 ranked-choice rounds) and the Utah state Enhanced Voting portal (2025).
 
-The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-19 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py vineyard`.
+The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-31 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py vineyard`.
 
 ## Council meeting minutes
 
@@ -17,9 +17,9 @@ The machine-readable companion to this page is [`sources.csv`](sources.csv) — 
 
 - **Published by:** Vineyard Planning Commission
 - **Portal:** CivicClerk (vineyardut.api.civicclerk.com)
-- **Documents indexed:** 102  ·  **Date range:** 2020-01-08 to 2026-05-06
-- **Direct source URLs recorded:** 102/102 (100%)  ·  **Host(s):** vineyardut.api.civicclerk.com, www.utah.gov
-- **How the text was obtained:** text (102)
+- **Documents indexed:** 101  ·  **Date range:** 2020-01-08 to 2026-05-06
+- **Direct source URLs recorded:** 101/101 (100%)  ·  **Host(s):** vineyardut.api.civicclerk.com, www.utah.gov
+- **How the text was obtained:** text (101)
 - **Note:** Born-digital text streams.
 
 ## Public comments

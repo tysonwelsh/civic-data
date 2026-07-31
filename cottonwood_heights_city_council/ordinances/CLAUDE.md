@@ -19,8 +19,16 @@ corroborate it and provide the ordinance body text for FTS.
 - **128 adopted ordinances**, window **2020-01-07 → 2026-05-19** (Ord 336 → 467, plus one
   year-based `Ordinance 2024-58`; sequential gaps 392/455/456/457 and the failed 464 are
   logged in `unrecovered.csv`).
-- **match_confidence:** high 86 · within_source 36 · none 5 · low 1. All 86 `high` rows were
-  verified to genuinely cite the ordinance number in the matched motion (0 mismatches).
+- **match_confidence:** high 88 · within_source 36 · none 4 · low 0 (rebuilt **2026-07-31**; the
+  2026-07-13 build read **high 86 · within_source 36 · none 5 · low 1**). All 86 `high` rows of the
+  2026-07-13 build were verified to genuinely cite the ordinance number in the matched motion (0
+  mismatches). The 2026-07-31 rebuild — run alongside the removal of the phantom-dated
+  **2025-05-06** council minutes (see `../meeting_minutes/CLAUDE.md`) — changed three rows: Ord
+  **344** and **345** moved `none → high` because the vote layer now contains the 2026-07-17
+  Wayback-recovered **2020-10-06** council minutes that carry their adoption motions, and Ord
+  **438** moved `low → none` because its only date-match was the phantom meeting. `citations_map.csv`
+  correspondingly lost the duplicate `440 @ 2025-05-06` row (the real one, `440 @ 2025-05-20`,
+  stands) and gained the 344/345 rows plus four 441/442 `table` citations from 2025-06-03.
 - **doc-backed:** 92 rows carry a retained PDF (pmn 57 · s3 35); 36 rows are
   `within_source` (motion-only, `format=na`).
 - **format:** scanned 81 · text 11 · na 36. **land_use=yes:** 40.

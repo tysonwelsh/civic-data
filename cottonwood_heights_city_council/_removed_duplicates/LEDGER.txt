@@ -1,0 +1,48 @@
+_removed_duplicates/ — the deliberate-removal ledger
+====================================================
+
+Every *.md file in this directory is a minutes document that was INGESTED but then
+deliberately removed from the canonical layer because it duplicated another document
+already in the index. `fetch_new.py::removal_ledger()` reads the BASENAMES here and
+refuses to re-add any harvest candidate whose target basename matches — so a routine
+`python3 fetch_new.py --ingest` can never resurrect one of these.
+
+The files are kept (never deleted) as the audit trail of what was removed and why.
+
+Deliberately NOT a .md file: the ledger is keyed by `*.md` basenames, so notes must
+carry a different extension.
+
+--------------------------------------------------------------------------------
+2024-01-02_work-session-and-business-meeting.md      removed 2026-07-12
+  PMN file 1079109. The same 2024-01-02 Oath of Office / Work Session / Business
+  Meeting is already indexed from the born-digital portal document
+  (minutes/2024/2024-01-01/2024-01-02_oath-of-office.md, doc 8098, source=civicplus),
+  which wins the (date, meeting-type) collision. The PMN copy was resurrected once by
+  the destructive `--fetch` path (INCIDENT 2026-07-19) and re-removed; that is why
+  `--fetch` now refuses without `--force-full-rebuild`.
+
+2025-05-06_work-session-and-business-meeting.md      removed 2026-07-31
+  Portal doc 9961, linked from the portal's "May 6, 2025 Work Session, CDRA Work
+  Session and Business Meeting" row as its Minutes. The document IS NOT the May 6
+  minutes — it is the MAY 20, 2025 minutes:
+    * byte-identical (md5 bf08f345181e6598b90f0619215bc5a7) to doc 10171, the Minutes
+      link on the portal's own "May 20, 2025" row;
+    * in-body headers "HELD TUESDAY, MAY 20, 2025, AT 4:00 PM" (work session) and
+      "... AT 7:00 PM" (business meeting);
+    * every page footer reads "Cottonwood Heights City Council Meeting Minutes for
+      May 20, 2025";
+    * the document itself approves the "Meetings of May 6, 2025" — it cannot be them.
+  Re-fetched live 2026-07-31: the city mis-upload is still in place.
+  Effect of the duplicate: 7 motions / 23 vote rows (Council + one CDRA motion) were
+  counted twice, on 2025-05-06 and again on 2025-05-20.
+  The MAY 6, 2025 MEETING IS REAL (portal Agenda doc 9809; Ordinance 438 adopted
+  2025-05-06; two city YouTube recordings; the May 20 minutes approve its minutes), so
+  its minutes are recorded as an honest gap in
+  meeting_minutes/minutes_unrecovered.csv. PMN body 2147 carries no 2025 minutes at all
+  (its last minutes attachment is 2024-11-12), so recovery is GRAMA or a corrected
+  city repost.
+  ⚠ IF THE CITY EVER REPOSTS THE CORRECT MAY 6 FILE, delete this ledger entry first —
+  otherwise `fetch_new.py --ingest` will silently skip the real document.
+  The retained original raw/civicplus_2025-05-06_work-session-and-business-meeting.pdf
+  stays in meeting_minutes/raw/ (raws are never deleted); it is byte-identical to
+  raw/civicplus_2025-05-20_work-session-and-business-meeting.pdf.

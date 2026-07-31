@@ -14,14 +14,14 @@ subfolder's own `CLAUDE.md`/`SCHEMA.md`; independent QA in `VERIFICATION.md` (**
 | Dataset | Coverage | Volume | Source | Status |
 |---|---|---|---|---|
 | Council + RDA + LBA minutes | 2020-01-08 → 2026-04-16 | **152 md** (== 152 index) | Utah PMN (public body **388**) | ✅ complete; born-digital `pdf-text` (0 OCR); 25 honestly unrecovered (retreats / not-yet-posted 2026) |
-| Council + RDA + LBA votes | 2020–2026 | **702 motions** (678 Council · 21 RDA · 3 LBA) · **2,475 vote rows** (2,173 named) | extracted (`extract_votes.py`) | ✅ verified; **mayor VOTES** (max roll 6); 6 contested; 365 mayor rows |
+| Council + RDA + LBA votes | 2020–2026 | **702 motions** (678 Council · 21 RDA · 3 LBA) · **2,483 vote rows** (2,183 named) | extracted (`extract_votes.py`) | ✅ verified; **mayor VOTES** (max roll 6); 6 contested; 365 mayor rows |
 | PC minutes | 2020-01-07 → 2026-04-28 | **71 md** (== 71 index) | Utah PMN (body **389**, 44 docs) + **27 Wayback-recovered** (former WordPress site; promoted 2026-07-16) | ✅ complete for posted years; **62 unrecovered** (2020 H2 / 2021 H2 / 2023 + a few pending — upstream gap) |
 | PC votes | 2020–2026 | **328 motions** · **1,262 vote rows** (1,138 named) | extracted (`extract_votes.py`; `provenance` column: `minutes` / `wayback_minutes`) | ✅ verified; **7-member** commission (roll ≤ 7); 26 contested |
-| Relational db (`db/civic.db`) | 2020–2026 | **1,030 motions** · **3,311 votes** · **5 Council←PC referrals** (all medium) | standard cross-city schema | ✅ CSV−db named-row delta +0; see `db/SCHEMA.md` |
+| Relational db (`db/civic.db`) | 2020–2026 | **1,030 motions** · **3,321 votes** · **5 Council←PC referrals** (all medium) | standard cross-city schema | ✅ CSV−db named-row delta +0; see `db/SCHEMA.md` |
 | Public comments | — | **AVAILABILITY.md only** | n/a — SUBMIT-ONLY | ⚠ **HONEST-EMPTY** — no published written-comment archive; emailed comments read aloud + paraphrased inline |
 | Election results | 2007 → 2025 | **34 races** · candidate + precinct tables | Salt Lake County SOVC (canonical county normalization) | ✅ verified; 2019 recovered, 2021 de-suppressed; 2021/2023/2025 winners match outside sources |
 | Geo (address→district) | current (as amended 2022) | **5 official district polygons**; 30 precincts | Holladay ArcGIS Hub layer (NOT precinct-derived) | ✅ tool + geojson; City Hall → District 1 |
-| Weekly bundles | 2020–2026 | week bundles on the Monday grid | derived (`build_weeks.py`) | ✅ regenerable; weekly vote sum 2,475 == flat total |
+| Weekly bundles | 2020–2026 | week bundles on the Monday grid | derived (`build_weeks.py`) | ✅ regenerable; weekly vote sum 2,483 == flat total |
 
 `result` is city-verbatim and `vote` is normalized to the controlled vocabulary; cross-city
 comparison goes through `motions_std.csv` and the repo-root `crosswalks/`.

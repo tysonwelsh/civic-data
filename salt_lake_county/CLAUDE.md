@@ -10,13 +10,16 @@ Registry: `registry/entities.csv`. Source map: `recon.md`. Counties are modeled 
 canvass** — not just for the 7 held cities but for **all 22 SLCo jurisdictions** it publishes
 (see Elections below).
 
-## Bodies in gov.db (7, three kinds) — totals: 4,857 motions / 8,142 votes / 176 contested
+## Bodies in gov.db (7, three kinds) — totals: 4,853 motions / 8,142 votes / 176 contested
 
 - **council** — County Council + **Committee of the Whole** (the heavy voting body) + Council
   Work Session: 4,064 motions, 6,197 votes.
 - **agency** — Redevelopment Agency + Municipal Building Authority + **Housing Authority**
   (HACSL / Housing Connect): 483 motions, 1,929 votes.
-- **planning** — Planning Commission + Mountainous Planning District PC: 310 motions, 16 votes.
+- **planning** — Planning Commission + Mountainous Planning District PC: 306 motions, 16 votes.
+  (Was 310 before 2026-07-31: the 2024-12-10 PC record was a **phantom** — the same
+  2024-12-11 meeting posted twice on PMN, the draft copy dated off a clerk-typo header.
+  See `land_use/CLAUDE.md`. Nothing is missing; no meeting was held 2024-12-10.)
 
 ## Modules
 

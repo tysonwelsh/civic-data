@@ -1,10 +1,10 @@
 VINEYARD PLANNING COMMISSION — VOTE EXTRACTION VALIDATION
 ============================================================
 status: PASS
-meetings (json): 102
-motions: 375
-  recommendations: 58  final_actions: 102  procedural: 215
-member-vote rows: 1617  (csv reconcile: OK)
+meetings (json): 101
+motions: 365
+  recommendations: 55  final_actions: 102  procedural: 208
+member-vote rows: 1583  (csv reconcile: OK)
 contested (any nay/abstain): 4
 tally-only motions (names_recorded=false): 13
 tally mismatches: 0

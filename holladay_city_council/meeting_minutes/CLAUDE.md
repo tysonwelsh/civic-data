@@ -20,7 +20,7 @@ hand-authored); a member is flagged `mayor_rows_seen=yes` when the source printe
   handful of dates carry **two docs** (e.g. a 6:00 Regular meeting + a Legislative
   Breakfast/Meeting) — both retained, distinguished by `<pmnFileId>`.
 - `raw/` — the retained source PDFs (never modified).
-- `minutes_index.csv` — `date,year,title,slug,path,source(=pmn),source_url,format(=pdf-text),body`.
+- `minutes_index.csv` — `date,year,title,slug,path,source(=pmn, except ONE `suiteone` row),source_url,format(=pdf-text),body`. The exception is **2025-05-01**: PMN notice 990511 published the wrong minutes file (byte-identical to the 2025-05-15 minutes — a phantom meeting, removed 2026-07-31), so the true 05-01 minutes come from the city SuiteOne portal (`/event/GetMinutesFile/Minutes?mid=1156`). See `../_removed_duplicates/2026-07-31-g8/README.md`.
 - `minutes_unrecovered.csv` — **25 honest gaps**: meeting noticed on PMN but no Meeting-Minutes
   attachment published there (annual planning retreats that produce no minutes, a few work
   meetings, and recent 2026 meetings whose minutes are pending approval). Never stubbed.
@@ -71,4 +71,4 @@ is a derived convenience label, and **`vote` is NORMALIZED to the controlled voc
 Aye/Nay natively). So `all_votes.csv` carries **zero** `Yes`/`No` values by design — do not
 expect the raw source token in the `vote` column. Members keyed by surname as printed (source prints surnames
 only); OCR/spelling variants folded via `SURNAME_ALIASES` (Peterson→Petersen, Gibbon→Gibbons).
-702 motions, 2,475 vote rows (2,173 named), 6 contested motions, 365 mayor vote rows.
+702 motions, 2,483 vote rows (2,183 named), 7 contested motions, 367 mayor vote rows.

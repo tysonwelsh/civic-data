@@ -17,10 +17,10 @@ The machine-readable companion to this page is [`sources.csv`](sources.csv) — 
 
 - **Published by:** Greater Salt Lake MSD Planning & Development (for Magna)
 - **Portal:** Utah Public Notice (utah.gov/pmn; body 1559)
-- **Documents indexed:** 80  ·  **Date range:** 2019-03-14 to 2026-06-11
-- **Direct source URLs recorded:** 80/80 (100%)  ·  **Host(s):** www.utah.gov
-- **How the text was obtained:** pdf-text (80)
-- **Note:** Magna's Planning Commission is MSD-staffed; minutes begin 2019 (2017-2018 posted agendas only, 57 logged). Rezones keyed REZ####; recommends to Council. Born-digital.
+- **Documents indexed:** 76  ·  **Date range:** 2019-03-14 to 2026-06-11
+- **Direct source URLs recorded:** 76/76 (100%)  ·  **Host(s):** www.utah.gov
+- **How the text was obtained:** pdf-text (76)
+- **Note:** Magna's Planning Commission is MSD-staffed; minutes begin 2019 (2017-2018 posted agendas only, 57 logged). Rezones keyed REZ####; recommends to Council. Born-digital. ⚠ **PMN draft-copy trap:** a notice's `<Month> minutes.pdf` attachment is the DRAFT of the PREVIOUS meeting, not this one's minutes — only `YYMMDD_MagnaPC_MinutesApproved.pdf` belongs to the notice date. Four documents ingested the wrong way created phantom meetings on 2023-08-10 / 2023-10-12 / 2024-08-08 / 2025-10-16 and were de-ingested 2026-07-31 (retained in planning_commission/raw/_duplicate_drafts/; the four real meeting dates are now in minutes_unrecovered.csv).
 
 ## Public comments
 

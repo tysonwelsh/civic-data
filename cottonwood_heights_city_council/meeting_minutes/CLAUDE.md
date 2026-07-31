@@ -30,6 +30,23 @@ votes/<year>/…                           per-meeting extracted-vote JSON (audi
   plain UA.
 
 ## Vote schema + the structural facts
+> **2026-07-31 duplicate-ingest removal — the phantom "2025-05-06" council meeting.** The portal's
+> **May 6, 2025** row links Minutes doc **9961**, but that document IS the **May 20, 2025** minutes
+> (byte-identical, md5 `bf08f345181e6598b90f0619215bc5a7`, to doc **10171** on the May 20 row;
+> in-body header "HELD TUESDAY, MAY 20, 2025" + every page footer "Minutes for May 20, 2025";
+> re-fetched live 2026-07-31 — the city mis-upload is still there). The ingest therefore carried the
+> **same meeting under two dates**, double-counting **7 motions / 23 vote rows** (incl. the CDRA
+> motion 5). The 2025-05-06 doc + index row were removed, the markdown filed in
+> `../_removed_duplicates/` (so `fetch_new.py --ingest` can never re-add it), and the phantom's
+> vote JSON deleted. **The May 6, 2025 meeting itself is REAL** — portal Agenda doc 9809, Ordinance
+> **438** adopted 2025-05-06, two city YouTube recordings, and the May 20 minutes approve the
+> "Meetings of May 6, 2025" — so its minutes are an **honest gap**: a row was added to
+> `minutes_unrecovered.csv` (PMN body 2147 publishes no 2025 minutes at all; last minutes
+> attachment 2024-11-12 — GRAMA / corrected-repost lead). The retained raw
+> `raw/civicplus_2025-05-06_work-session-and-business-meeting.pdf` is kept (raws are never deleted)
+> and is byte-identical to the May 20 raw. Post-fix totals: **184 docs · 1,154 motions · 3,275 vote
+> rows** (db: 1,461 motions / 3,351 votes / 284 meetings).
+
 > **2026-07-17 PMN-leads recovery:** the **2022-01-25 Council Retreat** (PMN file 828275) was
 > promoted from `../pmn_backfill/` (a missing_minutes crosscheck lead — consensus/direction
 > retreat; 1 unanimous-consent adjourn). Being the **first council doc PMN-promoted**, the council

@@ -47,21 +47,30 @@ otherwise-unique link. `PROCEDURAL_RE` now excludes adjourn / recess / reconvene
 motions from candidacy. Effects: **50 ordinances recovered a unique link** to a motion that
 cites their own number verbatim, and **2019-13 became honestly `unlinked`** — its real
 adopting motion ("Commissioner Harvey moved to adopt Ordinance 2019-13 amending the Weber
-County Zoning Map to overlay the Solar Overlay Zone…", 2019-07-30, aye/aye/aye) is IN the
-minutes but was never extracted into the vote layer, so there is no motion row to point at.
-An instrument whose every reference is procedural keeps its row (date + `source_url` + a
-blank `title`, `match_confidence=unlinked`) rather than being dropped or mislinked.
-⚠ That missing 2019-07-30 motion is an extractor gap, not an ordinance-layer gap — logged
-for `db/extract_votes.py` (the roll call is interrupted by "Commissioner Harvey amended his
-motion to include that").
+County Zoning Map to overlay the Solar Overlay Zone…", 2019-07-30, aye/aye/aye) was IN the
+minutes but had never been extracted into the vote layer, so there was no motion row to
+point at. An instrument whose every reference is procedural keeps its row (date +
+`source_url` + a blank `title`, `match_confidence=unlinked`) rather than being dropped or
+mislinked.
 
-Link rates (2026-07-29): **247 / 277 ordinances (89.2%)** carry a unique enacting-motion
-link; **30** are honestly unlinked/ambiguous (two same-date/same-stage motions, or a
+**2019-13 RESOLVED (2026-07-31).** The missing motion was an `extract_votes.py` bug, not an
+ordinance-layer gap: when the roll-call scan stopped at the NEXT motion it resumed at
+`j + 1` and stepped over that motion, so any motion printed directly beneath a retracted /
+unvoted motion was lost — here the retracted "moved to adjourn the public meeting and
+reconvene the public hearing" that sits just above the Solar Overlay adoption. (The
+previously-suspected cause — the mid-roll "Commissioner Harvey amended his motion to include
+that" — was NOT the problem; the extractor scans past interleaved prose fine.) 2019-13 now
+carries a `unique` / `high` link to its own adopting motion with the full aye/aye/aye roll.
+
+Link rates (2026-07-31): **248 / 277 ordinances (89.5%)** carry a unique enacting-motion
+link; **29** are honestly unlinked/ambiguous (two same-date/same-stage motions, or a
 header-only reference — the register keeps the row and records `prior_readings`, but
-withholds the link). 276 of 277 have a named roll call available on the adopting motion
-(the exception is the unlinked 2019-13). Register-wide unique rate: 729 / 844 (86.4%).
-(Superseded: 193/269 71.7% and 589/807 73.0%, from the build before the 2026-07-26 OCR
-backfill and this repair.)
+withholds the link). **277 of 277** now have a named roll call available on the adopting
+motion. Register-wide unique rate: 731 / 845 (86.5%). Ordinances **2021-13 / 2021-14 /
+2021-15** moved from adoption_date 2021-06-01 to **2021-05-11** in the same pass — the
+2021-06-01 meeting was a phantom created by a county mis-post (see `../CLAUDE.md`), which
+had also given them a spurious extra "reading". (Superseded: 247/277 89.2% and 729/844
+86.4% on 2026-07-29; 193/269 71.7% and 589/807 73.0% before the 2026-07-26 OCR backfill.)
 
 ## `case_keys.csv` — land-use applications mined from the PC/BOA corpus
 

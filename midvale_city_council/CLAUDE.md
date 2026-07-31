@@ -55,10 +55,30 @@ VERIFICATION.md       independent QA + external election cross-check (REQUIRED; 
    as RDA/MBA Chair and does not vote). Totals now: **RDA 84 motions / 280 vote rows; MBA 5
    motions / 13 rows**. The same five councilmembers sit as the board.
 4. **The 2020–2021 OCR seam.** The 2020–2021 council minutes (and a few later scans) are
-   scanned image PDFs recovered via OCR (**30 council + 16 PC** files `format=ocr`; 2022+ is
+   scanned image PDFs recovered via OCR (**29 council + 16 PC** files `format=ocr`; 2022+ is
    born-digital text; 2020 has 9 `.docx` originals). OCR is clean enough that roll calls parse,
    but ~0.4% of OCR-era council rows carry garbled name variants (`Geftel`/`Oustin Gettel`/
    `Pau! Glover`) — a known limitation, not fabrication (`VERIFICATION.md` §e).
+
+5. **Separator-less Revize filenames are AMBIGUOUS — four phantom meetings came from that
+   (removed 2026-07-31).** Midvale files many minutes under a separator-less date run —
+   `CC Minutes 11723001.pdf`, `11123 Approved PC Minutes.pdf`, `CC Minutes 1212020.pdf`.
+   Each reads two ways (`11723` = 1-17-23 **or** 11-7-23), and the 2026-07-12 build picked
+   the wrong branch four times, filing January meetings under November/December dates on
+   which **no meeting was ever held** and double-counting their motions:
+   **Council 2020-12-01 ⇒ 2020-01-21 · 2022-11-08 ⇒ 2022-01-18 · 2023-11-07 ⇒ 2023-01-17 ·
+   PC 2023-11-01 ⇒ 2023-01-11.** All four phantoms are gone (−16 motions / −62 flat vote
+   rows / −4 meetings); every real meeting is still covered — the three council dates by the
+   PMN promotions (`provenance=pmn_minutes`), the PC date by its own correctly-dated audited
+   copy. The vacated dates carried no meeting at all (PMN bodies 753/754 show Council on
+   11-10 & 11-17 & 12-08 2020, 11-01 & 11-15 2022, 11-14 2023; PC on 11-08 2023 — 2022-11-08
+   and 2023-11-07 were municipal Election Days), so **nothing was added to
+   `minutes_unrecovered.csv`**. The retained originals live in each dataset's
+   `raw/_misdated/` with a README; `fetch_new.py` now **never guesses** a separator-less date
+   — it enumerates every calendar-valid reading and, when more than one survives, resolves
+   the date from the document's own header text (`_date_from_text`), leaving the file
+   RAW-ONLY if the document can't confirm one. The other 12 ambiguous-name docs in the index
+   were re-checked against their own header dates and are all correctly dated.
 
 ## Index + vote schemas are the collection standard
 - `minutes_index.csv`: `date,year,title,slug,path,source,source_url,format` — one row per
@@ -93,8 +113,7 @@ are point-in-time (Nov, odd years) and are NOT in the weekly bundles — join by
 - **Relational / cross-body** (PC recommendation → council outcome; RDA co-actions; member
   records): `db/civic.db` — read `db/SCHEMA.md` first; start from views `v_referral_chain`,
   `v_project_timeline`, `v_member_record`, `v_contested`. The `referral` layer is reconstructed
-  + scored (**114 links since the 2026-07-16 promotion: 42 high / 54 medium / 18 low**) —
-  respect the confidence column.
+  + scored (**113 links: 42 high / 53 medium / 18 low**) — respect the confidence column.
 - **Meeting-level / contextual**: the `weeks/<Tuesday-week>/` bundle (start with `summary.md`).
 - **By member**: join election winners (`election_results/`) ↔ votes. **Mind the Gettel
   council→mayor seam** and the D5 Gettel→Mikolash succession (Jan 2025).

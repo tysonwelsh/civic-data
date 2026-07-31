@@ -298,3 +298,49 @@ removals are the two repaired docs (60 + 14 rows), all accounted for above. db r
 2022-04-21 + 2023-11-01). `scripts/validate_city.py` → **24 PASS / 2 WARN / 0 FAIL** (the
 2 WARNs are the documented `provenance` extra column). Federation into `cities.db` is
 deliberately left to the orchestrator.
+
+---
+
+## Addendum 2026-07-31 — the 2021-03-12 phantom (duplicate-ingest date collision)
+
+**Defect.** `meeting_minutes` carried TWO records of one meeting: `2021-03-12`
+"Special City Council Meeting" (audited portal doc, `provenance=minutes`) and
+`2021-03-18` "Special City Council Meeting (PMN-recovered minutes)"
+(`provenance=pmn_minutes`). Same 2 motions, same 5-name roll, same mover/seconder —
+2 motions / 6 `all_votes.csv` rows / 5 `vote` rows double-counted.
+
+**Adjudication (both dates are real; one DOCUMENT was filed under the wrong one).**
+
+| Evidence | Says |
+|---|---|
+| Document header, both copies | "**Thursday, March 18, 2021**" — and 2021-03-18 *was* a Thursday (2021-03-12 was a Friday) |
+| Narrative | "the meeting was held on **Thursday, March 18, 2021 at 2:30 p.m.**" |
+| Certification | Wendy Thorpe certifies "the meeting held on **March 18, 2021**"; "Approved April 14, 2021" |
+| PMN notice **664571** (body 1155) | Special Meeting **2021/03/18 01:30 PM–06:00 PM**, attachment `2021_03_18 SCCM Minutes.pdf` (file 707985) added **April 15, 2021** — matches the 2:38 p.m. call-to-order / 5:00 p.m. adjournment |
+| PMN notice **663195** (body 1155) | a **separate** Special Meeting **2021/03/12 09:00 AM**, attachment `2021_03_12 SCCM Minutes.pdf` (file **701319**) |
+| PMN file 701319 (fetched + read 2026-07-31) | "**Friday, March 12, 2021**", **11:00 a.m.**, approved **March 24, 2021**, certified by **City Recorder Jackie Nostrom**, **Ohrn** moved / **Smith** seconded, Henderson arrived **11:26 a.m.**, adjourned **12:13 p.m.** — a DIFFERENT meeting with a DIFFERENT roll order and DIFFERENT times |
+| Only counter-evidence | a stale page-2 footer, "March 12, 2021 – Special City Council Meeting Minutes", inside the March-18 document (the clerk templated it from the March-12 minutes and missed the footer) — plus the PrimeGov meeting-slot date |
+
+**Verdict.** Both 2021-03-12 and 2021-03-18 were real special council meetings. The
+document sitting in PrimeGov's Minutes slot for meeting 168 / `meetingTemplateId=857`
+is the **March 18** minutes — a wrong-file upload, the same class of defect as
+st_george 2025-10-09. The `2021-03-12` repo record was therefore a **phantom**
+duplicate of the correctly-dated `2021-03-18` pmn_backfill record.
+
+**Action.** Removed `meeting_minutes/minutes/2021/2021-03-08/2021-03-12_special-city-council-meeting.md`,
+its `minutes_index.csv` + root `sources.csv` rows, and its `votes/` JSON. The raw PDF
+`meeting_minutes/raw/2021-03-12_168.pdf` is **retained** (originals are never deleted)
+and `fetch_new.py` now carries a `WRONG_FILE_SLOTS` guard so even a
+`--force-full-rebuild` cannot re-index it. `2021-03-12` was added to
+`meeting_minutes/minutes_unrecovered.csv` — the meeting is real and its minutes are NOT
+in the repo. **It is recoverable, not dead:** PMN file 701319 holds them; fetching it
+into `pmn_backfill/` and promoting via `extract_backfill_votes.py` is queued (kept out
+of this pass so the row delta stayed phantom-only).
+
+**Delta (expected-rows-only, verified at the (source,date,body,motion_no,member,vote)
+grain, never by id).** `all_votes.csv` 4,335 → **4,329** rows (−6, all `2021-03-12`);
+`db/civic.db` motions 2,274 → **2,272** (−2), votes 6,958 → **6,953** (−5, the 6th row is
+the tally-only adjournment placeholder), meetings 355 → **354** (−1). PMN promotion
+intact: **690** `pmn_minutes` rows in `meeting_minutes` (unchanged). Referrals unchanged
+at 51 (23 high / 22 medium / 6 low). `validate_votes.py` HARD FAILURES 0;
+`scripts/validate_entity.py herriman` → 0 FAIL.

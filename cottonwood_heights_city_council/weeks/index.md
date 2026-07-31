@@ -144,7 +144,6 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2025-03-18](2025-03-18/summary.md) | 0 | 1 | 6 | 0 |
 | [2025-04-01](2025-04-01/summary.md) | 0 | 1 | 7 | 0 |
 | [2025-04-15](2025-04-15/summary.md) | 0 | 1 | 11 | 1 |
-| [2025-05-06](2025-05-06/summary.md) | 0 | 1 | 7 | 0 |
 | [2025-05-20](2025-05-20/summary.md) | 0 | 1 | 7 | 0 |
 | [2025-06-03](2025-06-03/summary.md) | 0 | 1 | 8 | 0 |
 | [2025-06-17](2025-06-17/summary.md) | 0 | 1 | 13 | 0 |

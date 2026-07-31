@@ -25,6 +25,15 @@ Portal pattern (utah.gov/pmn; every URL verified against the live site):
     yet posted — that is the normal "pending" state (logged, never stubbed, in
     minutes_unrecovered.csv), NOT a fetch bug. --fetch only writes a doc when a
     real Meeting-Minutes attachment (recorded motion prose) is found.
+  * ⚠ WRONG-FILE UPLOADS. The city has attached the WRONG minutes PDF to a notice
+    at least once: PMN notice 990511 (Council 2025-05-01) carries a Meeting-Minutes
+    attachment literally named "051525 CC Mtg.pdf" (file 1282121) that is
+    BYTE-IDENTICAL to file 1282125, the 2025-05-15 minutes. Ingesting it created a
+    phantom 2025-05-01 meeting that double-counted 3 motions (removed 2026-07-31;
+    the true 05-01 minutes were recovered from SuiteOne mid=1156). The same defect
+    class is logged for PC 2020-04-07 in pmn_backfill/unrecovered.csv. --fetch
+    therefore HASHES every downloaded PDF and REFUSES to index one whose bytes
+    already exist under another meeting date (see _known_pdf_hashes / _fetch).
   * ⚠ PC PMN GAP. Holladay posts PC minutes to PMN only intermittently — 2020,
     2021, and 2023 PC minutes were never posted as Meeting-Minutes attachments
     (89 honest gaps). A forward refresh cannot recover those; they would need the
@@ -45,6 +54,7 @@ append_index_rows skips any path already indexed; a relaunch only does the
 outstanding work. Read-only GETs of public records throughout.
 """
 
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -137,11 +147,32 @@ def _minutes_pdf_id(notice_url):
     return best
 
 
+def _date_of_raw(p):
+    """Meeting date encoded in a raw/ filename (raw names are <iso>_<slug>_<tok>.pdf)."""
+    m = re.match(r"(\d{4}-\d{2}-\d{2})_", p.name)
+    return m.group(1) if m else ""
+
+
+def _known_pdf_hashes(dataset_dir):
+    """{sha256: meeting_date} for every raw PDF already on disk for this dataset.
+
+    Guards the WRONG-FILE-UPLOAD defect (module docstring): the city has attached one
+    meeting's minutes PDF to another meeting's PMN notice, which — since the date comes
+    from the NOTICE and the content from the ATTACHMENT — silently mints a phantom
+    meeting whose motions double-count. Byte identity is the cheapest sound test.
+    """
+    out = {}
+    for p in sorted((dataset_dir / "raw").glob("*.pdf")):
+        out.setdefault(hashlib.sha256(p.read_bytes()).hexdigest(), _date_of_raw(p))
+    return out
+
+
 def fetch(dataset):
     dataset_dir = CITY_DIR / dataset
 
     def _fetch(new_items):
         n = 0
+        seen = _known_pdf_hashes(dataset_dir)
         for it in new_items:
             fid = _minutes_pdf_id(it["notice_url"])
             if not fid:
@@ -152,7 +183,24 @@ def fetch(dataset):
             pdf_url = f"{PMN}/pmn/files/{fid}.pdf"
             raw = dataset_dir / "raw" / fname
             if not raw.exists():
-                rl.save_raw(dataset_dir, fname, rl.http_get(pdf_url, binary=True, ua=UA))
+                body = rl.http_get(pdf_url, binary=True, ua=UA)
+                digest = hashlib.sha256(body).hexdigest()
+                other = seen.get(digest)
+                if other and other != iso:
+                    # Same bytes already indexed under a DIFFERENT meeting date =>
+                    # the notice carries the wrong attachment. Refuse to index; a
+                    # phantom meeting is worse than a logged gap (cardinal rule 1).
+                    print(f"    ⚠ WRONG-FILE UPLOAD, NOT INDEXED: {iso} {it['title']} — "
+                          f"{pdf_url} is byte-identical to the already-indexed {other} "
+                          f"minutes. Log {iso} in minutes_unrecovered.csv, or recover the "
+                          f"true minutes from the city SuiteOne portal "
+                          f"(holladayut.suiteonemedia.com, /event/GetMinutesFile/"
+                          f"Minutes?mid=<mid>) as was done for 2025-05-01 on 2026-07-31.")
+                    continue
+                rl.save_raw(dataset_dir, fname, body)
+                seen.setdefault(digest, iso)
+            else:
+                seen.setdefault(hashlib.sha256(raw.read_bytes()).hexdigest(), iso)
             text = rl.pdf_to_text(raw)
             rel = rl.minutes_rel_path(iso, f"{slug}_{fid}", ext="md", prefix="minutes")
             md = dataset_dir / rel

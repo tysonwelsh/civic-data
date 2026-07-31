@@ -95,6 +95,38 @@ S3_2020 = {
     ],
 }
 
+# ---------------------------------------------------------------------------
+# WRONG-FILE PORTAL SLOTS — meetings whose PrimeGov "Minutes" document is NOT
+# that meeting's minutes (a city-side clerk mis-upload).  Keyed
+# (dataset, date, primegov meeting id).  The raw PDF is still downloaded and
+# RETAINED under raw/ (originals are never deleted); it is simply never turned
+# into an indexed minutes document, so a --force-full-rebuild cannot resurrect
+# the phantom.  Each entry MUST be source-verified and ledgered in the dataset's
+# minutes_unrecovered.csv.
+#
+#   ("meeting_minutes", "2021-03-12", 168)  — verified 2026-07-31.  PrimeGov
+#   meetingTemplateId=857 serves the **March 18, 2021** special-meeting minutes
+#   (header + narrative + Wendy Thorpe certification all say "Thursday, March 18,
+#   2021", 2:30 p.m., approved April 14, 2021; only a stale page-2 footer reads
+#   "March 12").  That is a byte-for-content duplicate of the pmn_backfill
+#   2021-03-18 record (PMN notice 664571 / file 707985, meeting noticed
+#   2021/03/18 01:30 PM).  A REAL but DIFFERENT March 12 meeting exists — PMN
+#   notice 663195, 2021/03/12 09:00 AM, attachment "2021_03_12 SCCM Minutes.pdf"
+#   (file 701319): "Friday, March 12, 2021", 11:00 a.m., approved March 24, 2021,
+#   certified by City Recorder Jackie Nostrom.  Recovering 701319 into
+#   pmn_backfill/ is the queued fix; until then 2021-03-12 is an honest gap.
+WRONG_FILE_SLOTS = {
+    ("meeting_minutes", "2021-03-12", 168),
+}
+
+
+def is_wrong_file_slot(dataset, item):
+    try:
+        mid = int(item.get("mid"))
+    except (TypeError, ValueError):
+        return False
+    return (dataset, item.get("date"), mid) in WRONG_FILE_SLOTS
+
 
 def body_for(dataset, title):
     if dataset == "planning_commission":
@@ -232,6 +264,11 @@ def build_from_raw(dataset, items):
     for it in sorted(items, key=lambda x: (x["date"], str(x["mid"]))):
         rp = raw_dir / raw_name(it)
         if not rp.exists():
+            continue
+        if is_wrong_file_slot(dataset, it):
+            # portal slot serves another meeting's minutes — raw kept, never indexed
+            print(f"    WRONG-FILE SLOT, not indexed: {it['date']} mid={it['mid']} "
+                  f"(see WRONG_FILE_SLOTS + {dataset}/minutes_unrecovered.csv)")
             continue
         h = hashlib.sha256(rp.read_bytes()).hexdigest()
         if h in seen_hash:

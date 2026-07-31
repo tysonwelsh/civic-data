@@ -80,9 +80,25 @@ a stale-roll clerk anomaly, retained as printed (1 vote row).
   (e.g. 2020-03-25, 05-13, 09-09 council, 09-23, 10-14, 11-05, 12-09; PC 12-03).
   ✅ **PROMOTED (2026-07-16):** those recovered minutes (and every other recovered doc)
   are now in the vote layer with `provenance=pmn_minutes`. `minutes_unrecovered.csv` now
-  EXISTS in both datasets for the only remaining true gaps: 2020-07-29 joint (never
-  posted; PMN audio exists), PC 2022-04-21 (PMN "Minutes" file is a mislabeled zoning
+  EXISTS in both datasets for the remaining true gaps: 2020-07-29 joint (never
+  posted; PMN audio exists), 2023-08-22 HCSEA + 2023-08-23 CDRA, **2021-03-12 council
+  (added 2026-07-31)**, PC 2022-04-21 (PMN "Minutes" file is a mislabeled zoning
   use-table) and PC 2023-11-01 (only a DRAFT exists — kept as a pmn_backfill sidecar).
+- ⚠ **A PORTAL SLOT CAN SERVE THE WRONG MEETING'S PDF (found 2026-07-31).** PrimeGov's
+  Minutes document for council meeting **2021-03-12** (`meetingTemplateId=857`) is
+  actually the **March 18, 2021** minutes — header, narrative and Wendy Thorpe's
+  certification all say Thursday March 18 (a Thursday; March 12 was a Friday), matching
+  PMN notice 664571 (2021/03/18 1:30 PM); only a stale page-2 footer says "March 12".
+  It duplicated the correctly-dated `2021-03-18` pmn_backfill record, so the 2021-03-12
+  record was **removed as a phantom** (−2 motions / −6 vote rows). **Both dates are real
+  meetings** — PMN notice 663195 shows a separate 2021/03/12 09:00 AM special meeting
+  whose true minutes (PMN file **701319**: "Friday, March 12, 2021", 11:00 a.m., approved
+  March 24 2021, certified by Jackie Nostrom) are NOT yet in the repo. Ledgered in
+  `meeting_minutes/minutes_unrecovered.csv`; **recovery via pmn_backfill is queued, not
+  impossible.** The raw wrong-file PDF is retained and `fetch_new.py`'s
+  `WRONG_FILE_SLOTS` guard stops any rebuild re-indexing it. Full evidence table:
+  `VERIFICATION.md` addendum 2026-07-31. **Lesson: a PrimeGov meeting-slot date is not
+  evidence of a document's date — check the header weekday against the calendar.**
 - `all_votes.csv`: the 13-column standard
   (`date,year,title,body,motion_no,motion,motion_type,result,mover,seconder,member,vote,source`)
   **+ a documented trailing 14th `provenance` column since 2026-07-16**
@@ -207,7 +223,11 @@ PASS; none modify the core layer. Join to `all_votes.csv`/minutes by `date` (+ `
   docs merged into the vote layer (`provenance=pmn_minutes`); NOT promoted: 2021-01-13
   CDRA (duplicate), PC 2023-11-01 (draft), PC 2022-04-21 (mislabeled non-minutes), the 2
   **AppealAuthority** hearings (no appeals body in the city model — catalogued only;
-  modeling them is an open follow-up). Only 2020-07-29 joint minutes remain truly missing.
+  modeling them is an open follow-up). ⚠ **NOT a superset in the other direction either**
+  (2026-07-31): PMN body 1155 notice 663195 carries `2021_03_12 SCCM Minutes.pdf`
+  (file **701319**) — a real council meeting absent from this backfill and from the
+  audited layer. **Queued for recovery**; see `minutes_unrecovered.csv` 2021-03-12 and
+  the `VERIFICATION.md` addendum 2026-07-31.
 - **`transcripts/`** — YouTube "Herriman City" (/streams): **677 meeting videos,
   2017-11→2026-07** (Council 465 / PC 180 / Joint 21), ASR captions on everything, zero
   manual; 10 sample VTTs. PrimeGov `ListArchivedMeetings` carries a clerk-entered `videoUrl`

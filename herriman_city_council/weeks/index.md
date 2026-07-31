@@ -40,7 +40,7 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2021-02-24](2021-02-24/summary.md) | 0 | 3 | 10 | 0 |
 | [2021-03-03](2021-03-03/summary.md) | 0 | 3 | 6 | 0 |
 | [2021-03-10](2021-03-10/summary.md) | 0 | 3 | 7 | 0 |
-| [2021-03-17](2021-03-17/summary.md) | 0 | 2 | 5 | 0 |
+| [2021-03-17](2021-03-17/summary.md) | 0 | 1 | 3 | 0 |
 | [2021-03-24](2021-03-24/summary.md) | 0 | 1 | 12 | 1 |
 | [2021-03-31](2021-03-31/summary.md) | 0 | 1 | 2 | 0 |
 | [2021-04-14](2021-04-14/summary.md) | 0 | 2 | 8 | 0 |

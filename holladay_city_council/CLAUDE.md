@@ -48,6 +48,17 @@ VERIFICATION.md       independent QA + external election cross-check (§6 there)
    from **Utah Public Notice** — council **public body 388**, PC **public body 389**
    (`utah.gov/pmn/files/<id>.pdf`; the `<id>` is the trailing filename token and the
    `source_url`). No OCR anywhere (corpus screen: 0 stubs, 0 low-alpha, both bodies).
+   **One documented exception (2026-07-31):** PMN notice 990511 (Council **2025-05-01**)
+   published the **WRONG minutes file** — its Meeting-Minutes attachment `1282121` is named
+   `051525 CC Mtg.pdf` and is **byte-identical** to `1282125`, the 2025-05-15 minutes. Ingesting
+   it had minted a **phantom 2025-05-01 meeting** double-counting 3 motions. The phantom was
+   removed and the **true 05-01 minutes recovered from the city SuiteOne portal**
+   (`holladayut.suiteonemedia.com/event/GetMinutesFile/Minutes?mid=1156`, event 2903) — so the
+   council `minutes_index.csv` now carries **one `source=suiteone` row** alongside 151 `pmn`
+   rows (the PC index likewise carries 27 `source=wayback` rows). Details + evidence:
+   `_removed_duplicates/2026-07-31-g8/README.md`. `fetch_new.py --fetch` now **hashes every
+   downloaded PDF and refuses to index bytes already on disk under another meeting date**, so a
+   refresh cannot re-create this phantom.
 5. **Two vote-grammar eras.** **Legacy (2020–2021)** minutes print a **prose roll** ("The Council
    roll call vote was as follows: Council Members A, B, C and Mayor Dahle in favor [with X
    opposed]" → favor=Aye, opposed=Nay). **Modern (2022+)** prints a named inline roll
@@ -114,7 +125,7 @@ vote rows); 2020 H2 / 2021 H2 / all of 2023 remain genuinely unrecoverable).
 
 ## Analysis guidance
 - Councils are high-consensus — **contested votes (any Nay/Abstain/Recuse) are the signal**
-  (db `v_contested` = 32 motions; 6 contested council + 26 contested PC — 15 of the PC ones
+  (db `v_contested` = 33 motions; 7 contested council + 26 contested PC — 15 of the PC ones
   from the 2020/2021 Wayback-promoted minutes). `summary.md` surfaces
   them per week.
 - Coverage seams + honest gaps are documented in `README.md`, `recon.md`, and `VERIFICATION.md`

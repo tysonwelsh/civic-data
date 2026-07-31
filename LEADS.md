@@ -83,6 +83,17 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   2026 pending minutes + ordinance back-catalog. (L2233–2709, L1907/1911/1987)
 - **Ogden referrals FP class** — two named CRAs sharing the generic 'Community Reinvestment
   Project Area' string. (L1801)
+- **2026-07-31 (G8b wave): the vacated-date recovery class** — removing 17 phantom
+  duplicate-ingests exposed ~10 REAL meetings whose minutes are genuinely unpublished, each
+  ledgered in its entity's minutes_unrecovered.csv: weber 2021-06-01 (county mis-post, both
+  channels verified), nephi 2024-10-01, vineyard PC 2023-04-19 (GRAMA-only), CH 2025-05-06
+  (portal slot serves the wrong file, verified live), WVC PC 2024-07-10 + 2025-04-16, magna
+  PC ×4 (approved but never posted; audio exists), summit ESPC 2022-08-04 (PMN body 1503),
+  herriman 2021-03-12. Recovery channels: next-refresh re-probes, PMN, GRAMA drafts.
+- **2026-07-31 (weber residual): possible 2022-01-11 redate** — min_01112022.pdf prints
+  'Tuesday, January 18, 2022' in its title block and the county lists NO 01-18 meeting
+  anywhere; warrant-sequence evidence suggests a clerk header typo in a real Jan-11 meeting.
+  Unresolved observation, deliberately not acted on; details in weber_county/CLAUDE.md.
 - **2026-07-31: mag_mpo named-dissent parsing** — the G8a grammar fix recovered divided-vote
   result sentences that sometimes NAME dissenters (2015-11-05 twelve named nays; 2014-09-04
   three named + one abstain). Parsing those rare sentences into `vote` rows would give MAG a

@@ -2,8 +2,8 @@ Herriman council-family backfill (pmn_backfill -> meeting_minutes/all_votes.csv)
 recovered meetings parsed : 56
 recovered motions         : 246
 recovered rows            : 690
-canonical rows            : 3645
-merged total rows         : 4335
+canonical rows            : 3639
+merged total rows         : 4329
 zero-vote recovered docs  : 0
 whitelisted (body,date) collisions: 3
     ('Council', '2020-09-30') :: text/pmn_council_2020-09-30_660952.md (whitelisted, verified distinct session)

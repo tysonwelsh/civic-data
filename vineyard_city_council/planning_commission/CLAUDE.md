@@ -6,8 +6,9 @@ body), 2020–2026, extracted from the minutes markdown. Mirrors the council pip
 PC-specific roles, a reconstructed appointed roster, and a recommendation-vs-final-action tag.
 
 ## What's here
-- `minutes/<year>/<week-monday>/<date>_planning-commission-meeting.md` — **102 minutes**
-  (index: `minutes_index.csv`). Meetings with no published minutes yet: `minutes_unrecovered.csv`.
+- `minutes/<year>/<week-monday>/<date>_planning-commission-meeting.md` — **101 minutes**
+  (index: `minutes_index.csv`). Held meetings whose minutes we do NOT have — not yet posted, or
+  (2023-04-19) posted as the wrong document: `minutes_unrecovered.csv` (16 rows).
 - `extract_votes.py` — reads `minutes_index.csv`, parses each meeting's `Motion:` blocks →
   per-meeting JSON + rebuilds `all_votes.csv` + `roster.csv`. Resumable: skips a meeting
   whose JSON already exists unless `--force`.
@@ -22,13 +23,24 @@ PC-specific roles, a reconstructed appointed roster, and a recommendation-vs-fin
 Run order: `python3 extract_votes.py && python3 validate_votes.py`.
 
 ## Headline numbers (current build)
-102 meetings · 375 motions · 1,617 member-vote rows · 23 distinct commissioners.
-58 recommendations · 102 final actions · 215 procedural · 4 contested · 13 tally-only.
+101 meetings · 365 motions · 1,583 member-vote rows · 23 distinct commissioners.
+55 recommendations · 102 final actions · 208 procedural · 4 contested · 13 tally-only.
 Validation: **PASS** (0 tally mismatches, 0 off-roster, 0 out-of-range, CSV reconciles).
 NB 2026-07-02 repair: the CivicClerk minutes attachment for event 815 (2023-06-21) is a
 mis-uploaded copy of the 2023-06-07 minutes; the real June 21 minutes were recovered from
 PMN (`source=pmn` in the index). Its clerk-typo `MOTION.` header and `Graden Oster`
 spelling are handled in `extract_votes.py` (see `../VERIFICATION.md`).
+NB 2026-07-31 repair (**same defect family, second instance**): the CivicClerk minutes
+attachment for event 792 (**2023-04-19**) is likewise a mis-upload — fileId 1281
+"901m-4.5.23 PC final  meeting minutes", the DRAFT of the **2023-04-05** minutes (event 787 /
+fileId 1275 is the certified FINAL of the same document; in-body header on both reads
+"Wednesday April 5, 2023"). The phantom 2023-04-19 meeting (10 motions / 34 member-vote rows,
+a byte-for-byte double-count of April 5) was removed. The April 19, 2023 meeting **did happen**
+(event 792 carries agenda fileId 1280 "901a-4.19.23 PC Meeting Agenda with Attachments", and the
+2023-12-06 PC minutes approve "the April 19, 2023 PC Meeting Minutes" as consent item 4.1) —
+its minutes are **unrecovered on every channel** and are now ledgered in
+`minutes_unrecovered.csv`. Unlike the 2023-06-21 case, PMN cannot supply them (body 531 retains
+only 2015–2018 + 2024-02-07; the 2019–2023 blobs are purged).
 
 ## `result` encodes recommendation vs final action vs procedural (machine-detectable)
 The Planning Commission **recommends** some matters to the City Council (rezones, plats,

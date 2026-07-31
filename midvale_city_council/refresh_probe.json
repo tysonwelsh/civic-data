@@ -1,26 +1,32 @@
 {
   "meeting_minutes": {
-    "probe_date": "2026-07-18",
+    "probe_date": "2026-07-31",
     "portal": "revize",
     "index_max_date": "2026-06-16",
-    "index_rows": 151,
+    "index_rows": 148,
     "fetch_cmd": "python3 fetch_new.py --fetch --dataset meeting_minutes",
     "status": "ok",
     "endpoint": "https://www.midvale.utah.gov/government/departments/recorder_s_office/agendas___minutes.php",
-    "new_count": 0,
-    "notes": "",
-    "new_items": []
+    "new_count": 1,
+    "notes": "separator-less filenames are ambiguous; rows with date_ambiguous=true are date-resolved from the document text at --fetch time, never from the filename",
+    "new_items": [
+      {
+        "date": "2026-07-07",
+        "title": "City Council Regular Meeting",
+        "url": "https://www.midvale.utah.gov/Document%20Center/Agendas%20&%20Minutes/Recorders%20Office/2026/Minutes/CC%20Minutes%207-7-2026.pdf?t=202607221923550"
+      }
+    ]
   },
   "planning_commission": {
-    "probe_date": "2026-07-18",
+    "probe_date": "2026-07-31",
     "portal": "revize",
     "index_max_date": "2026-06-24",
-    "index_rows": 104,
+    "index_rows": 103,
     "fetch_cmd": "python3 fetch_new.py --fetch --dataset planning_commission",
     "status": "ok",
     "endpoint": "https://www.midvale.utah.gov/government/departments/community_development/planning_and_zoning/planning___zoning_commission.php",
     "new_count": 0,
-    "notes": "recent PC minutes are bare-relative root-level files served at the site root",
+    "notes": "recent PC minutes are bare-relative root-level files served at the site root; separator-less filenames are ambiguous and are date-resolved from the document text at --fetch time",
     "new_items": []
   }
 }

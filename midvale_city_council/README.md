@@ -13,15 +13,15 @@ all as markdown/CSV. See `CLAUDE.md` for analysis guidance and each subfolder's 
 
 | Dataset | Coverage | Volume | Source | Status |
 |---|---|---|---|---|
-| Council + RDA minutes | 2020-01-07 → 2026-06-16 | **151 md** (== 151 index) **+ 25 PMN-promoted docs** (in `pmn_backfill/text/`, merged 2026-07-16) | Revize Document Center (recorder agendas-&-minutes landing) + Utah Public Notice recovery | ✅ complete; 121 `text` + **30 `ocr`** (**2020–2021 minutes are scanned image PDFs → OCR**); **1 unrecovered** (2023-01-17 RDA session's own minutes, logged) |
-| Council + RDA + MBA votes | 2020–2026 | **1,530 motions** · **4,788 vote rows** (Council 4,495 + **RDA 280** + **MBA 13**) | extracted from minutes (`extract_votes.py` + `extract_backfill_votes.py`) | ✅ verified; **named tabular roll calls**; **mayor votes ONLY on ties** (max ordinary roll = 5); trailing **`provenance`** column (`minutes` audited / `pmn_minutes` recovered) |
+| Council + RDA minutes | 2020-01-07 → 2026-06-16 | **148 md** (== 148 index) **+ 25 PMN-promoted docs** (in `pmn_backfill/text/`, merged 2026-07-16) | Revize Document Center (recorder agendas-&-minutes landing) + Utah Public Notice recovery | ✅ complete; 119 `text` + **29 `ocr`** (**2020–2021 minutes are scanned image PDFs → OCR**); **1 unrecovered** (2023-01-17 RDA session's own minutes, logged) |
+| Council + RDA + MBA votes | 2020–2026 | **1,513 motions** · **4,735 vote rows** (Council 4,442 + **RDA 280** + **MBA 13**) | extracted from minutes (`extract_votes.py` + `extract_backfill_votes.py`) | ✅ verified; **named tabular roll calls**; **mayor votes ONLY on ties** (max ordinary roll = 5); trailing **`provenance`** column (`minutes` audited / `pmn_minutes` recovered) |
 | PC minutes | 2020-01-08 → 2026-06-24 | **103 md** (== 103 index) | Revize Document Center (Planning & Zoning Commission landing) | ✅ complete; 87 `text` + 16 `ocr`; **1 unrecovered** (2024-08-28 corrupt scan, logged) |
 | PC votes | 2020–2026 | **669 motions** · **1,994 vote rows** | extracted from minutes (`extract_votes.py`) | ✅ verified; named/voice/tabular rolls (P&Z seats up to 7) |
-| Relational db (`db/civic.db`) | 2020–2026 | **2,199 motions** · **5,802 votes** · **114 referrals** (42 high / 54 med / 18 low) | standard cross-body schema | ✅ reconciles exactly (5,802 named CSV rows == 5,802 db votes, by body); `motion.provenance` = `minutes` (2,020) / `pmn_minutes` (179); see `db/SCHEMA.md` |
+| Relational db (`db/civic.db`) | 2020–2026 | **2,186 motions** · **5,752 votes** · **113 referrals** (42 high / 53 med / 18 low) | standard cross-body schema | ✅ reconciles exactly (5,752 named CSV rows == 5,752 db votes, by body); `motion.provenance` = `minutes` (2,007) / `pmn_minutes` (179); see `db/SCHEMA.md` |
 | Public comments | — | **header-only CSV** | n/a — SUBMIT-ONLY | ⚠ **HONEST-EMPTY** — Midvale publishes no written-comment archive; see `public_comments/AVAILABILITY.md` |
 | Election results | 2007 → 2025 | **39 races** · candidate + precinct tables | Salt Lake County SOVC (2019 recovered from raw SOVC) | ✅ verified; all winners match outside sources (`VERIFICATION.md`) |
 | Geo (address→district) | current 5-district plan | **5 districts + 38 precincts** | official City_Council_Districts FeatureServer (ArcGIS) | ✅ tool + geojson; resolver tested (City Hall → D5) |
-| Weekly bundles | 2020–2026 | **159 week bundles** | derived (`build_weeks.py`, Tuesday grid) | ✅ regenerable; PMN-promoted weeks list votes whose minutes text lives in `pmn_backfill/text/` |
+| Weekly bundles | 2020–2026 | **156 week bundles** | derived (`build_weeks.py`, Tuesday grid) | ✅ regenerable; PMN-promoted weeks list votes whose minutes text lives in `pmn_backfill/text/` |
 
 `result` and `motion_type` are city-verbatim; cross-city comparison goes through
 `motions_std.csv` (council + PC motion rows) and the repo-root `crosswalks/`.

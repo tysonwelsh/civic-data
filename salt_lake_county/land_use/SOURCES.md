@@ -48,6 +48,16 @@ was cross-checked against its label month (0 mismatches). Approved-minutes files
 preferred; where the same meeting's minutes were uploaded to multiple notices, duplicates
 were collapsed to one record.
 
+⚠ **Ceiling of the header-text fallback (found 2026-07-31).** The header can carry a
+clerk typo, and then the two postings of one meeting do NOT collapse — they land on two
+dates. That happened once: PMN file `1240211` (draft) headed "Wednesday, December 10,
+2024" vs file `1250791` (approved, `241211…` prefix) for the SAME meeting. December 10,
+2024 was a Tuesday; the PC meets Wednesday, and the 2025-03-26 minutes approve the
+"December 11, 2024" minutes — so **2024-12-11** is real and the 2024-12-10 record was a
+phantom (removed; see `CLAUDE.md`). **Dating check to apply on any refresh:** the header
+date's weekday must match the body's stated weekday, and both postings of a meeting must
+resolve to one date before indexing.
+
 ## Extraction
 
 All PDFs are born-digital; text extracted with `pypdf`. **Zero image-only / OCR files** —

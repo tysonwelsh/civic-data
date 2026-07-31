@@ -2,15 +2,15 @@
 
 Civic records of the Cottonwood Heights City Council (with in-session CDRA sessions) and Planning Commission, 2020-present, plus municipal election results back to 2009 (incorporated 2005). Minutes are published on the city's Granicus/CivicEngage portal, whose rolling ~5-year window was backfilled from Utah Public Notice. 4 district councilmembers + a separately-elected VOTING Mayor (max council roll = 5). Cottonwood Heights publishes no written public-comment compilations (submit-only). Election results are produced by the Salt Lake County Clerk.
 
-The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-19 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py cottonwood_heights`.
+The machine-readable companion to this page is [`sources.csv`](sources.csv) — one row per source document with its original URL (where recorded), local path, and extraction method. Generated 2026-07-31 by `scripts/build_sources_index.py`; regenerate with `python3 scripts/build_sources_index.py cottonwood_heights`.
 
 ## Council meeting minutes
 
 - **Published by:** Cottonwood Heights City Recorder
 - **Portal:** Granicus/CivicEngage (cottonwoodheights.utah.gov) unioned with Utah Public Notice (council body 2147)
-- **Documents indexed:** 185  ·  **Date range:** 2020-01-06 to 2026-06-16
-- **Direct source URLs recorded:** 185/185 (100%)  ·  **Host(s):** web.archive.org, www.cottonwoodheights.utah.gov, www.utah.gov
-- **How the text was obtained:** pdf-text (184), docx-text (1)
+- **Documents indexed:** 184  ·  **Date range:** 2020-01-06 to 2026-06-16
+- **Direct source URLs recorded:** 184/184 (100%)  ·  **Host(s):** web.archive.org, www.cottonwoodheights.utah.gov, www.utah.gov
+- **How the text was obtained:** pdf-text (183), docx-text (1)
 - **Note:** Born-digital text PDFs (+ a few .docx). The CivicEngage portal only retains ~5 years (2022 column decayed to 4 docs), so 2020-2024 was backfilled from PMN. The MAYOR VOTES (max council roll = 5: 4 districts + mayor). Council also convenes in-session as the CDRA (Community Development & Renewal Agency; body=CDRA).
 
 ## Planning Commission minutes

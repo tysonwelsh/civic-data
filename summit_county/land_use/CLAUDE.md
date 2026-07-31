@@ -25,7 +25,8 @@ approval (CUP / plat amendment / low-impact permit) they hold final authority ov
 - `minutes_index.csv` — one row per meeting: `date, body, body_slug, md_path, source_url,
   provenance, minutes_status, text_chars, note`.
 - `all_votes.csv` — one row per **named** voter position (see ceiling below).
-- `motions_tally.csv` — one row per **motion** (all 1,571), with tally counts + mover/seconder.
+- `motions_tally.csv` — one row per **motion** (all 1,566; was 1,571 before the 2026-07-31
+  duplicate-ingest removal below), with tally counts + mover/seconder.
 - `build_votes.py` — regenerates both vote CSVs from the minutes markdown (idempotent).
 
 ## Sources & the 2024 portal-migration seam
@@ -86,6 +87,9 @@ Minutes come from **two portals**, spliced by date (see SOURCES.md):
 Per-year minutes: Snyderville 2015=20,16=17,17=25,18=17,19=15,20=17,**21=4**,22=20,23=19,
 24=20,25=19,26=10; Eastern 2015=23,16=17,17=18,18=18,19=16,20=14,21=17,**22=5**,23=18,24=17,
 25=17,26=10.
+(Counts are `minutes_index.csv` ROWS, i.e. meeting records. **Eastern 2022's 5 rows now carry
+only 4 usable texts** — 2022-08-04 became `minutes_exist_text_unrecovered` on 2026-07-31; see
+the duplicate-ingest gap below. Motions total **1,566** across **378 text-bearing meetings**.)
 
 ## Honest gaps (never fabricate to fill these)
 - **19 motions carry a BLANK motion text** (v4) — items the clerk recorded a vote for but
@@ -106,6 +110,23 @@ Per-year minutes: Snyderville 2015=20,16=17,17=25,18=17,19=15,20=17,**21=4**,22=
   minutes_exist_text_unrecovered`) — mostly 2022 Snyderville minutes that AgendaCenter
   stored as scanned/oversize image PDFs (some were actually full packets in the Minutes
   slot). The meeting record exists; the *text* is unrecovered pending OCR. Not fabricated.
+  (**15 `minutes_exist_text_unrecovered` rows total** since 2026-07-31 — the 14 image-only
+  plus the 2022-08-04 wrong-file row below.)
+- **`2022-08-04` Eastern PC — WRONG FILE PUBLISHED AT SOURCE, phantom meeting removed
+  2026-07-31** (duplicate-ingest wave g8). The AgendaCenter Minutes slot for that meeting
+  (`_08042022-3540`) does not hold the Aug 4 minutes: it serves the **June 16, 2022** ESPC
+  minutes PDF (title block "THURSDAY, JUNE 16, 2022"; all 17 running headers read
+  "June 16, 2022 / Page N of 17"), with one extra appended public-comment letter that the
+  `_06162022-3476` copy lacks. Re-fetched live 2026-07-31 — byte-identical (521,863 B) to the
+  stored raw, so this is a **county mis-upload, not an ingest or date-parse bug**; there is no
+  fetch-script fix to make. The 5 motions carved from it were the 2022-06-16 motions
+  double-counted and have been removed (motions 1,571 → 1,566; meetings 379 → 378;
+  applications 576 → 575; **0 named vote rows affected** — both copies were tally-only).
+  Because the county DID post an agenda for a non-cancelled Aug 4, 2022 ESPC meeting, the
+  meeting is **real** and its minutes text is an honest gap, logged as
+  `minutes_exist_text_unrecovered` rather than deleted. Recovery channel: PMN body 1503.
+  The raw PDF is retained under the 08-04 name as evidence of the mis-upload — **never
+  re-ingest it under this date.**
 - **20 oversize (>10MB) raws not stored** — re-fetch from `source_url` (link-not-mirror).
 - **Newest 1-2 held meetings lag** — minutes post only after the *next* meeting approves
   them, so the most recent held meeting may have no approved minutes yet.

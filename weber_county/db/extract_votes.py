@@ -130,6 +130,7 @@ def parse_meeting(path):
             vote_line, vpairs = "", []
             j = i
             scanned = 0
+            hit_next_motion = False
             while j < n and scanned < 60:
                 cand = lines[j]
                 if j != i and OTHER_COUNTY_RE.match(cand):
@@ -137,6 +138,7 @@ def parse_meeting(path):
                     continue
                 if j != i and MOVED_RE.search(cand) and SECOND_RE.search(
                         " ".join(lines[j:j + 5])):
+                    hit_next_motion = True
                     break  # reached the NEXT motion — this one had no roll call
                 if j != i:
                     lm = LEADER_RE.match(cand)
@@ -210,7 +212,11 @@ def parse_meeting(path):
                     refs.append({"meeting_date": iso, "motion_no": mno,
                                  "ref_type": kind, "ref_number": mm.group(1),
                                  "verbatim": re.sub(r"\s+", " ", mm.group(0)).strip()})
-            i = j + 1
+            # Resume AT the next motion's own line when the roll-call scan stopped there —
+            # `j + 1` would step OVER it and lose that motion entirely (2026-07-31 fix: the
+            # 2019-07-30 Ordinance 2019-13 Solar Overlay adoption was swallowed this way by
+            # the retracted adjourn motion printed just above it).
+            i = j if hit_next_motion else j + 1
             continue
         i += 1
     return motions, votes, refs, fullnames

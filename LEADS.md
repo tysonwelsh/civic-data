@@ -90,6 +90,12 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   (portal slot serves the wrong file, verified live), WVC PC 2024-07-10 + 2025-04-16, magna
   PC ×4 (approved but never posted; audio exists), summit ESPC 2022-08-04 (PMN body 1503),
   herriman 2021-03-12. Recovery channels: next-refresh re-probes, PMN, GRAMA drafts.
+- **2026-08-01 (owner query test): donor-alias normalization** — `donor_normalized` does not
+  merge organizational aliases: the Salt Lake Board of Realtors appears as three variants
+  (SALT LAKE BOARD OF REALTORS $255,262 / SL BOARD OF REALTORS $29,050 / BOARD OF REALTORS
+  $28,201 — likely one org, ~$312.5k combined, the collection's largest external donor by
+  ~5×). A donor-alias crosswalk (like the candidate-name one) would make cross-city donor
+  aggregation trustworthy without hand-merging; same class as the Natalie Hall casing note.
 - **2026-08-01 (murray audit residuals):** PC extractor classes — the footer-RE misses the
   'Planning Commission Meeting Minutes /' header variant (B1) and the motion tail drops
   when the result sentence shares its physical line (B2); both classes' disposition impact

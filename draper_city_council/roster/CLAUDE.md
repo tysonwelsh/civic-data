@@ -42,16 +42,21 @@ tie-break, a roll of 6) does not smear.
 ## The three findings a user must know
 
 1. **PUZZLE (a) — the "missing seats" are a CANCELED-UNCONTESTED race, NOT a council-size
-   change (FLAG → election_results acquisition gap).** Recent county cycles look like only
+   change.** Recent county cycles look like only
    4 seats (3+1+3+1), but the council has **always been 5** (roll = 5 every meeting). The
    2025 **regular 2-seat 4-year Council race was CANCELED as uncontested** under Utah Code
    (one of three candidates withdrew, leaving two for two) and **Tasha Lowery + Mike Green
    were certified elected without appearing on the ballot** (Res #25-49; minutes 2025-09-16
    & 2025-10-07: *"canceling the race for the 4-year At-Large City Council seats and
    certifying Tasha Lowery and Mike Green as elected"*). Canceled races never enter the Salt
-   Lake County SOVC, so that contest is **ABSENT from `election_results`** (the 2025 file
-   carries only the `(2 YEAR TERM) (Vote for 1)` seat, Dahlin/Byington). **This is a
-   documented election-data gap, FLAGGED here; not fixed from the roster** (repo doctrine).
+   Lake County SOVC. **CLOSED 2026-07-31 — it is no longer absent from `election_results`:**
+   the race is now carried there as a canceled-uncontested race row + two `is_winner`
+   by_candidate rows (T. Lowery, M. Green) with **blank tallies**, built from the city's own
+   adopted instrument (`packets/text/2025-10-07_…Resolution_25-49…txt`) per the
+   millcreek-2023 / alta-2025 convention — see `election_results/CLAUDE.md`. The 2025 file
+   therefore now carries **both** 2025 council contests: that canceled 4-year race AND the
+   `(2 YEAR TERM) (Vote for 1)` unexpired seat (Dahlin/Byington). Nothing was fixed *from*
+   the roster — the fix was made at the elections layer from the primary document.
 2. **PUZZLE (b) — Mike Green's continuity is RESOLVED; his 2021 `is_winner=False` is
    CORRECT, not a defect.** Green won 2017 (B seat). 2021 was a **VOTE-FOR-1** for a single
    open B seat, which Tasha Lowery won (Green placed 3rd, 1,565). Green **retained his own
@@ -95,9 +100,17 @@ resignation date undocumented, bounded 2024-11-12..2024-11-19).
   the winner is the RCV final — cited as such.
 - **`fred_lowry` ≠ `tasha_lowery`** — two members with near-identical surnames (Lowry vs
   Lowery); **resolve by full name, never surname**.
-- **Reverse-crosscheck documented exceptions**: T. Lowery-2025 & Green-2025 are
-  minutes-anchored (the canceled race left no `is_winner` row) — like the bluffdale Hales
-  pattern. The forward crosscheck (`--check`) prints **zero** unmapped-winner warnings.
+- **Reverse-crosscheck documented exceptions**: T. Lowery-2025 & Green-2025 were
+  minutes-anchored while the canceled race left no `is_winner` row (the bluffdale Hales
+  pattern). **Since 2026-07-31 both DO have `is_winner` rows** (the canceled-race
+  certification in `election_results`), so those two exceptions are retained as
+  documentation only and should no longer fire. The forward crosscheck (`--check`) prints
+  **zero** unmapped-winner warnings.
+- **`council_terms.csv` regeneration is PENDING** for the 2026-07-31 elections change: the
+  driver's prose/notes were updated, but the generated CSV still carries the older
+  "absent from election_results" note text. Re-run `python3 roster/build_roster.py` at the
+  next federation pass (it reads repo-root `cities.db`, deliberately not opened mid-wave);
+  the tenure rows, dates and confidences themselves are unaffected.
 
 ## Queries
 

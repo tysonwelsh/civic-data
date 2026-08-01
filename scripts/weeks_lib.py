@@ -32,6 +32,7 @@ PC/comments handling differs) and does NOT use this module.
 
 import csv
 import datetime
+import re
 import shutil
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -92,6 +93,62 @@ def build(city_dir, city_name, meeting_weekday, index_council_label="Council"):
             if f.name.endswith(".votes.json"):
                 continue
             d = iso(f.stem[:10])
+            if not d:
+                # DEBT fix 2026-07-31: not every city date-prefixes its minutes
+                # filenames (bluffdale: council_2020-09-09_807.md, 166/166 files),
+                # which left every such city's weeks bundle printing "Meetings: 0"
+                # with no minutes links. Fall back to the first ISO date anywhere
+                # in the filename, then anywhere in the path (the date-named
+                # parent dirs).
+                m = (re.search(r"\d{4}-\d{2}-\d{2}", f.name)
+                     or re.search(r"\d{4}-\d{2}-\d{2}", str(f)))
+                if m:
+                    d = iso(m.group(0))
+            if d:
+                minutes[week_end(d)].append(f)
+
+    # DEBT fix 2026-07-31 (part 2): votes recovered from Utah Public Notice live
+    # in pmn_backfill/text/, outside minutes/ — their weeks printed "Meetings: 0"
+    # beside real votes (70 bundles across 8 cities). Link the recovered text for
+    # any date that has NO minutes-dir file (mirrors the G5 FTS dedup rule:
+    # promoted copies win; a pmn file is linked only where it is the sole record).
+    dated_in_minutes = set()
+    for fl in minutes.values():
+        for f in fl:
+            m = re.search(r"\d{4}-\d{2}-\d{2}", f.name) or \
+                re.search(r"\d{4}-\d{2}-\d{2}", str(f))
+            if m:
+                dated_in_minutes.add(m.group(0))
+    PMN_TEXT = BASE / "pmn_backfill" / "text"
+    if PMN_TEXT.exists():
+        for f in sorted(list(PMN_TEXT.glob("*.md")) + list(PMN_TEXT.glob("*.txt"))):
+            m = re.search(r"\d{4}-\d{2}-\d{2}", f.name)
+            date_str = m.group(0) if m else None
+            if not date_str:
+                # some cities' pmn filenames carry no date (vineyard:
+                # RDA_2598_457993.txt) — peek at the file head for an ISO or
+                # long-form ("December 12, 2018") date
+                try:
+                    head = open(f, encoding="utf-8", errors="replace").read(500)
+                except OSError:
+                    head = ""
+                m2 = re.search(r"\d{4}-\d{2}-\d{2}", head)
+                if m2:
+                    date_str = m2.group(0)
+                else:
+                    m3 = re.search(
+                        r"(January|February|March|April|May|June|July|August|"
+                        r"September|October|November|December)\s+(\d{1,2}),?\s+"
+                        r"(20\d\d)", head)
+                    if m3:
+                        month = ("January February March April May June July "
+                                 "August September October November December"
+                                 ).split().index(m3.group(1)) + 1
+                        date_str = "%s-%02d-%02d" % (m3.group(3), month,
+                                                     int(m3.group(2)))
+            if not date_str or date_str in dated_in_minutes:
+                continue
+            d = iso(date_str)
             if d:
                 minutes[week_end(d)].append(f)
 

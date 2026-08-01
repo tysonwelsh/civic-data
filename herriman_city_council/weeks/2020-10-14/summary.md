@@ -1,7 +1,7 @@
 # Herriman council week ending 2020-10-14
 _Window 2020-10-08 – 2020-10-14_
 
-- **Meetings:** 0
+- **Meetings:** 2 — _2020 10 08_660954, _2020 10 14_660956
 - **Votes:** 12 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,5 @@ _Window 2020-10-08 – 2020-10-14_
 
 ## Files
 - `votes.csv` — 32 member-vote rows across 12 motions
+- [pmn_council_2020-10-08_660954.md](../../pmn_backfill/text/pmn_council_2020-10-08_660954.md)
+- [pmn_council_2020-10-14_660956.md](../../pmn_backfill/text/pmn_council_2020-10-14_660956.md)

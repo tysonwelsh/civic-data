@@ -1,7 +1,7 @@
 # Herriman council week ending 2021-08-11
 _Window 2021-08-05 – 2021-08-11_
 
-- **Meetings:** 0
+- **Meetings:** 2 — _2021 08 09_807041, _2021 08 11_770437
 - **Votes:** 23 motions, **2 contested**
 - **Public comments:** 0
 
@@ -13,3 +13,5 @@ _Window 2021-08-05 – 2021-08-11_
 
 ## Files
 - `votes.csv` — 71 member-vote rows across 23 motions
+- [pmn_council_2021-08-09_807041.md](../../pmn_backfill/text/pmn_council_2021-08-09_807041.md)
+- [pmn_council_2021-08-11_770437.md](../../pmn_backfill/text/pmn_council_2021-08-11_770437.md)

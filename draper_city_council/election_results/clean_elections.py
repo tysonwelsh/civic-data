@@ -53,6 +53,16 @@ B (2009,2013,2017)=2 seats, then disrupted to 1 seat in 2021 & a 2-year
 unexpired seat in 2025 (Draper's stagger was broken by mid-term vacancies).
 Mayor is elected on the B calendar (2009,2013,2017,2021,2025), always 1 seat.
 
+CANCELED-UNCONTESTED RACES (no ballot, no votes, no county SOVC row)
+---------------------------------------------------------------------
+Utah Code 20A-1-206(3) lets a municipal legislative body CANCEL a race whose
+ballot would carry no contested race or ballot proposition, certifying the
+candidate(s) elected by resolution instead. Such a race NEVER reaches the county
+SOVC, so it cannot be parsed from raw/ -- it is recorded here from the CITY's own
+adopted instrument, with BLANK vote fields (never a fabricated tally), mirroring
+the millcreek (2023) and alta (2025) convention. See CANCELED below: Draper's
+2025 REGULAR 2-seat 4-year at-large Council race (Res #25-49).
+
 Reproducible:  python3 clean_elections.py            (reads raw/, writes 3 CSVs)
                python3 clean_elections.py --report    (per-race summary)
 """
@@ -97,6 +107,50 @@ NOTE = {(2025, 'municipal general', 'Council'): '2-year unexpired/short term',
             'margin; winner led first choice and won the final round'}
 
 PREC = re.compile(r'^(?:25)?DRP?\d+$')   # DRP001, DR01, 25DR02 (2025 vintage)
+
+# --------------------------------------------------------------- canceled-uncontested
+# Races CANCELED as uncontested under Utah Code 20A-1-206(3): no ballot line, no votes
+# cast, no county SOVC row — the winners are CERTIFIED by city resolution. Emitted as a
+# race row + one by_candidate row per certified winner, ALL tally columns BLANK (never a
+# fabricated count) and uncontested=True. No by_precinct rows exist (no ballots).
+#
+# DRAPER 2025 — the REGULAR 2-seat 4-YEAR at-large Council race (Cohort B). Primary
+# instrument (verbatim, on disk):
+#   ../packets/text/2025-10-07_Council_exh3636839_Resolution_25-49_Canceling_Race_and_
+#     Declaring_Candidates_Elected.txt   (raw PDF: ../packets/raw/2025-10-07/…pdf)
+# "A RESOLUTION OF THE DRAPER CITY COUNCIL CANCELING THE ELECTION FOR THE 4-YEAR
+# AT-LARGE CITY COUNCIL SEATS AND CERTIFYING THE CANDIDATES AS ELECTED" — recitals cite
+# Utah Code § 20A-1-206(3) and (3)(b), record "two open 4-year at-large City Council
+# seats scheduled for the November 4, 2025 Draper City General Election" and that
+# "following the withdrawal of candidate Jared Turner, the number of candidates equaled
+# the number of open seats"; Section 2 certifies "Tasha Lowery and Mike Green are
+# considered elected". Continued from the 2025-09-16 Council meeting for a noticing
+# issue (motion by F. Lowry, 5-0) and PASSED AND ADOPTED 2025-10-07 (item 7.d, motion by
+# Johnson, sec. Vawdrey, roll call 5-0) — both meetings in meeting_minutes/minutes/2025/.
+#
+# ⚠ This is a SECOND 2025 municipal-general Council row: it coexists with the
+# SOVC-counted "(2 YEAR TERM) (Vote for 1)" UNEXPIRED-seat race that Kathryn Dahlin won.
+# Distinguish the two by contest_verbatim / n_seats / uncontested — never by
+# (year, office) alone. `winner` carries the first-listed certified candidate (the
+# 25-col schema has one winner slot); BOTH winners are in draper_results_by_candidate.csv
+# (is_winner=True, blank votes/pct/rank) — that is the join surface for member records.
+CANCELED = [dict(
+    year=2025, election_type='municipal general', office='Council',
+    district='At-Large', contest='Draper City Council At-Large',
+    # verbatim from the resolution's own title (no ballot label exists — never printed)
+    contest_verbatim='THE 4-YEAR AT-LARGE CITY COUNCIL SEATS',
+    n_seats=2, n_candidates=2,
+    winners=['TASHA LOWERY', 'MIKE GREEN'],
+    note=('CANCELED-UNCONTESTED (Draper City / UCA 20A-1-206(3)); Res #25-49 adopted '
+          '2025-10-07 (5-0), continued from 2025-09-16 — the 2-seat 4-YEAR at-large '
+          'Council race was canceled when candidate Jared Turner withdrew, leaving 2 '
+          'candidates for 2 seats, and TASHA LOWERY + MIKE GREEN were certified elected. '
+          'NO ballot, NO votes cast, NOT in the county SOVC -> every tally column is '
+          'intentionally BLANK. Both winners are rows in '
+          'draper_results_by_candidate.csv. Separate from the 2025 "(2 YEAR TERM) '
+          '(Vote for 1)" unexpired-seat race (Dahlin), which WAS on the ballot.'),
+    source_file=('packets/text/2025-10-07_Council_exh3636839_Resolution_25-49_'
+                 'Canceling_Race_and_Declaring_Candidates_Elected.txt'))]
 
 
 # --------------------------------------------------------------------------- helpers
@@ -360,6 +414,34 @@ for k in sorted(RECORDS, key=lambda x: (x[0], x[1], x[2])):
                 candidate=name, votes=v, suppressed='False'))
 
 
+# ------------------------------------------- canceled-uncontested rows (city instrument)
+# Appended, then a STABLE re-sort on the same (year, election_type, contest) key the main
+# loop used — so a canceled row files immediately after the SOVC-derived rows of its year
+# and the rest of the file is byte-identical.
+for C in CANCELED:
+    races.append(dict(
+        year=C['year'], election_type=C['election_type'], office=C['office'],
+        district=C['district'], contest=C['contest'],
+        contest_verbatim=C['contest_verbatim'], n_seats=C['n_seats'],
+        n_candidates=C['n_candidates'],
+        voting_method='uncontested (election cancelled)',
+        total_votes='', total_first_choice_votes='',
+        winner=C['winners'][0], winner_votes='', winner_pct='',
+        runner_up='', runner_up_votes='', margin_votes='', margin_pct='',
+        registered_voters='', ballots_cast='', turnout_pct='',
+        uncontested='True', suppressed_precincts='False',
+        note=C['note'], source_file=C['source_file']))
+    for name in C['winners']:
+        by_cand.append(dict(
+            year=C['year'], election_type=C['election_type'], office=C['office'],
+            district=C['district'], contest=C['contest'], candidate=norm_name(name),
+            votes='', pct='', rank='', is_winner='True'))   # no ballot -> no tally, no rank
+
+_ordkey = lambda r: (r['year'], r['election_type'], r['contest'])
+races.sort(key=_ordkey)
+by_cand.sort(key=_ordkey)
+
+
 def writecsv(name, rows, cols):
     with open(os.path.join(OUT, name), 'w', newline='') as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
@@ -398,10 +480,17 @@ print(f"precinct-sum reconciliation mismatches: {mism}")
 if REPORT:
     for r in sorted(races, key=lambda x: (x['year'], x['election_type'], x['office'])):
         tag = 'PRI ' if r['election_type'] == 'municipal primary' else 'GEN '
+        # 2025 has TWO municipal-general Council contests (the SOVC unexpired-seat race
+        # and the canceled 4-year race), so winners are matched on the canceled flag too.
+        cx = {(C['year'], C['election_type'], C['office'], C['contest'], norm_name(w))
+              for C in CANCELED for w in C['winners']}
+        cancelled_row = r['uncontested'] == 'True' and r['total_votes'] == ''
         seatw = [c for c in by_cand
                  if (c['year'], c['election_type'], c['office'], c['contest'])
                  == (r['year'], r['election_type'], r['office'], r['contest'])
-                 and c['is_winner'] == 'True']
+                 and c['is_winner'] == 'True'
+                 and (((c['year'], c['election_type'], c['office'], c['contest'],
+                        c['candidate']) in cx) == cancelled_row)]
         wl = ', '.join(f"{c['candidate']}({c['votes']})" for c in seatw)
         note = f" [{r['note']}]" if r['note'] else ''
         to = f" turnout {r['turnout_pct']}%" if r['turnout_pct'] != '' else ''

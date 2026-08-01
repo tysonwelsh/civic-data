@@ -48,6 +48,10 @@ layers are retained here under `raw/`:
    generals — all **zero-suppression**, summing cleanly to contest totals.
 2. **`raw/sovc/*.xlsx`** — the true county SOVC spreadsheets, re-parsed directly for the
    contests the normalized slice does not deliver (below).
+3. **`raw/2021-general-election-ranked-choice-summary-report.pdf`** (added 2026-07-31) —
+   the Clerk's *Official Final Ranked Choice Results* for the 2021 general. Not parsed
+   (SSL needs no round arithmetic — see the RCV section); retained as the **proof SSL was
+   a pilot city**, which is what explains the absent 2021 primary.
 
 ## The recovered / re-parsed contests
 
@@ -60,17 +64,55 @@ layers are retained here under `raw/`:
 After recovery the final CSVs have **zero suppressed cells** and **every by-precinct sum
 reconciles exactly to its by-candidate total** (build validates 0 mismatches).
 
+## ⭐ Ranked-choice voting — the 2021 pilot (LABEL CORRECTED 2026-07-31)
+
+South Salt Lake joined **Utah's 2021 Municipal Alternate Voting Methods (RCV) pilot**, so
+**the entire 2021 municipal general was ranked-choice** — all four rows now carry
+`voting_method='RCV'` (matching sibling SLCo-canonical cities sandy/bluffdale) with
+`total_first_choice_votes` filled and an explanatory `note`. **Until 2026-07-31 they were
+mislabelled `plurality` with a blank first-choice column** — a label defect that both
+mis-described the contests and made the (correctly) absent primary look like an
+acquisition gap. **No tally changed**, because for SSL **round 1 was decisive in every
+2021 contest**:
+
+| 2021 contest | Cands | Why round-1 decisive |
+|---|---|---|
+| **Mayor** | 3 | Wood **1,777** cleared the **1,526** majority threshold outright — the county report reads *"Tabulation status: All Positions Filled"* with **only a Round 1 column**, no elimination round. |
+| At-Large · D2 · D3 | 2 each | A 2-candidate ranked contest cannot go past round 1, so the county published no round table (identical treatment to `CITY OF BLUFFDALE MAYOR` in the same report). |
+
+Therefore **round 1 == first choice == the SOVC `Total` column**, and `winner`,
+`winner_pct`, and `margin_*` are all **RCV-final-accurate here** — unlike Draper/Millcreek
+2021, where the first-choice leader was NOT the RCV winner. **This city is safe to quote
+directly.** Independent cross-check: the report's round-1 figures match this repo's
+`by_candidate` rows to the vote and to the hundredth of a percent — Wood 1,777/58.24%,
+Christensen 678/22.22%, Siwik 596/19.53%.
+
+Source retained locally: **`raw/2021-general-election-ranked-choice-summary-report.pdf`**
+(Salt Lake County Clerk, *Official Final Ranked Choice Results*, 21 pp.; SSL Mayor is
+p.20). Set in `clean_elections.py`'s `RCV_2021` map — regenerate, never hand-edit the CSV.
+
 ## KNOWN GAPS (documented, never fabricated)
 
 - **2011 & 2019 general/primary** — the two gaps `recon.md` flagged. **RECOVERED** from raw
   (above), not left as gaps.
-- **2021 municipal PRIMARY — NEVER EXISTED (corrected 2026-07-17).** The earlier reading
-  ("3 mayoral candidates → an Aug-2021 primary was almost certainly held") was WRONG: SSL
-  was in the **2021 municipal RCV pilot**, so all 3 mayoral candidates advanced straight to
-  the ranked general (already audited here) — no primary was triggered. Established by the
-  2026-07-16 SLCo raw-SOVC re-parse: the county's ONLY 2021-primary publication (the
-  election-night PDF, 6 contests, archived in the slco-election-archive) contains no SSL
-  contest, and none is missing. Not an acquisition gap — a non-event.
+- **2021 municipal PRIMARY — NEVER EXISTED (corrected 2026-07-17; RE-VERIFIED AT THE
+  PRIMARY SOURCE 2026-07-31).** The original reading ("3 mayoral candidates → an Aug-2021
+  primary was almost certainly held") was WRONG: SSL was in the **2021 municipal RCV
+  pilot**, and the pilot **replaces the municipal primary**, so all 3 mayoral candidates
+  advanced straight to the ranked general (audited here). Two independent proofs, both
+  local:
+  1. **Direct** — the Salt Lake County Clerk's *Official Final Ranked Choice Results, 2021
+     General Election* (`raw/2021-general-election-ranked-choice-summary-report.pdf`)
+     tabulates **`CITY OF SOUTH SALT LAKE MAYOR` on p.20 of 21**. SSL is unambiguously a
+     pilot city. (The 2026-07-17 note asserted the pilot but cited no document; this is
+     that document.)
+  2. **Corroborating** — the county's ONLY 2021-primary publication
+     (`2021-08-10-primary-election-results.pdf` in the slco-election-archive) carries just
+     **6 contests — Herriman Mayor, Murray Mayor, Taylorsville D5, West Jordan At-Large,
+     West Valley Mayor, West Valley D2 — every one of them a NON-pilot city**, and no SSL
+     contest. The pilot/primary split is clean; nothing is missing.
+  **Not an acquisition gap — a non-event.** Do not re-open this from the CF filings: they
+  prove a 3-way *race*, which is exactly what the ranked general was.
 - **2023 & 2025 municipal PRIMARY — true no-contest.** The archive normalized both years'
   primaries but they contain **no South Salt Lake sheet** (each seat drew ≤2 candidates → no
   primary triggered). Verified in raw. Not a data gap.
@@ -88,8 +130,9 @@ reconciles exactly to its by-candidate total** (build validates 0 mismatches).
   total_first_choice_votes, winner, winner_votes, winner_pct, runner_up, runner_up_votes,
   margin_votes, margin_pct, registered_voters, ballots_cast, turnout_pct, uncontested,
   suppressed_precincts, note, source_file`. `district` ∈ `1–5` / `At-Large` /
-  `At-Large-2yr` / `''` (Mayor). `total_first_choice_votes` and `note` are blank (no RCV
-  here). `suppressed_precincts='False'` everywhere in the final data.
+  `At-Large-2yr` / `''` (Mayor). `total_first_choice_votes` and `note` are populated **only
+  for the four 2021 rows** (the RCV pilot — see below); blank everywhere else.
+  `suppressed_precincts='False'` everywhere in the final data.
 - **`south_salt_lake_results_by_candidate.csv`** — race × candidate (**142 rows**):
   `votes, pct, rank, is_winner`.
 - **`south_salt_lake_results_by_precinct.csv`** — precinct × candidate (**1,176 rows**).

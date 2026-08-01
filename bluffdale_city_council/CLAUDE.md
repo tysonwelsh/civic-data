@@ -84,8 +84,14 @@ normalize names — election names are UPPER-CASE with `(NP)` suffixes).
 - **Relational / cross-body** (PC recommendation → council outcome; RDA/LBA
   co-actions; member records): `db/civic.db` — read `db/SCHEMA.md` first; start
   from views `v_referral_chain`, `v_project_timeline`, `v_member_record`,
-  `v_contested`. The `referral` layer is reconstructed + scored (269 links:
-  189 high / 69 med / 11 low) — respect the confidence column.
+  `v_contested`. The `referral` layer is reconstructed + scored and was
+  **precision-audited link-by-link on 2026-07-31**: 269 links → **62** (18 high /
+  41 med / 3 low), all verified against the source minutes. The untuned layer was
+  only **9.5% precise in its high tier** — 171 of 189 high links were
+  meeting-notice boilerplate joined on CITY HALL's own address (`2222 W 14400 S`),
+  an artifact of `motion_no=1` motion-text header bleed. Tuning lives in
+  `db/referral_overrides.csv` (365 evidence-cited `suppress` rows).
+  **Read `db/CLAUDE.md` before quoting or re-tuning a chain.**
 - **Meeting-level / contextual**: the `weeks/<Monday-week>/` bundle (start with
   `summary.md`); `weeks/index.md` lists every week.
 - **By member**: join election winners (`election_results/`) ↔ votes (person +

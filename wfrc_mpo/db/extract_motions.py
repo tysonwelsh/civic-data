@@ -144,12 +144,89 @@ def clean_name(run):
     return " ".join(out)
 
 
+# ---------------------------------------------------------------------------
+# 2026-07-31: APPOSITIVE MOVER RECOVERY (the 4 motions the 2026-07-29 pass measured
+# as an honest gap and deliberately left).
+#
+# WFRC writes some movers with an appositive between the name and the verb:
+#   "Mayor Tom Dolan, Chair of the Budget Committee, made a motion"
+#   "Carlton Christensen, UTA Board Trustee, made a motion"
+#   "Mayor Mike Caldwell, Ogden City, made a motion"
+# The name run cannot cross the lowercase "of the" and cannot span a comma mid-run,
+# so the LEFTMOST run the anchor can reach is the appositive itself ("Budget
+# Committee, ", "Ogden City, "), which the ORG/JURISDICTION guard correctly refuses
+# to mint as a person. Result: the whole motion was dropped.
+#
+# WHY THIS IS A SEPARATE BACKWARD RULE AND NOT A WIDER ANCHOR:
+# the original entry warned this regex is collateral-damage-prone, and it is —
+# `movers` doubles as the WINDOW-BOUNDARY list (`end = movers[i+1].start()`), so any
+# change to ANCHOR silently re-cuts every motion window in the corpus. ANCHOR is
+# therefore UNTOUCHED. This rule runs only in the branch where the primary run
+# already yielded NO mover, so it cannot alter a single existing row.
+#
+# THREE GUARDS, so it recovers movers without inventing any:
+#  1. ACTIVE form only (the `n1` alternative). The passive "motion was made by X"
+#     puts the name AFTER the cue; there is nothing behind the verb to recover.
+#  2. STRUCTURAL: immediately behind the captured run there must be a comma whose
+#     trailing remainder (the unconsumed head of the appositive) is short and free
+#     of sentence punctuation — i.e. we are still inside one sentence, mid-appositive.
+#  3. ATTESTATION: the recovered name must ALREADY be a mover/seconder somewhere in
+#     the corpus (pass 1). A name this rule cannot corroborate is dropped, not
+#     recorded — cardinal rule 1. All four real cases are attested; the fifth dropped
+#     anchor, "With no further business, the Commissioner moved to the next item"
+#     (navigation, must STAY dropped), fails guard 2/3 — the text behind it ends in
+#     the lowercase "business", so no name run exists to recover.
+_APPOS_MAX_TAIL = 60
+_TRAILNAME = re.compile(r"([A-Z][A-Za-z.'\-]*(?:\s+[A-Z][A-Za-z.'\-]*){0,3})\s*$")
+
+
+def recover_appositive(pre, attested):
+    """Mover hidden behind an appositive. Returns (name, abs_offset) or ("", -1).
+
+    `pre` is the text preceding the anchor's captured run; `attested` is the set of
+    names pass 1 proved are real WFRC movers/seconders.
+    """
+    seg = pre[-200:]
+    base = len(pre) - len(seg)
+    j = seg.rfind(",")
+    if j < 0:
+        return "", -1
+    tail = seg[j + 1:]                       # unconsumed head of the appositive
+    if len(tail) > _APPOS_MAX_TAIL or re.search(r"[.;:!?]", tail):
+        return "", -1                        # crossed a sentence boundary — not an appositive
+    head = seg[:j].rstrip()
+    m = _TRAILNAME.search(head)
+    if not m:
+        return "", -1                        # nothing name-shaped in front of the comma
+    run = m.group(1)
+    toks = run.split()
+    offs, idx = [], 0
+    for t in toks:
+        idx = run.index(t, idx)
+        offs.append(idx)
+        idx += len(t)
+    # Peel leading non-name words ("1a. ACTION: Minutes Carlton Christensen") until the
+    # residue is a corroborated person; the FIRST attested residue wins.
+    for k in range(len(toks)):
+        cand = clean_name(" ".join(toks[k:]))
+        if cand and cand in attested:
+            return cand, base + m.start(1) + offs[k]
+    return "", -1
+
+
 def result_and_outcome(win):
     """Find the verbatim result clause + Pass/Fail/Unknown within a motion window."""
     low = win.lower()
     pats = [
         r"there (?:were|was)[^.]*dissent[^.]*?(?:approved|majority|carried|passed|adopted|failed)[^.]*\.",
-        r"the (?:affirmative )?vot(?:e|ing)[^.]*\.",
+        # 2026-07-31: "...from the vote." is a RECUSAL clause, not a result clause.
+        # This alternative is tried before the generic result patterns, so on
+        # 2023-08-24 the preceding sentence "Mayor Dandoy, as Mayor of Roy City,
+        # abstained from the vote." beat the real clause and stored result_raw="the
+        # vote." / outcome=Unknown for a motion the source says was "approved
+        # unanimously with one abstention." Lookbehind only — the 168 genuine
+        # "the vote/voting was unanimous" captures are untouched (proved by diff).
+        r"(?<!from )the (?:affirmative )?vot(?:e|ing)[^.]*\.",
         # \b on every alternative: the bare "it" matched INSIDE "With", so 13 result_raw
         # values were stored one character short — "ith no further discussion the motion
         # was passed unanimously." That is a cardinal-rule-2 verbatim violation (audit F11).
@@ -189,7 +266,7 @@ def motion_type(text):
     return "Motion"
 
 
-def parse(md_path, date):
+def parse(md_path, date, attested=None):
     raw = open(md_path, encoding="utf-8").read()
     body = raw.split("---\n\n", 1)[-1]
     body = JUNK.sub(" ", body)                         # -> space (not empty: avoids gluing words)
@@ -222,10 +299,18 @@ def parse(md_path, date):
     for i, m in enumerate(movers):
         start = m.start()
         end = movers[i + 1].start() if i + 1 < len(movers) else min(len(text), start + 800)
-        win = text[start:end]
         mover = clean_name(m.group("n1") or m.group("n2") or "")
         if not mover or len(mover) < 3:
-            continue
+            # Appositive recovery — ONLY here, so no existing row can change. `start`
+            # (and therefore the PREVIOUS motion's window end) is left alone; only this
+            # row's window reaches back to include the verbatim mover phrase.
+            if attested and m.group("n1") is not None:
+                mover, at = recover_appositive(text[:m.start("n1")], attested)
+                if mover:
+                    start = at
+            if not mover or len(mover) < 3:
+                continue
+        win = text[start:end]
         sm = SECOND.search(win)
         seconder = ""
         if sm:
@@ -243,13 +328,24 @@ def parse(md_path, date):
 
 
 def main():
-    meetings = list(csv.DictReader(open(IDX, encoding="utf-8")))
+    meetings = [mt for mt in csv.DictReader(open(IDX, encoding="utf-8")) if mt["md_path"]]
+    paths = [(os.path.join(ROOT, mt["md_path"]), mt["date"]) for mt in meetings]
+
+    # PASS 1 — unaided extraction. Its mover/seconder names are the ONLY persons the
+    # appositive rule is allowed to recover (guard 3). One pass, not a fixpoint: a
+    # recovered name is by construction already in the set, so iterating cannot add
+    # anyone, and refusing to bootstrap keeps the corroboration independent.
+    attested = set()
+    for md, date in paths:
+        for r in parse(md, date):
+            for k in ("mover", "seconder"):
+                if r[k].strip():
+                    attested.add(r[k].strip())
+
     allrows = []
     for mt in meetings:
-        if not mt["md_path"]:
-            continue
         md = os.path.join(ROOT, mt["md_path"])
-        rows = parse(md, mt["date"])
+        rows = parse(md, mt["date"], attested)
         for n, r in enumerate(rows, start=1):
             r["motion_no"] = n
             r["source_md"] = mt["md_path"]

@@ -18,6 +18,9 @@ Design notes (Ogden specifics):
     * Named roll-call: "VOTING AYE - COUNCIL MEMBERS A, B... VICE CHAIR X, AND CHAIR Y.
       VOTING NO - NONE." (also BOARD MEMBERS / AGENCY for RDA/MBA)
     * "VOTED IN FAVOR" inline name lists
+    * "<NAME> MOVED ... THE MOTION DIED FOR LACK OF A SECOND." -> result
+      "Died (lack of a second)", names_recorded False (no vote was ever taken; the
+      operative roll call sits on the substitute motion that follows)
 - body tagged from slug (redevelopment-agency->RDA, municipal-building-authority->MBA),
   plus in-meeting "convened/reconvened as" transition markers (rare here).
 - Some minutes are OCR'd (the 2022 compilation was a scan; re-OCR'd cleanly with
@@ -330,13 +333,21 @@ def parse_named_rollcall(block, year):
     #  - NO:  from "VOTING NO[-:]" up to the FIRST sentence-ending period (the member list ends
     #    with a period before the next sentence), a blank line, or end. Earlier this used `[^\n]`,
     #    which silently dropped every line-wrapped NO list — the systematic dissent-undercount bug.
+    #  - OCR TOLERANCE (2026-07-31): tesseract renders the terminal G of "VOTING" as an E
+    #    in the 2023 compilation scan ("VOTINE NO —- COUNCIL MEMBERS BLAIR, LOPEZ, AND
+    #    WHITE." — 2023-10-10 special meeting, the substitute deny-motion on Ord 2023-56).
+    #    Without the [GE] class the NO anchor is invisible: the AYE segment runs THROUGH the
+    #    NO list and the three dissenters are recorded as Ayes (a 4-3 roll read as 6-0).
+    #    `VOTIN[GE]` is deliberately narrow — it does NOT admit "VOTED NO", which is the
+    #    different, tally-only "ALL VOTING AYE, WITH THE EXCEPTION OF ..., WHO VOTED NO"
+    #    form. Corpus-wide there are 532 "VOTING NO", 1 "VOTINE NO", 3 "VOTED NO".
     ma = re.search(r"(?<!ALL\s)VOTING\s*AYE\s*[-–—:]\s*([\s\S]{0,500}?)"
-                   r"(?=VOTING\s*NO\b|\n\s*\n|$)", block, re.I)
+                   r"(?=VOTIN[GE]\s*NO\b|\n\s*\n|$)", block, re.I)
     if not ma:
         return None
     aye = extract_names_from_segment(ma.group(1), year)
     nay = []
-    mn = re.search(r"VOTING\s*NO\s*[-–—:]?\s*([\s\S]{0,200}?)(?=\.\s|\.\n|\.$|\n\s*\n|$)",
+    mn = re.search(r"VOTIN[GE]\s*NO\s*[-–—:]?\s*([\s\S]{0,200}?)(?=\.\s|\.\n|\.$|\n\s*\n|$)",
                    block, re.I)
     if mn:
         nay = extract_names_from_segment(mn.group(1), year)
@@ -469,8 +480,19 @@ def find_motions(text, year, default_body):
             result = f"{len(aye)}-{len(nay)}" + (f"-{len(abstain)+len(recuse)}abs" if (abstain or recuse) else "") + f" {outcome}"
             names_recorded = True
         else:
-            # tally-only / all voting aye -> no names
-            result = "Voice Pass" if re.search(r"ALL VOTING AYE|ALL VOTED AYE|UNANIMOUS|MOTION CARRIED", seg, re.I) else "Recorded"
+            # A motion that DIED FOR LACK OF A SECOND never reached a vote. Emitting the
+            # generic "Recorded" fallback made the shared db builder read it as an ordinary
+            # unnamed carriage and store outcome='Pass' (scripts/db_build_lib.py outcome_of),
+            # i.e. a motion the minutes say died was recorded as passed. The explicit
+            # "Died (lack of a second)" label routes to outcome='Died' via that same
+            # function's death-word branch. 2 motions corpus-wide (2023-10-10 m7 Ord
+            # 2023-56 / 2025-05-20 m6 Ord 2025-13); in both the operative roll call lives
+            # on the SUBSTITUTE motion that follows, which is extracted separately.
+            if re.search(r"MOTION\s+DIED\s+FOR\s+LACK\s+OF\s+A\s+SECOND", seg, re.I):
+                result = "Died (lack of a second)"
+            else:
+                # tally-only / all voting aye -> no names
+                result = "Voice Pass" if re.search(r"ALL VOTING AYE|ALL VOTED AYE|UNANIMOUS|MOTION CARRIED", seg, re.I) else "Recorded"
             names_recorded = False
             aye = nay = absent = abstain = recuse = []
 

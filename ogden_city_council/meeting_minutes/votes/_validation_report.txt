@@ -1,14 +1,14 @@
 Meetings (JSON): 505
 Motions total:   1561
-Member-vote rows:5189
+Member-vote rows:5190
 
 Motions by body:
   Council  1391
   RDA      147
   MBA      23
 
-Member-vote rows WITH a name: 4268
-Vote distribution: {'Aye': 3982, 'Nay': 169, 'Absent': 114, 'Recuse': 1, 'Abstain': 2}
+Member-vote rows WITH a name: 4269
+Vote distribution: {'Aye': 3980, 'Nay': 172, 'Absent': 114, 'Recuse': 1, 'Abstain': 2}
 
 == Motions with names recorded vs not (by year) ==
   2020: named=98  tally-only(no names)=175
@@ -20,18 +20,18 @@ Vote distribution: {'Aye': 3982, 'Nay': 169, 'Absent': 114, 'Recuse': 1, 'Abstai
   2026: named=22  tally-only(no names)=38
 
 == Tally-vs-result validation (named roll-calls only) ==
-Contested motions (any Nay/Abstain/Recuse): 99
+Contested motions (any Nay/Abstain/Recuse): 100
 Tally/result mismatches: 4
    2022-01-04 | Council | 10 | YEAR-BOUNDARY? | Doug Stephens
    2022-01-11 | Council | 3 | YEAR-BOUNDARY? | Doug Stephens
    2026-01-06 | Council | 4 | YEAR-BOUNDARY? | Angela Choberka
-   2026-05-19 | Council | 3 | YEAR-BOUNDARY? | Angela Choberka,Bart E. Blair
+   2026-05-19 | Council | 3 | YEAR-BOUNDARY? | Bart E. Blair,Angela Choberka
 
 == Observed voters by year (from named votes) ==
   2020: Marcia L. White(98), Angela Choberka(96), Doug Stephens(95), Bart E. Blair(93), Luis Lopez(91), Richard A. Hyer(91), Ben Nadolski(90)
   2021: Richard A. Hyer(109), Angela Choberka(106), Doug Stephens(104), Ben Nadolski(97), Luis Lopez(96), Marcia L. White(88), Bart E. Blair(80)
   2022: Ben Nadolski(93), Richard A. Hyer(93), Ken Richey(92), Marcia L. White(90), Angela Choberka(88), Bart E. Blair(88), Luis Lopez(86), Doug Stephens(2)
-  2023: Richard A. Hyer(125), Bart E. Blair(123), Marcia L. White(122), Luis Lopez(120), Angela Choberka(119), Ken Richey(119), Ben Nadolski(118)
+  2023: Richard A. Hyer(125), Bart E. Blair(124), Marcia L. White(122), Luis Lopez(120), Angela Choberka(119), Ken Richey(119), Ben Nadolski(118)
   2024: Richard A. Hyer(86), Angela Choberka(85), Bart E. Blair(85), Marcia L. White(84), Dave Graf(83), Ken Richey(83), Shaun Myers(83)
   2025: Angela Choberka(103), Marcia L. White(103), Richard A. Hyer(103), Dave Graf(102), Ken Richey(102), Shaun Myers(101), Bart E. Blair(100)
   2026: Alicia Washington(22), Dave Graf(22), Kevin Lundell(22), Richard A. Hyer(22), Shaun Myers(22), Ken Richey(21), Flor Lopez(19), Angela Choberka(2), Bart E. Blair(1)
@@ -100,6 +100,7 @@ Tally/result mismatches: 4
   2023-08-15 [RDA] m5 6-1 Pass | NAY:Ben Nadolski | AB/REC: | MOVED THE RESOLUTION BE ADOPTED, AND THE CHAIR BE AUTHORIZED TO SIGN T
   2023-10-10 [Council] m3 6-1 Pass | NAY:Ken Richey | AB/REC: | ON A MOTION BY COUNCIL MEMBER HYER AND SECONDED BY COUNCIL MEMBER LOPE
   2023-10-10 [Council] m4 4-3 Pass | NAY:Angela Choberka,Ben Nadolski,Ken Richey | AB/REC: | ON A MOTION BY COUNCIL MEMBER BLAIR AND SECONDED BY COUNCIL MEMBER WHI
+  2023-10-10 [Council] m8 4-3 Pass | NAY:Bart E. Blair,Luis Lopez,Marcia L. White | AB/REC: | MOVED TO DENY ORDINANCE 2023-56. MOTION WAS SECONDED BY , COUNCIL MEMB
   2023-11-14 [Council] m10 3-3 Fail | NAY:Bart E. Blair,Marcia L. White,Richard A. Hyer | AB/REC: | ON A MOTION BY VICE CHAIR RICHEY AND SECONDED BY COUNCIL MEMBER NADOLS
   2023-11-14 [Council] m9 5-1 Pass | NAY:Bart E. Blair | AB/REC: | MOVED THE RESOLUTION BE ADOPTED AND THE CHAIR BE AUTHORIZED TO SIGN TH
   2023-11-28 [Council] m7 2-3 Fail | NAY:Ben Nadolski,Luis Lopez,Marcia L. White | AB/REC: | MOVED TO ADOPT PROPOSED ORDINANCE 2023-68. COUNCIL MEMBER BLAIR SECOND

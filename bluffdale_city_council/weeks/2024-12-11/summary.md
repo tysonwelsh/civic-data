@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2024-12-11
 _Window 2024-12-05 – 2024-12-11_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 4 12 11_1536
 - **Votes:** 18 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2024-12-05 – 2024-12-11_
 
 ## Files
 - `votes.csv` — 22 member-vote rows across 18 motions
+- [council_2024-12-11_1536.md](../../meeting_minutes/minutes/2024/2024-12-09/council_2024-12-11_1536.md)

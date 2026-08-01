@@ -62,15 +62,28 @@ previously-suspected cause — the mid-roll "Commissioner Harvey amended his mot
 that" — was NOT the problem; the extractor scans past interleaved prose fine.) 2019-13 now
 carries a `unique` / `high` link to its own adopting motion with the full aye/aye/aye roll.
 
-Link rates (2026-07-31): **248 / 277 ordinances (89.5%)** carry a unique enacting-motion
-link; **29** are honestly unlinked/ambiguous (two same-date/same-stage motions, or a
-header-only reference — the register keeps the row and records `prior_readings`, but
-withholds the link). **277 of 277** now have a named roll call available on the adopting
-motion. Register-wide unique rate: 731 / 845 (86.5%). Ordinances **2021-13 / 2021-14 /
-2021-15** moved from adoption_date 2021-06-01 to **2021-05-11** in the same pass — the
-2021-06-01 meeting was a phantom created by a county mis-post (see `../CLAUDE.md`), which
-had also given them a spurious extra "reading". (Superseded: 247/277 89.2% and 729/844
-86.4% on 2026-07-29; 193/269 71.7% and 589/807 73.0% before the 2026-07-26 OCR backfill.)
+**DIED-MOTION LINKS CORRECTED (2026-07-31, second pass).** Two ordinances were linked
+`unique`/`high` to a motion that had **died for lack of a second** — the extractor had let
+the died motion swallow the SUBSTITUTE motion's roll call (see `../CLAUDE.md`, the
+died-for-lack-of-a-second repair). **2018-14** pointed at "Commissioner Ebert moved to adopt
+Ordinance 2018-14 approving the C-2 zoning… Motion died for lack of a second" and now points
+at the motion that actually adopted it (Chair Harvey, C-1 Zone, 2018-09-11 #9, 2-1);
+**2018-23** pointed at Chair Harvey's died $1,250 trails-fee motion and now points at
+Commissioner Jenkins's adopted $1,350 motion (2018-12-18 #15). **Resolution 29-2018**
+entered the register for the first time (its adopting motion had never been extracted).
+2018-15 stays honestly `ambiguous` — its real adopting motion (2018-09-11 #11) ties on the
+same date with the Resolution 46-2018 motion that picks "2018-15" off the section header.
+
+Link rates (2026-07-31, after the died-motion pass): **248 / 277 ordinances (89.5%)** carry a
+unique enacting-motion link; **29** are honestly unlinked/ambiguous (two same-date/same-stage
+motions, or a header-only reference — the register keeps the row and records
+`prior_readings`, but withholds the link). **277 of 277** now have a named roll call
+available on the adopting motion. Register-wide unique rate: 733 / 846 (86.6%). Ordinances
+**2021-13 / 2021-14 / 2021-15** moved from adoption_date 2021-06-01 to **2021-05-11** in the
+same pass — the 2021-06-01 meeting was a phantom created by a county mis-post (see
+`../CLAUDE.md`), which had also given them a spurious extra "reading". (Superseded: 248/277
+89.5% and 731/845 86.5% earlier on 2026-07-31; 247/277 89.2% and 729/844 86.4% on
+2026-07-29; 193/269 71.7% and 589/807 73.0% before the 2026-07-26 OCR backfill.)
 
 ## `case_keys.csv` — land-use applications mined from the PC/BOA corpus
 

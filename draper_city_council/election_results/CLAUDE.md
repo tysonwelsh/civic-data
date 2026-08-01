@@ -20,12 +20,15 @@ Two staggered cycles (2 years apart):
 | Cycle | Council seats (N) | Years | Mayor? |
 |---|---|---|---|
 | **A** | **3** | 2007, 2011, 2015, 2019, 2023 | no |
-| **B** | **2**, then disrupted → **1** | 2009, 2013, 2017, **2021 (1)**, **2025 (1, 2-yr)** | yes (2009, 2013, 2017, 2021, 2025) |
+| **B** | **2**, then disrupted → **1** on the ballot | 2009, 2013, 2017, **2021 (1)**, **2025 (2 regular 4-yr — CANCELED — plus 1 unexpired 2-yr on the ballot)** | yes (2009, 2013, 2017, 2021, 2025) |
 
 The Cycle-B stagger was broken by mid-term vacancies: 2021 filled only **1** council
-seat and **2025 filled a single 2-year *unexpired* (short) term** (verbatim label
-`… (2 YEAR TERM)`; flagged in the `note` column). The Mayor is elected on the B
-calendar every 4 years.
+seat, and **2025 carried two separate council contests** — the **regular 2-seat 4-year**
+at-large race, which was **CANCELED as uncontested** (Res #25-49; no ballot, no SOVC —
+see "Canceled-uncontested races" below), and a **single 2-year *unexpired* (short) term**
+that WAS on the ballot (verbatim label `… (2 YEAR TERM)`; flagged in the `note` column).
+So 2025 seated **three** councilmembers (T. Lowery + Green certified, Dahlin elected).
+The Mayor is elected on the B calendar every 4 years.
 
 ### How `n_seats` was determined (cross-confirmed, never guessed)
 
@@ -87,23 +90,69 @@ not a data gap.
 
 ## The three CSVs
 
-- **`draper_races.csv`** — one row per race (**23 races: 15 general + 8 primary**),
+- **`draper_races.csv`** — one row per race (**24 races: 16 general + 8 primary**, one of
+  which — the 2025 canceled 4-year council contest — is **city-sourced, not SOVC-sourced**),
   **exact 25-column** SLC/South Jordan superset schema. Multi-winner convention (Council):
   `winner` = top vote-getter; `runner_up` = the candidate at **rank N+1** (first loser —
   the seat-deciding boundary); `margin_votes`/`margin_pct` = rank-N vs rank-(N+1) (the
   margin that decided the **last seat**). `n_seats` populated for every race;
   `total_first_choice_votes` blank (the SOVC prints no separate first-choice column).
-  `voting_method` is `plurality` for every race **except the 2021 council general**, which
-  is `ranked choice (RCV)` — Draper ran Utah's **2021 RCV pilot** (see below). `note` carries
-  the 2025 "2-year unexpired/short term" flag and the 2021 RCV first-choice caveat.
-  `district = At-Large` (Council) / `""` (Mayor).
-- **`draper_results_by_candidate.csv`** — race × candidate (**119 rows**): `votes`,
+  `voting_method` is `plurality` for every race **except** the 2021 council general
+  (`ranked choice (RCV)` — Draper ran Utah's **2021 RCV pilot**, see below) and the 2025
+  canceled 4-year council race (`uncontested (election cancelled)`). `note` carries
+  the 2025 "2-year unexpired/short term" flag, the 2021 RCV first-choice caveat, and the
+  canceled-race certification record. `district = At-Large` (Council) / `""` (Mayor).
+- **`draper_results_by_candidate.csv`** — race × candidate (**121 rows**): `votes`,
   `pct` (share of all votes cast in the field — vote-for-N inflates the denominator),
   `rank`, `is_winner` (`True` = won a seat in a general / **advanced** to the general
   in a primary, i.e. `rank ≤ 2N`).
 - **`draper_results_by_precinct.csv`** — precinct × candidate (**3,401 rows**),
   vote-methods summed. Precinct IDs are `DRP###`/`DR##` (and the **2025 `25DR0N`**
   vintage). `suppressed=False` everywhere (all suppression recovered).
+
+## Canceled-uncontested races — the 2025 4-year council contest (Res #25-49)
+
+**Added 2026-07-31** (closes the `[DEBT]` "two sitting councilmembers have no election
+record"). Utah Code **§ 20A-1-206(3)** lets a municipal legislative body **cancel** a race
+whose ballot would carry no contested race or ballot proposition, **certifying the
+candidate(s) elected by resolution** instead. Such a race **never reaches the county
+SOVC**, so it cannot be parsed from `raw/` — it is recorded from **the city's own adopted
+instrument**, with **every tally column BLANK** (no ballot ⇒ no votes ⇒ never a fabricated
+count). This mirrors the **millcreek 2023** and **alta 2025** convention.
+
+Draper 2025 — the **regular 2-seat 4-YEAR at-large Council race** (cohort B):
+
+- **Instrument:** `Resolution No. 25-49`, *"A RESOLUTION OF THE DRAPER CITY COUNCIL
+  CANCELING THE ELECTION FOR THE 4-YEAR AT-LARGE CITY COUNCIL SEATS AND CERTIFYING THE
+  CANDIDATES AS ELECTED"* — full text on disk at
+  `../packets/text/2025-10-07_Council_exh3636839_Resolution_25-49_Canceling_Race_and_Declaring_Candidates_Elected.txt`
+  (raw PDF in `../packets/raw/2025-10-07/`).
+- **Recitals (verbatim):** Utah Code § 20A-1-206(3) and (3)(b); *"there are two open 4-year
+  at-large City Council seats scheduled for the November 4, 2025 Draper City General
+  Election"*; *"following the withdrawal of candidate **Jared Turner**, the number of
+  candidates equaled the number of open seats"*. **Section 2** certifies that
+  ***"Tasha Lowery and Mike Green are considered elected"***.
+- **Adoption:** presented 2025-09-16 (item 7.c) and **continued to 2025-10-07 for a
+  noticing issue** (F. Lowry moved, Johnson seconded, 5-0); **passed and adopted
+  2025-10-07** (item 7.d, Johnson moved, Vawdrey seconded, roll call **5-0**). Both
+  meetings are in `../meeting_minutes/minutes/2025/`.
+- **How it is stored:** one race row — `n_seats=2`, `n_candidates=2`,
+  `voting_method='uncontested (election cancelled)'`, `uncontested=True`,
+  `contest_verbatim='THE 4-YEAR AT-LARGE CITY COUNCIL SEATS'` (the resolution's own title
+  wording — **no ballot label exists**), `winner=TASHA LOWERY` (the 25-column schema has a
+  single winner slot; the resolution's first-listed name), all vote/margin/turnout columns
+  blank, `source_file` = the resolution text path — plus **two `is_winner=True`
+  by_candidate rows** (`TASHA LOWERY`, `MIKE GREEN`) with blank `votes`/`pct`/**`rank`**
+  (no tally ⇒ no rank). **No `by_precinct` rows** (no ballots were cast).
+- **⚠ 2025 has TWO municipal-general Council rows.** The canceled 4-year race coexists with
+  the SOVC-counted `(2 YEAR TERM) (Vote for 1)` unexpired-seat race that **Kathryn Dahlin**
+  won. They share `(year, election_type, office, district, contest)` — **distinguish them by
+  `contest_verbatim` / `n_seats` / `uncontested`, never by `(year, office)` alone**, and do
+  not sum their `total_votes` as one contest. 2025 seated three councilmembers.
+- **Maintained in `clean_elections.py`** (the `CANCELED` list) — regenerate, never
+  hand-edit. The value token `uncontested (election cancelled)` deliberately matches
+  millcreek's spelling for cross-city grouping, even though Draper's own instrument spells
+  it "canceling".
 
 ## Ranked-choice voting — the 2021 pilot
 
@@ -165,3 +214,7 @@ race total to its raw **Electionwide-Total** row.
   is share-of-field, not turnout. Use Mayor races or `ballots_cast` for turnout.
 - The **2011 "Utah County Draper Bond"** is intentionally **excluded** (a bond measure,
   not a council/mayor race; the sole Utah-County-administered Draper item).
+- **The 2025 canceled 4-year council race carries NO tallies and NO precinct rows** — that
+  is the honest shape of a §20A-1-206(3) cancellation, not missing data. Turnout /
+  vote-share aggregates must **exclude** it (`total_votes=''`); member-record joins should
+  **include** it (it is the only election record T. Lowery and M. Green have for 2025).

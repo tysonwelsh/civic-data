@@ -40,7 +40,7 @@ lists every referral with both titles, score, and day-gap for review.
 | motion | 1,279 | Council 872 · PlanningCommission 308 · RDA 77 · LBA 22 |
 | vote | 3,793 | named member-vote rows (see reconciliation) |
 | role | 41 | per person×body first/last vote + count |
-| referral | 269 | reconstructed cross-body links (189 high / 69 med / 11 low) |
+| referral | 62 | reconstructed cross-body links (18 high / 41 med / 3 low) — **precision-audited + tuned 2026-07-31**, down from an untuned 269; see `db/CLAUDE.md` |
 
 Contested motions (any Nay/Abstain/Recuse): **99** (`v_contested`). Bluffdale is a
 high-consensus, mixed named/narrative-tally council; many majorities pass with
@@ -92,8 +92,12 @@ foreign_keys=ON`.
   **no PMN-recovered rows** (nothing to filter; no `pmn_*` provenance exists).
 - **The within-body core is exact; the `referral` layer is reconstructed
   inference** — `high` ≈ exact, `medium` strong-but-spot-check, `low` flagged/do
-  not quote. The referral set here is large (269) relative to peer cities; treat
-  `high` as reliable and spot-check `medium`/`low` before quoting a chain.
+  not quote. **The layer was ground-truthed link-by-link on 2026-07-31 and tuned
+  via `db/referral_overrides.csv` (365 evidence-cited `suppress` rows): 269 links
+  → 62, and every surviving link was verified against the source minutes.** The
+  pre-audit set was 9.5% precise in the `high` tier (171 of 189 links were
+  meeting-notice boilerplate joined on CITY HALL's own address). Read
+  `db/CLAUDE.md` before quoting or re-tuning this layer.
 - **Narrative-tally motions** name only the mover + any dissenters, leaving the
   majority unnamed; the extractor never infers unnamed Ayes. Corrections go
   through override CSVs + rebuild — never in-place edits to the flat CSVs or .db.

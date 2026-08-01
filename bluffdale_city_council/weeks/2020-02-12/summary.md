@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2020-02-12
 _Window 2020-02-06 – 2020-02-12_
 
-- **Meetings:** 0
+- **Meetings:** 2 — 0 02 12_714, 0 02 12_715
 - **Votes:** 6 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,5 @@ _Window 2020-02-06 – 2020-02-12_
 
 ## Files
 - `votes.csv` — 9 member-vote rows across 6 motions
+- [council_2020-02-12_714.md](../../meeting_minutes/minutes/2020/2020-02-10/council_2020-02-12_714.md)
+- [council_2020-02-12_715.md](../../meeting_minutes/minutes/2020/2020-02-10/council_2020-02-12_715.md)

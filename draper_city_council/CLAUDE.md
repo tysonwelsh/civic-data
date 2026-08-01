@@ -86,11 +86,19 @@ bundles — they join by **person + year** (Draper is at-large, so **no district
 - **By geography**: `geo/address_to_district.py` returns **Draper membership + "At-Large"** — there
   are no council districts to resolve.
 
-## Elections — all at-large; two recovered/re-parsed cycles + an RCV year
-- **23 races, 2007–2025**, all **AT-LARGE**; council races are multi-winner "vote-for-N" fields (top
+## Elections — all at-large; two recovered/re-parsed cycles + an RCV year + a canceled race
+- **24 races, 2007–2025**, all **AT-LARGE**; council races are multi-winner "vote-for-N" fields (top
   N vote-getters seat the N open seats). **Mayor Troy Walker won 2013 / 2017 / 2021 / 2025** (all
   cross-checked, `VERIFICATION.md` §10); **Dahlin** won a new **2-year unexpired/short-term** seat in
   2025 (replacing Vawdrey), flagged in `note`.
+- **⚠ 2025 has TWO council generals.** Besides Dahlin's 2-year unexpired seat, the **regular 2-seat
+  4-YEAR** race was **CANCELED as uncontested** under **UCA 20A-1-206(3)** by **Res #25-49** (adopted
+  2025-10-07, 5-0, after a 2025-09-16 continuance) when candidate **Jared Turner** withdrew, leaving
+  two candidates for two seats — **Tasha Lowery + Mike Green certified elected without a ballot**.
+  Added to `draper_races.csv` 2026-07-31 from the city's own resolution (packets text sidecar), with
+  **all tally columns blank** (no ballot ⇒ no votes) + two `is_winner` by_candidate rows. Never sum
+  it with the 2-year race, and never read its blank tallies as missing data. The 2021 pattern is
+  different (a real vote-for-1 ballot) — see `election_results/CLAUDE.md`.
 - **2019 general + 2021 general recovered from raw SOVC** (mislabeled/absent in the shared county
   file). **2025 re-parsed from raw SOVC** because the canonical county long file **undercounts**
   Draper (it dropped Utah-vintage `25DR0N` precinct labels) — the re-parse reconciles to the certified

@@ -22,13 +22,14 @@ as **modules**, not big cities — only the modules that fit are built. Each mod
   Commission is both legislative and executive; agencies (RDA, etc.) convene in-session as
   the same Commission. County Clerk/Auditor (Ricky Hatch) takes the minutes.
 
-## Bodies in the db — totals: 4,406 motions / 12,577 votes / 7 persons (2015-01-06 .. 2026-04-14)
+## Bodies in the db — totals: 4,415 motions / 12,580 votes / 7 persons (2015-01-06 .. 2026-04-14)
 
-- **Board of Commissioners** — the regular meeting body: **4,406 motions / 12,577 votes**
-  across **532 meetings**, **99.5% named** (4,385/4,406 carry a named roll call). Outcomes:
-  4,383 Pass, 2 Fail, 21 no-result-printed (`outcome=''`). **81 contested** motions (≥1
-  Nay/Abstain/Recuse). (Totals restated 2026-07-31 — see the repair note at the bottom:
-  the phantom 2021-06-01 meeting was removed and 15 swallowed motions recovered.)
+- **Board of Commissioners** — the regular meeting body: **4,415 motions / 12,580 votes**
+  across **532 meetings**, **99.3% named** (4,386/4,415 carry a named roll call). Outcomes:
+  4,384 Pass, 2 Fail, 29 no-result-printed (`outcome=''`). **82 contested** motions (≥1
+  Nay/Abstain/Recuse). (Totals restated 2026-07-31 — see the two repair notes at the bottom:
+  the phantom 2021-06-01 meeting was removed, 15 swallowed motions recovered, and 9 more
+  motions surfaced by the died-for-lack-of-a-second repair.)
 - **Board of Commissioners Work Session** — 3 posted work sessions in the floor (2016-07-06,
   2016-07-13, 2018-10-10), all discussion-only (**0 motions**); kept as a distinct body so
   the meeting-type distinction is preserved. Detection is **title-block-only** (regular
@@ -44,10 +45,13 @@ aye; Commissioner Harvey – aye; Commissioner Bolos – aye"); `outcome` (Pass/
 from the aye/nay tally (there is no separate "carried 3-0" result string). Two roll-call
 grammars are handled: (a) the modern single semicolon-separated dash-joined line, and (b) an
 EARLY-ERA (mostly 2015–2017) `Roll Call Vote:` header + one dot-leader member line each.
-**`names_recorded=0` = an honest recording ceiling** (source printed no roll call) — **21
-motions (0.48%)**: lost-for-lack-of-second motions, a recess motion, source-malformed rolls
-(e.g. 2015-07-14 prints "Commissioner Ebert; Chair Gibson – aye" — one member, no value),
-and stacked organizational motions sharing one roll call. Never fabricated.
+**`names_recorded=0` = an honest recording ceiling** (source printed no roll call) — **29
+motions (0.66%)**: **motions that died for lack of a second** (7 — they never reach a vote,
+so `outcome`/`result_raw` are empty by construction, see the 2026-07-31 repair note), a
+withdrawn substitute motion that was never voted (2018-09-11 #7), a
+recess motion, source-malformed rolls (e.g. 2015-07-14 prints "Commissioner Ebert; Chair
+Gibson – aye" — one member, no value), and stacked organizational motions sharing one roll
+call. Never fabricated.
 
 - **Data floor 2015-01-01.** The county's own born-digital archive reaches back to **2000**
   (~690 additional meetings, same named grammar) — a high-value backfill logged in `recon.md`,
@@ -92,12 +96,12 @@ gis/          CATALOG ONLY (link, never mirror) — 8 UGRC/county ArcGIS layers 
 ## Which artifact for which question
 
 - **County vote record / contested actions / a commissioner's record:** `gov.db`
-  `motion`/`vote` where `city='weber_county'`; `v_contested_all` (81 contested),
-  `v_member_record_all`. NAMED roll call on 99.5% of motions.
+  `motion`/`vote` where `city='weber_county'`; `v_contested_all` (82 contested),
+  `v_member_record_all`. NAMED roll call on 99.3% of motions.
 - **Adopted ordinances + who enacted them:** the **`ordinances/` register** — the
   adopted-ordinance / resolution table Weber never published, derived from the named-roll
   minutes (`ordinances/build_adopted_instruments.py`). `adopted_instruments.csv` is the full
-  working register (**845 rows — 277 ordinances + 568 resolutions**, one per distinct
+  working register (**846 rows — 277 ordinances + 569 resolutions**, one per distinct
   instrument, each citing its minutes). `index.csv` is the **ordinance-class subset (277
   rows)** in the federation loader's schema (direct county-db `motion_id`) → `cities.db`
   `ordinance` **with enacting-vote linkage**: **248/277 (89.5%)** carry a unique link; **29
@@ -110,7 +114,11 @@ gis/          CATALOG ONLY (link, never mirror) — 8 UGRC/county ArcGIS layers 
   public meeting and reconvene the public hearing") into an honest `unlinked`. **2019-13 is
   now correctly linked (2026-07-31)** — its real adopting motion (Solar Overlay Zone, Little
   Mountain Solar) was being swallowed by the `extract_votes.py` skip bug fixed that day; the
-  ordinances/README.md note about it is superseded. Resolutions
+  ordinances/README.md note about it is superseded. ⚠ **Two more WRONG links corrected
+  2026-07-31 (died-motion pass)**: **2018-14** and **2018-23** each pointed at a motion that
+  had DIED FOR LACK OF A SECOND and now point at the motion that actually adopted them
+  (2018-09-11 #9 and 2018-12-18 #15); **Resolution 29-2018** entered the register for the
+  first time. 2018-15 stays honestly `ambiguous`. Resolutions
   stay register-only. `code_sources.csv` = the dual-codification code catalog (Municode +
   Municipal Code Online); `case_keys.csv` = 169 PC/BOA land-use case keys (a DIFFERENT
   numbering from Commission ordinances — join is a future task).
@@ -228,10 +236,52 @@ stay suppressed (`suppressed=True, votes=''`). Module `elections/CLAUDE.md` is a
   adopting motions**, and Aug 12's real consent items/warrants (≈#105657-105718) were never
   printed. The same clerk habit shows at 2025-07-08/07-15 and 2025-08-19/08-26.
 
+## 2026-07-31 repairs (second pass) — DIED-FOR-LACK-OF-A-SECOND motions
+
+**A motion that died for lack of a second was displaying as a PASS with named ayes.** Weber's
+clerk prints the died motion, its terminator and the **substitute motion** that follows inside
+ONE hard-wrapped paragraph ("… Motion died for lack of a second. **Chair** / **Harvey** moved
+to adopt Ordinance 2018-14 amending …"), and `db/extract_votes.py` anchored motions one
+physical line at a time. The substitute was therefore invisible, and the died motion — matched
+because the substitute's "; Commissioner Ebert seconded" fell inside its 5-line lookahead —
+**swallowed the substitute's roll call**. Four motions were affected: **2018-07-03 #6,
+2018-09-11 #6 and #7, 2018-12-18 #13**.
+
+The fix, all in `db/extract_votes.py`:
+- `split_at_died()` — a whitespace-only pre-pass that normalises every "motion died for lack of
+  a second" phrase onto one line and breaks after it, so both motions become addressable. No
+  text is added, removed or reworded; `motion_text` stays verbatim.
+- A **died** motion is now registered on its own terms: no seconder required (it never got
+  one), **no roll-call scan at all**, `result_raw=''`, `outcome=''`, `names_recorded=0` — the
+  repo's existing convention for "the source printed no roll call".
+- `SUBST_RE`, a looser anchor (`made a substitute motion` / `made a motion` / `<Name> … and
+  moved`) that may span the line wrap, applied **only** within 8 non-blank lines of a died
+  motion, so the corpus-wide motion anchor is unchanged.
+- The roll-call scanner's "stop at the next motion" test also stops at a died motion.
+
+Delta (proved against the pre-fix staging CSVs): **+9 motions (4,406 → 4,415), +3 votes
+(12,577 → 12,580 db / 12,586 → 12,589 CSV), +7 motion_refs**; the four affected meetings are
+the ONLY ones that changed — every other meeting's motions and votes are byte-identical, and
+no vote value was lost or invented (the four borrowed rolls simply re-anchored to the
+substitute that actually received them). The 2026-07-31 first-pass loop-resume recoveries
+(Ordinance 2019-13, Resolution 49-2021, the 2022-11-15 recusal, the 2025-12-16 nays,
+Resolution 33-2015) all survive unchanged.
+
+Newly extracted, each verified against the minutes: the **five substitute motions that
+actually carried** — 2018-07-03 **Resolution 29-2018** (Bell/Edwards to the Western Weber PC,
+2-1), 2018-09-11 **Ordinance 2018-14** (12th St & 4700 W rezone to **C-1**, 2-1) and
+**Ordinance 2018-15** (7500 W A-3→A-2, 2-1 with Chair Harvey **nay**), 2018-12-18 **Ordinance
+2018-23** (impact fees, trails fee set at **$1,350**), and **2020-06-23 the Taylor Landing
+appeal** (Harvey **nay** — a contested vote that had been *orphaned*, printed in the minutes
+but attached to no motion at all: the +3 votes and contested **81 → 82**) — plus four more
+died/withdrawn motions that had never been extracted. Ordinances **2018-14** and **2018-23**
+were re-pointed off the died motions onto their real adopting motions in `ordinances/`.
+
 ## Honest gaps (not fabricated)
 
-- **Land-use votes are out of scope** (FTS-only), not missing. 21 Commission motions are
-  `names_recorded=0` (genuine recording ceilings). Joint **Weber+Davis** boundary meetings
+- **Land-use votes are out of scope** (FTS-only), not missing. 29 Commission motions are
+  `names_recorded=0` (genuine recording ceilings + the 7 died-for-lack-of-a-second motions
+  and one withdrawn substitute, which never reached a vote). Joint **Weber+Davis** boundary meetings
   (2020-10-14, 2023-08-01) print both boards' roll calls — visiting Davis commissioners
   (Kamalu/Stevenson) are excluded via the extractor's `VISITING` set and never become Weber
   persons; "Elliott" is left ambiguous (cast no Weber vote).
@@ -239,6 +289,19 @@ stay suppressed (`suppressed=True, votes=''`). Module `elections/CLAUDE.md` is a
   (OVPC ~29 / WWPC ~43 / BOA ~28) are logged, not ingested (no deliberative record). Three
   portal source mis-links are recorded in `land_use/gaps.csv` (mislinked copies dropped).
 - **2000–2014 Commission history** is a logged future backfill (~690 meetings), not a gap.
+- ⚠ **KNOWN RESIDUAL (found 2026-07-31, NOT fixed): one ORPHANED roll call at `2017-06-27`.**
+  The minutes print a contested roll ("Commissioner Gibson – nay; Commissioner Harvey – aye;
+  Chair Ebert – aye") for **Ordinance 2017-24** (Ogden Valley outdoor lighting) that is
+  attached to no motion, because the clerk narrates that whole item without the extractor's
+  motion grammar: the first motion is "Commissioner Gibson **recommended** that staff …", the
+  one actually voted on is "Commissioner Harvey **restated his motion** to adopt Ordinance
+  2017-24 …", and the intervening substitute that died reads "Commissioner Gibson **made a
+  substitute motion** …". None of those is a `<Title> <Name> moved` anchor, and the died
+  motion there is likewise unanchored so the substitute-motion rescue never opens. The vote is
+  in the minutes text (and in `fts_minutes`) but not in the vote layer — an extraction ceiling,
+  never fabricated. Ordinance **2018-15** is the related linkage residual: its real adopting
+  motion (2018-09-11 #11) ties on the same date with the Resolution 46-2018 motion that picks
+  "2018-15" off the section header, so the register keeps it honestly `ambiguous`.
 - ⚠ **OPEN QUESTION (flagged 2026-07-31, NOT acted on): is `2022-01-11` really January 18?**
   The portal file `min_01112022.pdf` prints "**Tuesday, January 18, 2022**" in its title block,
   and the county lists **no 01-18-2022 meeting at all** (absent from both indexes;

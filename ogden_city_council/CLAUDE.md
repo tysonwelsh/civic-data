@@ -14,7 +14,9 @@ db/                   NORMALIZED RELATIONAL DATABASE (db/civic.db SQLite + table
                       votes by real keys + reconstructed cross-body referrals. Start here: db/SCHEMA.md
 public_comments/      all_comments_clean.csv (EMPTY — submit-only city) + minutes_speaker_log.csv
                       (635 in-person speaker notes, NOT comments) + AVAILABILITY.md (the audit)
-election_results/     Weber County results filtered to Ogden council + mayor races
+election_results/     Weber County results filtered to Ogden council + mayor races —
+                      16 GENERAL + 7 PRIMARY races (primaries added 2026-07-31; 2019
+                      primary is an honest gap, no canvass held)
 geo/                  precinct boundaries + address/point -> council district tool (Districts 1–4)
 weeks/                DERIVED weekly bundles tying minutes + votes together
 build_weeks.py        regenerates weeks/ (CITY="Ogden", MEETING_WEEKDAY = Tuesday)
@@ -34,6 +36,9 @@ district** (normalize names first).
   `minutes_speaker_log.csv` (635 in-person paraphrases) as a comments dataset.
 - **Meeting-level / contextual**: the `weeks/<tuesday>/` bundle (start with `summary.md`).
 - **By member**: join election winners (`election_results/ogden_races.csv`) ↔ votes.
+  **Filter `election_type='municipal general'` first** — the file also carries 7 August
+  **primary** races whose `winner` is only the primary's top vote-getter (who advances),
+  not an office-holder.
 - **By geography**: `geo/address_to_district.py` resolves an address to Districts 1–4.
 
 ## Council structure
@@ -44,7 +49,19 @@ by name globally), so Nadolski correctly votes 2020–23 and is excluded 2024+. 
 are city-wide; geo maps addresses to Districts 1–4.
 
 ## Data notes / caveats
-- **Votes**: 1,506 motions / 4,992 member-vote rows / 87 contested. Many motions pass on a tally
+- **Died motions (2026-07-31)**: a motion that **died for lack of a second** never reached a
+  vote and now carries `result='Died (lack of a second)'` → db `motion.outcome='Died'`
+  (2 corpus-wide: 2023-10-10 m7 Ord 2023-56, 2025-05-20 m6 Ord 2025-13). Both previously
+  emitted the generic `Recorded` fallback and were stored as **Pass** — a motion the minutes
+  say died, recorded as passed. In both cases the operative roll call sits on the
+  **substitute motion that follows** (deny/reject the same ordinance), extracted as its own
+  motion. On 2023-10-10 that substitute's roll call was ALSO wrong until 2026-07-31: OCR
+  rendered `VOTING NO` as `VOTINE NO`, so the NO anchor was invisible, the AYE list ran
+  through the dissenters and a **4-3** roll was stored as **6-0** with Blair dropped and
+  Lopez/White flipped to Aye. Fixed in the extractor's roll-call regex; the minutes' own
+  sentence ("The motion carried on a four to three vote") confirms 4-3.
+- **Votes**: 1,561 motions / 5,190 member-vote rows / 100 contested (was 1,506 / 4,992 / 87
+  before the 2026-07-17 PMN sibling merge and the 2026-07-31 OCR roll-call repair). Many motions pass on a tally
   / "ALL VOTING AYE" with **no per-member names** → `names_recorded:false` (no guessed members).
   Named roll-calls (`VOTING AYE - COUNCIL MEMBERS … VOTING NO - …`) are parsed member-by-member;
   the NO list is captured across line wraps and terminates at the sentence period. Treat the
@@ -141,7 +158,8 @@ are city-wide; geo maps addresses to Districts 1–4.
     `v_project_timeline`. Build: `python3 db/build_db.py` then `python3 db/build_referrals.py`.
 
 ## Analysis guidance
-- **Contested votes (any Nay/Abstain/Recuse) are the signal** (80 council, 149 PC, 7 RDA);
+- **Contested votes (any Nay/Abstain/Recuse) are the signal** (100 across meeting_minutes
+  bodies as of 2026-07-31, 149 PC);
   `weeks/<tue>/summary.md` surfaces council ones. Motion types use the fixed 12-category taxonomy (`meeting_minutes/CLAUDE.md`).
 - The **RDA subset** (`body=RDA`) is the highest-value slice for development/subsidy analysis.
 - Validation: `meeting_minutes/votes/_validation_report.txt` (per-year rosters confirm no mayor

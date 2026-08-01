@@ -129,7 +129,11 @@ unplanned bonus that extends the money→votes chain back to 2011.
    pattern of a §20A-1-206 canceled-uncontested race. (Their index rows are the
    `join_confidence=none` 2025 rows.) Jared Turner's withdrawal affidavit
    (2025-09-15, on the candidate-information page + GRAMA portal) is what reduced the
-   race to uncontested.
+   race to uncontested — the same withdrawal recited in Res #25-49.
+   **STATUS 2026-07-31: the race is now IN `election_results`** (a canceled-uncontested
+   race row + two `is_winner` by_candidate rows with blank tallies), added from the
+   **city's adopted resolution text** — NOT from this CF layer, which remains a
+   corroboration only. The `join_confidence=none` CF rows above are unchanged.
 2. **2019: a primary was SCHEDULED and then not held — the CF record proves the
    candidate field collapsed.** The GRAMA portal shows **12 declared 2019 council
    candidates** (vs 6 on the general ballot). Ten filed an early-August "Finance

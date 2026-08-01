@@ -30,7 +30,35 @@ As-of **2026-07-13**. Additive acquisition-only dataset; no existing dataset mod
   7 rows `no` (all explained below); 37 rows `below_floor` (2017/2019 cycles, which the
   election dataset deliberately omits — data floor 2020).
 
-## DISCREPANCY FLAGS for the elections layer (do NOT edit election_results — review items)
+## DISCREPANCY FLAGS for the elections layer — **BOTH CLOSED 2026-08-01**
+
+> **RESOLUTION (2026-08-01).** Worked to a city primary source: Murray's **Board of Canvassers'
+> Report for the Aug 10, 2021 primary**, signed 2021-08-24 by the Mayor, all five councilmembers
+> and the Recorder (city docid 12340), now retained at
+> `../election_results/raw/2021-08-24-murray-primary-canvass-report_docid12340.pdf`.
+> It certifies the 2021 primary was held **"for the offices of City Mayor"** — that office alone.
+> - **Flag #1 is HALF-CONFIRMED, HALF-PREMISE-FAILED.** The **Mayor** primary was real and was
+>   the missing race — it was added to `murray_races.csv` on 2026-07-17 and this pass verified
+>   its tallies against the canvass (Hales 4,952 / Bullen 2,483 / Fitzgerald 413 / Teemsma 356,
+>   total 8,204 — **0 discrepancies**) and filled its three blank turnout fields from the canvass
+>   (registered 28,531 / ballots 8,244 / 28.89%). The **D4** half is wrong: **no D4 primary was
+>   ever held or canvassed**, and it appears in neither the city canvass nor the countywide
+>   election-night contest list (6 contests, 5 cities). `murray_races.csv` carrying no 2021 D4
+>   primary is CORRECT.
+> - **Flag #2 (Galt) is PREMISE-FAILED.** Galt appeared on no counted ballot (no D4 primary; not
+>   on the general ballot — 2021 D4 general is Turner + Rasmussen, `n_candidates=2`), so his
+>   absence from `election_results` is correct rather than a gap.
+> - **This layer's evidence did real work, in the opposite direction.** The Pre-Primary filings
+>   below are what disproved the elections layer's earlier guess that Galt "withdrew
+>   pre-certification": Rasmussen and Turner both filed **Pre-Primary** statements **2021-08-03**,
+>   a slot Murray marks "Disclosure not required" whenever a race has no primary (2021 D2, 2023
+>   D5, 2025 D4 — all empty). The D4 primary was therefore still live a week out and collapsed
+>   after that deadline. Galt filed **nothing** — not even the "Post-Primary final (eliminated in
+>   primary)" the two losing mayoral candidates filed — so he was never a primary loser.
+>   Secondary reporting (Murray Journal 2021-11-23) says he "dropped out days before the
+>   primary"; **no acquired primary source documents the mechanism**, so none is asserted.
+> Full write-up + citations: `../election_results/CLAUDE.md` §"2026-08-01".
+> The two flags are retained verbatim below as the ORIGINAL filed text.
 
 1. **The filings prove a 2021 municipal primary that `murray_races.csv` does not carry.**
    The dataset (and its CLAUDE.md) says "No 2021 primaries — every 2021 Murray race drew
@@ -45,6 +73,9 @@ As-of **2026-07-13**. Additive acquisition-only dataset; no existing dataset mod
    a city-publishing gap (no filings) and part of flag #1.
 
 Neither flag was applied to `election_results/` — acquisition layer only.
+*(2026-08-01: both are now CLOSED — see the RESOLUTION block above. The Mayor-primary race was
+added to the audited election layer on 2026-07-17 and certified against the city canvass on
+2026-08-01; the D4 half and flag #2 were premise-failed. Nothing was invented to satisfy them.)*
 
 ## Known limits / honest gaps
 
@@ -124,10 +155,14 @@ affidavit). See `CLAUDE.md` for the full build record.
   `cycle_overrides.csv` rows set the correct per-candidate cycle = sum of all period covers
   (cycle_totals' generic summary-vs-interims rule undercounted by dropping the final period).
   Read `cycle_totals.csv` for any race total — never sum `filing_totals`.
-- **Elections-layer discrepancy flags (#1/#2 above) are UNCHANGED and now MONEY-BACKED:** the
-  2021 Mayor + D4 primary the CF filings imply (Fitzgerald/Teemsma post-primary "eliminated"
-  finals; Bullen amended pre-general) is now visible as structured dollars; still NOT edited
-  into `election_results/` (acquisition/structuring layer only — elections-review item stands).
+- **Elections-layer discrepancy flags (#1/#2 above) — CLOSED 2026-08-01** (this bullet formerly
+  read "UNCHANGED and now MONEY-BACKED"). The money layer made the 2021 **Mayor** primary
+  visible in dollars (Fitzgerald/Teemsma post-primary "eliminated" finals; Bullen amended
+  pre-general) and that race is now in the audited election layer, certified against Murray's
+  Board of Canvassers' Report. The **D4** primary implied by the same filings **never happened**
+  — the certified canvass covers the mayoralty only; the Rasmussen/Turner 2021-08-03 Pre-Primary
+  filings prove the D4 primary was live at that deadline and collapsed after it, which is a
+  genuine finding of this layer, not an election-layer gap.
 - **Rosalba Dominguez 2023 (docid 14463)** confirmed a genuine 2023 D3 filing (form header +
   Apr–Aug 2023 transaction dates), despite a stray "2019 re-upload" note in its scanned cache
   `_meta` — the ~$9.7k belongs to 2023, not 2019.

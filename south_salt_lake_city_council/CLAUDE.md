@@ -130,7 +130,17 @@ names; election names are UPPER-CASE with `(NP)` suffixes).
 **52 races, 2007–2025.** **2011 & 2019** generals+primaries were **re-parsed from the raw SOVC**
 (the archive normalizer keyed the contest off sheet names that omitted "South Salt Lake", so a
 city-string filter missed them — same failure mode as Taylorsville/South Jordan/Millcreek 2019).
-**2021** was re-parsed to undo privacy-suppression. **2025 ran an off-cycle "At-Large (2-Year
+**2021** was re-parsed to undo privacy-suppression, and **⭐ 2021 is an RCV-PILOT year** —
+SSL joined Utah's 2021 Municipal Alternate Voting Methods pilot, proved by the Clerk's
+*Official Final Ranked Choice Results* (`election_results/raw/2021-general-election-ranked-
+choice-summary-report.pdf`, p.20 = `CITY OF SOUTH SALT LAKE MAYOR`). All four 2021 rows carry
+`voting_method='RCV'` (**corrected from `plurality` on 2026-07-31**; no tally changed). Round 1
+was decisive in every SSL contest — Wood cleared the 1,526 majority threshold outright, the
+three council contests had 2 candidates each — so unlike Draper/Millcreek 2021 the stored
+winners/pcts/margins **are** the RCV finals and can be quoted directly. **Corollary: there was
+no Aug-2021 SSL primary and none is missing** — the pilot replaces the municipal primary (the
+county's 2021 primary publication holds 6 contests, all non-pilot cities).
+**2025 ran an off-cycle "At-Large (2-Year
 Term)" special** (`district='At-Large-2yr'`) — Pinkney (At-Large) left for the county council,
 deWolfe was appointed Jan-2025 then won the special — kept as its own contest so member-term
 logic doesn't misread it as a cycle shift. Winners cross-checked against outside sources in
@@ -229,6 +239,9 @@ dataset; the promoted copies live in the audited `minutes/` layers with
   the filings prove a **3-way 2021 mayoral primary** (Wood/Christensen/Siwik) that
   `election_results` doesn't list.~~ **RESOLVED 2026-07-17 (SOVC re-parse):** the filings
   prove a 3-way RACE, not a primary — SSL was in the 2021 RCV pilot, so all three advanced
-  directly to the ranked general (audited); no primary was held or is missing. CF lives on
+  directly to the ranked general (audited); no primary was held or is missing. **Re-verified
+  at the primary source 2026-07-31** — the 2026-07-17 note asserted the pilot without citing a
+  document; the Clerk's Ranked Choice Results report (now retained in `election_results/raw/`)
+  names SSL Mayor on p.20, and the 2021 rows are relabelled `RCV` accordingly. CF lives on
   the CivicPlus Archive Center (`Archive.aspx?ADID=`
   → `/ArchiveCenter/ViewFile/Item/`, not DocumentCenter).

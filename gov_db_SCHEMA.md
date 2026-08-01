@@ -7,17 +7,17 @@ roster, elections, campaign-finance, regional-project, and projection layers, an
 
 Renamed from `cities.db` on 2026-07-20 (a `cities.db` symlink remains; the builder is
 still `python3 scripts/build_cities_db.py`). **DERIVED — regenerated, never hand-edited.**
-Counts below are from the build of **2026-07-31T17:00:54** and are reprinted by every
+Counts below are from the build of **2026-08-01T00:28:03** and are reprinted by every
 build; re-verify any number against the live db (`build_info` table) or with
 `python3 scripts/check_doc_numbers.py`. Query read-only:
 `sqlite3 "file:gov.db?mode=ro"`.
 
 ## What's in it / what's not
 
-IN: 41 built entities' vote spine (**motion 78,548** — city 49,105 / county 27,262 /
-regional 973 / state 1,208; **vote 247,455** member-vote rows — city 180,979 / county
-38,589 / regional 0 (tally-only by source) / state 27,887), the normalization layer
-(**motion_std 77,340**), elections (**election_race 680** audited races +
+IN: 41 built entities' vote spine (**motion 78,561** — city 49,105 / county 27,271 /
+regional 977 / state 1,208; **vote 247,459** member-vote rows — city 180,980 / county
+38,592 / regional 0 (tally-only by source) / state 27,887), the normalization layer
+(**motion_std 77,353**), elections (**election_race 688** audited races +
 **election_result 5,482** SLCo SOVC tallies), campaign finance (**cf_contribution
 19,685** / cf_expenditure 15,750 / cf_filing 1,889 / **cf_cycle 805** — the only
 sanctioned per-candidate totals), comments (**14,202**), ordinances (**7,550**, 5,480
@@ -65,7 +65,7 @@ their 100% join rate is definitional, and `dataset` there is body-derived:
 `motion_type_crosswalk` 411 / `body_crosswalk` 43 / `vote_values` 83. ut_state has NO
 motion_std rows BY DESIGN (see its `motion-std-deferred` caveat).
 
-**Elections**: `election_race` 680 (25-col audited winners/margins — authoritative;
+**Elections**: `election_race` 688 (25-col audited winners/margins — authoritative;
 RCV cities: take winners here, not from tallies) · `election_result` 5,482 (SLCo SOVC
 candidate×contest tallies 2007–2025; `rank_in_contest` is plurality order).
 

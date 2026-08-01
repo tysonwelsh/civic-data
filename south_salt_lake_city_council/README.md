@@ -42,7 +42,7 @@ publication gap at the city, **not** a scraper miss. Vote rows carry a `provenan
 | **PC votes** | 2022–2026 | **286 motions** · **1,652 vote rows** | extracted from minutes (`extract_votes.py`) | ✅ verified; `Commissioner <Name> – Aye;` grammar; up to 8 seats; tally-only motions honest (`names_recorded:false`) |
 | **Relational db (`db/civic.db`)** | 2020–2026 | **966 motions** · **6,253 votes** · **43 referrals** | standard cross-city schema | ✅ reconciles exactly (6,253 named CSV rows == 6,253 db votes, delta 0); referral layer restored by the promotion (40 Council←RDA + 3 Council←PC, all medium) |
 | **Public comments** | — | **AVAILABILITY.md only** | n/a — SUBMIT-ONLY | ⚠ **HONEST-EMPTY** — no published written-comment archive (in-person / Zoom / connect line). `all_comments_clean.csv` header-only |
-| **Election results** | 2007 → 2025 | **52 races** · candidate + precinct tables | Salt Lake County SOVC | ✅ verified; **2011 & 2019 re-parsed** from raw SOVC; 2021 recovered from privacy-suppression; 2025 At-Large 2-yr special flagged |
+| **Election results** | 2007 → 2025 | **52 races** · candidate + precinct tables | Salt Lake County SOVC | ✅ verified; **2011 & 2019 re-parsed** from raw SOVC; 2021 recovered from privacy-suppression **+ relabelled `RCV` (pilot year, 2026-07-31)**; 2025 At-Large 2-yr special flagged |
 | **Geo (address→district)** | current / post-2020 | **5 official district polygons** | SSL's OWN ArcGIS FeatureServer | ✅ tool + geojson present; At-Large (2) + Mayor are city-wide (no polygon) |
 | **Weekly bundles** | 2020–2026 | derived (`build_weeks.py`, Wednesday grid) | derived | ✅ regenerable; weekly council/RDA vote sum 985 == flat total |
 
@@ -98,7 +98,11 @@ promotion). 19 RDA dates remain agenda-only/no-action (honest source limit).
 - **Comments are honest-empty (submit-only)** — see `public_comments/AVAILABILITY.md`.
 - **Elections:** county-administered; only SSL council + mayor races. **2011 & 2019 re-parsed**
   from the raw SOVC (the archive normalizer keyed off sheet names that omitted the city string);
-  **2021** re-parsed to undo privacy-suppression. **2025 At-Large (2-Year Term) is an off-cycle
+  **2021** re-parsed to undo privacy-suppression. **⭐ 2021 was an RCV-pilot year** — all 4 rows
+  are `voting_method='RCV'` (corrected from `plurality` 2026-07-31); round 1 was decisive in
+  every SSL contest, so the stored winners/margins ARE the RCV finals (safe to quote, unlike
+  Draper/Millcreek 2021), and **no Aug-2021 primary was held — the pilot replaces it**.
+  **2025 At-Large (2-Year Term) is an off-cycle
   special** (Pinkney → county council → deWolfe appointed then won it), flagged in `note`.
 - **Geo is current/post-2020-census vintage** — SSL's own official layer; pre-2022 addresses
   near a moved boundary may mis-assign.
@@ -148,5 +152,6 @@ COVERAGE.md was rewritten. The 2022 PC recovery refuted the "no 2022 PC minutes"
   slot (119 promoted 2026-07-16, see ✅); PMN itself confirmed no in-scope misses. 221 meetings
   still agenda-only.
 - **`transcripts/`** — 269 YouTube meeting videos, 100% ASR captions; covers the cliff years.
-- **`campaign_finance/`** — **68 filings, 2021/2023/2025 complete**; acquisition layer; flags a
-  3-way 2021 mayoral primary.
+- **`campaign_finance/`** — **68 filings, 2021/2023/2025 complete**; acquisition layer. Its 3
+  mayoral filers in 2021 are the **ranked GENERAL's** three candidates, **not** evidence of a
+  primary — SSL was an RCV-pilot city and held none (settled 2026-07-31, `election_results/`).

@@ -5244,3 +5244,42 @@ s.tally_aye<>s.tally_nay AND ((m.outcome='Pass' AND s.tally_aye<s.tally_nay) OR
 Only create NEW files (this plan) and internal task state. Do not edit any shared/derived file
 until the townships instance confirms done: `cities.db`, `coverage.json`, `registry/*`,
 `scripts/db_build_lib.py`, `scripts/build_cities_db.py`, `TODO.md`, README/CLAUDE.
+
+## ARCHIVE ANCHOR 2026-08-01 — DEBT-clearance wave + solo pass (owner-approved 10 Opus agents + coordinator)
+
+Closed 12 of the 14 post-restructure [DEBT] items; full per-agent records in the wave
+transcript (journal wf_1fe6e521-df4) and commit history. Verdicts:
+- **weber** died-motions ×4 FIXED at the extractor (+9 motions incl. 5 carried substitutes,
+  4 died motions honestly vote-less; ordinances 2018-14/2018-23 re-pointed off died motions)
+  + COLLATERAL: the 2020-06-23 Taylor Landing contested roll (2-1) was ORPHANED — attached
+  to no motion at all — now recovered (+3 votes, contested 81→82).
+- **ogden** died ×2 fixed (a Nay recovered, Died 0→2) + 7 primary races added (2021×2,
+  2023×2, 2025×2, +1; from the on-disk canvasses).
+- **midvale** died ×1 fixed; Erikson→Erickson merged at the person-resolution layer (13
+  vote rows re-keyed, values identical, the Nay preserved); weeks Meetings:0 13→0.
+- **emigration_canyon** parse_present fixed (attendance-only; vote layer proven
+  byte-identical); VERIFICATION.md rewritten (11 numeric claims corrected).
+- **south_salt_lake** 2021-primary premise FAILED — SSL 2021 was RCV (no primary exists);
+  REAL defect fixed instead: 4 rows relabeled plurality→RCV with first-choice totals +
+  caveat notes. Cross-entity RCV mislabel class filed as new [DEBT].
+- **draper** 2025 canceled-uncontested race added (Res #25-49, convention row, no
+  fabricated tallies); federated caveat text updated.
+- **murray** 2021 Mayor primary corrected to the certified canvass (registered/ballots/
+  turnout + source repointed); D4-primary premise FAILED (none should exist); unsourced
+  "Galt withdrew" causal claim replaced with sourced text; 4 docs reconciled.
+- **wfrc_mpo** 4 appositive motions added (corpus diff: +4/0/0) + a ride-along verbatim
+  result fix ('the vote.' → the real sentence).
+- **washington_county** ALL THREE premises FAILED — 290/290 minutes byte-identical; the
+  filed garbling patterns don't exist as described; root CLAUDE.md 82%→78% OCR corrected.
+- **bluffdale** referral ground-truth: high-tier precision FAR below quotable — 269→62
+  links (-207; suppressions via the documented override ledger, now load-bearing);
+  guard-params tested and rejected; recall unmeasured; extractor-window root cause filed
+  as new [DEBT]; lehi census filed as a LEAD.
+- **Coordinator solo:** logan "North Logan RCV" corrected (3 spots, dated); riverton 5
+  auth-wall rows relabeled (now matching AVAILABILITY.md); SLCo HA "phantom row" premise
+  FAILED (it is the honest-gap convention: image-only status + note); weeks_lib
+  stem-parse + PMN-link fixes (bluffdale 136→0 and the 70-bundle residual class →0 across
+  8 cities); db_build_lib kind_of 'committee' token (alta BudgetCommittee, blast radius
+  alta-only, verified); holladay Layton closed as satisfied-by-G2-caveat.
+Closing federation 2026-08-01T00:28:03: 44/44 auto-gate, integrity ok, reconciliation
+exact; check_doc_numbers 13/13 after reconciliation; marquee 5/5; election_race 680→688.

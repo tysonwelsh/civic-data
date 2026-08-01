@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2023-07-12
 _Window 2023-07-06 – 2023-07-12_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 3 07 12_1234
 - **Votes:** 6 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2023-07-06 – 2023-07-12_
 
 ## Files
 - `votes.csv` — 18 member-vote rows across 6 motions
+- [council_2023-07-12_1234.md](../../meeting_minutes/minutes/2023/2023-07-10/council_2023-07-12_1234.md)

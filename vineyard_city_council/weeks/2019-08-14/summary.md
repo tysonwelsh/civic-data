@@ -1,7 +1,7 @@
 # Vineyard council week ending 2019-08-14
 _Window 2019-08-08 – 2019-08-14_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 1029
 - **Votes:** 3 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2019-08-08 – 2019-08-14_
 
 ## Files
 - `votes.csv` — 12 member-vote rows across 3 motions
+- [RDA_2598_531029.txt](../../pmn_backfill/text/RDA_2598_531029.txt)

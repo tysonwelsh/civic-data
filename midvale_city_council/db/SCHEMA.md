@@ -30,18 +30,20 @@ python3 db/build_referrals.py   # cross-body referral layer (run AFTER build_db.
 | table | rows | notes |
 |---|---|---|
 | body | 4 | Council, PlanningCommission, RDA, MBA |
-| person | 34 | councilmembers + commissioners + movers/seconders |
-| meeting | 290 | one row per (body, source minutes file) — incl. the 24 PMN-promoted docs (2026-07-16) |
-| application | 489 | body-scoped land-use/policy projects |
-| motion | 2,199 | council_vote 1,441 · pc_final_action 465 · pc_recommendation 204 · rda_vote 84 · mba_vote 5; `provenance` = `minutes` 2,020 / `pmn_minutes` 179 |
-| vote | 5,802 | named member-vote rows (see reconciliation) |
-| role | 32 | per person×body first/last vote + count |
-| referral | 114 | reconstructed cross-body links: **42 high / 54 medium / 18 low** |
+| person | 33 | councilmembers + commissioners + movers/seconders (Erickson/Erikson merged 2026-07-31) |
+| meeting | 287 | one row per (body, source minutes file) — incl. the 24 PMN-promoted docs (2026-07-16) |
+| application | 487 | body-scoped land-use/policy projects |
+| motion | 2,186 | council_vote 1,428 · pc_final_action 465 · pc_recommendation 204 · rda_vote 84 · mba_vote 5; `provenance` = `minutes` 2,007 / `pmn_minutes` 179 |
+| vote | 5,752 | named member-vote rows (see reconciliation) |
+| role | 31 | per person×body first/last vote + count |
+| referral | 113 | reconstructed cross-body links: **42 high / 53 medium / 18 low** |
 
 Contested motions (any Nay/Abstain/Recuse): **55** (`v_contested`). Midvale is a high-consensus
 council, but — unlike the narrative-tally cities — it prints **named roll calls**, so majorities
-are named too. `outcome`: Pass 2,190 / Fail 9. (Counts as of the 2026-07-16 PMN promotion;
-earlier figures in this doc's history predate the 2026-07-12 name-alias repair.)
+are named too. `outcome`: Pass 2,176 / Fail 8 / **Died 2**. (Counts as of the 2026-07-31 debt
+wave — the four phantom meetings removed, the two died-for-lack-of-a-second motions rescued
+from a default `Pass`/`Fail`, and the Erickson/Erikson person split merged. Earlier figures in
+this doc's history predate those repairs.)
 
 ## Standard schema
 ```
@@ -112,8 +114,9 @@ data characteristic, reported on every build, not a bug.
 
 ## Honesty requirements
 - **Vote reconciliation is exact and fail-loud.** Every named member-vote row lands in `vote`:
-  **5,802 CSV named rows = 5,802 db vote rows**, exact **by body** (Council 3,827 · RDA 245 ·
-  MBA 10 · PlanningCommission 1,720).
+  **5,752 CSV named rows = 5,752 db vote rows**, exact **by body** (Council 3,777 · RDA 245 ·
+  MBA 10 · PlanningCommission 1,720). (Council dropped 50 rows at the 2026-07-31 phantom-meeting
+  removal; the same-day Erickson/Erikson merge re-keys 13 PC rows without changing any count.)
 - **One documented same-day duplicate.** Council **2025-08-19** carries two indexed minutes
   docs (Regular + Truth-In-Taxation) that both print the same 5-0 consent roll call; the flat
   CSV holds both (10 rows), but the db's `UNIQUE(motion_id,person_id)` keeps each meeting's
@@ -124,8 +127,22 @@ data characteristic, reported on every build, not a bug.
   OCR-era rows; canonical names dominate. Fold-in is queued (`VERIFICATION.md` §e).
 - The within-body core is exact; the `referral` layer is reconstructed inference — `high` ≈
   exact, `medium` strong-but-spot-check, `low` flagged.
-- Corrections go through the override CSVs (`db/vote_overrides.csv`, `db/referral_overrides.csv`)
-  + rebuild — never in-place edits to the flat CSVs or the .db.
+- **`db/person_aliases.csv` — the same-person override file (2026-07-31).**
+  `raw_name,canonical_name,evidence`, the convention shared with the cache_county /
+  utah_county / wfrc_mpo builders. It exists because the CITY sometimes misspells its own
+  official: the born-digital 2022-08-10 / 09-14 / 09-28 PC minutes print `Candice Erickson`
+  in the roll of members but `Commissioner Erikson` in the roll-call cells. The flat
+  `all_votes.csv` keeps the verbatim spelling (cardinal rule 2); the merge is db-only.
+  `db/build_db.py` applies it by wrapping the shared `db_build_lib.norm_person` — the one
+  funnel every member/mover/seconder string passes through — so the shared library is
+  untouched and the canonical DISPLAY name is set by decision, not by sort order. Every row
+  must carry positive same-person evidence (one such official on the body; the variants never
+  co-occur on a motion; the variant falls inside the canonical person's service).
+- **`outcome='Died'` is a real, distinct value here** (2 motions): a motion that died for want
+  of a second never reached a vote, so it is neither Pass nor Fail. Both carry
+  `result_raw='Died (no second)'` and `names_recorded=0`. Do not fold them into `Fail`.
+- Corrections go through the override CSVs (`db/person_aliases.csv`, `db/vote_overrides.csv`,
+  `db/referral_overrides.csv`) + rebuild — never in-place edits to the flat CSVs or the .db.
 
 ## Views to ship
 - `v_referral_chain` — every reconstructed PC/RDA→Council link: both app keys, both project

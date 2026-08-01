@@ -1,7 +1,7 @@
 # Alta council week ending 2020-05-06
 _Window 2020-04-30 – 2020-05-06_
 
-- **Meetings:** 0
+- **Meetings:** 1 — _2020 05 06_618395
 - **Votes:** 6 motions, **2 contested**
 - **Public comments:** 0
 
@@ -14,3 +14,4 @@ _Window 2020-04-30 – 2020-05-06_
 
 ## Files
 - `votes.csv` — 10 member-vote rows across 6 motions
+- [pmn_council_2020-05-06_618395.txt](../../pmn_backfill/text/pmn_council_2020-05-06_618395.txt)

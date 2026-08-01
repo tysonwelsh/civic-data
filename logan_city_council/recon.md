@@ -232,9 +232,10 @@ read locally or via city site if needed).
   from minutes headers (authoritative for who was seated/voting that night).
 - **Cache 2023 election integrity episode** (investigation, staff leave, recount) — use
   official canvass/recount figures, not election-night unofficial pages, for 2023.
-- **RCV contamination in county files.** Logan = plurality, but Nibley/North Logan and
-  other Cache cities used RCV; county-wide result files may mix formats — filter carefully
-  to Logan contests only.
+- **RCV contamination in county files.** Logan = plurality, but Nibley and some other
+  Cache cities used RCV; county-wide result files may mix formats — filter carefully to
+  Logan contests only. *(Correction 2026-08-01: North Logan, originally listed here as
+  RCV, never used RCV — plurality primaries 2021/2023/2025 per the county canvass.)*
 - **No existing Cache County archive** to reuse — election scraper built from scratch.
 - **RDA / Council co-noticing.** Combined notices bundle both bodies; ensure RDA minutes
   land in their own bucket, not merged into council minutes.

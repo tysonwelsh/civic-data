@@ -844,9 +844,10 @@ CAVEATS = [
      "Draper is all-at-large (5 + non-voting mayor, 1 tie-break) and straddles "
      "Salt Lake + Utah counties (SLCo administers its elections). 2021 was an RCV "
      "pilot — stored first-choice tallies; don't read winner_pct as a final "
-     "margin. The 2025 canceled-uncontested 4-year council race (Res #25-49, two "
-     "seats) never appeared in the SOVC, so those two members have no "
-     "election_race row (TODO [DEBT])."),
+     "margin. The 2025 4-year 2-seat council race was CANCELED as uncontested "
+     "(Res #25-49; Lowery + Green seated without a vote) — its election_race row "
+     "carries the canceled-uncontested convention with NO vote totals (added "
+     "2026-08-01; the SOVC never printed the contest)."),
     ("herriman", "meeting_minutes", "mayor-vote",
      "Herriman: 4 districts + VOTING mayor (max roll 5); in-session "
      "CDRA/HCSEA/HCFSA agency bodies appear via the body column."),

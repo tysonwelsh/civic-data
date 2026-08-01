@@ -8,8 +8,11 @@ are the immutable source of truth and are never edited.
 > **Disambiguation:** This is **Logan**, the Cache County seat. NOT **North Logan**,
 > a separate adjacent city whose contests ("North Logan City Council", "Mayor of North
 > Logan") appear in the same county files and are **excluded** here. Some other Cache
-> County municipalities (e.g. **Nibley**, North Logan) used **ranked-choice voting (RCV)**
-> in the state pilot — Logan did **not**. Every Logan contest in this repo is **plurality**.
+> County municipalities (e.g. **Nibley**) used **ranked-choice voting (RCV)** in the state
+> pilot — Logan did **not**, and **neither did North Logan** (plurality primaries
+> 2021/2023/2025 — the earlier "North Logan RCV" note here was wrong; corrected 2026-08-01
+> against the county canvass, see `cache_county/elections/CLAUDE.md`). Every Logan contest
+> in this repo is **plurality**.
 
 ## Council structure — AT-LARGE, plurality, NO RCV
 
@@ -180,7 +183,7 @@ check.
 ## Don't
 - Don't edit the raw files in `raw/`.
 - Don't treat `North Logan` / `Mayor of North Logan` / `North Logan City Council` as
-  Logan, and don't pull any neighboring **RCV** contest (Nibley, North Logan) — Logan is
+  Logan, and don't pull any neighboring contest (RCV Nibley; plurality North Logan) — Logan is
   plurality.
 - Don't use the unofficial Enhanced Voting 2023 numbers; the **certified county canvass**
   governs 2023 (recount episode).

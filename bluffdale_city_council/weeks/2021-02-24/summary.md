@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2021-02-24
 _Window 2021-02-18 – 2021-02-24_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 1 02 24_872
 - **Votes:** 8 motions, **5 contested**
 - **Public comments:** 0
 
@@ -19,3 +19,4 @@ _Window 2021-02-18 – 2021-02-24_
 
 ## Files
 - `votes.csv` — 36 member-vote rows across 8 motions
+- [council_2021-02-24_872.md](../../meeting_minutes/minutes/2021/2021-02-22/council_2021-02-24_872.md)

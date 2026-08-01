@@ -44,7 +44,7 @@ WFRC's decisions are downstream of two numeric layers; start with those, not the
   targets), `Generalized_Future_Land_Use_(2025)` (cross-jurisdiction MaxDUA),
   `BIG5_Housing_Jobs_Within_Centers`, `Equity_Focus_Areas_2023`. Verify `?f=json` before
   quoting; catalog, don't mirror.
-- **`legislative/` + `db/` — the adoption/certification record (324 motions).** The Council's
+- **`legislative/` + `db/` — the adoption/certification record (328 motions).** The Council's
   decision log: RTP & TIP amendments adopted, member-city **Station Area Plan certifications**,
   the WFRC budget. **This is where "what did the board adopt / certify / vote to approve" goes**
   — an adoption record, NOT a per-member vote analytic (see ceiling below).
@@ -83,7 +83,7 @@ nephi / west_jordan PC. Consequences, honest and by construction:
   `seconder_person_id`; the `role` table's `n_votes` counts named **mover+seconder actions**,
   NOT roll-call votes).
 - `result_raw` is the **verbatim** tally clause; `outcome` = Pass/Fail/Unknown derived from it
-  (**309 Pass / 15 Unknown / 0 Fail** — a near-total-consensus body).
+  (**313 Pass / 15 Unknown / 0 Fail** — a near-total-consensus body).
 
 ## Modules
 
@@ -102,7 +102,7 @@ projections/   WFRC small-area RTP-2023 forecast. wfrc_mpo_projections.csv = 9,5
 gis/           CATALOG of 18 Wasatch Choice growth/vision/land-use ArcGIS layers (link, don't
                mirror). index.csv + SOURCES.md.
 legislative/   53 Council minutes (markdown + provenance front-matter), 2016-01-28 →
-               2026-05-28, ~5 mtgs/yr. minutes_index.csv (md_path). all_motions.csv = 324
+               2026-05-28, ~5 mtgs/yr. minutes_index.csv (md_path). all_motions.csv = 328
                motions (mover/seconder full-name-resolved, verbatim result, outcome, body ∈
                {Council, Regional Growth Committee, Transportation Coordinating Committee,
                WFRC Budget Committee}). meetings_source.tsv = curated URL manifest. raw/
@@ -122,7 +122,7 @@ plans/         the PUBLISHED-REPORT corpus (2026-07-20) — 28 WFRC/Wasatch Choi
                land-use/SAP study co-funding (see plans/SOURCES.md); plans/CLAUDE.md authoritative.
 db/            fetch_minutes.py (URLs→markdown) → extract_motions.py (prose→all_motions.csv)
                → build_db.py (→ wfrc_mpo.db, STANDARD 8-table schema; 53 meetings, 63 persons,
-               324 motions, vote=0). DERIVED; rerun in that order, never hand-edit.
+               328 motions, vote=0). DERIVED; rerun in that order, never hand-edit.
 ```
 
 ## Governance (context for the motion layer)
@@ -203,18 +203,44 @@ non-voting ULCT), plus **millcreek** (Silvestrini) in the 2025 roster.
   `Tamara Tran` 2024-01→2025-03 and `Tami Tran` 2025-10→2026-05, and `Tran` is the only
   occurrence of that surname in the whole 2016-2026 corpus (evidence recorded in
   `db/person_aliases.csv`).
-- **Honest gap, quantified 2026-07-29 — 4 APPOSITIVE motions carry no mover.** The name run
-  cannot cross a lowercase connector ("of the"), so where WFRC writes the mover as
-  `<Titled Name>, <appositive>, made a motion` the only run reachable is the appositive, and
-  the ORG/jurisdiction guard correctly returns "" rather than invent a member. These 4 real
-  motions are therefore NOT in `all_motions.csv` (they were missing before the repair too —
-  this is a pre-existing acquisition gap, now measured, not a regression): 2017-03-23
-  *"Mayor Tom Dolan, Chair of the Budget Committee, made a motion"*; 2020-08-27
-  *"Carlton Christensen, UTA Board Trustee, …"*; 2023-08-24 *"Mayor Mike Caldwell, Ogden
-  City, …"* and *"Mayor Jeff Silvestrini, Millcreek City, …"*. Each mover is unambiguous in
-  the source, so an appositive-aware backward rule would recover all 4 — deliberately NOT
-  attempted here (a 5th dropped anchor, *"Commissioner moved to the next item"*, is
-  navigation and must STAY dropped, so the rule needs care). Follow-up, not a defect.
+- **✅ CLOSED 2026-07-31 — the 4 APPOSITIVE motions are now extracted (`motion` 324 → 328).**
+  The gap the 2026-07-29 pass measured and deferred: the name run cannot cross a lowercase
+  connector ("of the") or a mid-run comma, so where WFRC writes the mover as
+  `<Titled Name>, <appositive>, made a motion` the leftmost run the anchor could reach was
+  the appositive itself, and the ORG/jurisdiction guard correctly returned "" rather than
+  invent a member — dropping the whole motion. Recovered, each verified verbatim against the
+  source: **2017-03-23** *"Mayor Tom Dolan, Chair of the Budget Committee, made a motion"*
+  (WFRC Budget Committee, sec. Ben McAdams); **2020-08-27** *"Carlton Christensen, UTA Board
+  Trustee, …"* (Council, sec. Dirk Burton); **2023-08-24** *"Mayor Mike Caldwell, Ogden City,
+  …"* and *"Mayor Jeff Silvestrini, Millcreek City, …"* (both RGC, Station Area Plan
+  certifications). Outcomes 309 Pass → **313 Pass / 15 Unknown / 0 Fail**; `vote` still **0**
+  and `names_recorded` still **0** — the ceiling is untouched, these are adoption records.
+  **How the fix avoids the collateral damage the original entry warned about:** `ANCHOR` is
+  **UNCHANGED**. It doubles as the window-boundary list (`end = movers[i+1].start()`), so
+  widening it would silently re-cut every motion window in the corpus. Instead
+  `recover_appositive()` runs ONLY in the branch where the primary run already yielded no
+  mover, under three guards — active (`n1`) form only; a structural test that we are still
+  inside one sentence mid-appositive; and **attestation**, the recovered name must already be
+  a mover/seconder elsewhere in the corpus (a two-pass build), so an uncorroborated name is
+  dropped, never recorded. Consequences proved by full-corpus diff: **4 added, 0 removed, 0
+  changed**, and **person stayed 63 — nobody was invented**. The 5th dropped anchor,
+  *"With no further business, the Commissioner moved to the next item"*, is navigation and
+  **correctly STAYS dropped** (the text behind it ends in the lowercase "business", so no
+  name run exists to recover).
+- **Verbatim fix riding along (2026-07-31).** The `the (?:affirmative )?vot(e|ing)…`
+  result-clause alternative is tried before the generic ones, so on 2023-08-24 the PRECEDING
+  sentence *"Mayor Dandoy, as Mayor of Roy City, abstained from the vote."* beat the real
+  clause and stored `result_raw="the vote."` / `outcome=Unknown` for a motion the source says
+  was *"approved unanimously with one abstention."* Now `(?<!from )`-guarded — a recusal
+  clause is not a result clause. Lookbehind only: **all 168 genuine "the vote/voting was
+  unanimous" captures are unchanged** (proved by the same diff).
+- **Known residual (not a defect):** the two 2023-08-24 SAP motions carry a **blank
+  seconder**. Their seconders are appositives too (*"Commissioner Jim Harvey, Weber County,
+  seconded"* / *"Salt Lake County Councilmember Aimee Winder Newton, seconded"*), and the
+  bare `<run>seconded` alternative deliberately keeps the STRICT (comma-intolerant) run —
+  loosening it is what once recorded a seconder named *"Station Area Plan"* (see the
+  2026-07-29 note). Blank is the honest value; a mover-side recovery does not license a
+  seconder-side one.
 - **⚠ Verbatim + corpus repair 2026-07-26 (audit F10/F11).** 13 `result_raw` values were
   stored one character short (all began `"ith "`) because an unanchored `it` alternative
   matched inside "W**it**h" — a cardinal-rule-2 violation, now word-boundaried (**13 → 0**).

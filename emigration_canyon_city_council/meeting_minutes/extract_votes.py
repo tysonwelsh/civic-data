@@ -200,7 +200,90 @@ def trim_to_council_block(region):
     return region
 
 
-def parse_present(flat):
+# ---------------------------------------------------------------------------
+# ABSENT / EXCUSED sub-block — the second half of the attendance fix (2026-08-01).
+#
+# Every EC attendance header prints TWO council rolls: the seated members and the
+# ones who did not attend ("COUNCIL MEMBERS EXCUSED:" in the township era, "Council
+# Members Absent:" / "Council Member(s) Absent:" in the city era, "CANVASSERS
+# EXCUSED:" on canvass nights).  `parse_present()` scanned a flat window and credited
+# EVERY roster surname in it — so an ABSENT member was recorded as PRESENT.
+#
+# The absent roll must be read from the LINE-STRUCTURED body, not the flattened text,
+# because the two layouts are only distinguishable by their blank lines:
+#   * STACKED  — "PRESENT:" <names> "EXCUSED:" <names> ("OTHERS IN ATTENDANCE:")
+#     The absent names follow their own label.
+#   * TWO-COLUMN — "Council Members Present:" and "Council Members Absent:" are
+#     side-by-side column HEADS; flattening puts both labels ahead of every name and
+#     the two columns arrive as blank-line-separated groups (present first, absent
+#     second).  An empty Absent column simply yields one group.
+# The layouts are told apart exactly the way `trim_to_council_block()` does it: a
+# roster surname printed BETWEEN the two labels means the block is stacked.
+#
+# Strictly restrictive — this only ever REMOVES names from `present`.
+# ---------------------------------------------------------------------------
+PRESENT_LABEL_RE = re.compile(
+    r"(?:COUNCIL\s+MEMBERS?|CANVASSERS?|MEMBERS?)[ \t]*\n?[ \t]*"
+    r"(?:ELEC\w*[ \t]*\n?[ \t]*)?PRESENT[ \t]*:?", re.I)
+ABSENT_LABEL_RE = re.compile(
+    r"(?:COUNCIL\s+MEMBERS?(?:\([ \t]*S[ \t]*\))?|CANVASSERS?|MEMBERS?)[ \t]*\n?[ \t]*"
+    r"(?:ABSENT|EXCUSED)[ \t]*:?", re.I)
+# Where the attendance header ends when no STAFF/OTHERS label follows: the clerk's
+# diamond rule, the "<X>, Chair, presided" line, or the first numbered agenda item.
+HEADER_END_RE = re.compile(
+    r"[♦•]|,\s*Chair,\s*presided|presiding,\s*called|\n\s*\d+\.\s|CALL\s+TO\s+ORDER|"
+    r"Welcome\s+and\s+Determine", re.I)
+
+
+def _names_in(text):
+    out = []
+    for sn in SURNAMES:
+        if re.search(r"\b" + sn + r"\b", text, re.I):
+            nm = SURNAME_TO_FULL[sn]
+            if nm not in out:
+                out.append(nm)
+    return out
+
+
+def _consume_name_lines(region):
+    """Names on the run of consecutive roster-name lines that opens `region`."""
+    lines, started, kept = region.split("\n"), False, []
+    for ln in lines:
+        if not ln.strip():
+            if started:
+                break
+            continue
+        if not _has_surname(ln):
+            break
+        started = True
+        kept.append(ln)
+    return _names_in("\n".join(kept))
+
+
+def parse_absent(body):
+    """Council members printed under the ABSENT / EXCUSED label (line-structured)."""
+    pm = PRESENT_LABEL_RE.search(body)
+    if not pm:
+        return []
+    am = ABSENT_LABEL_RE.search(body, pm.end())
+    if not am:
+        return []
+    bound = len(body)
+    nm_ = NONCOUNCIL_BLOCK_RE.search(body, am.end())
+    if nm_:
+        bound = min(bound, nm_.start())
+    hm = HEADER_END_RE.search(body, am.end())
+    if hm:
+        bound = min(bound, hm.start())
+    bound = min(bound, am.end() + 500)
+    region = body[am.end():bound]
+    if _has_surname(body[pm.end():am.start()]):
+        return _consume_name_lines(region)          # STACKED
+    groups = [g for g in re.split(r"\n[ \t]*\n", region) if _has_surname(g)]
+    return _names_in("\n".join(groups[1:])) if len(groups) > 1 else []   # TWO-COLUMN
+
+
+def parse_present(flat, body=None):
     """Seated members + the presiding mayor from the PRESENT block."""
     present, mayor = [], None
     m = re.search(r"(?:COUNCIL\s+MEMBERS?|MEMBERS?)\s+PRESENT[:\s]", flat, re.I)
@@ -214,12 +297,22 @@ def parse_present(flat):
             nm = SURNAME_TO_FULL[sn]
             if nm not in present:
                 present.append(nm)
+    # drop the members the clerk printed as ABSENT / EXCUSED (see parse_absent).
+    # Guard: never let the removal empty the roll — that would mean a misparse, and
+    # an empty present list is worse than the old over-credit.
+    absent = parse_absent(body) if body is not None else []
+    if absent:
+        kept = [p for p in present if p not in absent]
+        if kept:
+            present = kept
+        else:
+            absent = []
     # mayor: "<Name>, Mayor" / "Mayor <Name>, Chair, presided"
     md = re.search(NAME + r"\s*,?\s*Mayor\b", flat[:1500]) or \
         re.search(r"\bMayor\s+" + NAME, flat[:1500])
     if md:
         mayor = canon(md.group(1))
-    return present, mayor
+    return present, mayor, absent
 
 
 # ---------------------------------------------------------------------------
@@ -317,7 +410,7 @@ def extract_meeting(path, rel_source, date, year, title, file_body, mtype):
     raw = open(path, encoding="utf-8").read()
     _b, _mt, body = split_frontmatter(raw)
     flat = re.sub(r"\s+", " ", FOOTER_RE.sub(" ", body))
-    present, mayor = parse_present(flat)
+    present, mayor, absent = parse_present(flat, body)
 
     anchors = find_anchors(flat)
     votes = []
@@ -411,7 +504,10 @@ def extract_meeting(path, rel_source, date, year, title, file_body, mtype):
         result = build_result(tally, unanimous, passed)
 
         # mayor votes and is counted in the tally (max 5) whenever a mayor is seated
-        mayor_voted = mayor is not None
+        # AND attending — the mayor seat is occupied every meeting, but the holder is
+        # sometimes printed under EXCUSED (e.g. 2022-03-22, Smolka excused / Deputy
+        # Mayor Hawkes presided), in which case no mayoral vote is in the tally.
+        mayor_voted = mayor is not None and mayor not in absent
 
         rec = {
             "motion": motion_text,
@@ -433,8 +529,8 @@ def extract_meeting(path, rel_source, date, year, title, file_body, mtype):
         v2 = {"motion_no": n}; v2.update(v); votes[n - 1] = v2
 
     return {"date": date, "year": int(year), "title": title, "meeting_type": mtype,
-            "file_body": "Council", "present": present, "mayor": mayor or "",
-            "source": rel_source, "votes": votes}
+            "file_body": "Council", "present": present, "absent": absent,
+            "mayor": mayor or "", "source": rel_source, "votes": votes}
 
 
 # ---------------------------------------------------------------------------

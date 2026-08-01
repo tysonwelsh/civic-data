@@ -125,44 +125,35 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
   LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.
 
-## [DEBT] — correctness queue (post-publish is fine for all of these)
+## [DEBT] — correctness queue (wrong or missing values; evidence-cited)
 
-- [ ] **Weeks bundles "Meetings: 0" class.** 206 summary.md bundles repo-wide print
-  "Meetings: 0" with votes>0; bluffdale's 136 have a distinct cause — weeks_lib.py:91-93
-  derives dates from `f.stem[:10]` and bluffdale is the only city with non-date-prefixed
-  minutes filenames (166/166), so every bluffdale bundle links no minutes. (Triage L1932.)
-- [ ] **Died-for-lack-of-a-second motions carrying the SUBSTITUTE motion's roll call** —
-  weber ×4 confirmed (e.g. 2018-09-11 m6/m7, minutes line 311/323), ogden ×2 + midvale ×1
-  unrecorded; `motion_std.outcome='died'` joined to `motion.outcome='Pass'` finds them.
-  (Triage L452.)
-- [ ] **Legacy `recommendation` contradicts disposition∘outcome on ~68 rows** (filed as 13)
-  across 25 entities on stage='pc_recommendation' — e.g. 'Positive' stored where the matter
-  was denied. Feeds v_pc_divergence. (Triage L556.)
-- [ ] **midvale Erikson/Erickson person split** — two gov.db person rows for one PC
-  commissioner (267 + 13 votes); v_member_record_all splits the record. (Triage L3612.)
-- [ ] **Election completeness smalls:** ogden election_race has ZERO primary rows 2019–2025
-  while ten peers carry primaries (raw PDFs on disk; "not output per the task"); SSL 2021
-  3-way mayoral primary missing (CF filings prove it happened); draper 2025
-  canceled-uncontested 4-yr race absent (Res #25-49; Lowery + Green — two sitting members
-  invisible); murray 2021 Mayor+D4 primary discrepancy flags unresolved. (L2420/2540/3770/2881.)
-- [ ] **logan docs claim "North Logan RCV" — confirmed false** (county canvass proves plurality;
-  logan election_results/CLAUDE.md:11,183 + recon.md:235). One edit. (Triage L1300.)
-- [ ] **wfrc_mpo: 4 appositive motions never extracted** (2017-03-23 Dolan budget-hearing;
-  2023-08-24 Caldwell/Silvestrini ×2 + 1 more) — no-mover grammar. Low. (Triage L215.)
-- [ ] **washington_county OCR garbling** — spaced-caps headings + fi/fl ligature loss ('ofce')
-  in ≥9 minutes files; FTS-only impact (db-less entity). Low. (Triage L405.)
-- [ ] **SLCo Housing Authority minutes_index: 69 rows vs 68 files** — one phantom index row.
-  (Triage L1301.)
-- [ ] **riverton 2026-04-21 auth-wall relabel half-landed** — 5 packet rows carry format='na'
-  but fetch_status was never set to error:auth_wall; AVAILABILITY.md:97 claims it was.
-  (Triage L1109.)
-- [ ] **bluffdale referral precision spot-check** — 269 links (#2 city behind lehi despite
-  size), 189 high; no tuning pass ever ran. (Triage L3641.)
-- [ ] **emigration_canyon parse_present() credits ABSENT members as present** (roll-call
-  attendance line parsing); + **db_build_lib kind_of() lands alta BudgetCommittee as
-  'council'**. Two small shared-lib fixes. (Triage L1071/L1079.)
-- [ ] **emigration_canyon VERIFICATION.md stale** (429 vs live 438 motions; pre-LM-wave
-  claims). (Triage L2155.)
+- [ ] **Legacy `recommendation` contradicts disposition∘outcome on 56 PC rows** (25 entities;
+  was ~68 pre-G8b). Analysis 2026-08-01: `recommendation_of()` is an INDEPENDENT keyword
+  derivation serving as a validation oracle vs `_compose_dir(disposition,outcome)` — the 56
+  are the oracle firing. Visible classifier gap: negation phrasings ("recommend that X not
+  be approved") fall through to the bare-"recommend" → Positive default (the
+  herriman/murray/SJ deny-pattern cluster); the Positive+approve+Fail pattern (24 rows) is
+  the matcher reading direction words on a motion that FAILED. Fix = refine
+  `recommendation_of()` in db_build_lib (+ 6 fork ports) + per-row source adjudication of
+  the remainder; touches ~20 entities + re-federation.
+- [ ] **[NEW 2026-08-01] 2021 RCV mislabel class — 9 race rows in 3 entities** (found by the
+  SSL wave agent cross-checking the county's official 2021 Ranked Choice Results report,
+  `sandy_city_council/election_results/raw/2021-general-election-ranked-choice-summary-report.pdf`):
+  cottonwood_heights Mayor + D3 + D4 labeled 'plurality' (the Mayor race went FOUR RCV
+  rounds — Weichers 3,526 first-choice → 4,619 final vs Kraan 3,017 → 4,117, so stored
+  first-choice margins are actively misleading; CH's election_results/CLAUDE.md ~131-132
+  affirmatively asserts CH did not join the pilot, contradicted by the primary source);
+  magna Metro Township D2 (p.21); slc D1/D2/D3/D5/D7 voting_method blank (pp.11-15).
+  holladay/riverton/south_jordan/kearns/copperton/alta verified correctly excluded.
+- [ ] **[NEW 2026-08-01] bluffdale motion-text window captures the agenda-notice preamble
+  instead of the motion sentence on 94 motions** (52 council + 42 PC; motion_no=1 class) +
+  ~43 in-session RDA/LBA motions windowed onto adjournment/roll-call blobs — the root cause
+  of 313 of the 365 referral-override suppressions (bluffdale wave agent, 2026-08-01;
+  flagged-not-fixed per the layer rule). Fixing the extractor window would let most of the
+  override ledger be deleted; until then the ledger is LOAD-BEARING and re-extraction
+  renumbering will fail its app_keys loudly (regenerate the ledger, protect the Jordan
+  Crossing pair — see bluffdale db/CLAUDE.md). Bluffdale referral RECALL is unmeasured
+  (the 2026-08-01 pass removed false links only).
 - [ ] **~300 murray PC motions postdate the disposition ground-truth audit** — dispositions
   computed but unaudited; fold into the next /audit-city-data pass. (Triage L2153.)
 
@@ -188,4 +179,5 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
 | date | what | record |
 |---|---|---|
 | 2026-07-31 | Restructure: TODO 3,786→this file; options/watches/tails → LEADS.md; gotchas → GOTCHAS.md; HANDOFF → single banner; NEXT_SESSION_PLAN retired; 62 stale-already-done items closed + 25 non-items dropped per verified triage | `TODO_ARCHIVE.md` anchor 2026-07-31; `_audits/2026-07-31-publication-review/` |
+| 2026-08-01 | DEBT-clearance wave: 12 of 14 items closed (10 Opus agents + solo; 5 premise-failures, 2 collateral recoveries, bluffdale referrals 269→62); 2 NEW evidence-cited items filed (2021 RCV mislabel class; bluffdale motion-window) | `TODO_ARCHIVE.md` anchor 2026-08-01 |
 | 2026-07-31 | holladay Layton [DEBT] closed — the requested `person-ambiguity` caveat row shipped with the G2 back-fill (verified live in gov.db) | caveat: holladay/planning_commission/person-ambiguity |

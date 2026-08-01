@@ -41,12 +41,16 @@ STRUCTURAL FACTS (verified in source):
     like only 4 seats (3+1+3+1) because the 2025 REGULAR 2-seat 4-year Council race was
     CANCELED as UNCONTESTED under Utah Code (one of three candidates withdrew, leaving two
     for two) and Tasha Lowery + Mike Green were CERTIFIED elected WITHOUT appearing on the
-    ballot -> that contest never entered the Salt Lake County SOVC, so it is ABSENT from
-    election_results (Res #25-49, minutes 2025-09-16 & 2025-10-07: "canceling the race for
-    the 4-year At-Large City Council seats and certifying Tasha Lowery and Mike Green as
-    elected"). This is an election-data ACQUISITION GAP (canceled races don't hit the SOVC),
-    FLAGGED here + in roster/CLAUDE.md; NOT fixed from the roster (repo doctrine). The
-    council has ALWAYS been 5 (roll = 5 every meeting in cities.db).
+    ballot -> that contest never entered the Salt Lake County SOVC (Res #25-49, adopted
+    2025-10-07 after a 2025-09-16 continuance: "canceling the race for the 4-year At-Large
+    City Council seats and certifying Tasha Lowery and Mike Green as elected"). The council
+    has ALWAYS been 5 (roll = 5 every meeting in cities.db).
+    CLOSED 2026-07-31: the race is NO LONGER absent from election_results. It is now carried
+    there as a CANCELED-UNCONTESTED race row + two is_winner by_candidate rows (all tally
+    columns BLANK — no ballot, no votes), sourced from the city's own adopted instrument
+    (packets/text/2025-10-07_Council_exh3636839_Resolution_25-49_…txt), the millcreek-2023 /
+    alta-2025 convention. So both crosschecks now resolve from the elections layer itself;
+    the reverse-crosscheck exceptions below are retained as documentation, not as a crutch.
 
   * PUZZLE (b) MIKE GREEN CONTINUITY — RESOLVED, NOT a winner-marking defect. Green won
     2017 (B seat), and his cities.db `is_winner=False` for 2021 is CORRECT: 2021 was a
@@ -159,7 +163,7 @@ TENURES = [
          start_date="2026-01-06", start_event="reelected", election_year="2025",
          end_event="serving", confidence="high",
          sources="minutes:2025-10-07 (Res #25-49 'canceling the race for the 4-year At-Large City Council seats and certifying Tasha Lowery and Mike Green as elected' — one of three candidates withdrew, leaving two for two seats -> uncontested race canceled under Utah Code); minutes:2026-01-06 (serving)",
-         note="RE-ELECTED 2025 via the canceled-uncontested certification (Res #25-49) — this regular 2-seat B race NEVER entered the county SOVC, so it is ABSENT from election_results (documented acquisition gap, FLAGGED; not fixed from the roster). Anchored to minutes, not an is_winner row -> the reverse election crosscheck's documented exception (like bluffdale Hales)."),
+         note="RE-ELECTED 2025 via the canceled-uncontested certification (Res #25-49) — this regular 2-seat B race NEVER entered the county SOVC. It IS carried in election_results since 2026-07-31 as a canceled-uncontested race row + an is_winner by_candidate row with BLANK tallies (sourced from the resolution, not a ballot), so this tenure now has an election anchor as well as the minutes anchor."),
 
     # ==== Seat AL-B2  (Mike Green — cohort B, 2-seat) =========================
     dict(body="Council", seat_id="AL-B2", person_name="Mike Green", person_key="mike_green",
@@ -171,7 +175,7 @@ TENURES = [
          start_date="2026-01-06", start_event="reelected", election_year="2025",
          end_event="serving", confidence="high",
          sources="minutes:2025-09-16 & 2025-10-07 (Res #25-49 certifying 'Tasha Lowery and Mike Green as elected'; uncontested 4-year race canceled); minutes:2026-01-06 (serving)",
-         note="RE-ELECTED 2025 alongside Tasha Lowery via the canceled-uncontested certification (Res #25-49). Absent from the county SOVC / election_results (canceled races don't file) -> documented gap, FLAGGED; reverse-crosscheck documented exception."),
+         note="RE-ELECTED 2025 alongside Tasha Lowery via the canceled-uncontested certification (Res #25-49). Absent from the county SOVC (canceled races don't file), but carried in election_results since 2026-07-31 as a canceled-uncontested race row + an is_winner by_candidate row with BLANK tallies (sourced from the resolution, not a ballot)."),
 
     # ==== Seat MAYOR  (Troy K. Walker — NON-VOTING) ===========================
     dict(body="Mayor", seat_id="MAYOR", person_name="Troy K. Walker", person_key="troy_walker",
@@ -233,12 +237,13 @@ ATLARGE = dict(
 CFG = RosterConfig(
     non_voting_mayor=True,
     # H-C (2026-07-19) documented reverse-crosscheck exceptions — the CANCELED-
-    # UNCONTESTED class (the tenures' own notes already call themselves "the reverse
-    # election crosscheck's documented exception, like bluffdale Hales"): the regular
-    # 2025 4-year 2-seat B race was CANCELED under Utah Code and Lowery + Green
-    # certified elected by Res #25-49 (minutes 2025-09-16 & 2025-10-07); the race
-    # NEVER entered the county SOVC, so no is_winner row can exist (documented
-    # acquisition gap — see the tenure sources).
+    # UNCONTESTED class: the regular 2025 4-year 2-seat B race was CANCELED under Utah
+    # Code 20A-1-206(3) and Lowery + Green certified elected by Res #25-49 (minutes
+    # 2025-09-16 & 2025-10-07); the race NEVER entered the county SOVC.
+    # SUPERSEDED-BUT-RETAINED 2026-07-31: election_results now carries that race (a
+    # canceled-uncontested row + two is_winner by_candidate rows with BLANK tallies,
+    # built from the resolution), so both winners DO have is_winner rows and these two
+    # exceptions should no longer fire. Kept as documentation of the class.
     reverse_crosscheck_exceptions={
         ("2025", "Council", "tasha_lowery"): "canceled-uncontested B race; certified elected via Res #25-49 (never on the SOVC)",
         ("2025", "Council", "mike_green"): "canceled-uncontested B race; certified elected via Res #25-49 (never on the SOVC)",

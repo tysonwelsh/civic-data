@@ -75,12 +75,14 @@ Agency/Authority board (role words "Board Member"/"Chair" map to the same member
 in-meeting "convened/reconvened as the … " transition is also detected. Filter `body=Council`
 for council-only analysis; `body=RDA` is the TIF / project-area / developer-subsidy subset.
 
-## Coverage + validation (last run: 2026-07-02)
+## Coverage + validation (last run: 2026-07-31)
 
-- **504 meetings · 1,506 motions · 4,992 member-vote rows · 2020–2026.**
-- Motions by body: **Council 1,377 · RDA 111 · MBA 18.**
-- Vote distribution: Aye 3,835 · Nay 155 · Absent 108 · Recuse 1 · Abstain 2. **87 contested
+- **505 meetings · 1,561 motions · 5,190 member-vote rows · 2020–2026.**
+- Motions by body: **Council 1,391 · RDA 147 · MBA 23.**
+- Vote distribution: Aye 3,980 · Nay 172 · Absent 114 · Recuse 1 · Abstain 2. **100 contested
   motions** (any Nay/Abstain/Recuse) — see the full list in `votes/_validation_report.txt`.
+  (The 2026-07-02 figures were 504 / 1,506 / 4,992 and 87 contested; the growth is the
+  2026-07-17 PMN sibling merge plus the 2026-07-31 repairs below.)
 - Per-year observed voters = clean 7-member rosters with **no mayor leak** (Nadolski absent as
   a voter 2024–26; Caldwell never appears). 4 tally/result flags remain: 2 year-boundary
   artifacts (2026 handover) + 2 source clerk typos — the Jan 2022 chair/vice-chair election
@@ -116,7 +118,48 @@ still `extract_votes.py` then `extract_backfill_votes.py`. Details: `pmn_backfil
 (2026-07-17). NB re-running `extract_votes.py` alone drops the `provenance` column / all
 `pmn_minutes` rows — always follow with `extract_backfill_votes.py`.
 
-### Known gap (honest)
+### 2026-07-31 — died motions + the `VOTINE NO` OCR roll-call repair
+Two extractor fixes, both in `extract_votes.py`, both corpus-wide-surveyed before landing:
+
+1. **Died motions.** `<NAME> MOVED … THE MOTION DIED FOR LACK OF A SECOND.` now emits
+   `result="Died (lack of a second)"` instead of the generic `Recorded` fallback. `Recorded`
+   carries no death word, so `scripts/db_build_lib.py:outcome_of()` fell through to its
+   default and stored **`outcome='Pass'`** — a motion the minutes say died, recorded as
+   passed. The new label routes to that function's death-word branch → `outcome='Died'`.
+   **2 motions corpus-wide** (`grep -ci "died for lack"` = 2): **2023-10-10 m7** (Blair moved
+   to adopt Ord 2023-56) and **2025-05-20 m6** (Myers moved to adopt Ord 2025-13). In both,
+   a **substitute motion** immediately follows (deny / reject the same ordinance) and IS
+   separately extracted with its roll call — no vote is lost by the reclassification.
+   `names_recorded` stays False and the motion still emits its single blank member row.
+2. **`VOTINE NO` (OCR).** The roll-call anchors are now `VOTIN[GE]\s*NO` rather than
+   `VOTING\s*NO`, in **both** the AYE-segment terminator and the NO-segment opener.
+   Tesseract rendered the terminal G as E once in the 2023 compilation scan
+   (`VOTINE NO —- COUNCIL MEMBERS BLAIR, LOPEZ, AND WHITE.`, 2023-10-10 special meeting,
+   m8 — the substitute deny-motion on Ord 2023-56). With the anchor invisible the AYE
+   segment ran straight through the NO list: **BLAIR was dropped entirely** (his token
+   absorbed the un-split `VOTINE NO —- COUNCIL MEMBERS ` prefix and failed `canon_name`)
+   and **LOPEZ + WHITE were recorded as Ayes**, turning a 4-3 into a stored **6-0 Pass**.
+   The minutes' own next sentence — *"The motion carried on a four to three vote"* —
+   confirms the corrected 4-3. Corpus counts justifying the narrow class: **532 `VOTING NO`
+   · 1 `VOTINE NO` · 3 `VOTED NO`**; `[GE]` deliberately does **not** admit `VOTED NO`,
+   which is the different tally-only `ALL VOTING AYE, WITH THE EXCEPTION OF …, WHO VOTED NO`
+   form (see the known gap below).
+
+Net delta, proven at `(source_file, date, body, motion_no, member, vote)`: **motions
+unchanged (1,561)**; member-vote rows 5,189 → **5,190** (+1 = Blair); Aye 3,982 → **3,980**,
+Nay 169 → **172**; contested 99 → **100**; db `motion.outcome` Pass 2,522 → 2,520 with
+**Died 0 → 2**. Nothing else in the corpus moved.
+
+### Known gap (honest) — dissent inside the "WITH THE EXCEPTION OF" tally form
+Three motions print `ALL VOTING AYE, WITH THE EXCEPTION OF COUNCIL MEMBER <X>, WHO VOTED
+NO.` (2024-03-12 ×2 — Hyer; 2026-01-20 ×1 — Washington). That is a *tally* sentence, not a
+named roll call: `parse_named_rollcall` correctly declines it (no `VOTING AYE[-:]` list
+form), so the motion is stored tally-only and the **named dissenter is not captured**. The
+dissent is real and legible in the minutes text; extracting it needs a separate
+tally-with-exception rule, not a widening of the roll-call regex. Surveyed and left
+un-extracted 2026-07-31 rather than guessed at — logged here, not silently absorbed.
+
+### Known gap (honest) — RDA/MBA 2022–2023
 The separate **RDA and MBA meeting sets for 2022 and 2023** were not acquired: Ogden's
 Document Center holds a 2023 RDA compilation (DocCenter id **29548**) and a 2023 MBA
 compilation (id **29549**), and the 2022 council minutes reference separate "Special

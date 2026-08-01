@@ -1,7 +1,7 @@
 # Riverton council week ending 2020-02-04
 _Window 2020-01-29 – 2020-02-04_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 0 02 04
 - **Votes:** 8 motions, **2 contested**
 - **Public comments:** 0
 
@@ -13,3 +13,4 @@ _Window 2020-01-29 – 2020-02-04_
 
 ## Files
 - `votes.csv` — 40 member-vote rows across 8 motions
+- [council_2020-02-04.txt](../../pmn_backfill/text/council_2020-02-04.txt)

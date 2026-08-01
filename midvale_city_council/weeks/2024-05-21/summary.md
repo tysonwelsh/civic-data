@@ -1,7 +1,7 @@
 # Midvale council week ending 2024-05-21
 _Window 2024-05-15 – 2024-05-21_
 
-- **Meetings:** 0
+- **Meetings:** 2 — _council__CC Minutes 5 21 2024, _rda__RDA Minutes 5 21 2024
 - **Votes:** 17 motions, **2 contested**
 - **Public comments:** 0
 
@@ -13,3 +13,5 @@ _Window 2024-05-15 – 2024-05-21_
 
 ## Files
 - `votes.csv` — 45 member-vote rows across 17 motions
+- [2024-05-21__council__CC-Minutes-5-21-2024.txt](../../pmn_backfill/text/2024-05-21__council__CC-Minutes-5-21-2024.txt)
+- [2024-05-21__rda__RDA-Minutes-5-21-2024.txt](../../pmn_backfill/text/2024-05-21__rda__RDA-Minutes-5-21-2024.txt)

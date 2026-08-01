@@ -84,7 +84,44 @@ Commission + PC minutes are **scanned images OCR'd with tesseract 5** — every 
 carries `ocr: true` in front-matter and a verify-against-source note; **verify names/numbers/
 motions against `source_url` before quoting.** Born-digital docs carry `ocr: false`. No vote
 tallies are extracted (see scope). Honest gaps are recorded in `recon.md` and
-`ordinances/gaps.csv` — never fabricated.
+`ordinances/gaps.csv` — never fabricated. Corpus census (re-verified 2026-07-31): **226 of
+290** minutes markdown are `ocr: true` (legislative 215/230, land_use 11/60); every `ocr: true`
+file carries the verify-against-source banner; all 8 front-matter fields present on all 290.
+
+### OCR artifact classes — what is a defect and what is NOT (verified 2026-07-31)
+
+A repo-wide triage filed two suspected text-layer defects here. **Both premises FAILED at the
+primary source; no text was changed.** Recorded so the same false positives are not re-filed:
+
+- **"Shredded spaced-ALL-CAPS headings"** — exactly 3 legislative files contain a run of
+  space-separated single capitals (`2022-09-06` L508 `T T T T 1`; `2025-02-04` L1008;
+  `2026-02-03` L740 `A B D E F G H | J`). **These are FAITHFUL OCR of appended exhibit
+  graphics, not shredded prose.** Verified by fetching the source PDFs and rendering the
+  pages: `M 2026-02-03.pdf` p.13 is a printed **Excel sheet** (County Bee Inspector apiary
+  report) whose header row literally prints the spreadsheet **column letters** A B D E F G H
+  I J K L M N — column C is hidden in the source, which is why the OCR reads "A B D…"; the
+  `|` is tesseract reading the column-letter `I`. `M 2022-09-06.pdf` p.14 is the
+  **HintonBurdick FY2021 audit presentation**, and `T T T T 1` is the **x-axis tick row** of
+  a fund-trend line chart. Re-OCR cannot and must not remove these — the characters are in
+  the source image. Same class in `2025-02-04` (the prior year's bee-report sheet).
+- **fi/fl ligature loss (`ofce`, `conrm`)** — **zero occurrences corpus-wide** (`grep -rniE
+  'ofce|conrm'` over all 290 files = 0 matches; zero U+FB00–FB06 ligature characters). The
+  named exemplar `land_use/minutes/2023/2023-02-14_planning_commission.md` is
+  **born-digital** (`ocr: false`, pdftotext) with ligatures fully intact — *conflict, final,
+  findings, office, benefit, specific, verified*. The triage's file list came from a loose
+  regex matching real words/names (`led`, `Nancy`, `traf`fic, `rst`, `Ling`). **No ligature
+  post-process was applied** — there is nothing to restore, and a blind mapping would
+  fabricate.
+- **What IS real** is ordinary tesseract character noise in scanned prose (*fect / Mecting /
+  clevator / Just*), which is exactly what the `ocr: true` ceiling already declares. An
+  out-of-vocabulary anomaly screen over all 290 files found **no outlier** — prose OOV rate
+  ranges 0.19–0.27 against a 0.206 median, i.e. a tight distribution driven by proper nouns
+  and addresses, with no file diverging from the corpus baseline. Do not "clean" it: the
+  remedy for a doubted string is the `source_url` PDF, per the cardinal rule.
+
+**No raw minutes PDFs are retained** (only `source_url`; `raw/` exists for elections /
+ordinances / plans only), so any re-extraction must re-fetch the county host — which
+**403s without a browser User-Agent + `Referer: https://www.washco.utah.gov/`**.
 
 ## Which artifact for which question
 

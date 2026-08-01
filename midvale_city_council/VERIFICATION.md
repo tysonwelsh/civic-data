@@ -319,3 +319,126 @@ a `WARN` for hand review. The parser was also taught the space-separated forms
 to exactly their indexed date, 12 are correctly flagged ambiguous (the truth is always among
 the candidates), 0 misparse.** Each of those 12 was then re-verified against its own header
 date and **all 12 are correctly dated** — the four phantoms were the complete set.
+
+## Addendum 2026-07-31 (debt wave) — two DEBT items: died-motion outcome + the Erickson/Erikson person split
+
+Two triage items were worked. Both premises were checked at the primary source first; one
+held in substance but not in mechanism, the other **inverted** (the filed cause was wrong and
+the fix moved to a different layer).
+
+### (1) Died motion recorded as **Pass** — FIXED at the extractor (2 motions)
+
+Triage filed this as "died-motion **substitute roll**", i.e. the roll call of a following
+motion mis-attached to the motion that died, with `names_recorded=1`. **That mechanism is
+not what happened.** The affected motion carries **no roll at all** (`names_recorded=0`,
+0 vote rows) — verified in the pre-fix db and in `gov.db` (motion_id 220000114, `nv=0`).
+The real defect was narrower and purely in the RESULT string:
+
+*Council 2020-06-30 m3* (`meeting_minutes/minutes/2020/2020-06-29/2020-06-30_city-council-regular-meeting.md`,
+line 580) prints, verbatim:
+
+> MOTION: Council Member Bryant Brown MOVED to Approve Resolution No. 2020-R-27 ... **The
+> motion died for a lack of a second.**
+
+`extract_votes.py`'s `motion_result` regex knew `passed|carried|approved|adopted|failed|
+denied|defeated|did not pass/carry` but **not `died`**, so `outcome` stayed `None` and
+`result_string()` fell through to its default `"Recorded (voice vote)"` — asserting a voice
+vote that never happened. `db_build_lib.outcome_of()` then read that string, found no
+carriage word and no tally, and hit its final `return "Pass"` — recording the **exact
+inverse** of what the minutes say. `motions_std.csv` had it right (`outcome='died'`, via
+normalize_motions' `+text-died` text rule), which is how the disagreement surfaced.
+
+The same blind spot hit one PC motion with the sibling phrasing: *PC 2020-09-09 m7*
+(line 857, Commissioner Erickson's Midvale Mills rezone-to-approve motion) prints **"The
+motion failed for lack of a second."** That one landed on `Fail` rather than `Pass` (the
+word "failed" was matched), but still asserted `"Fail (voice vote)"`. The **substitute** in
+this file is real and was already handled correctly: the next motion (Anderson's
+recommend-**not**-approve, m8) carries its own roll and its own 3-1 tally — no roll was ever
+mis-attached.
+
+**Fix (extractor, both copies):** a module-level `NO_SECOND_RX` in
+`meeting_minutes/extract_votes.py` and `planning_commission/extract_votes.py` matching
+`motion (was) died/dies/failed/fails for (a) lack of a second`, `motion died`,
+`received no second`, `did not receive a second`. It applies **only when
+`names_recorded` is false**, so a stray phrase in post-vote discussion can never overwrite a
+real tally. `result_string()` now emits **`"Died (no second)"`** — the collection-wide string
+already used by white_city / riverton / sandy / taylorsville / magna / st_george, which
+`db_build_lib.outcome_of()` maps to `outcome='Died'` and `normalize_motions.py` to
+`outcome='died'` (rule `died-no-second`). Module level, so
+`extract_backfill_votes.py` (which re-uses `ev.parse_motions` with an agency-roles RX
+variant) inherits it; no PMN doc contains the phrasing, so that layer is unchanged.
+
+**Delta (proved at the stable key (source_file, date, body, motion_no, member, vote)):**
+2 cells in the flat CSVs (`result`), 2 motion rows in the db (`outcome`, `result_raw`),
+2 rows in `motions_std.csv` (PC also `outcome fail→died`; both lose the false
+`vote_mode='voice'`). **0 rows added, 0 removed, 0 vote values changed.**
+
+### (2) Erickson / Erikson — PREMISE FAILED at the extractor; merged in the db person layer
+
+Triage listed 975 `Erickson` vs 18 `Erikson` rows in `planning_commission/all_votes.csv` and
+two `person` rows in `gov.db` for one commissioner. The two-persons finding is **real**
+(pre-fix `person_id` 15 `Erickson`, 267 vote rows / 113 mover, and 18 `Erikson`, 13 vote rows
+/ 1 mover). The **"extraction typo" premise is false.**
+
+**Verified at the primary source, not the markdown:** the three affected documents are
+Midvale's own **born-digital** Revize PDFs (`minutes_index.csv` `format=text`; no OCR) —
+`planning_commission/raw/2022-08-10_`, `2022-09-14_`, `2022-09-28_planning-commission-regular-meeting.pdf`.
+`pdftotext -layout` on the PDFs prints, in the same document:
+
+```
+                                    Candice Erickson          <- roll of members
+          Commissioner Erickson            Present            <- attendance
+                      Commissioner Erikson                  Yes   <- roll-call cell
+```
+
+**The city misspells its own commissioner inside the roll-call cells.** The flat CSV is
+therefore **city-faithful and was NOT edited** (cardinal rule 2).
+
+**Same-person proof:** (a) only one Eri\*son has ever sat on the Midvale P&Z Commission —
+111 printed occurrences of `Candice Erickson`, no other first name, 1,018 `Erickson` vs 14
+`Erikson` across the whole PC corpus; (b) the two spellings **never co-occur as two vote
+rows on one motion** (0 of 660 PC motions) — and on 2022-08-10 m4 the mover is printed
+`Erikson` while a voter in the same roll block is printed `Erickson`; (c) all 14 `Erikson`
+mentions fall inside Erickson's continuous 2020–2026 service. (A 15th variant, `Chair
+Ericson` on 2023-12-13, was already absorbed by the extractor's edit-distance-2 canonical
+map; `Erikson` survived only because it recurs often enough to become its own anchor.)
+
+**Fix (db person-resolution layer):** new **`db/person_aliases.csv`** — the same file name and
+`raw_name,canonical_name,evidence` header the cache_county / utah_county / wfrc_mpo builders
+already use for this exact class of correction. Midvale's `db/build_db.py` is a thin driver
+over the shared `scripts/db_build_lib.py`, which has no alias slot; rather than touch the
+shared library it now **wraps `db_build_lib.norm_person`** — the single funnel every
+member/mover/seconder string passes through in `read_motions()`. Aliasing at `norm_person`
+(not at `person_key`) also canonicalizes the DISPLAY name, so `person.full_name` is
+`Erickson` by decision rather than by sort order. Canonical form is the **surname-only**
+`Erickson`, matching Midvale's PC convention (its minutes print surnames in roll cells, so
+every PC person row is surname-only: Anderson / Snow / Tippetts / Liedtke); promoting this
+one row to `Candice Erickson` would have broken that.
+
+**Delta:** `person` **34 → 33**, `role` 32 → 31, 13 vote rows re-keyed from person 18 to
+person 15 (**vote values identical**), 1 motion's `mover_person_id` re-pointed
+(2022-08-10 m4). `motion` 2,186 and `vote` 5,752 counts unchanged. Erickson's db record is
+now 280 votes / 114 moves / 116 seconds.
+
+*(Not fixed here, not in scope: 8 seconder-parse artifacts remain as their own person rows —
+`Erickson with all`, `Anderson with all`, `Costello Chair Pro`, `QS`, etc. — each with 0
+votes and 0 moves. They are a seconder-regex over-capture, a distinct defect.)*
+
+### Rebuild + verification
+
+`extract_votes.py --force` (both datasets) → `extract_backfill_votes.py` →
+`scripts/normalize_motions.py midvale` → `db/build_db.py` → `db/build_referrals.py` →
+`build_weeks.py`. Referral layer re-derived identically (**113 links: 42 high / 53 medium /
+18 low**). `validate_entity.py midvale`: **25 PASS / 1 WARN (the documented `provenance`
+extension) / 0 FAIL**; db reconciles exactly (5,752 == 5,752).
+
+**weeks/ regression cleared.** The shared `scripts/weeks_lib.py` was repaired the same day;
+before this rebuild **13 bundles printed `Meetings: 0`** despite carrying votes (the
+PMN-promoted dates, whose minutes live in `pmn_backfill/` and are deliberately absent from
+`minutes_index.csv`): 2020-01-21, 2021-01-19, 2022-01-18, 2023-01-17, 2023-06-20, 2024-02-20,
+2024-02-27, 2024-03-12, 2024-05-07, 2024-05-21, 2024-06-18, 2024-08-06, 2025-06-03. After the
+rebuild **0 bundles print `Meetings: 0`** and each of the 13 now names its PMN source
+documents. 2023-04-04 also gained the 2023-03-30 budget-retreat doc (the honest zero-motion
+recovery) as a second listed meeting. 156 bundles built; weekly vote sum 4,735 == flat total.
+
+`gov.db` is left STALE on purpose — one federation run closes the whole wave.

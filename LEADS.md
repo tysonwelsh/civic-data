@@ -90,6 +90,14 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   (portal slot serves the wrong file, verified live), WVC PC 2024-07-10 + 2025-04-16, magna
   PC ×4 (approved but never posted; audio exists), summit ESPC 2022-08-04 (PMN body 1503),
   herriman 2021-03-12. Recovery channels: next-refresh re-probes, PMN, GRAMA drafts.
+- **2026-08-01: lehi referral census** — bluffdale's ground-truth pass found its high-tier
+  referral precision far below quotable (269→62 links); the failure mode (singleton-heavy
+  apps + city-hall address in boilerplate) is generic, and lehi holds the LARGEST referral
+  layer (~450 links) with no tuning pass ever run. Census lehi before quoting its chains.
+  Unverified lead — do not act without the same ground-truth method.
+- **2026-08-01: voting_method vocabulary crosswalk** — three RCV tokens coexist in
+  election_race ('RCV' / 'ranked choice' / 'ranked choice (RCV)'); a crosswalks/ entry (not
+  in-place edits) would make "which races were ranked-choice" one query.
 - **2026-07-31 (weber residual): possible 2022-01-11 redate** — min_01112022.pdf prints
   'Tuesday, January 18, 2022' in its title block and the county lists NO 01-18 meeting
   anywhere; warrant-sequence evidence suggests a clerk header typo in a real Jan-11 meeting.

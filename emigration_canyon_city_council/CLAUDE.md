@@ -50,9 +50,13 @@ DocuSign-signed PDFs at `https://www.utah.gov/pmn/files/<fileId>.pdf` (non-guess
   - Contested (rare): *"… passed 4 to 1, showing Mayor Smolka voted in opposition/abstained."*
   A unanimous/tally-only motion is **one tally-only row (blank member)** — never five
   fabricated Ayes. Named dissent yields the named Nay/Abstain row(s); the majority stays
-  unnamed. **5 contested council motions** in the whole record (2021-04-27 Brems recusal,
-  2021-08-24, 2021-12-14, 2023-08-22 full 5-name roll — Harris nay, 2023-10-24; recount
-  2026-07-12 T3.1(k)).
+  unnamed. **6 contested council motions** in the whole record (2021-02-25 Bowen nay —
+  recovered 2026-07-17; 2021-04-27 Brems recusal, 2021-08-24, 2021-12-14, 2023-08-22 full
+  5-name roll — Harris nay, 2023-10-24; recount 2026-07-12 T3.1(k)).
+  **Attendance:** the header prints TWO council rolls — present and
+  `EXCUSED:`/`Absent:` — and both are parsed (fixed 2026-08-01; before that the absent
+  members were credited as present). 23 of 89 council meetings record 1–2 absentees;
+  no printed tally exceeds the members recorded present.
 - **PC** is structured (`planning_commission/extract_votes.py`): `Motion: …` / `Motion by:
   Commissioner X` / `Vote: Commissioners voted unanimously in favor` (or `Commissioner
   Wallace voted nay, all other commissioners voted in favor`). Plus inline procedural
@@ -63,14 +67,18 @@ DocuSign-signed PDFs at `https://www.utah.gov/pmn/files/<fileId>.pdf` (non-guess
 ## What's on disk (both datasets, identical schemas)
 - `minutes/<year>/<meeting-date>/<date>_<slug>.md` — born-digital text (or OCR) + provenance
   front matter (`**Body:**`, `**Meeting type:**`, `**Era:**`, `**Source:** pmn`,
-  `**In-body date match:**`). **Council 86 · PC 60** files (PC 2025-11-13 promoted from
-  `pmn_backfill/` 2026-07-16, `format=ocr`).
+  `**In-body date match:**`). **Council 89 · PC 60** files (PC 2025-11-13 promoted from
+  `pmn_backfill/` 2026-07-16, `format=ocr`; 3 township-era council docs promoted from PMN
+  2026-07-17 — one is `format=docx-text`). Council formats: 81 `pdf-text` · 7 `ocr` ·
+  1 `docx-text`.
 - `raw/<year>/<date>_<Body>_<Type>_<fileid>.pdf` — the retained PMN originals (never modified).
 - `minutes_index.csv` — 8-col standard + `meeting_type,pmn_notice_id,pmn_file_id`;
   `source` = **`pmn`** for every row.
 - `minutes_unrecovered.csv` — meetings whose PMN notice exists but no minutes doc was
-  recovered (2017 purge + notice/meeting-date gaps). **Council 14 · PC 73** (the PC
-  2025-11-13 row was satisfied 2026-07-16 by the promoted late-posted minutes).
+  recovered (2017 purge + notice/meeting-date gaps). **Council 31 · PC 73** (the PC
+  2025-11-13 row was satisfied 2026-07-16 by the promoted late-posted minutes; the council
+  ledger grew 14→31 when the PMN crosscheck sweep logged the agenda/audio-only dates —
+  more honest gaps RECORDED, not more data lost).
 - `extract_votes.py` (PURE deterministic, no LLM/network, resumable `--force`) →
   `votes/<year>/<date>/<file>.json` → `all_votes.csv` (13-col standard; the PC file carries
   the trailing `provenance` 14th column since 2026-07-16: `minutes` | `pmn_minutes`) +
@@ -133,7 +141,11 @@ PASS; none modify the core layer. Join by `date` (+ `body`). PMN-only entity: co
   (Hawkes/Brems/Tippetts/Harris filed) — directly contradicting the recon's "no 2019 contest"
   (the SLCo 2019-drop pattern). Also **Griffith was appointed, not elected**. 2023 EasyVote-blocked.
 
-## README note
-This entity has no separate README.md — this CLAUDE.md is the human + agent overview. The core
-build left elections/geo/public_comments/db as empty scaffolds (see the intro); the expansion
-layers above are complete and federated into cities.db.
+## README note (corrected 2026-08-01)
+`README.md` **now exists** (added 2026-07-16) and is the human overview; this CLAUDE.md is the
+agent overview. The intro's *"elections, geo, public comments and `db/` are NOT built by this
+task (empty scaffold dirs remain)"* is likewise **superseded** — all four were built later and
+are verified: `election_results/` 5 race rows, `geo/` single-polygon boundary +
+`address_to_district.py`, `public_comments/` an honest header-only zero, `db/civic.db` 438
+motions / 13 votes. Everything is federated into `gov.db` (`cities.db` is now a legacy
+symlink). Current measured state: **`VERIFICATION.md`** (re-verified 2026-08-01).

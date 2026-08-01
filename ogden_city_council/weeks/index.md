@@ -158,7 +158,7 @@ One folder per council week. Each bundles that week's public comments and counci
 | [2023-09-19](2023-09-19/summary.md) | 0 | 2 | 5 | 0 |
 | [2023-09-26](2023-09-26/summary.md) | 0 | 2 | 5 | 0 |
 | [2023-10-03](2023-10-03/summary.md) | 0 | 1 | 3 | 0 |
-| [2023-10-10](2023-10-10/summary.md) | 0 | 3 | 13 | 2 |
+| [2023-10-10](2023-10-10/summary.md) | 0 | 3 | 13 | 3 |
 | [2023-10-17](2023-10-17/summary.md) | 0 | 1 | 5 | 0 |
 | [2023-10-24](2023-10-24/summary.md) | 0 | 1 | 0 | 0 |
 | [2023-11-07](2023-11-07/summary.md) | 0 | 1 | 10 | 0 |

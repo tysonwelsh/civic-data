@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2025-05-14
 _Window 2025-05-08 – 2025-05-14_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 5 05 14_1621
 - **Votes:** 11 motions, **3 contested**
 - **Public comments:** 0
 
@@ -15,3 +15,4 @@ _Window 2025-05-08 – 2025-05-14_
 
 ## Files
 - `votes.csv` — 40 member-vote rows across 11 motions
+- [council_2025-05-14_1621.md](../../meeting_minutes/minutes/2025/2025-05-12/council_2025-05-14_1621.md)

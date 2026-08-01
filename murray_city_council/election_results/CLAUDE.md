@@ -34,8 +34,11 @@ All results are filtered from the **county-canonical** normalized Statement-of-V
 
 **Filter:** rows whose `contest` contains `MURRAY` (case-insensitive), `year ∈ {2021,2023,
 2025}`. Each source row is precinct- and vote-method-level and carries the true
-`source_file` + `sheet`. No local `raw/` mirror is kept — the county repo is the source of
-record. Rebuild: `python3 clean_elections.py [--report]` (idempotent).
+`source_file` + `sheet`. No local `raw/` mirror of the **county** SOVC is kept — the county repo
+is the source of record. **One exception (2026-08-01):** `raw/` holds Murray's own certified
+**2021 primary Board of Canvassers' Report** (city docid 12340), a CITY document the county
+layer does not carry — it is the source for the 2021 Mayor-primary row's turnout fields and the
+proof that no D4 primary was held. Rebuild: `python3 clean_elections.py [--report]` (idempotent).
 
 ### Two dedup / recovery decisions (both material)
 
@@ -114,13 +117,19 @@ district** and normalize case/suffixes first.
   remain out of scope. **The 2019 general (D1/D3/D5) + 2019 primary (D1/D3) ARE NOW INCLUDED**
   (hand-appended 2026-07-17 from the SOVC re-parse — see dated note). The Hales D5 council
   wins (2011/2015) still live only in the county file, not here.
-- **2021 primaries (corrected 2026-07-17):** the **2021 MAYOR primary WAS held** (4 candidates —
-  Hales 4,952 / Bullen 2,483 / Fitzgerald 413 / Teemsma 356; now added contest-grain from the
-  election-night PDF). The **2021 D4 primary was NOT held** — three candidates filed but Galt
-  withdrew pre-certification, leaving a field of 2 (straight to the general). No 2021 D2 primary
-  (≤2 candidates). Likewise **no 2023 D5 primary** and **no 2025 D4 primary** (D4 2025 drew a
-  single candidate → uncontested general, Diane Turner). This resolves the campaign-finance
-  "2021 primary (Mayor ×4, D4 ×3)" review lead noted in the repo CLAUDE.md.
+- **2021 primaries (corrected 2026-07-17; CERTIFIED + cause-corrected 2026-08-01 — see the
+  dated section at the end):** the **2021 MAYOR primary WAS held** (4 candidates —
+  Hales 4,952 / Bullen 2,483 / Fitzgerald 413 / Teemsma 356) and is now certified by Murray's
+  own **Board of Canvassers' Report** (retained in `raw/`). The **2021 D4 primary was NOT held
+  or canvassed** — three candidates had declared, but Skylar L. Galt left the race before
+  election day and Turner + Rasmussen advanced straight to the general. The earlier
+  "**withdrew pre-certification**" wording was an **unsourced inference and is WRONG on timing**
+  — both D4 candidates had already filed 2021-08-03 **Pre-Primary** disclosures, a slot Murray
+  marks "Disclosure not required" when a race has no primary, so the D4 primary was still live
+  a week out. No 2021 D2 primary (≤2 candidates). Likewise **no 2023 D5 primary** and
+  **no 2025 D4 primary** (D4 2025 drew a single candidate → uncontested general, Diane Turner;
+  the 2025 canvass confirms it by declaring Turner nominated with no primary contest). This
+  closes the campaign-finance "2021 primary (Mayor ×4, D4 ×3)" review lead.
 - **2021 method-level suppression** is fully resolved via the raw-workbook `Total` rows
   (above); if the county repo ever re-normalizes 2021 without suppression, the long-file
   path can replace the xlsx parse (delete the `SKIP` entry).
@@ -141,7 +150,73 @@ files are edited (kearns precedent; dated backup in
   **contest-grain** from the election-night report `2021-08-10-primary-election-results.pdf`
   (no precinct SOVC workbook exists for the 2021 primary); `registered_voters`/`ballots_cast`/
   `turnout_pct` are blank for that row by necessity.
+  **SUPERSEDED 2026-08-01** (see the section below): the row's `source_file` is now the city's
+  certified canvass `2021-08-24-murray-primary-canvass-report_docid12340.pdf` (the ENR PDF's
+  four tallies were confirmed identical by it and remain cited in the row `note`), and the
+  three fields called "blank by necessity" are now populated from that canvass —
+  **28,531 / 8,244 / 28.89**. The necessity was real only against the county source.
 - The 2019 district rows carry `registered_voters` (summed from the SOVC precinct rows,
   reproduces the sibling recovered-row method) but blank `ballots_cast`/`turnout_pct` (the
   method-split SOVC prints no clean contest total). All tallies re-verified twice vs the county
   layer. `clean_elections.py` will NOT regenerate these rows — re-append after any rebuild.
+
+## 2026-08-01 — 2021 Mayor/D4 primary discrepancy flags CLOSED (certified city canvass)
+
+The campaign-finance layer's two open **DISCREPANCY FLAGS** (`../campaign_finance/AVAILABILITY.md`
+§"DISCREPANCY FLAGS", carried forward as unresolved since 2026-07-13) were worked to a **city
+primary source** and are now closed. `raw/` is created by this pass — the **first and only**
+local raw mirror in this dataset (the county SOVC remains un-mirrored by design; this is a
+**city-published** document the county layer does not carry):
+
+    raw/2021-08-24-murray-primary-canvass-report_docid12340.pdf   (+ .txt sidecar)
+    sha256 748f0bd66bf036b523f09fe6c444ea98c371f6e138042a0e8179e0aec876906d
+    Murray City DocumentCenter/View/12340 ("2021-Primary-Canvass-Notice"), retrieved 2026-08-01
+
+**What the canvass certifies** (signed 2021-08-24 by Mayor D. Blair Camp, all five
+councilmembers, and Recorder Brooke Smith): the August 10, 2021 Murray City Municipal Primary
+Election was held **"for the offices of City Mayor"** — that office **alone**. Hales 4,952 /
+Bullen 2,483 / Fitzgerald 413 / Teemsma 356, total 8,204; Hales + Bullen declared nominated.
+
+**Finding 1 — the Mayor primary row is CORRECT and is now UPGRADED, not corrected.** All four
+tallies, the total, the winner, the runner-up and both margins already matched the county
+election-night PDF exactly (0 discrepancies). The canvass adds the three fields the row had
+honestly left blank: **`registered_voters=28531`, `ballots_cast=8244`, `turnout_pct=28.89`**
+(the ENR PDF prints county-wide voting data only, so those were genuinely unavailable before).
+`ballots_cast` (8,244) exceeds `total_votes` (8,204) by **40 undervotes** — expected, not an
+error. `source_file` now cites the canvass; the ENR PDF is retained as the corroborating
+second source in the row `note`.
+
+**Finding 2 — no 2021 D4 primary exists to be missing.** The contest appears in **neither**
+the city canvass **nor** the countywide ENR contest list (which carries just 6 contests across
+5 cities — Herriman Mayor, Murray Mayor, Taylorsville D5, West Jordan At-Large, West Valley
+Mayor, West Valley D2 — corroborated by contemporaneous reporting of "five Salt Lake County
+cities" holding primaries). The county's normalized long file likewise carries **zero** 2021
+municipal-primary Murray rows. `murray_races.csv` carrying no 2021 D4 primary race is
+therefore **correct**, and CF flag #1's D4 half is **premise-failed**.
+
+**Finding 3 — the previously-filed CAUSE was wrong, and the CF evidence is why.** The
+2026-07-17 note asserted Galt "withdrew pre-certification." Murray's own filing record
+contradicts that timing: **both** eventual D4 general candidates (Rasmussen, Turner) filed
+**Pre-Primary** statements on **2021-08-03**, one week before the primary. That slot is not
+pro-forma — Murray posts "Disclosure not required" for it whenever a race has no primary, and
+the pattern holds across every cycle in the CF index (2021 D2: none · 2023 D5: none · 2025 D4:
+none · every race that DID have a primary: filed). So the D4 primary was still live at the
+pre-primary deadline and collapsed **after** it. Galt filed **nothing at all** — no
+pre-primary, and none of the "Post-Primary final (eliminated in primary)" statements the two
+losing mayoral candidates filed — i.e. he was never a primary loser. Secondary reporting
+(Murray Journal, 2021-11-23) says he "dropped out days before the primary." **The mechanism is
+NOT documented in any acquired primary source and is not asserted as fact** anywhere in this
+dataset; the row note states only what the canvass proves plus the sourced, labelled secondary
+account.
+
+**Finding 4 — CF flag #2 (Galt absent from `election_results`) is premise-failed.** Galt
+appeared on no counted ballot in any Murray contest — no primary was conducted in D4 and he
+was not on the general ballot (2021 D4 general: Turner + Rasmussen, `n_candidates=2`). His
+absence from the election layer is **correct**, not a gap; his zero filings are consistent
+with a candidacy that ended before any post-primary obligation attached.
+
+**Known, unchanged asymmetry (not a defect):** the six hand-appended races (2019 ×5 + this
+2021 Mayor primary) have rows in `murray_races.csv` **only** — no `murray_results_by_candidate.csv`
+/ `murray_results_by_precinct.csv` rows, because no precinct SOVC exists for the 2021 primary
+and the 2019 appends were contest-grain. A races→by_candidate join drops those 6 of 21 races;
+that is a documented provenance boundary, not a missing extraction.

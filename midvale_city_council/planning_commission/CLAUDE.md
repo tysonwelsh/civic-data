@@ -36,10 +36,25 @@ Chair/Vice-Chair elections are decided by paper-slip ballots reported narrativel
 slip tally is left as minutes prose. Advisory land-use recommendations to Council carry the
 case in the motion text (`motion_type=Land-Use/Zoning`).
 
+A motion the minutes say **died for want of a second** never reached a vote and is recorded
+`result="Died (no second)"` (`NO_SECOND_RX`, 2026-07-31 — fires only when no roll was
+recorded): PC **2020-09-09 m7**, Erickson's Midvale Mills recommend-to-approve rezone motion,
+which the minutes end with "The motion failed for lack of a second." The Commission then
+passed the substitute (m8, Anderson's recommend-**not**-approve, 3-1) — that roll was always
+correctly attached to m8, never to the dead motion.
+
 ## Roster
 No hard-coded roster (names captured as printed; canonical map repairs whitespace/OCR typos).
 Commission size runs ~5-7 seats — `validate_votes.py` flags roll calls exceeding 7 decisive
 voters. There is no mayor.
+
+**`Erikson` in the roll cells is the CITY's typo, not ours (2026-07-31).** The born-digital
+2022-08-10 / 2022-09-14 / 2022-09-28 minutes print `Candice Erickson` in the roll of members
+and `Commissioner Erickson  Present` in attendance, then misspell the same commissioner as
+`Commissioner Erikson` in the roll-call cells (14 printed occurrences vs 1,018 `Erickson`).
+`all_votes.csv` keeps it verbatim; the one-person merge lives in `db/person_aliases.csv`.
+(`Chair Ericson`, 2023-12-13, was already absorbed by the edit-distance-2 canonical map;
+`Erikson` survived it only because it recurs often enough to become its own anchor.)
 
 ## Coverage / formats
 Floor **2020**. **2020–2021 minutes are SCANNED image PDFs → OCR** (`format=ocr`); 2022+ is

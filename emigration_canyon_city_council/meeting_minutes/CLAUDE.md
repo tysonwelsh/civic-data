@@ -58,9 +58,69 @@ council. Result: **9 of 89 meetings changed, all 9 removing only Gary Bowen, eac
 yielding the full 5-member roll**; no other member gained or lost a meeting. Bowen →
 `2018-10-25..2021-12-14, 37 meetings`, matching `../roster/` AL-5 and the primary present
 blocks (2021-12-14 lists `GARY BOWEN`; 2022-01-25 lists `ROBERT PINON` in his place).
+*(Further corrected 2026-08-01 to `2018-11-29..2021-12-14, 36 meetings` — Bowen is printed
+under `COUNCIL MEMBERS EXCUSED:` on 2018-10-25; see the next section.)*
 **The VOTE layer was never affected** — `all_votes.csv` is byte-identical across the fix
 (Bowen's last mover/seconder/vote row is 2021-12-14; his one named vote is the 2021-02-25
 Nay), as are `motions_std.csv`, `db/civic.db` and `weeks/`.
+
+## …and the ABSENT/EXCUSED half of the same bug (fixed 2026-08-01)
+The "Others Present" fix cut the *non-council* attendees out of the PRESENT window. It did
+**not** cut the second COUNCIL roll: every EC attendance header prints the seated members
+**and** the ones who did not attend — `COUNCIL MEMBERS EXCUSED:` / `COUNCIL MEMBER EXCUSED:`
+(township), `Council Members Absent:` / `Council Member(s) Absent:` (city), `CANVASSERS
+EXCUSED:` (canvass nights). Those labels are not in `NONCOUNCIL_BLOCK_RE`, so **every absent
+member was credited as PRESENT** — all 89 meetings read as a full 5-member roll, including
+2026-02-17, whose motions print *"3-0 … with Council Members Hawkes and Pinon absent from the
+vote."*
+
+**Fix:** `parse_absent(body)` reads the absent roll from the **line-structured** body (not the
+flattened text) and `parse_present()` subtracts it. The line structure is load-bearing because
+the two layouts are only told apart by their blank lines:
+- **STACKED** — `PRESENT:` ‹names› `EXCUSED:` ‹names› (`OTHERS IN ATTENDANCE:`). The absent
+  names follow their own label, so they are the run of roster-name lines after it.
+- **TWO-COLUMN** — `Council Members Present:` and `Council Members Absent:` are side-by-side
+  column HEADS; flattening puts both labels ahead of every name and the two columns arrive as
+  blank-line-separated groups (present first, absent second). An empty Absent column simply
+  yields one group.
+
+The layouts are distinguished exactly the way `trim_to_council_block()` does it — **a roster
+surname printed BETWEEN the two labels means the block is stacked**. The step is strictly
+restrictive (it can only REMOVE names) and is guarded: if the removal would empty the roll it
+is discarded as a misparse.
+
+**Result: 23 of 89 meetings changed** (2018-10-25, 2019-11-19, 2020-02-27, 2021-09-28,
+2022-03-22, 2022-04-28, 2022-10-25, 2022-11-15, 2023-03-28, 2023-04-12, 2023-05-23,
+2023-06-27, 2023-07-25, 2024-02-22 ×2, 2024-04-23, 2024-07-30, 2025-05-27 ×2, 2025-11-17,
+2025-11-18, 2025-12-15, 2026-02-17), each dropping the 1–2 members the clerk printed as
+absent. `roster.csv` attendance: Hawkes 89→82, Harris 72→61, Brems 89→84, Smolka 83→82,
+Pinon 52→51, Bowen 37→36 (Brems and Bowen also lose 2018-10-25 as `first_seen` → 2018-11-29).
+**The VOTE layer is again untouched** — `all_votes.csv` byte-identical, `motions_std.csv`,
+`db/civic.db` (438 motions / 13 votes) and the weekly vote sums all unchanged. The bug
+over-credited attendance; it never fabricated a vote.
+
+**Independent cross-check:** with absentees removed, **no printed tally exceeds the number of
+members recorded present — 0 violations across 297 motions** (before the fix every meeting
+read 5-present, so the check was vacuous). And in 22 of the 23 changed meetings the absent
+member never speaks in the narrative.
+
+**The one exception is a SOURCE contradiction, left city-faithful — 2023-06-27:** the header
+prints `COUNCIL MEMBERS EXCUSED: DAVID BREMS` but the body has Brems speaking 12 times and
+**moving Ordinance No. 2023-06-01** (its present/excused block is a copy of the prior
+2023-05-23 meeting's — a clerk error). Nothing is overwritten: `build_roster()` unions the
+present block with that meeting's movers/seconders/named voters, so Brems is correctly
+retained for 2023-06-27 while the printed header stands as-is.
+
+`mayor_voted` in the JSON is now also absent-aware (`mayor is not None and mayor not in
+absent`). Zero blast radius today — no meeting both detects a mayor and lists him absent —
+but it keeps the flag honest.
+
+**The PC has no equivalent fix and must not get one.** `planning_commission/` minutes record
+attendance as a checkbox MATRIX (`Commissioners` / `Public Mtg` / `Business Mtg` / `Absent`
+columns with `x` marks) whose column-to-name mapping is destroyed by PDF text extraction: all
+59 "Absent" occurrences in the PC corpus are the column *header*, never a named commissioner.
+Attributing an `x` to a name would be fabrication, so PC `roster.csv` honestly lists every
+commissioner on the sheet. Recorded as a source ceiling in `../VERIFICATION.md` §7.
 
 ## THE MAYOR VOTES — max tally 5 (the key structural fact)
 Peer-selected mayor is one of the five and **votes** (Millcreek pattern). A complete tally

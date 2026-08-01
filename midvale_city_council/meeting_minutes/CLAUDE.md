@@ -56,8 +56,14 @@ The motion passed unanimously.        (or "... failed", or a tally)
 ```
 Voice-vote fallback (`... called for a vote. The motion passed unanimously.`) records no names
 (`names_recorded:false`, one placeholder row). `result` is derived `"<aye>-<nay> Pass/Fail"`
-for named roll calls, `"Unanimous Pass"` for voice votes; `motion_type` uses the fixed
-12-category taxonomy. Normalized cross-city fields belong **alongside** in `motions_std.csv`
+for named roll calls, `"Unanimous Pass"` for voice votes, and **`"Died (no second)"`** for a
+motion the minutes say died for want of a second (`NO_SECOND_RX`, added 2026-07-31 — it fires
+only when `names_recorded` is false, so a stray phrase in post-vote discussion can never
+overwrite a real tally; the same constant lives in the PC copy and is inherited by
+`extract_backfill_votes.py`). Before that fix the council form ("The motion **died** for a
+lack of a second", 2020-06-30 m3) matched no result verb and fell through to the
+`"Recorded (voice vote)"` default, which `db_build_lib.outcome_of` then defaulted to
+**Pass** — the inverse of the minutes. `motion_type` uses the fixed 12-category taxonomy. Normalized cross-city fields belong **alongside** in `motions_std.csv`
 (not built here).
 
 ## Names captured AS PRINTED — no hard-coded roster

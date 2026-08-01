@@ -63,7 +63,23 @@ phantom motions removed; ~10 vacated real meetings ledgered; detector now clean)
 loop-skip (+15 motions corpus-wide). Headline counts moved to 49,105/27,262/973/1,208
 motions · 180,979/38,589/0/27,887 votes · motion_std 77,340 · fts 14,696 — all docs
 reconciled.
-**REMAINING = G9 ONLY (owner's move):** declare against SHIP_GATE.md, cut the GitHub
+**2026-08-01 DEBT-CLEARANCE WAVE (owner-approved, 10 Opus agents + coordinator solo): the
+post-restructure [DEBT] queue went 14 → 4.** Fixed: weber died-motions ×4 + an ORPHANED
+contested roll recovered; ogden died ×2 + 7 primary races; midvale died ×1 + Erikson merge
++ weeks 13→0; EC parse_present + VERIFICATION rewrite; SSL 2021 rows plurality→RCV (the
+"missing primary" premise failed — RCV has no primaries); draper 2025 canceled race added
+(Res #25-49); murray 2021 Mayor primary certified-canvass corrections; wfrc +4 appositive
+motions; washington premises failed (290/290 byte-identical; 82%→78% OCR doc fix);
+bluffdale referrals ground-truthed 269→62 (-207 false links). Solo: logan RCV claim, riverton
+auth-wall relabel, SLCo HA premise-failed, weeks_lib fixes (Meetings:0 class → 0 repo-wide),
+kind_of committee fix. Five backlog premises failed at source — the evidence-not-fact rule
+keeps proving itself. Closing federation 2026-08-01T00:28:03, all gates green
+(check_doc_numbers 13/13 after reconciliation; election_race 680→688). SURVIVING [DEBT]:
+the 56-row recommendation-oracle adjudication, the NEW 2021 RCV mislabel class (CH×3 —
+incl. misleading first-choice margins on a 4-round mayor race — magna×1, slc×5), the NEW
+bluffdale motion-text-window item, and the murray-PC audit routine.
+
+**REMAINING = G9 (owner's move) + 4 [DEBT] + 6 [GATED]:** declare against SHIP_GATE.md, cut the GitHub
 release (gzip gov.db → ~400 MiB asset + sha256), mint the Zenodo DOI, flip the repo
 public, link from municipalsky.com. Also owner residue: rotate the ANTHROPIC_API_KEY;
 enable secret scanning at public-flip. Run `check_doc_numbers.py` + the federation gate

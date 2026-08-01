@@ -118,6 +118,19 @@ def classify_motion(text):
     return "Other"
 
 
+# A motion that DIED for want of a second never reached a vote. Midvale's minutes print it
+# as a result sentence inside the MOTION block ("The motion failed for lack of a second." —
+# PC 2020-09-09; "The motion died for a lack of a second." — council 2020-06-30). Before
+# 2026-07-31 neither phrasing was recognised: result_string fell through to the "(voice vote)"
+# default, asserting a voice vote that never happened (and, in the council copy, letting
+# db_build_lib.outcome_of default the row to Pass). Kept byte-identical to the council copy.
+NO_SECOND_RX = re.compile(
+    r"\bmotion\s+(?:was\s+)?(?:died|dies|failed|fails)\s+for\s+(?:a\s+)?lack\s+of\s+a\s+second|"
+    r"\bmotion\s+died\b|"
+    r"\b(?:received|receives)\s+no\s+second\b|"
+    r"\bdid\s+not\s+receive\s+a\s+second\b", re.I)
+
+
 def make_rx():
     roles = CFG["roles"]
     return {
@@ -198,12 +211,17 @@ def parse_motions(text):
         elif RX["unanimous"].search(flat):
             outcome = "Pass"
         unanimous = bool(RX["unanimous"].search(flat)) and not names_recorded
+        # died-for-lack-of-a-second: only meaningful when NO roll was recorded (a motion with
+        # a roll block plainly got its second); a stray phrase in post-vote discussion can
+        # therefore never overwrite a real tally.
+        no_second = bool(NO_SECOND_RX.search(flat)) and not names_recorded
 
         if not (mover or names_recorded or unanimous):
             continue
         out.append({"mover": mover, "seconder": sec, "desc": desc, "buckets": buckets,
                     "names_recorded": names_recorded, "unanimous": unanimous,
-                    "mayor_voted": mayor_voted, "outcome": outcome})
+                    "mayor_voted": mayor_voted, "outcome": outcome,
+                    "no_second": no_second})
     return out
 
 
@@ -294,6 +312,12 @@ def result_string(m):
         # trusted here because post-vote discussion routinely repeats "failed/denied".
         outcome = "Pass" if na > nn else "Fail"
         return f"{na}-{nn} {outcome}"
+    # A motion that died for want of a second — no vote of any kind was taken. "Died (no
+    # second)" is the collection-wide string for this (white_city/riverton/sandy/taylorsville/
+    # magna/st_george emit it); db_build_lib.outcome_of maps it to outcome='Died' and
+    # normalize_motions.py to outcome='died' (rule died-no-second).
+    if m.get("no_second"):
+        return "Died (no second)"
     if m["unanimous"]:
         return "Unanimous Pass"
     return (m["outcome"] or "Recorded") + " (voice vote)"

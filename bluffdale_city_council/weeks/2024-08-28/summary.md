@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2024-08-28
 _Window 2024-08-22 – 2024-08-28_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 4 08 28_1473
 - **Votes:** 6 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2024-08-22 – 2024-08-28_
 
 ## Files
 - `votes.csv` — 14 member-vote rows across 6 motions
+- [council_2024-08-28_1473.md](../../meeting_minutes/minutes/2024/2024-08-26/council_2024-08-28_1473.md)

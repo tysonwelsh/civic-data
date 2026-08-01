@@ -94,15 +94,21 @@ election names are UPPER-CASE, some `(NP)`/suffix variants).
   Mayor is citywide, never returned). Murray has **official** 5-district FeatureServer
   polygons (not precinct-derived) + 53 precinct assignments.
 
-## Elections — 15 races, all winners externally verified
-- **15 races across 2021 / 2023 / 2025** (Mayor + council districts), by-candidate and
-  by-precinct, filtered from the canonical `salt_lake_county/elections/` SOVC. Every winner
-  and margin was cross-checked against Salt Lake County / Murray Journal / KSL / Ballotpedia
-  — **0 mismatches** (`VERIFICATION.md` §(d)). Mayor Brett A. Hales won **2021 and 2025**.
+## Elections — 21 races, all winners externally verified
+- **21 races (13 general + 8 primary)** — the **15** across 2021 / 2023 / 2025 (Mayor +
+  council districts) that `clean_elections.py` builds, by-candidate and by-precinct, filtered
+  from the canonical `salt_lake_county/elections/` SOVC, **plus 6 hand-appended contest-grain
+  rows** (2019 general D1/D3/D5 + 2019 primary D1/D3, added 2026-07-17 from the SLCo SOVC
+  re-parse; the **2021 Mayor primary**, added 2026-07-17 and certified 2026-08-01 against the
+  city canvass). The 6 appended races have **no** by-candidate/by-precinct rows — a provenance
+  boundary, not a gap. Every winner and margin was cross-checked against Salt Lake County /
+  Murray Journal / KSL / Ballotpedia — **0 mismatches** (`VERIFICATION.md` §(d)). Mayor
+  Brett A. Hales won **2021 and 2025** (and led the 2021 primary 4,952–2,483).
 - **2025 "District 3 (2-Year Term)" is an unexpired-term SPECIAL** (Clark Bullen filling the
   seat Dominguez vacated in Dec 2024), flagged in the `note` column so member-term logic
   doesn't read it as a cycle shift.
-- **2019 general is below the 2020 floor** and out of scope.
+- **2019 general/primary sit below the 2020 floor** but ARE now carried (owner-approved
+  2026-07-17 appends; flagged in each row's `note`).
 
 ## public_comments — HONEST-EMPTY (submit-only)
 Murray publishes **no** written-comment archive / eComment / correspondence page. Public
@@ -174,6 +180,14 @@ PASS; none modify the core layer. Join to `all_votes.csv`/minutes by `date` (+ `
 - **`campaign_finance/`** — **131 filings, 2017/2019/2021/2023/2025** (39 text / 92
   scanned); every candidate in `election_results` covered; 2017 cycle recovered via
   Wayback→live DocumentCenter ids. **ACQUISITION LAYER only** (no dollar extraction yet —
-  not in `cities.db` until structured). FLAG: filings prove a **2021 municipal primary**
-  (Mayor ×4, D4 ×3 candidates) that `murray_races.csv` doesn't carry — an election-record
-  review lead, deliberately NOT edited into election_results.
+  not in `cities.db` until structured). **The old "2021 municipal primary (Mayor ×4, D4 ×3)"
+  FLAG is CLOSED (2026-08-01).** The **Mayor** primary was real and IS carried by
+  `murray_races.csv` (added 2026-07-17; certified 2026-08-01 against Murray's **Board of
+  Canvassers' Report**, city docid 12340, retained at `election_results/raw/` — 0 tally
+  discrepancies, and it supplied the row's registered-voters/ballots/turnout). The **D4**
+  primary was **scheduled but never conducted**: the canvass covers "the offices of City
+  Mayor" alone and the contest is absent from the countywide election-night list too, so the
+  election layer carrying **no** 2021 D4 primary is CORRECT. The once-filed cause "Galt
+  withdrew pre-certification" was an unsourced inference and is wrong on timing — both D4
+  general candidates filed 2021-08-03 **Pre-Primary** disclosures, a slot Murray leaves empty
+  when a race has no primary. Evidence: `election_results/CLAUDE.md` §2026-08-01.

@@ -1,7 +1,7 @@
 # Magna council week ending 2026-03-10
 _Window 2026-03-04 – 2026-03-10_
 
-- **Meetings:** 0
+- **Meetings:** 1 — _council regular__1410601
 - **Votes:** 6 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2026-03-04 – 2026-03-10_
 
 ## Files
 - `votes.csv` — 6 member-vote rows across 6 motions
+- [2026-03-10__council-regular__1410601.txt](../../pmn_backfill/text/2026-03-10__council-regular__1410601.txt)

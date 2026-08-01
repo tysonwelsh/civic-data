@@ -1,7 +1,7 @@
 # Riverton council week ending 2023-09-05
 _Window 2023-08-30 – 2023-09-05_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 3 09 05
 - **Votes:** 7 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2023-08-30 – 2023-09-05_
 
 ## Files
 - `votes.csv` — 31 member-vote rows across 7 motions
+- [council_2023-09-05.txt](../../pmn_backfill/text/council_2023-09-05.txt)

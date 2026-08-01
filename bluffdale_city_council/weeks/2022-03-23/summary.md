@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2022-03-23
 _Window 2022-03-17 – 2022-03-23_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 2 03 23_1039
 - **Votes:** 8 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2022-03-17 – 2022-03-23_
 
 ## Files
 - `votes.csv` — 24 member-vote rows across 8 motions
+- [council_2022-03-23_1039.md](../../meeting_minutes/minutes/2022/2022-03-21/council_2022-03-23_1039.md)

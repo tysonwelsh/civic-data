@@ -41,7 +41,7 @@ def kind_of(name):
     if "adjust" in n or "appeal" in n or n.strip() in ("boa",): return "commission"
     if any(k in n for k in ("redevelop", "reinvest", "rda", "cra", "agency")): return "agency"
     if any(k in n for k in ("building authority", "mba", "lba", "housing", "ha")): return "agency"
-    if "board" in n: return "committee"
+    if "board" in n or "committee" in n: return "committee"
     return "council"
 
 # --------------------------------------------------------- person helpers

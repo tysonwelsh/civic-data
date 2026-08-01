@@ -56,18 +56,28 @@ rows of this index or the future filing_totals blindly.
 
 ## Flags worth knowing before analysis (details in AVAILABILITY.md)
 
-- **The 2021 filings PROVE a 2021 municipal primary (Mayor + D4)** that
-  `../election_results/` does not carry ("no 2021 primaries" is contradicted by the
-  city's own pre-/post-primary filings for Fitzgerald, Teemsma, Galt). Elections-layer
-  review item — this dataset did not touch election_results.
-- 7 `in_election_results=no` rows are all explained: Fitzgerald/Teemsma (the missing
-  2021 primary), Lambrinos 2025 + Brass 2023 (withdrew pre-ballot).
+- **The 2021 filings prove a 2021 MAYOR primary — and, it turns out, a D4 primary that was
+  scheduled but never conducted. Flag CLOSED 2026-08-01.** The Mayor race is now in
+  `../election_results/murray_races.csv`, certified against Murray's Board of Canvassers'
+  Report (city docid 12340, retained at `../election_results/raw/`), which covers the
+  mayoralty **alone** — so there is **no D4 primary result to carry**. This layer's
+  Pre-Primary filings were the decisive evidence: Rasmussen + Turner filed on **2021-08-03**
+  (Murray posts "Disclosure not required" for that slot when a race has no primary — 2021 D2,
+  2023 D5, 2025 D4 are all empty), so D4 was still a primary race a week out and collapsed
+  after that deadline; Galt filed nothing, not even a post-primary "eliminated" final.
+  See `AVAILABILITY.md` §DISCREPANCY FLAGS and `../election_results/CLAUDE.md` §2026-08-01.
+- 7 `in_election_results=no` rows are all explained: Fitzgerald/Teemsma (2021 Mayor primary —
+  eliminated there, so absent from the general-only by-candidate file), Lambrinos 2025 +
+  Brass 2023 (withdrew pre-ballot).
 - Dominguez 2019 filings are the city's 2023 **redacted re-uploads** (originals
   withdrawn); two are mislabeled on the page — see `note` column.
 - Holbrook 2025: the "Aug 5" xlsx and the Sept 11 PDF appear to be one September
   statement in two forms.
 - No filings exist for Joe Christensen (2025, withdrew) or Skylar L. Galt (2021 D4) —
-  honest empties.
+  honest empties. Galt's total silence is itself evidence: he filed neither a Pre-Primary
+  (which both his D4 rivals did) nor a "Post-Primary final (eliminated in primary)" (which
+  both losing 2021 mayoral candidates did), consistent with a candidacy that ended before
+  election day. He appears on no ballot in `../election_results/` — correctly so.
 
 ## Rebuild / extend
 

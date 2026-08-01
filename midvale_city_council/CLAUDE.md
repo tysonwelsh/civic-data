@@ -18,6 +18,8 @@ ordinances/           adopted ordinance PDFs (2012-2026) + text sidecars + §9 i
 election_results/     Salt Lake County SOVC filtered to Midvale council+mayor races
 geo/                  official 5-district FeatureServer + 38 precincts + address→district tool
 db/                   relational SQLite civic.db (build_db.py + build_referrals.py; regenerable)
+                      + person_aliases.csv — the DOCUMENTED same-person override file
+                        (city-printed spelling variants; the flat CSVs stay verbatim)
 weeks/                DERIVED weekly bundles tying minutes + votes together
 build_weeks.py        regenerates weeks/ (meeting_weekday = Tuesday = 1)
 convert_minutes.py    Revize raw PDF/docx -> markdown converter (pdftotext + OCR fallback)
@@ -80,6 +82,21 @@ VERIFICATION.md       independent QA + external election cross-check (REQUIRED; 
    RAW-ONLY if the document can't confirm one. The other 12 ambiguous-name docs in the index
    were re-checked against their own header dates and are all correctly dated.
 
+6. **The city misspells its own commissioner — `Erikson` is the SOURCE's typo, and the merge
+   lives in the db, not the CSV (2026-07-31).** Midvale's born-digital Revize PC minutes for
+   **2022-08-10 / 2022-09-14 / 2022-09-28** print `Candice Erickson` in the roll of members
+   and `Commissioner Erickson  Present` in attendance, then misspell the SAME commissioner as
+   **`Commissioner Erikson`** inside the roll-call cells (14 printed occurrences against
+   1,018 `Erickson`). `planning_commission/all_votes.csv` keeps the verbatim `Erikson`
+   (cardinal rule 2 — this is not an extraction defect and must not be "fixed" there). The
+   two spellings are ONE person (only one Eri\*son ever sat on the P&Z Commission; they never
+   co-occur as two vote rows on a motion) and are unified in the db via
+   **`db/person_aliases.csv`** — the repo's documented `raw_name,canonical_name,evidence`
+   override file, applied by `db/build_db.py`, which wraps the shared library's `norm_person`
+   rather than editing it. Canonical form is the surname-only **`Erickson`** (Midvale's PC
+   person rows are all surname-only). Any NEW same-person variant goes in that file with
+   evidence, never into the flat CSV.
+
 ## Index + vote schemas are the collection standard
 - `minutes_index.csv`: `date,year,title,slug,path,source,source_url,format` — one row per
   document on disk; unrecoverable meetings live in `minutes_unrecovered.csv`, never as
@@ -90,7 +107,12 @@ VERIFICATION.md       independent QA + external election cross-check (REQUIRED; 
   **+ a documented trailing 14th `provenance` column since 2026-07-16** (`minutes` = audited
   Revize doc; `pmn_minutes` = PMN-recovered doc promoted by
   `meeting_minutes/extract_backfill_votes.py`, whose `source` paths point into
-  `pmn_backfill/text/`). `result` and `motion_type` are city-verbatim — **cross-city
+  `pmn_backfill/text/`). Derived `result` values are `"<aye>-<nay> Pass/Fail"` (named roll),
+  `"Unanimous Pass"` (voice), and — since 2026-07-31 — **`"Died (no second)"`** for a motion
+  the minutes say died for want of a second (council 2020-06-30 m3, PC 2020-09-09 m7; before
+  the fix these fell through to a `"(voice vote)"` default that asserted a vote never taken
+  and let the db default the council row to **Pass**). `result` and `motion_type` are
+  city-verbatim otherwise — **cross-city
   comparison goes through `motions_std.csv`** (normalized outcome/tallies/motion_type_std)
   and the repo-root `crosswalks/` tables. `body` ∈ Council/RDA/MBA (council file) or
   PlanningCommission (PC file). **Run order: `extract_votes.py` then

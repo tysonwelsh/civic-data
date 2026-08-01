@@ -41,10 +41,16 @@ Two provenance layers, both retained under raw/:
          are NOT suppressed.
 
 KNOWN GAPS (documented, never fabricated):
-  * 2021 municipal PRIMARY -- the county archive holds NO 2021 municipal-primary SOVC at
-    all (no city). South Salt Lake's 2021 Mayor race drew 3 candidates, so an Aug-2021
-    primary was almost certainly held, but the source is not in the mirror. Logged as an
-    acquisition gap, not fabricated.
+  * 2021 municipal PRIMARY -- NEVER EXISTED. Not a gap; a non-event. (Corrected
+    2026-07-17, re-verified at the primary source 2026-07-31 -- see the RCV_2021 block
+    below.) South Salt Lake joined Utah's 2021 Municipal Alternate Voting Methods (RCV)
+    pilot, and the pilot REPLACES the municipal primary, so all 3 mayoral candidates
+    advanced straight to the ranked general. Corroborated by the county's only 2021
+    primary publication (2021-08-10-primary-election-results.pdf), which carries just 6
+    contests -- Herriman Mayor, Murray Mayor, Taylorsville D5, West Jordan At-Large,
+    West Valley Mayor, West Valley D2, all NON-pilot cities -- and no SSL contest.
+    The earlier reading here ("3 candidates -> a primary was almost certainly held") was
+    WRONG and is retained in this note only so the false lead is not re-opened.
   * 2023 & 2025 municipal PRIMARY -- the archive normalized both years' primaries but they
     contain NO South Salt Lake sheet (each seat drew <=2 candidates -> no primary
     triggered). Verified in raw. True no-contest, not a data gap.
@@ -329,6 +335,47 @@ def real_cands(items):
             if not (n.startswith('Write-in') and (v or 0) == 0)]
 
 
+# ------------------------------------------------------------- the 2021 RCV pilot
+# South Salt Lake joined Utah's 2021 Municipal Alternate Voting Methods (ranked-choice)
+# pilot, so its ENTIRE 2021 municipal general was ranked-choice -- and, because the pilot
+# replaces the municipal primary, no Aug-2021 SSL primary was held (see KNOWN GAPS above).
+#
+# PRIMARY-SOURCE PROOF (2026-07-31): the Salt Lake County Clerk's "Official Final Ranked
+# Choice Results, 2021 General Election" -- raw/2021-general-election-ranked-choice-
+# summary-report.pdf, p.20 of 21 -- tabulates CITY OF SOUTH SALT LAKE MAYOR:
+#     Round 1 -- CHERIE WOOD 1,777 (58.24%) | JAKE CHRISTENSEN 678 (22.22%)
+#                L. SHANE SIWIK 596 (19.53%) | threshold 1,526
+#     "Tabulation status: All Positions Filled"  <- filled IN ROUND 1
+# Wood cleared the majority threshold outright, so no elimination round ran and the RCV
+# FINAL EQUALS FIRST CHOICE. The three 2021 council contests drew 2 candidates each, so
+# they are round-1 decisive and the county published no round table for them -- exactly as
+# it did not for CITY OF BLUFFDALE MAYOR (2 candidates), which bluffdale's repo likewise
+# records as RCV.
+#
+# Consequence for this file: round 1 == first choice == the SOVC 'Total' column already
+# parsed here, so every stored tally, winner, and margin is CORRECT AS-IS and no number
+# changes. Only the LABEL was wrong -- these four rows previously read voting_method=
+# 'plurality' with total_first_choice_votes blank, which both mis-described the contest and
+# left the missing-primary question looking like an acquisition gap.
+_RCV_MAYOR = (
+    'RCV pilot (Utah 2021 Municipal Alternate Voting Methods pilot). 3 candidates, WON IN '
+    'ROUND 1: Wood 1,777 cleared the 1,526 majority threshold, so no elimination round ran '
+    'and the RCV final equals first choice. Stored votes/pct/margin are ROUND-1 '
+    '(first-choice) figures. Rounds: 2021-general-election-ranked-choice-summary-report.pdf '
+    'p.20 (Salt Lake County Clerk, Official Final Ranked Choice Results). No Aug-2021 '
+    'municipal primary was held -- the pilot replaces it.')
+_RCV_COUNCIL = (
+    'RCV pilot (Utah 2021 Municipal Alternate Voting Methods pilot). 2 candidates -> '
+    'round-1 decisive, so the county published no elimination-round table for this contest '
+    '(same treatment as CITY OF BLUFFDALE MAYOR in the same report). Stored votes/pct/'
+    'margin are ROUND-1 (first-choice) figures and equal the RCV final.')
+RCV_2021 = {
+    'South Salt Lake City Mayor': _RCV_MAYOR,
+    'South Salt Lake City Council At-Large': _RCV_COUNCIL,
+    'South Salt Lake City Council District 2': _RCV_COUNCIL,
+    'South Salt Lake City Council District 3': _RCV_COUNCIL,
+}
+
 races, by_cand, by_precinct = [], [], []
 for k in sorted(RECORDS, key=lambda x: (x[0], x[1], x[2])):
     R = RECORDS[k]
@@ -348,18 +395,25 @@ for k in sorted(RECORDS, key=lambda x: (x[0], x[1], x[2])):
     turnout = (round(100 * ballots_total / reg_total, 2)
                if (isinstance(ballots_total, int) and isinstance(reg_total, int) and reg_total)
                else '')
+    # 2021 municipal general only: the RCV pilot (see RCV_2021 above). Round 1 == first
+    # choice, so the tallies are unchanged; the label and the first-choice column are not.
+    rcv_note = (RCV_2021.get(R['contest'], '')
+                if (R['year'], R['election_type']) == ('2021', 'municipal general') else '')
     races.append(dict(
         year=R['year'], election_type=R['election_type'], office=R['office'],
         district=R['district'], contest=R['contest'], contest_verbatim=R['verbatim'],
-        n_seats=1, n_candidates=len(rc), voting_method='plurality',
-        total_votes=total, total_first_choice_votes='', winner=winner, winner_votes=wv,
+        n_seats=1, n_candidates=len(rc),
+        voting_method='RCV' if rcv_note else 'plurality',
+        total_votes=total,
+        total_first_choice_votes=total if rcv_note else '',
+        winner=winner, winner_votes=wv,
         winner_pct=round(100 * (wv or 0) / total, 2) if total else 0,
         runner_up=runner, runner_up_votes=rv,
         margin_votes=margin, margin_pct=round(100 * margin / total, 2) if total else 0,
         registered_voters=reg_total, ballots_cast=ballots_total, turnout_pct=turnout,
         uncontested='True' if len(rc) <= 1 else 'False',
         suppressed_precincts='True' if R['suppressed_any'] else 'False',
-        note='', source_file=R['source_file']))
+        note=rcv_note, source_file=R['source_file']))
     for rank, (name, v) in enumerate(items, 1):
         by_cand.append(dict(
             year=R['year'], election_type=R['election_type'], office=R['office'],

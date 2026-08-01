@@ -155,7 +155,7 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   half-open interval (`start_date<=:d AND (end_date='' OR end_date>:d)`). Each
   `roster/CLAUDE.md` is authoritative per city.
 - **Elections in the db** (2026-07-11, expanded 2026-07-12): federated DB form in
-  `gov.db` — `election_race` (audited 25-col races, **680 rows** + containing
+  `gov.db` — `election_race` (audited 25-col races, **688 rows** + containing
   `county`; **authoritative** winners/margins; view `v_election_city`) and `election_result`
   (Salt Lake County Clerk SOVC candidate tallies, 2007–2025, **5,482 rows**, covering **22
   SLCo jurisdictions** after the 2026-07-12 normalizer fixes recovered the 2019/2011
@@ -173,12 +173,12 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 
 - **Start with `gov.db`** (repo root; `cities.db` is a legacy symlink) for any
   cross-entity question: all built entities' standard tables unioned with `city` +
-  `gov_level` columns — **motions 49,105 city / 27,262 county / 973 regional / 1,208 state**;
-  **member-votes 180,979 city / 38,589 county / 0 regional / 27,887 state** (regional
+  `gov_level` columns — **motions 49,105 city / 27,271 county / 977 regional / 1,208 state**;
+  **member-votes 180,980 city / 38,592 county / 0 regional / 27,887 state** (regional
   minutes are tally-only, so the MPOs contribute projects + projections, not votes) —
   `motion_std` (the normalization layer — **now covers the CITY + COUNTY + REGIONAL
-  tiers, 77,340 rows joined to `motion` at 100%**: city 49,105 + county 27,262 +
-  regional 973, closing TODO High-priority item (j) on 2026-07-29). **The two paths are
+  tiers, 77,353 rows joined to `motion` at 100%**: city 49,105 + county 27,271 +
+  regional 977, closing TODO High-priority item (j) on 2026-07-29). **The two paths are
   built differently and that is a real distinction:** city rows are read from the on-disk
   `motions_std.csv` files; counties and MPOs publish no such file (no uniform flat-motion
   shape; mag_mpo has no flat motion CSV at all), so their rows are **COMPUTED AT
@@ -386,7 +386,8 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   **two planning commissions** for land use (Snyderville Basin + Eastern) + a 571-app dev
   pipeline; council coverage 2023+ born-digital (2015–22 scanned ledger).
 - **washington_county** — Board of Commissioners (3); **LIGHT+ tier, db-less**: elections
-  canonical 2018–2025 + minutes FTS corpora (82% OCR) + plans/ordinances/gis; **vote layer
+  canonical 2018–2025 + minutes FTS corpora (78% OCR — 226/290, measured 2026-08-01) +
+  plans/ordinances/gis; **vote layer
   + dev pipeline explicitly DEFERRED** (honest, not a gap).
 - **juab_county** — Board of Commissioners (3); **CHEAP-ONLY tier, db-less, thin**:
   elections canonical 2023–2026 (3 official channels; 2019/2021 municipal = honest gap) +

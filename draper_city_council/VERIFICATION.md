@@ -271,3 +271,51 @@ count by ~19 votes (certified SOVC vs unofficial) — direction and winner ident
     section; corrected the stale "Draper is not RCV" line) + main `CLAUDE.md`.
   - `validate_city.py`: **24 PASS / 2 WARN / 0 FAIL** (both WARNs = the documented `provenance`
     column extension — unchanged; no new warnings). weeks/ vote sum **3,853 == flat total**.
+- *2026-07-31* — **2025 CANCELED-UNCONTESTED 4-year council race ADDED** (clears the `[DEBT]`
+  "two sitting councilmembers have no election record"; backups in
+  `_backups/2026-07-31-debt-wave/draper/`). **Premise verified at the PRIMARY source, not the
+  triage note:** the adopted instrument itself is on disk —
+  `packets/text/2025-10-07_Council_exh3636839_Resolution_25-49_Canceling_Race_and_Declaring_Candidates_Elected.txt`
+  — *"A RESOLUTION … CANCELING THE ELECTION FOR THE 4-YEAR AT-LARGE CITY COUNCIL SEATS AND
+  CERTIFYING THE CANDIDATES AS ELECTED"*, reciting **Utah Code § 20A-1-206(3)/(3)(b)**, *"two
+  open 4-year at-large City Council seats scheduled for the November 4, 2025 … General
+  Election"*, *"following the withdrawal of candidate **Jared Turner**, the number of
+  candidates equaled the number of open seats"*, and certifying in **Section 2** that
+  ***"Tasha Lowery and Mike Green are considered elected"***. Council record: item **7.c**
+  2025-09-16 — **continued** to 2025-10-07 for a noticing issue (F. Lowry moved, Johnson
+  seconded, 5-0); item **7.d** 2025-10-07 — **adopted** (Johnson moved, Vawdrey seconded, roll
+  call **5-0**), City Recorder Nicole Smedley explaining that *"one of the three candidates …
+  had withdrawn … leaving two candidates for the two seats"*. Corroborated independently by
+  `campaign_finance/` (Green + Lowery filed 2025 CF under "City Council At-large (4-year seat)"
+  while appearing in no canvass; Turner's 2025-09-15 withdrawal affidavit).
+  - **Fixed at the script layer** (`election_results/clean_elections.py`, a documented
+    `CANCELED` list — the millcreek-2023 / alta-2025 convention), never by hand-editing a CSV.
+    Regenerated diff is **exactly** the intended change: `draper_races.csv` **+1 row** (23→24
+    races: 16 general + 8 primary), `draper_results_by_candidate.csv` **+2 rows** (119→121:
+    `TASHA LOWERY` / `MIKE GREEN`, `is_winner=True`, blank `votes`/`pct`/`rank`),
+    `draper_results_by_precinct.csv` **byte-identical** (0 rows — no ballots were cast); every
+    pre-existing row byte-identical; rebuild is idempotent (identical md5 on re-run).
+  - **NO fabricated data:** `voting_method='uncontested (election cancelled)'`,
+    `uncontested=True`, and **all** tally/margin/turnout columns blank —
+    `contest_verbatim='THE 4-YEAR AT-LARGE CITY COUNCIL SEATS'` is the resolution's own title
+    wording (a canceled race has no ballot label), `winner` = the resolution's first-listed
+    certified candidate with **both** winners carried in the by_candidate table.
+  - **⚠ 2025 now has TWO municipal-general Council rows** — this canceled 4-year contest and
+    the SOVC-counted `(2 YEAR TERM) (Vote for 1)` unexpired seat (Dahlin). They share
+    `(year, election_type, office, district, contest)`; separate them on `contest_verbatim` /
+    `n_seats` / `uncontested` and never sum their totals as one contest.
+  - Nothing else moved: `meeting_minutes/` + `planning_commission/` votes, `db/`, `weeks/` and
+    `motions_std.csv` are **untouched** (no builder in this city consumes the races file —
+    verified: `db/build_db.py` and `build_weeks.py` never read `election_results/`).
+    `validate_entity.py draper`: **24 PASS / 2 WARN / 0 FAIL** (the 2 WARNs are the documented
+    `provenance` 14th-column extension — unchanged).
+  - Docs updated: `election_results/CLAUDE.md` (new "Canceled-uncontested races" section +
+    corrected cycle-B table + counts), main `CLAUDE.md`, `README.md`, `roster/CLAUDE.md` +
+    `roster/build_roster.py` prose (the "ABSENT from election_results" claim is now closed),
+    `campaign_finance/AVAILABILITY.md` FLAG 1 status.
+  - **Pending (not done here, by design):** (a) `roster/council_terms.csv` regeneration — the
+    driver prose changed but the generated CSV still quotes the old "absent" note; it reads
+    repo-root `cities.db`, deliberately not opened mid-wave. (b) The repo-root federation
+    caveat in `scripts/build_cities_db.py` (`draper / election-format-note`) still says those
+    two members have "no election_race row (TODO [DEBT])" — a shared-script edit for the
+    federation owner.

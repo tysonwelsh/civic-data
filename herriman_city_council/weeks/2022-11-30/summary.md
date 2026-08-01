@@ -1,9 +1,10 @@
 # Herriman council week ending 2022-11-30
 _Window 2022-11-24 – 2022-11-30_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 022 11 30_984447
 - **Votes:** 2 motions
 - **Public comments:** 0
 
 ## Files
 - `votes.csv` — 2 member-vote rows across 2 motions
+- [pmn_joint_2022-11-30_984447.md](../../pmn_backfill/text/pmn_joint_2022-11-30_984447.md)

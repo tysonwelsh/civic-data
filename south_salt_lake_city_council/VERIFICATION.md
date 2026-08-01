@@ -141,6 +141,19 @@ independent reporting (Salt Lake Tribune, KSL, a public victory post):
 | 2021 | Mayor | **CHERIE WOOD** 1,777 vs 678 | Public victory post "Congratulations Mayor Cherie Wood, Clarissa J. Williams…" | ✅ |
 | 2021 | At-Large | **CLARISSA J. WILLIAMS** 1,490 vs 1,395 | same post confirms Williams won | ✅ |
 
+**2026-07-31 — 2021 verified against the county's OFFICIAL RCV tabulation (new, strongest
+check yet).** SSL was an RCV-pilot city; the Clerk's *Official Final Ranked Choice Results,
+2021 General Election* (retained at `election_results/raw/2021-general-election-ranked-choice-
+summary-report.pdf`, p.20 `CITY OF SOUTH SALT LAKE MAYOR`) publishes the round-1 table
+independently of the SOVC spreadsheet this repo parses. **They agree exactly** — Wood
+1,777/58.24%, Christensen 678/22.22%, Siwik 596/19.53%, continuing ballots 3,051 — matching
+`south_salt_lake_results_by_candidate.csv` to the vote and to the hundredth of a percent. The
+report also records *"Tabulation status: All Positions Filled"* with **only a Round 1 column**
+(Wood cleared the 1,526 threshold), confirming the RCV final equals the stored first-choice
+result. Consequence: the 4 rows were **relabelled `voting_method='RCV'`** (was `plurality`) —
+label-only, no tally changed — and the long-suspected "missing 2021 primary" is **confirmed a
+non-event**, since the pilot replaces the municipal primary. ✅
+
 Notes: reported election-night percentages differ by ~1–2 pts from the certified SOVC totals in
 the CSV (expected — unofficial vs canvassed), but every **winner** matches. One loose web
 summary called the 2021 At-Large "unopposed"; the authoritative SOVC shows a real 1,490–1,395

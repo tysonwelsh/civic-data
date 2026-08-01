@@ -1,7 +1,7 @@
 # Bluffdale council week ending 2026-03-25
 _Window 2026-03-19 – 2026-03-25_
 
-- **Meetings:** 0
+- **Meetings:** 1 — 6 03 25_1788
 - **Votes:** 5 motions, **1 contested**
 - **Public comments:** 0
 
@@ -11,3 +11,4 @@ _Window 2026-03-19 – 2026-03-25_
 
 ## Files
 - `votes.csv` — 13 member-vote rows across 5 motions
+- [council_2026-03-25_1788.md](../../meeting_minutes/minutes/2026/2026-03-23/council_2026-03-25_1788.md)

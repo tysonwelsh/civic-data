@@ -136,15 +136,14 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   the matcher reading direction words on a motion that FAILED. Fix = refine
   `recommendation_of()` in db_build_lib (+ 6 fork ports) + per-row source adjudication of
   the remainder; touches ~20 entities + re-federation.
-- [ ] **[NEW 2026-08-01] 2021 RCV mislabel class — 9 race rows in 3 entities** (found by the
-  SSL wave agent cross-checking the county's official 2021 Ranked Choice Results report,
-  `sandy_city_council/election_results/raw/2021-general-election-ranked-choice-summary-report.pdf`):
-  cottonwood_heights Mayor + D3 + D4 labeled 'plurality' (the Mayor race went FOUR RCV
-  rounds — Weichers 3,526 first-choice → 4,619 final vs Kraan 3,017 → 4,117, so stored
-  first-choice margins are actively misleading; CH's election_results/CLAUDE.md ~131-132
-  affirmatively asserts CH did not join the pilot, contradicted by the primary source);
-  magna Metro Township D2 (p.21); slc D1/D2/D3/D5/D7 voting_method blank (pp.11-15).
-  holladay/riverton/south_jordan/kearns/copperton/alta verified correctly excluded.
+- [x] **[NEW 2026-08-01] 2021 RCV mislabel class — ✅ DONE 2026-08-01 (solo).** All 9 rows
+  relabeled `voting_method='RCV'` with sourced notes + `total_first_choice_votes` populated
+  (CH Mayor/D3/D4, magna D2, slc D1/D2/D3/D5/D7 — verified against the official report;
+  magna D4 absent from the report's 21 contests, left plurality). CH's false "did not join
+  the pilot" doc assertion corrected with the 4-round Mayor tabulation (Weichers R1 3,616 →
+  4,619 final vs Kraan 4,117; the R1-vs-SOVC-first-choice delta = late/cured ballots, both
+  official, both retained city-faithfully). Re-federated; 9 RCV rows verified in
+  election_race; gates 13/13.
 - [ ] **[NEW 2026-08-01] bluffdale motion-text window captures the agenda-notice preamble
   instead of the motion sentence on 94 motions** (52 council + 42 PC; motion_no=1 class) +
   ~43 in-session RDA/LBA motions windowed onto adjournment/roll-call blobs — the root cause

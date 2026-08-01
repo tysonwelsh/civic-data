@@ -86,8 +86,8 @@ Recovered rows carry a provenance sentence in the races `note` column.
 - **`cottonwood_heights_races.csv`** — one row per race (**29: 23 general + 6 primary** after
   the 2026-07-17 SOVC-reparse append of the 2019 D1 primary; was 28),
   the **25-column** collection superset (header identical to `south_jordan_races.csv`,
-  incl. the RCV-only `total_first_choice_votes` — blank here, all plurality — and a free
-  `note`). `registered_voters`/`ballots_cast`/`turnout_pct` populated where the source
+  incl. the RCV-only `total_first_choice_votes` — populated on the three 2021 rows, which
+  are **RCV** (see the correction below) — and a free `note`). `registered_voters`/`ballots_cast`/`turnout_pct` populated where the source
   carries them (2019 raw + 2021/2023/2025); older archive-slice years leave turnout blank.
 - **`cottonwood_heights_results_by_candidate.csv`** — race × candidate (**80 rows**).
 - **`cottonwood_heights_results_by_precinct.csv`** — precinct × candidate (**1,176 rows**);
@@ -127,9 +127,17 @@ mirror the 2021/2023/2025 handling; mind whether the cycle is A (Mayor+D3+D4) or
   after 2005 incorporation), but the label reads "COTTONWOOD CITY" (not "…HEIGHTS") and the
   file is legacy `.xls`. The stated coverage floor is **2009**; 2007 is documented here as a
   recoverable pre-floor backfill, not fabricated in.
-- **Vote-for-1 / plurality everywhere** — single-member districts + citywide mayor; no
-  at-large / vote-for-N and no RCV cycle (`total_first_choice_votes` blank; CH did not join
-  the 2021 municipal RCV pilot).
+- **Vote-for-1; plurality EXCEPT 2021, which was RCV** — single-member districts + citywide
+  mayor; no at-large / vote-for-N. ⚠ **CORRECTION 2026-08-01**: this file previously
+  asserted twice that "CH did not join the 2021 municipal RCV pilot" — the county's
+  official 2021 Ranked Choice Results report
+  (`sandy_city_council/election_results/raw/2021-general-election-ranked-choice-summary-report.pdf`,
+  pp.3–5) proves CH's Mayor + D3 + D4 WERE RCV contests. The Mayor race ran FOUR rounds
+  (Weichers R1 3,616 → final 4,619 at 52.87% vs Kraan 3,017 → 4,117), so the SOVC
+  first-choice figures stored in `races.csv` (Weichers 3,526 vs Kraan 3,017) are NOT the
+  deciding margin — the three 2021 rows are relabeled `voting_method='RCV'` with notes.
+  (The R1-vs-SOVC first-choice delta is late/cured ballots between certifications; both
+  sources official, both retained.)
 - Precinct geometry for joins: see `../geo/` (`COT###` precincts, UGRC CountyID 18).
 
 

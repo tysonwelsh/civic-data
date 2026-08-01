@@ -35,12 +35,11 @@
 
 ## LIVE DB STATE (verified post-federation)
 
-Built **2026-07-31T14:30:48-04:00** · `validate_entity.py --federation` → **44/44 in step** ·
-integrity ok · FK 0 · reconciliation exact · caveat **88** · motion 78,608 (city 49,172 /
-county 27,269 / regional 959 / state 1,208) · vote 181,119/38,597/0/27,887 · motion_std
-77,400 · election_race 680 · comment 14,202 (millcreek 27 now enumerated) · fts_minutes
-13,886 · **0 built entities without a caveat row**. Verified surfacing: south_jordan PC and
-magna rows in v_member_record_all carry `dissent-only`.
+Built **2026-08-01T00:28:03-04:00** · auto-gate → **44/44 in step** · integrity ok · FK 0 ·
+reconciliation exact · caveat **91** · motion 78,561 (city 49,105 / county 27,271 /
+regional 977 / state 1,208) · vote 180,980/38,592/0/27,887 · motion_std 77,353 ·
+election_race **688** · comment 14,202 (redacted) · fts_minutes 14,696 · **0 built
+entities without a caveat row** · check_doc_numbers 13/13 · marquee examples 5/5.
 
 ## NEXT (the PUBLISH GATE, in TODO.md — owner-approved 2026-07-31)
 

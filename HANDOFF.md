@@ -35,11 +35,12 @@
 
 ## LIVE DB STATE (verified post-federation)
 
-Built **2026-08-01T00:28:03-04:00** · auto-gate → **44/44 in step** · integrity ok · FK 0 ·
-reconciliation exact · caveat **91** · motion 78,561 (city 49,105 / county 27,271 /
+Built **2026-08-01T01:08:48-04:00** · auto-gate → **44/44 in step** · integrity ok · FK 0 ·
+reconciliation exact · caveat **92** · motion 78,561 (city 49,105 / county 27,271 /
 regional 977 / state 1,208) · vote 180,980/38,592/0/27,887 · motion_std 77,353 ·
-election_race **688** · comment 14,202 (redacted) · fts_minutes 14,696 · **0 built
-entities without a caveat row** · check_doc_numbers 13/13 · marquee examples 5/5.
+election_race **688** · comment 14,202 (redacted) · fts_minutes 14,696 · referral
+bluffdale 38 (census-verified) · **0 built entities without a caveat row** ·
+check_doc_numbers 13/13 · marquee examples 5/5 · **[DEBT] queue EMPTY**.
 
 ## NEXT (the PUBLISH GATE, in TODO.md — owner-approved 2026-07-31)
 

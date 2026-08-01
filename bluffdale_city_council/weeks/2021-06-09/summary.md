@@ -6,9 +6,9 @@ _Window 2021-06-03 – 2021-06-09_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Land-Use/Zoning — 4. Consideration and Vote on Resolution No. 2021-29, Adopting Certain Restrictions on the Use of Fireworks within Certain Areas of the City,
+- **The motion passed 4-to-1** · Resolution — Jeff Gaston moved to approve Resolution No. 2021-29 with the addition giving Chief James full authority of fire restriction from June 9, 202
   - Nay: Mark Hales
-- **The motion passed 4-to-1** · Land-Use/Zoning — 5. Consideration and Vote on Resolution No. 2021-30, Adopting a Water Regulation and Conservation Program for the City, Imposing Penalties f
+- **The motion passed 4-to-1** · Resolution — Jeff Gaston moved to table Resolution No. 2021-30
   - Nay: Mark Hales
 
 ## Files

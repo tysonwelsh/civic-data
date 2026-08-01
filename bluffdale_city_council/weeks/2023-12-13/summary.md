@@ -6,9 +6,9 @@ _Window 2023-12-07 – 2023-12-13_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-l** · Resolution — Council Member Hales moved to APPROVE Resolution 2023-30 - Audit Committee Organization. Council Member Aston seconded the motion
+- **The motion passed 4-to-l** · Resolution — Council Member Hales moved to APPROVE Resolution 2023-30 - Audit Committee Organization
   - Nay: Jeff Gaston
-- **The motion passed 4-to-l** · Resolution — Council Member KaUas moved to APPROVE Resolution 2023-31 - Budget Review Committee Organization. Council Member Aston seconded the motion
+- **The motion passed 4-to-l** · Resolution — Council Member KaUas moved to APPROVE Resolution 2023-31 - Budget Review Committee Organization
   - Nay: Jeff Gaston
 
 ## Files

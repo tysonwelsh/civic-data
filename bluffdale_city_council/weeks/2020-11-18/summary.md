@@ -6,7 +6,7 @@ _Window 2020-11-12 – 2020-11-18_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Land-Use/Zoning — 4. PUBLIC HEARING – Consideration and Vote on Ordinance Number 2020-27, a City-Initiated Text Amendment Regarding Business Licensing and Hom
+- **The motion passed 4-to-1** · Ordinance — Jeff Gaston moved to adopt Ordinance Number 2020-27, a City-initiated text amendment regarding business licensing and home occupations with 
   - Nay: Traci Crockett
 
 ## Files

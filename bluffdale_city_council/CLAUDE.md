@@ -85,12 +85,16 @@ normalize names — election names are UPPER-CASE with `(NP)` suffixes).
   co-actions; member records): `db/civic.db` — read `db/SCHEMA.md` first; start
   from views `v_referral_chain`, `v_project_timeline`, `v_member_record`,
   `v_contested`. The `referral` layer is reconstructed + scored and was
-  **precision-audited link-by-link on 2026-07-31**: 269 links → **62** (18 high /
-  41 med / 3 low), all verified against the source minutes. The untuned layer was
-  only **9.5% precise in its high tier** — 171 of 189 high links were
-  meeting-notice boilerplate joined on CITY HALL's own address (`2222 W 14400 S`),
-  an artifact of `motion_no=1` motion-text header bleed. Tuning lives in
-  `db/referral_overrides.csv` (365 evidence-cited `suppress` rows).
+  **precision-audited link-by-link twice**. The 2026-07-31 audit found it only
+  **9.5% precise in its high tier** and traced the cause upstream to the vote
+  extractor's motion-text window (`motion_no=1` rows carried the agenda-notice
+  preamble, so 171 of 189 high links were boilerplate joined on CITY HALL's own
+  address, `2222 W 14400 S`). **That window defect was FIXED 2026-08-01** and the
+  chain re-extracted + rebuilt: the UNTUNED layer is now **38 links, 37 of which
+  (97.4%) are correct**, and the 365-row suppression ledger has been retired in
+  favour of **2 evidence-cited rows** in `db/referral_overrides.csv` (1 wrong-round
+  `suppress`, 1 forced coverage `link`). Final: **38 links — 9 high / 28 med / 1
+  low**, Council←PC 36 + Council←RDA 2, 100% precise.
   **Read `db/CLAUDE.md` before quoting or re-tuning a chain.**
 - **Meeting-level / contextual**: the `weeks/<Monday-week>/` bundle (start with
   `summary.md`); `weeks/index.md` lists every week.

@@ -179,15 +179,69 @@ def outcome_of(res, disp=None):
         return "Pass" if disp == "deny" else "Fail"      # tally-less "Denied": deny motion carried
     return "Pass"
 def is_pc(name): return "planning" in (name or "").lower()
+_REC_STRONG_NEG_RE = re.compile(
+    # v2.3: STRONG denial phrasings — unambiguous direction of the motion itself
+    r"recommend\w*\s+(?:a\s+|of\s+|the\s+)?(?:decision\s+to\s+)?(?:denial|deny\b)"
+    r"|recommend\w*\s+to\s+(?:the\s+\w[\w ]*?council\s+to\s+)?(?:deny|reject)\b"
+    r"|denial\s+recommendation"
+    r"|\bfor\s+denial\b"
+    r"|^\s*(?:to\s+)?deny\b"
+    r"|\bmo(?:ve[ds]?|tion(?:ed)?)\s+(?:that\s+we\s+)?(?:to\s+)?deny\b"
+    r"|recommend\w*\s+against"
+    r"|unfavorable\s+recommendation", re.I)
+# WEAK negation — "not (be) approve(d)" also appears in condition carve-outs and
+# quoted discussion, so it fires only AFTER the positive checks (v2.3)
+_REC_WEAK_NEG_RE = re.compile(r"not\s+(?:be\s+)?approv", re.I)
+_REC_APPROVE_INITIAL_RE = re.compile(r"^\s*(?:to\s+)?approve\b", re.I)
+
+
 def recommendation_of(body, res, title):
+    """Direction of a PC recommendation motion — an INDEPENDENT keyword derivation
+    that serves as the validation oracle against _compose_dir(disposition, outcome).
+
+    v2 (2026-08-01, DEBT '56-row recommendation-oracle' adjudication):
+    - The RESULT string's explicit label ('Negative recommendation 8:1') is checked
+      FIRST and alone — it names what the body actually did and must not be
+      overridden by direction words in the agenda TITLE (the provo/slc class where
+      motion text is the APPLICANT's request wording).
+    - Denial phrasings tightened to _REC_NEG_RE: the old ("deny" in s) token never
+      matched 'denial'/'recommendation of denial' (the herriman/murray/south_jordan
+      Positive-on-a-denial class) while the loose ('deny' AND 'recommend') clause
+      false-fired on agenda titles mentioning a previously-denied application
+      (the logan/park_city flips).
+    - Callers gate the returned direction on the motion CARRYING (outcome=='Pass'):
+      a failed/died/continued rec motion produced NO recommendation — orem's own
+      minutes convention ('a 3:2/3:3 forward is no recommendation') generalized.
+    """
     if not is_pc(body): return None
-    s = ((res or "") + " " + (title or "")).lower()
-    # an explicitly NEUTRAL forward carries NO direction (orem's four-concurring-votes
-    # rule: a 3:2/3:3 forward is "no recommendation" per the minutes; T1.3 2026-07-12)
-    if "forwarded neutral" in s or "neutral recommendation" in s: return None
-    if "negative recommendation" in s or "recommend denial" in s or ("deny" in s and "recommend" in s):
-        return "Negative"
-    if "positive recommendation" in s or "recommend approval" in s or "forward" in s or "recommend" in s:
+    r = (res or "").lower()
+    t = (title or "").lower()
+    # v2.1 precedence (2026-08-01): an EXPLICIT direction in the MOTION TEXT rules
+    # first (the motion sentence names what was moved; orem/millcreek result labels
+    # were derived-wrong against their own motion text); the RESULT label rules
+    # where the motion text carries no explicit direction (the provo class, whose
+    # motion text is the applicant's request wording); bare tokens come last.
+    if "neutral recommendation" in t or "forwarded neutral" in t: return None
+    # dual-direction motions ("positive rec for X AND negative rec for Y" —
+    # park_city/slc): the clerk's RESULT label rules; skip the text path.
+    if not ("positive recommendation" in t and "negative recommendation" in t):
+        # v2.3 precedence: strong denial > approve-initial motion > explicit
+        # positive > weak negation ("not approved" also lives in condition
+        # carve-outs and quoted discussion — EC/herriman/st_george classes)
+        if _REC_STRONG_NEG_RE.search(t) or "negative recommendation" in t:
+            return "Negative"
+        if _REC_APPROVE_INITIAL_RE.search(t): return "Positive"
+        if ("positive recommendation" in t or "recommendation of approval" in t
+                or "recommend approval" in t): return "Positive"
+        # weak negation ranks BELOW the result label (v2.3.1): quoted-discussion
+        # "not approved" text must not beat an explicit 'Positive recommendation
+        # N:M' label (the st_george class) — it fires only in the final s-path
+    if "neutral recommendation" in r or "forwarded neutral" in r: return None
+    if "negative recommendation" in r: return "Negative"
+    if "positive recommendation" in r: return "Positive"
+    s = (r + " " + t)
+    if _REC_STRONG_NEG_RE.search(s) or _REC_WEAK_NEG_RE.search(s): return "Negative"
+    if "forward" in s or "recommend" in s:
         return "Positive"
     return None
 # --------------------------------------------------------- disposition (PROPOSED action)
@@ -283,6 +337,7 @@ def _compose_dir(disp, outcome):
 def stage_of(body, res, title):
     if is_pc(body):
         s = ((res or "") + " " + (title or "")).lower()
+        if "final action" in (res or "").lower(): return "pc_final_action"
         return "pc_recommendation" if "recommend" in s or "forward" in s else "pc_final_action"
     n = (body or "").lower()
     if "adjust" in n or "appeal" in n or n.strip() == "boa": return "boa_action"
@@ -590,7 +645,10 @@ def main(here):
                        VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
                     (mtg[(body, src)], bid[body], mno, title, m["motion_type"], m["result"],
                      outcome_of(m["result"], disp), stage_of(body, m["result"], title),
-                     recommendation_of(body, m["result"], title), disp, dmeth, dconf, app_id, method, conf,
+                     # a recommendation exists only if the rec motion CARRIED (v2 gate)
+                     (recommendation_of(body, m["result"], title)
+                      if outcome_of(m["result"], disp) == "Pass" else None),
+                     disp, dmeth, dconf, app_id, method, conf,
                      pers(m["mover"]), pers(m["seconder"]), 1 if mvotes else 0, src, m["provenance"]))
         mid[(src, mno)] = cur.lastrowid
     # ---- explicit vote-conflict resolution (REMEDIATION_PLAN 3.1; park_city pattern) --

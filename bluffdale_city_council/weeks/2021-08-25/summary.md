@@ -6,9 +6,9 @@ _Window 2021-08-19 – 2021-08-25_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4- to-1** · Land-Use/Zoning — 8. Mayor's Report. Mayor Timothy reported on the following: • He continued to have meetings outside of the City to talk about development re
+- **The motion passed 4- to-1** · Procedural/Administrative — Traci Crockett moved that the City Council move into a Closed Meeting pursuant to Utah Code §52-4-205(1) to discuss the character, professio
   - Nay: Jeff Gaston
-- **The motion passed 4-to-l** · Procedural/Administrative — 11. Adjournment. Approved: September 22, 202 1 18 BLUFFDALE CITY COUNCIL CLOSED MEETING MINUTES Wednesday, August 25, 2021 Present: Mayor De
+- **The motion passed 4-to-l** · Procedural/Administrative — Traci Crockett moved that the C ity Counc il move into a Closed Meeting pursuant to Utah Code §52-4-205(1) to discuss the character, profess
   - Nay: Jeff Gaston
 
 ## Files

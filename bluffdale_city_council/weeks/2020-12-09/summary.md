@@ -6,9 +6,9 @@ _Window 2020-12-03 – 2020-12-09_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Land-Use/Zoning — a BLUFFDALE - - ES T . 18 4 8 - - ***AMENDED*** BLUFFDALE CITY COUNCIL LOCAL BUILDING AUTHORITY OF THE CITY OF BLUFFDALE BOARD REDEVELOPMENT
+- **The motion passed 4-to-1** · Procedural/Administrative — Mark Hales moved to go into Closed Meeting to discuss strategies regarding real property acquisition and disposition
   - Nay: Jeff Gaston
-- **The motion passed 4-to- l** · Land-Use/Zoning — 4. Adjournment. The Redevelopment Agency Board adjourned at approximately 9:03 p.m. CONTINUATION OF BUSINESS MEETING 7. Mayor's Report. Mayo
+- **The motion passed 4-to- l** · Procedural/Administrative — Mark Hales moved to go into Closed Meeting to discuss strategies regarding real property acquisition and disposition
   - Nay: Jeff Gaston
 
 ## Files

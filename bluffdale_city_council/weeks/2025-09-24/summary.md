@@ -8,7 +8,7 @@ _Window 2025-09-18 – 2025-09-24_
 ## Contested votes (where members split)
 - **The motion failed 3-to- 2** · Appointment — Council Member Austin moved to AMEND Resolution 2025-82 — Appointing a Board Member to the Budget Review Committee to indicate that Adam Chr
   - Nay: Greg Wilding, Traci Crockett, Wendy Aston
-- **The motion passed 4-to-1** · Appointment — Council Member Crockett moved to TABLE Resolution 2025-82 — Appointing a Board Member to the Budget Review Committee. Council Member Wilding
+- **The motion passed 4-to-1** · Appointment — Council Member Crockett moved to TABLE Resolution 2025-82 — Appointing a Board Member to the Budget Review Committee
   - Nay: Alan Lord
 
 ## Files

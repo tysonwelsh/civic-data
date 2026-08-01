@@ -147,6 +147,38 @@ to a Tyler Minutes Management SPA) — a probe returning nothing there is expect
   the PC-ends-2022-11 gap are CLOSED as of 2026-07-16; the tally-only unnamed-voice-vote
   style and the two remaining minute-less 2025 PC dates still apply).
 
+## PC disposition/outcome — GROUND-TRUTHED 2026-08-01 (quotable)
+The **300 PC motions on the 59 PMN-promoted minutes (2023-01-05 → 2026-05-07)** landed
+*after* the repo-wide 2026-07-12 motion-classification audit, so their `disposition` /
+`outcome` were computed but never ground-truthed. They now are (stratified 64/300 sample
+censusing the NULL / non-`high` / Fail-Died / deny-table-continue / contested strata, plus
+exhaustive sweeps of the outcome layer 300/300, the `procedural` class 64/64 and the
+`approve` class 213/213).
+- **Outcome: 0 errors in 300 — PASS.** No carriage-word/tally conflict, no tie-stored-Pass,
+  no clock-time tally, no majority-first "failed N-M" misread.
+- **Disposition: 6 wrong values in 300 (2.0%)**, all corrected via the documented channel
+  **`db/disposition_overrides.csv`** (7 rows: 6 corrections + 1 audited confidence upgrade,
+  each with the source quotation in its `note`). Post-audit NULLs are down 13 → **8**, and
+  all 8 are documented honest NULLs: 6 Chair/Vice-Chair nominations (no slot in the 5-class
+  taxonomy, by design) + 2 parliamentary motions to amend/strike a pending ordinance.
+- **Two murray-local PC extractor defects found and REPORTED, not yet fixed** (they are text
+  -layer; their disposition impact is already corrected by the overrides above):
+  (a) `extract_votes.py` `FOOTER_RE` misses the newer `Planning Commission Meeting Minutes /
+  <date> / Page N of N` footer, so it bled into 1 motion's text (2026-04-02 #4) and the word
+  "Minutes" flipped it to `procedural`; (b) when the result sentence shares a physical line
+  with the motion's tail, `parse_meeting` breaks before appending it — **88 PC motion texts
+  corpus-wide (50 post-audit) carry a truncated tail**, which destroyed 2 dispositions
+  (2023-03-02 #1 "postpone", 2023-09-07 #1). Read long PC `motion_text` values with that in
+  mind until the re-extraction lands.
+- **One outcome-vocabulary quirk (shared classifier, upstream):** murray's clerk writes
+  "The motion failed for a second" for a died-for-lack-of-a-second motion, which stores as
+  `outcome='Fail'` while "Seeing no second, the motion failed" stores as `'Died'` — the same
+  event, two spellings (2 rows). Harmless to any `outcome='Pass'` composition; only a query
+  counting the `Died` class specifically undercounts murray by 2.
+- **Clerk tally errors are retained verbatim, as required:** 2025-06-05 #5 prints
+  "Motion passes: 6-0" over a roll call carrying one Nay (Pehrson) — true division 5-1.
+  Trust the named roll, not the summary line.
+
 ## Expansion datasets (`expand-city-sources`, additive, as-of 2026-07-13)
 Six source layers, each with its own `CLAUDE.md`/`AVAILABILITY.md`, all `validate_dataset.py`
 PASS; none modify the core layer. Join to `all_votes.csv`/minutes by `date` (+ `body`).

@@ -6,7 +6,7 @@ _Window 2023-05-18 – 2023-05-24_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Resolution — Council Member Crockett moved to APPROVE Resolution No. 2023-22 — Fireworks Restrictions. The motion was seconded by Council Member Aston
+- **The motion passed 4-to-1** · Resolution — Council Member Crockett moved to APPROVE Resolution No. 2023-22 — Fireworks Restrictions
   - Nay: Mark Hales
 
 ## Files

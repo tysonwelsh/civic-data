@@ -6,7 +6,7 @@ _Window 2020-02-06 – 2020-02-12_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 3-to-1** · Land-Use/Zoning — 5. CONTINUED FROM JANUARY 15, 2020 - Consideration and Vote on an Amendment to the City of Bluffdale General Plan, Specifically an Update to
+- **The motion passed 3-to-1** · Land-Use/Zoning — Dave Kallas moved to approve an amendment to the City of Bluffdale General Plan, specifically for an update to the City-wide transportation 
   - Nay: Mark Hales
 
 ## Files

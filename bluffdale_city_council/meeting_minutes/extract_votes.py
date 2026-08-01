@@ -54,6 +54,13 @@ PC_ROSTER = {
 }
 ROSTER = PC_ROSTER if DATASET == "pc" else COUNCIL_ROSTER
 
+# first name -> roster key, only where the first name is UNAMBIGUOUS on this roster.
+# Bluffdale minutes occasionally print a first name alone ("Wendy moved to adopt …").
+FIRST_NAME = {}
+for _k, (_full, _ismayor) in ROSTER.items():
+    FIRST_NAME.setdefault(_full.split()[0].lower(), []).append(_k)
+FIRST_NAME = {f: ks[0] for f, ks in FIRST_NAME.items() if len(ks) == 1}
+
 # OCR surname fixups -> canonical surname key
 OCR_SURNAME = {
     "kauas": "kallas", "kaus": "kallas", "auston": "austin",
@@ -81,6 +88,19 @@ def norm_surname(name):
     sur = toks[-1].lower()
     sur = OCR_SURNAME.get(sur, sur)
     return sur if sur in ROSTER else None
+
+
+def intro_key(phrase):
+    """A '<person> moved' name phrase -> roster key, else None (roster-gated: staff and
+    members of the public named in the narrative never open a motion-text window)."""
+    key = norm_surname(phrase)
+    if key:
+        return key
+    toks = [t.strip(".,") for t in re.split(r"\s+", phrase.strip())]
+    toks = [t for t in toks if t and t.lower() not in ROLE_WORDS and t.lower() not in SUFFIX]
+    if len(toks) == 1:                       # bare first name ("Wendy moved …")
+        return FIRST_NAME.get(toks[0].lower())
+    return None
 
 
 # --------------------------------------------------------------------------- cleaning
@@ -117,6 +137,41 @@ MOTION_INTRO = re.compile(
     r"(Council Member|Board Member|Trustee|Commissioner|Vice[- ]?Chair|Chair(?:man)?|"
     r"Acting Chair|Mayor(?:\s+Pro\s+Tem\w*)?)\s+([A-Z][A-Za-z'\.\-]+)\s+"
     r"(?:moved|made\s+a\s+motion)\b", re.I)
+
+# --- motion-text WINDOW grammar (2026-08-01 window fix) -----------------------
+# Bluffdale's dominant mover form prints a BARE FULL NAME with no role word
+# ("Dave Kallas moved to approve the consent agenda."), and role-prefixed forms
+# frequently carry the full name too ("Council Member Dave Kallas moved"), which
+# the one-token MOTION_INTRO above cannot match. When no intro matched, the text
+# window used to open at the previous result (or at byte 0 for motion_no=1),
+# so the stored `motion` was the agenda-notice preamble / an adjournment or
+# roll-call blob instead of the motion sentence. WINDOW_INTRO finds the operative
+# "<person> moved" for the window; it is roster-gated so staff and members of the
+# public named in the narrative never open a window.
+_ROLE_PREFIX = (r"(?:Council\s*Member|Councilmember|Board\s+Member|Trustee|Commissioner|"
+                r"Vice[- ]?Chair(?:man|person|woman)?|Chair(?:man|person|woman)?|"
+                r"Acting\s+Chair|Mayor(?:\s+Pro\s+Tem\w*)?)")
+_NAME_TOK = r"[A-Z][A-Za-z'\-]+"   # no '.' — a sentence-final word must not
+                                    # absorb into the mover name phrase
+WINDOW_INTRO = re.compile(
+    rf"\b((?:{_ROLE_PREFIX}\s+)?{_NAME_TOK}(?:\s+{_NAME_TOK}){{0,2}})\s+"
+    r"(?i:mo[vy]ed|made\s+an?\s+(?:\w+\s+){0,2}motion)\b")   # mo[vy]ed: OCR "moyed"
+# tier-2 anchor: the motion verb alone, for the handful of OCR-garbled mover names
+# ("Debbie C ragun moved …") that no roster-gated name phrase can resolve.
+MOVED_ANY = re.compile(r"\b(?:mo[vy]ed|made\s+an?\s+(?:\w+\s+){0,2}motion)\b", re.I)
+ROLE_IN_PHRASE = re.compile(_ROLE_PREFIX + r"\b", re.I)   # anchored with .match()
+# leading narrative words that can precede a BARE mover name and must not bleed into
+# the motion sentence ("… of the Planning Commission Stephen Walston moved to …").
+STOP_START = ROLE_WORDS | {"commission", "commissions", "commissioners", "trustees",
+                           "alternate", "planning", "motion", "second", "also", "then"}
+# "<Name> seconded ..." / "seconded by <Name>" — the motion sentence ends here.
+SECOND_CUT = re.compile(r"\b(?:[A-Z][A-Za-z'\-]+(?:\s+[A-Z][A-Za-z'\-]+){0,3}\s+)?(?i:seconded)\b")
+SECOND_LABEL = re.compile(r"\bSecond(?:ed)?\s*:")   # the "Motion: … Second: …" minute form
+SECOND_PASSIVE = re.compile(r"\bThe\s+motion\s+was\s+second(?:ed|s)\b", re.I)
+# fallback window when no mover phrase is printed at all: keep the tail of the
+# preceding prose rather than the whole document.
+FALLBACK_WINDOW = 400
+
 SECONDER = re.compile(
     r"seconded(?:\s+the\s+motion)?\s+by\s+(?:Council Member|Board Member|Trustee|"
     r"Commissioner|Vice[- ]?Chair|Chair(?:man)?|Mayor(?:\s+Pro\s+Tem\w*)?)?\s*"
@@ -153,7 +208,7 @@ def classify_motion(text):
         return "Resolution"
     if re.search(r"public hearing", t):
         return "Public Hearing Action"
-    if re.search(r"proclamation|recognition|recognize|honor|commend|ceremonial", t):
+    if re.search(r"proclamation|recognition|recognize|honor|\bcommend|ceremonial", t):
         return "Ceremonial"
     if re.search(r"recess|adjourn|convene|reconvene|closed|executive session|"
                  r"approve the (?:consent|agenda|minutes)|\btable\b|continue|postpone|"
@@ -201,16 +256,43 @@ def parse_meeting(raw):
         result_str = re.sub(r"\s+", " ", ("The motion " + rm.group(1) + tail)).strip()
         # motion span: from the last motion-intro before this result (after prev result)
         back = text[prev_end:rs]
-        intros = list(MOTION_INTRO.finditer(back))
+        intros = [m for m in WINDOW_INTRO.finditer(back) if intro_key(m.group(1))]
         mover = None
         mover_role = ""
         motion_start = prev_end
         if intros:
             last = intros[-1]
-            mover_key = norm_surname(last.group(0))
-            mover = ROSTER[mover_key][0] if mover_key else last.group(2)
-            mover_role = last.group(1).lower()
-            motion_start = prev_end + last.start()
+            mover = ROSTER[intro_key(last.group(1))][0]
+            rp = ROLE_IN_PHRASE.match(last.group(1))
+            mover_role = re.sub(r"\s+", " ", rp.group(0).lower()) if rp else ""
+            if mover_role == "councilmember":
+                mover_role = "council member"
+            off = 0
+            if not rp:      # bare name: drop leading narrative words ("Commission Walston")
+                toks = last.group(1).split()
+                while len(toks) > 2 or (toks and toks[0].strip(".,").lower() in STOP_START):
+                    if len(toks) <= 1:
+                        break
+                    off += len(toks[0]) + 1
+                    toks = toks[1:]
+            motion_start = prev_end + last.start() + off
+        else:
+            # no mover phrase printed — keep a BOUNDED tail of the preceding prose,
+            # snapped forward to a sentence boundary, never the whole document.
+            ws = max(prev_end, rs - FALLBACK_WINDOW)
+            mv = None
+            for m in MOVED_ANY.finditer(back):
+                mv = m
+            if mv is not None:                       # start of the sentence carrying "moved"
+                sent = prev_end + mv.start()
+                bnd = list(re.finditer(r"(?<=[.;:])\s+", text[max(prev_end, sent - FALLBACK_WINDOW):sent]))
+                ws = (max(prev_end, sent - FALLBACK_WINDOW) + bnd[-1].end()) if bnd \
+                    else max(prev_end, sent - FALLBACK_WINDOW)
+            elif ws > prev_end:
+                bm = re.search(r"(?<=[.;:])\s+", text[ws:rs])
+                if bm:
+                    ws += bm.end()
+            motion_start = ws
         motion_region = text[motion_start:rs]
         motion_region = BODY_MARK.sub(" ", motion_region)
         # seconder
@@ -220,9 +302,27 @@ def parse_meeting(raw):
             sk = norm_surname(sm.group(0))
             seconder = ROSTER[sk][0] if sk else sm.group(1)
         # motion text = intro .. up to Vote on Motion / seconder
+        # motion text ends at the FIRST of: the roll-call clause, "seconded by <name>",
+        # or "<Name> seconded" (Bluffdale's dominant second form, which SECONDER's
+        # "seconded by" grammar does not see).
         mtext = motion_region
+        cuts = []
         vc = VOTE_CLAUSE.search(mtext)
-        cut = vc.start() if vc else (sm.start() if sm else len(mtext))
+        if vc:
+            cuts.append(vc.start())
+        if sm:
+            cuts.append(sm.start())
+        sc = SECOND_CUT.search(mtext)
+        if sc:
+            cuts.append(sc.start())
+        sl = SECOND_LABEL.search(mtext)
+        if sl:
+            cuts.append(sl.start())
+        sp_ = SECOND_PASSIVE.search(mtext)
+        if sp_:
+            cuts.append(sp_.start())
+        cuts = [c for c in cuts if c >= 20]
+        cut = min(cuts) if cuts else len(mtext)
         motion_text = re.sub(r"\s+", " ", mtext[:cut]).strip(" .;,")
 
         buckets = {"aye": [], "nay": [], "abstain": [], "absent": [], "recuse": []}

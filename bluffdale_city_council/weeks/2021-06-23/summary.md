@@ -6,11 +6,11 @@ _Window 2021-06-17 – 2021-06-23_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 3-to-2** · Land-Use/Zoning — There was discussion regarding 1.50.060. An alternative motion was suggested. Mayor Timothy explained that because it is a resolution , staf
+- **The motion passed 3-to-2** · Resolution — Dave Kallas moved to approve Resolution No. 2021-37
   - Nay: Wendy Aston, Jeff Gaston
-- **The motion passed unanimously 4** · Land-Use/Zoning — LOCAL BUILDING AUTHORITY OF THE CITY OF BLUFFDALE BOARD MEETING Mayor Timothy called the LBA Meeting to order at 8:22 p.m. 1. Roll Call. 13 
+- **The motion passed unanimously 4** · Resolution — Derk Timothy moved to approve Resolution No. 2021-04
   - Nay: Wendy Aston, Jeff Gaston
-- **The motion passed unanimously** · Land-Use/Zoning — Adjournment. The LBA meeting adjourned at 8:27 p.m. 14 BLUFFDALE CITY COUNCIL, LOCAL BUILDING AUTHORITY OF THE CITY OF BLUFFDALE BOARD REDEV
+- **The motion passed unanimously** · Budget — Wendy Aston moved to approve Resolution No. 2021-03, adopting a Final Budget for the 2020-2021 Fiscal Year Budget
   - Nay: Wendy Aston, Jeff Gaston
 
 ## Files

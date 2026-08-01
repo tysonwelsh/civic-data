@@ -6,9 +6,9 @@ _Window 2021-01-21 – 2021-01-27_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 3-to-2** · Other — Mark Hales moved to move item 7 before item 5. Traci Crockett seconded the motion
+- **The motion passed 3-to-2** · Other — Mark Hales moved to move item 7 before item 5
   - Nay: Wendy Aston, Jeff Gaston
-- **The motion passed 4-to-1** · Land-Use/Zoning — 5. PUBLIC HE ARING - Consideration and Vote on Ordinance Number 2021-01, a Proposed Zoning Text Amendment Application to Enact BCC 11.80.060
+- **The motion passed 4-to-1** · Land-Use/Zoning — Wendy Aston moved to deny Ordinance Number 2021-01, a proposed Zoning Text Amendment Application to enact BCC 11.80.060 for an R-SL Resident
   - Nay: Mark Hales
 - **The motion passed 3-to-2** · Land-Use/Zoning — Wendy Aston moved to table indefinitely agenda item number six, consideration and vote on Ordinance Number 2021-02, a proposed Zoning Map Am
   - Nay: Jeff Gaston, Traci Crockett

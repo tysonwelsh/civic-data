@@ -6,7 +6,7 @@ _Window 2021-07-22 – 2021-07-28_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed unanimously with one abstention** · Land-Use/Zoning — 7. Consideration and Vote on Resolution No. 2021-43 Notice of Pending Ordinance to Amend the Residential Yard Sign Section of City Code, Sta
+- **The motion passed unanimously with one abstention** · Ordinance — Mark Hales moved to approve Resolution 2021 -43, Notice of Pending Ordinance to Amend the Residential Yard Sign Section of City Code and spe
   - Abstain: Wendy Aston
 
 ## Files

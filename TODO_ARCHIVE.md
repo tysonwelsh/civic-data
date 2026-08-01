@@ -5283,3 +5283,13 @@ transcript (journal wf_1fe6e521-df4) and commit history. Verdicts:
   alta-only, verified); holladay Layton closed as satisfied-by-G2-caveat.
 Closing federation 2026-08-01T00:28:03: 44/44 auto-gate, integrity ok, reconciliation
 exact; check_doc_numbers 13/13 after reconciliation; marquee 5/5; election_race 680→688.
+
+## ARCHIVE ANCHOR 2026-08-01-FINALE — the last three [DEBT] closures
+
+Full records: the debt-finale wave journal (wf_d22ecc3e-0de), murray's dated audit report,
+bluffdale's db/CLAUDE.md, and the commit history. Headlines: recommendation oracle 56→1
+(the survivor is a genuine dual-direction motion, caveat-carried); bluffdale's window
+defect was 4× the filing and its referral layer is now census-verified at 100% precision
+(38 links); murray's ~300 unaudited dispositions are audited with 7 corrections. Five
+classifier iterations were each regression-tested before rebuild; every rebuild proved its
+vote layer untouched at the (source_file, date, body, motion_no, member, vote) key.

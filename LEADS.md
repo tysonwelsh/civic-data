@@ -90,6 +90,15 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   (portal slot serves the wrong file, verified live), WVC PC 2024-07-10 + 2025-04-16, magna
   PC ×4 (approved but never posted; audio exists), summit ESPC 2022-08-04 (PMN body 1503),
   herriman 2021-03-12. Recovery channels: next-refresh re-probes, PMN, GRAMA drafts.
+- **2026-08-01 (murray audit residuals):** PC extractor classes — the footer-RE misses the
+  'Planning Commission Meeting Minutes /' header variant (B1) and the motion tail drops
+  when the result sentence shares its physical line (B2); both classes' disposition impact
+  is already corrected via overrides, so these are extractor polish, not open debt. Plus a
+  vocabulary nuance: murray's 'The motion failed for a second' stores outcome='Fail' not
+  'Died' (impact nil for carriage tests; a Died-class census undercounts murray by 2).
+- **2026-08-01 (bluffdale residuals):** 9 motions still anchor-less (genuine OCR garble +
+  one 'NOMINATED' verb-less motion — honest); referral RECALL now partially addressed by
+  the census (precision 100%) but un-linked true referrals were not exhaustively hunted.
 - **2026-08-01: lehi referral census** — bluffdale's ground-truth pass found its high-tier
   referral precision far below quotable (269→62 links); the failure mode (singleton-heavy
   apps + city-hall address in boilerplate) is generic, and lehi holds the LARGEST referral

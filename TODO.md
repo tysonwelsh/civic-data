@@ -125,36 +125,33 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
   LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.
 
-## [DEBT] — correctness queue (wrong or missing values; evidence-cited)
+## [DEBT] — correctness queue
 
-- [ ] **Legacy `recommendation` contradicts disposition∘outcome on 56 PC rows** (25 entities;
-  was ~68 pre-G8b). Analysis 2026-08-01: `recommendation_of()` is an INDEPENDENT keyword
-  derivation serving as a validation oracle vs `_compose_dir(disposition,outcome)` — the 56
-  are the oracle firing. Visible classifier gap: negation phrasings ("recommend that X not
-  be approved") fall through to the bare-"recommend" → Positive default (the
-  herriman/murray/SJ deny-pattern cluster); the Positive+approve+Fail pattern (24 rows) is
-  the matcher reading direction words on a motion that FAILED. Fix = refine
-  `recommendation_of()` in db_build_lib (+ 6 fork ports) + per-row source adjudication of
-  the remainder; touches ~20 entities + re-federation.
-- [x] **[NEW 2026-08-01] 2021 RCV mislabel class — ✅ DONE 2026-08-01 (solo).** All 9 rows
-  relabeled `voting_method='RCV'` with sourced notes + `total_first_choice_votes` populated
-  (CH Mayor/D3/D4, magna D2, slc D1/D2/D3/D5/D7 — verified against the official report;
-  magna D4 absent from the report's 21 contests, left plurality). CH's false "did not join
-  the pilot" doc assertion corrected with the 4-round Mayor tabulation (Weichers R1 3,616 →
-  4,619 final vs Kraan 4,117; the R1-vs-SOVC-first-choice delta = late/cured ballots, both
-  official, both retained city-faithfully). Re-federated; 9 RCV rows verified in
-  election_race; gates 13/13.
-- [ ] **[NEW 2026-08-01] bluffdale motion-text window captures the agenda-notice preamble
-  instead of the motion sentence on 94 motions** (52 council + 42 PC; motion_no=1 class) +
-  ~43 in-session RDA/LBA motions windowed onto adjournment/roll-call blobs — the root cause
-  of 313 of the 365 referral-override suppressions (bluffdale wave agent, 2026-08-01;
-  flagged-not-fixed per the layer rule). Fixing the extractor window would let most of the
-  override ledger be deleted; until then the ledger is LOAD-BEARING and re-extraction
-  renumbering will fail its app_keys loudly (regenerate the ledger, protect the Jordan
-  Crossing pair — see bluffdale db/CLAUDE.md). Bluffdale referral RECALL is unmeasured
-  (the 2026-08-01 pass removed false links only).
-- [ ] **~300 murray PC motions postdate the disposition ground-truth audit** — dispositions
-  computed but unaudited; fold into the next /audit-city-data pass. (Triage L2153.)
+**EMPTY as of 2026-08-01** — every evidence-cited correctness item is closed. New entries
+require a primary-source citation (see the rules above). The last three closures:
+
+- [x] **Recommendation-oracle adjudication — ✅ DONE 2026-08-01.** 56 contradictions → **1
+  documented source ambiguity** (the slc 2025-05-28 dual-direction motion, now
+  caveat-carried as `dual-direction-recommendation`). Four regression-tested classifier
+  iterations in db_build_lib + the 5 forks (denial-phrasing coverage incl. the MSD trailing
+  "for denial" form; result-label vs motion-text precedence; dual-direction guard;
+  weak-negation demoted below the result label; "(Final Action)" res now stages
+  pc_final_action) + 6 evidence-cited disposition overrides for the item-text class
+  (lehi 1, provo 3, white_city 1, magna 1). All 31 cities rebuilt; unit suite 14/14.
+- [x] **bluffdale motion-text window — ✅ DONE 2026-08-01 (wave agent).** The defect was 4×
+  the filing: 376 of 971 council motions had NO mover anchor (roster-gated window rewrite;
+  9 genuine OCR-garble residuals remain, honest). Motion text rewritten on 948 council +
+  292 PC motions with the vote layer PROVEN untouched (key-set identity, 0 value changes);
+  person 56→29 (verb-contaminated surname movers healed); referral layer re-derived
+  **269→38 links at census-adjudicated 100% precision** (every link individually verified;
+  ledger 365→2 evidence-cited rows; Jordan Crossing links naturally; a second genuine
+  Council↔RDA co-action surfaced).
+- [x] **murray PC disposition audit — ✅ DONE 2026-08-01 (wave agent).** The ~300 post-audit
+  PC motions ground-truthed; 7 wrong dispositions corrected via evidence-cited
+  disposition_overrides.csv (vote layer proven untouched; 26 PASS / 0 FAIL); report:
+  `murray_city_council/_audits/2026-08-01-pc-disposition-groundtruth/`. Extractor-class
+  observations (footer-RE, tail-drop, the 'failed for a second' vocabulary nuance) filed
+  in LEADS.md.
 
 ## [GATED] — owner decisions (do not start unprompted)
 
@@ -178,5 +175,6 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
 | date | what | record |
 |---|---|---|
 | 2026-07-31 | Restructure: TODO 3,786→this file; options/watches/tails → LEADS.md; gotchas → GOTCHAS.md; HANDOFF → single banner; NEXT_SESSION_PLAN retired; 62 stale-already-done items closed + 25 non-items dropped per verified triage | `TODO_ARCHIVE.md` anchor 2026-07-31; `_audits/2026-07-31-publication-review/` |
+| 2026-08-01 | DEBT queue EMPTIED: recommendation-oracle 56→1-documented (classifier v2.3.1 + 6 overrides + slc caveat); bluffdale window rewrite (376-motion anchor defect, referrals 269→38 @ 100% census precision, ledger 365→2); murray PC audited (7 overrides) | `TODO_ARCHIVE.md` anchor 2026-08-01-FINALE |
 | 2026-08-01 | DEBT-clearance wave: 12 of 14 items closed (10 Opus agents + solo; 5 premise-failures, 2 collateral recoveries, bluffdale referrals 269→62); 2 NEW evidence-cited items filed (2021 RCV mislabel class; bluffdale motion-window) | `TODO_ARCHIVE.md` anchor 2026-08-01 |
 | 2026-07-31 | holladay Layton [DEBT] closed — the requested `person-ambiguity` caveat row shipped with the G2 back-fill (verified live in gov.db) | caveat: holladay/planning_commission/person-ambiguity |

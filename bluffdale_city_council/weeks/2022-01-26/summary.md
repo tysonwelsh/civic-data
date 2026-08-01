@@ -6,7 +6,7 @@ _Window 2022-01-20 – 2022-01-26_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Resolution — Council Member Hales moved to approve Resolution No. 2022-05. Council Member Kallas seconded the motion. Mayor Hall called for discussion on
+- **The motion passed 4-to-1** · Resolution — Mark Hales moved to approve Resolution No. 2022-05, adopting a Code of Conduct and Parliamentary Procedure Policy, with the amendment to all
   - Nay: Jeff Gaston
 
 ## Files

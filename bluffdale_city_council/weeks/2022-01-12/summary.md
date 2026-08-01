@@ -6,11 +6,11 @@ _Window 2022-01-06 – 2022-01-12_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-l** · Land-Use/Zoning — Council Member Kallas moved to approve Resolution 2022-02. Council Member Crockett seconded the motion. The motion was not voted on. There w
+- **The motion passed 4-to-l** · Land-Use/Zoning — Dave Kallas moved to approve Resolution No. 2022-02, a General Plan Land Use Map Amendment Application for 5.59 acres, located at approximat
   - Nay: Wendy Aston
-- **The motion passed 4-to-1** · Land-Use/Zoning — 8.8 Ordinance No. 2022-03 (Tabled from December 8, 2021) Zoning Map Amendment Application for 5.59 Acres, Located at Approximately 13855 and
+- **The motion passed 4-to-1** · Land-Use/Zoning — Mark Hales moved to approve Ordinance No. 2022-03, a Zoning Map Amendment Application for 5.59 acres, located at approximately 13855 and 139
   - Nay: Wendy Aston
-- **The motion passed 4-to- 1** · Land-Use/Zoning — 8.9 Resolution No. 2022-07, (Tabled from December 8, 2021) a Proposed Development Agreement to Modify Various Requirements in the GC-1 Gener
+- **The motion passed 4-to- 1** · Land-Use/Zoning — Mark Hales moved to approve Resolution No. 2022-07, a Proposed Development Agreement to modify various requirements in the GC-1 General Zone
   - Nay: Wendy Aston
 
 ## Files

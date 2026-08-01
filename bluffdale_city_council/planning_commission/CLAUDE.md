@@ -40,6 +40,17 @@ verbatim in `result`; normalized categories live in `motions_std.csv` (308 rows)
 **CARDINAL RULE — never fabricate**: a tally-only unanimous majority stays
 unnamed.
 
+## The motion-text WINDOW was fixed 2026-08-01
+Same one-file extractor as `meeting_minutes/` — see that folder's CLAUDE.md for the
+full account. In short: the back-walk to `<person> moved …` did not recognise bare
+full-name movers, so **`motion_no=1` rows stored the meeting's agenda-notice
+preamble** instead of the motion (42 PC motions) and other rows opened on preceding
+narrative. Re-extracted 2026-08-01: **292 of 308 PC motion texts** are now the actual
+motion sentence, `mover` is a canonical roster name, and 85 `motion_type` values were
+reclassified off the corrected text. The VOTE layer is unchanged — `all_votes.csv` is
+identical on `(source,date,body,motion_no,member,vote)` and on `result`, and
+`votes/_validation_report.txt` is byte-identical to the pre-fix build.
+
 ## The ONE known OCR-garbled tally — surfaced honestly, NOT patched
 **2025-10-15 motion 4** (R-SL Senior Living text-amendment recommendation): the
 OCR mangled the printed result to `"The motion passed 4- 28 ~—to-1"`, while the

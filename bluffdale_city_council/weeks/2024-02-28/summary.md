@@ -6,9 +6,9 @@ _Window 2024-02-22 – 2024-02-28_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion failed 3-to-2** · Procedural/Administrative — Council Member Lord moved to TABLE the matter to the next meeting. Council Member Austin seconded the motion
+- **The motion failed 3-to-2** · Procedural/Administrative — Council Member Lord moved to TABLE the matter to the next meeting
   - Nay: Wendy Aston, Greg Wilding, Traci Crockett
-- **The motion passed 3-to-2** · Ordinance — 11 BLUFFDALE CITY COUNCIL, LOCAL BUILDING AUTHORITY, AND REDEVELPMENT AGENCY BOARD MEETING MINUTES Wednesday, February 28, 2024 Council Memb
+- **The motion passed 3-to-2** · Ordinance — Council Member Aston made an alternative motion and moved to APPROVE Ordinance 2024-2 with the modification to change Code Section 1.70.020(
   - Nay: Steve Austin, Alan Lord
 
 ## Files

@@ -76,6 +76,28 @@ Two vote shapes, both handled:
   Council` / `passed unanimously` with no per-member block → **one placeholder
   row, EMPTY member list, `names_recorded:false`** (458 motions).
 
+### The motion-text WINDOW (fixed 2026-08-01 — read this before quoting `motion`)
+The extractor is result-anchored: it finds `The motion passed/failed …`, then walks
+BACK to the operative `<person> moved …` and stores that verbatim span as `motion`.
+Until 2026-08-01 the back-walk only recognised a mover printed with a role word AND
+a one-token name (`Council Member Kallas moved`) — but Bluffdale's dominant form is
+a **bare full name** (`Dave Kallas moved to approve the consent agenda.`). **376 of
+971 council motions matched nothing**, so the window opened at the previous result —
+and at **byte 0 for `motion_no=1`**, storing the meeting's agenda-notice preamble
+instead of the motion. The in-session RDA/LBA "procedural blob" motions had the same
+single cause. `WINDOW_INTRO` now makes the role prefix optional, allows 1–3 name
+tokens, is **roster-gated** (staff/public names never open a window), and handles a
+lone unambiguous first name, the OCR verb `mo[vy]ed`, and `made a/an <adj> motion`;
+a verb-only tier-2 anchor plus a bounded 400-char sentence-snapped fallback cover the
+~34 OCR-garbled movers. The window now ENDS at the first of the roll-call clause,
+`seconded by <name>`, `<Name> seconded`, `The motion was seconded`, or `Second:`.
+**This changed only WHICH verbatim span is stored** — `all_votes.csv` is identical on
+`(source,date,body,motion_no,member,vote)` and on `result`, and both
+`votes/_validation_report.txt` files are byte-identical to the pre-fix build. `mover`
+is now a canonical roster full name (it used to be the bare regex surname, OCR
+variants and all); `motion_type` was reclassified for 214 council / 85 PC motions
+because it is derived from the motion text.
+
 **CARDINAL RULE — never fabricate / no Present-fill.** On a tally-only unanimous
 motion the assenting majority is honestly **unnamed**; the extractor leaves the
 ayes blank rather than filling them from an attendance header. `result` and the

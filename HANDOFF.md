@@ -78,7 +78,16 @@ the 56-row recommendation-oracle adjudication, the NEW 2021 RCV mislabel class (
 incl. misleading first-choice margins on a 4-round mayor race — magna×1, slc×5), the NEW
 bluffdale motion-text-window item, and the murray-PC audit routine.
 
-**REMAINING = G9 (owner's move) + 4 [DEBT] + 6 [GATED]:** declare against SHIP_GATE.md, cut the GitHub
+**2026-08-01 (later): THE [DEBT] QUEUE IS EMPTY.** The last three items closed (owner-
+approved 2-agent pair + coordinator): recommendation-oracle 56→1-documented (classifier
+v2.3.1 in db_build_lib + 5 forks, 4 regression-tested iterations; 6 disposition overrides;
+the slc dual-direction survivor caveat-carried); bluffdale motion-window rewrite (the
+defect was 4× the filing — 376 anchor-less motions; vote layer proven untouched; referrals
+269→38 at census-adjudicated 100% precision; override ledger 365→2); murray PC audited
+(7 corrections; dated report in murray _audits/). Closing federation 01:08:48: 44/44,
+caveat 92, all gates green.
+
+**REMAINING = G9 (owner's move) + 6 [GATED]:** declare against SHIP_GATE.md, cut the GitHub
 release (gzip gov.db → ~400 MiB asset + sha256), mint the Zenodo DOI, flip the repo
 public, link from municipalsky.com. Also owner residue: rotate the ANTHROPIC_API_KEY;
 enable secret scanning at public-flip. Run `check_doc_numbers.py` + the federation gate

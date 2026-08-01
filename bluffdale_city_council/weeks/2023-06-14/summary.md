@@ -10,7 +10,7 @@ _Window 2023-06-08 – 2023-06-14_
   - Nay: Jeff Gaston
 - **The motion passed unanimously with one abstention** · Budget — Council Member Aston moved to APPROVE Resolution 2023-29 - Adopting a Tentative Operating budget for the Fire and Police Protection Fund 202
   - Abstain: Jeff Gaston
-- **The motion passed 4-to-l** · Budget — Council Member Hales moved to APPROVE RDA Resolution No. 2023-03 - Adopting a Final Operating Budget for the 2023-2024 Fiscal Year Budget. T
+- **The motion passed 4-to-l** · Budget — Council Member Hales moved to APPROVE RDA Resolution No. 2023-03 - Adopting a Final Operating Budget for the 2023-2024 Fiscal Year Budget
   - Nay: Jeff Gaston
 
 ## Files

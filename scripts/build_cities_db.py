@@ -914,6 +914,14 @@ CAVEATS = [
      "Kearns 2023 (EasyVote auth-gated) and 2025 city-era (Cloudflare-blocked; "
      "filings proven to exist) CF cycles are acquisition-blocked — kearns money "
      "totals cover the acquired cycles only."),
+    ("slc", "planning_commission", "dual-direction-recommendation",
+     "One 2025-05-28 PC motion recommends APPROVAL for one right-of-way segment "
+     "and DENIAL for another in a single motion; the stored recommendation "
+     "('Negative') follows the clerk's own result label ('Negative recommendation "
+     "7:2') while disposition reads the motion's leading approve verb — the one "
+     "adjudicated, documented disagreement left by the 2026-08-01 "
+     "recommendation-oracle pass (56 contradictions -> this 1). Dual-direction "
+     "motions carry both directions verbatim in motion_text; read it."),
     # --- datasets that exist outside cities.db but shape cross-city claims
     ("*", "public_comments", "comments-two-cities",
      "Public comments are substantive in only 2 of 31 cities: SLC (13,334) and Park "

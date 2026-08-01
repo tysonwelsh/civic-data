@@ -6,7 +6,7 @@ _Window 2020-10-22 – 2020-10-28_
 - **Public comments:** 0
 
 ## Contested votes (where members split)
-- **The motion passed 4-to-1** · Land-Use/Zoning — The City Council was in recess from 9:01 p.m. to 9:09 p.m. 8. Consideration and Vote on Resolution No. 2020-54, Providing Notice of a Pendin
+- **The motion passed 4-to-1** · Land-Use/Zoning — Dave Kallas moved to approve Resolution No. 2020-54, providing notice of a pending ordinance to amend City requirements for commercial site,
   - Nay: Mark Hales
 
 ## Files

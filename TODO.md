@@ -125,6 +125,23 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
   LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.
 
+## COUNTY DATA ACQUISITION — active work package (owner-authorized 2026-08-01)
+
+Spec + technical pointers: HANDOFF.md. Owner-authorized in response to live query tests
+(the "largest county-race donor" question was unanswerable twice over).
+
+- [ ] **A. SLCo county-office election results** — acquire the even-year canvasses (Clerk
+  archive), land canonically at `salt_lake_county/elections/`, federate
+  (`election_type='general'/'primary'`), and promote SLCo county-office winners into the
+  audited `election_race` layer. Follow-on lead: election_race promotion for the other
+  counties' existing county-office tallies. Rider: verify washington's claimed-2018
+  elections floor at source.
+- [ ] **B. County-candidate campaign finance, 7 counties** (salt_lake, utah, weber, cache,
+  summit, washington, juab; wasatch = owner question) — per-county `campaign_finance/`
+  datasets per the city conventions; recon county-clerk + disclosures.utah.gov channels
+  first; extend the cf federation loader for county entities if city-scoped (backup +
+  byte-identity proof for city rows).
+
 ## [DEBT] — correctness queue
 
 **EMPTY as of 2026-08-01** — every evidence-cited correctness item is closed. New entries

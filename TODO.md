@@ -147,8 +147,6 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   invisible); murray 2021 Mayor+D4 primary discrepancy flags unresolved. (L2420/2540/3770/2881.)
 - [ ] **logan docs claim "North Logan RCV" — confirmed false** (county canvass proves plurality;
   logan election_results/CLAUDE.md:11,183 + recon.md:235). One edit. (Triage L1300.)
-- [ ] **holladay bare-surname 'Layton' person** (62 votes 2020-01..2022-09) is ambiguous between
-  the TWO real Laytons (Howard, Chris) — needs a caveat row, NOT a merge. (Triage 3496-3786.)
 - [ ] **wfrc_mpo: 4 appositive motions never extracted** (2017-03-23 Dolan budget-hearing;
   2023-08-24 Caldwell/Silvestrini ×2 + 1 more) — no-mover grammar. Low. (Triage L215.)
 - [ ] **washington_county OCR garbling** — spaced-caps headings + fi/fl ligature loss ('ofce')
@@ -190,3 +188,4 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
 | date | what | record |
 |---|---|---|
 | 2026-07-31 | Restructure: TODO 3,786→this file; options/watches/tails → LEADS.md; gotchas → GOTCHAS.md; HANDOFF → single banner; NEXT_SESSION_PLAN retired; 62 stale-already-done items closed + 25 non-items dropped per verified triage | `TODO_ARCHIVE.md` anchor 2026-07-31; `_audits/2026-07-31-publication-review/` |
+| 2026-07-31 | holladay Layton [DEBT] closed — the requested `person-ambiguity` caveat row shipped with the G2 back-fill (verified live in gov.db) | caveat: holladay/planning_commission/person-ambiguity |

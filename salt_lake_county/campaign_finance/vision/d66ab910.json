@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$889.68",
+ "total_expenditures": "$5,016.82",
+ "beginning_balance": "$111,540.74",
+ "ending_balance": "$107,413.60",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$112,430.42"
+ },
+ "cover": {
+  "candidate": "Aimee Winder Newton",
+  "party": "Republican",
+  "office_sought": "_Council - District",
+  "district_number": "3",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/17/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Winder-Newton-Aimee__E8ABCF06.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Winder Newton, Aimee",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Winder-Newton-Aimee__E8ABCF06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "This filer's only 2020-template filing (the other four use the 2022 title). Year-end report; its opening balance continues the Nov-1 filing's close. Across this filer's five 2022-cycle reports the balance chain is internally continuous (April close 220,599.86 -> June open; June close 146,440.86 -> Sept open; Sept close 127,316.75 -> Nov open; Nov close 111,540.74 -> year-end open)."
+ }
+}

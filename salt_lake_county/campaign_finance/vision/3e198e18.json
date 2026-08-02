@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,808.62",
+ "total_expenditures": "$3,844.12",
+ "beginning_balance": "$0",
+ "ending_balance": "$1,964.50",
+ "aggregate": {
+  "total_contributions_to_date": "$5,808.62",
+  "total_expenditures_to_date": "$3,844.12",
+  "line5_subtotal": "$5,808.62"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04/04/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/NelsonS_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/NelsonS_2014_April.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPED form on the older blank (its interim label reads 'April 5', not the 2014 blank's 'April 7'). The type-of-report selection is a typed 'X' beside April 5 rather than a tick in the checkbox; neither amendment box is marked. Signature date handwritten 4/4/14, Summary Page header 'Nelson / 04/04/2014', clerk-stamped APR 04 2014. Line 3 is typed '$0' with no cents - recorded verbatim. Column A arithmetic checks out (0 + 5,808.62 = 5,808.62; minus 3,844.12 = 1,964.50). NOTE: an amendment to this filing exists (key 94ce5fe8) whose Schedule A/B totals are $5,870.62 and $3,906.12, i.e. this April report was later revised upward by $62.00 in contributions and $62.00 in expenditures."
+ }
+}

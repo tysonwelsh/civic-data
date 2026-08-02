@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "ddbb7c5b",
+ "source_filing": "raw/y2026/2026_ugd_92078f_916755f7.pdf",
+ "document_id": "2026_ugd_92078f_916755f7",
+ "page_start": 1,
+ "page_end": 5,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:00:04Z",
+ "read_method": "text (born-digital Polimorphic e-filing sidecar; no vision needed)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Jon Beesley",
+ "office_stated": "Weber county commissioners seat b",
+ "report_type_stated": "7 days before candidates' convention (Republican Party)",
+ "filing_date_stated": "2026-04-03",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "0",
+   "this": "1120",
+   "cum": "1120"
+  },
+  "expenditures": {
+   "last": "0",
+   "this": "867.92",
+   "cum": "867.92"
+  },
+  "ending_balance": {
+   "last": "0",
+   "this": "252.08",
+   "cum": "252.08"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "BORN-DIGITAL Polimorphic e-filing; totals parsed from the text sidecar. Carries 7 itemized contributions (200+200+200+200+100+20+200 = 1120, reconciles exactly) and 2 itemized expenditures (811.61+56.31 = 867.92, reconciles exactly) - not loaded in this totals-only tranche."
+}

@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "aae9420ebff3da9d2446625bca4e9f5df462d4d855461ad610d73cf06768c635",
+ "canonical_path": "raw/2014/2014_cc_Daines_Dec_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Daines_Dec_2014_campaign_finance.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Christopher Lyle Daines",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Attorney",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "N/A or Cache",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Independent American Party",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "North Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger, Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "11/17/14",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 17 NOV 2014 PM 01:17",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "6,550.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "-400.43",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "6,149.57",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "180.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "180.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "6,309.26",
+     "c": "high"
+    },
+    "this": {
+     "v": "20.31",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "6,329.57",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "420.74",
+     "c": "high"
+    },
+    "this": {
+     "v": "420.74",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0.00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Attorney",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Attorney'; 'Political Party' reads 'Independent American Party'",
+  "confidence": "high"
+ },
+ "notes": "Line 1 THIS-REPORT is a NEGATIVE contribution figure (-400.43), as written. Cents are superscript throughout."
+}

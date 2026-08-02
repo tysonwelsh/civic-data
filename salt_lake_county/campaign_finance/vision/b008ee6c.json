@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,505.02",
+ "total_expenditures": "902,40",
+ "beginning_balance": "2,255.08",
+ "ending_balance": "2,857.70",
+ "aggregate": {
+  "total_contributions_to_date": "8,813.80",
+  "total_expenditures_to_date": "5,956.10",
+  "line5_subtotal": "3,760.10"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "09.15.08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_september152008.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_september152008.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL September report (its amendment is key 832c79a9, which restates lines 1, 5 and 7 upward by 1.65 and blanks Column B line 2). Neither amendment box is checked here. Page box reads 'Page 2 of 4', date of report '09.15.2008'. Line 2 is written with a DECIMAL COMMA ('902,40'), recorded exactly as written; line 6 repeats the same figure the same way. Both Column B figures chain off the AMENDED June report (7,308.78 + 1,505.02 = 8,813.80; 5,053.70 + 902.40 = 5,956.10), not the original June figures."
+ }
+}

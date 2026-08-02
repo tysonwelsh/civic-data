@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "50.00",
+ "total_expenditures": "500.00",
+ "beginning_balance": "3522.36",
+ "ending_balance": "3072.36",
+ "aggregate": {
+  "total_contributions_to_date": "13,263.99",
+  "total_expenditures_to_date": "12,763.99",
+  "line5_subtotal": "3572.36"
+ },
+ "cover": {
+  "candidate": "Dea Theodore",
+  "party": "R",
+  "office_sought": "Council 6",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Theodore-Dea__A48BF68B.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Theodore, Dea",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Theodore-Dea__A48BF68B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. Cents written in the superscript-over-line style ('50.oo', '500.oo'). NEITHER amendment box is checked. Cover 'Office' box reads 'County Council District 6'; 'Office Sought' reads 'Council 6'. Clerk stamp 'RECEIVED IN OFFICE JAN 31 2023'. The filer's own Summary Page header numbers it 'Page 1 of 3' although it is the second page of the PDF."
+ }
+}

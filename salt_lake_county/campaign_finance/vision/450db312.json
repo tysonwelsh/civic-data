@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,986.65",
+ "total_expenditures": "12,161.70",
+ "beginning_balance": "15,469.25",
+ "ending_balance": "13,294.20",
+ "aggregate": {
+  "total_contributions_to_date": "30,265.35",
+  "total_expenditures_to_date": "15,833.95",
+  "line5_subtotal": "25,455.90"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/15/2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cdickson_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/cdickson_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPED form. Column A reconciles (15,469.25 + 9,986.65 = 25,455.90; minus 12,161.70 = 13,294.20). COLUMN B DOES NOT RECONCILE with Column A: 30,265.35 - 15,833.95 = 14,431.40, not the 13,294.20 closing balance \u2014 the same Column B drift appears on Dickson's October filing. Figures kept verbatim. Stamped COPY / RECEIVED SEP 15 2006."
+ }
+}

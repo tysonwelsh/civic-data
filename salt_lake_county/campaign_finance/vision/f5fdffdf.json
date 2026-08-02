@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "62970",
+ "total_expenditures": "35,604.55",
+ "beginning_balance": "0",
+ "ending_balance": "27,365.45",
+ "aggregate": {
+  "total_contributions_to_date": "62970",
+  "total_expenditures_to_date": "35604.55",
+  "line5_subtotal": "62970"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "A",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "Yes",
+  "amendment_of": "Apr. 14/08",
+  "report_date": "4-4/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high",
+  "is_amendment": "high",
+  "report_date": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_amendmenttoapril7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_amendmenttoapril7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 1 amendment line re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The AMENDMENT to the April 7 report: the form checks BOTH the 'April 7' interim box AND the amendment 'Yes', with 'Apr. 14/08' written on the date-of-report line (250-dpi re-render; the second clerk stamp on the page is APR 14 2008, the first APR 07 2008). Office is written as one string 'Council At Large A' \u2014 split into office_sought 'Council At Large' and district_number 'A'. The signature date is heavily crossed by the signature and reads as '4-4/08' at low confidence. Its Summary Page is IDENTICAL to the original April report (key 28eb76ed) figure-for-figure, so the amendment changed the schedules, not the totals. Line 1 is written with NO separators at all ('62970'), lines 4 and 5 as '62970.' with a trailing period and (line 5) a heavily scribbled-out entry beside it \u2014 line5_subtotal is therefore medium confidence. The decimal separator in lines 2 (Col A), 6 and 7 is written as a comma-shaped tick while Column B line 2 uses a clear point; the values are unambiguous (35,604.55 and 27,365.45) and are recorded with a point. Line 3 is a drawn zero, recorded '0'."
+ }
+}

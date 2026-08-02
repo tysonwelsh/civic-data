@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "46.00",
+ "beginning_balance": "46.00",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "200.00",
+  "total_expenditures_to_date": null,
+  "line5_subtotal": "46.00"
+ },
+ "cover": {
+  "candidate": "DOUGLAS C. BORBA",
+  "party": "REPUBLICAN",
+  "office_sought": "SL. COUNTY COUNCIL",
+  "district_number": "3",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/BordbaD_Council3_June2006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Douglas C. Borba",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/BordbaD_Council3_June2006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 2 Column B is ILLEGIBLE and left null: at 250 dpi it reads '2?0.00' with the middle digit blotted/inked over. It is very likely 200.00 (Line 1 Column B is 200.00 and the closing balance is zero) but the digit itself cannot be read, so nothing is recorded. Lines 1, 4 and 7 Column A are hand-drawn slashed zeros with a trailing stroke - recorded as 0. The filer's surname is spelled BORBA on the form; the source filename reads 'BordbaD'. The signature date's middle digit is overwritten (reads 6/20/06); the summary page header repeats 6/20/06. Received JUL 03 2006. The form checks only the Final Report box - no interim box - while the clerk listing files it under June / Final-Dissolution. Neither amendment box is checked."
+ }
+}

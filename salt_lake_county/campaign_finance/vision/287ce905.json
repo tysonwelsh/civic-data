@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "23,550.",
+ "total_expenditures": "11,876.36",
+ "beginning_balance": "4,862.33",
+ "ending_balance": "16,535.97",
+ "aggregate": {
+  "total_contributions_to_date": "32,414.",
+  "total_expenditures_to_date": "16,253.55",
+  "line5_subtotal": "28,412.33"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large \"c\"",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-14-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_Sept_Interim_CntyCncl_AtLrgC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_Sept_Interim_CntyCncl_AtLrgC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "ARITHMETIC INCONSISTENCY on the form, kept verbatim: Line 2 Column B reads 16,253.55, but the prior filing's cumulative (4,377.09, key b6859fae) plus this period's 11,876.36 is 16,253.45 - a 10-cent discrepancy in the filer's running expenditure total. Column A is fully self-consistent (4,862.33 + 23,550 = 28,412.33; less 11,876.36 = 16,535.97) and Column B contributions chain correctly (8,864 + 23,550 = 32,414). Line 1 Columns A and B write cents as a raised dash - recorded without it. Summary-page header box is blank. Neither amendment box is checked."
+ }
+}

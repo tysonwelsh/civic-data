@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyAssessor-PoulsonKris-102210.pdf",
+ "key": "18c17be8",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:28:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Kris Poulson",
+   "party_printed": "Republican",
+   "office_printed": "Assessor",
+   "residence_city": "Payson",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10/22/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "500",
+    "contrib_cumulative": "1,000",
+    "expend_this_period": "0",
+    "expend_cumulative": "2,549.71",
+    "balance_beginning": "-2,049.71",
+    "subtotal_before_expend": "-1,549.71",
+    "balance_close": "-1,549.71"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "500",
+    "line1_total_contributions_colB": "1,000",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "2,549.71",
+    "line3_balance_beginning": "-2,049.71",
+    "line4_total_contributions_from_line1A": "500",
+    "line5_subtotal_lines3plus4": "-1,549.71",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "-1,549.71"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. AMENDMENT QUESTION LEFT UNANSWERED: neither 'Yes' nor 'No' is checked, so is_amendment is '' (blank, not 'No'). Lines 2 Column A and 6 are the filer's slashed-zero glyph, transcribed '0'. Lines 3, 5 and 7 are written with leading minus signs - the filer carries a NEGATIVE balance forward (-2,049.71, matching line 7 of his 06/15/10 report) and closes at -1,549.71; retained verbatim. The summary page header reads 'Page 1 of 3'. Cover signature date is 'Oct 22, 2010'; report_date is taken from the summary page's Date of Report box ('10/22/10'). Office field reads 'Assessor' (index.csv 'County Assessor' - naming convention only)."
+  }
+ ],
+ "notes": ""
+}

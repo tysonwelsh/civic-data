@@ -43,6 +43,38 @@ a city has been built (like the `motions_std` contract).
   fields `pdftotext` cannot recover) reconciles as **unknown** (blank `reconciles_*` + a note),
   never a fabricated mismatch.
 
+### County tier — the shared engine's two new capabilities (TRANCHE 3 Phase A, 2026-08-02)
+
+Six COUNTY form families are registered (`washco_split`, `utahcounty_schedab`,
+`weber_polimorphic`, `cache_cfd`, `wasatch_disclosure_tableab`, `summit_form`); each module's
+docstring cites the county `CLAUDE.md` / `RECON.md` / `AVAILABILITY.md` passage its shape and its
+ground-truth anchors come from. Two driver capabilities exist because the county forms need them
+and no city does — both are **additive and default-off**, so every city build is byte-unchanged:
+
+* **PER-FILING regime.** A family's result dict may return `is_incremental` (`"True"`/`"False"`,
+  restamped on that filing's rows) and/or `dedup_mode` (`"cumulative"`/`"incremental"`, which
+  WINS over the run-level string/callable mode for that filing only). Cache's 2022+ Summary Page
+  prints BOTH a *This Period* and a *Year-to-Date* column, so the regime is legible **per sheet
+  in hand**; Wasatch runs a cumulative and a period-scoped variant in the same cycle. Composition
+  is by partition, then the unchanged string logic on each partition — which is exactly what the
+  existing callable path already did, so a family that declares nothing behaves identically.
+* **MULTI-FILE filings.** `driver.run(group_fn=…, group_primary_fn=…)` groups index rows into one
+  logical filing. Washington County publishes ONE filing as up to THREE files, and **the
+  reconciliation anchor (the `County Candidate Summary`) is in a different file from the itemized
+  rows it must reconcile against**. Grouped filings are handed to `family.parse_group(parts,
+  meta)` (each part = `{"ix", "sidecar", "text", "is_scanned"}`); a family without `parse_group`
+  falls back to `parse()` on the parts joined by form feeds. `group_fn=None` (the default) is the
+  historical one-row-per-filing path, in the historical order.
+
+Family unit tests, with SMALL verbatim fixture excerpts of files the repo already retains:
+`scripts/campaign_finance/tests/test_families.py` (`python3 …/tests/test_families.py`). Each
+assertion is a ground truth a human verified at the source — Iverson 2014 `$130+$500=$630`,
+Whitehead 2010 `$375+$25=$400`, Weber New `1,000.19` / Beesley `1,120.00`+`867.92` / Tait
+`1,973.10`, Cache Hurd `397.76`/`613.88` and `316.72`/`508.83`, Wasatch Forsyth
+`70.57`/`1,062.84` and Kahler's `zero`, Summit Langston `503.00`/`511.62` **plus an explicit
+assertion that the documented wrong answer (511.62 read as the contribution total) is NOT
+produced**.
+
 Scope of the money layer: **campaign Contribution & Expenditure (C&E) reports only.** Annual
 financial / conflict-of-interest statements are out of scope (recorded as excluded in the
 city `CLAUDE.md`).
@@ -99,6 +131,63 @@ One row per itemized donation line. Blank = not extractable, never guessed.
 | `extraction_confidence` | `high` / `medium` / `low` (§6) |
 | `extract_method` | family id + mode, e.g. `provo_form/text`, `provo_form/ocr` |
 | `needs_review` | `1` when a value is blank/uncertain or the row's side did not reconcile; else `0` |
+
+## 2a. `geometry` — the optional row-provenance pointer (TRANCHE 3 Phase A, 2026-08-02)
+
+`contributions.csv` / `expenditures.csv` may carry ONE extra column, **`geometry`**, always
+LAST. It records **where on the page a row's amount was read from**, and exists because the
+county forms are **positional**: more than one column can hold money (`Amount | In Kind | Loan`
+on Washington's ledger, `Amount | INKIND` on Utah County's box ledger, `Current | Last |
+Cumulative` on Summit's cover), so a mis-columned read is a *plausible-looking wrong number*
+that no amount-level check would catch. `geometry` makes such a read auditable without
+reopening the PDF.
+
+Two forms, both plain ASCII and both re-derivable from the retained source:
+
+| form | example | means |
+|---|---|---|
+| `p<page>:l<line>:c<col0>-<col1>` | `p3:l48:c85-91` | laid-out text (`pdftotext -layout`): 1-based page (form feeds), 1-based line **within the sidecar**, 0-based character-column span of the value |
+| `<Sheet>!<A1>` | `Sheet1!F5` | a spreadsheet cell (Washington's 2014-15 `.xls` workbooks) |
+
+**Trailing and OPTIONAL — the same contract as `filing_totals.filing_regime`.** `driver._write`
+emits the column **only when at least one row of that CSV actually carries a value**, and
+`common.row_to_dict` omits the key when it is blank, so:
+
+* every existing city file keeps its **exact historical header, byte for byte** (proved:
+  30 consumer builds × 3 CSVs = 90 files re-run and sha256-identical);
+* `common.CONTRIB_HEADER` / `EXPEND_HEADER` are unchanged and remain the canonical lists;
+  `CONTRIB_HEADER_GEO` / `EXPEND_HEADER_GEO` are the same lists **+** `geometry`;
+* `validate_finance.py` accepts a contributions/expenditures header **with or without** the
+  trailing column;
+* provo's and salt_lake_county's own module-local writers need no change.
+
+Helpers: `common.geom_text(page, line, col0, col1)`, `common.geom_cell(sheet, row, col)`,
+`common.page_line_index(text)` (⚠ `str.splitlines()` splits on `\f`, so the page number must be
+reconstructed — that helper does it and length-checks itself).
+
+**`geometry` is a provenance pointer, never a value.** It is not consulted by reconciliation,
+dedup, `cycle_totals.py` or any query, and a blank `geometry` means only "this family records no
+positional provenance".
+
+## 2b. Shared money + privacy primitives (2026-08-02)
+
+* **`common.parse_money_cell(tok) -> (value, kind)`** — the one reader for a FORM CELL, and the
+  place the repo-wide **ZERO-GLYPH RULING** (GOTCHAS.md, owner 2026-08-02) is implemented:
+  `Ø` / `∅` / `-0-` / the word `zero` read as **0.0** (`kind='zero-glyph'`); a bare dash, `--`,
+  `N/A`, `NA`, `None`, or an empty cell stays **BLANK** (`kind='nil'`/`'empty'`) — *a nil mark is
+  not a numeral*; anything else printed that is not a clean decimal returns
+  `kind='unparseable'` and is **never repaired** (Summit's `23,744,71`, Utah County's `2,250.-`).
+  Accounting parentheses are negative; an unbalanced paren is unparseable.
+  `common.parse_money` / `find_money` / `repair_money_line` are untouched — the city families
+  keep their exact behaviour.
+* **`common.money_cell_spans(line)`** — position-aware money tokens that tolerate `$`-to-digit
+  spacing (`$   500.00`) and accept BARE decimals (`1973.1`). Its lookarounds are load-bearing:
+  without them `23,744` would be lifted out of the malformed `23,744,71` and published as a
+  repaired figure.
+* **`common.split_city_state(addr) -> (city, state)`** — the single privacy-safe address reader.
+  Itemized rows carry `donor_city` / `donor_state` **only**; the street portion is discarded and
+  never returned, and a city that cannot be read without guessing comes back blank. Every county
+  `PRIVACY.md` requires this; the family test suite asserts no digits ever reach `donor_raw`.
 
 ## 3. `expenditures.csv` — schema
 

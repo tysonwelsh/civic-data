@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "12944",
+  "path": "raw/2020/12944_Rhonda-Francis-Final.pdf",
+  "page": 1,
+  "sha256": "c915a489025651b0b52374fdfe9c8de00418ce56cfb364422103ece7563b2dd5",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/12944/Rhonda-Francis-Final",
+  "index_text_quality": "low",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Rhonda Francis",
+  "office_verbatim": "RECORDER/SURVEYOR",
+  "party_verbatim": "DEMOCRAT",
+  "signature_date_as_printed": "12/1/2020",
+  "rows": {
+   "contrib_total": {
+    "current_report": "Ø",
+    "last_report": "Ø",
+    "cumulative_totals": "Ø"
+   },
+   "total_expenditures": {
+    "current_report": "",
+    "last_report": "597.80",
+    "cumulative_totals": "597.80"
+   },
+   "campaign_balance": {
+    "current_report": "Ø",
+    "last_report": "Ø",
+    "cumulative_totals": "Ø"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten 2020 single-total sheet, legible despite the 'low' OCR sidecar. Contributions and campaign-balance cells carry a slashed-zero nil mark (recorded blank); the Current expenditure cell is left empty and the prior period's 597.80 is carried in Last Report and Cumulative. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+}

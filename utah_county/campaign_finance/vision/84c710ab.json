@@ -1,0 +1,61 @@
+{
+ "path": "raw/2014/2014_12-14Freeze.pdf",
+ "key": "84c710ab",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:00:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Freeze",
+   "party_printed": "Write-in",
+   "office_printed": "Commission Seat A",
+   "residence_city": "Highland",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "11/28/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "17,475.00",
+    "contrib_cumulative": "",
+    "expend_this_period": "27,618.35",
+    "expend_cumulative": "39,222.91",
+    "balance_beginning": "10,148.99",
+    "subtotal_before_expend": "27,623.99",
+    "balance_close": "5.64"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "17,475.00",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "27,618.35",
+    "line2_total_expenditures_colB": "39,222.91",
+    "line3_balance_beginning": "10,148.99",
+    "line4_total_contributions_from_line1A": "17,475",
+    "line5_subtotal_lines3plus4": "27,623.99",
+    "line6_total_expenditures_from_line2A": "27,618.35",
+    "line7_balance_at_close": "5.64"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "low",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "line1_total_contributions_colB"
+   ],
+   "notes": "Handwritten in black ink; cents are written as a raised superscript over the dollars. LINE 1 COLUMN B IS LEFT UNREADABLE: the dollar portion legibly reads 39,228 but the superscript cents digits are overwritten/struck by the filer and cannot be read with confidence, so the field is '' rather than a guess - the cents were NOT reconstructed from any other figure on the page. Line 4 is written '17,475' with a DASH in place of the cents superscript, transcribed without cents exactly as written (line 1 Column A, the same figure, is written 17,475 with a superscript 00). NEITHER amendment box is checked, so is_amendment is ''. The summary page's own header boxes (Page / of, Last Name, Date of Report) were left entirely blank, so report_date is the cover signature date 11/28/14. The Political Party field again reads 'Write-in' (ballot status, not a party). No county date stamp is visible on this copy."
+  }
+ ],
+ "notes": ""
+}

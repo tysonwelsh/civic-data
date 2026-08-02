@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "65b0aa2d717bd1cb2fb3d9cc98c6893c4380f445fefae5abd7fc0ceea76a0b00",
+ "canonical_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Chris_Daines.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Chris_Daines.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Chris Daines",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Attorney",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "N. Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102 Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "(no printed box marked) - handwritten on the Type of Report line: '* Special [one word struck through, illegible] timeframe'; handwritten beside the amendment question: '* 7 Calendar days before CC Republican Convention.' and, in the right-hand column, '[struck-through word] From 3/4/26 through 4/2/26'",
+   "c": "medium"
+  },
+  "date_signed": {
+   "v": "4/3/26",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE CO CLERK RCVD 2026 APR 3 PM 4:14",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$536.55",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$12,822.34",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$16,484.02",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$12,434.39",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$15,559.52",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "$13,358.89",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$924.50",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "$ 12,822.34",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "$ 12,434.39",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Attorney",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Attorney'",
+  "confidence": "high"
+ },
+ "notes": "SCOPE FINDING - THIS IS NOT A SCHOOL-BOARD FILING. The repo documentation flags Chris Daines as a likely 2026 school-board filer; the page says otherwise. The 'Office' box is filled in legibly, in the filer's own hand, as 'County Attorney', and nothing on any of the four pages names a school-board seat, district or the school district. Decided on this document's own page evidence alone (no sibling filing or ledger value was used). Four pages: 1 cover (handwritten), 2 Schedule A, 3 Schedule B, 4 Summary Page. HYBRID FORM: the 2026 'Candidate Financial Disclosure / Financial Campaign Report for County Offices and Local School Board Candidates' instrument (Cache County 1857 'OFFICE OF THE CLERK' seal at the head of every page), with the cover and Summary Page completed BY HAND but Schedules A and B completed as a TYPED/printed table pasted into the ruled area - unusually clean for this corpus, every line item machine-legible. No statutory citation printed. TYPE OF REPORT: none of the three printed radio buttons is marked. The filer instead wrote across the Type of Report line '* Special [one word heavily struck through and not readable] timeframe', and in the block beside the amendment question '* 7 Calendar days before CC Republican Convention.' with a right-hand column reading '[a struck-through word] From 3/4/26 through 4/2/26'. The struck-out words are genuinely illegible under the strike-through and are marked as such rather than guessed (report_type_marked confidence medium for that reason). 'Is this report an amendment?' is marked No (an X through the No bullet). Received stamp is printed cleanly at the top right of page 1: 'CACHE CO CLERK RCVD 2026 APR 3 PM 4:14'. SCHEDULE TOTALS: Schedule A's typed table carries a bottom-row total '$12,822.34' (struck through with a horizontal line, apparently by the same pen that then wrote the handwritten totals below it) and the handwritten 'Subtotal for this page $ 12,822.34' / 'Total Contributions Received $ 12,822.34'; the struck typed figure and the handwritten figure agree, so the strike-through appears to be a stylistic underline rather than a correction - recorded here as observed, not interpreted. Schedule B's typed table bottom row reads '$12,434.39' with handwritten 'Subtotal for this page $ 12,434.39' / 'Total Expenditures Made $ 12,434.39'. Box F was verified on a 3x crop as '$13,358.89' (the decimal point is a faint dot) and box E as '$15,559.52'. All Summary boxes are filled; no zero glyphs on this filing. No arithmetic was performed for the filer; every stated figure is recorded as printed. Ledger agreement: ledger candidate 'Chris Daines' matches the form exactly; ledger scope_status='undetermined' is now resolved to county by the page. CONTEXT (not part of the totals tranche): Schedule A itemizes 27 lines, all but two of them 'Chris Daines ... Loan' self-loans, plus two Joanna Coltrin lines; Schedule B's largest lines are Square One Printing $7,915.90 and Cache Valley Media Group $2,650.00."
+}

@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "20765",
+  "path": "raw/2022/20765_Langston-Post-Election-2022.pdf",
+  "page": 1,
+  "sha256": "0b98c2aa99f6c9148c6f19a9fecaa0b3e38121f4a5b131663b01f9ea89f36bf9",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/20765/Langston-Post-Election-2022",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Dawn Mathiesen Langston",
+  "office_verbatim": "Summit County Clerk",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "12/8/2022",
+  "rows": {
+   "contrib_total": {
+    "current_report": "503.00",
+    "last_report": "0.00",
+    "cumulative_totals": "$503.00"
+   },
+   "total_expenditures": {
+    "current_report": "511.62",
+    "last_report": "0.00",
+    "cumulative_totals": "$511.62"
+   },
+   "campaign_balance": {
+    "current_report": "$11.14",
+    "last_report": "",
+    "cumulative_totals": "$11.17"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "CALIBRATION CASE — born-digital, and the ONLY filing whose vision read can be checked cell-for-cell against a clean pdftotext -layout sidecar (text/20765_Langston-Post-Election-2022.txt). Vision and text agree exactly: contributions 503.00 | 0.00 | $503.00; expenditures 511.62 | 0.00 | $511.62; balance $11.14 | (empty) | $11.17. This is the filing on which millcreek_form and ogden_form both returned 511.62 as 'total contributions' (RECON.md Sec.4) — proof that the shared families read the wrong cover column. PORTAL-LABEL TRAP: listed under 'County Auditor:' but the form says Summit County Clerk. The $11.14/$11.17 balance mismatch is the filer's own and is retained."
+}

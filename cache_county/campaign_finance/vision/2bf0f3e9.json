@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "a47a146255ecd85de634f004034bee0bf93056d3149027beb38e976028b1b35b",
+ "canonical_path": "raw/2014/2014_cc_Lindsay_July_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Lindsay_July_campaign_finance.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Denise N. Lindsay",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Treasurer",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Cache County",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Wellsville",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Cache County",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "July 25, 2014",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 25 JUL 2014 PM 04:05",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "1,000.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "1,000.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "350.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "350.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "34,943.19",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "34,943.19",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "( 33,593.19 )",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Treasurer",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Treasurer'; 'Office District' reads 'Cache County'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "TYPEWRITTEN filing. Line 4 CUMULATIVE is written in parentheses '( 33,593.19 )' \u2014 accounting notation for a negative balance; recorded verbatim (the builder reads parenthesised figures as negative)."
+}

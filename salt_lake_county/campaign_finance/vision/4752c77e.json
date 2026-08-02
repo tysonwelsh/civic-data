@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$68,269.00",
+ "total_expenditures": "$32,245.46",
+ "beginning_balance": "$40,873.03",
+ "ending_balance": "$76,896.57",
+ "aggregate": {
+  "total_contributions_to_date": "$105,419.00",
+  "total_expenditures_to_date": "$36,859.94",
+  "line5_subtotal": "$109,142.03"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (seven days before a primary election)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/17/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Gill_S_DA_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Gill_S_DA_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form; arithmetic self-consistent. Its beginning balance ($40,873.03) equals the AMENDED April line 7 (key e901c952), not the original April report's $40,843.03."
+ }
+}

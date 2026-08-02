@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,500",
+ "total_expenditures": "1,543.86",
+ "beginning_balance": "43.86",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "1,500",
+  "total_expenditures_to_date": "1,543.86",
+  "line5_subtotal": "1,543.86"
+ },
+ "cover": {
+  "candidate": "Jeff S. Allen",
+  "party": "Republican",
+  "office_sought": "SLCo Council",
+  "district_number": "5",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-20-2010",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jallen1_09_Final.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/jallen1_09_Final.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 1 Columns A and B are written '1,500' with no cents. Line 7 Column A is a hand-drawn slashed \u00d8 (zero), consistent with a dissolution. Clerk listing files this under 2009; the form is signed 1-20-2010 and stamped received JAN 2010. Arithmetic closes."
+ }
+}

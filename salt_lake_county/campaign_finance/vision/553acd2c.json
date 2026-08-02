@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "580.20",
+ "beginning_balance": "1501.69",
+ "ending_balance": "921.49",
+ "aggregate": {
+  "total_contributions_to_date": "357.66",
+  "total_expenditures_to_date": "580.20",
+  "line5_subtotal": "1501.69"
+ },
+ "cover": {
+  "candidate": "Sherrie Swensen",
+  "party": "Democrat",
+  "office_sought": "Clerk",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/05/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sswensen_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sherrie Swensen",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/sswensen_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 300 with autocontrast (very light pencil)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Very light pencil handwriting; page 2 re-rendered at 300 dpi with autocontrast to read. Cents are raised superscripts. Line 1 Column A is a small hand-drawn zero (recorded '0'); Line 4 is a DASH (a struck line meaning nil) rather than a figure. Line 1 Column B (357.66) carries the year-to-date total even though this period's contributions are zero. Balance summary is internally consistent (1501.69 - 580.20 = 921.49)."
+ }
+}

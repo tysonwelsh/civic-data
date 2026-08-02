@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "K. Wayne Cushing",
+  "party": "Republican",
+  "office_sought": "County Treasurer",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-24-23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Cushing-K__60485F52.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Cushing, K.",
+  "office": "Treasurer",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Cushing-K__60485F52.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BOTH the Year-End and the Final/Dissolution boxes are checked (solid squares); neither amendment box is checked. The Office Sought box is BLANK, so the value recorded is the top-row Office box, \"County Treasurer\" (per the two-office-box rule). District Number is blank. The cover's Report Verification Date line is blank (the signature is redacted); the date recorded, 1-24-23, is the Date of Report printed in the Summary Page header. Both Column B cells and Line 4 Column A were left BLANK (recorded as \"\", not 0)."
+ }
+}

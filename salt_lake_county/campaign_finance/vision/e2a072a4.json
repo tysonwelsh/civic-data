@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,000",
+ "total_expenditures": "259.74",
+ "beginning_balance": "3875.42",
+ "ending_balance": "6615.68",
+ "aggregate": {
+  "total_contributions_to_date": "6,500",
+  "total_expenditures_to_date": "259.74",
+  "line5_subtotal": "6875.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large (C)",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "4-5-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_April_Interim_Amend_CntyCncl_AtLrgC_R.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_April_Interim_Amend_CntyCncl_AtLrgC_R.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the AMENDED April 2012 report: the amendment box is checked Yes but the 'date of report' blank next to it is left EMPTY. It amends key c7c7567e (same April 5 period, signed 4-4-12), which reported zero expenditures and a 6,875.42 closing balance; this version adds 259.74 of expenditures and closes at 6,615.68. The summary page's Date of Report box shows a struck-through digit pair rewritten as '4-5-12'. Line 1 carries no cents. The candidate wrote the seat into the Office Sought box, leaving District Number empty. Arithmetic consistent (3875.42 + 3000 = 6875.42; less 259.74 = 6615.68)."
+ }
+}

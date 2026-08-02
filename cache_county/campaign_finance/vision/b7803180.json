@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "41de98de7750ef660f0f1df7ab9a2ff44663bcb19f206428d17a82b9defba561",
+ "canonical_path": "raw/2022/2022_cc_Jess_W_Bradfield_22G.pdf",
+ "applies_to": ["raw/2022/2022_cc_Jess_W_Bradfield_22G.pdf", "raw/2022/2022_wb_Jess_W_Bradfield_22G.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Jess W. Bradfield", "c": "high"},
+  "office_verbatim":   {"v": "", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.org  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "30 Days after the General Election", "c": "high"},
+  "date_signed":       {"v": "12-5-2022", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RCVD 2022 DEC 7 PM12:23", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$185.92", "c": "high"},
+   "B_contrib_this_period":    {"v": "0", "c": "high"},
+   "C_contrib_ytd":            {"v": "1309.80", "c": "high"},
+   "D_expend_this_period":     {"v": "0", "c": "high"},
+   "E_expend_ytd":             {"v": "1123.88", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$185.92", "c": "high"},
+   "closing_balance":          {"v": "$185.92", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "0", "c": "medium"},
+   "total_expenditures_made":      {"v": "0", "c": "medium"}
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "",
+  "evidence": "page 1 'Office' box is COMPLETELY BLANK - the filer wrote nothing on the Office line (verified by zooming the page image; the box contains only the preprinted 'Office' label and empty white space). No office is named anywhere else in the document: pages 2, 3 and 4 carry only the candidate name, date and page number in the footer block. The document is on the Cache County 'Financial Campaign Report for County Offices and Local School Board Candidates' instrument, but per the scope rule the printed county header is only supporting evidence and cannot decide scope - the county form is handed to municipal and special-district candidates as well. There is therefore no page evidence of the office sought.",
+  "confidence": "high"
+ },
+ "notes": "Typed/word-processed entries on a scanned Cache County Candidate Financial Disclosure (cache_cfd), 4 pages: cover p1, Schedule A p2, Schedule B p3, Summary p4.\n\nCOVER (p1): Name of Candidate 'Jess W. Bradfield'. The Address, City, and State/Zip fields are REDACTED - blacked out with heavy marker in the source scan (not an extraction failure; the redaction is on the filed document as scanned), so residence_city is recorded as empty. Office box BLANK. Phone Number '435-757-5629'. Email field BLANK. Type of Report: the 'X'-in-circle mark is on '30 Days after the General Election'; the other two options ('30 Days after elimination', 'Seven days preceding the General Election') are unmarked. Is this report an amendment? 'No' is marked with an X-in-circle. Affirmation printed name 'Jess W Bradfield' (no period after the W here, unlike the header). Handwritten signature present. Date '12-5-2022'. Date of Report '12-5-2022'. Page '1'. Office Use Only: neither 'Logged' nor 'Transmitted' bullet is filled, but a rubber-stamp impression reads 'CLERK/AUDITOR RCVD 2022 DEC 7 PM12:23' - the final digit of the time is degraded in the scan and could be a 3 or an 8, so the stamp is recorded at medium confidence.\n\nSCHEDULE A (p2): no itemized rows. A single typed line under the column headers reads 'No expenditures since last filing' - note the wording says EXPENDITURES on the CONTRIBUTIONS schedule; that is the filer's own wording, recorded as-is, not corrected. Subtotal for this page: a hand-drawn open O glyph after the printed '$', transcribed '0' at medium confidence per protocol rule 3. Total Contributions Received: same hand-drawn open O glyph, transcribed '0' at medium confidence. Footer: 'Jess W. Bradfield', Date of Report '12/05/2022' (slash form here vs hyphen form on the other pages), Page '2'.\n\nSCHEDULE B (p3): no itemized rows. Typed line 'No Expenditures since last filing'. Subtotal for this page: hand-drawn open O glyph = '0' (medium). Total Expenditures Made: hand-drawn open O glyph = '0' (medium). Footer: 'Jess W. Bradfield', '12-5-2022', Page '3'.\n\nSUMMARY (p4, typed - high confidence): Box A '$185.92'. Box B '0'. Box C '1309.80'. Box D '0'. Box E '1123.88'. Box F '$185.92'. Balance at Close of Reporting Period '$185.92'. Note the mixed formatting on the page itself: boxes A, F and the closing balance carry a '$', boxes B-E do not. Values recorded exactly as printed. Footer: 'Jess W. Bradfield', '12-5-2022', Page '4'.\n\nNo arithmetic problems observed: with B=0 and D=0, F=A and close=F-D=$185.92 as printed. Boxes C and E are year-to-date figures carried forward from prior filings in the cycle and are not derivable from this document's own schedules (both of which are zero) - that is expected for a final/30-days-after report and is not a contradiction.\n\nLEDGER CHECK: the ledger's candidate value 'Jess W. Bradfield' MATCHES the page evidence exactly. The ledger's scope_status='county_confirmed' is NOT supported by anything on these four page images - the Office line is blank and no office is stated anywhere in the document. Scope is recorded here as 'undetermined' per protocol. Whatever confirmed the county scope in the ledger came from outside this PDF (filename token, index, or an external roster), not from the filing itself. Flagging for the caller."
+}

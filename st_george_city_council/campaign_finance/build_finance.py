@@ -73,6 +73,11 @@ _PERIOD = {
     "20251007_campaign_finance_disclosures": "2025 pre-general (Oct 7)",
     "20251028_campaign_finance_disclosures": "2025 pre-general (Oct 28)",
     "20251204_campaign_finance_disclosures": "2025 year-end (Dec 4)",
+    # State-channel AMENDMENTS (DEBT fix 2026-08-01): the word "amended" in the label is
+    # load-bearing — driver._base_period strips it, grouping each with the original period
+    # it restates, so incremental dedup marks the original 'superseded by amendment'.
+    "municipal20240401_larkin_amended": "2023 pre-primary (Aug 29) amended",
+    "municipal20240401_kemp_amended": "2023 pre-general (Oct 24) amended",
 }
 
 _COVER = re.compile(r"CA\w*PA\w*GN\s+FINAN\w+\s+REPORT", re.I)
@@ -364,8 +369,9 @@ def _vision_result(cache, meta):
     return dict(contrib_rows=crows, expend_rows=erows,
                 stated_contrib=_vmoney(d.get("total_contributions")),
                 stated_expend=_vmoney(d.get("total_expenditures")),
-                stated_begin=None, stated_end=_vmoney(d.get("ending_balance")),
-                notes="vision-transcribed(claude-sonnet-5)")
+                stated_begin=_vmoney(d.get("previous_balance")),
+                stated_end=_vmoney(d.get("ending_balance")),
+                notes=d.get("transcribed_by", "vision-transcribed(claude-sonnet-5)"))
 
 
 def main():
@@ -378,7 +384,7 @@ def main():
         is_scanned_fn=lambda ix: True,           # every St. George filing is scanned
         reconcile_cash_only=False,               # itemized total INCLUDES in-kind
         dedup_mode="incremental",                # verified per-period; cycle total = sum of deadlines
-        amend_fn=lambda ix: False,               # no amendments/duplicate re-files in the St. George set
+        amend_fn=lambda ix: ix.get("filing_type") == "amended",   # 2 state-channel 2023 amendments (2026-08-01)
         rows_override_fn=_rows_override)
 
 

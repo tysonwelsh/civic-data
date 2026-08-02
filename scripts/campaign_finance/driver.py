@@ -122,7 +122,7 @@ def _base_period(label):
     return re.sub(r"[^a-z0-9]+", "", s.lower())
 
 
-def _mark_supersessions(pairs, dedup_mode, amend_fn):
+def _mark_supersessions(pairs, dedup_mode, amend_fn, per_filing_mode=None):
     """pairs = list of (FilingTotals, index_row). Append supersession/amendment notes so a
     cycle total is computable without double-counting (kept + flagged, never dropped).
 
@@ -138,17 +138,33 @@ def _mark_supersessions(pairs, dedup_mode, amend_fn):
         cumulative snapshots; 2025 filers file per-period), so a single city-wide string
         marks someone's filings wrongly. The callable's decision group is applied with
         exactly the string modes' logic. String modes are unchanged.
+      * PER-FILING (2026-08-02, the county families): `per_filing_mode` = {source_filing ->
+        "cumulative"|"incremental"} lets a FAMILY declare the regime it READ OFF EACH FILING
+        (cache's 2022+ Summary Page prints both a "This Period" and a "Year-to-Date" column, so
+        the regime is a property of the sheet in hand; wasatch's regime varies per candidate on
+        one published sheet). A per-filing verdict WINS over the string/callable mode; filings
+        with no verdict fall back to it exactly as before. Composition is by PARTITION, then the
+        unchanged string logic on each partition — which is the same thing the callable path
+        already did, so a city that declares no per-filing regime is bit-identical.
     """
     from collections import defaultdict
 
-    if callable(dedup_mode):
+    if callable(dedup_mode) or per_filing_mode:
         groups = defaultdict(list)
         for ft, ix in pairs:
             groups[(ft.candidate, ft.election_year)].append((ft, ix))
-        cum_pairs, inc_pairs = [], []
+        cum_pairs, inc_pairs, unmoded = [], [], []
         for (cand, year), members in groups.items():
-            mode = dedup_mode(cand, year, members)
-            (cum_pairs if mode == "cumulative" else inc_pairs).extend(members)
+            grp_mode = (dedup_mode(cand, year, members) if callable(dedup_mode)
+                        else dedup_mode)
+            for ft, ix in members:
+                mode = (per_filing_mode or {}).get(ft.source_filing) or grp_mode
+                if mode == "cumulative":
+                    cum_pairs.append((ft, ix))
+                elif mode:
+                    inc_pairs.append((ft, ix))   # historical rule: any other mode = incremental
+                else:
+                    unmoded.append((ft, ix))     # no regime known at all -> unmarked (honest)
         if cum_pairs:
             _mark_supersessions(cum_pairs, "cumulative", amend_fn)
         if inc_pairs:
@@ -377,16 +393,61 @@ def _apply_ft_overrides(overrides, applied, ft, fname):
               f"({(ov.get('reason') or '')[:80]})")
 
 
+def _group_index(index_rows, in_scope_fn, group_fn):
+    """Group in-scope index rows into FILINGS. Without `group_fn` (every city) each row is its
+    own filing and the iteration order is unchanged. With `group_fn(ix) -> key`, rows sharing a
+    key become ONE filing, in first-appearance order; a falsy key means "this row stands alone".
+    Returns (units, n_skipped) where a unit is a list of index rows."""
+    units, by_key, skipped = [], {}, 0
+    for ix in index_rows:
+        if not in_scope_fn(ix):
+            skipped += 1
+            continue
+        key = group_fn(ix) if group_fn else None
+        if not key:
+            units.append([ix])
+            continue
+        if key in by_key:
+            by_key[key].append(ix)
+        else:
+            by_key[key] = [ix]
+            units.append(by_key[key])
+    return units, skipped
+
+
 def run(*, here, family_id, index_name="index.csv", aliases_name="donor_aliases.csv",
         meta_fn, sidecar_fn, is_scanned_fn, in_scope_fn=lambda ix: True,
         reconcile_cash_only=False, dedup_mode=None, amend_fn=lambda ix: False,
-        rows_override_fn=None, derive_incremental=False):
+        rows_override_fn=None, derive_incremental=False,
+        group_fn=None, group_primary_fn=None):
     """rows_override_fn(ix, meta) -> a parsed-result dict (same shape a family's parse() returns:
     contrib_rows/expend_rows/stated_*), or None. When it returns a dict, that result is used INSTEAD
     of parsing the OCR/text sidecar — the general hook a city uses to feed a VISION re-transcription
     of a filing that OCR could not reconcile. The overridden rows still flow through the SAME
     normalization + reconciliation + dedup below, so vision output is judged by the identical
-    printed-total test. Default None keeps every existing city unchanged."""
+    printed-total test. Default None keeps every existing city unchanged.
+
+    MULTI-FILE FILINGS (2026-08-02) — `group_fn(ix) -> key`. Washington County publishes ONE
+    logical filing as up to THREE files (a `County Candidate Summary` carrying the reconciliation
+    anchor, plus separate `Contributions` and `Expenditures` ledgers), so the printed total and
+    the itemized rows it must reconcile against live in DIFFERENT files. When `group_fn` is given,
+    index rows sharing a key are parsed as ONE filing: `meta` comes from the PRIMARY row
+    (`group_primary_fn(rows) -> ix`, default the first row of the group), and the family is called
+    as `family.parse_group(parts, meta)` where each part is
+        {"ix": <index row>, "sidecar": <path>, "text": <str>, "is_scanned": <bool>}
+    (only parts whose sidecar exists are passed; the group reports MISSING-TEXT only when NONE
+    does). A family without `parse_group` falls back to `parse()` on the parts' texts joined by
+    form feeds. `group_fn=None` is the default and every existing city takes the identical
+    one-row-per-filing path.
+
+    PER-FILING REGIME (2026-08-02) — a family's result dict may carry:
+      * `is_incremental`: "True"/"False" -> restamped on that filing's rows (the row-metadata
+        column only). Cache's 2022+ Summary Page prints BOTH a This-Period and a Year-to-Date
+        column, so the regime is legible per filing rather than assumed per city.
+      * `dedup_mode`: "cumulative"|"incremental" -> that filing's supersession regime, which WINS
+        over the run-level string/callable `dedup_mode` for that filing only (see
+        `_mark_supersessions`). Families that return neither key change nothing.
+    """
     here = Path(here)
     family = registry.get(family_id)
     aliases = normalize_donors.load_aliases(str(here / aliases_name))
@@ -399,17 +460,32 @@ def run(*, here, family_id, index_name="index.csv", aliases_name="donor_aliases.
 
     contrib_all, expend_all, totals_all, report = [], [], [], []
     ft_pairs = []
-    skipped = 0
-    for ix in index_rows:
-        if not in_scope_fn(ix):
-            skipped += 1
-            continue
+    per_filing_mode = {}
+    units, skipped = _group_index(index_rows, in_scope_fn, group_fn)
+    for unit in units:
+        ix = (group_primary_fn(unit) if (group_primary_fn and len(unit) > 1) else unit[0])
         is_scanned = is_scanned_fn(ix)
         meta = meta_fn(ix)
         meta["is_scanned"] = is_scanned
         meta.setdefault("extract_method",
                         f"{family_id}/{'ocr' if is_scanned else 'text'}")
         res = rows_override_fn(ix, meta) if rows_override_fn else None
+        if res is None and len(unit) > 1:
+            parts = []
+            for part_ix in unit:
+                sc = sidecar_fn(part_ix)
+                if not Path(sc).exists():
+                    continue
+                parts.append(dict(ix=part_ix, sidecar=str(sc),
+                                  text=Path(sc).read_text(encoding="utf-8", errors="replace"),
+                                  is_scanned=is_scanned_fn(part_ix)))
+            if not parts:
+                report.append((meta["candidate"], meta["election_year"], "MISSING-TEXT", "", ""))
+                continue
+            if hasattr(family, "parse_group"):
+                res = family.parse_group(parts, meta)
+            else:
+                res = family.parse("\n\f".join(p["text"] for p in parts), meta)
         if res is None:
             sc = sidecar_fn(ix)
             if not Path(sc).exists():
@@ -419,6 +495,12 @@ def run(*, here, family_id, index_name="index.csv", aliases_name="donor_aliases.
             res = family.parse(text, meta)
 
         crows, erows = res["contrib_rows"], res["expend_rows"]
+        # PER-FILING regime, when the family read one off this filing's own face.
+        if res.get("is_incremental") in ("True", "False"):
+            for r in list(crows) + list(erows):
+                r.is_incremental = res["is_incremental"]
+        if res.get("dedup_mode") in ("cumulative", "incremental"):
+            per_filing_mode[meta["source_filing"]] = res["dedup_mode"]
         for r in crows:
             normalize_donors.normalize_contrib(r, meta["candidate"], aliases)
         for r in erows:
@@ -496,24 +578,34 @@ def run(*, here, family_id, index_name="index.csv", aliases_name="donor_aliases.
         print(f"finance_overrides: {len(ov_rows)} applied (mode=apply), "
               f"{ov_docs} documentation-only row(s) (not applied)")
 
-    if dedup_mode:
-        _mark_supersessions(ft_pairs, dedup_mode, amend_fn)
+    if dedup_mode or per_filing_mode:
+        _mark_supersessions(ft_pairs, dedup_mode, amend_fn, per_filing_mode or None)
 
     if derive_incremental:
         # AFTER dedup so structurally-superseded filings never feed false cumulative
         # evidence. Row-metadata only; never changes totals/notes/reconciliation.
         derive_is_incremental(totals_all, contrib_all, expend_all)
 
-    _write(here / "contributions.csv", common.CONTRIB_HEADER, contrib_all)
-    _write(here / "expenditures.csv", common.EXPEND_HEADER, expend_all)
+    _write(here / "contributions.csv", common.CONTRIB_HEADER, contrib_all,
+           common.CONTRIB_HEADER_GEO)
+    _write(here / "expenditures.csv", common.EXPEND_HEADER, expend_all,
+           common.EXPEND_HEADER_GEO)
     _write(here / "filing_totals.csv", common.TOTALS_HEADER, totals_all)
     _print_report(report, contrib_all, expend_all, skipped)
     return dict(contrib=contrib_all, expend=expend_all, totals=totals_all, report=report)
 
 
-def _write(path, header, rows):
+def _write(path, header, rows, geo_header=None):
+    """Write the DERIVED CSV. `geo_header` (= header + the trailing optional `geometry` column)
+    is used ONLY when at least one row actually carries geometry — so a family that records no
+    positional provenance writes the exact historical header, byte for byte. Same
+    trailing-optional-column contract as `filing_totals.filing_regime`; `validate_finance.py`
+    accepts both shapes."""
+    use = header
+    if geo_header and any(getattr(r, common.GEOMETRY_COL, "") for r in rows):
+        use = geo_header
     with open(path, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=header)
+        w = csv.DictWriter(fh, fieldnames=use, extrasaction="ignore")
         w.writeheader()
         for r in rows:
             w.writerow(common.row_to_dict(r))

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9325.14",
+ "total_expenditures": "13015.57",
+ "beginning_balance": "3690.43",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "70259.16",
+  "total_expenditures_to_date": "70,259.16",
+  "line5_subtotal": "13015.57"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "At Large C",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jauger_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Cents written as superscripts over a rule; transcribed with a decimal point. On this copy 'Council' sits in the Office Sought box and 'At Large C' is written across the District Number box - split accordingly. NEITHER amendment box is checked. Summary Page header: Page 1 of 3, 'Janice Auger', 1-31-07. Column A internally consistent (3690.43 + 9325.14 = 13015.57; minus 13015.57 = 0)."
+ }
+}

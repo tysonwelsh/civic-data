@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "4013",
+  "path": "raw/2016/4013_Colin-DeFord.pdf",
+  "page": 1,
+  "sha256": "a5df323c8efd17a88c863b0370b970366e4f21056f42b9aba99d3d642d35dd6b",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/4013/Colin-DeFord",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Colin DeFord",
+  "office_verbatim": "County Council Seat B",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "10-31-2016",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$7,714.66",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "contrib_le50": {
+    "current_report": "$261.75",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "$6,609.92",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "campaign_balance": {
+    "current_report": "$1,116.49",
+    "last_report": "",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed cover; Last Report and Cumulative columns left blank. The form carries the clerk's own printed instruction box: 'Enter the information from your last report in the last report column' — direct source evidence for the Current | Last | Cumulative column order."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "$7,500",
+ "beginning_balance": "7,793,86",
+ "ending_balance": "43,86",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "$7,500",
+  "line5_subtotal": "7,793,86"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-27-09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_jallen_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_jallen_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to read the decimal separators and Line 7)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DECIMAL COMMA throughout the balance section: Lines 3 and 5 are written '7,793, 86' and Line 7 is written '43, 86' - a comma, not a period, before the cents; recorded exactly as written (spacing normalised only). ARITHMETIC ERROR ON THE FORM, kept verbatim: Line 5 minus Line 6 is 7,793.86 - 7,500.00 = 293.86, but the filer wrote 43,86 on Line 7 (the leading digits appear to have been dropped). Lines 1 and 4 Column A and Line 1 Column B are slashed zeros. Line 2 is '$7,500' with no cents in both columns; Line 6 restates it as '7,500.' with a raised '00'."
+ }
+}

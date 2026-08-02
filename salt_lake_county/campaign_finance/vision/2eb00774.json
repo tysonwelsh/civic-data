@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "700",
+ "beginning_balance": "745.79",
+ "ending_balance": "45.79",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "700",
+  "line5_subtotal": "745.79"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "DEMOCRAT",
+  "office_sought": "DA",
+  "district_number": "COUNTY",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/29/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "low",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_sgill_yearendsumm2.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_sgill_yearendsumm2.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FAX copy (header 'JAN-30-2009 FRI 10:48 AM'). Older form variant; the top-row 'Office' box reads 'SLCo DA' and Office Sought is the same scrawled 'DA' abbreviation as his earlier filing (LOW confidence), with 'COUNTY' written in the District Number box. LINE 2 COLUMN A IS OVER-INKED into an illegible blot; it is recorded as 700 at LOW confidence solely because Line 6 ('Total Expenditures Made, From Line 2 Column A') legibly restates it as 700 with a raised 00 - the blot itself cannot be read. Line 2 Column B reads a plain '700'. Lines 1 and 4 are slashed zeros; Column B of Line 1 is blank. Cents on Lines 3/5/7 are raised underlined superscripts. Line 3 (745.79) matches Line 7 of his prior filing (key 2142e833), and 745.79 - 700 = 45.79 checks out."
+ }
+}

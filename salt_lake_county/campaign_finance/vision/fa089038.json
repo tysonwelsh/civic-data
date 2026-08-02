@@ -1,0 +1,57 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "295.98",
+ "total_expenditures": "295.98",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "295.98",
+  "total_expenditures_to_date": "295.98",
+  "line5_subtotal": "295.98"
+ },
+ "cover": {
+  "candidate": "Warren T Rogers",
+  "party": "Constitution",
+  "office_sought": "County Council",
+  "district_number": "At Large B",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "5-2-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Rogers_W_10_General_CntyCncl_AtLrgB_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Warren T. Rogers",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/Rogers_W_10_General_CntyCncl_AtLrgB_Redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Filed LATE and retroactively: the candidate hand-wrote across the top of page 1 'Applies to 2010 County Council At Large B race', but signed and filed it 5-2-12 (clerk stamp MAY 04 2012). The 'Seven days before a general election' interim box is checked; neither amendment box is checked. Page order: page 2 Schedule A, page 3 Schedule B, and the Summary Page is PDF page 4. All 295.98 figures are written with the cents as a raised superscript over a rule (295 with a small 98 above), transcribed with a decimal point; Lines 3 and 7 are hand-drawn zeros. Face arithmetic is consistent."
+ }
+}

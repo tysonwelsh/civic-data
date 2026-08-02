@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$81.56",
+ "total_expenditures": "$153.23",
+ "beginning_balance": "$113.68",
+ "ending_balance": "$42.01",
+ "aggregate": {
+  "total_contributions_to_date": "$81.56",
+  "total_expenditures_to_date": "$153.23",
+  "line5_subtotal": "$195.24"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "3",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "4/5/06",
+  "report_date": "4/10/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_amendapr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwilde_amendapr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Fax copy (fax header 04/10/2006 MATHESON&PESHELL) stamped COPY, legible. The April 5 interim box is checked AND the amendment Yes box is checked with 'date of report 4/5/06', matching the clerk listing's 'Amendment to April'. Arithmetic closes."
+ }
+}

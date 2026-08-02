@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "24,319.10",
+ "total_expenditures": "17409.64",
+ "beginning_balance": "9,068.06",
+ "ending_balance": "15,977.52",
+ "aggregate": {
+  "total_contributions_to_date": "44,892.26",
+  "total_expenditures_to_date": "28,914.74",
+  "line5_subtotal": "33,387.16"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - District 4",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/17/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_Sept_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_Sept_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 2 Column A is written WITHOUT the thousands comma ('17409.64') while line 6 writes it as '17,409.64' \u2014 kept verbatim as written in each place. Fully self-consistent in both columns and chains correctly from the amended June report and into the October report."
+ }
+}

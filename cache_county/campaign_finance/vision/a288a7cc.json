@@ -1,0 +1,123 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "d05c4eda8fb6493162e1f3f524454b58c8192d72d242eb9edc74946c462a0a95",
+ "canonical_path": "raw/2020/2020_cc_Kathleen_Howell.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Kathleen_Howell.pdf",
+  "raw/2020/2020_st_Howell_summary.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Kathleen C. Howell",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Assessor",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Wellsville",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "11-17-2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-NOV 17 '20 PM 3:30:07",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "523.28",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "523.28",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "523.28",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "523.28",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Assessor",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Assessor'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": ""
+}

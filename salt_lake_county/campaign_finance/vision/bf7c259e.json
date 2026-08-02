@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,000",
+ "total_expenditures": "0",
+ "beginning_balance": "4,226.60",
+ "ending_balance": "9,226.60",
+ "aggregate": {
+  "total_contributions_to_date": "40,425",
+  "total_expenditures_to_date": "31 19840",
+  "line5_subtotal": "9226.60"
+ },
+ "cover": {
+  "candidate": "JOSEPH M. DEMMA",
+  "party": "GOP",
+  "office_sought": "COUNTY COUNCIL - AT LARGE",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2/25/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "low",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_Final_CouncilAtlarge_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_Final_CouncilAtlarge_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (line 2 Column B cropped at -r 450)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report/Dissolution' and the file name says 'Final', but the FORM checks only the YEAR-END REPORT box - the Final/Dissolution box is NOT checked (and the closing balance is $9,226.60, not zero, so it could not be a dissolution). Recorded as the form shows. The 'No' amendment box IS checked. This 2013-vintage form has a single office line: 'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is left blank. Party is written 'GOP'. Lines 2 and 6 Column A are a hand-drawn slashed zero, recorded as 0. Line 2 Column B is written with NO comma and NO decimal point - the digits read '31 19840' with a gap after the 31 - recorded verbatim at low confidence (for the human reader: this candidate's October 2012 report prints the same aggregate clearly as $31,198.40). Line 5 is written '9 226.60' with a space where the thousands comma belongs; recorded as 9226.60. The Summary Page header block was left BLANK. Clerk RECEIVED stamp FEB 27 2013."
+ }
+}

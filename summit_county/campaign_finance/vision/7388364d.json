@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "20640",
+  "path": "raw/2022/20640_Murphy-Pre-Election-2022.pdf",
+  "page": 1,
+  "sha256": "068997041d08ef7bc3d58a5b4babc4ce3538ef5c4281a163f64176187566d8f7",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/20640/Murphy-Pre-Election-2022",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "John \"Jack\" Murphy",
+  "office_verbatim": "Summit County Council Seat E",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "11/1/22",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$5100—",
+    "last_report": "",
+    "cumulative_totals": "$5100—"
+   },
+   "total_expenditures": {
+    "current_report": "$3733.22",
+    "last_report": "",
+    "cumulative_totals": null
+   },
+   "campaign_balance": {
+    "current_report": "$1366.78",
+    "last_report": "",
+    "cumulative_totals": "$1366.78"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed header, handwritten figures; re-read at 300dpi zoom. The Current contributions cell has an earlier figure struck out and '$5100—' written over it (dash for cents), same in Cumulative. The CUMULATIVE expenditure cell is genuinely ambiguous between $3733.22 and $3738.22 in the handwriting — left NULL rather than guessed; the Current cell reads $3733.22 clearly. Last Report cells hold a dash (recorded blank). Carries the clerk's printed instruction box."
+}

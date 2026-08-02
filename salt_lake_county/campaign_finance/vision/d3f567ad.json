@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "Filing fee only last march",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Chuck Tripp",
+  "party": "Desert Green Party",
+  "office_sought": "Salt Lake County Council Seat: At-large",
+  "district_number": "",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "June 20, 2006",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_tripp_chuck06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Chuck Tripp",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_tripp_chuck06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "OLDER form variant (title 'Financial Disclosure Report For a Candidate', no year; interim options April 5 / Seven days before a primary election / September 15 / Seven days before a general election; Column B headed 'Year-to-Date Total'). Every numeric cell is a slashed-zero glyph -> '0'. EXCEPTION: Line 2 Column B contains PROSE, not a figure - the filer wrote 'Filing fee only last march' (last two words cramped); transcribed verbatim as the cell's content, flagged low. Summary header: page 2 of 4, TRIPP, 06/20/06. Received stamp JUN 20 2006."
+ }
+}

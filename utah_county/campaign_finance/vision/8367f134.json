@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Tomeny_Tom_11.1.22.pdf",
+ "key": "8367f134",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:52:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Tom Tomeny",
+   "party_printed": "",
+   "office_printed": "same",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/31/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "2662.90",
+    "contrib_cumulative": "2662.90",
+    "expend_this_period": "2662.90",
+    "expend_cumulative": "2662.90",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2662.90",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "2662.90",
+    "boxC_contributions_received_year_to_date": "2662.90",
+    "boxD_expenditures_made_this_period": "2662.90",
+    "boxE_expenditures_made_year_to_date": "2662.90",
+    "boxF_subtotal_before_expenditures": "2662.90",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form; faint scan but every field legible. OFFICE: the Office box again contains only the word 'same' - transcribed verbatim; it names no office, so index.csv's 'County Commission Seat A' is not corroborated by the page face. Boxes A and G carry a typed '0'. Address printed in full (775 W. Center St., Orem, UT 84057), wet-ink signature, Date and Date of Filing both 10/31/22. Amendment 'No' is checked. variant_guess said modern_boxAF and that is correct."
+  }
+ ],
+ "notes": ""
+}

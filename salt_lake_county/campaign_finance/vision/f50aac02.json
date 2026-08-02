@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "$399.00",
+ "beginning_balance": "$2,056.17",
+ "ending_balance": "$1,657.17",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "$399.00",
+  "line5_subtotal": "$2,056.17"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MBurdick_11_YearEnd_CntyCncl6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MBurdick_11_YearEnd_CntyCncl6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 2",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Columns A and B, and Line 4, are written as a hand-drawn slashed zero (O with a stroke) - recorded as '0'. Line 2 and Line 6 use the raised-superscript cents convention ($399 with a small '00' over a rule) - transcribed as $399.00; Lines 3, 5 and 7 likewise carry superscript cents ('17'). Neither amendment box is checked. The date 1-31-2012 is handwritten at the top of the cover as well as in the signature block. Summary Page header: Page 1 of 1, Burdick, 1-31-12. Column A arithmetic checks out (2,056.17 - 399.00 = 1,657.17). Note that a candidate with a $2,056.17 opening balance files Line 1 Column B (aggregate) as zero - that is what the form says and it is left verbatim."
+ }
+}

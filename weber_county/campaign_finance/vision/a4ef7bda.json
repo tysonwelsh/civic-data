@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "a4ef7bda",
+ "source_filing": "raw/wayback/wb20160824031533_Kilts_financials.pdf",
+ "document_id": "wb20160824031533_Kilts_financials",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:05:38Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Leann Kilts",
+ "office_stated": "Weber County Recorder/Surveyor",
+ "report_type_stated": "October 21st - 28th",
+ "filing_date_stated": "2014-10-27",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "11,529.11",
+   "this": "2,100.00",
+   "cum": "13,629.11"
+  },
+  "contrib_le50": {
+   "last": "297.45",
+   "this": "-",
+   "cum": "297.45",
+   "n_contributors": ""
+  },
+  "expenditures": {
+   "last": "11,826.56",
+   "this": "787.72",
+   "cum": "12,614.28"
+  },
+  "ending_balance": {
+   "last": "0.00",
+   "this": "1,312.28",
+   "cum": "1,312.28"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed form; number-of-contributors line left blank on this report (it is 9 on the June report). RECEIVED stamp OCT 27 2014."
+}

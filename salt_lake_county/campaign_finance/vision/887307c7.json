@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "123.78",
+ "beginning_balance": "123.78",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "959.14",
+  "total_expenditures_to_date": "959.14",
+  "line5_subtotal": "123.78"
+ },
+ "cover": {
+  "candidate": "H. Brett Helsten",
+  "party": "Republican",
+  "office_sought": "County Council At Large A",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/2/15",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Helsten_B_CouncilA_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brett Helsten",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Helsten_B_CouncilA_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crop)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "'2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Line 1 Column A and Line 4 are left BLANK by the filer (empty strings, not zeros); Line 7 is a hand-drawn slashed zero. Cents on the Column B figures are written as a raised superscript over a rule ('959' with superscript '14'). Line 2 Column B has a struck-through / scribbled-out character immediately before the surviving '959.14' - the surviving value is recorded and the strike-out is noted, hence medium confidence. Arithmetic checks: 123.78 - 123.78 = 0."
+ }
+}

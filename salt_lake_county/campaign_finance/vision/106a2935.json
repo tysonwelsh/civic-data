@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "1,543.11",
+  "total_expenditures_to_date": "962.91",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "CHARLES A. BONSALL",
+  "party": "LIBERTARIAN",
+  "office_sought": "SL COUNTY CLERK",
+  "district_number": "",
+  "report_type": "January 31 of each year + Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/22/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cbonsall_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Charles Bonsall",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/cbonsall_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "TWO type-of-report boxes checked (January 31 of each year AND Final Report) - joined with ' + '. Every Column A cell is a slashed-zero / small-circle glyph -> '0'. Column B cents are in the superscript style ('962' with '91' raised); transcribed 962.91. Summary header: page 2 of 4, BONSALL, 1/22/07. RECEIVED stamp JAN 23 2007."
+ }
+}

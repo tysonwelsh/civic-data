@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$580.00",
+ "total_expenditures": "$4,464.44",
+ "beginning_balance": "$9,154.36",
+ "ending_balance": "$5,269.92",
+ "aggregate": {
+  "total_contributions_to_date": "$13,853.96",
+  "total_expenditures_to_date": "$8,584.04",
+  "line5_subtotal": "$9,734.36"
+ },
+ "cover": {
+  "candidate": "Chris William Harding",
+  "party": "Republican",
+  "office_sought": "_Auditor",
+  "district_number": "NA",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harding-Chris__D56479FB.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harding, Chris",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harding-Chris__D56479FB.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL general-election report (dated 10/31/22, No amendment); key 660d2104 is its 11/01/22 amendment and restates Column A as $1,293.00 / $5,177.44. Note that Line 5 ($9,734.36) minus Line 6 ($4,464.44) = $5,269.92 as printed. Same Column B aggregates as the amendment. Stale '2020' form template."
+ }
+}

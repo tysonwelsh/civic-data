@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8,508.33",
+ "total_expenditures": "3,578.46",
+ "beginning_balance": "455.32",
+ "ending_balance": "5,385.19",
+ "aggregate": {
+  "total_contributions_to_date": "11,028.87",
+  "total_expenditures_to_date": "5,643.68",
+  "line5_subtotal": "8,963.65"
+ },
+ "cover": {
+  "candidate": "BILLIE LARSON",
+  "party": "DEMOCRAT",
+  "office_sought": "TREASURER",
+  "district_number": "COUNTY",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/blarson_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Billie Gay Larson",
+  "office": "Treasurer",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/blarson_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This copy is a FAX: the header band on every page reads '09/15/2006 11:58  8015963134  DUNN FOR CONGRESS' \u2014 i.e. Larson's report was transmitted to the Clerk from a different campaign's fax machine. Line 1 Column B is written '11,028 87' with the last two digits running to the cell edge and no visible decimal point (recorded as 11,028.87, medium); Line 2 Column B is cramped but reads 5,643.68 (medium). Both readings are corroborated by the form's own arithmetic (455.32 + 8,508.33 = 8,963.65; minus 3,578.46 = 5,385.19; and 11,028.87 - 5,643.68 = 5,385.19). District Number field reads 'COUNTY'. Neither amendment box is checked."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2957.60",
+ "total_expenditures": "$1681.06",
+ "beginning_balance": "0",
+ "ending_balance": "$1276.54",
+ "aggregate": {
+  "total_contributions_to_date": "$2957.60",
+  "total_expenditures_to_date": "$1681.06",
+  "line5_subtotal": "$2957.60"
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": "LIBERTARIAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/3/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rlatham_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/rlatham_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "April 5 interim box checked; amendment = No; signed 4/3/06, clerk-stamped RECEIVED APR 04 2006; Summary Page header 'LATHAM, APRIL 3, 2006'. Line 3 Column A is written as a dashed zero '-0-', recorded as '0'. Arithmetic exact (2957.60 - 1681.06 = 1276.54). Note the clerk listing files this candidate under District Attorney; the form agrees."
+ }
+}

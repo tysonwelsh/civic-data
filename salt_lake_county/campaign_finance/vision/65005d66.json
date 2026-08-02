@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$8,549",
+ "total_expenditures": "$13,811.55",
+ "beginning_balance": "$7,740.93",
+ "ending_balance": "$2,478.38",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$16,289.93"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Interim Report: October 30 (for the period ending October 29, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/30/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_12_Oct_Council6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_12_Oct_Council6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm cents)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Column B (Year to Date) is blank on both lines 1 and 2 - the filer left it empty. Line 1 Column A is written with no cents ($8,549). Cents on lines 2,3,5,7 are written as raised superscripts over a rule; transcribed with a decimal point. Neither amendment box (Yes/No) is checked. The form's internal arithmetic is consistent (7,740.93 + 8,549 = 16,289.93; 16,289.93 - 13,811.55 = 2,478.38)."
+ }
+}

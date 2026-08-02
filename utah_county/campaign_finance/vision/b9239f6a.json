@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Ballard102912.pdf",
+ "key": "b9239f6a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:58:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "LARRY BALLARD",
+   "party_printed": "CONSTITUTION",
+   "office_printed": "UTAH COUNTY COMMISSION SEAT C",
+   "residence_city": "SALEM",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/29/12",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "0",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "0",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "0",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten block capitals. A ZERO REPORT: all nine summary cells carry the filer's hand-drawn oval zero - written zeros, not blanks, so all transcribed '0'. POLITICAL PARTY is written here as 'CONSTITUTION'; the SAME filer left the party cell blank on his 8/30/12 report (key 9630b1c7) - the difference is the filer's, recorded not reconciled. Office Seeking here reads 'UTAH COUNTY COMMISSION SEAT C' (his 8/30/12 cover wrote 'COUNTY COMMISSION SEAT C'); both agree with office_index 'County Commission Seat C'. AMENDMENT: the 'No' box is checked. Type of Report: 'Seven days preceding the General Election' is the only checked box. candidate_index was blank; the cover names LARRY BALLARD, verification block LARRY L. BALLARD. Page box reads 'Page 1 of 1' - i.e. the filer numbered this summary sheet as a standalone page."
+  }
+ ],
+ "notes": ""
+}

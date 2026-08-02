@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1450.",
+ "total_expenditures": "366.04",
+ "beginning_balance": "1342.57",
+ "ending_balance": "2426,53",
+ "aggregate": {
+  "total_contributions_to_date": "5610.00",
+  "total_expenditures_to_date": "3183,47",
+  "line5_subtotal": "2792,57"
+ },
+ "cover": {
+  "candidate": "MARY BISHOP",
+  "party": "Dem",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/17/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bishop_M_Recorder_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mary Bishop",
+  "office": "Recorder",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bishop_M_Recorder_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the 'June' report; the FORM checks 'Seven days before a primary election'. Line 1 Column A is written '1450.' followed by a raised dash (the zero-cents convention) - recorded as '1450.' with the dash described here, not transcribed. This filer MIXES decimal separators within one page: Line 2 Column B, Line 5 and Line 7 use a decimal COMMA (3183,47 / 2792,57 / 2426,53) while Line 1 Column B, Line 2 Column A and Line 3 use a period - each recorded as written. Neither amendment box is checked. On-form arithmetic is consistent (1342.57 + 1450 = 2792.57; less 366.04 = 2426.53) and the Column B running totals chain correctly to the April filing (key 9fa1d4aa)."
+ }
+}

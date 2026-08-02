@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2080",
+ "total_expenditures": "$791.60",
+ "beginning_balance": "0",
+ "ending_balance": "$1288.40",
+ "aggregate": {
+  "total_contributions_to_date": "$2080",
+  "total_expenditures_to_date": "$791.60",
+  "line5_subtotal": "$2080"
+ },
+ "cover": {
+  "candidate": "JOSEPH M. DEMMA",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNCIL",
+  "district_number": "AT-LARGE",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5",
+  "report_date": "4/5/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_April_Interim_Amend_CntyCncl_AtLrgC_Red.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_April_Interim_Amend_CntyCncl_AtLrgC_Red.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The candidate's name is written 'JOSEPH M. DEMMA' on the form (the clerk listing says 'Joe Demma'). District Number is written 'AT-LARGE' rather than a number - recorded verbatim. Both the April 5 interim box AND the amendment 'Yes' box are checked, with 'April 5' written as the date of the report being amended. Line 3 is a hand-drawn slashed zero, recorded as 0. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. Line 2 Column A's last cent digit is smudged and reads 791.66 or 791.60; recorded 791.60 at medium confidence (Column B and line 6 of the same form both read 791.60 clearly). The Summary Page header block (page, name, date) was left completely BLANK by the filer. Clerk RECEIVED stamp APR 11 2012."
+ }
+}

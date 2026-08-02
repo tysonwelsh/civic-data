@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$7,595.78",
+ "total_expenditures": "$7595.78",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$7595.78",
+  "total_expenditures_to_date": "$7595.78",
+  "line5_subtotal": "7595.78"
+ },
+ "cover": {
+  "candidate": "Kevin E. Jacobs",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/20/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jacobs_K_Assessor_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kevin E. Jacobs",
+  "office": "Assessor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jacobs_K_Assessor_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crop)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked; the amendment 'No' box is checked. Signed 1/20/14, clerk stamp JAN 31 2014. All four Line 1 / Line 2 money cells are prefixed with a hand-drawn dollar sign whose cursive stroke can look like a strike-through at low resolution - re-rendered at 300 dpi to confirm it is a '$', not a struck-out digit. Line 1 Column A additionally carries a thousands separator ('7,595.78') that the other three cells omit ('7595.78'); its separators are written loosely and could be read as commas in both positions, hence medium confidence on that one cell. Lines 4, 5 and 6 read 7595.78 without a dollar sign; lines 3 and 7 are hand-drawn open zeros. Arithmetic checks: 0 + 7,595.78 = 7,595.78 and 7,595.78 - 7,595.78 = 0."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$88,170.87",
+ "total_expenditures": "$16,928.16",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$71,242.71",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$88,170.87"
+ },
+ "cover": {
+  "candidate": "Rosie Rivera",
+  "party": "D",
+  "office_sought": "_Sheriff",
+  "district_number": "na",
+  "report_type": "September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "09/14/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Rivera-Rosie__AEDF400A.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rivera, Rosie",
+  "office": "Sheriff",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Rivera-Rosie__AEDF400A.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "The original September 15 report (amended ten days later by the 09/24/22 filing, which restates Column A as $48,768.00 against a $40,833.37 opening balance). Both are kept; never summed. Form title reads 2020 (template reuse)."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "45,042.12",
+ "total_expenditures": "50,171.61",
+ "beginning_balance": "50,508.32",
+ "ending_balance": "45,378.83",
+ "aggregate": {
+  "total_contributions_to_date": "131,012.65",
+  "total_expenditures_to_date": "85,693.82",
+  "line5_subtotal": "95,550.44"
+ },
+ "cover": {
+  "candidate": "ROSS ROMERO",
+  "party": "Democratic",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Romero_R_12_April_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ross Romero",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Romero_R_12_April_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Both scanned pages are rotated 90 degrees in the PDF (read sideways; page 2 also re-rendered at 250 dpi to confirm the Column B figures). The April 5 interim box is checked; NEITHER amendment box is checked; the signature is present but the Date line beside it was left BLANK, hence report_date is an empty string. Clerk RECEIVED stamp APR 05 2012; Summary Page 'Date of Report' box reads 4-5-2012. Face arithmetic is consistent. Line 2 Column B (85,693.82) is cramped, hence medium confidence, but it reconciles exactly with the amended filing's 86,350.22 less the 656.40 expenditure restatement."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "70,259.16",
+ "total_expenditures": "70,259.16",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "70,259.16",
+  "total_expenditures_to_date": "70,259.16",
+  "line5_subtotal": "70,259.16"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council -At Large C",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jauger_dissolutionreport07.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "10-page filing catalogued as the dissolution report. Pages 1-2 are the 2006 Financial Disclosure Report with the FINAL REPORT box checked; the Summary Page header reads 'Page 1 of 8', 'Janice Auger', 1-31-07. NEITHER amendment box is checked. Zeros on lines 3 and 7 are slashed zeros. Pages 3-10 (schedules / dissolution statement) were not read - totals tranche only."
+ }
+}

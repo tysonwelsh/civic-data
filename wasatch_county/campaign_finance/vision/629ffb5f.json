@@ -1,0 +1,73 @@
+{
+ "_meta": {
+  "index_path": "raw/2026/202603_R-Kahler.pdf",
+  "cache_key": "629ffb5f",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z"
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Rachel Anne Kahler",
+   "confidence": "high"
+  },
+  "office_verbatim": {
+   "value": "Wasatch County Council",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber City",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "March 31, 2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "zero",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "",
+    "confidence": ""
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "",
+    "confidence": ""
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed cover with lines 1-3 LEFT BLANK — no figures printed. Page 2's Table A prints its TOTAL as the word 'zero' and Table B prints none; the stated totals are left blank rather than promoting a word to a figure. No period box marked. Signature/date read from page 2. ZERO-GLYPH RULING 2026-08-02 (owner): page 2's Table A total is printed as the word 'zero' — under the ruling a written zero DENOTES the digit 0, so the stated contribution total is now promoted to 0.00 (verbatim word kept here); Table B prints NO total, so expenditures/balance remain honest blanks."
+}

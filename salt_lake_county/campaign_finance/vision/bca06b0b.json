@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "13,710",
+ "total_expenditures": "7,895.44",
+ "beginning_balance": "3,745.39",
+ "ending_balance": "9,559.95",
+ "aggregate": {
+  "total_contributions_to_date": "23,170",
+  "total_expenditures_to_date": "13,610.05",
+  "line5_subtotal": "17,455.39"
+ },
+ "cover": {
+  "candidate": "JOSEPH M DEMMA",
+  "party": "GOP",
+  "office_sought": "Council",
+  "district_number": "AT- LARGE",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2012)",
+  "is_amendment": "Yes",
+  "amendment_of": "9/15",
+  "report_date": "11/2/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_Sept_Interim_Amend2_CntyCncl_AtLrgC_Red.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_Sept_Interim_Amend2_CntyCncl_AtLrgC_Red.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Both the September 15 interim box AND the amendment 'Yes' box are checked, with '9/15' written as the date of the report being amended - matching the clerk listing's 'Amendment to September' (the file name says this is amendment 2). Signed 11/2/12, seven weeks after the period it covers. Party written 'GOP'; District Number written 'AT- LARGE'. Contribution amounts are written without cents. The Summary Page header block was left BLANK. Clerk RECEIVED stamp NOV 02 2012. Arithmetic is internally consistent, line 3 carries forward from the June report's line 7 and line 7 feeds the October report's line 3."
+ }
+}

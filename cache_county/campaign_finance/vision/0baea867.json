@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "a187205d4d8d764381055e6ddbdbbc08dc116964c14661589807f760dfe6b862",
+ "canonical_path": "raw/2024/2024_cc_2024_Jon_David_Jorgensen_Final_Disclosure.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_Jon_David_Jorgensen_Final_Disclosure.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Jon-David Jorgensen", "c": "high"},
+  "office_verbatim":   {"v": "County Council - North District", "c": "high"},
+  "office_district":   {"v": "North District", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Smithfield", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "30 Days after elimination", "c": "high"},
+  "date_signed":       {"v": "8/5/2024", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$2,087.20 (minus in-kind)", "c": "high"},
+   "B_contrib_this_period":    {"v": "$50", "c": "high"},
+   "C_contrib_ytd":            {"v": "$10,211.53", "c": "high"},
+   "D_expend_this_period":     {"v": "$0", "c": "high"},
+   "E_expend_ytd":             {"v": "$8,830.17", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$2,137.20 (minus in-kind)", "c": "high"},
+   "closing_balance":          {"v": "$2,137.20 (minus $2,137.20 of in-kind on prior report)", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "50", "c": "high"},
+   "total_expenditures_made":      {"v": "0", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "North District",
+  "evidence": "page 1 'Office' box reads 'County Council - North District' (typed)",
+  "confidence": "high"
+ },
+ "notes": "Typed/word-processed entries on a scanned Cache County Candidate Financial Disclosure (cache_cfd), 4 pages: cover p1, Schedule A p2, Schedule B p3, Summary p4. All four pages carry a vertical scanner artifact (a dark streak down the left-of-centre of the page); it does not obscure any field.\n\nCOVER (p1): Name of Candidate 'Jon-David Jorgensen'. Address '274 West 200 North', City 'Smithfield', State 'UT', Zip '84335'. Office 'County Council - North District'. Phone '425-535-1776'. Email 'votejondavid@gmail.com'. Type of Report: an X-in-circle mark on '30 Days after elimination'; the other two options unmarked. IS THIS REPORT AN AMENDMENT: 'Yes' is marked with an X-in-circle and 'Date of Original Report' reads '6/18/2024' - so THIS FILING IS AN AMENDMENT to a 6/18/2024 report; 'No' is unmarked. Affirmation printed name 'Jon-David Jorgensen'. Handwritten signature present. Date '8/5/2024'. Date of Report '8/5/2024'. Page '1'. Office Use Only: neither 'Logged' nor 'Transmitted' is filled; NO received stamp appears on the page. Note the Where-to-File email on this 2024-vintage form is 'elections@cachecounty.gov' (.gov), whereas the 2022-vintage forms print 'elections@cachecounty.org' (.org).\n\nSCHEDULE A (p2): 1 itemized row: '7/14/2024 | Gary Winger | 50 E. South Temple, Ste. 400, SLC, UT | $50'. Subtotal for this page '50'. Total Contributions Received '50' (both printed after the form's preprinted '$', without a repeated dollar sign). Footer 'Jon-David Jorgensen', '8/5/2024', Page '2'.\n\nSCHEDULE B (p3): no itemized rows. Subtotal for this page '0'. Total Expenditures Made '0'. Footer 'Jon-David Jorgensen', '8/5/2024', Page '3'.\n\nSUMMARY (p4): the filer annotated several boxes with in-kind qualifiers; these are recorded verbatim as part of the value rather than stripped. Box A '$2,087.20 (minus in-kind)'. Box B '$50'. Box C '$10,211.53'. Box D '$0'. Box E '$8,830.17'. Box F '$2,137.20 (minus in-kind)'. Balance at Close of Reporting Period '$2,137.20 (minus $2,137.20 of in-kind on prior report)'. Footer 'Jon-David Jorgensen', '8/5/2024', Page '4'.\n\nOBSERVATION (recorded, not corrected): the closing-balance box states $2,137.20 and then, parenthetically, that $2,137.20 of in-kind was reported on a prior report - a wording that on its face could mean the true cash balance is zero, but the page does not state a second figure, so only the printed text is recorded. No arithmetic was performed. Boxes C and E are cycle-to-date figures that cannot be derived from this document's own schedules (which show only $50 in and $0 out) - expected for an amended final report, not a contradiction.\n\nLEDGER CHECK: the ledger's candidate value 'Jon-David Jorgensen' MATCHES the page evidence exactly (including the hyphenation). The ledger's scope_status='undetermined' is CONTRADICTED by the page evidence: the Office box plainly reads 'County Council - North District', so scope is county, office_std 'County Council', seat 'North District'."
+}

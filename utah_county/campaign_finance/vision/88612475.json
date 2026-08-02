@@ -1,0 +1,59 @@
+{
+ "path": "raw/2016/2016_PP2016Voeks.pdf",
+ "key": "88612475",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Casey Voeks",
+   "party_printed": "Republican",
+   "office_printed": "County Commission Seat C",
+   "residence_city": "Eagle Mountain",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "No",
+   "report_date": "July 8, 2016",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "6,626.57",
+    "contrib_cumulative": "24,586.49",
+    "expend_this_period": "9,448.01",
+    "expend_cumulative": "24,586.49",
+    "balance_beginning": "2,821.44",
+    "subtotal_before_expend": "9,448.01",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "6,626.57",
+    "line1_total_contributions_colB": "24,586.49",
+    "line2_total_expenditures_colA": "9,448.01",
+    "line2_total_expenditures_colB": "24,586.49",
+    "line3_balance_beginning": "2,821.44",
+    "line4_total_contributions_from_line1A": "6,626.57",
+    "line5_subtotal_lines3plus4": "9,448.01",
+    "line6_total_expenditures_from_line2A": "9,448.01",
+    "line7_balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed cover and typed summary figures on a scanned page - crisp. The 'Print Name of Candidate' line in the Report Verification block is handwritten 'CASEY VOEKS'; the typed header field 'Casey Voeks' is transcribed. Summary page header prints 'Date of Report July 8, 2016' matching the signature date. Office field agrees with office_index."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Christopher_Forbush_Redacted.pdf",
+ "key": "598569ae",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:38:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Christopher Forbush",
+   "party_printed": "",
+   "office_printed": "County Commission Seat A",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/4/26",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "189.92",
+    "contrib_cumulative": "189.92",
+    "expend_this_period": "189.92",
+    "expend_cumulative": "189.92",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "189.92",
+    "boxC_contributions_received_year_to_date": "189.92",
+    "boxD_expenditures_made_this_period": "189.92",
+    "boxE_expenditures_made_year_to_date": "189.92",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form. Office field reads 'County Commission Seat A' (index.csv 'County Commission Seat A' - exact agreement). The ENTIRE address row (label bar included), the phone number and the signature block are redacted upstream by the county with wide black bars, so residence_city is ''; the email survives. FILER INCONSISTENCY, transcribed verbatim and NOT corrected: the form's formula makes Box F = Box A + Box B = 189.92, but the filer typed F = 0 (and a close of 0) - evidently reporting the net position after the equal-and-opposite expenditure. No arithmetic was applied. Boxes A, F and the close are typed '0' with no cents while B-E carry '$' and two decimals. Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

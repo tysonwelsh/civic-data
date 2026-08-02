@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,283.80",
+ "total_expenditures": "733.80",
+ "beginning_balance": "0.00",
+ "ending_balance": "2,550.00",
+ "aggregate": {
+  "total_contributions_to_date": "3,283.80",
+  "total_expenditures_to_date": "733.80",
+  "line5_subtotal": "3,283.80"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "3/31/2006",
+  "report_date": "3/31/2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/carriedickson_april5amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/carriedickson_april5amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Fully TYPED form (machine-filled, crisp). NO Type-of-Report box is checked - neither an interim box nor year-end nor final - so report_type is '' even though the file name and the amendment date (3/31/2006) identify it as the April 5 report. Summary header: page 1 of 1, Dickson, 3/31/2006 (the PDF has 4 pages). Received stamp OCT 06 2006."
+ }
+}

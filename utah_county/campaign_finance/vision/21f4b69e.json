@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_30DayHJackson.pdf",
+ "key": "21f4b69e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:50:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Heather Jackson",
+   "party_printed": "Republican",
+   "office_printed": "County Commission Seat B",
+   "residence_city": "Eagle Mountain",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "6 May 2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "7,690.00",
+    "contrib_cumulative": "7690.00",
+    "expend_this_period": "6,611.19",
+    "expend_cumulative": "6,611.19",
+    "balance_beginning": "",
+    "subtotal_before_expend": "7,690.00",
+    "balance_close": "1,078.81"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,690.00",
+    "line1_total_contributions_colB": "7690.00",
+    "line2_total_expenditures_colA": "6,611.19",
+    "line2_total_expenditures_colB": "6,611.19",
+    "line3_balance_beginning": "",
+    "line4_total_contributions_from_line1A": "7,690.00",
+    "line5_subtotal_lines3plus4": "7,690.00",
+    "line6_total_expenditures_from_line2A": "6,611.19",
+    "line7_balance_at_close": "1,078.81"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; cents written as a small raised pair. Most figures carry a leading '$' scrawled into the cell edge; the $ is dropped per spec. LINE 3 (Balance at Beginning of Reporting Period) is LEFT BLANK by the filer - transcribed as an empty string, NOT zero. Line 1 Column B shows no comma ('7690.00') where Column A does ('7,690.00'); the leading struck dollar sign sits where a comma would be, so Column B is medium confidence on that punctuation - the digits themselves are clear. REPORT-TYPE DISAGREEMENT with the portal: index reporting_period is '30 Day Commission B - H Jackson' but the checked box is 'INTERIM REPORTS - 30 Days after withdraw or elimination' (dated 6 May 2014). Index candidate is blank; the page names Heather Jackson. Office 'County Commission Seat B' agrees with index.csv. The summary page's Page/of, Last Name and Date-of-Report header boxes are all left blank."
+  }
+ ],
+ "notes": ""
+}

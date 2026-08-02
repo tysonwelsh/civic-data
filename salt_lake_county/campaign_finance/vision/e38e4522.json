@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header 'October 2008 amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "3/8/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "medium",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_08_Oct_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_08_Oct_Amended_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "INCOMPLETE DOCUMENT worth a human's eye: this PDF is ONE PAGE - the cover sheet only. The Summary Page and schedules that should accompany an October 2008 amendment are NOT in the file, so every total is null (not zero). Hand-titled 'October 2008 amendment'. No Type-of-Report box is checked; the amendment 'Yes' box is checked with date of report 2/14/13, but the signature date reads 3/8/13 - a later date than the other five Horiuchi amendments in this chunk, which were all signed 2/14/13. The signature-date digits are cramped over the printed rule, hence medium confidence on report_date."
+ }
+}

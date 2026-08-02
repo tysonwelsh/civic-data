@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "228.14",
+ "total_expenditures": "650.08",
+ "beginning_balance": "421.94",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "6134.07",
+  "total_expenditures_to_date": "6134.07",
+  "line5_subtotal": "650.08"
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": "LIBERTARIAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "12/26/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rlatham_finalreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/rlatham_finalreport07.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the FINAL REPORT box is checked (the clerk listing calls it the '2006 Summary Report'); neither amendment box is checked. Signed 12/26/06, clerk annotation 'Received SLCo Clerk DEC 26 2006'; Summary Page header 'LATHAM, DEC. 26, 2006'. Line 7 is a dashed zero '-0-', recorded as '0'. Everything reconciles: 421.94 + 228.14 = 650.08, less 650.08 = 0, and Column B shows contributions-to-date equal to expenditures-to-date at 6134.07."
+ }
+}

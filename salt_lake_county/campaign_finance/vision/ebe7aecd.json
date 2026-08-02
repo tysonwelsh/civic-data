@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "35,912.80",
+ "total_expenditures": "51,669.18",
+ "beginning_balance": "18,010.49",
+ "ending_balance": "2,254.11",
+ "aggregate": {
+  "total_contributions_to_date": "69,106.69",
+  "total_expenditures_to_date": "67,110.65",
+  "line5_subtotal": "53,923.29"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council Seat At-Large \"C\"",
+  "district_number": "",
+  "report_type": "Interim Report: October 31 (for the period ending October 30, 2006)",
+  "is_amendment": "Yes",
+  "amendment_of": "10/31/06",
+  "report_date": "10-31-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_oct312006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jbradley_oct312006amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment: the Yes box is checked and '10/31/06' is written ABOVE the date-of-report rule, over an earlier entry on the rule that has been struck through and is illegible; the surviving value 10/31/06 is recorded. Clerk received-stamp is NOV 02 2006 while the signature date is 10-31-06. The Summary Page figures are IDENTICAL to the un-amended October filing (jbradley_oct312006.pdf) - the amendment did not change the stated totals."
+ }
+}

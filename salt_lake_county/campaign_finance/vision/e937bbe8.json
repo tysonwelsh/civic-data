@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "12,273.45",
+ "total_expenditures": "6469.72",
+ "beginning_balance": "317.56",
+ "ending_balance": "6121.29",
+ "aggregate": {
+  "total_contributions_to_date": "20742.61",
+  "total_expenditures_to_date": "14621.32",
+  "line5_subtotal": "12591.01"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Co. Council",
+  "district_number": "6",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "9-26-08",
+  "report_date": "9-26-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "is_amendment": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mburdick_amendmentsept1508.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mburdick_amendmentsept1508.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO Type-of-Report period box is checked on this form \u2014 the only mark in that block is the amendment 'Yes' with date of report '9-26-08', so report_type is recorded as '' (the block exists and was left unchecked). The clerk listing calls it 'Amendment to September'. Column B on line 1 is written with a space instead of a comma ('20 742.61'), recorded as 20742.61. This filer also writes 6 as an open loop; readings are corroborated by the form's own arithmetic (317.56 + 12,273.45 = 12,591.01; 12,591.01 \u2212 6,469.72 = 6,121.29). The page-1 clerk RECEIVED stamp (SEP 26 2008) is scanned upside-down at the top of the page."
+ }
+}

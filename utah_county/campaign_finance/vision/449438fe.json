@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Kim_Jackson.pdf",
+ "key": "449438fe",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Kim Jackson",
+   "party_printed": "",
+   "office_printed": "Treasurer",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/28/2024",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "1,375.74",
+    "contrib_cumulative": "1,375.74",
+    "expend_this_period": "1,375.74",
+    "expend_cumulative": "1,375.74",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "1,375.74",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "1,375.74",
+    "boxC_contributions_received_year_to_date": "1,375.74",
+    "boxD_expenditures_made_this_period": "1,375.74",
+    "boxE_expenditures_made_year_to_date": "1,375.74",
+    "boxF_subtotal_before_expenditures": "1,375.74",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the printed v. 12.23 form; handwriting is crisp. Office field reads exactly 'Treasurer' (index.csv says 'County Treasurer' - a naming-convention difference, not a conflict). The form prints no political-party field. This filing is NOT redacted: the address block is fully legible (city Provo, UT 84604); only the city is recorded here per package privacy rules. Box A is written as a dollar sign, a zero, then a raised double-o cents glyph ('$0.oo') - read as 0.00 at medium confidence; the Balance at Close box is written the same way and is clearly $0.00. Amounts B-F carry the filer's dollar signs and comma thousands separators, transcribed without the leading $. A red clerk date stamp 'OCT 28 2024' with a blue received mark sits over the Type-of-Report block (clerk markup, not filer content). The PDF has 6 pages but the summary page's own footer numbers it 'Page 4' - the filer's page numbering does not match the scanned PDF pagination."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "7dafffd9",
+ "source_filing": "raw/y2026/2026_ugd_92078f_43ba38c9.pdf",
+ "document_id": "2026_ugd_92078f_43ba38c9",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Richard Hyer",
+ "office_stated": "",
+ "report_type_stated": "7 days before the candidates' convention - Convention",
+ "filing_date_stated": "2026-04-02",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "38475.00",
+   "cum": "38475.00"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "12994.49",
+   "cum": "12994.49"
+  },
+  "ending_balance": {
+   "last": "",
+   "this": "25,480.51",
+   "cum": "25480.51"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, HANDWRITTEN. \u26a0 THE 'Name of Office' FIELD IS BLACKED OUT BY THE COUNTY'S OWN REDACTION on this copy (the redaction bar over the address/phone block extends over the office line) - that is why office_stated is blank in index.csv. An over-redaction by the publisher, not a filer omission and not an unread value; nothing behind it is recovered (PRIVACY.md). FILER INCONSISTENCIES retained: this filer's May report carries 38,375.00 (not 38,475.00) and a 28,380.51 balance (not 25,480.51) in its 'Last Report' column."
+}

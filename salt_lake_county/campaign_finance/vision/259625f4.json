@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$574.92",
+ "total_expenditures": "$574.92",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$574.92",
+  "total_expenditures_to_date": "$574.92",
+  "line5_subtotal": "574.92"
+ },
+ "cover": {
+  "candidate": "Josie Valdez",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Assessor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/03/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvaldez_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Josie Valdez",
+  "office": "Assessor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jvaldez_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1 and 2 are written with a small raised '$' prefix (kept); Lines 4-6 have no '$'. Lines 3 and 7 are a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Contributions exactly equal expenditures (574.92) so the account opens and closes at zero. Neither amendment box is checked. Signed 4/03/06, clerk-stamped APR 03 2006."
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "23,923",
+ "total_expenditures": "14,783.88",
+ "beginning_balance": "709.55",
+ "ending_balance": "$9,848.67",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "24,632.55"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "N/A",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__D82CCB77.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__D82CCB77.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF; address/phone/email and signature redacted. Column B cells are EMPTY (recorded \"\"); DISTINCT figures are printed on the two section-header rows - '$42,541' on CONTRIBUTIONS RECEIVED and '$29,378.47' on EXPENDITURES MADE - outside the Column B cells. That they differ from each other supports reading them as the mis-placed aggregate (Column B) totals, but they are not in the cells so I have not assigned them; flagged for a human. NOTE ACROSS FILINGS: Line 3 here is 709.55, the same beginning balance the June primary report used, even though that report closed at 4,048.41 - the filer did not carry Line 7 forward. Neither amendment box is checked."
+ }
+}

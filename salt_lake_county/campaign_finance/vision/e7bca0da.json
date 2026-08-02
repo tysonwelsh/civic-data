@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "43,873",
+ "total_expenditures": "73,985.05",
+ "beginning_balance": "43,506.57",
+ "ending_balance": "13,394.52",
+ "aggregate": {
+  "total_contributions_to_date": "143,054.53",
+  "total_expenditures_to_date": "129,660.01",
+  "line5_subtotal": "87,379.57"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large Seat A",
+  "district_number": "",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Wilson_Jenny_CouncilA_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Wilson_Jenny_CouncilA_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten 2014 form; October 28 interim checked, neither amendment box checked. Line 1 Column A is written without cents ('43,873') \u2014 kept verbatim. The Summary Page 'Date of Report' box reads 'October 28, 2014'. A hand annotation '10 pgs' appears at the top of page 1. Received stamp OCT 28 2014."
+ }
+}

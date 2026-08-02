@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Oaks_Jake.pdf",
+ "key": "77e1e2f0",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:28:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jake Oaks",
+   "party_printed": "",
+   "office_printed": "County Clerk",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "11/14/2022",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "73.92",
+    "contrib_cumulative": "2,440.80",
+    "expend_this_period": "207.80",
+    "expend_cumulative": "2,377",
+    "balance_beginning": "197.78",
+    "subtotal_before_expend": "271.70",
+    "balance_close": "63.90"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "197.78",
+    "boxB_contributions_received_this_period": "73.92",
+    "boxC_contributions_received_year_to_date": "2,440.80",
+    "boxD_expenditures_made_this_period": "207.80",
+    "boxE_expenditures_made_year_to_date": "2,377",
+    "boxF_subtotal_before_expenditures": "271.70",
+    "boxG_balance_at_close": "63.90"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form, crisp. NEITHER amendment radio is checked, so is_amendment is \"\" (not 'No'). Box E is written WITHOUT cents ('2,377') while every other box carries them - preserved as printed, not padded to '2,377.00'. Office field reads 'County Clerk' with no 'Utah County' prefix. Address printed in the clear (1845 E. 230 S., Spanish Fork, UT 84660); signature present, not redacted. The 'Date of Filing' box is empty; report_date is the cover's signature Date (11/14/2022) - the summary page's own Date of Report box reads the 2-digit form '11/14/22'. The OCR locator guessed variant legacy_colAB; the page is the modern Box A-G form."
+  }
+ ],
+ "notes": ""
+}

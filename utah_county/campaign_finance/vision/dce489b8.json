@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Lee_Bill_4.4.2022_Redacted.pdf",
+ "key": "dce489b8",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 13, 15],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "",
+   "office_printed": "Commission Seat B",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/4/2022",
+   "summary_page": 13,
+   "totals": {
+    "contrib_this_period": "32,970",
+    "contrib_cumulative": "6,820",
+    "expend_this_period": "11,221.44",
+    "expend_cumulative": "7370.67",
+    "balance_beginning": "4,773.67",
+    "subtotal_before_expend": "37,743.67",
+    "balance_close": "26,522.23"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "4,773.67",
+    "boxB_contributions_received_this_period": "32,970",
+    "boxC_contributions_received_year_to_date": "6,820",
+    "boxD_expenditures_made_this_period": "11,221.44",
+    "boxE_expenditures_made_year_to_date": "7370.67",
+    "boxF_subtotal_before_expenditures": "37,743.67",
+    "balance_at_close": "26,522.23"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten summary page. The filer writes cents as a raised superscript with no decimal point (e.g. Box A is '4,773' with a superscript '67'); those are rendered here with a decimal point, which is a transcription of the filer's own cents notation, not a computed value. Boxes B and C carry NO cents at all as written ('32,970' and '6,820'). Box D is written with an odd internal space and no comma ('11 221' + superscript '44') - transcribed '11,221.44' at medium confidence. Box E is written without a comma ('7370' + superscript '67') and is kept that way. FILER INCONSISTENCIES, retained verbatim and NOT corrected: Box C (Contributions Year to Date, 6,820) is SMALLER than Box B (this period, 32,970), and Box E (Expenditures YTD, 7370.67) is smaller than Box D (this period, 11,221.44) - the year-to-date pair appears to have been filled in wrongly by the filer. Address block and signature are blacked out (redacted upstream by the county). Office is handwritten as 'Commission Seat B' - no 'Utah County' prefix on the page, though it agrees with the index."
+  }
+ ],
+ "notes": "PAGINATION MISMATCH worth flagging: the PDF is 16 physical pages, but the form's own page boxes read 'Page 1 of 7' on the cover (physical p1) and 'Page 2 of 7' on the summary (physical p13) - the county's scan interleaves ~11 other physical pages between the cover and the summary of what the filer numbered as a 7-page report. Only the three rendered images (p1, p13, p15) were read, so whether the intervening pages hold a SECOND report could not be determined from the images available; a single report is emitted because only one cover and one summary page were seen. Physical p15 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, both dated 4/4/2022), not a report page - the OCR locator flagged it as a summary page and it is not."
+}

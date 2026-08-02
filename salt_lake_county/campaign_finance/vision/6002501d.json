@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$250.00",
+ "total_expenditures": "0",
+ "beginning_balance": "$21,297.20",
+ "ending_balance": "$21,547.20",
+ "aggregate": {
+  "total_contributions_to_date": "$39,353.50",
+  "total_expenditures_to_date": "$17,806.30",
+  "line5_subtotal": "$21,547.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-15",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Debry_S_Council5_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Debry_S_Council5_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. The cover signature is dated 1-30-15 while the Summary Page header block is dated 'Jan. 29, 2015' - a one-day disagreement between the two dates on the same filing; the cover date is recorded. A handwritten '4' appears at the top right. Neither amendment box is checked. Clerk RECEIVED stamp JAN 30 2015. Line 3 matches the October 2014 report's line 7; arithmetic consistent."
+ }
+}

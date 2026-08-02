@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,500.00",
+ "total_expenditures": "23,40",
+ "beginning_balance": "19,933.48",
+ "ending_balance": "27,011.13",
+ "aggregate": {
+  "total_contributions_to_date": "7,500.",
+  "total_expenditures_to_date": "23.40",
+  "line5_subtotal": "27,433.48"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4.5.22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "low",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__6D0CE8CD.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard ",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__6D0CE8CD.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. MAJOR INTERNAL INCONSISTENCY AS PRINTED: Line 2 Column A (TOTAL EXPENDITURES MADE) is written '23,40' (a decimal COMMA - the build applies the shared whitelisted comma-as-decimal repair to read $23.40), but Line 6, which the form defines as 'From Line 2 Column A', is written '$422.35' with '23.40' STRUCK THROUGH beneath it. Line 2 is transcribed verbatim as the form's stated expenditure total; the Line 6 correction is recorded here and NOT substituted. Line 7 is struck through entirely and a handwritten '$27,011.13 (RHS)' is written below the table - that standing value is recorded as the closing balance (medium). Contribution cents use the superscript-over-line style ('7,500.oo', Column B '7,500.'). Neither amendment box is checked. Office Sought box blank; the cover 'Office' box reads 'Council B'. Signature/date area is redacted black; date taken from the Summary header '4.5.22' and the clerk RECEIVED stamp APR 05 2022."
+ }
+}

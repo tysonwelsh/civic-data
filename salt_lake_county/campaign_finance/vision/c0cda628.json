@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$9,896.51",
+ "total_expenditures": "$14,927.70",
+ "beginning_balance": "$23,813.35",
+ "ending_balance": "$18,782.16",
+ "aggregate": {
+  "total_contributions_to_date": "$55,362.87",
+  "total_expenditures_to_date": "$36,580.71",
+  "line5_subtotal": "$33,709.86"
+ },
+ "cover": {
+  "candidate": "Goud Maragani",
+  "party": "Republican",
+  "office_sought": "_Clerk",
+  "district_number": "N/A",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "09/15/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Maragani-Goud__121F4A53.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Maragani, Goud",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Maragani-Goud__121F4A53.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form. The form TITLE reads '2020 Financial Disclosure Report' although this is a 2022-cycle filing - the candidate reused the 2020 form, and all four Maragani e-filings in this chunk carry the 2020 title. The signature Date cell is EMPTY; the date comes from the red e-signature stamp '09/15/22 - 3:06 PM' and the Summary Page header 'Date of Report 09/15/22'. 'Office Sought' is printed as '_Clerk' with a leading underscore - recorded verbatim. Summary Page is page 2 of 9."
+ }
+}

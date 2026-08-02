@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$4,935.04",
+ "total_expenditures": "$200.00",
+ "beginning_balance": "$10,393.30",
+ "ending_balance": "$15,128.34",
+ "aggregate": {
+  "total_contributions_to_date": "$26,653.50",
+  "total_expenditures_to_date": "$11,525.16",
+  "line5_subtotal": "$15,328.34"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-25-11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sdebry_10_YearEnd_CntyCncl5.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sdebry_10_YearEnd_CntyCncl5.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Year-End box checked; neither amendment box is checked. Signed 1-25-11 and clerk-stamped RECEIVED JAN 2011, i.e. the year-end report FOR 2010. Summary Page header 'DeBry, 1-25-11, page 2 of 4'. Both columns reconcile exactly (10,393.30 + 4,935.04 = 15,328.34; less 200.00 = 15,128.34 = 26,653.50 - 11,525.16), and Column B chains correctly from the October interim (11,325.16 + 200.00 = 11,525.16)."
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,735.79",
+ "total_expenditures": "$1,184.79",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$551.00",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$1,735.79"
+ },
+ "cover": {
+  "candidate": "David M Muir",
+  "party": "United Utah",
+  "office_sought": "_Auditor",
+  "district_number": "SL County",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "2222-03-31",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "amendment_of": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Muir-David__01A11EF4.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Muir, David",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Muir-David__01A11EF4.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250 to confirm the amendment date)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing (all four Muir e-filings here carry the 2020 title). This IS an amendment: the Yes box is checked and the date of the amended report is printed as '2222-03-31' - a filer year typo for 2022-03-31, confirmed at 250 dpi and recorded verbatim. The 'District Number' cell holds 'SL County', and 'Office Sought' is '_Auditor' with a leading underscore. E-signature stamp 10/31/22 - 7:32 PM; the signature Date cell is blank. Column B is printed as $0.00 on Lines 1 and 2 while Column A carries figures - an internal inconsistency, recorded verbatim. Arithmetic check: $1,735.79 - $1,184.79 = $551.00, matching Line 7. Summary Page is page 2 of 4."
+ }
+}

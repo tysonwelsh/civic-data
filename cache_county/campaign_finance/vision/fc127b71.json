@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "8b3d3cb7f4bc6c18dcd90959a649f77103b3a4d8bfc2e4f4691b9525d4f68324",
+ "canonical_path": "raw/2012/2012_st_Barnard_Jon_White_10_16_12_general.pdf",
+ "applies_to": [
+  "raw/2012/2012_st_Barnard_Jon_White_10_16_12_general.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Barnard Jon White",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Paradise",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "Oct 16",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 18 OCT 2012 AM 09:30",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'County Council'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "All twelve boxes carry a horizontal DASH, not a digit \u2014 recorded blank, never read as zero. Signature date reads only 'Oct 16' (no year)."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "$111.80",
+ "ending_balance": "$111.80",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "$111.80"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council District 4",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/16/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/JIwamoato_11_YearEnd_CntyCncl1_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/JIwamoato_11_YearEnd_CntyCncl1_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signature dated 1/16/12 while the Summary Page header block gives the date of report as 1/13/2012 - both recorded (report_date follows the signature); clerk stamp JAN 17 2012. The office-sought box reads 'County Council District 4' as one string, so district_number is left blank rather than split. Lines 1, 2, 4 and 6 (both columns where present) are hand-drawn slashed zeros (\u00d8), recorded as '0'. Lines 3, 5 and 7 read '$111.80' with a hand-drawn dollar sign. NOTE the $111.80 here versus the $111.08 on key 1ce31a59 - the later dissolution filing (key 2b6be4e4) carries a marginal note saying the 1/25/13 report's digits were accidentally transposed and $111.80 is correct."
+ }
+}

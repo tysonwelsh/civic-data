@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$10,600.00",
+ "total_expenditures": "$12,143.81",
+ "beginning_balance": "$12,542.06",
+ "ending_balance": "$10,998.25",
+ "aggregate": {
+  "total_contributions_to_date": "$23,850.00",
+  "total_expenditures_to_date": "$13,245.61",
+  "line5_subtotal": "$23,142.06"
+ },
+ "cover": {
+  "candidate": "Jensen, Michael",
+  "party": "REPUBLICAN",
+  "office_sought": "Council #2",
+  "district_number": null,
+  "report_type": "Interim Report June 19, 2012",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "6/19/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jensen_M_12_June_Interim_CntyCncl2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jensen_M_12_June_Interim_CntyCncl2_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk 'summary_printer.cfm' online printout, Summary on page 1; no District Number field and no amendment question on the form (null). Lines 3, 5 and 7 handwritten. Column A arithmetic checks out (12,542.06 + 10,600.00 = 23,142.06; 23,142.06 - 12,143.81 = 10,998.25) and both ends of the chain match the April and September filings. Footer print date 6/19/2012."
+ }
+}

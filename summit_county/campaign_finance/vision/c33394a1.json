@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "20757",
+  "path": "raw/2022/20757_Keyes-Post-Election-2022.pdf",
+  "page": 1,
+  "sha256": "f75c90b7b62ee6ba1fd02ad70b9ec6d8fd726acfe6e6604e940da1232ad4b48d",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/20757/Keyes-Post-Election-2022",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Cindy Marchant Keyes",
+  "office_verbatim": "Auditor",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "12/6/2022",
+  "rows": {
+   "contrib_total": {
+    "current_report": "0.00",
+    "last_report": "1,241.79",
+    "cumulative_totals": "1,241.79"
+   },
+   "total_expenditures": {
+    "current_report": "0.00",
+    "last_report": "1,241.79",
+    "cumulative_totals": "1,241.79"
+   },
+   "campaign_balance": {
+    "current_report": "0.00",
+    "last_report": "0.00",
+    "cumulative_totals": "0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2022 single-total sheet; this Post-Election copy is NOT redacted (the Pre-Election copy, doc 20636, was). Column-order cross-check: Last Report reproduces doc 20636's Current figures exactly. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

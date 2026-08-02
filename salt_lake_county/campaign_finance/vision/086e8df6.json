@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$525.00",
+ "total_expenditures": "-0-",
+ "beginning_balance": "$42.01",
+ "ending_balance": "$567.01",
+ "aggregate": {
+  "total_contributions_to_date": "$606.56",
+  "total_expenditures_to_date": "$153.23",
+  "line5_subtotal": "$567.01"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "3",
+  "report_type": "June 20",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-19-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_wilde_david06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_wilde_david06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy - banner '06/19/2006 11:11  8017470480  MATHESON&PESHELL  PAGE 02/03'. Handwritten '$' signs are glued to the digits - kept verbatim. Zeros written '-0-'. This report was later AMENDED (key d2e70228), which restates Line 1 Col A as 7525.00 and Line 2 Col B as 403.23. Summary header: page 2 of 4, WILDE, 6-19-06. Received stamp JUN 19 2006."
+ }
+}

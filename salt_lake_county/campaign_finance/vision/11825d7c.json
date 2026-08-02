@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1100 -",
+ "total_expenditures": "736 -",
+ "beginning_balance": "87.92",
+ "ending_balance": "451.92",
+ "aggregate": {
+  "total_contributions_to_date": "13,747.85",
+  "total_expenditures_to_date": "13,295.93",
+  "line5_subtotal": "1187.92"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2/1/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/jhatch_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Signed 2/1/10 and clerk-stamped FEB 01 2010, so this is the year-end report covering calendar 2009 (manifest calls it the 2009 Summary Report - consistent). Lines 1 and 2 Column A write the cents as a trailing dash ('1100 -', '736 -'); Line 4 spells the same figure out as '1100.00'. Column B cents are written as raised superscripts (13,747 with a superscript 85; 13,295 with a superscript 93) - transcribed with a decimal point. The form has both an 'Office' box ('COUNTY COUNCIL') and an 'Office Sought' box ('COUNCIL'); Office Sought is used per contract. Form arithmetic checks out."
+ }
+}

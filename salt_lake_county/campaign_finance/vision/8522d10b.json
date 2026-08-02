@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "45,042.12",
+ "total_expenditures": "50,828.01",
+ "beginning_balance": "50,508.32",
+ "ending_balance": "44,722.43",
+ "aggregate": {
+  "total_contributions_to_date": "131,012.65",
+  "total_expenditures_to_date": "86,350.22",
+  "line5_subtotal": "95,550.44"
+ },
+ "cover": {
+  "candidate": "Ross Romero",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Mayor",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "4/9/12 (Amendment to April 5 Report)",
+  "report_date": "4/9/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Romero_R_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ross Romero",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Romero_R_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO interim / year-end / final box is checked - only the amendment 'Yes' box, annotated in full as '4/9/12 (Amendment to April 5 Report)', so report_type is an honest empty string. Signed 4/9/12; clerk RECEIVED stamp APR 09 2012. Summary Page header reads 'Page 2 of 3, Romero, Date of Report 4/9/12'. Face arithmetic is consistent. Against the un-amended April interim (Romero_R_12_April_Interim), expenditures were restated 50,171.61 -> 50,828.01 (a +656.40 change carried through Column B, 85,693.82 -> 86,350.22) and the closing balance 45,378.83 -> 44,722.43."
+ }
+}

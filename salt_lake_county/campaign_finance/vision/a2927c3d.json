@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$18,850.00",
+ "total_expenditures": "$7,764.19",
+ "beginning_balance": "$5,409.77",
+ "ending_balance": "$16,495.58",
+ "aggregate": {
+  "total_contributions_to_date": "$26,990.29",
+  "total_expenditures_to_date": "$15,217.16",
+  "line5_subtotal": "$24,259.77"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "2",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/7/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mjensen_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mjensen_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This filer TYPES the form (machine text, not handwriting) \u2014 the cleanest documents in the chunk. The 'No' amendment box is checked. All figures carry the $ and are fully reconciled, both within the page and against the January 2008 year-end report (line 3 = that report's line 7)."
+ }
+}

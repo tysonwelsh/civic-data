@@ -1,0 +1,48 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": null,
+  "office_sought": "County Council District 3",
+  "district_number": "3",
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "October 5, 2006",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "high",
+  "office_sought": "high",
+  "district_number": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dianeturner_amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/dianeturner_amendment.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "NOT the Financial Disclosure Report form. One-page letter on 'Diane Turner / COUNTY COUNCIL DISTRICT 3' campaign letterhead to the SLCo Clerk Elections Division dated October 5, 2006, supplying omitted donor employer information for the April 5 and September 15, 2006 reports: 'Please consider this letter my amendment to the two reports.' Lists four donors with occupations (April 5: Randall Oster, Dan Snarr; September 15: Christopher Reveley, Jennifer Wilson) - itemized lines not transcribed (totals tranche). No Summary Page, no cover checkboxes, no stated totals. Clerk stamp RECEIVED OCT 06 2006. office_sought/district taken from the letterhead and signature block, not a form box."
+ }
+}

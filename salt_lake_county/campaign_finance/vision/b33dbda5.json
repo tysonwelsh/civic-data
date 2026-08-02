@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "895.01",
+ "total_expenditures": "895.01",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "895.01"
+ },
+ "cover": {
+  "candidate": "Jonathan G Jemming",
+  "party": "Democrat",
+  "office_sought": "SL County Council",
+  "district_number": "4th Dist.",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jjemming_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jonathan G. Jemming",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_jjemming_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older template (footer 04pccfindisc.doc): the clerk listing says 'April' but the form checks 'April 5'. Column B is headed 'Year-to-Date Total' here and BOTH Column B cells (lines 1 and 2) were left BLANK by the filer \u2014 recorded as '' (not 0). Lines 3 and 7 are written as a slashed \u00d8 (zero), recorded as '0'. Neither amendment box is checked. The signature date is written with backslash separators ('4\\5\\08'); clerk RECEIVED stamp APR 07 2008."
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2016/2016_CCP2016Ivie.pdf",
+ "key": "672dd5a2",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:00:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Nathan Ivie",
+   "party_printed": "Rep.",
+   "office_printed": "Utah County Commissioner seat C",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "21 June 2016",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "20,644",
+    "contrib_cumulative": "20,644",
+    "expend_this_period": "10,453.20",
+    "expend_cumulative": "10,453.20",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "20,644",
+    "balance_close": "10,190.80"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "20,644",
+    "line1_total_contributions_colB": "20,644",
+    "line2_total_expenditures_colA": "10,453.20",
+    "line2_total_expenditures_colB": "10,453.20",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "20,644",
+    "line5_subtotal_lines3plus4": "20,644",
+    "line6_total_expenditures_from_line2A": "(10,453.20",
+    "line7_balance_at_close": "10,190.80"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the newer 'Utah County - HEART of UTAH' letterhead version of the legacy form (title is the shorter 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES'; side rail 'COUNTY Commission CANDIDATES'; page 2 carries the header '2016 County Commission Candidate'). The contribution figure's second digit is written ambiguously between 0 and 9 in several cells; read as 20,644 at medium confidence. Cents are written as a raised superscript ('10,453' with a small '20'); transcribed in decimal form. Line 3 is a bare zero followed by the filer's dash. Line 6 is written with an unclosed leading parenthesis, '(10,453.20', reproduced as written. Line 7 has a stray comma-like mark before the figure. DATE: the summary page's Date of Report box reads '21 June 2016' clearly and is used here; the cover's signature date is written less clearly and reads like '20 June 2016' - the clerk received stamp is JUN 21 AM 10:58. Neither amendment box is marked, so is_amendment is left empty."
+  }
+ ],
+ "notes": ""
+}

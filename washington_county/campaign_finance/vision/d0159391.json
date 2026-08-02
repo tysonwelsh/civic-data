@@ -1,0 +1,114 @@
+{
+ "filing_key": "wayback_financialreports|2014-06-17|MARK BOYER",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/6 17 2014 Summary - Mark Boyer_05-09-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Summary - Mark Boyer_05-09-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "288dceee9e0bb0d51812f254f81d7f3b1b526b6b83d4867c6698696205b9ee03",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Contributions - Mark Boyer_05-09-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "47735ba41a4b467fef937b8b81242ff643729404baf62a5c7afd5267a4787cc9",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Expenditures - Mark Boyer_05-09-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "7dc1bcff0b1d49308b4d0355b2557d6e023fd8d6250b520d01a5ce33ddc4becb",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Mark Boyer",
+  "office": "COMMISSION Seat A",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Mark Boyer",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-03",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "1351.4",
+   "balance": "-1351.4"
+  },
+  {
+   "submitted": "2014-04-14",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "206.02",
+   "balance": "-1557.42"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-04-14",
+   "date_due": "2014-06-17",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "206.02",
+   "expenses_this": "206.02",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-1557.42",
+   "balance_end": "-1557.42",
+   "balance_last_printed": "-1351.4",
+   "balance_last": "-1351.40",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

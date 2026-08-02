@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "1,012.30",
+ "ending_balance": "1,012.30",
+ "aggregate": {
+  "total_contributions_to_date": "995.00",
+  "total_expenditures_to_date": "50.00",
+  "line5_subtotal": "1,012.30"
+ },
+ "cover": {
+  "candidate": "Deanna L. Taylor",
+  "party": "Desert Greens",
+  "office_sought": "Salt Lake Co. Council, Dist. 5",
+  "district_number": "",
+  "report_type": "Interim Report: October 31",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/29/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dtaylor_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Deanna L. Taylor",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dtaylor_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "A no-activity period: Lines 1 and 2 Column A are drawn zeros and the balance is unchanged (1,012.30 in and out). COLUMN B IS NOT RECONCILABLE with anything else on the record: it reports 995.00 contributions and 50.00 expenditures to date, which nets 945.00 rather than the 1,012.30 balance, and it also contradicts Taylor's own April filing (249.93 / 182.63) which should be a subset of these aggregates. Kept verbatim. This copy is a FAX: the header band reads '10/23/2006 19:03  8012625084  JARED ALLEN' \u2014 i.e. the fax timestamp (10/23) PRECEDES the 10/29/06 signature date, so the fax machine's clock was wrong or the header is from a re-send; the clerk stamped it RECEIVED OCT 30 2006 twice, one stamp crossed out. 'Salt Lake Co. Council, Dist. 5' is written across the Office Sought / District Number fields."
+ }
+}

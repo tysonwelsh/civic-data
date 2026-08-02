@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "21,575",
+ "total_expenditures": "41,580.12",
+ "beginning_balance": "20,026.44",
+ "ending_balance": "21.32",
+ "aggregate": {
+  "total_contributions_to_date": "209,055",
+  "total_expenditures_to_date": "209,033.68",
+  "line5_subtotal": "41,601.44"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large a",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header '2008 Year End Amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_08_Final_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_08_Final_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crop)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Same FORM/LABEL mismatch as key db4f7fce: a 2012-vintage blank hand-titled '2008 Year End Amendment' at the top of both the cover and the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. The signature line reads 'Randy Horiuchi / h. madakas' (signed by an agent). Summary Page is page 2 (Column B 'Year to Date'). Arithmetic checks: 20,026.44 + 21,575 = 41,601.44 and 41,601.44 - 41,580.12 = 21.32."
+ }
+}

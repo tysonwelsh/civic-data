@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "273.16",
+ "total_expenditures": "20.84",
+ "beginning_balance": "0",
+ "ending_balance": "252.32",
+ "aggregate": {
+  "total_contributions_to_date": "273.16",
+  "total_expenditures_to_date": "20.84",
+  "line5_subtotal": "273.16"
+ },
+ "cover": {
+  "candidate": "Craig A. Ward",
+  "party": "Republican",
+  "office_sought": "S.L. County Council",
+  "district_number": "# 4",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ward_C_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Craig Ward",
+  "office": "County #4",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ward_C_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Neither amendment box is checked \u2014 this is the original April 5 interim. Line 3 is written as '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'S.L. County Council #4'. Received stamp APR 05 2012."
+ }
+}

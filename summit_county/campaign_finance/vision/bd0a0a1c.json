@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "8366",
+  "path": "raw/2018/8366_Margaret-Olson-Final.pdf",
+  "page": 1,
+  "sha256": "dfe6165fdf86e9370c3cc0e5e502e5f6fd0ac63445c69eaf38506426993cea38",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/8366/Margaret-Olson-Final",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Margaret Olson",
+  "office_verbatim": "County Attorney",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "11/26/18",
+  "rows": {
+   "contrib_total": {
+    "current_report": "900.00",
+    "last_report": "n/a",
+    "cumulative_totals": "900.00"
+   },
+   "total_expenditures": {
+    "current_report": "858.19",
+    "last_report": "n/a",
+    "cumulative_totals": "858.19"
+   },
+   "campaign_balance": {
+    "current_report": "41.81",
+    "last_report": "n/a",
+    "cumulative_totals": "41.81"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "The filer's Pre-Election sheet (doc 8193) re-filed as the Post-Election report, re-dated 11/26/18; figures unchanged. n/a in every Last Report cell."
+}

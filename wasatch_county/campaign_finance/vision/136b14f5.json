@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "index_path": "raw/2022/202206_L.-Searle-Financial-Disclosure.pdf",
+    "cache_key": "136b14f5",
+    "entity": "wasatch_county",
+    "election_year": "2022",
+    "reporting_period_index": "Primary/June 2022",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "balance_end",
+      "contrib_gt50",
+      "total_expenses"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Luke James Searle",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "County Council",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "Seat A - At Large",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey Granger, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/28/2022",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "N/A",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "2050.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "2050.00",
+        "confidence": "high"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "N/A",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "N/A",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "2035.85",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "2035.85",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "N/A",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "14.15",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "14.15",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed. Line 2 (aggregate <=$50) carries an up-arrow 'see above' mark rather than a figure \u2014 transcribed blank. The LAST REPORT column is marked 'N/A'."
+}

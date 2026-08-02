@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Tribe_Renee_4.4.2022_Redacted.pdf",
+ "key": "17f4889b",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:00:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Renée Tribe",
+   "party_printed": "",
+   "office_printed": "Commissioner - Seat A",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "04/04/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "3190.00",
+    "contrib_cumulative": "3190.00",
+    "expend_this_period": "1746.46",
+    "expend_cumulative": "1746.46",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "3190.00",
+    "balance_close": "1443.54"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "$0.00",
+    "boxB_contributions_received_this_period": "3190.00",
+    "boxC_contributions_received_year_to_date": "3190.00",
+    "boxD_expenditures_made_this_period": "1746.46",
+    "boxE_expenditures_made_year_to_date": "1746.46",
+    "boxF_subtotal_before_expenditures": "3190.00",
+    "balance_at_close": "$1443.54"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten on the v. 4.20 form; clean ink. Office is written 'Commissioner - Seat A' (agrees with index.csv's 'County Commission Seat A'). The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. Report type marked with an X through the 'Seven days preceding Convention' radio; amendment 'No' marked with an X. Date 04/04/2022 (footer Date of Report 4/4/22, Page 1). The v. 4.20 form misprints the affirmation block's label as a second 'Type of Report' header - a blank-form typo. Boxes A and the close line carry a handwritten '$'."
+  }
+ ],
+ "notes": "The locator flagged pages 4 and 5 as summary pages; page 5 is NOT a second report - it is the Elections Division's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff-review passes, dated 4/4/22 and 4/6/2022, 'Website' ticked). One report only."
+}

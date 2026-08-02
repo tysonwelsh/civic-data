@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "52.00",
+ "beginning_balance": "77.49",
+ "ending_balance": "25.49",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "52.00",
+  "line5_subtotal": "77.49"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "at Large",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/27/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jwilson_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_jwilson_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "2008-era form variant (no year in title). The top-row 'Office' box also reads 'Council'. Summary Page header: Page 1 of 2, Wilson, 1/27/08; Column B header 'Aggregate Total'. Arithmetic consistent (77.49 - 52.00 = 25.49)."
+ }
+}

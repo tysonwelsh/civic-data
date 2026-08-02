@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "index_path": "raw/2024/202406_SpencerPark.pdf",
+    "cache_key": "ba28ecc2",
+    "entity": "wasatch_county",
+    "election_year": "2024",
+    "reporting_period_index": "June 2024 (pre-primary)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "balance_end",
+      "total_contributions",
+      "total_expenditures"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Spencer J. Park",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "G",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "06/17/24",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Partisan Convention Report",
+      "Primary Report"
+    ],
+    "convention_date_verbatim": "April 2, 2024"
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "0.00",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "0.00",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "0.00",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed. TWO period boxes marked (a typed 'x' beside Partisan Convention and Primary) on a 'select only one' form."
+}

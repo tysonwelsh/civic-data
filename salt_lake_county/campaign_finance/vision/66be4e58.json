@@ -1,0 +1,61 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "55,759.34",
+ "total_expenditures": "36,202.06",
+ "beginning_balance": "4084.47",
+ "ending_balance": "23641.75",
+ "aggregate": {
+  "total_contributions_to_date": "85129.34",
+  "total_expenditures_to_date": "62487.39",
+  "line5_subtotal": "59843.81"
+ },
+ "cover": {
+  "candidate": "Jim Winder",
+  "party": "DEMOCRAT",
+  "office_sought": "SHERIFF",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "SEPT 15, 2006",
+  "report_date": "",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jimwinder_sept152006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jimwinder_sept152006amendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-2 first, then 3-10 to locate the Summary Page)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "THE SUMMARY PAGE IS NOT ON PAGE 2 - this bundle puts it LAST, on PDF page 8 (the form's own 'Page 8 of 8'). Layout: p1 cover, p2 blank Schedule A shell reading 'See attached', p3-p4 a computer-printed Jim Winder For Sheriff Schedule A (Total 55,759.34), p5 blank Schedule B shell reading 'See attached', p6-p7 a printed Schedule B (Total -36,202.06), p8 the Summary Page, p9 a 'Received Payments for All Customers' QuickBooks report and p10 a two-line personal-loan list (both extra attachments, not part of the form). NO reporting-period box is checked; the only Type-of-Report mark is the amendment 'Yes' box with 'SEPT 15, 2006' written beside it, so report_type is blank. The cover's signature Date rule was left BLANK; the Summary Page's Date-of-Report box reads 10/6/06 and the clerk stamp is OCT 06 2006. Form arithmetic checks out."
+ }
+}

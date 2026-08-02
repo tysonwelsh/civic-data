@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,610.00",
+ "total_expenditures": "15,511.34",
+ "beginning_balance": "18,639.42",
+ "ending_balance": "7,738.08",
+ "aggregate": {
+  "total_contributions_to_date": "35,593.46",
+  "total_expenditures_to_date": "27,855.38",
+  "line5_subtotal": "23,249.42"
+ },
+ "cover": {
+  "candidate": "DANIEL C. SNARR",
+  "party": "Democrate",
+  "office_sought": "County Council /#3",
+  "district_number": "#3",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snarr_Daniel_Council3_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dan Snarr",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Snarr_Daniel_Council3_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten 2014 form. Neither amendment box is checked. Received stamp OCT 28 2014. A hand annotation '6 pages' appears at the top of page 1. Party written 'Democrate'."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_Ivie72720Redacted.pdf",
+ "key": "54634fa8",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Ronald Nathan Ivie",
+   "party_printed": "",
+   "office_printed": "county commission seat c",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after withdrawal or elimination; 30 Days after the Primary Election",
+   "is_amendment": "",
+   "report_date": "27 july 2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "14,770",
+    "expend_this_period": "2764.22",
+    "expend_cumulative": "14769.92",
+    "balance_beginning": "2,764.28",
+    "subtotal_before_expend": "2764.28",
+    "balance_close": ".06"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "2,764.28",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "14,770",
+    "boxD_expenditures_made_this_period": "2764.22",
+    "boxE_expenditures_made_year_to_date": "14769.92",
+    "boxF_subtotal_before_expenditures": "2764.28",
+    "balance_at_close": ".06"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, photocopied/scanned (greyish, still fully legible). The candidate marked TWO report-type radio buttons - '30 Days after withdrawal or elimination' AND '30 Days after the Primary Election' - both are transcribed, separated by a semicolon. The amendment Yes/No question was left UNMARKED by the filer, so is_amendment is '' (not 'No'). Box C is printed '14,770' with no cents; Balance at Close is printed as a bare '.06' with no leading zero - both transcribed exactly as printed, not normalized. The candidate lower-cased his own office line ('county commission seat c') and state ('ut'). Signature redacted upstream by the county (black bar); the Date box and Date of Report both read '27 july 2020' (filer's lower-case month). Page face agrees with candidate_index (Nathan Ivie / printed Ronald Nathan Ivie) and office_index."
+  }
+ ],
+ "notes": "variant_guess said legacy_colAB; the page face is the modern Box A-F form (v. 4.20)."
+}

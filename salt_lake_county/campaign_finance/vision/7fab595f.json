@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "13,231.19",
+ "total_expenditures": "19,294.00",
+ "beginning_balance": "6,442.31",
+ "ending_balance": "379.50",
+ "aggregate": {
+  "total_contributions_to_date": "27,011.19",
+  "total_expenditures_to_date": "26,631.69",
+  "line5_subtotal": "19,673.50"
+ },
+ "cover": {
+  "candidate": "Kevin Jacobs",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Interim Report: June 17 (For the period ending June 16, 2014)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/16/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jacobs_K_Assessor_June141.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kevin E. Jacobs",
+  "office": "Assessor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Jacobs_K_Assessor_June141.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Page 1 of this scan is the '[Officeholders - Year-End]' cover VARIANT that has no Name/Political Party/Office Sought/District block at all - it goes straight from the title to the Type of Report box - so party, office_sought and district_number are recorded as null (field absent, not blank). The candidate name comes from the Report Verification line ('Kevin Jacobs'). Clerk listing calls this the 'June' report and the form checks 'June 17', so they agree. Column B on Line 2 (26,631.69) is the least crisp figure on the page; it is corroborated by the following (September) filing, whose Line 2 Col B of 31,086.20 equals 26,631.69 + 4,454.51. Column A arithmetic on the form is internally consistent (6,442.31 + 13,231.19 = 19,673.50; 19,673.50 - 19,294.00 = 379.50). Summary Page header says 'Page 1 of 6', report date 6/16/14."
+ }
+}

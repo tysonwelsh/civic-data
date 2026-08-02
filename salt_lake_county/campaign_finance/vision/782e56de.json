@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "42,100.00",
+ "total_expenditures": "54,843.80",
+ "beginning_balance": "21,411.89",
+ "ending_balance": "8,668.09",
+ "aggregate": {
+  "total_contributions_to_date": "144,270.00",
+  "total_expenditures_to_date": "135,601.80",
+  "line5_subtotal": "63,511.89"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "Sept. 15/08",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_sept1508amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_sept1508amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 - the scan is very faint)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the OLDER form variant: a separate top-row 'Office' box (left blank) plus 'Office Sought' (used here), and the interim options read April 5 / Seven days before a primary election / September 15 / Seven days before a general election. NO Type of Report box is checked at all - only the amendment 'Yes' box, with 'Sept. 15/08' written as the date of the report being amended, so report_type is left blank. The signature Date line is blank; the clerk stamp reads OCT 09 2008. The whole scan is very faint (grey), hence medium confidence throughout even after a 250 dpi re-render. Comparing with the original September 15 filing (09/15 report, key 9c5f7e19), this amendment reduces Line 1 Col A from 52,100.00 to 42,100.00 and Line 7 from 18,668.09 to 8,668.09 - a $10,000 correction."
+ }
+}

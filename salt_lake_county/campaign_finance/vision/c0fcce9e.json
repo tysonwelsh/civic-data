@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "250",
+ "beginning_balance": "5,671.62",
+ "ending_balance": "5,421.62",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "250",
+  "line5_subtotal": "5,671.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-2015",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_Council6_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_Council6_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Form title reads '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]'. Line 1 in both columns and line 4 are a hand-drawn slashed zero, recorded as 0. Line 2 amounts are written with a trailing dash denoting no cents. Signed 2-2-2015, two days after the January 31 deadline. Neither amendment box is checked. Line 3 (5,671.62) matches line 7 of the prior (2013) year-end report."
+ }
+}

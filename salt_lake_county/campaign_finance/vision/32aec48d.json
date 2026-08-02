@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "28,251.00",
+ "total_expenditures": "12,844.40",
+ "beginning_balance": "5459.60",
+ "ending_balance": "20,866.20",
+ "aggregate": {
+  "total_contributions_to_date": "48,020.10",
+  "total_expenditures_to_date": "27,153.90",
+  "line5_subtotal": "33,710.60"
+ },
+ "cover": {
+  "candidate": "SIMARJIT S. GILL",
+  "party": "DEMOCRATIC",
+  "office_sought": "Dist Attorney",
+  "district_number": "COUNTYWIDE",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/19/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_gill_sim06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_gill_sim06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form prints the candidate as 'SIMARJIT S. GILL'; the clerk listing says 'Sim Gill' (same person). Line 3 is written without a thousands comma (5459.60) - kept verbatim. District Number box holds the word COUNTYWIDE. Neither amendment box is checked. On-form arithmetic is internally consistent."
+ }
+}

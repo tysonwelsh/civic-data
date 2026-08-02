@@ -1,0 +1,61 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-AndersonGaryJ-120210.pdf",
+ "key": "988c4066",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:09:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gary J. Anderson",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner",
+   "residence_city": "Springville",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/02/2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "3,450.00",
+    "contrib_cumulative": "43,448.25",
+    "expend_this_period": "18,691.00",
+    "expend_cumulative": "55,601.11",
+    "balance_beginning": "3,088.14",
+    "subtotal_before_expend": "6,538.14",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "3,450.00",
+    "line1_total_contributions_colB": "43,448.25",
+    "line2_total_expenditures_colA": "18,691.00",
+    "line2_total_expenditures_colB": "55,601.11",
+    "line3_balance_beginning": "3,088.14",
+    "line4_total_contributions_from_line1A": "3,450.00",
+    "line5_subtotal_lines3plus4": "6,538.14",
+    "line6_total_expenditures_from_line2A": "18,691.00",
+    "line7_balance_at_close": "0.00",
+    "line7_handwritten_margin_annotation": "(-$12,152.86)"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high",
+    "line7_handwritten_margin_annotation": "medium"
+   },
+   "unreadable": [],
+   "notes": "TYPED cover and typed summary grid. LINE 7 CARRIES TWO COMPETING FIGURES AND BOTH ARE RECORDED: the cell itself is typed '$0.00', and immediately to the RIGHT of the grid (outside the cell, in ink) someone has written '(-$12,152.86)'. balance_close is set to the value actually IN the cell ('0.00'); the handwritten parenthetical is preserved separately in totals_verbatim as line7_handwritten_margin_annotation and was NOT substituted, merged or arithmetic-checked. Whose hand the annotation is (filer or clerk) cannot be told from the page. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat A'; the Office Seeking line reads only 'County Commissioner', no seat letter. Every typed cell carries a leading '$', dropped per spec. Summary page header reads 'Page 2 of 5'; cover signature date is '12/2/10' and the summary Date of Report '12/02/2010' is used."
+  }
+ ],
+ "notes": ""
+}

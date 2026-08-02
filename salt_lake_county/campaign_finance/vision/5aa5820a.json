@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "41,200",
+ "total_expenditures": "45,153.55",
+ "beginning_balance": "22,457.41",
+ "ending_balance": "18,503.86",
+ "aggregate": {
+  "total_contributions_to_date": "104,170",
+  "total_expenditures_to_date": "85,666.14",
+  "line5_subtotal": "63,657.41"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header 'June 2008 Amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_08_June_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_08_June_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crops)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Same FORM/LABEL pattern as the other Horiuchi amendments: a 2012-vintage blank hand-titled 'June 2008 Amendment' on the cover and 'June 2008' on the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Line 2 Column A writes the cents as a raised superscript crammed at the cell edge ('45,153' with superscript '55'); line 6 prints the same figure plainly as 45,153.55, confirming the reading. Line 3 (22,457.41) chains from the April amendment's line 7. Arithmetic checks: 22,457.41 + 41,200 = 63,657.41 and 63,657.41 - 45,153.55 = 18,503.86."
+ }
+}

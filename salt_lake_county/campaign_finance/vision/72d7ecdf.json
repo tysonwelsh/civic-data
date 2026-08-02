@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "10/31/06",
+  "report_date": "11/2/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "office_sought": "high",
+  "is_amendment": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/simgill_oct312006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/simgill_oct312006amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO SUMMARY PAGE - honest, not a failure. A 2-page faxed amendment ('Page 1 of 2' handwritten): the 2006 cover page with only the amendment 'Yes' box checked (date of report 10/31/06), plus a single campaign-letterhead page supplying the occupation/employer for one contributor (Arjun & Harinder Bachus). No Type-of-Report box checked; all totals null."
+ }
+}

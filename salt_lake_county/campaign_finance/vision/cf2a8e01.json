@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Lee Gardner",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "Yes",
+  "amendment_of": "1-29-05",
+  "report_date": "3-21-05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lgardner_dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lee Gardner",
+  "office": "Assessor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/lgardner_dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BUNDLE: 5-page packet = the older (pre-2006) 'Financial Disclosure Report For a Candidate' whose title carries no year (interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general), with the separate one-page 'Dissolution of a Candidate Campaign' notice as page 5 (committee 'Lee Gardner Campaign', secretary Pete Lund, committee established March 1994, signed 3-21-05). The FINAL REPORT box is checked AND the amendment 'Yes' box is checked with date of report 1-29-05. All Summary Page cells are slashed zeros; Column B is headed 'Year-to-Date Total' on this older form. A handwritten note under the table reads: 'The <$413.85> reflected on Report dated Dec. 3, 2002 represents a loan from Lee Gardner to the Lee Gardner Campaign.'"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6,358.07",
+ "total_expenditures": "4,506.08",
+ "beginning_balance": "0.00",
+ "ending_balance": "1,851.99",
+ "aggregate": {
+  "total_contributions_to_date": "6,358.07",
+  "total_expenditures_to_date": "4,506.08",
+  "line5_subtotal": "6,358.07"
+ },
+ "cover": {
+  "candidate": "Christopher Stout",
+  "party": null,
+  "office_sought": "Salt Lake County Auditor",
+  "district_number": "",
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "4/6/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/StoutC_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Christopher Stout",
+  "office": "Auditor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/StoutC_2014_April.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPED filing faxed to the clerk; the fax header numbers the transmission 'Page N of 7' but the PDF holds only 6 sheets. PDF page 1 is the 'Statement of Organization For a Candidate' (fax page 1) and PDF page 2 is already the Summary Page (fax page 3) \u2014 the disclosure report's COVER page (fax page 2, the form's 'page 1 of 5') IS MISSING from this PDF. Consequently report_type, is_amendment/amendment_of and political party could not be read at all and are null, not blank: the Type-of-Report box is only on that missing sheet. The candidate name and office come from the Statement of Organization ('Office: Salt Lake County Auditor'); the report date comes from the 'Date of Report' box printed on the Summary Page and schedules (4/6/2014). Clerk listing labels this the April interim, which the 4/6/2014 date and APR 07 2014 received stamp are consistent with, but the form's own checkbox could not be verified."
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/state_disclosures/washington_2010 Elections_James Eardley 4-9-10.pdf",
+ "channel": "state_disclosures",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/state_disclosures/washington_2010 Elections_James Eardley 4-9-10.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/state_disclosures/washington_2010 Elections_James Eardley 4-9-10.pdf",
+   "doc_kind": "statement",
+   "sha256": "cead5fffc4869c040f1354580227d608e020d1b62055767ab4e86b92e1fe0208",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "James Eardley",
+  "office": "County Commission Seat (a)",
+  "district": "",
+  "election_year": "",
+  "party": "Republican",
+  "residence_city": "Washington",
+  "filed_to": "Kim Hafen"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document_determination",
+ "index_office_confidence": "high",
+ "index_candidate": "“A G4 G9 2 Bh he",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "4-8-10",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "250.00",
+   "contrib_gt50_this": "250",
+   "contrib_gt50_cum_printed": "250.00",
+   "contrib_gt50_cum": "250",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "770.97",
+   "expenses_this": "770.97",
+   "expenses_cum_printed": "770.97",
+   "expenses_cum": "770.97",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "(520.97)",
+   "balance_this": "-520.97",
+   "balance_end_printed": "(-520.97)",
+   "balance_end": "-520.97",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "balance printed in accounting parentheses; the CUMULATIVE cell reads (-520.97) with both a minus sign and parentheses"
+  }
+ ],
+ "unreadable": [],
+ "notes": "promoted into index.csv 2026-08-01 by office_determinations.csv",
+ "generated_utc": "2026-08-02T02:39:06Z"
+}

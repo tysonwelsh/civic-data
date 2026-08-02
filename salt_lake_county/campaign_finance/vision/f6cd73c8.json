@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "86030.53",
+ "total_expenditures": "35522.21",
+ "beginning_balance": "0",
+ "ending_balance": "50508.32",
+ "aggregate": {
+  "total_contributions_to_date": "86030.53",
+  "total_expenditures_to_date": "35522.21",
+  "line5_subtotal": "86030.53"
+ },
+ "cover": {
+  "candidate": "Ross Romero",
+  "party": "Democratic",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1/31/2012",
+  "report_date": "2-8-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/RRomero_11_YearEnd_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ross Romero",
+  "office": "Mayor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/RRomero_11_YearEnd_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the 2011 year-end: Year-End box checked, amendment 'Yes' checked with '1/31/2012' written in. Figures are written WITHOUT thousands separators, so they are transcribed as written. Line 3 is a slashed zero (\u00d8). The form was signed and printed by 'Stephanie Thomas' (not the candidate) and dated 2-8-12; clerk RECEIVED stamp FEB 08 2012. Versus the un-amended RRomero_11_YearEnd, expenditures changed 35492.21 -> 35522.21 and the closing balance 50038.53 -> 50508.32 (the amended figure is the arithmetically consistent one). Line 2 Column B was read at 250 dpi; the decimal point is smudged, hence medium confidence."
+ }
+}

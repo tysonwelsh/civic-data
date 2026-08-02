@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "7981461692f5a5e6fd3d0735aa16fdb569d596bd2ddb5eb080a695b3c4a1425a",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Jeff_Ostermiller.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Jeff_Ostermiller.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Jeff Ostermiller",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/11/2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 11 PM",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "C_contrib_ytd": {
+    "v": "0",
+    "c": "medium"
+   },
+   "D_expend_this_period": {
+    "v": "50.00",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "50.00",
+    "c": "medium"
+   },
+   "F_subtotal_before_expend": {
+    "v": "0",
+    "c": "medium"
+   },
+   "closing_balance": {
+    "v": "0",
+    "c": "medium"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "50.00",
+    "c": "medium"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "",
+  "evidence": "page 1 'Office' box is COMPLETELY BLANK - the filer wrote nothing on the office line, and no district, seat or party appears anywhere on any of the four pages. The instrument's printed title is 'Candidate Financial Disclosure / Financial Campaign Report for County Offices', but per the protocol's scope rule the form header is only supporting evidence and cannot by itself decide scope.",
+  "confidence": "high"
+ },
+ "notes": "Four pages on the 2022+ Cache County Clerk/Auditor instrument: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page with lettered boxes A-F. FORM-TITLE VARIANT worth recording: this copy's printed title reads only 'Financial Campaign Report for County Offices' - it does NOT carry the '...and Local School Board Candidates' clause that the same-cycle David R. Gillie and Craig McAllister copies carry, and its cover offers five report-type choices rather than three. It is otherwise the identical instrument (same seal, same Where to File block, same Schedule A/B/Summary layout), so form_read is 'cache_cfd'. No statutory citation is printed on any page. SCOPE IS UNDETERMINED, NOT COUNTY: the Office box is empty. The office was NOT inferred from the header, from the Logan residence address, or from the ledger - nothing on the page evidences an office. ZERO GLYPHS: boxes A, B, C, F and the 'Balance at Close of Reporting Period' box on the Summary Page, and both Schedule A totals ('Subtotal for this page' and 'Total Contributions Received'), are each a hand-drawn slashed O used as a zero - transcribed '0' at confidence medium per protocol rule 3. Schedule A carries no line items; the word 'NA' is hand-written in the 'Name of Contributor' column of the first row. Schedule B carries exactly ONE line item: '1/8/2024 | CACHE CO. | CANDIDATE REGISTRATION | $50.00'. FILER ARITHMETIC DISAGREEMENT, recorded not corrected: the Summary Page's own instructions make box F = A + B (= 0, which is what is written) and 'Balance at Close' = F - D (= 0 - 50.00 = -50.00), but the filer wrote a slashed-O zero in the closing-balance box rather than a negative figure. Both boxes are transcribed exactly as printed; no value was computed or reconciled here. LEGIBILITY: box E's figure is written '50.0' with a faint trailing stroke where box D clearly reads '50.00'; the same hesitancy affects Schedule B's 'Total Expenditures Made' line, whose final characters curl. Both are recorded as '50.00' at confidence MEDIUM to flag the stroke, and neither digit was guessed beyond what the page supports. A vertical Clerk/Auditor received stamp runs down the top-left margin of page 1; only 'CLERK/AUDITOR', 'RCVD' and '2024 OCT 11 PM' are recoverable from the tightly-spaced glyphs and the clock time is not, so the stamp is recorded at confidence low with the unreadable portion omitted rather than guessed. Page 4's 'Page' box is an overwritten scribble (a 4 written over another mark) - not transcribed. Ledger candidate 'Jeff Ostermiller' matches the cover name, the affirmation and all three footer blocks - no contradiction."
+}

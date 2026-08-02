@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "index_path": "raw/2026/202606_S-Farrell-elimination.pdf",
+    "cache_key": "98ee8c51",
+    "entity": "wasatch_county",
+    "election_year": "2026",
+    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Steve Farrell",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "County Council seat A",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "at large",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "GOP",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Midway",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/16/2026",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Partisan Convention Report",
+      "Candidate Withdrawal/Disqualification/Elimination Report"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "317.00",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "317.00",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "0",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "THE DOCUMENTED DOUBLE-CHECKBOX FILING: both the Partisan Convention Report box and the Candidate Withdrawal/Disqualification/Elimination box are marked on a 'select only one' form. The county publishes it as 'S. Farrell Elimination Report'; the published label is kept and the contradiction recorded, not resolved. Stated totals are identical to his March 2026 filing."
+}

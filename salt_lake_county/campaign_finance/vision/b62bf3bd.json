@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "500.00",
+ "total_expenditures": "3,418.58",
+ "beginning_balance": "2,918.58",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "15,929.14",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3,418.58"
+ },
+ "cover": {
+  "candidate": "Nate Hendricks",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/15/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/nhendricks_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/nhendricks_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm Line 1 Column B)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the FINAL REPORT box is checked (the clerk listing calls it the '2006 Summary Report'); neither amendment box (Yes/No) is checked. The cover's signature Date line is blank, so report_date is taken from the Summary Page header 'Date of Report 1/15/07'. Lines 1 and 4 Column A are written with the cents as a raised superscript over a rule (500 with superscript 00) - transcribed as 500.00. Line 7 Column A is a hand-drawn slashed zero, recorded as '0'. Line 2 Column B is blank on the form. Line 3 Column A's cents are overwritten/re-inked but read 2,918.58, which matches the ending balance of this filer's Oct 31 2006 report."
+ }
+}

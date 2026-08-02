@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "14e72210",
+ "source_filing": "raw/wayback/wb20160824031236_JUlibarri_1.5.15.pdf",
+ "document_id": "wb20160824031236_JUlibarri_1.5.15",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:04:40Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "John E. Ulibarri II",
+ "office_stated": "Assessor",
+ "report_type_stated": "October 21st - 28th",
+ "filing_date_stated": "2014-12-29",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "-",
+   "this": "1,892.08",
+   "cum": "1,892.08"
+  },
+  "contrib_le50": {
+   "last": "-",
+   "this": "-",
+   "cum": "-",
+   "n_contributors": ""
+  },
+  "expenditures": {
+   "last": "-",
+   "this": "1,892.08",
+   "cum": "1,892.08"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "-",
+   "cum": "-"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "FILER LABEL CONFLICT retained verbatim: the 'October 21st - 28th' box is ticked but the form is signed 12/29/2014 and the clerk RECEIVED stamp is DEC 29 2014 - i.e. it is filed in the January-final window. Neither value was corrected."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3,500.00",
+ "total_expenditures": "$3,505.58",
+ "beginning_balance": "$8,833.29",
+ "ending_balance": "$8,827.71",
+ "aggregate": {
+  "total_contributions_to_date": "$3,500.00",
+  "total_expenditures_to_date": "$3,505.58",
+  "line5_subtotal": "$12,333.29"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/SGill_11_YearEnd_DistAttny_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/SGill_11_YearEnd_DistAttny_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed (not handwritten) form \u2014 clean. Neither amendment box is checked. Note an internal inconsistency in the filer's own figures: the Column B 'Aggregate Total' equals the Column A period figure on both Lines 1 and 2, yet Line 3 carries a beginning balance of $8,833.29 from prior activity \u2014 the aggregate column appears to have been restarted for the year. Figures kept verbatim."
+ }
+}

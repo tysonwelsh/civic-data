@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2928.70",
+ "total_expenditures": "1931.75",
+ "beginning_balance": "8932.01",
+ "ending_balance": "9828.96",
+ "aggregate": {
+  "total_contributions_to_date": "18,963.70",
+  "total_expenditures_to_date": "9,134.74",
+  "line5_subtotal": "11,760.71"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "Republican",
+  "office_sought": "County Recorder",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "22 Sept 06",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/gott_sept152006amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/gott_sept152006amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment: the September 15 interim box AND the amendment 'Yes' box are both checked, but the 'date of report' blank next to Yes was left empty. Cover is signed 22 Sept 06 while the Summary Page 'Date of Report' box still reads 15 Sept '06. This is the undated-title form ('Financial Disclosure Report', no year), so form_year is empty. The Summary Page figures are IDENTICAL to the original September filing (gott_sept152006.pdf) including the same $100 Line 5 discrepancy (8932.01 + 2928.70 = 11,860.71 but Line 5 reads 11,760.71) \u2014 the amendment evidently changed the schedules, not the totals."
+ }
+}

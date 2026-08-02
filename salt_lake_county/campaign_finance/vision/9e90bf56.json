@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "150.00",
+ "total_expenditures": "26.72",
+ "beginning_balance": "0",
+ "ending_balance": "123.28",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "150.00"
+ },
+ "cover": {
+  "candidate": "Brett Helsten",
+  "party": "Republican",
+  "office_sought": "At Large Seat A",
+  "district_number": "",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/7/2014",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/HelstenB-2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brett Helsten",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/HelstenB-2014_April.pdf",
+  "pages_read": [
+   1,
+   2,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 at -r 150; page 4 re-rendered at -r 300 with crop)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The original (un-amended) April report; the April 7 interim box is checked and neither amendment box is checked. Top-row 'Office' reads 'Salt Lake County Council At Large'; the 'Office Sought' box reads 'At Large Seat A' and that is what is recorded. Summary Page is page 4 of 4 (page 2 Schedule A, page 3 Schedule B). Column B (Aggregate Total) is BLANK on lines 1 and 2 - empty strings, not zeros. Line 3 is a hand-drawn slashed zero. Lines 1 and 4 write the cents as a raised superscript over the separator ('150,' with superscript '00'), transcribed 150.00 per the convention; line 5 is written plainly as '150,00' with a comma-shaped decimal mark. The filer's decimal separator is comma-like throughout; all figures transcribed with decimal points. Arithmetic checks: 150.00 - 26.72 = 123.28. Note this original and the amendment (key 98406835) report DIFFERENT contribution and expenditure figures but the SAME ending balance of 123.28."
+ }
+}

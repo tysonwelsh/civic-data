@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,500",
+ "total_expenditures": "0",
+ "beginning_balance": "171.62",
+ "ending_balance": "5,671.62",
+ "aggregate": {
+  "total_contributions_to_date": "5,500",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "5,671.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "line5_subtotal": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_Council6_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_Council6_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Faxed copy. The blank form used is the 2012-vintage form (its interim deadlines all read 2012) but the Year-End box is checked and the report is signed 1-31-14, matching the clerk listing's '2013 Summary Report'. Lines 2 (both columns) and 6 are a hand-drawn slashed zero, recorded as 0. Amounts on lines 1 and 4 are written with a trailing dash denoting no cents. Line 3 is written '171.62' with no thousands digit; line 5 reads '5671.62' with the leading 5 overwriting the dollar sign, both read at medium confidence. 171.62 + 5,500 = 5,671.62, consistent."
+ }
+}

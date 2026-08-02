@@ -60,6 +60,119 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   GEMS eras, weber GEMS grids); summit PMN-1503 + 14 image-only PC minutes; cache PC 14
   minutes-less dates (PMN 1479); weber WWPC-2020 GRAMA; weber planning FTS→votes promotion;
   summit HA/RDA build-later. (L1282–1308)
+- **COUNTY-ACQUISITION WAVE LEADS (2026-08-01 — 9-agent wave; per-county evidence in each
+  `<county>/campaign_finance/RECON.md`/`AVAILABILITY.md` and
+  `salt_lake_county/elections/RECON_COUNTY_2026-08-01.md`):**
+  - *Metro-township CF (HIGH — closes a caveat):* SLCo clerk `metro-township-councils/` page
+    holds 297 plain-GET PDFs (millcreek 75, magna 64, kearns 47, copperton 32, brighton 30,
+    emigration_canyon 26, white_city 23, mostly 2016) + 57 EasyVote metro filings 2023/2026 —
+    likely closes kearns `cf-blocked-cycles` (11 proven-existing filings) and adds below-floor
+    city CF for 5 entities.
+  - *SLCo CF 2016–2021 itemized (portal b):* BigIP-blocked to scripting; recovery = browser
+    automation against the known `/Report/{id}` pattern, or GRAMA (turnkey).
+  - *SLCo even-year canvass holds 56 MUNICIPAL contests below city data floors* — millcreek's
+    2016 founding elections (mayor + 4 districts, primary+general), all five metro-township
+    founding contests, INCORPORATION OF MILLCREEK (2012), Brighton incorporation (2018), CH
+    2004 incorporation-era races, city bonds/props — parsed + gate-verified already, sitting
+    in `contest_inventory.csv` with `retained=no`; regenerate via `--full`.
+  - *election_race promotion, other counties:* summit/weber/utah/juab county-office tallies
+    already in `election_result` have no audited `election_race` rows (SLCo now does — the
+    Package-A pattern is the reference).
+  - *City-CF acquisition feeds found in the state tree:* Logan (cache_2013/15/17/19/21/23
+    folders — logan has NO campaign_finance dataset), Ogden (weber_2013 Municipal_Ogden +
+    Wayback `documents/2016/*_ogden.pdf`), plus 16 SLCo cities' odd-year folders.
+  - *GRAMA candidates:* juab 4-ask package (clerk contact in its AVAILABILITY.md); weber's 33
+    county-published-then-lost 2018/2020 interim reports (names/dates citable from the
+    captured portal table); washington `outpost` unlistable 2018–2022 folders (file-list ask).
+  - *Shared CF form families worth building (specs in each agent's report/RECON):* the
+    STATEWIDE 17-16-6.5 county sheet (juab carr_5_5_pg = wasatch's 65 older filings; summit
+    variant has REVERSED Current|Last|Cumulative columns — a naive parse is silently wrong);
+    `wasatch_disclosure_tableab` (44 born-digital); `weber_polimorphic` (5 born-digital with
+    machine-readable itemized rows); `cache_cfd` (2022+, needs per-FILING is_incremental —
+    a driver capability gap); `washco_split` (3-file filings + an `.xls` reader — 2014/2010
+    hand-verified to reconcile exactly); `utahcounty_schedab` (2 modes). Driver finding to
+    respect: is_incremental can vary per sheet-type within one filing (washington).
+  - *Vision-transcription queue (owner scope decision):* office-line-only first tranche is
+    the cheap high-yield move (utah 19 + washington 48 office-unresolved rows);
+    full-dollar tranches: juab 18, wasatch 40, summit 20, washington ~90,
+    utah ~249 scanned, SLCo 2022-cycle EasyVote PDFs + legacy era. `cf-vision-transcribe`
+    needs a county-tier entry point (several county modules have no build_finance.py).
+    ✅ **cache_county DONE 2026-08-01/02** — 171 caches over 213 ledger rows; offices
+    resolved (128 illegible → 0; 234 county_confirmed / 5 undetermined, those 5 blank on the
+    filing itself), 11 rows re-classified out on page evidence, both Rhodes false-positive
+    flags adjudicated, and every filing's own stated totals transcribed (210/212 figures).
+    Method notes worth reusing: transcribe ONCE per sha256 and apply via `applies_to`;
+    screen `last+this=cumulative` to surface misreads (all 17 hits were filer arithmetic —
+    zero transcription defects); render faxed pages at ≥600 dpi (a two-stroke open "4"
+    reads as "1," at 150–200 dpi).
+  - *Cache CF next step (the only remaining Cache CF work):* **itemized donor/vendor rows.**
+    `contributions.csv`/`expenditures.csv` are header-only. The 2022+ born-digital
+    `cache_cfd` subset is the tractable slice (Schedule A/B free-typed one-liners split on
+    ` - `); the pre-2022 Carr era is handwriting and would need a second vision tranche.
+  - *Tranche 3 (itemization) ENRICHED SPEC (2026-08-02, owner design session — the Green
+    Book "enriched pipeline" pattern):* when the donor/vendor itemization tranche runs,
+    (a) **row-level bounding boxes are mandatory in the vision cache contract** —
+    coordinates stored (page, x, y, w, h, dpi), crops derived on demand, never
+    pre-generated (IIIF-style evidential anchoring; library-science: coordinate-anchored
+    transcription / ALTO-PAGE-XML lineage); exact geometry free from `pdftotext -bbox`
+    on born-digital, model-estimated on scans; (b) **dual-channel line matching as the
+    acceptance gate**: tesseract line-segmentation proposes geometry (its boxes are usable
+    on handwriting even when its characters aren't), vision transcribes, then
+    crop-and-re-read must reproduce donor+amount — with the CORRELATED-ERROR caveat
+    (agreement-gating kills stochastic hallucination, not systematic misreading: the
+    Rhodes 4-vs-1 fax specimen, cache CLAUDE.md) and a resolution-escalation rule
+    (disagreement or low-contrast → ≥600 dpi + sibling-copy check); (c) arithmetic
+    reconciliation vs the tranche-2 stated totals as the truly independent gate;
+    (d) formalized human-review checkpoints on the summit-audit model; (e) parser
+    families first (the born-digital third costs no vision at all), tiered models on the
+    scan remainder. Phase-A engineering residuals for Phase B (families agent + sweep,
+    2026-08-02): the tableab family needs a DATE-GRAMMAR extension ('17 Jan 2026',
+    '1.2.26', '5May26' currently field-shift — sides withheld, see the calibration
+    specimen); summit needs the PERIOD-vs-CUMULATIVE itemized-grain design decision
+    (Harte-2026 class: ledgers sum to Current, cover states Cumulative — rows withheld
+    with both figures named); summit 2014 wrapped contributor rows need `pdftotext
+    -bbox`, not regex; multi-report PDFs (Park 2024-11) need one index row per bound
+    report. Calibration-sample prerequisite BUILT 2026-08-02:
+    `_audits/cf-calibration-suite/` (13 specimens + pass protocol; every configuration
+    must pass before bulk rights). Phase A launched 2026-08-02 (shared families agent +
+    this suite); Phase B (vision itemization waves) awaits per-wave owner approval.
+  - *County cycle_totals design (DEFERRED BY DESIGN 2026-08-02 — cf_cycle stays
+    city-only):* the vision wave proved the generic city rules would publish wrong county
+    figures: regimes vary per CANDIDATE not per form (wasatch: three 2024/2026 filers
+    restate cumulatively on the period sheet), officeholder carryover inflates cumulative
+    totals (weber Harvey/Hatch/Froerer open from prior-cycle closings — 'raised in cycle
+    N' must subtract the opening column), same-period amendments are mutually inconsistent
+    (SLCo sheriff $68,605/$38,236/$31,019 overlapping April-5 reports), and cache's
+    is_incremental varies per filing. A county rollup needs per-candidate regime
+    detection + carryover subtraction + the supersede pairs (weber Froerer 2022 'Amended',
+    Gibson 2026-07-23 re-file) — design task, per-county evidence in each AVAILABILITY.md.
+  - *SLCo GRAMA addendum (2026-08-02):* 6 damaged/blank source PDFs incl. the wholly-blank
+    dwilde_apr52006.pdf and two xref-broken files proven damaged AT SOURCE (re-fetch
+    byte-identical) — fold into the SLCo portal-era GRAMA ask.
+  - *Crop-defect date sweep (2026-08-02):* summit's audit proved the improvised top-80%
+    render crop silently blanked signature dates (45 of 51 "blank" dates were legible at
+    full page; 1 populated date misread). Elevated blank-`filing_date` rates elsewhere:
+    utah_county 62/265, washington 19/206 (washington's older variant genuinely lacks a
+    date line — separate the form property from the crop loss before re-reading).
+  - *Tooling gaps:* `validate_finance.py` has no conformance mode for document-only CF
+    modules; SLCo cycle_totals.csv not yet derived from its EasyVote structured layer;
+    the desktop `normalize_sovc.py` could adopt the repo's new families E/G + SpreadsheetML
+    reader (port is one-directional today).
+  - *Small evidence-cited observations (verify before working):* summit 2014
+    Recorder/Surveyor contest absent from `summit_county/elections/election_results_by_contest.csv`
+    though two 2014 filings state candidacies (Richards, Trussell); weber
+    `election_results_by_contest.csv` "Harvey, Jim" vs filings' "James H. 'Jim' Harvey"
+    (4 lost joins); utah_county 2008 listing files Ellertson under Seat B, filename says
+    SeatC (recorded, unadjudicated); 45 weber municipal filers later sought county office
+    (career-path join).
+- **County school-board CF — ledgered, out of scope (owner ruling 2026-08-01)**: the county
+  clerk channels carry local school-board filings on the same forms as county offices; every
+  county-acquisition wave agent classified them out by the in-form office line and LEDGERED
+  them for zero-recon re-acquisition — utah_county `out_of_scope.csv` 89 rows (URL+sha256),
+  washington `excluded_school_board.csv` 345, wasatch `out_of_scope.csv` 32, summit ~110
+  enumerated (county page + state 2008 folder), weber 91+ identified in `RECON.md`, juab
+  school-board raws already on disk. Any build first needs a modeling decision — school
+  districts are not repo entities (no boards/votes/elections to join money to).
 - **Below-floor / pre-2020 CF vision tranches** (murray 2017/19, magna 2016–19, etc.); CF
   acquisition riders (CH Prazen final, riverton Pierucci 10-24-23, kearns 2023/2025 blocked
   cycles — 11 filings proven to exist, magna 2023, bluffdale Robbins Oct-26, taylorsville
@@ -158,3 +271,6 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 | SLC campaign-finance portal | dotnet.slcgov.com | portal back up → harvest | 2026-07-13 | blocked; slc absent from cf layer (caveat added 2026-07-31) |
 | millcreek even-year SOVC | SLCo | acquisition would unblock its re-point exception | 2026-07-19 | — |
 | CivicPlus platform (murray/SSL/MSD 500s) | portals | re-verify, nothing marked dead | 2026-07-19 | correlated outage |
+| `wasatch.utah.gov` legacy DNN host (serves 2018–2024-June wasatch CF PDFs live) | direct Portals/ URLs | host dies → 104 filings become archive-only; re-mirror check | 2026-08-01 | live; link-rot risk |
+| cache CMS migration record-drop (live 2022 page ≠ Wayback 2022 page filer list) | cachecounty.gov financial-disclosures | future migrations dropping filings | 2026-08-01 | 2022 delta captured |
+| county CF 2026 cycles (all 8 counties, finals due Dec 2026–Feb 2027) + SLCo Nov-2026 general canvass | county pages + SLCo clerk archive | post-certification refresh | 2026-08-01 | calendar-incomplete by design |

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,050",
+ "total_expenditures": "7,865.07",
+ "beginning_balance": "17,667.68",
+ "ending_balance": "11,852.61",
+ "aggregate": {
+  "total_contributions_to_date": "31,995",
+  "total_expenditures_to_date": "20,142.39",
+  "line5_subtotal": "19,717.68"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "Co Council",
+  "district_number": "#5",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-30-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jallen_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jallen_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 to separate Line 3 from Line 5)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 3 (17,667.68) and Line 5 (19,717.68) differ only in the second digit; re-rendered at 300 dpi the Line 3 digit is a 7 and the Line 5 digit is a 9, and the arithmetic confirms it (17,667.68 + 2,050 = 19,717.68 - 7,865.07 = 11,852.61). Line 6 is written in ACCOUNTING PARENTHESES, '(7,865.07)', although the form's own instruction is to subtract it \u2014 the Line 2 figure is recorded unparenthesized as printed on Line 2. Lines 1A/1B carry no cents ('2,050' / '31,995'). Signature date 10-30-06 while the Summary Page 'Date of Report' box reads 10-31-06. Neither the amendment Yes nor No box is checked."
+ }
+}

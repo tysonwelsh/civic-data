@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "3cb6bc475ae00b71f62fe00353ab542f4d0f0b484705a501035aee2f084eabd2",
+ "canonical_path": "raw/2020/2020_st_McAllister.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_McAllister.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "B. CRAIG McALLISTER",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY TREASURER",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "CACHE COUNTY",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "LOGAN",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JESS W. BRADFIELD",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/13/2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 14 '20 PM 3:25:55",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "488.55",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "488.55",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "488.55",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "488.55",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Treasurer",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'CACHE COUNTY TREASURER'; 'Office District' reads 'CACHE COUNTY'; 'Political Party' reads 'REPUBLICAN'",
+  "confidence": "high"
+ },
+ "notes": "Zeros are hand-drawn slashed-O glyphs."
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "295.98",
+  "total_expenditures_to_date": "295.98",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Warren T Rogers",
+  "party": "Constitution",
+  "office_sought": "County Council",
+  "district_number": "At Large B",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "5-2-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Rogers_W_10_YearEnd_CntyCncl_AtLrgB_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Warren T. Rogers",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/Rogers_W_10_YearEnd_CntyCncl_AtLrgB_Redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Same retroactive batch as the other two Rogers filings: 'Applies to 2010 County Council At Large B race' hand-written across the top, signed 5-2-12, clerk stamp MAY 04 2012. The Year-End box is checked and the year '2010' is hand-written next to the YEAR-END REPORT heading with a large hand-drawn circle around the whole block; neither amendment box is checked. Summary Page is PDF page 4 (page 3 is a Schedule A on which the contributor line reads 'None' and the page subtotal is a hand-drawn zero while 'TOTAL CONTRIBUTIONS RECEIVED' still shows 295.98). Every Column A cell on the Summary Page is a hand-drawn zero; the Column B cents are raised superscripts."
+ }
+}

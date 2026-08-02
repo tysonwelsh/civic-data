@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3,355.00",
+ "total_expenditures": "$4,782.65",
+ "beginning_balance": "$1,621.34",
+ "ending_balance": "$193.69",
+ "aggregate": {
+  "total_contributions_to_date": "$28,479.81",
+  "total_expenditures_to_date": "$28,197.10",
+  "line5_subtotal": "$4,976.34"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "3",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/dwilde_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Neither amendment box (Yes/No) is checked -> is_amendment ''. Handwritten '$' glued to the digits throughout - kept verbatim. Line 4 is written '$3355.00' (no comma) while Line 1 Col A is '$3,355.00' - both kept as written. Summary header: page 2 of 6, WILDE, 1-31-07. RECEIVED stamp JAN 31 2007."
+ }
+}

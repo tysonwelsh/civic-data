@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "41,952.53",
+ "total_expenditures": "17,278.12",
+ "beginning_balance": "9,021.97",
+ "ending_balance": "33,696.38",
+ "aggregate": {
+  "total_contributions_to_date": "52,177.53",
+  "total_expenditures_to_date": "18,481.15",
+  "line5_subtotal": "50,974.50"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council At-Large A",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2014)",
+  "is_amendment": "Yes",
+  "amendment_of": "8/28/14",
+  "report_date": "9/3/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Wilson_J_CouncilA_June14_Amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Wilson_J_CouncilA_June14_Amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the June 17 interim: 'Yes' checked with date of report '8/28/14', signed 9/3/14, received SEP 03 2014; the Summary Page's own 'Date of Report' box reads 'August 28, 2014'. Every Summary figure is IDENTICAL to the original June filing (key b128e943) \u2014 the amendment evidently corrected the itemized schedules, not the totals."
+ }
+}

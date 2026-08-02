@@ -1,0 +1,99 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2020/Recorder_Johnathan Liddle_June 23 2020_04-20-2020.pdf",
+ "channel": "wayback_forms2020",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2020/Recorder_Johnathan Liddle_June 23 2020_04-20-2020.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2020/Recorder_Johnathan Liddle_June 23 2020_04-20-2020.pdf",
+   "doc_kind": "statement",
+   "sha256": "31f0782c1a1d22ba1697fc0e1d8bee9ec60fa02953805e62f6e457ada7974279",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Johnathan Mark Liddle",
+  "office": "",
+  "district": "",
+  "election_year": "",
+  "party": "Republican",
+  "residence_city": "Washington",
+  "filed_to": "Kim Hafen"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "",
+  "district": "",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Recorder",
+ "index_office_source": "filename",
+ "index_office_confidence": "low",
+ "index_candidate": "Je uauerpdas Wav Cidbie",
+ "index_reporting_year": "2020",
+ "index_cycle_year": "2020",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "4/20/20",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "4,000.00",
+   "contrib_gt50_last": "4000",
+   "contrib_gt50_this_printed": "",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "50.00",
+   "contrib_le50_last": "50",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "4,050.00",
+   "expenses_last": "4050",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "0",
+   "balance_last": "0",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_gt50_cum",
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "the OLDER 17-16-6.5 form. The Name-of-Office line is BLANK (office = Recorder comes from the county's file name / listing). The filer entered every figure in the 'TOTALS FROM LAST REPORT' column, leaving THIS and CUMULATIVE blank - retained as filed."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:53:55Z"
+}

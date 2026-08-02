@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,100.00",
+ "total_expenditures": "$1,045.51",
+ "beginning_balance": "$1,001.68",
+ "ending_balance": "$2,056.17",
+ "aggregate": {
+  "total_contributions_to_date": "$2,100.00",
+  "total_expenditures_to_date": "$1,045.51",
+  "line5_subtotal": "$3,101.68"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/mburdick_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/mburdick_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Later form variant (no year in title; 'FINAL / DISSOLUTION REPORT' wording; Column B headed 'Aggregate Total') with TWO office fields - top-row 'Office' = Council and 'Office Sought' = Council, both the same. Every figure is written with a '$' and the cents as a raised superscript over a rule; transcribed with the dollar sign kept and a decimal point. Neither amendment box is checked. Signed 1-31-10 and clerk-stamped FEB 01 2010, i.e. the year-end report covering calendar 2009 - consistent with the clerk's '2009 Summary Report' label. Lines 3+4=5 and 5-6=7 both reconcile exactly."
+ }
+}

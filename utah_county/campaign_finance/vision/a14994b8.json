@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Williams_Taylor_4.1.2022_Redacted.pdf",
+ "key": "a14994b8",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 7, 9],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Taylor Williams",
+   "party_printed": "",
+   "office_printed": "Auditor",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/1/2022",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "2623.5",
+    "contrib_cumulative": "2623.5",
+    "expend_this_period": "2623.5",
+    "expend_cumulative": "2623.5",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2623.5",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "2623.5",
+    "boxC_contributions_received_year_to_date": "2623.5",
+    "boxD_expenditures_made_this_period": "2623.5",
+    "boxE_expenditures_made_year_to_date": "2623.5",
+    "boxF_subtotal_before_expenditures": "2623.5",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures. Amounts are printed with a single decimal place ('2623.5') exactly as shown - not normalized to 2623.50. The Office field reads simply 'Auditor' (index.csv says 'County Auditor' - a naming-convention difference, not a conflict). No political-party field on this form. Street address, city/state/zip and signature are redacted upstream by the county (black bars), so residence_city is ''. This v. 4.20 form carries a 'Seven days preceding Convention' option that the later v. 12.23 form does not; that option is the one marked. The cover page header names Clerk/Auditor Josh Daniels while the summary page header names Amelia Powers Gardner - the county reissued the form mid-cycle; both are the form's own printed letterhead."
+  }
+ ],
+ "notes": "The chunk listed pages 7 and 9 as summary pages, but page 9 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review sign-offs dated 4/4/22), not a second report. ONE report only; page 7 is the sole Summary Page."
+}

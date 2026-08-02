@@ -1,0 +1,59 @@
+{
+ "path": "raw/2022/2022_Pomeroy_Adam_4.4.2022_Redacted.pdf",
+ "key": "d6848185",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:50:00Z",
+ "pages_read": [1, 6, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Adam Pomeroy",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/4/2022",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "17455",
+    "contrib_cumulative": "17455",
+    "expend_this_period": "7726.89",
+    "expend_cumulative": "7726.89",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "17455",
+    "balance_close": "9728.11"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "17455",
+    "boxC_contributions_received_year_to_date": "17455",
+    "boxD_expenditures_made_this_period": "7726.89",
+    "boxE_expenditures_made_year_to_date": "7726.89",
+    "boxF_subtotal_before_expenditures": "17455",
+    "balance_at_close": "9728.11"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "residence_city"
+   ],
+   "notes": "Born-digital typed form, crisp. THE ADDRESS BLOCK IS EMPTY - not blacked out, simply left blank by the filer (Address, City, State and Zip all unfilled), so residence_city is \"\". Box A is a typed '0' (a written zero, not a blank). Boxes B, C and F carry no cents and no thousands comma ('17455'); only the Balance at Close prints a '$' ('$9728.11'), dropped per schema - the formatting differences are preserved rather than normalised. The signature block is blacked out (redacted upstream by the county); the text 'Digitally signed by Adam...' is partly visible above the black bar, indicating a digital signature underneath. Cover header names Clerk/Auditor 'Josh Daniels'; the p6 summary header names 'Amelia Powers Gardner'. The form's own page boxes read '1/6' on the cover and '6/6' on the summary, consistent with the 8-page PDF holding a 6-page report plus the county's checklist."
+  }
+ ],
+ "notes": "Page 7 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, both dated 4/4/22), not a report page - the OCR locator flagged it as a summary page and it is not. One report only."
+}

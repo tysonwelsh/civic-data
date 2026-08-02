@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "7fd8b8ac1c17b5903441e42aab199d0d845e078e39b6073c89eaf7348116aee7",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Allen_Grunig.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_General_Allen_Grunig.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Allen Grunig", "c": "high"},
+  "office_verbatim":   {"v": "Cache School Board #5", "c": "high"},
+  "office_district":   {"v": "#5", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Hyde Park", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "", "c": "high"},
+  "date_signed":       {"v": "Oct 1, 2024", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RCVD 2024 OCT 1 AM11:37", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "", "c": "high"},
+   "B_contrib_this_period":    {"v": "", "c": "high"},
+   "C_contrib_ytd":            {"v": "", "c": "high"},
+   "D_expend_this_period":     {"v": "", "c": "high"},
+   "E_expend_ytd":             {"v": "", "c": "high"},
+   "F_subtotal_before_expend": {"v": "", "c": "high"},
+   "closing_balance":          {"v": "", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "", "c": "high"},
+   "total_expenditures_made":      {"v": "", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "out_of_scope",
+  "office_std": "School Board",
+  "seat": "#5",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Cache School Board #5'; the printed form title is 'Financial Campaign Report for School Board'; and the single Schedule B expenditure states its purpose as 'Filing for School Board'. Three independent statements on the pages agree that the office sought is a Cache County School District board seat, which is out of scope for the county-office layer.",
+  "confidence": "high"
+ },
+ "notes": "IMPORTANT - THIS FILING HAS NO STATED TOTALS. The Summary page is entirely blank and neither schedule carries a printed total, so nothing is recorded in the `stated` block beyond empty strings. Per the cardinal rule, the two itemized line amounts were NOT summed to fill the boxes.\n\nFORM: a Cache County Clerk/Auditor 'Candidate Financial Disclosure' whose title line reads 'Financial Campaign Report for SCHOOL BOARD' - a distinct TITLE VARIANT of the county instrument, not the 'for County Offices and Local School Board Candidates' wording seen on the other 2022/2024 filings, and not the Carr Printing 5-5-PG or the 20A-11-1301..1305 school-board instrument. Its internal structure is identical to cache_cfd (cover / Schedule A / Schedule B / Summary Page with lettered boxes A-F and a 'Balance at Close' line), so form_read is recorded as `cache_cfd`; the title variant is flagged here. No statutory citation is printed anywhere on the four pages. The cover's Type of Report list carries FIVE options (the primary-cycle variant), unlike the three-option general-cycle covers.\n\nCOVER (p1): Name of Candidate 'Allen Grunig'. Address '151 East 300 North', City 'Hyde Park', State 'Ut', Zip '84318'. Office 'Cache School Board #5'. Phone '435 770 3835'. Email 'allengrunig@gmail.com'. Type of Report: NO option is marked - all five bullets ('30 Days after withdrawal or elimination', 'Seven days preceding the Primary Election', '30 Days after the Primary Election', 'Seven days preceding the General Election', '30 Days after the General Election') are empty circles. report_type_marked is therefore recorded as an empty string, not guessed. Is this report an amendment? 'No' is marked with an X-in-circle. Affirmation printed name 'Allen Grunig'. Signature present. Date 'Oct 1, 2024'. Date of Report: BLANK. Page: BLANK. Office Use Only: no bullet filled; rubber stamp reads 'CLERK/AUDITOR RCVD 2024 OCT 1 AM11:37'.\n\nSCHEDULE A (p2): ONE itemized row: 'Jan 10, 2024 | Allen Grunig | 151 East 300 North Hyde Park Ut 84318 | $50.00' - a self-contribution. BOTH the 'Subtotal for this page $' and 'Total Contributions Received $' lines are BLANK (nothing written after the preprinted '$'). The whole footer block (Name of Candidate / Date of Report / Page) is also BLANK on this page.\n\nSCHEDULE B (p3): ONE itemized row: '10Jan2024 | Cache County Clerk | Filing for School Board | $50.00'. BOTH the 'Subtotal for this page $' and 'Total Expenditures Made $' lines are BLANK. The footer block is BLANK.\n\nSUMMARY (p4): COMPLETELY BLANK - boxes A, B, C, D, E, F and 'Balance at Close of Reporting Period' are all empty, and the footer block (Name of Candidate / Date of Report / Page) is empty too. Only the preprinted form furniture appears. Note this page's box labels use lowercase 'this Period' / 'Year to Date' wording, another sign it is a different print vintage from the other filings in this tranche.\n\nLEDGER CHECK: the ledger's candidate value 'Allen Grunig' MATCHES the page evidence. The ledger's form_family='campaign_report_variant_unread' is now READ - it is the School Board title variant of the county CFD described above. The ledger's scope_status='undetermined' is RESOLVED to OUT_OF_SCOPE: this is a Cache County School District board candidate (seat #5), not a county-office filer. Per the protocol's scope rule, the county Clerk/Auditor instrument does not make it a county filing - the office the filer wrote decides, and it names a school board seat."
+}

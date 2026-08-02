@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_CA.Leavitt.pdf",
+ "key": "6cae312c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:38:00Z",
+ "pages_read": [1, 2, 5],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "David O. Leavitt",
+   "party_printed": "Republican",
+   "office_printed": "County Attorney",
+   "residence_city": "ORem",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/19/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "81,992",
+    "contrib_cumulative": "",
+    "expend_this_period": "76,291.12",
+    "expend_cumulative": "",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "81,992",
+    "balance_close": "5,700.88"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "81,992",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "76,291.12",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0.00",
+    "line4_total_contributions_from_line1A": "81,992",
+    "line5_subtotal_lines3plus4": "81,992",
+    "line6_total_expenditures_from_line2A": "76,291.12",
+    "line7_balance_at_close": "5,700.88"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. COLUMN B (Year-to-Date Total) IS ENTIRELY BLANK on both line 1 and line 2 - the filer left those cells empty; they are '' and NOT zero and NOT a copy of Column A. Line 1 Column A is written without cents ('81,992'). The city is written 'ORem' (capital R mid-word) - transcribed verbatim. The summary page's own header boxes (Page, Last Name, Date of Report) were left blank; report_date is the cover signature date. The OCR locator flagged PDF pages 2 AND 5 as summary pages, but page 5 is a SCHEDULE A itemization sheet ('Page 3 of 4', Subtotal for this page $4775), not a second summary - this PDF contains ONE report, so reports[] has one element."
+  }
+ ],
+ "notes": "Locator's second 'summary page' (PDF p5) is a Schedule A page, not a second report."
+}

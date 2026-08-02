@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "93a8b224a3d093b277a2968aff71d9efcff1343c05163ebf05ef3848b65a4e70",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Katie_Chapman.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Katie_Chapman.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "other",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Katie Chapman",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Logan City School District School Board",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10-29-24",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 29",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "C_contrib_ytd": {
+    "v": "51.50",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "E_expend_ytd": {
+    "v": "51.50",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "0",
+    "c": "medium"
+   },
+   "closing_balance": {
+    "v": "0",
+    "c": "medium"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "51.50",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "51.50",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "out_of_scope",
+  "office_std": "School Board",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand across two lines, 'Logan City School District / School Board'; the printed title of the instrument is 'Financial Campaign Report for School Board' and the campaign email is 'katiechapmanserves@gmail.com'",
+  "confidence": "high"
+ },
+ "notes": "Four pages: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page with lettered boxes A-F. FORM IDENTITY: the printed title reads 'Candidate Financial Disclosure / Financial Campaign Report for SCHOOL BOARD' beside the Cache County Clerk/Auditor seal - the same school-board instrument as the Dennis Jeffrey Nielsen filing in this tranche (five report-type choices on the cover, lower-case Summary-Page box labels 'Contributions Received this Period'), and NOT the county-offices form. Because that title matches neither the protocol's cache_cfd nor the Carr 20A-11-1301 school-board instrument, form_read is 'other'. No statutory citation is printed on any page. SCOPE: out_of_scope - the filer wrote a LOGAN CITY SCHOOL DISTRICT school-board seat, and the instrument's own title agrees. Logan City School District is a separate district from Cache County School District; either way this is not a county office. ZERO GLYPHS: Summary-Page boxes A, B, D, F and the 'Balance at Close of Reporting Period' box are each a hand-drawn slashed O used as a zero - transcribed '0' at confidence medium per protocol rule 3. CENTS ARE WRITTEN AS RAISED SUPERSCRIPT throughout: boxes C and E, and all four schedule total lines, are written as '51' with an underlined superscript '50' rather than '51.50'; each is transcribed as '51.50', which is the unambiguous reading of that hand, and the superscript style is noted here rather than reproduced. Schedule A carries ONE line item, faint in pencil where the rest of the form is blue ink: '1-4-24 | Katie Chapman | 1475 N 420 W #104, 84341 | 51.50' - i.e. a self-contribution. Schedule B carries ONE line item, also in pencil: '1-4-24 | Cache County Clerk | Filing Fee | 51.50'. Both pages print a 'Subtotal for this page $ 51.50' and a matching 'Total Contributions Received $ 51.50' / 'Total Expenditures Made $ 51.50'. PERIOD-vs-YTD PATTERN worth noting for any downstream is_incremental logic: this filing states ZERO for both 'this period' boxes (B and D) while the year-to-date boxes (C and E) carry 51.50 - consistent with the single January transaction falling outside the seven-days-preceding-the-General reporting window. That is the filer's own statement and was not adjusted. A vertical Clerk/Auditor received stamp runs down the top-right margin of page 1; only 'CLERK/AUDITOR', 'RCVD' and '2024 OCT 29' are recoverable and the clock time is not, so it is recorded at confidence low with the unreadable portion omitted. The 'Date of Report' box on page 4 shows the year digits written over an earlier mark ('10-29-24' with the final two characters overwritten); the other three pages all read '10-29-24' cleanly. Ledger candidate 'Katie Chapman' matches the cover name, the affirmation and all three footer blocks - no contradiction."
+}

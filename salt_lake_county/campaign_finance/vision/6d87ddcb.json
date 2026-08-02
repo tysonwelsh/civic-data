@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$500.00",
+ "total_expenditures": "$545.31",
+ "beginning_balance": "$45.31",
+ "ending_balance": "($0.00)",
+ "aggregate": {
+  "total_contributions_to_date": "$500.00",
+  "total_expenditures_to_date": "$545.31",
+  "line5_subtotal": "$545.31"
+ },
+ "cover": {
+  "candidate": "Pugmire, Paul",
+  "party": "DEMOCRATIC",
+  "office_sought": "Council #2",
+  "district_number": null,
+  "report_type": "April 5, 2010 Interim Report",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": null,
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Pugmire_P_10_April_Interim_CntyCncl_2_redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Paul Pugmire",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/Pugmire_P_10_April_Interim_CntyCncl_2_redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT the paper form: this is a one-page printout of the clerk's online disclosure record (footer URL http://slcintranet/financialDisclosure/clerk/summary_printer.cfm?ID=351, printed 1/26/2012), headed 'Pugmire, Paul - April 5, 2010 Interim Report'. It carries the same 7-line Summary block (Column B headed 'YTD' with the footnote '* YTD totals may reflect activity from past years'), so the totals are captured. There is no Type-of-Report checkbox block, no District Number field, no amendment question and no Report Verification signature/date on this printout, hence those cover fields are null rather than blank. Line 7 is printed in accounting parentheses as ($0.00) and is kept verbatim. The page also prints Schedule A (one $500.00 contribution from Mary Carolyn Stoy, 02/25/2010) and Schedule B (two items totalling $545.31), which are not transcribed per contract. Clerk stamp JAN 26 2012."
+ }
+}

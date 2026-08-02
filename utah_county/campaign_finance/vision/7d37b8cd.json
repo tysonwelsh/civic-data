@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_SakievichThomas_Redacted.pdf",
+ "key": "7d37b8cd",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:12:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Thomas V. Sakievich",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner",
+   "residence_city": "",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "December 21, 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "2000.00",
+    "contrib_cumulative": "75,650.88",
+    "expend_this_period": "5870.00",
+    "expend_cumulative": "73,624.77",
+    "balance_beginning": "5896.11",
+    "subtotal_before_expend": "7896.11",
+    "balance_close": "2026.11"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "$5896.11",
+    "boxB_contributions_received_this_period": "$2000.00",
+    "boxC_contributions_received_year_to_date": "$75,650.88",
+    "boxD_expenditures_made_this_period": "$5870.00",
+    "boxE_expenditures_made_year_to_date": "$73,624.77",
+    "boxF_subtotal_before_expenditures": "$7896.11",
+    "boxG_balance_at_close": "$2026.11"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "OFFICE RESOLVED: index.csv carries office_index='' - the page's Office field prints 'Utah County Commissioner' (no seat letter). Typed fillable form. The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. On the summary page the printed words 'Year to Date' are STRUCK THROUGH in the Box C and Box E headers (a pen/annotation strike on the source document); the box values themselves are untouched and are transcribed as printed, and the labels are kept in their standard form. Boxes carry a printed '$'."
+  }
+ ],
+ "notes": ""
+}

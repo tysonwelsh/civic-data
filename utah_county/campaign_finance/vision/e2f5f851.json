@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_WarnickShauna.pdf",
+ "key": "e2f5f851",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 3, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Shauna J Warnick",
+   "party_printed": "",
+   "office_printed": "Nebo School Board district 3",
+   "scope_flag": "school_board",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "",
+   "is_amendment": "No",
+   "report_date": "12/2/2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "6.22",
+    "contrib_cumulative": "1473.58",
+    "expend_this_period": "6.22",
+    "expend_cumulative": "1473.58",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "6.22",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "6.22",
+    "boxC_contributions_received_year_to_date": "1473.58",
+    "boxD_expenditures_made_this_period": "6.22",
+    "boxE_expenditures_made_year_to_date": "1473.58",
+    "boxF_subtotal_before_expenditures": "6.22",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "low",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": ["report_type_printed"],
+   "notes": "SCHOOL BOARD FILER - the Office field reads 'Nebo School Board district 3' verbatim; index.csv carries office_index='' (unresolved). Out of scope for the county package. DATE DISAGREEMENT: index.csv files this under election_year 2022 / reporting_period 'Midterm', but the page's own Date of Report and signature date are both 12-2-2020 and Schedule B lines run 3/13/20 - 11/4/20, i.e. this is a 2020-cycle report. Report type: NONE of the five radio buttons is filled; the radio circle beside 'Seven days preceding the General Election' is entirely absent from the scan (dropout) while the other four print as empty circles - so which box, if any, was marked cannot be determined from the page. Left '' rather than inferred. Amendment radio is a clearly filled dot on 'No'. Box A ($0) and Balance at Close (0) are typed/born-digital; Boxes B-F are handwritten. Signature block on the cover page is redacted upstream by the county (black bar). Schedule B page 3 prints 'Total Expenditures Made $ 1473.58' consistent with Box E."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$500 -",
+ "total_expenditures": "566.24",
+ "beginning_balance": "159.17",
+ "ending_balance": "92.93",
+ "aggregate": {
+  "total_contributions_to_date": "500 -",
+  "total_expenditures_to_date": "566.24",
+  "line5_subtotal": "659.17"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "1",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/6",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jhatch_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Title carries NO year ('Financial Disclosure Report For a Candidate') even though the clerk stamp is JAN 31 2006 - form_year ''. Interim list is the 'Seven days before a primary/general election' variant. Column B header on this variant reads 'Year-to-Date Total'. Contributions written with a dash for the cents ('$500 -'), transcribed verbatim. Summary Page header: Page 2 of 4, HATCH, 1/31/6. Arithmetic consistent (159.17 + 500 = 659.17; minus 566.24 = 92.93)."
+ }
+}

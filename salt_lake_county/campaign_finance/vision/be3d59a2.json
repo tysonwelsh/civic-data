@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1730.67",
+ "total_expenditures": "1477.30",
+ "beginning_balance": "75.70",
+ "ending_balance": "329.07",
+ "aggregate": {
+  "total_contributions_to_date": "145,976.03",
+  "total_expenditures_to_date": "145,646.96",
+  "line5_subtotal": "1806.37"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "D",
+  "office_sought": "Council",
+  "district_number": "at-Large",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwilson_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jwilson_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "The Date box beside the signature is BLANK; report_date is taken from the Summary Page 'Date of Report' (1/31/06) per the instruction fallback. On this copy the 'June 20' checkbox prints as a small filled bullet rather than an empty square - a reproduction artifact of this scan, not a check mark (the X is clearly in the 'January 31 of each year' box). Summary Page header: Page 1 of 1, Wilson, 1/31/06. Column A internally consistent (75.70 + 1730.67 = 1806.37; minus 1477.30 = 329.07)."
+ }
+}

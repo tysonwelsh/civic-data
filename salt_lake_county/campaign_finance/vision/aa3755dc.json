@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$49,961.00",
+ "total_expenditures": "$50,279.59",
+ "beginning_balance": "8,616",
+ "ending_balance": "8,297.41",
+ "aggregate": {
+  "total_contributions_to_date": "$93,512",
+  "total_expenditures_to_date": "$85,391.44",
+  "line5_subtotal": "58,577.50"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "D",
+  "office_sought": "SL Cnty Council",
+  "district_number": "3",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/26/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "low",
+  "ending_balance": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_10_OctoberInterim_CntyCncl3.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/dturner_10_OctoberInterim_CntyCncl3.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150 (page 2 re-rendered at -r 300 and individual cells cropped and enlarged)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TWO FIGURES ARE RECORDED PARTIAL (dollars only, cents NOT completed) because their raised-cents superscripts are written over an earlier value and are genuinely illegible even at 300 dpi with the cell enlarged: Line 3 Column A ('8,616' + an overwritten two-character superscript) and Line 1 Column B ('$93,512' + an overwritten superscript that could be 50 or 55). I did NOT fill the cents in from arithmetic, though note that Line 4 is 49,961.00 and Line 5 is clearly 58,577.50, which would put Line 3 at .50. The rest of the page is legible. The form's own arithmetic is off by $0.50 at the bottom: 58,577.50 - 50,279.59 = 8,297.91, but Line 7 prints 8,297.41 (Line 6's superscript looks like '51' where Line 2 reads '.59' \u2014 another overwrite). Column B also does not reconcile with Column A. Neither amendment box is checked. Top-row Office reads 'County Council #3', party abbreviated 'D'. Stamped RECEIVED OCT 26 2010."
+ }
+}

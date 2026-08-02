@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "281.47",
+ "beginning_balance": "281.47",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "281.47",
+  "line5_subtotal": "281.47"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snelgrove_R_Mayor_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Snelgrove_R_Mayor_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2014 form; BOTH the Year-End and the Final/Dissolution boxes are checked. Summary Page is PDF page 3 (the form's 'page 2 of 2'; page 2 is Itemized Expenditures Made). The signature-date line on the cover is obscured by the signature, so the report date is taken from the 'Date of Report' box on pages 2 and 3, which reads '2-2-14'; the RECEIVED stamp is FEB 02 2015 and the itemized expenditures are dated 11/18/14 and 12/2/14, so the written year is a filer error \u2014 kept verbatim. Also note a discontinuity in the filer's own figures: Line 3 opens at 281.47 while the previous year-end report (key 6ae9bfc9) closed at 341.47."
+ }
+}

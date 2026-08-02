@@ -1,0 +1,105 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "6e671e53dd4abbd5fd1df32bdfb6c0a17a7bd6499052607089c633ab5a3f077c",
+ "canonical_path": "raw/2022/2022_wb_Bethany_Nielson.pdf",
+ "applies_to": [
+  "raw/2022/2022_wb_Bethany_Nielson.pdf"
+ ],
+ "pages_read": [
+  1,
+  2
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "BETHANY NEILSON",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE WATER DISTRICT",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "NIBLEY",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.org / Mail: 179 North Main St. Suite 102 Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/31/22",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 OCT 31 AM 11:13",
+   "c": "medium"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "",
+    "c": "low"
+   },
+   "B_contrib_this_period": {
+    "v": "",
+    "c": "low"
+   },
+   "C_contrib_ytd": {
+    "v": "",
+    "c": "low"
+   },
+   "D_expend_this_period": {
+    "v": "",
+    "c": "low"
+   },
+   "E_expend_ytd": {
+    "v": "",
+    "c": "low"
+   },
+   "F_subtotal_before_expend": {
+    "v": "",
+    "c": "low"
+   },
+   "closing_balance": {
+    "v": "",
+    "c": "low"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "low"
+   },
+   "total_expenditures_made": {
+    "v": "179.90",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "out_of_scope",
+  "office_std": "Special District",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'CACHE WATER DISTRICT' — a special district, not a county office. The county 'Financial Campaign Report for County Offices and Local School Board Candidates' instrument is supporting evidence only; per the scope rule the office the filer WROTE decides scope.",
+  "confidence": "high"
+ },
+ "notes": "THIS PDF IS ONLY 2 PAGES: p1 cover, p2 Schedule B. There is NO Schedule A page and NO Summary Page in this document — so boxes A–F and the closing balance are honestly EMPTY (nothing was rendered unreadable; the pages simply are not in the PDF), and total_contributions_received is empty for the same reason. The only stated total this document prints is Schedule B's own 'Total Expenditures Made $ 179.90' (and the identical 'Subtotal for this page $ 179.90'), transcribed from that printed line — nothing was summed here. OUT OF SCOPE: Cache Water District Board, consistent with the module's excluded.csv treatment of the other 14 Cache Water District filings. Ledger candidate 'Bethany Nielson' vs the document's own hand-printed 'BETHANY NEILSON' on the Name of Candidate line and 'Bethany Neilson' in the Affirmation — the SURNAME SPELLING DIFFERS from the ledger (ledger 'ie', document 'ei'). Flagged, not merged. NOTE THE FORM VARIANT: this cover offers FIVE report-type options (30 Days after withdrawal or elimination / Seven days preceding the Primary / 30 Days after the Primary / Seven days preceding the General / 30 Days after the General) whereas the same filer's other 2022 filing (cache_key b5bdd8d8) is on a THREE-option variant — same instrument family, two printings. RELATIONSHIP TO b5bdd8d8: that filing is this filer's '30 Days after the General Election' report signed 12/8/22; this one is the 'Seven days preceding the General Election' report signed 10/31/22. Both print the SAME two Schedule B line items and the SAME $179.90 total, so the later report is cumulative over the earlier — do not add the two documents together. The Schedule B footer 'Name of Candidate' / 'Date of Report' / 'Page' boxes are left blank, so page 2 is attributable only by its position in the PDF. The received stamp is a faint grey scan overprint read at MEDIUM confidence: 'CLERK/AUDITOR RCVD 2022 OCT 31' is clear, the time reads as 'AM 11:13' but the final digits are at the edge of legibility."
+}

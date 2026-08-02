@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "40,015.50",
+ "total_expenditures": "53,462.95",
+ "beginning_balance": "21,105.32",
+ "ending_balance": "7,657.87",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "61120.82"
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "#4",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mcrockett_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mcrockett_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Both Column B cells were left BLANK by the filer, recorded as '' (not 0). Line 5 is written WITHOUT a thousands comma ('61120.82') and is recorded that way verbatim. Line 3 carries forward this filer's September line 7 (21,105.32) exactly and every line reconciles. Expenditures exceed contributions this period, which is normal for a final push. Page box reads 'Page 2 of 4'. Neither amendment box is checked."
+ }
+}

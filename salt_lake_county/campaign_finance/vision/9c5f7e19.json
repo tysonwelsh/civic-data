@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "52,100.00",
+ "total_expenditures": "54,843.80",
+ "beginning_balance": "21,411.89",
+ "ending_balance": "18,668.09",
+ "aggregate": {
+  "total_contributions_to_date": "154,270.00",
+  "total_expenditures_to_date": "135,601.80",
+  "line5_subtotal": "73,511.89"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_september152008.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_september152008.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to inspect the Line 1 cents)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. On Line 1 the cents of BOTH columns are written as a raised DASH after the decimal point ('52,100.-' and '154,270.-'), the accounting shorthand for .00; recorded as .00 per the corpus convention (dash = written zero), at medium confidence. Line 4 repeats the same dash form. This is the report later amended by key 782e56de, which restates Line 1 Col A as 42,100.00 and Line 7 as 8,668.09."
+ }
+}

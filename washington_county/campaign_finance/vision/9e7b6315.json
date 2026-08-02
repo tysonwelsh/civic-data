@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_outpost/David Whitehead_Treasurer_FCR_10-26-2024.pdf",
+ "channel": "live_outpost",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_outpost/David Whitehead_Treasurer_FCR_10-26-2024.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_outpost/David Whitehead_Treasurer_FCR_10-26-2024.pdf",
+   "doc_kind": "statement",
+   "sha256": "bea19ccbb2187d0cba548e06a653289d0c5aab69beb898a680fdbbb0c62e901d",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "DAVID WHITEHEAD",
+  "office": "TREASURER",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Treasurer",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "DAVID WHITEHEAD",
+ "index_reporting_year": "2024",
+ "index_cycle_year": "2024",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "10/21/24",
+   "period_start": "6/18/24",
+   "period_end": "10/21/24",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "640.20",
+   "contrib_gt50_last": "640.20",
+   "contrib_gt50_this_printed": "0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_cum_printed": "640.20",
+   "contrib_gt50_cum": "640.20",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "640.20",
+   "expenses_last": "640.20",
+   "expenses_this_printed": "0",
+   "expenses_this": "0",
+   "expenses_cum_printed": "640.20",
+   "expenses_cum": "640.20",
+   "balance_last_printed": "0",
+   "balance_last": "0",
+   "balance_this_printed": "0",
+   "balance_this": "0",
+   "balance_end_printed": "0",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "3-LINE form variant; the zeros are struck-through circles"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T02:52:13Z"
+}

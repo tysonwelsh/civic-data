@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "114609.13",
+ "total_expenditures": "166124.70",
+ "beginning_balance": "56250.81",
+ "ending_balance": "4735.24",
+ "aggregate": {
+  "total_contributions_to_date": "470453.02",
+  "total_expenditures_to_date": "465727.78",
+  "line5_subtotal": "170859.94"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Democrat",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/pcorroon_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/pcorroon_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250, plus a 3x crop of Line 1 Column B)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form face (no year in the title, Column B headed 'Year-to-Date Total'); Summary Page is page 2 of 8, 'Date of Report 1-31-05'; clerk-stamped RECEIVED JAN 31 2005. Year-End box checked; NEITHER amendment box checked. Column A arithmetic is exact (56250.81 + 114609.13 = 170859.94; 170859.94 - 166124.70 = 4735.24, which matches the beginning balance of the filer's next report). Column B does NOT reconcile: 470453.02 - 465727.78 = 4725.24, ten dollars short of the Line 7 balance. The fifth digit of Line 1 Column B was inspected at 450 dpi equivalent and reads as a '5' (a '6' would make the column reconcile, but I will not change what is written) - flagged low confidence."
+ }
+}

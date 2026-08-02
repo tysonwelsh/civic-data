@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2364.",
+ "total_expenditures": "4117.35",
+ "beginning_balance": "6615.68",
+ "ending_balance": "4862.33",
+ "aggregate": {
+  "total_contributions_to_date": "8864.",
+  "total_expenditures_to_date": "4377.09",
+  "line5_subtotal": "8979.68"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At Large \"C\"",
+  "report_type": "Interim Report: June 19 (for the period ending June 18, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-19-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_June_Interim_CntyCncl_AtLrgC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_June_Interim_CntyCncl_AtLrgC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Columns A and B write the cents as a raised dash after the decimal point (the zero-cents convention) - recorded without the dash. The top-row Office box reads 'County Council'. Summary-page header box is blank. Neither amendment box is checked. Both Column A and Column B chain correctly from the amended April filing (key e2a072a4): 6615.68 + 2364 = 8979.68, less 4117.35 = 4862.33; and 6,500 + 2,364 = 8,864, 259.74 + 4117.35 = 4377.09."
+ }
+}

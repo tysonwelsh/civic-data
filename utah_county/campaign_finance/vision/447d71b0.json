@@ -1,0 +1,99 @@
+{
+ "path": "raw/2024/2024_Tom_Westmoreland_Redacted_Combine.pdf",
+ "key": "447d71b0",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:30:00Z",
+ "pages_read": [1, 4, 5, 6, 7, 8, 9],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Tom Westmoreland",
+   "party_printed": "",
+   "office_printed": "County Commissioner",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "",
+   "report_date": "5/7/24",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "19,500",
+    "expend_this_period": "9957.52",
+    "expend_cumulative": "17,468.50",
+    "balance_beginning": "11,586.36",
+    "subtotal_before_expend": "11,586.36",
+    "balance_close": "1628.84"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "11,586.36",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "19,500",
+    "boxD_expenditures_made_this_period": "9957.52",
+    "boxE_expenditures_made_year_to_date": "17,468.50",
+    "boxF_subtotal_before_expenditures": "11,586.36",
+    "balance_at_close": "1628.84"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "REPORT 1 of 2 in this bundle - pages 1-4 (cover p1, summary p4). Handwritten in blue ink on the v. 12.23 form; the pages are PHOTOGRAPHS of the paper (dark table visible around the sheet), not flatbed scans, but the writing is legible. OFFICE PARTIALLY DISAGREES WITH THE INDEX: the Office field reads 'County Commissioner' with NO SEAT LETTER, while index.csv carries 'County Commission Seat C' - no seat was inferred. Street address and the signature block are redacted upstream by the county (black bars), so residence_city is ''; the phone number and email survive. AMENDMENT: NEITHER the No nor the Yes circle is marked on this cover - is_amendment is '' (the filer answered nothing), not 'No'. STRUCK-THROUGH FIGURE in Box D: '9854.66' is written and struck through, with '9957.52' written below it - the SURVIVING value 9957.52 is recorded, and it is the value consistent with the printed close (F 11,586.36 - D 9957.52 = 1,628.84). Box B is a written '0'. RECONCILIATION FLAG, no correction applied: Box E (17,468.50) does not equal the bundle's own prior-report expenditures (7,913.64) plus either the struck or the surviving Box D - the filer's cumulative figure is transcribed as printed."
+  },
+  {
+   "candidate_printed": "Tom Westmoreland",
+   "party_printed": "",
+   "office_printed": "County Commissioner",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "4/11/24",
+   "summary_page": 9,
+   "totals": {
+    "contrib_this_period": "19,500",
+    "contrib_cumulative": "19,500",
+    "expend_this_period": "7913.64",
+    "expend_cumulative": "7913.64",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "19,500",
+    "balance_close": "11,586.36"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "19,500",
+    "boxC_contributions_received_year_to_date": "19,500",
+    "boxD_expenditures_made_this_period": "7913.64",
+    "boxE_expenditures_made_year_to_date": "7913.64",
+    "boxF_subtotal_before_expenditures": "19,500",
+    "balance_at_close": "11,586.36"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "REPORT 2 of 2 in this bundle - pages 5-9 (cover p5, Schedule A p6, Schedule B p7-p8, summary p9). A SEPARATE, EARLIER report: 'Seven days preceding the Primary Election', signature and Date of Report both 4/11/24 (the cover's signature line reads 'Tom W Westmoreland'). Amendment box marked No. Office field again reads 'County Commissioner' with no seat letter. Address and signature redacted upstream by the county, so residence_city is ''. Every summary box is internally consistent here (F = A + B; close = F - D), and its close (11,586.36) is exactly Report 1's opening Box A. Schedules A/B were read only to confirm which report these pages belong to and are NOT transcribed (this tranche is totals-only); note for a future itemization pass that Schedule A page 6 carries a struck-through total - '21,500' struck and '19,500' written beside it, the surviving value matching Box B. Page 9 also carries the typed line 'Rebekah Westmoreland' below the form image (part of the county's assembled PDF, not a form field)."
+  }
+ ],
+ "notes": "MULTI-REPORT BUNDLE: this single PDF contains TWO separate reports (two covers, two summary pages) - a 7-days-before-Primary report dated 4/11/24 on pages 5-9 and a 30-days-after-withdrawal report dated 5/7/24 on pages 1-4, i.e. the LATER report is filed first in the PDF. Their figures are kept separate and were never merged. index.csv labels the whole file reporting_period 'Eliminated or Withdrawn', which describes only the first (pages 1-4) report. Pages 6-9 were not present in the pre-rendered image set and were rendered with pdftoppm for this transcription. The locator's variant_guess for this filing was legacy_colAB; the actual form is the modern Box A-F v. 12.23 sheet."
+}

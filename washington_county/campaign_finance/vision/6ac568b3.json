@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2018/June 13_Robert E Ford_FCR_06-13-2018.pdf",
+ "channel": "wayback_forms2018",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2018/June 13_Robert E Ford_FCR_06-13-2018.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2018/June 13_Robert E Ford_FCR_06-13-2018.pdf",
+   "doc_kind": "statement",
+   "sha256": "855bab808f05f38683d0fadcda655af35f5bf6fbc2b819d78fc1c6c48f1cf9d5",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Robert E. Ford",
+  "office": "County Commission, Seat A",
+  "district": "County at-large",
+  "election_year": "",
+  "party": "",
+  "residence_city": "Rockville",
+  "filed_to": "Washington County / Melanie Abplanalp"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Ro lh er f f z Fo c£ d",
+ "index_reporting_year": "2018",
+ "index_cycle_year": "2018",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "March 7, 2018",
+   "period_end": "June 13, 2018",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "1200.00",
+   "contrib_gt50_this": "1200",
+   "contrib_gt50_cum_printed": "1200.00",
+   "contrib_gt50_cum": "1200",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "25.00",
+   "contrib_le50_this": "25",
+   "contrib_le50_cum_printed": "25.00",
+   "contrib_le50_cum": "25",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "1225.00",
+   "balance_end": "1225",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "expenses_cum"
+   ],
+   "notes": "line 3 (expenses) carries the words 'none to report yet' written across the cells instead of a figure - recorded as BLANK, never as zero"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:47:02Z"
+}

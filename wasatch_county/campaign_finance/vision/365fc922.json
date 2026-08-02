@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "index_path": "raw/2026/202606_L-Forsyth.pdf",
+    "cache_key": "365fc922",
+    "entity": "wasatch_county",
+    "election_year": "2026",
+    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "total_contributions",
+      "total_expenditures"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Lauren Forsyth",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Attorney",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Democratic",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Midway",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/16/2026",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Primary Report"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "70.57",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "1,062.84",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "$-992.27 (balance of $1,263.82 in campaign bank account from prior contributions previously reported)",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "SEAM EVIDENCE: the balance cell carries the filer's printed parenthetical '(balance of $1,263.82 in campaign bank account from prior contributions previously reported)' \u2014 an explicit statement that earlier money was reported in a PRIOR period. Docusign-signed; signature date read from page 2, where Table A/B totals ($70.57 / $1,062.84) match the cover."
+}

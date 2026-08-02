@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "Jan 31 2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MCrockett_11_Dissolution_CntyCncl4.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MCrockett_11_Dissolution_CntyCncl4.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - not the financial disclosure report, so no Summary Page and all totals null. Name of Committee: 'Elect Mark Crockett - County Council'; Name of County Office Candidate: 'Mark Crockett'; Name of Committee Secretary: 'Randy O'Hara'; Date Committee Was Established: 'Jan 2004'. No office/party/district fields exist on this form. Received by fax, header banner '(TUE) JAN 31 2012 17:22', clerk-stamped JAN 31 2012."
+ }
+}

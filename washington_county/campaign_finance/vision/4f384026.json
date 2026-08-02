@@ -1,0 +1,122 @@
+{
+ "filing_key": "wayback_financialreports|2012-08-24|ALAN GARDNER",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/County Candidate Summary - Alan Gardner_08-24-2012.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/County Candidate Summary - Alan Gardner_08-24-2012.xls",
+   "doc_kind": "summary",
+   "sha256": "aad07286726b5999395d38dc07e049ab3424cd158199b2d37debd761761d280d",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/Contributions - Alan Gardner_08-24-2012.xls",
+   "doc_kind": "contributions",
+   "sha256": "bbe61281bca84a7a9bd08b2414a08c81539272c048c4d529fea10015ea7b0b05",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/Expenditures - Alan Gardner_08-24-2012.xls",
+   "doc_kind": "expenditures",
+   "sha256": "09fed38e70b4adfe2d0b744e2a5933a396a3c4811bc2a8396a9021d121ba0577",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "ALAN DEAN GARDNER",
+  "office": "COMMISSION SEAT C",
+  "district": "COUNTY",
+  "election_year": "2012"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat C",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "ALAN DEAN GARDNER",
+ "index_reporting_year": "2012",
+ "index_cycle_year": "2012",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2012-03-28",
+   "date_due": "2012-03-30",
+   "contrib_gt50": "3350.0",
+   "contrib_le50": "450.0",
+   "expenses": "1835.67",
+   "balance": "1964.33"
+  },
+  {
+   "submitted": "2012-06-11",
+   "date_due": "2012-06-19",
+   "contrib_gt50": "500.0",
+   "contrib_le50": "365.0",
+   "expenses": "1026.98",
+   "balance": "1802.35"
+  },
+  {
+   "submitted": "2012-08-23",
+   "date_due": "2012-08-31",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "27.56",
+   "balance": "1774.79"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2012-08-23",
+   "date_due": "2012-08-31",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 2,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "27.56",
+   "expenses_this": "27.56",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "1774.79",
+   "balance_end": "1774.79",
+   "balance_last_printed": "1802.35",
+   "balance_last": "1802.35",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

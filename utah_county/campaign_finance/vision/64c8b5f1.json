@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Corey_K_Astill_Redacted.pdf",
+ "key": "64c8b5f1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:46:00Z",
+ "pages_read": [1, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Corey Astill",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "Lehi",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/16/26",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "112885.40 +Inkind 44821.9",
+    "contrib_cumulative": "112885.40 +Inkind 44821.9",
+    "expend_this_period": "89317.06",
+    "expend_cumulative": "89317.06",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "112885.40 +Inkind 44821.9",
+    "balance_close": "23568.34"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "112885.40 +Inkind 44821.9",
+    "boxC_contributions_received_year_to_date": "112885.40 +Inkind 44821.9",
+    "boxD_expenditures_made_this_period": "89317.06",
+    "boxE_expenditures_made_year_to_date": "89317.06",
+    "boxF_subtotal_before_expenditures": "112885.40 +Inkind 44821.9",
+    "balance_at_close": "23568.34"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form (index format 'text'). Office field reads 'Utah County Clerk' (index.csv 'County Clerk' - agrees). Page name reads 'Corey Astill'; index.csv carries 'Corey K Astill' (no middle initial on the page). Street address, phone number and signature are redacted upstream by the county; the printed city 'Lehi, UT 84043' and the email survive. ** BOXES B, C AND F ARE TRUNCATED BY THE FORM FIELD **: each is not a single amount but the compound string '112885.40 +Inkind 44821.9' followed by at least one more character that is CLIPPED at the right edge of the field box and cannot be read. The in-kind figure's final digit(s) are therefore NOT transcribable and were NOT inferred - the three fields are recorded exactly as far as the page renders them and carry LOW confidence for that reason. Boxes D, E and the close are clean single numbers. Observation offered without altering any value: the printed Balance at Close (23568.34) equals the cash figure 112885.40 minus Box D (89317.06), i.e. the filer's close uses the CASH contribution only and treats the in-kind as an annotation - this is an observation about the page, not a reconstruction of the clipped digits. Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2022/2022_Mann_Rodd_11.1.22.pdf",
+ "key": "0d41da88",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:02:00Z",
+ "pages_read": [1, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rodney W Mann",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "Highland",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10-31-2022",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "36,117.41",
+    "contrib_cumulative": "51,261.69",
+    "expend_this_period": "36,287.41",
+    "expend_cumulative": "51,261.69",
+    "balance_beginning": "170.00",
+    "subtotal_before_expend": "36,287.41",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "A_balance_at_beginning_of_reporting_period": "170.00",
+    "B_contributions_received_this_reporting_period": "36,117.41",
+    "C_contributions_received_since_the_beginning_of_the_year": "51,261.69",
+    "D_expenditures_made_this_reporting_period": "36,287.41",
+    "E_expenditures_made_year_to_date": "51,261.69",
+    "F_subtotal_before_expenditures_A_plus_B": "36,287.41",
+    "G_balance_at_close_of_reporting_period_F_minus_D": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "office_printed"
+   ],
+   "notes": "THE OFFICE FIELD IS BLANK - the county cover page's 'Office' box was left empty, so office_printed is \"\"; index.csv carries 'County Auditor', which the page does not state. NEITHER amendment radio is filled, so is_amendment is \"\" (not 'No'). Same hybrid shape as this filer's other 2022 filings: page 1 is the county cover (typed, digitally signed - the signature block prints the certificate GUID '43548557-cdfc-4d31-9dcb-e284eb9857dc' and 'Date: 2022.10.29 18:35:21 -06'00''), while the summary on page 5 is the CANDIDATE'S OWN table headed 'Candidate Discolosure Form / 2022 Election Cycle / Rod Mann' (the filer's own misspelling preserved) with lines A-G rather than the county's Box A-F ladder; totals_verbatim keys follow that page's printed labels. Amounts are typed with '$' prefixes (dropped per schema) and thousands commas as printed. Name reads 'Rodney W Mann' on the cover and 'Rod Mann' on the summary; index.csv says 'Rodd Mann'. Address printed in the clear (5262 W Castle Pine Way, Highland, UT 84003). The cover's 'Office Use Only' block is overprinted with a solid green rectangle in the county's scan."
+  }
+ ],
+ "notes": ""
+}

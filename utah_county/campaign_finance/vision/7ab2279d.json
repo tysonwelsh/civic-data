@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Adam_Pomeroy.pdf",
+ "key": "7ab2279d",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:16:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Adam Pomeroy",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "7/5/2022",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "1732.93",
+    "contrib_cumulative": "19187.93",
+    "expend_this_period": "8566.53",
+    "expend_cumulative": "16293.42",
+    "balance_beginning": "9728.11",
+    "subtotal_before_expend": "11461.04",
+    "balance_close": "2894.51"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "9728.11",
+    "boxB_contributions_received_this_period": "1732.93",
+    "boxC_contributions_received_year_to_date": "19187.93",
+    "boxD_expenditures_made_this_period": "8566.53",
+    "boxE_expenditures_made_year_to_date": "16293.42",
+    "boxF_subtotal_before_expenditures": "11461.04",
+    "balance_at_close": "2894.51"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, digitally signed ('Reason: I authorize this signature, Date: 2022-07-05 17:38:14'); figures are typed and carry no '$' glyph on the summary page. The whole Address / City / State / Zip row is EMPTY on the cover page (no black redaction bar - the filer simply left it blank), so residence_city is ''. The report-type radio '30 Days after withdrawal or elimination' is the filled one, and the amendment answer 'No' is filled. The form prints no political-party field. VARIANT NOTE: the locator's variant_guess was legacy_colAB; the page face is the modern Box A-F form (footer v. 4.20). Office and candidate agree with index.csv."
+  }
+ ],
+ "notes": ""
+}

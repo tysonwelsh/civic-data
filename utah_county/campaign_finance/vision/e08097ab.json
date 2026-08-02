@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Herring_Shawn_3.29.2022_Redacted.pdf",
+ "key": "e08097ab",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Shawn Herring",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat A",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "03-29-2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed. Every summary box carries a typed '0' (an actual written zero, not a blank cell) - a withdrawal report with no activity. The form prints no political-party field. Street address and signature are redacted upstream by the county (black bars) - the whole address line including city is blacked out, so residence_city is unrecoverable. Cover page header names Clerk/Auditor 'Josh Daniels'; the summary page (p4) header names 'Amelia Powers Gardner' - two form vintages bound into one PDF, noted but not adjudicated."
+  }
+ ],
+ "notes": "Page 5 is not a report page: it is the county's internal 'Campaign Financial Disclosure Checklist' (two staff review blocks, reviewed 5/18/2022 and 5/13/22). Read but carries no filer-stated totals. The OCR locator flagged p5 as a summary page; it is not."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "500.-",
+ "total_expenditures": "0",
+ "beginning_balance": "375.42",
+ "ending_balance": "875.42",
+ "aggregate": {
+  "total_contributions_to_date": "500.-",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "875.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large \"C\"",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_10_YearEnd_CntyCncl_AtLrgC.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jbradley_10_YearEnd_CntyCncl_AtLrgC.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Form title has no year ('Financial Disclosure Report For a Candidate'); clerk stamp reads JAN 28 2011, signature date 1-28-11, so this is the year-end report for calendar 2010 (manifest calls it the 2010 Summary Report - consistent). This form has BOTH a top-row 'Office' box and an 'Office Sought' box; both are filled with 'County Council At-Large \"C\"'. Line 1 Columns A and B are written '500.' followed by a dash for the cents (a written-out zero-cents convention), recorded verbatim as '500.-'. Line 2 Columns A and B and Line 6 are a slashed zero (0). NEITHER the amendment Yes nor the No box is checked, so is_amendment is left blank."
+ }
+}

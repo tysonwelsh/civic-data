@@ -1,0 +1,106 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "3841b577cdb1a444f2c440b5cb51a2c5eb5d63018e44909263c32f6c2b2c834e",
+ "canonical_path": "raw/2022/2022_cc_David_Nephi_Zook_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_David_Nephi_Zook_22G.pdf",
+  "raw/2022/2022_wb_David_Nephi_Zook_22G.pdf"
+ ],
+ "pages_read": [
+  1,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "David Nephi Zook",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Executive/Surveyor",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "30 Days after the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12/7/22",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 DEC 7 PM 3:10",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$7,977.54",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$2,250.00",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$21,755.00",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$8,393.97",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$20,725.86",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "$10,227.54",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$1,833.57",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Executive",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads (typed) 'Cache County Executive/Surveyor'",
+  "confidence": "high"
+ },
+ "notes": "\u26a0 CORRECTS THE OCR SIDECAR: the text layer read box C as '$21,785.00'; the page image plainly reads **$21,755.00**. The verbatim page value is what is recorded. This filing DOES differ between the This-Period and Year-to-Date columns (B 2,250.00 vs C 21,755.00), so it is an INCREMENTAL report. The candidate's address and email are redacted (blacked out) on the published PDF by the county, not by this repo."
+}

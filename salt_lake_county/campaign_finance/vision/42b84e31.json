@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$14,818.82",
+ "total_expenditures": "$20,468.41",
+ "beginning_balance": "$11,518.99",
+ "ending_balance": "$5,869.40",
+ "aggregate": {
+  "total_contributions_to_date": "$45,266.43",
+  "total_expenditures_to_date": "$39,397.03",
+  "line5_subtotal": "$26,337.81"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "1/30/15",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nelson_Steve_DA_Oct14_Amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nelson_Steve_DA_Oct14_Amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDMENT to the October interim. The FORM checks 'Seven days before a general election' (clerk listing says 'October'); the amendment 'Yes' box is marked with a typed X and the 'date of report' line is left BLANK. Signed 1/30/15, clerk-stamped JAN 30 2015, but the Summary Page header keeps the original report date 10/28/2014. Changes relative to the original (key b1d2b7ad): Line 2 Column A rose $6.00 (20,462.41 -> 20,468.41), Line 1 Column B rose $62.00 (45,204.43 -> 45,266.43), Line 2 Column B rose $68.00 (39,329.03 -> 39,397.03) and Line 7 fell $6.00 (5,875.40 -> 5,869.40); Lines 1A, 3 and 5 are unchanged. The amended Column A arithmetic checks out (26,337.81 - 20,468.41 = 5,869.40)."
+ }
+}

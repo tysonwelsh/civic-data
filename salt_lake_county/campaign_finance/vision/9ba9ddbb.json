@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "53100.00",
+ "total_expenditures": "20549.59",
+ "beginning_balance": "38186.50",
+ "ending_balance": "70736.91",
+ "aggregate": {
+  "total_contributions_to_date": "53100.00",
+  "total_expenditures_to_date": "20549.59",
+  "line5_subtotal": "91286.50"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Democrat",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1-31-07",
+  "report_date": "2/14/07 as amended",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/pcorroon_jan3107amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/pcorroon_jan3107amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the 1-31-07 year-end report (Yes box checked, 'date of report 1-31-07'); the signature date line reads '2/14/07 as amended' and the clerk stamp is RECEIVED FEB 14 2007. Its Summary Page carries EXACTLY the same seven figures as the un-amended 1-31-07 report (key 53826929), so the amendment evidently changed schedule detail only, not the totals."
+ }
+}

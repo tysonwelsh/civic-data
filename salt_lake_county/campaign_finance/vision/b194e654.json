@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$12,885.00",
+ "total_expenditures": "$7,446.01",
+ "beginning_balance": "$215,160.87",
+ "ending_balance": "$220,599.86",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$228,045.87"
+ },
+ "cover": {
+  "candidate": "Aimee Winder Newton",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Council District 3",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/4/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Winder-Newton-Aimee__A0E918D9.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Winder Newton, Aimee",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Winder-Newton-Aimee__A0E918D9.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'2022' title; whole form set in italic. April 5 box marked with a typed X over the checkbox. NEITHER amendment box is checked. Summary header reads 'Winder Newton', date of report 4/1/22 (three days before the cover signature date 4/4/22), page '2/2'. Column B blank."
+ }
+}

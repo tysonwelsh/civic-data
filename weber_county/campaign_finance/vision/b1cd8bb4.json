@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "b1cd8bb4",
+ "source_filing": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+ "document_id": "2022_combined_7e3a53_78d55edd#p40",
+ "page_start": 40,
+ "page_end": 42,
+ "summary_page": 40,
+ "election_cycle": "2022",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Gage Froerer",
+ "office_stated": "Weber County Commission Seat A",
+ "report_type_stated": "June 14 - 21",
+ "filing_date_stated": "2022-06-21",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "7,815.05",
+   "this": "23,600.00",
+   "cum": "31,415.05"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "22,519.87",
+   "cum": "22,519.87"
+  },
+  "ending_balance": {
+   "last": "7,815.05",
+   "this": "1,080.13",
+   "cum": "8,895.18"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "AMENDED REPORT - the word 'Amended' is handwritten across the top of the form; the portal label for this document is 'Primary - Amended'. Typed 2022 3-line form. Line-1 'last report' 7,815.05 is exactly this filer's 2018 final cumulative balance - an officeholder account carried across cycles. NOTE for any cycle rollup: this June amended report is SUPERSEDED by the 2022-11-01 report, whose 'last report' column starts from this one's 8,895.18 ending balance."
+}

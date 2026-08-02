@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "702e3296",
+ "source_filing": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+ "document_id": "2018_combined_7e3a53_1c487f91#p8",
+ "page_start": 8,
+ "page_end": 13,
+ "summary_page": 8,
+ "election_cycle": "2018",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:05Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Gage Froerer",
+ "office_stated": "County Commission Seat A",
+ "report_type_stated": "January 7th, 2019 (final report)",
+ "filing_date_stated": "2019-01-06",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "73,234",
+   "this": "400.00",
+   "cum": "73,634.00"
+  },
+  "expenditures": {
+   "last": "67,456.23",
+   "this": "2,561.00",
+   "cum": "70,017.23"
+  },
+  "ending_balance": {
+   "last": "9,976.05",
+   "this": "-2,161.00",
+   "cum": "7,815.05"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "medium",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN on the 2018 3-line form (read from p8 of the 2018 consolidated archive PDF); RECEIVED stamp JAN 04 2019, signed 01/06/19 (the signature date is AFTER the clerk stamp - filer/clerk inconsistency, retained). Line-1 'last report' cell is written without cents ('73,234') - transcribed exactly as written, medium confidence. Column arithmetic is internally consistent (73,234+400=73,634; 400-2,561=-2,161; 9,976.05-2,161=7,815.05); contributions minus expenditures does NOT equal the balance because the filer carried an opening balance - not corrected."
+}

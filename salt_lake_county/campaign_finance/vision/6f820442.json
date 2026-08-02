@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$33,587.00",
+ "total_expenditures": "$49,659.21",
+ "beginning_balance": "$48,457.49",
+ "ending_balance": "$32,385.28",
+ "aggregate": {
+  "total_contributions_to_date": "$482,816.46",
+  "total_expenditures_to_date": "$448,431.18",
+  "line5_subtotal": "$82,044.49"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Dem",
+  "office_sought": "County Council",
+  "district_number": "At-Large E",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "district_number": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__5012130F.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__5012130F.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 300 and cropped to confirm the district cell)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "District Number is typed 'At-Large E' - verified at 300 dpi. The clerk listing and this filer's other 2022 filings say At-Large B; 'E' appears to be a filer typo, recorded VERBATIM. Top-row Office cell is blank. NOTE: this is the ORIGINAL 1/31/23 year-end report; key b0cec426 is its 7/17/2023 amendment and restates Line 1 Column A as $25,407 and Line 3 as $41,932.49 (vs $33,587.00 / $48,457.49 here)."
+ }
+}

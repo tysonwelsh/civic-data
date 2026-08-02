@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14Rec-Smith.pdf",
+ "key": "2562d295",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JEFFERY DEAN SMITH",
+   "party_printed": "REP",
+   "office_printed": "Ut. COUNTY RECORDER",
+   "residence_city": "OREM",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/11/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "5600.00",
+    "contrib_cumulative": "5600.00",
+    "expend_this_period": "5565.54",
+    "expend_cumulative": "5565.54",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "5600.00",
+    "balance_close": "34.46"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "5600.00",
+    "line1_total_contributions_colB": "5600.00",
+    "line2_total_expenditures_colA": "5565.54",
+    "line2_total_expenditures_colB": "5565.54",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "5600.00",
+    "line5_subtotal_lines3plus4": "5600.00",
+    "line6_total_expenditures_from_line2A": "5565.54",
+    "line7_balance_at_close": "34.46"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten block capitals. Cents on the 5600 figures are written as a raised superscript '00'; transcribed in decimal form. Line 3 is a slashed-zero glyph (the filer's zero), transcribed as 0 at medium confidence. Neither amendment box (Yes/No) is marked, so is_amendment is left empty. The summary page's own page box reads 'Page 1 of 5' even though it is the second page of the PDF (the filer numbered the summary page 1)."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8,317.40",
+ "total_expenditures": "9,947.32",
+ "beginning_balance": "2046.77",
+ "ending_balance": "416.85",
+ "aggregate": {
+  "total_contributions_to_date": "15,821.97",
+  "total_expenditures_to_date": "15,405.12",
+  "line5_subtotal": "10,364.17"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At-Large A",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bruner_Miach_CouncilA_Sept.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bruner_Miach_CouncilA_Sept.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form's printed title says '[County Officeholders - Year-End]' but the box actually checked is the September 15 INTERIM - the title is the 2014 form's standing header, not the report type. This vintage's Column B is headed 'Year to Date'. Summary page header: page 2 of 7, BRUNER, 'Sept. 15'. The source filename misspells the candidate ('Bruner_Miach'); the form reads MICAH BRUNER. Neither amendment box is checked. Both columns check out and chain from the June filing."
+ }
+}

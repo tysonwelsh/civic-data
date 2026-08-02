@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_IvieNathan6.23.20_Redacted.pdf",
+ "key": "167d8f91",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:25:00Z",
+ "pages_read": [1, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "R Nathan Ivie",
+   "party_printed": "",
+   "office_printed": "Utah County Commission",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "22 June 2020",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "14,770",
+    "contrib_cumulative": "14,770",
+    "expend_this_period": "12,238.52",
+    "expend_cumulative": "12,238.52",
+    "balance_beginning": "232.80",
+    "subtotal_before_expend": "15,002.80",
+    "balance_close": "2,764.28"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "232.80",
+    "boxB_contributions_received_this_period": "14,770",
+    "boxC_contributions_received_year_to_date": "14,770",
+    "boxD_expenditures_made_this_period": "12,238.52",
+    "boxE_expenditures_made_year_to_date": "12,238.52",
+    "boxF_subtotal_before_expenditures": "15,002.80",
+    "balance_at_close": "2,764.28"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form, scanned; crisp. The form prints no political-party field. Boxes B and C print '14,770' with no cents - transcribed as printed. Signature redacted upstream by the county (black bar); the Date box and Date of Report both read '22 June 2020'. OFFICE DISAGREEMENT: the page's Office field prints only 'Utah County Commission' with NO SEAT; office_index says 'County Commission Seat C'. The page is transcribed as printed - the seat is not stated on this filing."
+  }
+ ],
+ "notes": "variant_guess said legacy_colAB; the page face is the modern Box A-F form (v. 4.20)."
+}

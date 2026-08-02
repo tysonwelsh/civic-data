@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "648.48",
+ "total_expenditures": "648.48",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "648.48",
+  "total_expenditures_to_date": "648.40",
+  "line5_subtotal": "648.48"
+ },
+ "cover": {
+  "candidate": "Jeremy",
+  "party": "REP",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "4-5-10",
+  "report_date": "4-12-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvotaw_10_Apr_Interim_Amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeremy Votaw",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jvotaw_10_Apr_Interim_Amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; Line 2 re-rendered at -r 600",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 648.48 but Column B reads 648.40 - confirmed at 600 dpi (a clear '8' in A, a clear '0' in B). NO reporting-period box is checked; the only Type-of-Report mark is the amendment 'Yes' box with '4-5-10' written beside it, so report_type is blank and the amended period is carried by amendment_of. The Name of Candidate box holds only the first name 'Jeremy' (the surname appears only in the Report Verification line, 'JEREMY VOTAW') - recorded as printed. Lines 3 and 7 are slashed zeros. Fax header shows 04/07/2010 17:02 from 801-208-9451, yet the signature is dated 4-12-10 and the clerk stamp is APR 15 2010 - the fax date PRECEDES the signature date, worth a human's glance."
+ }
+}

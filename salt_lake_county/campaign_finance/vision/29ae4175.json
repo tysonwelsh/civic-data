@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "$740.00",
+ "beginning_balance": "$17,128.34",
+ "ending_balance": "$16,388.34",
+ "aggregate": {
+  "total_contributions_to_date": "$29,653.50",
+  "total_expenditures_to_date": "$13,265.16",
+  "line5_subtotal": "$17,128.34"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-21-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/DeBry_S_Council5_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/DeBry_S_Council5_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (line 1 Column B cropped at -r 450)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Two-office-box form; top-row 'Office' reads 'County Council' and 'Office Sought' also reads 'County Council' with District Number written '#5' (recorded with the hash as printed). Lines 1 and 4 Column A are a hand-drawn plain zero (open circle), recorded as 0. Cents on line 2 / line 6 are raised superscripts ('$740' + superscript 00). Neither amendment box is checked. Clerk RECEIVED stamp JAN 21 2014, so this is the year-end report for calendar 2013 as the clerk listing says. 17,128.34 - 740.00 = 16,388.34, consistent."
+ }
+}

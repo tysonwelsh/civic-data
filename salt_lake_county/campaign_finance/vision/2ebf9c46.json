@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "1000.00",
+ "beginning_balance": "3136.34",
+ "ending_balance": "2136.34",
+ "aggregate": {
+  "total_contributions_to_date": "13942.55",
+  "total_expenditures_to_date": "11806.21",
+  "line5_subtotal": "3136.34"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMOCRAT",
+  "office_sought": "S.L. COUNTY COUNCIL #2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-28-13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_Final_Council2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_Final_Council2_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FORM FACE vs FILENAME: file is named '..._12_Final_...' and the clerk listing calls it a Summary Report, but only the YEAR-END box is checked; the Final / Dissolution box is NOT. Lines 1 and 4 Column A are written as a dash-struck zero (a drawn dash through/around the zero) \u2014 recorded as '0'. The Summary Page header box (page/last name/date) is entirely BLANK on this filing. Column B is labelled 'Year to Date'. Arithmetic self-consistent (3136.34 - 1000.00 = 2136.34)."
+ }
+}

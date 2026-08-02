@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_Smith.pdf",
+ "key": "38114dfd",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Mike Smith",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Sheriff",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10/29/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "1,260",
+    "contrib_cumulative": "97,355.85",
+    "expend_this_period": "16,835.59",
+    "expend_cumulative": "89,273.93",
+    "balance_beginning": "22,407.51",
+    "subtotal_before_expend": "23,667.51",
+    "balance_close": "6,831.92"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "1,260",
+    "line1_total_contributions_colB": "97,355.85",
+    "line2_total_expenditures_colA": "16,835.59",
+    "line2_total_expenditures_colB": "89,273.93",
+    "line3_balance_beginning": "22,407.51",
+    "line4_total_contributions_from_line1A": "1,260",
+    "line5_subtotal_lines3plus4": "23,667.51",
+    "line6_total_expenditures_from_line2A": "16,835.59",
+    "line7_balance_at_close": "6,831.92"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Clear print handwriting. Line 1 is written '1,260' with no cents in both places the filer entered it - transcribed verbatim, not padded to 1,260.00. The cents of the two Column B figures are written as small raised digits (97,355.85 / 89,273.93), hence medium confidence there; Line 3's final digit runs into the form's arrow graphic, also medium. Neither amendment box (Yes/No) is marked, so is_amendment is left blank. Summary page header reads '2016 County & Local School Board Candidates' (a 2016-vintage sheet used for this 2018 filing), Page 1 of 3, Last Name 'Smith', Date of Report '10/29/18'; the clerk's receipt annotation reads '8:51 10-30-18'. Fax field left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

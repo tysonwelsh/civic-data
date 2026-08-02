@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,000",
+ "total_expenditures": "173",
+ "beginning_balance": "0",
+ "ending_balance": "827",
+ "aggregate": {
+  "total_contributions_to_date": "1,000",
+  "total_expenditures_to_date": "173",
+  "line5_subtotal": "1000"
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "Dem",
+  "office_sought": "Council",
+  "district_number": "4",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Hatch_J_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Hatch_J_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The April 5 interim box is checked; neither the amendment 'Yes' nor 'No' box is checked, so is_amendment is left blank. Top-row 'Office' reads 'Council 4'; the 'Office Sought' box reads 'Council' with District Number '4'. Figures are whole dollars, no cents and no dollar signs. Line 1 Columns A and B are written with a comma ('1,000') in a loose hand; lines 4 and 5 are written '1000' without the comma - recorded as seen. Line 7 (827) equals line 5 minus line 6 on the form."
+ }
+}

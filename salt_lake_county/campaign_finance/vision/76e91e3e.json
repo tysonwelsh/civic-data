@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$131,490.73",
+ "total_expenditures": "$142,230.68",
+ "beginning_balance": "$206,568.01",
+ "ending_balance": "$195,828.06",
+ "aggregate": {
+  "total_contributions_to_date": "$361,272.46",
+  "total_expenditures_to_date": "$165,444.40",
+  "line5_subtotal": "$338,058.74"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "AtLarge B",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__213DD5EC.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__213DD5EC.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "26-page bundle; the Summary Page is page 2. Top-row 'Office' cell is blank; Office Sought reads 'County Council' with District Number 'AtLarge B'. Neither amendment box is checked. Line 5 - Line 6 = Line 7 as printed."
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "a325817398d1fdb8b4c69b2de7c132e0da3e76fddfebad29894f8e8675c9540e",
+ "canonical_path": "raw/2016/2016_cc_Kevin_Rhodes_Campaign_Finance_Report.pdf",
+ "applies_to": [
+  "raw/2016/2016_cc_Kevin_Rhodes_Campaign_Finance_Report.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "KEVIN L. RHODES",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY COUNCIL",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "NORTH",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "DEMOCRAT",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "NEWTON",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL N. ZOLLINGER",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "6 DEC 2016",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK REC'D DEC 8 13:56",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "1,075.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "1,091.58",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2,166.58",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "250.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "40.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "290.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "2,100.88",
+     "c": "high"
+    },
+    "this": {
+     "v": "355.70",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2,456.58",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "-775.88",
+     "c": "high"
+    },
+    "this": {
+     "v": "775.88",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0.0",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "NORTH",
+  "evidence": "page 1 'Name of Office' reads 'CACHE COUNTY COUNCIL'; 'Office District' reads 'NORTH'; 'Political Party' reads 'DEMOCRAT'",
+  "confidence": "high"
+ },
+ "notes": "ADJUDICATES the flagged Kevin Rhodes 2016 false-positive risk: the office line names the COUNTY COUNCIL outright, so this is a county-office filing, not a school-board one. The Rhodes surname also appears in the Cache County School Board canvass, but that is a different filing and a different person-question \u2014 this page decides this row."
+}

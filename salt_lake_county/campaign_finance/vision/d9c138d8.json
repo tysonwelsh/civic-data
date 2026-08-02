@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "22336.17",
+ "total_expenditures": "17424.44",
+ "beginning_balance": "5062.38",
+ "ending_balance": "9974.11",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "27398.55"
+ },
+ "cover": {
+  "candidate": "Ashley Liewer",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "3",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/14/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Liewer-Ashley__B563D42B.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liewer, Ashley",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Liewer-Ashley__B563D42B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL September 15 report (amendment No box checked); key 57f60c85 is its amendment and restates Lines 1/2/5 upward by $973.75 while leaving Lines 3 and 7 identical - so the amended Line 5 minus Line 6 no longer equals the printed Line 7 in either copy of the pair (here 27398.55 - 17424.44 = 9974.11, which does hold). Figures typed without dollar signs or thousands separators. Column B blank on both lines."
+ }
+}

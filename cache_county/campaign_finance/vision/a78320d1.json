@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "e5f921e323ef9c6e9fcc29c61b7f3ebae24607d1149681ecbf825d2d230ec1d9",
+ "canonical_path": "raw/2010/2010_wb_jzollinger.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_jzollinger.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Jill N. Zollinger",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Clerk",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "College Ward",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/13/2010",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 13 OCT 2010 AM 09:51",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "-0-",
+     "c": "high"
+    },
+    "this": {
+     "v": "-0-",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "-0-",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "-0-",
+     "c": "high"
+    },
+    "this": {
+     "v": "-0-",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "-0-",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "326.15",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "326.15",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "-326.15",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Clerk/Auditor",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Clerk'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "This filing is TYPEWRITTEN, not handwritten \u2014 the sitting County Clerk filing for her own office. Zeros are written '-0-'."
+}

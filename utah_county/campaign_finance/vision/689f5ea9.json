@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Andrea_Allen_Redacted.pdf",
+ "key": "689f5ea9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:47:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Andrea Allen",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/29/2024",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "4230.57",
+    "contrib_cumulative": "4230.57",
+    "expend_this_period": "4230.57",
+    "expend_cumulative": "4230.57",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "4230.57",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "4230.57",
+    "boxC_contributions_received_year_to_date": "4230.57",
+    "boxD_expenditures_made_this_period": "4230.57",
+    "boxE_expenditures_made_year_to_date": "4230.57",
+    "boxF_subtotal_before_expenditures": "4230.57",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures. Street address, phone number and signature are redacted upstream by the county (black bars); the printed 'Spanish Fork UT 84660' survives beside the redaction bar. Clerk's blue RECEIVED stamp reads OCT 29 2024. The report-type radio marked (X) is 'Seven days preceding the General Election', matching index.csv's '7 Days before General'."
+  }
+ ],
+ "notes": "Redacted copy of the same report published unredacted as key 29704fa3 (identical candidate, office, report type, date and all seven boxes). One report."
+}

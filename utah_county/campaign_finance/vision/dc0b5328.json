@@ -1,0 +1,57 @@
+{
+ "path": "raw/2014/2014_12-14Tracy.pdf",
+ "key": "dc0b5328",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JAMES O. TRACY",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "SHERIFF",
+   "residence_city": "PROVO",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "12-02-14",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "low",
+    "expend_cumulative": "low",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "low",
+    "balance_close": "low"
+   },
+   "unreadable": [
+    "contrib_this_period",
+    "contrib_cumulative",
+    "expend_this_period",
+    "expend_cumulative",
+    "balance_beginning",
+    "subtotal_before_expend",
+    "balance_close"
+   ],
+   "notes": "NO SUMMARY PAGE EXISTS IN THIS DOCUMENT - this is a document gap, not an unreadable one. The retained PDF is 2 pages: the cover (form 'Page 1 of 4') and SCHEDULE A (form 'Page 3 of 4'). The county published an incomplete scan; form pages 2 (the Summary Page) and 4 are absent, so every summary total is left blank rather than derived. For the record, and NOT copied into the totals slots: Schedule A prints one line, '04-05-14 (LOAN TO SELF) 65.00', with 'NONE (NO CONTRIBUTIONS)' written on the line above it, 'Subtotal for this page $65.00' and 'Total Contributions Received $65.00'. Neither amendment box (Yes / No) is checked. Street address and phone/zip are left blank on the cover. Index candidate is blank; the page names JAMES O. TRACY. Office reads 'SHERIFF' (a stray mark precedes the S); index.csv says 'County Sheriff'."
+  }
+ ],
+ "notes": "Incomplete county scan - the Summary Page is missing from the published PDF."
+}

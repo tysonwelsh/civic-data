@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,751 -",
+ "total_expenditures": "6,227.88",
+ "beginning_balance": "11,054.73",
+ "ending_balance": "10,577.85",
+ "aggregate": {
+  "total_contributions_to_date": "21,641 -",
+  "total_expenditures_to_date": "11,150.08",
+  "line5_subtotal": "16,805.73"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "Interim Report: October 31 (for the period ending October 30, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/6",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jhatch_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 both columns write the cents as a trailing dash ('5,751 -', '21,641 -'). Cents on Lines 2 and 7 are raised superscripts (6,227 superscript 88; 11,150 superscript 08; 10,577 superscript 85) - transcribed with a decimal point; Line 2 Column B's superscript '08' is cramped against the cell edge (medium confidence). Form arithmetic checks out (11,054.73 + 5,751 = 16,805.73; 16,805.73 - 6,227.88 = 10,577.85)."
+ }
+}

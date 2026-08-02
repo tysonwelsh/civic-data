@@ -1,0 +1,98 @@
+{
+ "filing_key": "FILE|raw/state_disclosures/washington_2010 Elections_Kevin Brooks 4-9-10.pdf",
+ "channel": "state_disclosures",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/state_disclosures/washington_2010 Elections_Kevin Brooks 4-9-10.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/state_disclosures/washington_2010 Elections_Kevin Brooks 4-9-10.pdf",
+   "doc_kind": "statement",
+   "sha256": "3bbbb1bd41da4b7a29ace9a8c7f633b0db6f747723d23b51750c9eb3116f60cb",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Kevin Edward Brooks",
+  "office": "Sheriff, Washington County",
+  "district": "",
+  "election_year": "",
+  "party": "Democrate",
+  "residence_city": "St. George",
+  "filed_to": "Melanie Abplanalp"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Sheriff",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Kev a Ebel Bree",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "4-8-10",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "0",
+   "contrib_gt50_last": "0",
+   "contrib_gt50_this_printed": "744.05",
+   "contrib_gt50_this": "744.05",
+   "contrib_gt50_cum_printed": "744.05",
+   "contrib_gt50_cum": "744.05",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "",
+    "balance": ""
+   },
+   "blank_fields": [
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "lines 2, 3 and 4 are left entirely blank by the filer. 'Democrate' is the filer's own spelling."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:42:30Z"
+}

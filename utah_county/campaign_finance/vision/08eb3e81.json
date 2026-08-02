@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_Andrea-4-15-22-General_Redacted.pdf",
+ "key": "08eb3e81",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:18:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Andrea Allen",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10-26-20",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "3195.65",
+    "contrib_cumulative": "12592.15",
+    "expend_this_period": "3325.19",
+    "expend_cumulative": "12592.15",
+    "balance_beginning": "129.54",
+    "subtotal_before_expend": "3325.19",
+    "balance_close": "3325.19"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "129.54",
+    "boxB_contributions_received_this_period": "3195.65",
+    "boxC_contributions_received_year_to_date": "12592.15",
+    "boxD_expenditures_made_this_period": "3325.19",
+    "boxE_expenditures_made_year_to_date": "12592.15",
+    "boxF_subtotal_before_expenditures": "3325.19",
+    "balance_at_close": "3325.19"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form (v. 4.20). FILER ERROR, transcribed as printed and NOT corrected: 'Balance at Close of Reporting Period (Box F - Box D)' is filled in as 3325.19, the same figure as Box F and Box D, where the form's own formula (3325.19 - 3325.19) would give zero. The value is left exactly as the filer entered it. NEITHER amendment radio (No / Yes) is filled, so is_amendment is blank. The address block and the phone number are redacted upstream by the county (solid black bars), so residence_city is left blank - the county blacked out the whole address row; the email 'Andrea4Recorder@gmail.com' survives. This form prints no political-party field. Dates: cover Date and cover/summary Date of Report all read '10-26-20'; note the county's own FILENAME ('2020_Andrea-4-15-22-General') carries an unrelated 4-15-22 string, which the page face does not support."
+  }
+ ],
+ "notes": ""
+}

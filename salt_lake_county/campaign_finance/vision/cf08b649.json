@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$158,626.80",
+ "total_expenditures": "$95,510.54",
+ "beginning_balance": "$33,764.20",
+ "ending_balance": "$96,880.46",
+ "aggregate": {
+  "total_contributions_to_date": "$294,258.33",
+  "total_expenditures_to_date": "$197,404.87",
+  "line5_subtotal": "$192,391 -"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "D",
+  "office_sought": "Mayor",
+  "district_number": "SLCo",
+  "report_type": "Interim Report: June 19 (For the period ending June 18, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/19/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_June_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_June_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL June 19 interim (its amendment is key 8b7157ef, filed 7/3/12). Neither amendment box is checked. Later 2012 cover layout with no top-row 'Office' field; District Number is written 'SLCo' (the amended version writes 'N/A' in the same cell). Column B is headed 'Year to Date'. Line 5 is written '$192,391 -' with a DASH in place of the cents, recorded verbatim; the amended filing writes the same figure as $192,391.00. Column A arithmetic checks out and every Column A figure matches the amendment exactly - so the two June filings differ only in that cents notation and in the schedule detail, not in the stated totals. Signed 6/19/2012, clerk-stamped JUN 19 2012."
+ }
+}

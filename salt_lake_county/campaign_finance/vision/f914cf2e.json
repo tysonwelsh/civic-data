@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "300 -",
+ "total_expenditures": "762.25",
+ "beginning_balance": "571.02",
+ "ending_balance": "108.77",
+ "aggregate": {
+  "total_contributions_to_date": "300 -",
+  "total_expenditures_to_date": "762.25",
+  "line5_subtotal": "871.02"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "#3",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2005",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/wilde_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/wilde_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 1 in BOTH columns is written '300 -' (a dash standing in for the cents); Line 4, the same figure, is written out as '300.00'. Recorded verbatim. Balance summary is internally consistent (571.02 + 300.00 = 871.02; 871.02 - 762.25 = 108.77). Signed 1/31/2005, stamped JAN 31 2005 - the year-end report for calendar 2004."
+ }
+}

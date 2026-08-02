@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$170,684.25",
+ "total_expenditures": "$150,334.70",
+ "beginning_balance": "$69,185.05",
+ "ending_balance": "$89,534.60",
+ "aggregate": {
+  "total_contributions_to_date": "$468,208.50",
+  "total_expenditures_to_date": "$378,673.90",
+  "line5_subtotal": "$239,869.30"
+ },
+ "cover": {
+  "candidate": "Crockett, Mark",
+  "party": "REPUBLICAN",
+  "office_sought": "Mayor",
+  "district_number": null,
+  "report_type": "Interim Report October 30, 2012",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "10/30/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Crockett_M_12_Oct_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Crockett_M_12_Oct_Mayor_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110 (line 2 Column B cropped at -r 450)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk online-system printout (summary_printer.cfm?ID=845), 6 pages; only line 2's YTD cell is handwritten ($378,673.90) - every other figure is machine-printed. Other-Campaign-Accounts columns are $0.00. No checkbox block/amendment question/signature block, so those fields are null; report_date is the system print date. Clerk RECEIVED stamp OCT 30 2012. Line 3 matches the amended September report's line 7 and the arithmetic is internally consistent."
+ }
+}

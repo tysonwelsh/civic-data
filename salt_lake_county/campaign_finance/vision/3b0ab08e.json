@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$11,515",
+ "total_expenditures": "$19,174.14",
+ "beginning_balance": "$65,715.86",
+ "ending_balance": "$58,056.72",
+ "aggregate": {
+  "total_contributions_to_date": "$87,384",
+  "total_expenditures_to_date": "$29,373.07",
+  "line5_subtotal": "$77,230.86"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-5-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_10_Apr_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sgill_10_Apr_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form. Neither the amendment Yes nor No box is checked, so is_amendment is left blank. Line 1 figures are written without cents ($11,515 / $87,384). Line 2 Column B ($29,373.07) is smaller than the this-period figure would imply relative to the balance summary, but the form's figures are kept verbatim."
+ }
+}

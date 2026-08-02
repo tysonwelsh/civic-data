@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6340.93",
+ "total_expenditures": "4705.58",
+ "beginning_balance": "6408.55",
+ "ending_balance": "8,043.90",
+ "aggregate": {
+  "total_contributions_to_date": "12,781.38",
+  "total_expenditures_to_date": "4916.03",
+  "line5_subtotal": "12,749.48"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "Democrat",
+  "office_sought": "SL Cnty Council",
+  "district_number": "#3",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_10_Apr_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/dturner_10_Apr_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Every figure uses the raised-cents-over-a-rule convention (e.g. 6340 with a superscript 93); transcribed with decimal points. Line 5 Column A's superscript is written over an earlier struck figure (recorded 12,749.48, medium \u2014 Column A's own arithmetic, 6,408.55 + 6,340.93, gives that value, and 12,749.48 - 4,705.58 = 8,043.90 = Line 7). COLUMN B DOES NOT RECONCILE: 12,781.38 - 4,916.03 = 7,865.35, not the 8,043.90 closing balance. Neither amendment box is checked. Top-row Office reads 'SL Cnty Council Dist 3'. Stamped RECEIVED APR 05 2010."
+ }
+}

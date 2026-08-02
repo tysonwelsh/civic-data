@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "$20,797.20",
+ "ending_balance": "$20,797.20",
+ "aggregate": {
+  "total_contributions_to_date": "$38,603.50",
+  "total_expenditures_to_date": "$17,806.30",
+  "line5_subtotal": "$20,797.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Sept. 13, 2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/DeBry_Steven_Council5_Sept.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/DeBry_Steven_Council5_Sept.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "A no-activity period: lines 1, 2, 4 and 6 Column A are all a hand-drawn plain zero (open circle), recorded as 0, and lines 3, 5 and 7 all carry the same balance. Column B repeats the June aggregates unchanged. Neither amendment box is checked. Clerk RECEIVED stamp SEP 15 2014, signed Sept. 13, 2014."
+ }
+}

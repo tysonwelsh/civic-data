@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6599.47",
+ "total_expenditures": "1894.87",
+ "beginning_balance": "282.63",
+ "ending_balance": "5062.38",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "6957.25"
+ },
+ "cover": {
+  "candidate": "Ashley Liewer",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "3",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/21/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Liewer-Ashley__43506ED9.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liewer, Ashley",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Liewer-Ashley__43506ED9.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "ARITHMETIC INCONSISTENCY on the form: Line 1 Column A is 6599.47 but Line 4 ('from Line 1 Column A') is 6674.62, a $75.15 difference; Line 5 (6957.25) equals Line 3 + Line 4, not Line 3 + Line 1. Both figures recorded exactly as printed; nothing derived. Column B (Aggregate Total) is blank on both lines - empty strings, not zeros. Figures are typed without dollar signs. The print name reads 'Ashley R. Liewer' while the cover name field reads 'Ashley Liewer'."
+ }
+}

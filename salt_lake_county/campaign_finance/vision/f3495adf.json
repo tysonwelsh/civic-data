@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2750.00",
+ "total_expenditures": "$1351.41",
+ "beginning_balance": "0",
+ "ending_balance": "1398.59",
+ "aggregate": {
+  "total_contributions_to_date": "$2750.00",
+  "total_expenditures_to_date": "$1351.41",
+  "line5_subtotal": "$2750.00"
+ },
+ "cover": {
+  "candidate": "Reid Demman",
+  "party": "R",
+  "office_sought": "County Surveyor",
+  "district_number": "County Wide",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "04/03/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rdemman_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Reid Demman",
+  "office": "Surveyor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/rdemman_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Party is written simply as 'R'. The District Number box holds the words 'County Wide' rather than a number - recorded verbatim. Every money cell writes the cents as a raised superscript over a rule ($2750 with superscript 00, $1351 with superscript 41), transcribed here with a decimal point. Line 3 is a hand-drawn slashed zero. The form's arithmetic is exact (2750.00 - 1351.41 = 1398.59). Signed 04/03/06, clerk-stamped RECEIVED APR 05 2006; Summary Page header 'Demman, 4/5/06, page 2 of 4'."
+ }
+}

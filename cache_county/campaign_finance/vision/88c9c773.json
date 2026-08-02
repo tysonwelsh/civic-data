@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "9a86770ba95c35cda6e564ee1986b8040ea9f146d2ea84384f329bea8667295b",
+ "canonical_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_David_Gillie.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_David_Gillie.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "David R. Gillie",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Clerk",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102 Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election; plus handwritten across the Type of Report line: 'Campaign Finance Report'",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "16 JUN 2026",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "182.61",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "None",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "1,000",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "None",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "817.39",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "182.61",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "182.61",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "$ 1,000",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "$ 817.39",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Clerk/Auditor",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Cache County Clerk' (the campaign email written beside it is 'realelections@gillieforcountyclerk.com'). Mapped to the standard label Clerk/Auditor per protocol's historic-title mapping; the verbatim wording is kept in cover.office_verbatim",
+  "confidence": "high"
+ },
+ "notes": "SCOPE FINDING - THIS IS NOT A SCHOOL-BOARD FILING. As with this filer's April filing, the 'Office' box is clearly written 'Cache County Clerk' and no page names a school-board seat. Decided on this document's own page evidence alone. Four pages: 1 cover, 2 Schedule A (one line), 3 Schedule B (four lines), 4 Summary Page; the 2026 instrument with the Cache County 1857 'OFFICE OF THE CLERK' seal on every page, completed by hand in pencil/graphite, clean scan, all figures legible. No statutory citation printed. TYPE OF REPORT: the printed radio button 'Seven days preceding the General Election' IS marked on this filing (unlike the same filer's April filing, where no box was marked), and the filer also hand-wrote 'Campaign Finance Report' across the Type of Report header line. 'Is this report an amendment?' is marked No. No Clerk received stamp appears on page 1 - the 'Office Use Only' box is empty and both checkboxes are unmarked - so received_stamp is '' honestly, not unreadable. 'None' IS THE PRINTED WORD: boxes B (Contributions Received This Period) and D (Expenditures Made This Period) are written out as the word 'None', not as a figure or a zero glyph; recorded verbatim per protocol rule 2. There are no zero glyphs on this filing. SCHEDULES ARE CARRIED FORWARD, NOT NEW ACTIVITY: Schedule A repeats the single line '1 JAN 2026 / Self / 1839 North 200 West, Logan, UT 84341 / 1,000' and Schedule B repeats the same four lines as the April filing (7 JAN 2026 Cache County Filing Fee 665; 4 FEB 2026 Go Daddy Online Services 22.38; 5 FEB 2026 Go Daddy Online Services 107.87; 2 APR 2026 GoDaddy Online Services 22.14), with the same printed totals - so schedule_totals here restate the cycle-to-date figures while summary boxes B and D report 'None' for this period. That is the form as filed; nothing was reconciled or recomputed. Ledger agreement: ledger candidate 'David R. Gillie' matches the form exactly; ledger scope_status='undetermined' is now resolved to county by the page. Consistent with, but decided independently of, the same filer's April 3 filing (cache_key d93e2755), whose closing balance 182.61 is this filing's opening balance."
+}

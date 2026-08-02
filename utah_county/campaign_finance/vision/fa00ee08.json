@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14WriteIn-Hemingway.pdf",
+ "key": "fa00ee08",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "STEPHEN C. HEMINGWAY - (HEMI)",
+   "party_printed": "UNAFFILIATED",
+   "office_printed": "UTAH COUNTY COMMISSION SEAT B.",
+   "residence_city": "PROVO",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10/26/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "63.26",
+    "contrib_cumulative": "63.26",
+    "expend_this_period": "48.11",
+    "expend_cumulative": "48.11",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "63.26",
+    "balance_close": "15.15"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "63.26",
+    "line1_total_contributions_colB": "63.26",
+    "line2_total_expenditures_colA": "48.11",
+    "line2_total_expenditures_colB": "48.11",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "63.26",
+    "line5_subtotal_lines3plus4": "63.26",
+    "line6_total_expenditures_from_line2A": "48.11",
+    "line7_balance_at_close": "15.15"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in black ink, block capitals. The Name field carries the filer's nickname in parentheses: 'STEPHEN C. HEMINGWAY - (HEMI)'; the Report Verification print-name line reads only 'HEMI'. NOTE the surname is printed HEMINGWAY (one m) on both the cover and the summary header, whereas the index reporting_period spells it 'Hemmingway'. Political party is 'UNAFFILIATED' - this is the write-in filing per the index. NEITHER amendment box is checked, so is_amendment is left ''. Line 3 is a slashed-zero glyph (an actually-written zero), transcribed 0 at medium confidence. Dollar signs are handwritten before most figures and dropped per spec. County date stamp OCT 27 AM8:04; a handwritten '1/4' page mark sits at the foot of the cover page."
+  }
+ ],
+ "notes": ""
+}

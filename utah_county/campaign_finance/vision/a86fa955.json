@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Jacobson_Candace_11.1.22.pdf",
+ "key": "a86fa955",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:15:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Candace Jacobson",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/31/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "835.72",
+    "contrib_cumulative": "835.72",
+    "expend_this_period": "1224.60",
+    "expend_cumulative": "1224.60",
+    "balance_beginning": "-0-",
+    "subtotal_before_expend": "835.72",
+    "balance_close": "-388.88"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "-0-",
+    "boxB_contributions_received_this_period": "835.72",
+    "boxC_contributions_received_year_to_date": "835.72",
+    "boxD_expenditures_made_this_period": "1224.60",
+    "boxE_expenditures_made_year_to_date": "1224.60",
+    "boxF_subtotal_before_expenditures": "835.72",
+    "balance_at_close": "-388.88"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed figures on a scanned page; crisp. Box A is written as the dash-zero glyph '-0-' and is transcribed verbatim (it is the filer's zero, not a blank). The Balance at Close box is a NEGATIVE figure printed as '-$388.88' - transcribed as '-388.88' with the sign kept; the filer also hand-labelled that box 'G' (the form prints no letter there). The Box F value (835.72) is the Box A + Box B subtotal as the form defines it; the close balance is negative because expenditures (1224.60) exceed it. Nothing derived - every figure is read off the page. Address printed in the clear (202 E 4680 N, Provo, UT 84604), not redacted. The OCR locator guessed variant legacy_colAB; the page is the modern Box A-F form."
+  }
+ ],
+ "notes": "Scan is a skewed photocopy; the page footer (form version line) is cut off on every page, so form_version is \"\"."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2300.00",
+ "total_expenditures": "129.61",
+ "beginning_balance": "153.23",
+ "ending_balance": "2323.62",
+ "aggregate": {
+  "total_contributions_to_date": "2606.46",
+  "total_expenditures_to_date": "282.84",
+  "line5_subtotal": "2453.23"
+ },
+ "cover": {
+  "candidate": "Benjamin A. Kendrick",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "1",
+  "report_type": "June 20",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "20 June 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_kendrick_benjamin06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Benjamin Kendrick",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_kendrick_benjamin06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Verified lines 1-2 at 400 dpi crop. Line 6 is written sloppily ('129.6/') but matches Line 2 Col A 129.61. Summary header: page 2 of 4, KENDRICK, 20 June 2006. Received stamp JUN 20 2006."
+ }
+}

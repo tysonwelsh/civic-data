@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1266",
+  "path": "raw/2014/1266_howard_final.pdf",
+  "page": 1,
+  "sha256": "0a8513a0506f80b64f57208a007438d8a22ca566dfff353747a791a8cff8c42f",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1266/howard_final",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Michael R Howard",
+  "office_verbatim": "County Auditor",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "12/4/2014",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$2,638.66",
+    "last_report": "$0.00",
+    "cumulative_totals": "$2,638.66"
+   },
+   "contrib_le50": {
+    "current_report": "$10.17",
+    "last_report": "$0.00",
+    "cumulative_totals": "$10.17"
+   },
+   "total_expenditures": {
+    "current_report": "-$2,648.83",
+    "last_report": "$0.00",
+    "cumulative_totals": "-$2,648.83"
+   },
+   "campaign_balance": {
+    "current_report": "$0.00",
+    "last_report": "$0.00",
+    "cumulative_totals": "$0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed cover; no signature date visible in the cover crop. Total expenditures printed as a NEGATIVE figure, the same sign convention as the filer's Pre-Election report (doc 1097) — retained verbatim. Note the filer restated the cumulative rather than carrying doc 1097's figures into Last Report. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

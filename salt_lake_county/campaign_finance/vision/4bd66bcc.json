@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "200.00",
+ "total_expenditures": "154.00",
+ "beginning_balance": "0",
+ "ending_balance": "46.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "200.00"
+ },
+ "cover": {
+  "candidate": "DOUGLAS C. BORBA",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "#3",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dborba_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Douglas C. Borba",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dborba_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Column B is blank on both lines 1 and 2 (empty strings, not zeros). Line 3 Column A is a dash-zero-dash. Neither amendment box is checked. This copy is a FAX: the header band reads 'APR-11-2006 04:57 AM  BORBA&ASSOC.  801 281 3755'; the signature is dated 4/5/06 but the clerk stamped it RECEIVED APR 11 2006. Form arithmetic checks out (200.00 - 154.00 = 46.00)."
+ }
+}

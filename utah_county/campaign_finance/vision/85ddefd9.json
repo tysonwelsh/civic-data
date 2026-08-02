@@ -1,0 +1,58 @@
+{
+ "path": "raw/2022/2022_McCabeTeri.pdf",
+ "key": "85ddefd9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:22:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Teri McCabe",
+   "party_printed": "",
+   "office_printed": "Provo School Board District 5",
+   "scope_flag": "school_board",
+   "residence_city": "Provo",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "28 DEC 2022",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "low",
+    "expend_cumulative": "low",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "low",
+    "balance_close": "low"
+   },
+   "unreadable": [
+    "contrib_this_period",
+    "contrib_cumulative",
+    "expend_this_period",
+    "expend_cumulative",
+    "balance_beginning",
+    "subtotal_before_expend",
+    "balance_close"
+   ],
+   "notes": "SCHOOL BOARD FILER - the Office field is handwritten 'Provo School Board District 5' (two lines), so scope_flag is school_board; out of scope for the county package. index.csv carries a BLANK office for this filing; the page face resolves it, and it resolves it to a non-county office. THE PDF CONTAINS NO SUMMARY PAGE: it is 2 pages, p1 cover and p2 Schedule B with every row blank, so every normalized total is \"\" - not zero. On p2 the filer drew one long stroke down the Amount column ending in a looped scrawl across the 'Subtotal for this page $' and 'Total Expenditures Made $' lines; that scrawl is not legibly a figure (it may be a nil-strike or a hand-drawn zero) and is therefore NOT transcribed as a value. Address is printed in the clear (560 W 500 S, Provo, UT 84601). Handwriting is clear elsewhere. Signature present, not redacted; signature date and Date of Filing both read 28 DEC 2022."
+  }
+ ],
+ "notes": "OCR locator correctly reported 'no SUMMARY page located' - there genuinely is none in this 2-page filing."
+}

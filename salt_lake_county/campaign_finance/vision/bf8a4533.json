@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-13",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snelgrove_R_12_Final_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Snelgrove_R_12_Final_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "IMPORTANT: this 2-page PDF contains the cover page and a DIFFERENT table \u2014 'Summary Page - Other Campaign Accounts' (the form's page 5), which totals only money moved from other, non-County campaign accounts. The regular county Summary Page is NOT in this document, so all totals.* are null rather than being filled from the wrong table. For a human: the Other-Campaign-Accounts page shows Line 1 A '0.00' / B '10,306.40', Line 2 A '0.00' / B '0.00', Line 3 '341.47', Line 5 '341.47', Line 7 '341.47' (Date of Report 1-31-13). Note the clerk listing calls this the '2012 Summary Report'; the form itself checks only YEAR-END (January 31), not Final/Dissolution. The regular Summary Page for the same 1-31-13 report is present in the later amendment, key 6ae9bfc9. Received stamp FEB 01 2013."
+ }
+}

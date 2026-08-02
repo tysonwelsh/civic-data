@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,675.00",
+ "total_expenditures": "$1,958.98",
+ "beginning_balance": "$1,457.09",
+ "ending_balance": "$5,173.11",
+ "aggregate": {
+  "total_contributions_to_date": "$7,713.23",
+  "total_expenditures_to_date": "$2,539.12",
+  "line5_subtotal": "$7,132.09"
+ },
+ "cover": {
+  "candidate": "DIANE TURNER",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "3",
+  "report_type": "June 20",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_turner_diane06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_turner_diane06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Cover and Summary Page are machine-TYPED (crisp); only the verification name/signature/date are handwritten. The printed verification name is 'Diane K. Wiley-Turner' while the cover name box reads 'DIANE TURNER'. Summary header: page 2 of 4, TURNER, 6/20/2006. Received stamp JUN 20 2006."
+ }
+}

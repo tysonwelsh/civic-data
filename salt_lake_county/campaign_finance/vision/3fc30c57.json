@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "3,833.52",
+ "beginning_balance": "4,575.05",
+ "ending_balance": "$741.53",
+ "aggregate": {
+  "total_contributions_to_date": "14,521.87",
+  "total_expenditures_to_date": "13,780.34",
+  "line5_subtotal": "4,575.05"
+ },
+ "cover": {
+  "candidate": "BILLIE LARSON",
+  "party": "DEMOCRAT",
+  "office_sought": "TREASURER",
+  "district_number": "COUNTY",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/blarson_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Billie Gay Larson",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/blarson_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy - banner '01/31/2007 15:24  8015963134  DUNN FOR CONGRESS  PAGE 01/02'. The page-1 signature Date box is BLANK; report_date therefore taken from the Summary Page header 'Date of Report' = 1/31/07 per instructions. The January 31 checkbox mark is faint but present. Lines 1 and 4 Column A are slashed-zero glyphs -> '0'. Line 7 carries a handwritten '$' glued to the digits ('$741.53') - kept verbatim; the other cells have no '$'. RECEIVED stamp JAN 31 2007."
+ }
+}

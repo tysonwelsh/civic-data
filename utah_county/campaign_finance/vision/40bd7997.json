@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Graves.pdf",
+ "key": "40bd7997",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:00:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gregory J. Graves",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner Seat A",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10-27-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2725.75",
+    "contrib_cumulative": "4656.61",
+    "expend_this_period": "2725.75",
+    "expend_cumulative": "4656.61",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2725.75",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2725.75",
+    "line1_total_contributions_colB": "4656.61",
+    "line2_total_expenditures_colA": "2725.75",
+    "line2_total_expenditures_colB": "4656.61",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "2725.75",
+    "line5_subtotal_lines3plus4": "2725.75",
+    "line6_total_expenditures_from_line2A": "2725.75",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten print, clear. The form is the combined '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' sheet (side rail 'COUNTY & LOCAL SCHOOL BOARD CANDIDATES') - that is the FORM title only; the Office Seeking field states 'County Commissioner Seat A', a county office, so NO school-board scope flag applies. Amounts carry no dollar signs and no thousands commas; transcribed as written. The digit readings on line 1 were confirmed by enlarging the cells (2725.75 / 4656.61) - this filer's 7 has no crossbar and can look like a 1 at page scale. Lines 3 and 7 are the filer's struck-through zero glyph, transcribed '0' at medium confidence. Office Seeking 'County Commissioner Seat A' AGREES with office_index 'County Commission Seat A'. candidate_index was blank; cover and verification block both name Gregory J. Graves. Clerk Date received stamp 'OCT 27 PM 4:23'. Page box reads 'Page 1 of 3'."
+  }
+ ],
+ "notes": ""
+}

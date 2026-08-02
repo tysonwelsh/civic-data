@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "d9dfa9ee",
+ "source_filing": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+ "document_id": "2022_combined_7e3a53_78d55edd#p37",
+ "page_start": 37,
+ "page_end": 39,
+ "summary_page": 37,
+ "election_cycle": "2022",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Gage Froerer",
+ "office_stated": "WC Commission Seat A",
+ "report_type_stated": "October 25 - Nov 1",
+ "filing_date_stated": "2022-11-01",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "8,895.18",
+   "this": "5,000.00",
+   "cum": "13,895.18"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "9,624.58",
+   "cum": "9,624.58"
+  },
+  "ending_balance": {
+   "last": "8,895.18",
+   "this": "(4,624.58)",
+   "cum": "4,270.60"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2022 3-line form. The Oct 25 - Nov 1 box is marked 'X X'. The line-3 'last report' expenditure cell is blank while the line-1/line-4 last-report cells carry 8,895.18 - the filer restarted the expenditure count at this report; retained as printed."
+}

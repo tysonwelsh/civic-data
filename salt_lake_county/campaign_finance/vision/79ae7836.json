@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,004.47",
+ "total_expenditures": "1,254.47",
+ "beginning_balance": "0",
+ "ending_balance": "2,750.00",
+ "aggregate": {
+  "total_contributions_to_date": "4,004.47",
+  "total_expenditures_to_date": "1,254.47",
+  "line5_subtotal": "4,004.47"
+ },
+ "cover": {
+  "candidate": "Paul Pugmire",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "2",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/7/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_ppugmire_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Paul Pugmire",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_ppugmire_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Every money cell uses the RAISED-SUPERSCRIPT CENTS convention (e.g. 4,004 with a small raised '47'; 2,750 with a small raised '00'), transcribed with a decimal point per the contract. Line 3 is a plain drawn zero ('O'), recorded '0'. Both Column B cells ARE filled and equal Column A, consistent with a first report. Page box reads 'Page 1 of 3'. Neither amendment box is checked. Every line reconciles."
+ }
+}

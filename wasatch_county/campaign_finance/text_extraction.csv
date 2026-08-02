@@ -1,0 +1,112 @@
+path,text_path,pages,native_alnum,out_chars,format,extraction_method
+raw/2010/2010_Holly-Yergensen-6-14-10.pdf,text/2010/2010_Holly-Yergensen-6-14-10.txt,3,0,1705,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2010/2010_James-Koson-6-15-10.pdf,text/2010/2010_James-Koson-6-15-10.txt,3,0,2080,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2010/2010_Karl-Mcdonald-6-10-10.pdf,text/2010/2010_Karl-Mcdonald-6-10-10.txt,3,0,2030,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2010/2010_Scott-Sweat-6-15-10.pdf,text/2010/2010_Scott-Sweat-6-15-10.txt,3,0,2111,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2018/2018_Financial-Campaign-Report--Scott-Sweat.pdf,text/2018/2018_Financial-Campaign-Report--Scott-Sweat.txt,3,1870,4570,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report--Tyler-J.-Berg.pdf,text/2018/2018_Financial-Campaign-Report--Tyler-J.-Berg.txt,3,749,3158,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report--Tyler-Richard-Dow.pdf,text/2018/2018_Financial-Campaign-Report--Tyler-Richard-Dow.txt,3,1024,6756,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report-Alan-Wane-McDonald.pdf,text/2018/2018_Financial-Campaign-Report-Alan-Wane-McDonald.txt,3,863,2808,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report-Brent-R.-Titcomb.pdf,text/2018/2018_Financial-Campaign-Report-Brent-R.-Titcomb.txt,3,644,1874,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report-Danny-Goode.pdf,text/2018/2018_Financial-Campaign-Report-Danny-Goode.txt,3,709,2634,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report-Jeff-Wade.pdf,text/2018/2018_Financial-Campaign-Report-Jeff-Wade.txt,3,723,3752,text,pdftotext -layout
+raw/2018/2018_Financial-Campaign-Report-Kit-R.-Kosakowski.pdf,text/2018/2018_Financial-Campaign-Report-Kit-R.-Kosakowski.txt,3,1145,7774,text,pdftotext -layout
+raw/2020/2020_DecAArmer.pdf,text/2020/2020_DecAArmer.txt,3,0,2192,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_DecDBurgener.pdf,text/2020/2020_DecDBurgener.txt,3,893,2773,text,pdftotext -layout
+raw/2020/2020_DecJGranger.pdf,text/2020/2020_DecJGranger.txt,7,9903,14709,text,pdftotext -layout
+raw/2020/2020_DecJKaiserman.pdf,text/2020/2020_DecJKaiserman.txt,3,960,3423,text,pdftotext -layout
+raw/2020/2020_DecJLee.pdf,text/2020/2020_DecJLee.txt,3,1926,3893,text,pdftotext -layout
+raw/2020/2020_DecKCrittenden.pdf,text/2020/2020_DecKCrittenden.txt,3,918,2585,text,pdftotext -layout
+raw/2020/2020_DecMMurray.pdf,text/2020/2020_DecMMurray.txt,3,917,2660,text,pdftotext -layout
+raw/2020/2020_DecMNelson.pdf,text/2020/2020_DecMNelson.txt,1,0,1052,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_DecSFarrell.pdf,text/2020/2020_DecSFarrell.txt,3,0,2910,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_DecSPark.pdf,text/2020/2020_DecSPark.txt,1,0,1036,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_DecTGriffin.pdf,text/2020/2020_DecTGriffin.txt,2,864,2520,text,pdftotext -layout
+raw/2020/2020_JuneAArmer.pdf,text/2020/2020_JuneAArmer.txt,4,0,3495,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_JuneDBurgener.pdf,text/2020/2020_JuneDBurgener.txt,3,914,2653,text,pdftotext -layout
+raw/2020/2020_JuneEHokanson.pdf,text/2020/2020_JuneEHokanson.txt,3,1156,4462,text,pdftotext -layout
+raw/2020/2020_JuneJGranger.pdf,text/2020/2020_JuneJGranger.txt,7,9896,14397,text,pdftotext -layout
+raw/2020/2020_JuneJJenkins.pdf,text/2020/2020_JuneJJenkins.txt,3,929,2254,text,pdftotext -layout
+raw/2020/2020_JuneJKaiserman.pdf,text/2020/2020_JuneJKaiserman.txt,3,912,2329,text,pdftotext -layout
+raw/2020/2020_JuneJLee.pdf,text/2020/2020_JuneJLee.txt,7,10868,16371,text,pdftotext -layout
+raw/2020/2020_JuneKCrittenden.pdf,text/2020/2020_JuneKCrittenden.txt,4,929,3140,text,pdftotext -layout
+raw/2020/2020_JuneMMurray.pdf,text/2020/2020_JuneMMurray.txt,3,956,2905,text,pdftotext -layout
+raw/2020/2020_JuneMNelson.pdf,text/2020/2020_JuneMNelson.txt,2,861,2610,text,pdftotext -layout
+raw/2020/2020_JuneSFarrell.pdf,text/2020/2020_JuneSFarrell.txt,3,0,1966,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_JuneSPark.pdf,text/2020/2020_JuneSPark.txt,1,0,1067,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_JuneTGriffin.pdf,text/2020/2020_JuneTGriffin.txt,2,846,2199,text,pdftotext -layout
+raw/2020/2020_JuneXThomas 2020.pdf,text/2020/2020_JuneXThomas 2020.txt,3,0,1396,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_OctAArmer.pdf,text/2020/2020_OctAArmer.txt,5,0,10793,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_OctDBurgener.pdf,text/2020/2020_OctDBurgener.txt,1,735,1992,text,pdftotext -layout
+raw/2020/2020_OctJGranger.pdf,text/2020/2020_OctJGranger.txt,3,382,935,text,pdftotext -layout
+raw/2020/2020_OctJJenkins.pdf,text/2020/2020_OctJJenkins.txt,3,1055,3212,text,pdftotext -layout
+raw/2020/2020_OctJKaiserman.pdf,text/2020/2020_OctJKaiserman.txt,3,1039,4650,text,pdftotext -layout
+raw/2020/2020_OctJLee.pdf,text/2020/2020_OctJLee.txt,3,3425,7181,text,pdftotext -layout
+raw/2020/2020_OctKCrittenden.pdf,text/2020/2020_OctKCrittenden.txt,3,918,2910,text,pdftotext -layout
+raw/2020/2020_OctMMurray.pdf,text/2020/2020_OctMMurray.txt,3,947,2641,text,pdftotext -layout
+raw/2020/2020_OctMNelson.pdf,text/2020/2020_OctMNelson.txt,1,0,1048,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_OctSFarrell.pdf,text/2020/2020_OctSFarrell.txt,3,0,3271,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2020/2020_OctSPark.pdf,text/2020/2020_OctSPark.txt,1,793,2999,text,pdftotext -layout
+raw/2020/2020_OctTGriffin.pdf,text/2020/2020_OctTGriffin.txt,1,769,2701,text,pdftotext -layout
+raw/2022/202206_ERowlandPrimaryFinancialDisclosure.pdf,text/2022/202206_ERowlandPrimaryFinancialDisclosure.txt,2,191,1352,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202206_JGrangerPrimaryFinancialCampaignReport.pdf,text/2022/202206_JGrangerPrimaryFinancialCampaignReport.txt,3,0,1683,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202206_JRigbyFinancialDisclosure.pdf,text/2022/202206_JRigbyFinancialDisclosure.txt,3,0,2252,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202206_K.-Facer-Financial-Disclosure.pdf,text/2022/202206_K.-Facer-Financial-Disclosure.txt,3,0,1981,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202206_K.-Mcmillan-Financial-Campaign-disclosure.pdf,text/2022/202206_K.-Mcmillan-Financial-Campaign-disclosure.txt,1,0,792,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202206_L.-Searle-Financial-Disclosure.pdf,text/2022/202206_L.-Searle-Financial-Disclosure.txt,4,8127,17486,text,pdftotext -layout
+raw/2022/202206_SSweatFinancialDisclosure.pdf,text/2022/202206_SSweatFinancialDisclosure.txt,3,1065,3698,text,pdftotext -layout
+raw/2022/202211_E.-Rowland-Financial-Disclosure.pdf,text/2022/202211_E.-Rowland-Financial-Disclosure.txt,2,181,1339,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202211_J.-Granger-Financial-Disclosure-General_001.pdf,text/2022/202211_J.-Granger-Financial-Disclosure-General_001.txt,3,1029,4110,text,pdftotext -layout
+raw/2022/202211_Jared-Rigbys-Financial-Campaign-Report-11.1.22.pdf,text/2022/202211_Jared-Rigbys-Financial-Campaign-Report-11.1.22.txt,3,0,1548,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2022/202211_K.-McMillan-Financial-Disclosure-General_001.pdf,text/2022/202211_K.-McMillan-Financial-Disclosure-General_001.txt,3,1042,3169,text,pdftotext -layout
+raw/2022/202211_L.-Searle-Financial-Disclosure-General.pdf,text/2022/202211_L.-Searle-Financial-Disclosure-General.txt,4,7564,15802,text,pdftotext -layout
+raw/2022/202211_S.-Sweat-Financial-Disclosure-General_001.pdf,text/2022/202211_S.-Sweat-Financial-Disclosure-General_001.txt,3,971,4880,text,pdftotext -layout
+raw/2024/202403_state_Adams.pdf,text/2024/202403_state_Adams.txt,2,0,2853,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2024/202406_AmberGibbs.pdf,text/2024/202406_AmberGibbs.txt,2,1896,4222,text,pdftotext -layout
+raw/2024/202406_BobAdams.pdf,text/2024/202406_BobAdams.txt,3,0,3633,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2024/202406_ColleenBonner.pdf,text/2024/202406_ColleenBonner.txt,2,2229,5166,text,pdftotext -layout
+raw/2024/202406_JamesCKaiserman.pdf,text/2024/202406_JamesCKaiserman.txt,2,1935,4673,text,pdftotext -layout
+raw/2024/202406_JamiSmithHewlett.pdf,text/2024/202406_JamiSmithHewlett.txt,2,0,2603,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2024/202406_KendallCrittenden.pdf,text/2024/202406_KendallCrittenden.txt,2,2027,4442,text,pdftotext -layout
+raw/2024/202406_MarcyMurray.pdf,text/2024/202406_MarcyMurray.txt,2,1882,4590,text,pdftotext -layout
+raw/2024/202406_MarkNelson.pdf,text/2024/202406_MarkNelson.txt,2,2006,4539,text,pdftotext -layout
+raw/2024/202406_NickLopez.pdf,text/2024/202406_NickLopez.txt,2,2441,6126,text,pdftotext -layout
+raw/2024/202406_SherrieBercuson.pdf,text/2024/202406_SherrieBercuson.txt,2,1904,4180,text,pdftotext -layout
+raw/2024/202406_SpencerPark.pdf,text/2024/202406_SpencerPark.txt,2,2088,3729,text,pdftotext -layout
+raw/2024/202406_ToddGriffin.pdf,text/2024/202406_ToddGriffin.txt,2,0,3040,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2024/202406_ToriBroughton.pdf,text/2024/202406_ToriBroughton.txt,2,0,24507,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2024/202411_727_b-adams-10-29-24.pdf,text/2024/202411_727_b-adams-10-29-24.txt,2,1940,4718,text,pdftotext -layout
+raw/2024/202411_728_s-bercusson-general-001.pdf,text/2024/202411_728_s-bercusson-general-001.txt,2,1809,4717,text,pdftotext -layout
+raw/2024/202411_729_j-hewlett-general.pdf,text/2024/202411_729_j-hewlett-general.txt,2,1919,6994,text,pdftotext -layout
+raw/2024/202411_731_m-murray-general.pdf,text/2024/202411_731_m-murray-general.txt,2,1902,6432,text,pdftotext -layout
+raw/2024/202411_732_s-park-general.pdf,text/2024/202411_732_s-park-general.txt,5,4053,7394,text,pdftotext -layout
+raw/2024/202411_735_j-kaiserman-general-001.pdf,text/2024/202411_735_j-kaiserman-general-001.txt,2,2050,4189,text,pdftotext -layout
+raw/2024/202411_746_colleen-bonner-campaign-001.pdf,text/2024/202411_746_colleen-bonner-campaign-001.txt,2,2004,4547,text,pdftotext -layout
+raw/2026/202603_E-Mainord.pdf,text/2026/202603_E-Mainord.txt,4,1999,5170,text,pdftotext -layout
+raw/2026/202603_E-Rowland.pdf,text/2026/202603_E-Rowland.txt,2,0,2091,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_J-Granger.pdf,text/2026/202603_J-Granger.txt,2,2064,5464,text,pdftotext -layout
+raw/2026/202603_J-Hales.pdf,text/2026/202603_J-Hales.txt,5,4629,14447,text,pdftotext -layout
+raw/2026/202603_J-Rigby.pdf,text/2026/202603_J-Rigby.txt,2,0,2639,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_J-Tugaw.pdf,text/2026/202603_J-Tugaw.txt,2,0,2492,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_J-Woodard.pdf,text/2026/202603_J-Woodard.txt,3,2365,4654,text,pdftotext -layout
+raw/2026/202603_K-McMillan.pdf,text/2026/202603_K-McMillan.txt,2,1961,4122,text,pdftotext -layout
+raw/2026/202603_L-Forsyth.pdf,text/2026/202603_L-Forsyth.txt,2,0,2839,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_M-Kellogg.pdf,text/2026/202603_M-Kellogg.txt,2,2309,4699,text,pdftotext -layout
+raw/2026/202603_M-Murphy.pdf,text/2026/202603_M-Murphy.txt,2,2087,3915,text,pdftotext -layout
+raw/2026/202603_P-Saucier.pdf,text/2026/202603_P-Saucier.txt,2,0,2579,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_R-Kahler.pdf,text/2026/202603_R-Kahler.txt,3,2055,3671,text,pdftotext -layout
+raw/2026/202603_S-Farrell.pdf,text/2026/202603_S-Farrell.txt,3,0,2839,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202603_W-Vance.pdf,text/2026/202603_W-Vance.txt,2,0,2879,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_E-Rowland.pdf,text/2026/202606_E-Rowland.txt,2,0,2546,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_J-Granger.pdf,text/2026/202606_J-Granger.txt,2,1950,5205,text,pdftotext -layout
+raw/2026/202606_J-Hales.pdf,text/2026/202606_J-Hales.txt,8,5351,16623,text,pdftotext -layout
+raw/2026/202606_J-Rigby.pdf,text/2026/202606_J-Rigby.txt,3,2631,10330,text,pdftotext -layout
+raw/2026/202606_J-Tugaw.pdf,text/2026/202606_J-Tugaw.txt,1,0,2024,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_J-Woodard.pdf,text/2026/202606_J-Woodard.txt,2,0,2408,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_L-Forsyth.pdf,text/2026/202606_L-Forsyth.txt,2,0,3093,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_M-Kellogg.pdf,text/2026/202606_M-Kellogg.txt,2,0,2627,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_M-Murphy.pdf,text/2026/202606_M-Murphy.txt,3,2029,3661,text,pdftotext -layout
+raw/2026/202606_P-Saucier.pdf,text/2026/202606_P-Saucier.txt,2,1895,4289,text,pdftotext -layout
+raw/2026/202606_R-Kahler.pdf,text/2026/202606_R-Kahler.txt,3,2916,5782,text,pdftotext -layout
+raw/2026/202606_S-Farrell-elimination.pdf,text/2026/202606_S-Farrell-elimination.txt,2,0,2560,scanned,"tesseract OCR (pdftoppm 300dpi, psm 6)"
+raw/2026/202606_W-Vance.pdf,text/2026/202606_W-Vance.txt,2,2311,4117,text,pdftotext -layout

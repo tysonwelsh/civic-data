@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "index_path": "raw/2024/202406_BobAdams.pdf",
+    "cache_key": "4dadfd81",
+    "entity": "wasatch_county",
+    "election_year": "2024",
+    "reporting_period_index": "June 2024 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Bob Adams",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6-18-24",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": []
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "14,082.28",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "14,048.34",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "33.94",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "No period box marked. index.csv labels this row form_family=utah_county_fcr_formab; the page is the new Table A/B sheet."
+}

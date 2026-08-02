@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "4305",
+  "path": "raw/2016/4305_Doug-Clyde-General-Final.pdf",
+  "page": 1,
+  "sha256": "f3d8430f5c8f26ba377c282aa4751b4cb65583636a2f344e7a4597e2711c5953",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/4305/Doug-Clyde-General-Final",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Douglas Clyde",
+  "office_verbatim": "Summit County Council Seat B",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "12/26/2016",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$4,735.19",
+    "last_report": "$5,085.00",
+    "cumulative_totals": "$9,820.19"
+   },
+   "contrib_le50": {
+    "current_report": "$0.00",
+    "last_report": "$85.00",
+    "cumulative_totals": "$85.00"
+   },
+   "total_expenditures": {
+    "current_report": "$473.00",
+    "last_report": "$9,432.19",
+    "cumulative_totals": "$9,905.19"
+   },
+   "campaign_balance": {
+    "current_report": "",
+    "last_report": "",
+    "cumulative_totals": "$0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed cover; the campaign-balance Current and Last cells are EMPTY, only Cumulative printed. Carries the clerk's printed instruction box ('Enter the information from your last report in the last report column'). Column-order cross-check: Last Report reproduces doc 4019's CUMULATIVE figures."
+}

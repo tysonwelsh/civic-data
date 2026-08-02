@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_wp/Ryan-Sullivan.pdf",
+ "channel": "live_wp",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_wp/Ryan-Sullivan.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_wp/Ryan-Sullivan.pdf",
+   "doc_kind": "statement",
+   "sha256": "c54a0b027e76b2d319052d1744de7a970f636a108800351779e5d114d5cc8672",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Ryan Sullivan",
+  "office": "Clerk/Auditor",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Clerk/Auditor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "RYAN SULLIVAN",
+ "index_reporting_year": "2025",
+ "index_cycle_year": "",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "1/7/2026",
+   "period_start": "1/1/2025",
+   "period_end": "12/31/2025",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "-",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "-",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "-",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "-",
+   "expenses_last": "",
+   "expenses_this_printed": "-",
+   "expenses_this": "",
+   "expenses_cum_printed": "-",
+   "expenses_cum": "",
+   "balance_last_printed": "-",
+   "balance_last": "",
+   "balance_this_printed": "-",
+   "balance_this": "",
+   "balance_end_printed": "-",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "the ANNUAL officeholder report for calendar 2025, filed Jan 2026. Every money cell prints an accounting dash - the filer reported no activity. 3-LINE typed variant."
+  }
+ ],
+ "unreadable": [],
+ "notes": "pages 4-5 of this PDF are NOT a report: they are the county's internal inspection e-mail thread (Genna Goodwin / County Attorney Jerry Jaeger, Jan 8 2026) attaching the statement under county code 1-7-10, plus the text of that code section.",
+ "generated_utc": "2026-08-02T03:36:16Z"
+}

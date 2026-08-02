@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Jimmy Cadman",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Small Budget Campaign Certificate",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jcadman_smallbudgetapr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jimmy L. Cadman",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jcadman_smallbudgetapr52006.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT a Financial Disclosure Report - this is the single-page 'Small Budget Campaign Certificate' under Salt Lake County Ordinance 2.72A.204.5, certifying the committee does not expect to exceed $2,000 in aggregate contributions or expenditures. It has NO Summary Page and no dollar figures at all, so every totals field is null. Name of Committee / Name of County Office Candidate / Name of Committee Secretary are all signed 'Jimmy Cadman'; signed and clerk-stamped April 5, 2006. The form has no Political Party or Office Sought fields."
+ }
+}

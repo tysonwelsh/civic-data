@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "67b151a02dc26f7a543315a691eb026d284b4c83c63a19937980bdd362b46e94",
+ "canonical_path": "raw/2014/2014_cc_Gleed_Dec_2014_campaign_finance_report.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Gleed_Dec_2014_campaign_finance_report.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Michael L. Gleed",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Recorder",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Smithfield",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger CACHE",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "5 Nov 2014",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 05 NOV 2014 PM 03:55",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "2318.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2318.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "164.40",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "164.40",
+     "c": "medium"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "2482.40",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2482.40",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Recorder",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Recorder'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Faint scan. Line 2 reads '164.40' on both boxes (the digit group is soft). Line 4 carries a small hand-drawn zero glyph. LAST-REPORT column written 'N/A' throughout."
+}

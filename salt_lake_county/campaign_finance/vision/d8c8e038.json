@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$7,250.00",
+ "total_expenditures": "$639.21",
+ "beginning_balance": "5,931.27",
+ "ending_balance": "$12,542.06",
+ "aggregate": {
+  "total_contributions_to_date": "$13,250.00",
+  "total_expenditures_to_date": "$1,101.80",
+  "line5_subtotal": "13,181.27"
+ },
+ "cover": {
+  "candidate": "Jensen, Michael",
+  "party": "REPUBLICAN",
+  "office_sought": "Council #2",
+  "district_number": null,
+  "report_type": "Interim Report April 5, 2012",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "4/5/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jensen_M_12_April_Interim_CntyCncl2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jensen_M_12_April_Interim_CntyCncl2_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 1",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk 'summary_printer.cfm' online printout again - Summary and Schedule A both sit on page 1, Schedule B on page 2; no District Number field and no amendment question exist on this form (null). Column B on Lines 1 and 2 is HANDWRITTEN over the printed table ($13,250.00 and $1,101.80), as are Lines 3, 5 and 7. Column A arithmetic is internally consistent (5,931.27 + 7,250.00 = 13,181.27; 13,181.27 - 639.21 = 12,542.06) and Line 7 chains exactly to the June filing's beginning balance. Report date taken from the printout footer; received-stamped APR 5 2012."
+ }
+}

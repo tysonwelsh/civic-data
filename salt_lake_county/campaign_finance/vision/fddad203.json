@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$0.00",
+ "beginning_balance": "$1,264.01",
+ "ending_balance": "$1,264.01",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$1,264.01"
+ },
+ "cover": {
+  "candidate": "Tyler Andrus",
+  "party": "Democrat",
+  "office_sought": "_Assessor",
+  "district_number": "Countywide",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/30/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Andrus-Tyler__1AAD3BCA.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Andrus, Tyler",
+  "office": "Assessor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Andrus-Tyler__1AAD3BCA.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed/electronic form. The form TITLE reads \"2020 Financial Disclosure Report\" although this is the 2022-cycle year-end filing signed 01/30/23 (stale form template). Office Sought is printed with a leading underscore: \"_Assessor\"."
+ }
+}

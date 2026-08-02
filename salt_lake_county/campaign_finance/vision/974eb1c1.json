@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2007.05",
+ "total_expenditures": "2007.05",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "2007.05",
+  "total_expenditures_to_date": "2007.05",
+  "line5_subtotal": "2007.05"
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "12-24-12",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Hatch_Jeff_12_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Hatch_Jeff_12_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-5 rendered at -r 150)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BUNDLE: 5-page PDF = page 1 'Dissolution of a Candidate Campaign Committee' notice (committee 'Jeff Hatch for County Council District 4', established 3-9-12, signed 12-24-12), page 2 the Financial Disclosure Report cover, page 3 the Summary Page, pages 4-5 the itemized schedules. Cover and Summary transcribed from pages 2-3. This is the SAME filed report as key 798c1620 (Hatch_Jeff_12_Council4_Final_Redacted.pdf) with the dissolution notice stapled in front - the figures are identical. Same handwriting caution as that filing: the joined double-zero in Line 1 Col B and Line 2 could be misread as an extra digit; Lines 4/5/6 read 2007.05 cleanly. On page 2 the address block is NOT redacted in this copy."
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-HendersonJLane-102610.pdf",
+ "key": "54467fcc",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:12:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "J. Lane Henderson",
+   "party_printed": "Democrat",
+   "office_printed": "County Commissioner",
+   "residence_city": "Salem",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10-22-10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "21,574.00",
+    "contrib_cumulative": "23,469.07",
+    "expend_this_period": "22,599.85",
+    "expend_cumulative": "23,316.52",
+    "balance_beginning": "1,178.33",
+    "subtotal_before_expend": "23,469.07",
+    "balance_close": "869.22"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "21,574.00",
+    "line1_total_contributions_colB": "23,469.07",
+    "line2_total_expenditures_colA": "22,599.85",
+    "line2_total_expenditures_colB": "23,316.52",
+    "line3_balance_beginning": "1,178.33",
+    "line4_total_contributions_from_line1A": "21,574.00",
+    "line5_subtotal_lines3plus4": "23,469.07",
+    "line6_total_expenditures_from_line2A": "22,599.85",
+    "line7_balance_at_close": "869.22"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten fax (header 'OCT-26-10 10:08AM'). The 'Is this report an amendment?' Yes and No boxes are BOTH left unchecked by the filer - is_amendment is '' (blank on the form, not 'No'). FILER ARITHMETIC NOTE, recorded not corrected: line 5 Subtotal is written 23,469.07, which is line 1 Column B (the year-to-date figure), not line 3 + line 4 (1,178.33 + 21,574.00 = 22,752.33); the value is transcribed exactly as printed. Cents on lines 2 col A/col B are superscripted ('22,599 85', '23,316 52') - read as 22,599.85 / 23,316.52 at medium confidence. The Office Seeking line reads 'County Commissioner' with NO seat letter; index.csv says 'County Commission Seat A' - the page does not corroborate the seat. Balance at Beginning 1,178.33 matches the line 7 close of this filer's 6-14-10 report (key b2b16869)."
+  }
+ ],
+ "notes": ""
+}

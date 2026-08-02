@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "08aacf68",
+ "source_filing": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+ "document_id": "2020_combined_7e3a53_f03540b9#p25",
+ "page_start": 25,
+ "page_end": 28,
+ "summary_page": 25,
+ "election_cycle": "2020",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Leann H. Kilts",
+ "office_stated": "Weber County Recorder/SURVEYOR",
+ "report_type_stated": "January 5, 2021 (final report)",
+ "filing_date_stated": "2020-12-18",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "2,637.03",
+   "this": "0",
+   "cum": "2,637.03"
+  },
+  "expenditures": {
+   "last": "136.36",
+   "this": "1,655.00",
+   "cum": "1,791.36"
+  },
+  "ending_balance": {
+   "last": "2,500.67",
+   "this": "1,655.00",
+   "cum": "845.67"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN 2020 3-line form. Line-4 'this report' is written 1,655.00 positive though the balance DECREASES by that amount (2,500.67 -> 845.67); the filer's sign convention, retained."
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "300",
+ "beginning_balance": "1045.79",
+ "ending_balance": "745.79",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1045.79"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "DEMOCRAT",
+  "office_sought": "DA",
+  "district_number": "County",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/25/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_sgill_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_sgill_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to read the raised cents)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant (April 5 / seven-days-before-primary / September 15 / seven-days-before-general interim options, plus a separate top-row 'Office' box which is blank). The Office Sought entry is a scrawled two-letter abbreviation read as 'DA' (District Attorney) at LOW confidence, and the District Number box holds the word 'County' - recorded verbatim as printed. Lines 1 and 4 Column A are a hand-drawn slashed zero (an oval with a line through it) = 0. Line 2 Column A is '300' with slashed zeros and no cents; Line 6 restates it as '300' with a raised '00'. Cents on Lines 3/5/7 are raised underlined superscripts (1045 with a raised 79). Column B is blank throughout. Arithmetic is consistent (1045.79 - 300.00 = 745.79). Clerk listing calls this the '2007 Summary Report'; the form checks the YEAR-END box and is dated 1/25/08."
+ }
+}

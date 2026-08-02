@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "12,000.00",
+ "total_expenditures": "586.90",
+ "beginning_balance": "0",
+ "ending_balance": "11,413.10",
+ "aggregate": {
+  "total_contributions_to_date": "12,000.00",
+  "total_expenditures_to_date": "586.90",
+  "line5_subtotal": "12,000.00"
+ },
+ "cover": {
+  "candidate": "Lee Gardner",
+  "party": "Republican",
+  "office_sought": "SLCo Assessor",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-3-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lgardner_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lee Gardner",
+  "office": "Assessor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lgardner_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 3 is a hand-drawn slashed zero, recorded as 0. Neither amendment box is checked. The Summary Page header box (page/last name/date) was left blank by the filer. Lines 5-6=7 reconciles exactly (12,000.00 - 586.90 = 11,413.10)."
+ }
+}

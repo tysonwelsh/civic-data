@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Lawrence Rey Topham",
+  "party": "Personal Choice",
+  "office_sought": "Clerk",
+  "district_number": "",
+  "report_type": "January 31 of each year + Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "JAN 31, 2007",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ltopham_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lawrence Rey Topham",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/ltopham_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. Political Party written 'Personal Choice'. NEITHER amendment box is checked. The candidate has hand-written his own name across the top of the page and struck out the printed 'SHERRIE SWENSEN'. The Summary Page header box is entirely BLANK and the ink is very faint (re-read on a 300dpi crop): Line 1 Column A holds only a faint partial stroke that cannot be read as a digit - reported NULL rather than assumed to be a zero; the other filled cells are slashed zeros; lines 4, 5 and 6 Column A are BLANK (line5_subtotal '')."
+ }
+}

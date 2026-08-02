@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gray_Jeff_11.1.22.pdf",
+ "key": "fb431edc",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:00:00Z",
+ "pages_read": [1, 3],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeff Gray",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "Nov 1, 2022",
+   "summary_page": 3,
+   "totals": {
+    "contrib_this_period": "2931.22",
+    "contrib_cumulative": "54500.27",
+    "expend_this_period": "5237.61",
+    "expend_cumulative": "54450.34",
+    "balance_beginning": "2456.32",
+    "subtotal_before_expend": "5387.54",
+    "balance_close": "149.93"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "2456.32",
+    "boxB_contributions_received_this_period": "2931.22",
+    "boxC_contributions_received_year_to_date": "54500.27",
+    "boxD_expenditures_made_this_period": "5237.61",
+    "boxE_expenditures_made_year_to_date": "54450.34",
+    "boxF_subtotal_before_expenditures": "5387.54",
+    "balance_at_close": "149.93"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "NEITHER amendment radio (No / Yes) is filled, so is_amendment is '' rather than assumed 'No'. The 'Seven days preceding the General Election' radio is the ONLY marked option, though its fill renders as a partial crescent rather than a clean solid dot in this scan. No thousands separators anywhere on the summary page. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''. Typed fillable form, footer 'v. 4.20'; both 'Page' boxes left blank."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,250.00",
+ "total_expenditures": "0",
+ "beginning_balance": "$15,128.34",
+ "ending_balance": "$17,378.34",
+ "aggregate": {
+  "total_contributions_to_date": "$28,903.50",
+  "total_expenditures_to_date": "$11,525.16",
+  "line5_subtotal": "$17,378.34"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-26-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/SDeBry_11_YearEnd_CntyCncl5_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/SDeBry_11_YearEnd_CntyCncl5_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form; scan is a poor-contrast photocopy but all Summary figures are legible. Neither the amendment 'Yes' nor 'No' box is checked, so is_amendment left blank. Lines 2 and 6 Column A are a hand-drawn zero. Figures are identical to the 2-3-2012 amendment (key 5b940ad8) \u2014 this is the original 1-26-12 filing. Received stamp JAN 26 2012."
+ }
+}

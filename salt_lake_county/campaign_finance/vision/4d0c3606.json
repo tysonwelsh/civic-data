@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0",
+ "total_expenditures": "$8,297.91",
+ "beginning_balance": "$8,297.91",
+ "ending_balance": "$0",
+ "aggregate": {
+  "total_contributions_to_date": "$93,512.55",
+  "total_expenditures_to_date": "$93,512.55",
+  "line5_subtotal": "$8,297.91"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "D",
+  "office_sought": "Sl Cnty Council",
+  "district_number": "#3",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/24/11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_10__FinalDissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/dturner_10__FinalDissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typewritten form, fully legible. Neither the amendment Yes nor No box is checked. Cover top-row Office reads 'SLCo Council #3'. Clerk listing calls this a 2010 dissolution; the form is signed 2/24/11 and stamped received FEB 25 2011."
+ }
+}

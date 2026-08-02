@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$9,451.82",
+ "total_expenditures": "$4,383.66",
+ "beginning_balance": "$1961.32",
+ "ending_balance": "$7,029.48",
+ "aggregate": {
+  "total_contributions_to_date": "$16,904.32",
+  "total_expenditures_to_date": "$9,874.82",
+  "line5_subtotal": "$11,413.14"
+ },
+ "cover": {
+  "candidate": "Jeremy Votaw",
+  "party": "REP",
+  "office_sought": "County Clerk",
+  "district_number": "NA",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvotaw_10_Sept_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeremy Votaw",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jvotaw_10_Sept_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; Summary Page cells re-rendered at -r 450",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cents are written as raised superscripts over a rule throughout (9,451 has a real decimal point but 16,904 superscript 32, 4,383 superscript 66, 9,874 superscript 82, 1961 superscript 32, 11,413 superscript 14, 7,029 superscript 48); re-rendered at 450 dpi and transcribed with a decimal point. Neither amendment box is checked. Signed 9-15-10, clerk-stamped SEP 15 2010. Column A arithmetic checks out (1,961.32 + 9,451.82 = 11,413.14; 11,413.14 - 4,383.66 = 7,029.48). Minor Column B oddity: 16,904.32 - 9,874.82 = 7,029.50, two cents off the stated closing balance of 7,029.48 - kept verbatim, not reconciled."
+ }
+}

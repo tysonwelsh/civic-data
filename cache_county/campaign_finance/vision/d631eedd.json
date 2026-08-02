@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "747734cf98d736481719f33e4492cf6d896ebac78b54989f2ff912d34b6eb95d",
+ "canonical_path": "raw/2018/2018_st_Jensen_D_Chad.pdf",
+ "applies_to": [
+  "raw/2018/2018_st_Jensen_D_Chad.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "DANIEL CHAD JENSEN",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "SHERIFF",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "PARADISE",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL N. ZOLLINGER",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/30/18",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 30 '18 PM 4:40:11",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "933.19",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "933.19",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "933.19",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "933.19",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Sheriff",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'SHERIFF'; 'Political Party' reads 'REPUBLICAN'",
+  "confidence": "high"
+ },
+ "notes": "Zeros on lines 1-2 are hand-drawn slashed-O glyphs; line 3 LAST-REPORT reads 'N/A'."
+}

@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Liz Fehrmann",
+  "party": "D",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/LFehrmann_11_Final_Assessor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liz Fehrmann",
+  "office": "Assessor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/LFehrmann_11_Final_Assessor_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The PDF is ONE PAGE: the 'Financial Disclosure Report For a Candidate' cover only. The Summary Page that belongs with it was never scanned/filed with this document, so summary_page_found is false and all totals are null - an honest gap, not a reading failure. Cover has both the top-row 'Office' (Assessor) and 'Office Sought' (Assessor), which agree. Party is written just as the letter 'D'. Only the FINAL / DISSOLUTION box is checked - the clerk listing labels this the '2011 Summary Report', which the form contradicts (the Year-End 'January 31 of each year' box is NOT checked). Neither amendment box is checked. Signed 1-31-12, clerk-stamped JAN 31 2012."
+ }
+}

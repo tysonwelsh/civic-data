@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,200",
+ "total_expenditures": "2,565.55",
+ "beginning_balance": "6,348.15",
+ "ending_balance": "4,982.60",
+ "aggregate": {
+  "total_contributions_to_date": "12,870",
+  "total_expenditures_to_date": null,
+  "line5_subtotal": "7,548.15"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "June 20",
+  "is_amendment": "Yes",
+  "amendment_of": "10/8/06",
+  "report_date": "10-2-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "low",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jeffallen_june20amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jeffallen_june20amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "BADLY BLEACHED SCAN - the Summary Page ink is broken up and was re-read on a 300dpi crop. The Summary Page header box (page number, last name, date of report) is entirely BLANK. Line 2 Column B reads '7,8?7.40' - the middle digits could not be read with confidence, so total_expenditures_to_date is null rather than a guess. Line 3 (6,348.15) matches Line 3 of the June 20 report this amends (key f8e1c223), and Column A is internally consistent (6,348.15 + 1,200 = 7,548.15; minus 2,565.55 = 4,982.60). Note the amendment date box says '10/8/06' while the signature is dated 10-2-06 and the clerk stamp is OCT 09 2006 - both retained as printed."
+ }
+}

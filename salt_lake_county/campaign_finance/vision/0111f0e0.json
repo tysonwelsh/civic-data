@@ -1,0 +1,57 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$400.00",
+ "total_expenditures": "$890.20",
+ "beginning_balance": "$8,337.51",
+ "ending_balance": "$29,628.47",
+ "aggregate": {
+  "total_contributions_to_date": "$400.00",
+  "total_expenditures_to_date": "$890.20",
+  "line5_subtotal": "$31,387.51"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Gill_S_DS_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Gill_S_DS_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 is blank; Summary Page is PDF page 3. Page 3 re-rendered at -r 250 cropped to verify every figure)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "WORTH HUMAN ATTENTION \u2014 STALE LINES 1 AND 2. Verified at 250 dpi: Lines 1 and 2 print $400.00 and $890.20 in BOTH columns, byte-identical to the PRIOR year's year-end filing (key 4dffe4f6, 1/30/13), while Line 4 ('from Line 1 Column A') prints $23,050.00 and Line 6 ('from Line 2 Column A') prints $1,759.04. Lines 3-7 are internally consistent with each other ($8,337.51 + $23,050.00 = $31,387.51; less $1,759.04 = $29,628.47) and line 7 carries forward correctly to the April 2014 report. So the filer appears to have reused the 2012 form and updated only the balance block: lines 1/2 do NOT describe this reporting period. Everything recorded verbatim; nothing inferred or repaired. PDF page 2 is blank; the Summary Page is PDF page 3. This 2012-vintage form has no top-row 'Office' box and labels Column B 'Year to Date'."
+ }
+}

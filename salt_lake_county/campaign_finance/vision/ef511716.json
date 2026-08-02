@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "65,294.94",
+ "total_expenditures": "74,445.01",
+ "beginning_balance": "30,099.14",
+ "ending_balance": "20,949.04",
+ "aggregate": {
+  "total_contributions_to_date": "181,907.77",
+  "total_expenditures_to_date": "160,958.73",
+  "line5_subtotal": "95,394.08"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat.",
+  "office_sought": "Dist Atty",
+  "district_number": "Countywide",
+  "report_type": "Interim Report: October 31 (for the period ending October 30, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/simgill_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/simgill_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 300 and -r 600 to read the superscript cents",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cents are written as raised superscripts over a rule; transcribed with a decimal point after re-rendering at 600 dpi. INCONSISTENCY KEPT VERBATIM: Line 2 Column A's superscript is unambiguously '01' (74,445.01) while Line 6, which copies Line 2 Column A, reads '04' (74,445.04); the balance summary is consistent only with .04 (95,394.08 - 74,445.04 = 20,949.04 = Line 7). Line 3 (30,099.14) matches the September 15 report's Line 7, and Line 2 Column B (160,958.73) is the same figure the 1/31/07 year-end mistakenly copied into its own Line 2 Column A."
+ }
+}

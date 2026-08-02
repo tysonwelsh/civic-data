@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "fc3fedb0c9ac7932370e4dc6c9620a6f23fc152239e7e6741f58166e8a5efb23",
+ "canonical_path": "raw/2024/2024_cc_2024_Jon_David_Jorgensen.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_Jon_David_Jorgensen.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Jon-David Jorgensen", "c": "high"},
+  "office_verbatim":   {"v": "County Council - North", "c": "high"},
+  "office_district":   {"v": "North", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Smithfield", "c": "high"},
+  "addressee":         {"v": "Cache County CLERK/AUDITOR (preprinted 'Where to File': Email elections@cachecounty.gov; Mail: 179 North Main St. Suite 102, Logan, Utah 84321)", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the General Election", "c": "high"},
+  "date_signed":       {"v": "6/18/2024", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RC'VD 2024 JUN 18 PM4:43", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$0", "c": "high"},
+   "B_contrib_this_period":    {"v": "$10,161.53", "c": "high"},
+   "C_contrib_ytd":            {"v": "$10,161.53", "c": "high"},
+   "D_expend_this_period":     {"v": "$8,830.17", "c": "high"},
+   "E_expend_ytd":             {"v": "$8,830.17", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$10,161.53", "c": "high"},
+   "closing_balance":          {"v": "$2,087.20 (minus in-kind)", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "Subtotal: $10,161.53", "c": "high"},
+   "total_expenditures_made":      {"v": "SubTotal: $8,830.17", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "North",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Council - North'",
+  "confidence": "high"
+ },
+ "notes": "HYBRID INSTRUMENT: the cover (page 1) and the Summary Page (page 4) are the Cache County Clerk/Auditor 'Candidate Financial Disclosure' form (form_read=cache_cfd), but the two schedule pages are a DIFFERENT, older instrument -- page 2 is headed 'ITEMIZED CONTRIBUTION REPORT (Form \"A\")' and page 3 'ITEMIZED EXPENDITURE REPORT (Form \"B\")', each footed '(If additional space is needed, use blank paper and list information like the above format and file with this report)' and machine-paginated 'Page 2' / 'Page 3'. Those pages print NO 'Total Contributions Received' / 'Total Expenditures Made' line; what they carry is a HANDWRITTEN foot line labelled 'Subtotal:' -- '$10,161.53' on Form A and '$8,830.17' on Form B. Those handwritten subtotals are what is recorded in schedule_totals, with their 'Subtotal' label preserved verbatim so the distinction from a true schedule TOTAL is not lost; nothing was summed or reconciled here. LEDGER RESOLUTION: the ledger records scope_status=undetermined; the page evidence resolves it -- the Office box is filled in and reads 'County Council - North', so scope=county, office_std='County Council', seat='North'. NAME SPELLING vs LEDGER: the page spells the candidate 'Jon-David Jorgensen' (hyphenated given name; surname ends -sen), in both the Name of Candidate box and the Affirmation line; the ledger records 'Jon David Jorgensen' (no hyphen) and the filename uses 'Jon_David_Jorgensen'. Same person, spelling differs only in the hyphen. Box D reads '$8,830.17' with the '3' retraced over what may have been another digit; the same figure is written cleanly in Box E and on the Form B subtotal, so confidence stays high. The 'Balance at Close' box carries the filer's own qualifier '(minus in-kind)' written after the figure -- retained verbatim, not stripped. The amendment question is UNMARKED (neither 'No' nor 'Yes' circled). Neither 'Logged' nor 'Transmitted' is marked. Two Form A rows ('Round Rock Properties', 1/26/2024 and 5/1/2024) are written in blue ink over an otherwise typed sheet; several Form A amounts print without cents ('$5', '$300', '$1,000') -- observations only, no itemization is transcribed in this tranche. Form prints no statutory citation line."
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,404.47",
+ "total_expenditures": "$154.47",
+ "beginning_balance": "N/A",
+ "ending_balance": "$2,250.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$2,404.47"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council \"A\" at large",
+  "district_number": "",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-3-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_sdebry_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_sdebry_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. Line 3 (Balance at Beginning of Reporting Period) is written 'N/A' - a first report - and is recorded verbatim as the string N/A, not as 0. Column B is blank on both Lines 1 and 2. ARITHMETIC: Line 7 is written 2,250.00 while Line 5 minus Line 6 would be 2,250.00 only if the cents cancelled - they do (2,404.47 - 154.47 = 2,250.00), so the form is consistent. Cents are raised underlined superscripts."
+ }
+}

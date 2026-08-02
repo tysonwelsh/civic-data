@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Lilli E. DeCair",
+  "party": "Personal Choice",
+  "office_sought": "Co Council",
+  "district_number": "1",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-19-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_decair_lilli06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lilli Decair",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_decair_lilli06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "A 2006-vintage form: the title prints '2006 Financial Disclosure Report' and the interim options are April 5 / June 20 / September 15 / October 31 with 2006 period-end dates - the June 20 box is checked. Party is the write-in 'Personal Choice'. FAX copy, heavily degraded: dense black bleed down both margins, and the PDF's pages are in REVERSE fax order (PDF page 1 is fax P.02, the cover; PDF page 2 is fax P.01, the Summary Page, header 'Page 3 of 3', Date of Report 6-20-06). Handwritten notes to the clerk ('Cathy call back # 533-2444') are scrawled across the cover header. EVERY summary cell - both columns of Lines 1 and 2 and all of Lines 3-7 - is a hand-drawn slashed zero: a candidate committee with no financial activity at all."
+ }
+}

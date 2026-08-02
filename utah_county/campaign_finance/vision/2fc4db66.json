@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Balderree_Heidi_5.9.2022_Redacted.pdf",
+ "key": "2fc4db66",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:50:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Heidi Balderree",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "Yes",
+   "report_date": "5-9-22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "1,650",
+    "contrib_cumulative": "5,359.09",
+    "expend_this_period": "755.37",
+    "expend_cumulative": "3,478.84",
+    "balance_beginning": "985.62",
+    "subtotal_before_expend": "2,635.62",
+    "balance_close": "1,880.25"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "985.62",
+    "boxB_contributions_received_this_period": "1,650",
+    "boxC_contributions_received_year_to_date": "5,359.09",
+    "boxD_expenditures_made_this_period": "755.37",
+    "boxE_expenditures_made_year_to_date": "3,478.84",
+    "boxF_subtotal_before_expenditures": "2,635.62",
+    "boxG_balance_at_close": "1,880.25"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten form, legible. AMENDMENT: the 'Yes, Date of Original Report' box is checked with the handwritten date 4-15-22. OFFICE NOT STATED: the Office cell on the cover is empty (the county's black redaction bar sits on the Address row above it, not on the Office cell), so office_printed is '' and index.csv's blank office is NOT resolved. Street address, city and signature are redacted upstream by the county; the Date box (5-9-22) and the summary page's 'Date of Report' (5-9-22) survive; the 'Date of Filing' box was left blank. Box B is written '$1,650' with NO cents - preserved verbatim, not padded to 1,650.00. This revision labels the close box 'G' and adds an 'End-of-Year Report' checkbox; it prints no 'v.' version string, so form_version is ''. LOCATOR DISAGREEMENT: the locator reported 'no COVER page located - p1 rendered as a fallback', but p1 IS a full cover page. Page 5 is the county's internal Campaign Financial Disclosure Checklist (staff-reviewed 5/18/2022), not a second summary - one report only. Cross-filing corroboration (offered as context, not as a source): Box A here (985.62) matches the close balance on this filer's 4-2-22 report, key ef961762."
+  }
+ ],
+ "notes": ""
+}

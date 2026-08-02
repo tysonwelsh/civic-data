@@ -1,0 +1,49 @@
+{
+ "path": "raw/2018/2018_Leavitt.pdf",
+ "key": "8517efa8",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:50:00Z",
+ "pages_read": [1, 2, 3, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "David Leavitt",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "",
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "unreadable": [],
+   "notes": "THIS FILING HAS NO SUMMARY PAGE. I rendered and read all four pages to confirm (the chunk only pre-rendered p1 and p4): p1 = the legacy cover; p2 = the county's blank Schedule A form with one handwritten line 'See Attached Schedule A' and every total line left blank; p3 = a CANDIDATE-MADE Schedule A spreadsheet (4 contributions, footer 'Total Contributions Received 6/17/2018 through Oct 30 2018  $ 4,000.00'); p4 = a CANDIDATE-MADE Schedule B spreadsheet (footer 'TOTAL EXPENDITURES THROUGH 6/17 thru Oct 30 2018  $ 44,944.26'). The Balance Summary lines 1-7 do not exist anywhere in this document, so every totals slot is '' - the schedule footers are period totals on candidate-made sheets, NOT the form's line 1 / line 2, and are deliberately NOT placed in the totals slots. The cover's signature DATE LINE IS BLANK (the filer signed but did not date); the clerk's received stamps read 'OCT 30 PM 3:5x' and a red 'Oct 30, 4:5x'. Donor mailing addresses on p3 are redacted upstream (solid green bars) except one. Office field 'Utah County Attorney' agrees with office_index."
+  }
+ ],
+ "notes": "No Summary Page exists in this PDF; verified by reading all 4 pages. Schedules A and B are candidate-made spreadsheets."
+}

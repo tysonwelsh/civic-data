@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,081.55",
+ "total_expenditures": "3,171.83",
+ "beginning_balance": "0",
+ "ending_balance": "909.72",
+ "aggregate": {
+  "total_contributions_to_date": "4,081.55",
+  "total_expenditures_to_date": "3,171.83",
+  "line5_subtotal": "4,081.55"
+ },
+ "cover": {
+  "candidate": "Brent Cardall",
+  "party": "Republican",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "4/13/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/bcardall_apr52006amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Cardall",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/bcardall_apr52006amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm decimal separators)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The April 5 box is checked and the word 'Amended' is hand-written next to it; the amendment 'Yes' box is checked with the date-of-report line left blank. The clerk hand-wrote 'Amended' across the header stamp. Line 3 Column A is a slashed Zero. This amendment restates the 2006 April filing (key ebf35e15) \u2014 contributions 2,081.56 -> 4,081.55, expenditures 3,171.84 -> 3,171.83, beginning balance 2,000 -> 0 \u2014 while the ending balance stays 909.72; that is the form's own inconsistency (4,081.55 - 3,171.83 = 909.72, so the restated figures are internally consistent, but they contradict the original filing). Decimal separators confirmed as points at 250 dpi."
+ }
+}

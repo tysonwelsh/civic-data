@@ -1,0 +1,50 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "496.18",
+ "ending_balance": "497.36",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "497.36"
+ },
+ "cover": {
+  "candidate": "Michael Renckert",
+  "party": "Republican",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "01/30/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/mrenkert_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/mrenkert_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Same pattern as this filer's following year: Lines 1 and 2 are LEFT BLANK in both columns (recorded \"\", not 0) while Line 4 carries 1.18 and Line 6 a hand-drawn slashed zero. Cents are raised superscripts over a rule. Neither amendment box is checked. Signed 01/30/10, clerk-stamped FEB 01 2010. 496.18 + 1.18 = 497.36 reconciles. Note the manifest/file name spells the surname 'mrenkert' but the form is signed and printed RENCKERT."
+ }
+}

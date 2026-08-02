@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_PostPrimary-McConnell.pdf",
+ "key": "d841594d",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:50:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Cary R. McConnell",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Treasurer",
+   "residence_city": "Sp Fork",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "7/25/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "3,180.30",
+    "contrib_cumulative": "13,180.30",
+    "expend_this_period": "3,333.09",
+    "expend_cumulative": "13,180.30",
+    "balance_beginning": "152.79",
+    "subtotal_before_expend": "3333.09",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "3,180.30",
+    "line1_total_contributions_colB": "13,180.30",
+    "line2_total_expenditures_colA": "3,333.09",
+    "line2_total_expenditures_colB": "13,180.30",
+    "line3_balance_beginning": "152.79",
+    "line4_total_contributions_from_line1A": "3180.30",
+    "line5_subtotal_lines3plus4": "3333.09",
+    "line6_total_expenditures_from_line2A": "3333.09",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, legible. The city field is abbreviated by the filer as 'Sp Fork' (Spanish Fork). Line 7 is a slashed-zero glyph, transcribed as 0 at medium confidence. The filer writes some figures with a thousands comma (line 1 Column A) and some without (line 4 '3180.30'); both are reproduced as written. The Column B year-to-date figures for contributions and expenditures are BOTH 13,180.30 - that is what the page says, not a transcription slip. The portal's reporting_period label for this filing is 'Post Primary - McConnell', but the box the filer actually checked is '30 Days after withdraw or elimination'."
+  }
+ ],
+ "notes": ""
+}

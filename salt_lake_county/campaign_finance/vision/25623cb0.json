@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "845.23",
+ "total_expenditures": "845.23",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "845.23",
+  "total_expenditures_to_date": "845.23",
+  "line5_subtotal": "845.23"
+ },
+ "cover": {
+  "candidate": "LEONARD OLDS",
+  "party": "CONSTITUTION",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "27 Oct 2008",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "party": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_lolds_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leonard Olds",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_lolds_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older template (04pccfindisc.doc); the clerk listing says 'October' and the form checks 'Seven days before a general election'. The top-row 'Office' box holds 'Salt Lake County Mayor' STRUCK THROUGH with a pen line; the separate 'Office Sought' box reads 'COUNTY MAYOR' and is used here. Party is written cramped and runs off the cell edge, read as CONSTITUTION (medium confidence). The filer's '5' has an unusual crossed top stroke; a 260-dpi re-render confirms every money cell as 845.23, but the two Column B cells are the least clean, so they are medium confidence. Lines 3 and 7 are written as a zero flanked by dashes ('\u20140\u2014'), recorded as '0'. Page box reads 'Page 1 of 3'. Neither amendment box is checked."
+ }
+}

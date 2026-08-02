@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$800.00",
+ "total_expenditures": "$1,445.49",
+ "beginning_balance": "$1,080.85",
+ "ending_balance": "$435.36",
+ "aggregate": {
+  "total_contributions_to_date": "$800.00",
+  "total_expenditures_to_date": "$1,445.49",
+  "line5_subtotal": "$1,880.85"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council, District 2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/28/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/mjensen_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/mjensen_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN form (not handwritten) - clean read throughout. Later form variant with two office fields: top-row 'Office' = 'Council, District 2' and 'Office Sought' = 'County Council, District 2'; the separate District Number box is blank because the district is typed into the office text. Neither amendment box is checked. Signed 1/28/10, clerk-stamped JAN 29 2010 - the year-end report covering calendar 2009. Lines 3+4=5 and 5-6=7 reconcile exactly."
+ }
+}

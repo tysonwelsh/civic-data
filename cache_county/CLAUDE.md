@@ -94,6 +94,15 @@ plans/        6 governing plans (searchable text) + index.csv. Current General P
               Imagine Cache) is StoryMap-ONLY (link, no text sidecar); 1998 Comprehensive
               Plan is the prior full-text plan; MIH Plan 2019/2023, CRMP 2017, Envision
               Cache Valley, South Corridor Plan.
+campaign_finance/  COUNTY-OFFICE candidate C&E disclosures 2008→2026 (added 2026-08-01;
+              vision pass 2026-08-01/02) — 495 filing PDFs + text/ sidecars + a 171-file
+              vision/ transcription layer. index.csv 239 county-office rows (234
+              county_confirmed, 5 undetermined) + excluded.csv 256 (237 school board — the
+              owner's out-of-scope ruling) + unrecovered.csv 2. filing_totals.csv carries
+              each filing's OWN STATED TOTALS (210 contributions / 212 expenditures
+              figures); contributions.csv/expenditures.csv are HEADER-ONLY — **no itemized
+              donor or vendor rows exist**. Document-tier in gov.db (no cf_* rows).
+              Read `campaign_finance/CLAUDE.md` before quoting any figure.
 projections/  Gardner Institute county population/household/jobs (140 rows, vintages 2025+2022).
 gis/          CATALOG ONLY (link, never mirror) — 24 UGRC + county ArcGIS layers + derived/
               (base-zoning counts: 8 districts, mostly A10 + FR40).
@@ -141,6 +150,13 @@ db/           build_db.py → cache_county.db (STANDARD 8-table schema; reuses t
   only**; logan's 2019/2021 city-certified PDFs remain the sole primary source
   (millcreek-2016 pattern). **2024 primary + general canvass reports are image-only scans
   — retained, unparsed (OCR/vision follow-up queued).**
+- **Who funded a county candidate** → `campaign_finance/`: 239 county-office filings
+  2008–2026 with each filing's own **stated totals** (`filing_totals.csv`, verbatim detail
+  in `filing_stated_detail.csv`). **There are NO itemized donor rows** — "who gave to X"
+  needs the raw PDF. Never sum without grouping on `sha256` (42 cross-channel duplicates),
+  and never read the summed stated figures as a per-candidate cycle total (`is_incremental`
+  varies per filing). Join to votes via `db/cache_county.db` `person`; the County Executive
+  files CF but has no `vote` rows (correct, not a gap).
 - **Growth vision / housing obligations** → `plans/`: grep `text/` (the current 2023 GP is
   StoryMap-only — open its `source_url`; the 1998 plan is the grep-able prior full text).
 - **Population / household / jobs forecasts** → `projections/` (filter to ONE `vintage`).

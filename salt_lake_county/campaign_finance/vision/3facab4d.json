@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4285.00",
+ "total_expenditures": "2547.00",
+ "beginning_balance": "2323.62",
+ "ending_balance": "4061.62",
+ "aggregate": {
+  "total_contributions_to_date": "6891.46",
+  "total_expenditures_to_date": "2829.84",
+  "line5_subtotal": "6608.62"
+ },
+ "cover": {
+  "candidate": "Benjamin Kendrick",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "1",
+  "report_type": "September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "6 Oct 2006",
+  "report_date": "6 Oct 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/benkendrick_amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Benjamin Kendrick",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/benkendrick_amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Amendment to the September 15 interim report; the amendment date box carries '6 Oct 2006', the same as the signature date. Summary header date of report reads '15 Sep 2006' (the period being amended), while the page-1 signature date is 6 Oct 2006 - report_date taken from the signature line per instructions. Summary header: page 2 of 4, KENDRICK. Received stamp OCT 06 2006."
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Bowen_Jeanne_11.1.22.pdf",
+ "key": "32b0aceb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:26:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeanne Bowen",
+   "party_printed": "",
+   "office_printed": "Utah County Commission seat A",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "31 October 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form; every summary box carries a TYPED '0' (a written zero in each of the seven boxes, not a blank cell) - a genuine all-zero report. The Phone Number cell was left blank by the filer. Dates are written out in words: the Date box, Date of Filing and the summary page's Date of Report all read '31 October 2022' - preserved verbatim rather than normalized. This revision labels the close box 'G' and prints no 'v.' version string, so form_version is ''. Office 'Utah County Commission seat A' agrees with index.csv's 'County Commission Seat A'."
+  }
+ ],
+ "notes": ""
+}

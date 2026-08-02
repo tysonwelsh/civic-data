@@ -1,0 +1,119 @@
+{
+ "filing_key": "wayback_clerkpdf2008||GREGORY ALDRED",
+ "channel": "wayback_clerkpdf2008",
+ "sheet_type": "ledger_only",
+ "is_incremental": false,
+ "regime_note": "Itemised ledger restating the whole cycle to date (the 2008 `Detailed … Report` and the 2011 `All … for` sheets both run from the first transaction of the cycle), so a cycle total is the LATEST filing, never a sum of filings. No totals are printed.",
+ "primary_path": "raw/wayback_clerkpdf2008/Gregory Aldred Contribution.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_clerkpdf2008/Gregory Aldred Contribution.pdf",
+   "doc_kind": "statement",
+   "sha256": "7d919706da826e6684fea2837d4ac7e3ae492f6239b95ef9f5dd2e2c5c2180d9",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_clerkpdf2008/Gregory Aldred Expenditures.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "d7b4125a1f92154916b8f0f46f835c56a2ee5d8a17f27463ec6da79aa7a5a795",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout(ledger header)",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Gregory Aldred",
+  "office": "County Commission (C)",
+  "district": "",
+  "election_year": "2008"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat C",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Gregory Aldred Contribution",
+ "index_reporting_year": "",
+ "index_cycle_year": "",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "",
+   "date_due": "",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "no summary sheet published with this filing",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "",
+    "contrib_le50": "",
+    "expenses": "",
+    "balance": ""
+   },
+   "blank_fields": [
+    "contrib_gt50_last",
+    "contrib_gt50_this",
+    "contrib_gt50_cum",
+    "contrib_le50_last",
+    "contrib_le50_this",
+    "contrib_le50_cum",
+    "expenses_last",
+    "expenses_this",
+    "expenses_cum",
+    "balance_last",
+    "balance_this",
+    "balance_end"
+   ],
+   "notes": "LEDGER-ONLY filing: the county published the itemised contribution/expenditure sheets without the County Candidate Summary, so the filing states NO totals. Left blank, never inferred."
+  }
+ ],
+ "ledger_counted": {
+  "method": "counted rows of the 2008 `Detailed … Report:` single-money-column table (DERIVED, not a stated total); withheld unless the matched rows consume every money token in the body",
+  "contrib_path": "raw/wayback_clerkpdf2008/Gregory Aldred Contribution.pdf",
+  "n_contrib_rows": 6,
+  "contrib_money_tokens": 6,
+  "contrib_complete": true,
+  "contrib_sum": "2847.51",
+  "expend_path": "raw/wayback_clerkpdf2008/Gregory Aldred Expenditures.pdf",
+  "n_expend_rows": 9,
+  "expend_money_tokens": 9,
+  "expend_complete": true,
+  "expend_sum": "2822.51"
+ },
+ "unreadable": [],
+ "notes": "no summary sheet in this filing; stated totals are honestly BLANK",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

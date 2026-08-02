@@ -1,0 +1,105 @@
+{
+ "filing_key": "wayback_2010elections||SLADE HUGHES",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/County Candidate Summary - Slade Hughes.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/County Candidate Summary - Slade Hughes.pdf",
+   "doc_kind": "summary",
+   "sha256": "383f91c5da9307279c2bc09f5a724383aa7b513cbe2fa7c04212c7e507373053",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Contributions - Slade Hughes.pdf",
+   "doc_kind": "contributions",
+   "sha256": "119be31de92e1bf396826c178254e2bfe5f4e486946257600703fc25fa6e469f",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Expenditures - Slade Hughes.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "33bfa9356482d6aef2938fc167073a114e64744cf30dd58e8a1b81946d1316f6",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Slade Rudy Hughes",
+  "office": "Commission Seat B",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat B",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Slade Rudy Hughes",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/6/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$225.00",
+   "balance": "-$225.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "4/6/2010",
+   "date_due": "4/9/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$225.00",
+   "expenses_this": "225",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$225.00",
+   "balance_end": "-225",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

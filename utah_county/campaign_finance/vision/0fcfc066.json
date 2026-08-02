@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gordon_Brandon.pdf",
+ "key": "0fcfc066",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:20:00Z",
+ "pages_read": [1, 3],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Brandon Gordon",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat B",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "Dec 7, 2022",
+   "summary_page": 3,
+   "totals": {
+    "contrib_this_period": "50",
+    "contrib_cumulative": "53,446.62",
+    "expend_this_period": "1.05",
+    "expend_cumulative": "53,330.38",
+    "balance_beginning": "97.29",
+    "subtotal_before_expend": "147.29",
+    "balance_close": "146.24"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "97.29",
+    "boxB_contributions_received_this_period": "50",
+    "boxC_contributions_received_year_to_date": "53,446.62",
+    "boxD_expenditures_made_this_period": "1.05",
+    "boxE_expenditures_made_year_to_date": "53,330.38",
+    "boxF_subtotal_before_expenditures": "147.29",
+    "balance_at_close": "146.24"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form; the signature is a pasted image, not a scan artifact. report_date is taken from the cover's signature 'Date' box ('Dec 7, 2022', printed in that long form) because BOTH the cover's 'Date of Filing' box and the summary page's 'Date of Report' box are LEFT BLANK by the filer - blank cells, not zeros. Not redacted: address prints '718 E 1050 S, Spanish Fork, UT 84660'; only residence_city recorded. Box B prints '50' with no decimals (verbatim). This sheet letters the close box 'G'; key kept as 'balance_at_close' to match the reference cache shape."
+  }
+ ],
+ "notes": "index.csv variant_guess was legacy_colAB; the filing is the modern Box A-F form (Josh Daniels letterhead, no version string in the footer)."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "7,793.86",
+ "ending_balance": "7,793.86",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "7,793.86"
+ },
+ "cover": {
+  "candidate": "JEFF S ALLEN",
+  "party": "REPUB.",
+  "office_sought": "COUNCIL DIST #5",
+  "district_number": "5",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jallen_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_jallen_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy (banner 'FEB/01/2008/FRI 01:02 PM JSA REALTY ADVISORS ... P.001/004'). 2008-era form variant, no year in the title. The top-row 'Office' box reads 'COUNCIL DIST #5' and the separate 'Office Sought' box is BLANK - the Office value is reported here as office_sought; District Number box = '5'. Zeros written as slashed \u00d8. Summary Page header: Page 1 of 3, ALLEN, 1-31-2008; Column B header 'Aggregate Total'. Line 3 (7,793.86) matches Line 7 of Allen's 1-30-07 report (key 2681376e)."
+ }
+}

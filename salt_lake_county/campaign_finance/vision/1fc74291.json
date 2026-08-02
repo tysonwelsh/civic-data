@@ -1,0 +1,49 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Nate Hendricks",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": null,
+  "form_year": "2006"
+ },
+ "confidence": {
+  "candidate": "high",
+  "party": "high",
+  "office_sought": "high",
+  "district_number": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/nhendricks_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/nhendricks_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 and -r 150; also pdfimages -j to recover the embedded JPEGs directly",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DAMAGED PDF - worth a human's attention. pdfinfo reports 4 pages but the file's xref is broken ('Kid object (page 2) is wrong type (null)') and pdfimages shows the file contains only TWO embedded images: the cover (fax P.02) and Schedule B (fax P.05, form 'Page 3 of 3'). The Summary Page is simply not present in the file. Worse, the cover image itself is truncated: the JPEG data breaks up immediately below the address block, so the Type-of-Report checkboxes, the amendment boxes and the signature/date are unreadable (recorded null, not blank). Readable cover data only: Nate Hendricks, Democrat, County Council, District 5, 6752 Sol Rise Dr, West Jordan UT 84084. The surviving Schedule B is dated 9/15/06 and totals 2,181.44, but per contract that is not transcribed as a Summary total."
+ }
+}

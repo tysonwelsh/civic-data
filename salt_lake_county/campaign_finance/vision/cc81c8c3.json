@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$29,436.27",
+ "total_expenditures": "$18,370.57",
+ "beginning_balance": "$23,305.85",
+ "ending_balance": "$34,371.55",
+ "aggregate": {
+  "total_contributions_to_date": "$31,946.27",
+  "total_expenditures_to_date": "$18,370.57",
+  "line5_subtotal": "$52,742.12"
+ },
+ "cover": {
+  "candidate": "Winder, James M",
+  "party": "DEMOCRATIC",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "2012 Summary Report (Year End) (Amended)",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "3/1/2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Winder_M_12Mayor_Amended_Final_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Winder_M_12Mayor_Amended_Final_Redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FILENAME MISLEADS: 'Winder_M_12Mayor_Amended_Final_Redacted.pdf' says Mayor, but the document is JAMES M WINDER, SHERIFF (Democratic) \u2014 the manifest's candidate/office labels are the correct ones, the filename is not. This is NOT the handwritten paper form: it is a printout from the clerk's online disclosure system ('summary_printer.cfm?ID=931', printed 3/1/2013, received MAR 01 2013), headed 'Winder, James M - 2012 Summary Report (Year End)', Org Type 'Personal Campaign Committee', Report '2012 Summary Report (Year End) (Amended)'. PDF page 1 is a typed cover letter from the filer listing in-kind corrections that the online tool could not accept ('Financial Disclosure End-of-Year 2012, Amendment 1'); the report proper starts on PDF page 2. The summary table has FOUR money columns \u2014 'Total this Period' / 'YTD' / and a separate pair for OTHER CAMPAIGN ACCOUNTS (both $0.00 on Lines 1 and 2). Column A was taken from 'Total this Period' and Column B from 'YTD'; the Other-Campaign-Accounts columns are deliberately not recorded. There is no checkbox block and no signature \u2014 is_amendment 'Yes' comes from the printed '(Amended)' on the report line, and the report date is the system print date."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "53100.00",
+ "total_expenditures": "20549.59",
+ "beginning_balance": "38186.50",
+ "ending_balance": "70736.91",
+ "aggregate": {
+  "total_contributions_to_date": "53100.00",
+  "total_expenditures_to_date": "20549.59",
+  "line5_subtotal": "91286.50"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Democrat",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/pcorroon_jan3107.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/pcorroon_jan3107.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Form title prints '2006 Financial Disclosure Report'; Summary Page header 'Date of Report 1-31-07', page 2 of 8; faxed 01/30/2007 from HEARTSONG ENTEPRISES and clerk-stamped RECEIVED JAN 31 2007. Year-End box checked; neither amendment box checked. Arithmetic is fully self-consistent in both columns. Note the Line 3 beginning balance (38186.50) matches the AMENDED 1-31-06 ending balance, not the original one (35686.50). The filer's decimal mark is a comma-like tick on some cells (Line 4 reads '53100,00'); recorded with periods where the mark reads as a period at 250 dpi."
+ }
+}

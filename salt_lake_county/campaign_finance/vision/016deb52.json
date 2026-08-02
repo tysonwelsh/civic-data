@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "25.00",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "25.00",
+ "aggregate": {
+  "total_contributions_to_date": "605.26",
+  "total_expenditures_to_date": "580.26",
+  "line5_subtotal": "25.00"
+ },
+ "cover": {
+  "candidate": "Richard D.M. Barnes",
+  "party": "Republican",
+  "office_sought": "SL Co. COUNCIL",
+  "district_number": "1",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/15/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Barnes-Richard-D-M__0F8342AB.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Barnes, Richard D M",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Barnes-Richard-D-M__0F8342AB.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Cents are written as a raised superscript over a rule (25 with a superscript 00) on Lines 1, 4, 5 and 7 Column A - transcribed as 25.00. Line 2 Column A is a drawn dash across the cell and Lines 3 and 6 Column A are slashed Os - both recorded as 0 per the zero convention. Date of Report on the Summary Page header is \"Sept 15, 2022\"."
+ }
+}

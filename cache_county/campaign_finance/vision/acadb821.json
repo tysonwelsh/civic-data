@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "362272bf004ab268022122a248c1596f79b2eabf5e0507c16a6ccc0ebac1cecb",
+ "canonical_path": "raw/2025/2025_cc_2025_Stephanie_Miller_Financial_Disclosure.pdf",
+ "applies_to": ["raw/2025/2025_cc_2025_Stephanie_Miller_Financial_Disclosure.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Stephanie Miller", "c": "high"},
+  "office_verbatim":   {"v": "County Executive", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Hyrum", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail:179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "3 Days Prior to Party Nominating Convention", "c": "high"},
+  "date_signed":       {"v": "09/04/2025", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "0", "c": "high"},
+   "B_contrib_this_period":    {"v": "0", "c": "high"},
+   "C_contrib_ytd":            {"v": "0", "c": "high"},
+   "D_expend_this_period":     {"v": "$74.45", "c": "high"},
+   "E_expend_ytd":             {"v": "$74.45", "c": "high"},
+   "F_subtotal_before_expend": {"v": "0", "c": "high"},
+   "closing_balance":          {"v": "$74.45", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "0", "c": "high"},
+   "total_expenditures_made":      {"v": "$74.45", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Executive",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, typed, 'County Executive'",
+  "confidence": "high"
+ },
+ "notes": "Typed/filled county CFD form (Cache County Elections Division), 4 pages: cover, Schedule A, Schedule B, Summary Page. No statutory citation is printed anywhere on the form. Amendment box marked 'No'. ARITHMETIC DISAGREEMENT recorded verbatim, not corrected: the Summary Page prints F (Subtotal Before Expenditures) = 0 and D = $74.45, but the 'Balance at Close of Reporting Period (Box F - Box D)' box prints $74.45 rather than a negative figure; the filer's own printed value is recorded as-is. Schedule A page 2 is entirely blank of line items and prints 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0' (the zeros are small handwritten/typed '0' glyphs, legible). Schedule B page 3 itemizes three expenditures (Wix.com $38.52, Godaddy.com $12.19, Sam's Club $23.74) and prints 'Total Expenditures Made $ $74.45'. Date inconsistency within the document: page 1 'Date of Report' and the signature date both read 09/04/2025, while pages 2-4 'Date of Report' read 09/03/2025 - both recorded as seen. Ledger candidate 'Stephanie Miller' matches the page."
+}

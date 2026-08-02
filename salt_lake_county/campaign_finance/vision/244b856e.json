@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9572.48",
+ "total_expenditures": "21,544.06",
+ "beginning_balance": "13,394.52",
+ "ending_balance": "1,422.94",
+ "aggregate": {
+  "total_contributions_to_date": "152,627.01",
+  "total_expenditures_to_date": "151,204.07",
+  "line5_subtotal": "22,967.00"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large A",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Feb 2, 2015",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Wilson_J_CouncilA-YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Wilson_J_CouncilA-YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2014 form; Year-End box checked, neither amendment box checked. The cover's signature Date line is BLANK \u2014 the report date is taken from the Summary Page's 'Date of Report' box, 'Feb 2, 2015' (received stamp FEB 02 2015). Line 1 Column A is written without a thousands comma ('9572.48') \u2014 kept verbatim."
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Ratcliffe.pdf",
+ "key": "7d1b8f22",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "GARY RATCLIFFE",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "SURVEYOR",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/28/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2038.13",
+    "contrib_cumulative": "2038.13",
+    "expend_this_period": "2038.13",
+    "expend_cumulative": "2038.13",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2038.13",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2038.13",
+    "line1_total_contributions_colB": "2038.13",
+    "line2_total_expenditures_colA": "2038.13",
+    "line2_total_expenditures_colB": "2038.13",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "2038.13",
+    "line5_subtotal_lines3plus4": "2038.13",
+    "line6_total_expenditures_from_line2A": "2038.13",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink, block capitals. The filer writes cents as a raised superscript over the dollars ('2038' with a superscript '13'), transcribed here as 2038.13. STRUCK-THROUGH FIGURES on line 1: both Column A and Column B originally read a dash-zero-dash ('-0-') which the filer struck out and replaced with 2038.13 written above; the surviving value 2038.13 is what is transcribed. Lines 3 and 7 are written as a dash-flanked zero ('-0-'), an actually-written zero, transcribed as 0 at medium confidence. Office Seeking reads 'SURVEYOR' (index office 'County Surveyor' - naming convention, not a conflict). Page footer 'Page 1 of 3' although this is the 2nd page of the scanned PDF."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Wabel_Jeff_4.4.2022_Redacted.pdf",
+ "key": "3014d7d7",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:10:00Z",
+ "pages_read": [1, 2, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeff P Wabel",
+   "party_printed": "",
+   "office_printed": "Sheriff",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "April 4, 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "2,712.44",
+    "contrib_cumulative": "2,712.44",
+    "expend_this_period": "2,712.44",
+    "expend_cumulative": "2,712.44",
+    "balance_beginning": ".00",
+    "subtotal_before_expend": "2,712.44",
+    "balance_close": ".00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": ".00",
+    "boxB_contributions_received_this_period": "$2,712.44",
+    "boxC_contributions_received_year_to_date": "$2,712.44",
+    "boxD_expenditures_made_this_period": "$2,712.44",
+    "boxE_expenditures_made_year_to_date": "$2,712.44",
+    "boxF_subtotal_before_expenditures": "$2,712.44",
+    "balance_at_close": ".00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, scanned. Box A and the Balance at Close line print EXACTLY '.00' - no leading digit, no '$' - and are transcribed that way rather than normalized to '0.00'; medium confidence reflects the odd render, not illegibility (the field is crisp). Boxes B-F carry a printed '$'. The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. Date and Date of Report both 'April 4, 2022'; the footer paginates 'Page 1 of 4'. The cover repeats the label 'Type of Report' over the affirmation block (the v. 4.20 blank-form typo); the footer version string on this scan is too faint to read, so form_version is ''."
+  }
+ ],
+ "notes": "Locator page roles corrected: page 2 is NOT a second cover - it is SCHEDULE A - Itemized Contributions Received (4 entries 03/04-03/30/2022, 'Subtotal for this page $2,712.44' / 'Total Contributions Received $2,712.44'; contributor street addresses blacked out upstream, cities visible). Page 5 is NOT a second summary - it is the Elections Division's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff-review passes, 4/4/22 and 4/6/2022, 'Website' ticked). One report only. Schedule A line items were not transcribed (out of scope for this tranche)."
+}

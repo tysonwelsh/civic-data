@@ -1,7 +1,8 @@
 # civic-data — how to answer questions with this repo
 
-**44 registered Utah government entities in a 4-tier model** (41 built + the 3
-**registered-only** reference entities `udot`/`uta`/`wasatch_county`) — **31 cities/towns**
+**44 registered Utah government entities in a 4-tier model** (42 built + the 2
+**registered-only** reference entities `udot`/`uta`; `wasatch_county` gained its first
+dataset 2026-08-01) — **31 cities/towns**
 (`<city>_city_council/`), **8 counties**, **2 metropolitan planning organizations
 (MPOs)**, and **the State of Utah** — all under one **entity model** (SCHEMA_SPEC §0):
 every government unit is a flat entity with a `level` (city / county / regional / state),
@@ -20,8 +21,9 @@ analyzing it. Generated hierarchy map: **`registry/HIERARCHY.md`** (never hand-e
   2026-07-20 by the value/effort-gated wave: `utah_county` (FULL tier), `weber_county` /
   `cache_county` / `summit_county` (MID tier — weber+cache carry FULL NAMED legislative
   roll calls, richer than SLCo's minutes), `washington_county` (LIGHT+) and `juab_county`
-  (CHEAP-ONLY) both **db-less but federated**, and `wasatch_county` (**registered-only** —
-  carries Park City's second county edge; no build yet).
+  (CHEAP-ONLY) both **db-less but federated**, and `wasatch_county` (carries Park City's
+  second county edge; **first dataset 2026-08-01** — county campaign_finance, db-less;
+  full build still backlog).
 - **MPOs (2)** — `wfrc_mpo` (Wasatch Front Regional Council) and `mag_mpo` (Mountainland
   Association of Governments): `level='regional'`, **DATA-FORWARD** entities (programmed
   projects + city-area projections + regional GIS; council/board minutes are tally-only).
@@ -135,7 +137,21 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 - **Campaign finance** (who funded whom; money vs votes): `gov.db` `cf_contribution`
   / `cf_expenditure` / `cf_cycle` / `cf_candidate_person` (joins donors to `person` →
   `vote`). **Never sum `cf_filing` dollar columns** — filings overlap (interim +
-  summary); `cf_cycle` is the only sanctioned per-candidate total.
+  summary); `cf_cycle` is the only sanctioned per-candidate total — **and cf_cycle is
+  CITY-ONLY** (county rollups deliberately not derived; design lead in LEADS.md). **The
+  layer spans TWO tiers** (county tier added 2026-08-01; vision-totals tranche completed
+  2026-08-02): 29 of 31 cities structured, plus all 8 counties' per-filing STATED TOTALS
+  federated into `cf_filing` (salt_lake 834 · utah 265 · cache 239 · washington 206 ·
+  summit 131 · wasatch 111 · weber 98 · juab 27 — every cover vision-read; offices
+  Commission/Council, Mayor, Sheriff, Clerk, Auditor, Attorney, Assessor, Recorder,
+  Treasurer, Surveyor, back to 2006). County ITEMIZED rows come from salt_lake's EasyVote
+  2024/2026 API data (the "largest county donor" query answers there), juab's 3 transcribed
+  2020 filings, and the **2026-08-02 born-digital parser sweep** (1,311 reconciliation-gated,
+  geometry-anchored rows over 82 machine-readable filings in weber/cache/summit/wasatch/
+  utah/washington) — the scanned majority is NOT itemized (Phase B vision work): empty
+  itemized = NOT TRANSCRIBED, never "no donors". Read
+  each county's `cf-*` caveat row + `campaign_finance/AVAILABILITY.md` before comparing
+  across counties: regimes differ (cumulative vs per-period, sometimes per candidate).
 - **Adopted ordinances** (what did Ordinance X do; who voted for it): `gov.db`
   `ordinance` table — `motion_id` links to the enacting motion + roll call where the
   linkage is unique (`motion_resolution='unique'`; never quote ambiguous links).
@@ -154,13 +170,20 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   now) and `v_term_provenance` (per-city confidence mix); a point-in-time roster is the
   half-open interval (`start_date<=:d AND (end_date='' OR end_date>:d)`). Each
   `roster/CLAUDE.md` is authoritative per city.
-- **Elections in the db** (2026-07-11, expanded 2026-07-12): federated DB form in
-  `gov.db` — `election_race` (audited 25-col races, **688 rows** + containing
-  `county`; **authoritative** winners/margins; view `v_election_city`) and `election_result`
-  (Salt Lake County Clerk SOVC candidate tallies, 2007–2025, **5,482 rows**, covering **22
-  SLCo jurisdictions** after the 2026-07-12 normalizer fixes recovered the 2019/2011
-  sheet-code eras and the Draper county-straddle precincts — canonical at
-  `salt_lake_county/elections/`). County canvasses (washington 2018–2025, juab 2023–2026)
+- **Elections in the db** (2026-07-11, expanded 2026-07-12; county-office tier added
+  2026-08-01): federated DB form in `gov.db` — `election_race` (audited 25-col races,
+  **810 rows** = 688 city + **122 SLCo county-office** (Mayor/Council/row offices
+  2002–2026, incl. 17 primary rows that are party NOMINATIONS, not seat outcomes — see
+  the `county-primary-nominees` caveat) + containing `county`; **authoritative**
+  winners/margins; view `v_election_city`) and `election_result` (**5,820 rows** = 5,482
+  municipal SOVC tallies 2007–2025 across **22 SLCo jurisdictions** + **338 SLCo
+  county-office rows 2002–2026** carrying `election_date`/`certified_votes`/`votes_basis`
+  — under 2024/2026 privacy suppression `votes` understates, use `certified_votes`;
+  canonical at `salt_lake_county/elections/`, county-office layer
+  `county_results_by_contest.csv` + raws + `normalize_sovc_county.py` added 2026-08-01).
+  County canvasses (washington **on-disk 2018–2025 — the federated `election_result`
+  slice is municipal-only 2019+ by design** (municipal elections are odd-year; the 2018
+  county canvass is held in `washco_results_long.csv`), juab 2023–2026)
   are canonical in each county's `elections/`.
   The per-city `election_results/<city>_races.csv` remain the on-disk source. RCV cities
   (millcreek; draper 2021 pilot): `election_result.rank_in_contest` is plurality order, not
@@ -386,14 +409,19 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   **two planning commissions** for land use (Snyderville Basin + Eastern) + a 571-app dev
   pipeline; council coverage 2023+ born-digital (2015–22 scanned ledger).
 - **washington_county** — Board of Commissioners (3); **LIGHT+ tier, db-less**: elections
-  canonical 2018–2025 + minutes FTS corpora (78% OCR — 226/290, measured 2026-08-01) +
-  plans/ordinances/gis; **vote layer
+  canonical **2018–2025 on disk** (the federated `election_result` slice is municipal-only
+  2019+ by design — municipal elections are odd-year; the 2018 county canvass is held and
+  reconciled, verified at source 2026-08-01) + minutes FTS corpora (78% OCR — 226/290,
+  measured 2026-08-01) + plans/ordinances/gis + **campaign_finance 2026-08-01** (402
+  county-office filings 2006–2025, the deepest county CF record); **vote layer
   + dev pipeline explicitly DEFERRED** (honest, not a gap).
 - **juab_county** — Board of Commissioners (3); **CHEAP-ONLY tier, db-less, thin**:
   elections canonical 2023–2026 (3 official channels; 2019/2021 municipal = honest gap) +
   projections + a thin GIS catalog.
-- **wasatch_county** — **registered-only** (2026-07-20); exists to carry Park City's
-  second within-county edge; no build yet (backlog with the remaining 22 counties).
+- **wasatch_county** — registered 2026-07-20 to carry Park City's second within-county
+  edge; **first dataset 2026-08-01**: `campaign_finance/` (111 county-office filings
+  2010–2026, document-tier, two form families with a mid-2024 seam — see its caveat row);
+  no db/vote layer (full build backlog with the remaining 22 counties).
 - **wfrc_mpo** (Wasatch Front Regional Council) — `level='regional'`, DATA-FORWARD:
   `regional_project` (8 TIP vintages + RTP-2050, 5,146 rows) + annual city-area
   projections 2019–2050 + Wasatch Choice GIS; **Council motions 2016+ are tally-only**

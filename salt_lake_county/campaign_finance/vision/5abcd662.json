@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3500.",
+ "total_expenditures": "3480.",
+ "beginning_balance": "54.85",
+ "ending_balance": "74.85",
+ "aggregate": {
+  "total_contributions_to_date": "3500.",
+  "total_expenditures_to_date": "3480.",
+  "line5_subtotal": "3554.85"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At Large C",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-15",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_Jim_CouncilC_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bradley_Jim_CouncilC_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "A different, later form: the title reads '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' - hence form_year 2014. The Year-End (January 31) box is checked. All four Line 1 / Line 2 figures write the cents as a raised dash for zero cents - recorded without it. The candidate wrote the seat into the Office Sought box, leaving District Number empty. Summary-page header box is blank. Neither amendment box is checked. Arithmetic consistent (54.85 + 3500 = 3554.85; less 3480 = 74.85) and Line 3 chains from the 2013 year-end (key 94f45047)."
+ }
+}

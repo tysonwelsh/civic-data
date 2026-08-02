@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$14,180.68",
+ "total_expenditures": "$8,331.95",
+ "beginning_balance": "$17,964.62",
+ "ending_balance": "$23,813.35",
+ "aggregate": {
+  "total_contributions_to_date": "$45,466.36",
+  "total_expenditures_to_date": "$21,653.01",
+  "line5_subtotal": "$32,145.30"
+ },
+ "cover": {
+  "candidate": "Goud Maragani",
+  "party": "Republican",
+  "office_sought": "_Clerk",
+  "district_number": "N/A",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/22/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Maragani-Goud__751AF3A6.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Maragani, Goud",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Maragani-Goud__751AF3A6.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing. The clerk listing calls this the 'June 21 Interim Financial AMENDED Report', but the FORM answers the amendment question 'No' (the No box is checked, Yes is not) - the label and the form face disagree. E-signature stamp 06/22/22 - 10:06 PM; the signature Date cell is blank; Summary Page header 'Date of Report 06/22/22'; page 2 of 10. Compared with the un-amended June 21 filing (837506d3), Column A contributions drop $16,297.68 -> $14,180.68 and expenditures drop $10,448.95 -> $8,331.95, yet Line 7 closing balance is IDENTICAL ($23,813.35) in both; Column B aggregates also drop. Recorded verbatim, not reconciled."
+ }
+}

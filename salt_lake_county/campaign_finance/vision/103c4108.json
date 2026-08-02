@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "750.00",
+ "total_expenditures": "3058.23",
+ "beginning_balance": "5826.84",
+ "ending_balance": "3518.61",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "6576.84"
+ },
+ "cover": {
+  "candidate": "BRENT. H. GOODFELLOW",
+  "party": "DEMO",
+  "office_sought": "S.L. COUNTY COUNCIL #2",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-19-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_Primary_CntyCncl2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_Primary_CntyCncl2_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the ORIGINAL June report that key 03ff1986 amends \u2014 same Column A figures, but here Column B (Aggregate Total) on lines 1 and 2 is left BLANK by the filer (recorded as empty strings, not zeros); the amendment filled them in as 6750.00 and 3231.39. This copy uses the older undated interim box list, so the checked box is 'Seven days before a primary election' rather than 'June 19'. Neither amendment box is checked. Arithmetic self-consistent."
+ }
+}

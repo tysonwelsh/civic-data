@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,306.40",
+ "total_expenditures": "2,854.83",
+ "beginning_balance": "0.00",
+ "ending_balance": "7,451.57",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "10,306.40"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2012)",
+  "is_amendment": "Yes",
+  "amendment_of": "4-17-12",
+  "report_date": "4-17-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snelgrove_R_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Snelgrove_R_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Column B (Aggregate Total) is left entirely BLANK on Lines 1 and 2 \u2014 recorded as \"\" (blank), not zero. The amendment 'Yes' box is checked with '4-17-12' written as the date of report, which is the same as the signature date rather than the 4-5-12 report being amended; the Summary Page header carries 'Date of Report 4-5-12'. In this PDF the Summary Page is the 2nd sheet but the form's own page box reads 'page 3 of 4'. Line 3 is a '0' with a raised superscript. Received stamp APR 17 2012."
+ }
+}

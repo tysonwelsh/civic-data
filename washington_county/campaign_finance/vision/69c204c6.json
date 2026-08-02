@@ -1,0 +1,99 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2020/Recorder_Michae; R_06-15-2020. Draper_June 23 2020 FCR.pdf",
+ "channel": "wayback_forms2020",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2020/Recorder_Michae; R_06-15-2020. Draper_June 23 2020 FCR.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2020/Recorder_Michae; R_06-15-2020. Draper_June 23 2020 FCR.pdf",
+   "doc_kind": "statement",
+   "sha256": "723424802b05e9c8c49fcdf456ff9d783ccb26b70fe3beb55d0afafb1e5be0ed",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Michael R. Draper",
+  "office": "Recorder",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "Washington",
+  "filed_to": "Melanie Abplanalp / Washington Co Clerk"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Recorder",
+ "index_office_source": "filename",
+ "index_office_confidence": "low",
+ "index_candidate": "MICWAEL P.ORAPRR",
+ "index_reporting_year": "2020",
+ "index_cycle_year": "2020",
+ "index_filing_type": "interim",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "03/19/2020",
+   "period_end": "06/15/2020",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "0",
+   "contrib_gt50_last": "0",
+   "contrib_gt50_this_printed": "",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "0",
+   "contrib_le50_last": "0",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "129.53",
+   "balance_last": "129.53",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "",
+    "balance": "medium"
+   },
+   "blank_fields": [
+    "contrib_gt50_cum",
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "the CUMULATIVE column is struck through with a diagonal line across all four rows; only the LAST-report column carries figures. The balance reads 129.53 (the final digit is ambiguous between 3 and 5 - recorded as read, medium confidence)."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:53:55Z"
+}

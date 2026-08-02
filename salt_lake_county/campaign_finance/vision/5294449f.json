@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$12,785.95",
+ "total_expenditures": "$19,536.90",
+ "beginning_balance": "$18,782.16",
+ "ending_balance": "$12,031.21",
+ "aggregate": {
+  "total_contributions_to_date": "$68,148.82",
+  "total_expenditures_to_date": "$56,117.61",
+  "line5_subtotal": "$31,568.11"
+ },
+ "cover": {
+  "candidate": "Goud Maragani",
+  "party": "Republican",
+  "office_sought": "_Clerk",
+  "district_number": "N/A",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "11/01/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Maragani-Goud__155F264A.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Maragani, Goud",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Maragani-Goud__155F264A.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing. The clerk listing calls this the 'October 31, 2022' report; the FORM checks 'Seven days before a general election' and both the e-signature stamp (11/01/22 - 7:25 AM) and the Summary Page header say 11/01/22. The signature Date cell itself is blank. Summary Page is page 2 of 6."
+ }
+}

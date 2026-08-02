@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_wp/David-Whitehead.pdf",
+ "channel": "live_wp",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_wp/David-Whitehead.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_wp/David-Whitehead.pdf",
+   "doc_kind": "statement",
+   "sha256": "98a124443a0ac3380e44f4aaccbc8b34971df0f8070ed044b8718a0d5b33f117",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "David Whitehead",
+  "office": "Treasurer",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Treasurer",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "DAVID WHITEHEAD",
+ "index_reporting_year": "2025",
+ "index_cycle_year": "",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "1/6/2026",
+   "period_start": "1/1/2025",
+   "period_end": "12/31/2025",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "0.00",
+   "contrib_gt50_last": "0",
+   "contrib_gt50_this_printed": "0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_cum_printed": "0.00",
+   "contrib_gt50_cum": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "0.00",
+   "expenses_last": "0",
+   "expenses_this_printed": "0.00",
+   "expenses_this": "0",
+   "expenses_cum_printed": "0.00",
+   "expenses_cum": "0",
+   "balance_last_printed": "0.00",
+   "balance_last": "0",
+   "balance_this_printed": "0.00",
+   "balance_this": "0",
+   "balance_end_printed": "0.00",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "3-LINE typed variant; the ANNUAL officeholder report for calendar 2025"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:38:19Z"
+}

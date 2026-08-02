@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "4,629.05",
+ "ending_balance": "4,629.05",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "4,629.05"
+ },
+ "cover": {
+  "candidate": "Larry W Richardson",
+  "party": "Republican",
+  "office_sought": "Treasurer",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/24/05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/richardson_05finalreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Larry W. Richardson",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/richardson_05finalreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "LABEL MISMATCH: the file is catalogued as a 'final report' but the FINAL REPORT box is NOT checked - the checked box is 'January 31 of each year'. Title carries no year - form_year ''. Interim list is the 'Seven days before a primary/general election' variant; Column B header 'Year-to-Date Total'. Zeros written as slashed \u00d8. Summary Page header: Page 2 of 4, Richardson, 01/24/05. Clerk stamp RECEIVED JAN 24 2005."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2014/2014_30DayAnderson.pdf",
+ "key": "80bc214f",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:35:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gary J. Anderson",
+   "party_printed": "Republican",
+   "office_printed": "Ut. County Commissioner",
+   "residence_city": "Springville",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "5/14/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "19350.00",
+    "contrib_cumulative": "",
+    "expend_this_period": "11,473.47",
+    "expend_cumulative": "",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "19350.00",
+    "balance_close": "7876.53"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "19350.00",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "11,473.47",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "19350.00",
+    "line5_subtotal_lines3plus4": "19350.00",
+    "line6_total_expenditures_from_line2A": "11,473.47",
+    "line7_balance_at_close": "7876.53"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "expend_this_period": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; cents written as a small raised pair. OFFICE DISAGREEMENT (partial) with the portal: the page prints only 'Ut. County Commissioner' with NO seat letter; index.csv carries 'County Commission Seat A'. The page is the authority and does not name a seat - transcribed without one. Line 2: the filer wrote '11,473.' inside Column A and the cents '47' spilling over the column rule into the Column B cell; read as the single figure 11,473.47 (medium confidence), and the Year-to-Date Column B is treated as EMPTY - line 6 independently prints '11,473.47' wholly inside Column A, which is what supports the reading. Line 1 Column B is left blank by the filer (empty, not zero). Line 3 is a small looped/slashed glyph read as a zero (medium). Line 7 carries a struck-through leading '$' before 7876.53; the $ is dropped per spec. Index candidate is blank; the page names Gary J. Anderson. REPORT-TYPE DISAGREEMENT: index reporting_period is '30 Day Commission A - Anderson' but the checked box is 'INTERIM REPORTS - 30 Days after withdraw or elimination' (signed 5/14/2014). The summary page's Page/of, Last Name and Date-of-Report boxes are all left blank."
+  }
+ ],
+ "notes": ""
+}

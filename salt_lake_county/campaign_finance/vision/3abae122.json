@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7.34",
+ "total_expenditures": "-0-",
+ "beginning_balance": "$193.69",
+ "ending_balance": "$201.03",
+ "aggregate": {
+  "total_contributions_to_date": "7.34",
+  "total_expenditures_to_date": "-0-",
+  "line5_subtotal": "$201.03"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REP.",
+  "office_sought": "C.C.",
+  "district_number": "3",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-24-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_dwilde_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_dwilde_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy - banner 'Jan 24 08 10:11a  Rocky Mountain Verdicts  801-265-1421  p.1/p.2'. OLDER form variant (no year in title; separate 'Office' box on the cover reading 'COUNTY COUNCIL'; Column B headed 'Aggregate Total'). Office Sought is abbreviated 'C.C.'. Zero is written as the dash-zero-dash form '-0-' - kept verbatim. Line 4 (from Line 1 Col A) reads '$ 7.34'. RECEIVED stamp JAN 24 2008."
+ }
+}

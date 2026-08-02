@@ -1,0 +1,57 @@
+{
+ "path": "raw/2014/2014_30DayBowen.pdf",
+ "key": "dbfc9509",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Carlton Edward Bowen",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner B",
+   "residence_city": "American Fork",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "5-12-14",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "medium",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "low",
+    "expend_cumulative": "low",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "low",
+    "balance_close": "low"
+   },
+   "unreadable": [
+    "contrib_this_period",
+    "contrib_cumulative",
+    "expend_this_period",
+    "expend_cumulative",
+    "balance_beginning",
+    "subtotal_before_expend",
+    "balance_close"
+   ],
+   "notes": "NO SUMMARY PAGE EXISTS IN THIS DOCUMENT - a document gap, not an unreadable one. The retained PDF is 2 pages: the cover (form page 1) and SCHEDULE B (form 'Page 3 of 3'); the Summary Page (form page 2) is absent from the published scan, so all seven summary totals are left blank rather than derived. For the record, and NOT copied into the totals slots: Schedule B prints a single line 'Carlton Bowen  $1572' with 'Subtotal for this page $1572.00' and 'Total Expenditures Received $1,572.00'. TWO report-type boxes carry a mark: a clear check on '30 Days after withdraw or elimination' and a fainter mark in 'Seven days preceding the General Election'; the clear check is transcribed and the ambiguity flagged (report_type_printed = medium). REPORT-TYPE DISAGREEMENT with the portal as well: index reporting_period is '30 Day Commission B - Bowen'. Index candidate is blank; the page names Carlton Edward Bowen. Office 'County Commissioner B' agrees with index.csv 'County Commission Seat B'."
+  }
+ ],
+ "notes": "Incomplete county scan - the Summary Page is missing from the published PDF."
+}

@@ -1,0 +1,105 @@
+{
+ "filing_key": "wayback_2010elections||ROB TERSIGNI",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/County Candidate Summary - Rob Tersigni.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/County Candidate Summary - Rob Tersigni.pdf",
+   "doc_kind": "summary",
+   "sha256": "293350fa0eab51d928348ed8738e84e7d02597cefe1243293f3453cbb1cde3b4",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Contributions - Rob Tersigni.pdf",
+   "doc_kind": "contributions",
+   "sha256": "6302f5aef418ff8c337a5ceebd4b6dfea26b569b840c88646dff40ce39890ee4",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Expenditures - Rob Tersigni.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "7b63df89dbc7e7a0692f0218ad9540dcfd102b4a5bf6ce8c0c94b58bde4b66d7",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Rob Tersigni",
+  "office": "Sheriff",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Sheriff",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Rob Tersigni",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/9/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$4,695.00",
+   "expenses": "$4,641.85",
+   "balance": "$53.15"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "4/9/2010",
+   "date_due": "4/9/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$4,695.00",
+   "contrib_gt50_this": "4695",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$4,641.85",
+   "expenses_this": "4641.85",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "$53.15",
+   "balance_end": "53.15",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

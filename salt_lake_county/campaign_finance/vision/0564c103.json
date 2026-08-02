@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$86,957",
+ "total_expenditures": "$234,327.57",
+ "beginning_balance": "$195,828.06",
+ "ending_balance": "$48,457.49",
+ "aggregate": {
+  "total_contributions_to_date": "$448,229.46",
+  "total_expenditures_to_date": "399,771.97",
+  "line5_subtotal": "$282,785.06"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "AtLarge B",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__BDCA235C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__BDCA235C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Column A is printed as '$86,957' with NO cents; Line 2 Column B is printed as '399,771.97' with NO dollar sign - both kept verbatim. Line 7 carries an appended typed annotation on the form: 'Minus $6,525 in in-kind contributions, resulting in an effective cash-on-hand of $41,932.49'; the Line 7 FIGURE itself is $48,457.49 and that is what is recorded. Neither amendment box is checked. Top-row Office cell blank."
+ }
+}

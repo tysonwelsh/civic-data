@@ -1,0 +1,58 @@
+{
+ "path": "raw/2016/2016_G2016Bowen.pdf",
+ "key": "de1c36cb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:15:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Jeanne Bowen",
+   "party_printed": "Democrat",
+   "office_printed": "Commisson seat C",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "31 Oct 2016",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "145.00",
+    "contrib_cumulative": "145.00",
+    "expend_this_period": "1319.69",
+    "expend_cumulative": "1319.69",
+    "balance_beginning": "",
+    "subtotal_before_expend": "145.00",
+    "balance_close": "1174.69"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "145.00",
+    "line1_total_contributions_colB": "145.00",
+    "line2_total_expenditures_colA": "1319.69",
+    "line2_total_expenditures_colB": "1319.69",
+    "line3_balance_beginning": "",
+    "line4_total_contributions_from_line1A": "145.00",
+    "line5_subtotal_lines3plus4": "145.00",
+    "line6_total_expenditures_from_line2A": "1319.69",
+    "line7_balance_at_close": "1174.69"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The Office Seeking line is written 'Commisson seat C' - the filer's own spelling, missing an 'i', reproduced verbatim (medium confidence on the spelling, not on the meaning; the seat letter C is clear and agrees with the portal's 'County Commission Seat C'). LINE 3 (Balance at Beginning) WAS LEFT BLANK by the filer - recorded as an empty string, not zero. Cents throughout are written as a raised superscript; transcribed in decimal form. FILER ARITHMETIC worth knowing: line 5 (145.00) minus line 6 (1319.69) is negative, but line 7 is written as '1174.69' with no minus sign or parentheses - transcribed exactly as printed. Neither amendment box is marked. The summary page's Page / Last Name / Date of Report header box was left entirely blank; its printed header reads '2016 County Commission & Local School Board Candidate' (form boilerplate - this is a county commission filer, not a school-board filer). Clerk received stamp NOV 1 AM 11:10."
+  }
+ ],
+ "notes": ""
+}

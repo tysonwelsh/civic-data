@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "39,200.00",
+ "total_expenditures": "",
+ "beginning_balance": "27,365.45",
+ "ending_balance": "21,411.89",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "45,153.55",
+  "line5_subtotal": "66 565.44"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-17-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "low",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_june17report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_june17report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 and 2 re-rendered at -r 250 to read the Line 5 cents and the signature date)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither the amendment Yes nor No box is checked, so is_amendment is left blank. Cents are written as raised superscripts over the rule (Line 1 / Line 4 = 39,200 with a raised 00). Line 5 is written with a SPACE instead of a comma as the thousands separator ('66 565') and its second cent digit runs into the cell border - it reads '44' but is ambiguous, so it is recorded verbatim at low confidence and NOT corrected. Line 2 Column A is blank on the form; the expenditure figure appears only in Column B. Line 7 (21,411.89) does not equal Line 5 minus Line 6 as written (would be 21,411.89 if Line 5 were .45); the form's figures are kept verbatim."
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "filing_key": "FILE|raw/state_disclosures/washington_2010 Elections_Greg Aldred 4-9-10 update.pdf",
+ "channel": "state_disclosures",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/state_disclosures/washington_2010 Elections_Greg Aldred 4-9-10 update.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/state_disclosures/washington_2010 Elections_Greg Aldred 4-9-10 update.pdf",
+   "doc_kind": "statement",
+   "sha256": "5ba094d215d6a7183c4b915e3984e38638fb1e46e56aaaf48e832d7a4cbb6d13",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Greg Aldred",
+  "office": "County Commissioner Seat A",
+  "district": "Washington County",
+  "election_year": "",
+  "party": "Republican",
+  "residence_city": "St. George",
+  "filed_to": "Washington"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document_determination",
+ "index_office_confidence": "high",
+ "index_candidate": "ey Aldlerd ve eee wee ees",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "4-7-2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "400.00",
+   "contrib_gt50_this": "400",
+   "contrib_gt50_cum_printed": "400.00",
+   "contrib_gt50_cum": "400",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "",
+    "balance": ""
+   },
+   "blank_fields": [
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "lines 3 and 4 ARE written on the form but the scan is too degraded to read the digits with confidence - left BLANK rather than guessed (a leading 8 and a trailing pair are visible; the county's own summary sheet for the 4/9/2010 deadline states $897.17 expenses / -$497.17 balance, which is NOT transcribed here because it is a different document)"
+  }
+ ],
+ "unreadable": [
+  "expenses_this",
+  "expenses_cum",
+  "balance_this",
+  "balance_end"
+ ],
+ "notes": "promoted into index.csv 2026-08-01 by office_determinations.csv; state-channel copy, filed 4-7-2010 (earlier than the county's own 2010 folder, which starts 6-15-2010)",
+ "generated_utc": "2026-08-02T02:39:06Z"
+}

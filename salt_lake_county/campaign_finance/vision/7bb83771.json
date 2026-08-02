@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "$16,267.41",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$119,268.90",
+  "total_expenditures_to_date": "$103,001.49",
+  "line5_subtotal": "$16,267.41"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "12-6-2022",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/DeBry-Steve__A5B263EE.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "DeBry, Steve",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/DeBry-Steve__A5B263EE.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered additionally)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "5-page BUNDLE: page 1 is the one-page \"Dissolution of a Candidate Campaign Committee\" notice (committee \"DeBry County Council\", secretary Lorraine DeBry, signed 12-6-2022), page 2 is the report cover (older Sherrie Swensen form, no year in the title), and page 3 is the Summary Page transcribed here. Neither amendment box is checked. ARITHMETIC INCONSISTENCY kept verbatim: Line 5 is $16,267.41 and Line 6 is 0, yet Line 7 is 0 - beside Line 7 the filer wrote \"(Account closed on 11-29-2022 @ Cyprus CU\". Lines 1, 2, 4, 6 and 7 Column A are written as a plain hand-drawn 0."
+ }
+}

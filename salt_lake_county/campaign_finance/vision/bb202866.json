@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "173.16",
+ "total_expenditures": "173.16",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "173.16",
+  "total_expenditures_to_date": "173.16",
+  "line5_subtotal": "173.16"
+ },
+ "cover": {
+  "candidate": "Deborah Henry",
+  "party": "Democratic",
+  "office_sought": "SLCo Council",
+  "district_number": "4",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/5/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Henry_D_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Deborah Henry",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Henry_D_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered at -r 150 to confirm page order)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "April 5 interim box checked, amendment 'No' checked, signed 4/5/12, clerk stamp APR 05 2012. Top-row 'Office' reads 'SLCo Council #4'; the 'Office Sought' box reads 'SLCo Council' with District Number '4'. Summary Page is page 2 of 4 (header block filled: Page 2 of 4, HENRY, 4/5/12). Every money cell writes the cents as a raised superscript over a rule ('173.' with superscript '16'), transcribed 173.16. Lines 3 and 7 are hand-drawn zeros with a slash through them."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$121,261.10",
+ "total_expenditures": "$14,342.80",
+ "beginning_balance": "$99,649.71",
+ "ending_balance": "$206,568.01",
+ "aggregate": {
+  "total_contributions_to_date": "$229,781.73",
+  "total_expenditures_to_date": "$23,213.72",
+  "line5_subtotal": "$229,781.73"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Dem",
+  "office_sought": "County Council",
+  "district_number": "At-Large B",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__E5C37303.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__E5C37303.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the 'June 21 Amendment', but the FORM does NOT check the amendment Yes box (neither Yes nor No is checked) and it checks the primary-election interim box, dated 6/20/2022 - same date as key 17369575. This is the copy that carries the Summary Page; 17369575 has none. Line 1 Column B ($229,781.73) is printed in bold and coincidentally equals Line 5. Top-row Office cell blank; District Number 'At-Large B'."
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "DAVE ALVORD",
+  "party": "Rep.",
+  "office_sought": "CC",
+  "district_number": "2",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Alvord-Dave__F5A3F14F.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Alvord, Dave",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Alvord-Dave__F5A3F14F.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form. Every filled figure on the Summary Page is a hand-drawn slashed zero (\u00d8) = 0: Lines 1, 2, 3, 4 and 7 Column A. Lines 5 and 6 Column A and both Column B cells were left BLANK by the filer (recorded as \"\", not 0). Neither the amendment Yes nor No box is checked. Office Sought is abbreviated \"CC\"; the top-row Office box reads \"SL County Council D2\". Handwritten note at the bottom of the Summary Page: \"No election activity 2022\"."
+ }
+}

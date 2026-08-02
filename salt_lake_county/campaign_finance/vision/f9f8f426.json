@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$282.63",
+ "total_expenditures": "$282.63",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$282.63"
+ },
+ "cover": {
+  "candidate": "Kerry Soelberg",
+  "party": "UUP",
+  "office_sought": "_Council - District",
+  "district_number": "3",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "2022-09-13",
+  "report_date": "09/14/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Soelberg-Kerry__FDC1D373.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Soelberg, Kerry",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Soelberg-Kerry__FDC1D373.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Amendment (dated 2022-09-13) of the all-zero April 5 report, restating it at $282.63 - the original and the amendment are both kept; never summed. Form title reads 2020 (template reuse)."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "750.00",
+ "total_expenditures": "3058.23",
+ "beginning_balance": "5826.84",
+ "ending_balance": "3518.61",
+ "aggregate": {
+  "total_contributions_to_date": "6750.00",
+  "total_expenditures_to_date": "3231.39",
+  "line5_subtotal": "6576.84"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMO",
+  "office_sought": "S.L. COUNTY COUNCIL #2",
+  "district_number": "",
+  "report_type": "Interim Report: June 19",
+  "is_amendment": "Yes",
+  "amendment_of": "6-19-12",
+  "report_date": "7-19-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_June_Interim_Amend_CntyCncl2_Redac.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_June_Interim_Amend_CntyCncl2_Redac.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Amendment box Yes, amending the report of 6-19-12; the signature date is 7-19-12 (RECEIVED JUL 19 2012), so the two dates legitimately differ. Party abbreviated 'DEMO'. Arithmetic self-consistent (5826.84 + 750.00 = 6576.84; less 3058.23 = 3518.61), and beginning balance matches the April report's line 7."
+ }
+}

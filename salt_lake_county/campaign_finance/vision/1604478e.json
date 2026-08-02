@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "37,524.16",
+ "total_expenditures": "44,177.50",
+ "beginning_balance": "6,703.34",
+ "ending_balance": "50.00",
+ "aggregate": {
+  "total_contributions_to_date": "75,418.51",
+  "total_expenditures_to_date": "74,234.31",
+  "line5_subtotal": "44,227.50"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2007",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cdickson_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/cdickson_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Fully TYPED form. Summary header: page 1 of 1, Dickson, 1/31/2007 (PDF has 6 pages). Received stamp JAN 31 2007."
+ }
+}

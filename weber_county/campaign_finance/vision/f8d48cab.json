@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "f8d48cab",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p15",
+ "page_start": 15,
+ "page_end": 18,
+ "summary_page": 16,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Steven Van Wagoner",
+ "office_stated": "County Commission, Seat C",
+ "report_type_stated": "7 days before convention",
+ "filing_date_stated": "2024-04-08",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "3,873.35",
+   "cum": "3,873.35"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "2,853.35",
+   "cum": "2,853.35"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "1,020.00",
+   "cum": "1,020.00"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2024 form; the summary block runs onto the SECOND page of the filing (p16 of the archive PDF) - read there. Columns headed 'Last Report | This Report | Totals:'. County-redacted address and cell phone."
+}

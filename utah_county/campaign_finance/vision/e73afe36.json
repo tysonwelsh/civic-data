@@ -1,0 +1,59 @@
+{
+ "path": "raw/2008/2008_CountyCommissionSeatC-EllertsonLarryAlton-061608.pdf",
+ "key": "e73afe36",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:07:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Larry Alton Ellertson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat (C)",
+   "residence_city": "Lindon",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-16-08",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2,023.08",
+    "contrib_cumulative": "2,023.08",
+    "expend_this_period": "755.75",
+    "expend_cumulative": "755.75",
+    "balance_beginning": "5,996.56",
+    "subtotal_before_expend": "8,019.64",
+    "balance_close": "7,263.89"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2,023.08",
+    "line1_total_contributions_colB": "2,023.08",
+    "line2_total_expenditures_colA": "755.75",
+    "line2_total_expenditures_colB": "755.75",
+    "line3_balance_beginning": "5,996.56",
+    "line4_total_contributions_from_line1A": "2,023.08",
+    "line5_subtotal_lines3plus4": "8,019.64",
+    "line6_total_expenditures_from_line2A": "755.75",
+    "line7_balance_at_close": "7,263.89"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries the unresolved 'County Commission'; the page's own Office Seeking line reads 'Utah County Commission Seat (C)' - the parenthesised letter is a single cursive glyph read as C at medium confidence (it agrees with the county's own filename 'CountyCommissionSeatC-...' and disagrees with the Wayback listing heading 'Commission Seat B'). Line 2 (755.75) is written with a compressed '55' pair; read at medium confidence in both columns. Cover checkbox 'Seven days preceding the Primary Election' is marked with a hand check over the box; 'No' is checked for the amendment question."
+  }
+ ],
+ "notes": ""
+}

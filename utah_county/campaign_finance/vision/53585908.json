@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Larry_W._Evans_Redacted.pdf",
+ "key": "53585908",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:10:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Larry W Evans",
+   "party_printed": "",
+   "office_printed": "County Commission Seat A",
+   "residence_city": "Salem",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "04.29.2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "3,600",
+    "contrib_cumulative": "3,600",
+    "expend_this_period": "3,600",
+    "expend_cumulative": "3,600",
+    "balance_beginning": "3,600",
+    "subtotal_before_expend": "3,600",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "3,600",
+    "boxB_contributions_received_this_period": "3,600",
+    "boxC_contributions_received_year_to_date": "3,600",
+    "boxD_expenditures_made_this_period": "3,600",
+    "boxE_expenditures_made_year_to_date": "3,600",
+    "boxF_subtotal_before_expenditures": "3,600",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the printed v. 12.23 form; handwriting is clear. Office field reads 'County Commission Seat A' across two lines (index.csv 'County Commission Seat A' - exact agreement). The page name is 'Larry W Evans' (no period after the W; index.csv has 'Larry W. Evans'). Address is printed and legible (Salem, Utah 84653); only the signature is redacted upstream by the county. Every amount is written in whole dollars with a comma; several carry the filer's trailing period ('$3,600.'), dropped here. The Balance at Close is a SLASHED-ZERO glyph preceded by a dollar sign, read as 0 at medium confidence. FILER INCONSISTENCY, transcribed verbatim and NOT corrected: the form's formula makes Box F = Box A + Box B = 7,200, but the filer wrote F = 3,600 - the same 3,600 appears to be entered as both the opening balance and the period's contributions. No arithmetic was applied. The summary page's own footer numbers it 'Page 2' although it is page 4 of the PDF. Blue/red clerk stamp on the cover: 'Received APR 29 2026 In Person Utah County Clerk' (clerk markup). Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

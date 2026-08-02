@@ -130,22 +130,34 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
 Spec + technical pointers: HANDOFF.md. Owner-authorized in response to live query tests
 (the "largest county-race donor" question was unanswerable twice over).
 
-- [ ] **A. SLCo county-office election results** — acquire the even-year canvasses (Clerk
-  archive), land canonically at `salt_lake_county/elections/`, federate
-  (`election_type='general'/'primary'`), and promote SLCo county-office winners into the
-  audited `election_race` layer. Follow-on lead: election_race promotion for the other
-  counties' existing county-office tallies. Rider: verify washington's claimed-2018
-  elections floor at source.
-- [ ] **B. County-candidate campaign finance, 7 counties** (salt_lake, utah, weber, cache,
-  summit, washington, juab; wasatch = owner question) — per-county `campaign_finance/`
-  datasets per the city conventions; recon county-clerk + disclosures.utah.gov channels
-  first; extend the cf federation loader for county entities if city-scoped (backup +
-  byte-identity proof for city rows).
+- [x] **A. SLCo county-office election results — ✅ DONE 2026-08-01.** 61 raws mirrored
+  in-repo (29 SOVC workbooks + 31 certification PDFs + 1 CVR, sha256'd in sources.csv);
+  normalizer families ported + THREE never-parsed eras cracked (2002/04 family G, 2006
+  family E, 2020 SpreadsheetML); every even-year workbook 2002–2026 parsed under dual
+  hard gates (internal certified-total: 3,624 exact / 185 suppression-deficit / 2
+  verbatim source contradictions allowlisted; external certification-PDF: 115/115).
+  Federated: election_race 688→**810** (+122 audited county races, 2 AUDIT-FLAG rows),
+  election_result 5,482→**5,820** (+338 rows w/ new election_date/certified_votes/
+  votes_basis columns); 4 caveat rows. Rider CLOSED: washington's 2018 floor claim was
+  CORRECT (tier mix-up — docs reworded). Follow-on (other counties' election_race
+  promotion) + 56 below-city-floor municipal contests → LEADS.md.
+- [x] **B. County-candidate campaign finance — ✅ DONE 2026-08-01, 8 counties (wasatch
+  included by owner).** ~2,270 county-office filings landed: salt_lake 989 (EasyVote
+  2024/2026 STRUCTURED — 4,956 contributions/$1.9M + 3,278 expenditures/$1.6M; API
+  recipe documented), washington 402 (2006–2025, deepest), utah 267 (2008–2026, Strapi
+  channel find), cache 249, summit 131 (every ballot candidate covered), wasatch 111,
+  weber 98 (+33 county-lost interims citably ledgered), juab 27 (recon false-negative
+  REVERSED — the residence-town folder trap). `load_cf` extended CITIES→all entities
+  (city rows proven byte-identical excl. the st_george DEBT fix); cf-coverage caveat
+  rewritten + 8 per-county ceiling rows. Vision/structured pass + GRAMA asks + shared
+  family specs → LEADS.md (owner scope decisions).
 
 ## [DEBT] — correctness queue
 
-**EMPTY as of 2026-08-01** — every evidence-cited correctness item is closed. New entries
-require a primary-source citation (see the rules above). The last three closures:
+**EMPTY as of 2026-08-01 (again)** — the st_george Larkin item filed earlier today was
+closed the same session (record: TODO_ARCHIVE anchor 2026-08-01-COUNTY-ACQUISITION).
+
+New entries require a primary-source citation (see the rules above). The last three closures:
 
 - [x] **Recommendation-oracle adjudication — ✅ DONE 2026-08-01.** 56 contradictions → **1
   documented source ambiguity** (the slc 2025-05-28 dual-direction motion, now
@@ -172,6 +184,25 @@ require a primary-source citation (see the rules above). The last three closures
 
 ## [GATED] — owner decisions (do not start unprompted)
 
+- [ ] **Calibration-sample stage for any transcription-pipeline RERUN (owner note
+  2026-08-02).** If the CF vision pipeline is ever rerun, build in a "select sample pages"
+  calibration step (the Green Book enriched-pipeline pattern): a curated set of known
+  difficult edge-case pages that every model/resolution/prompt configuration must pass
+  BEFORE bulk transcription. Seed specimen #1 — the correlated-error case that
+  agreement-gating cannot catch: **Shannon Rhodes's December-2018 Cache County fax, whose
+  two-stroke open-top "4" reads as "1" consistently at 150–200 dpi; two same-resolution
+  passes would have "confirmed" each other, and only a ≥600 dpi render of the cleaner
+  October sibling copy settled it** (documented at `cache_county/campaign_finance/
+  CLAUDE.md` §"Render resolution matters"). **The suite now EXISTS** (built 2026-08-02,
+  tranche 3 Phase A): `_audits/cf-calibration-suite/` — 13 specimens (Rhodes fax +
+  column-transposition, zero-vs-blank, currency-convention, page-decoy and
+  completeness-gate classes, incl. negative controls whose correct answer is BLANK) +
+  the pass protocol; grow it from each county's documented traps. This [GATED] item is
+  therefore now only the RETROACTIVE question. ⚠ CAVEAT: adopting this
+  properly may mean RERUNNING much of the completed OCR/vision transcription work
+  (tranches 1–2, ~2,600 covers) under the calibrated configuration — a cost decision,
+  not a defect; the existing layers remain valid as-audited until then.
+
 - [ ] **CF adjudication hand-check** (2026-07-18: 11 corrected figures) + 2 open CF questions:
   bluffdale Hall Dec-04-final fold-in; holladay Tracy index date/label swap (rows 16-17 still
   carry the wrong dates).
@@ -195,3 +226,6 @@ require a primary-source citation (see the rules above). The last three closures
 | 2026-08-01 | DEBT queue EMPTIED: recommendation-oracle 56→1-documented (classifier v2.3.1 + 6 overrides + slc caveat); bluffdale window rewrite (376-motion anchor defect, referrals 269→38 @ 100% census precision, ledger 365→2); murray PC audited (7 overrides) | `TODO_ARCHIVE.md` anchor 2026-08-01-FINALE |
 | 2026-08-01 | DEBT-clearance wave: 12 of 14 items closed (10 Opus agents + solo; 5 premise-failures, 2 collateral recoveries, bluffdale referrals 269→62); 2 NEW evidence-cited items filed (2021 RCV mislabel class; bluffdale motion-window) | `TODO_ARCHIVE.md` anchor 2026-08-01 |
 | 2026-07-31 | holladay Layton [DEBT] closed — the requested `person-ambiguity` caveat row shipped with the G2 back-fill (verified live in gov.db) | caveat: holladay/planning_commission/person-ambiguity |
+| 2026-08-01 | COUNTY DATA ACQUISITION package DONE (9-agent wave + solo): SLCo even-year elections 2002–2026 (election_race 810 / election_result 5,820) + 8 county CF datasets (~2,270 filings); st_george Larkin [DEBT] found+fixed+closed same session; federation gates 44/44, doc checks 13/13, marquee 5/5 | `TODO_ARCHIVE.md` anchor 2026-08-01-COUNTY-ACQUISITION; per-county RECON/AVAILABILITY files |
+| 2026-08-02 | TRANCHE 3 PHASE A DONE (owner-approved): calibration suite built (`_audits/cf-calibration-suite/`, 14 specimens incl. negative controls + the field-shift lesson); 6 shared county form families + 2 driver capabilities (48/48 tests; 90/90 city CSVs byte-identical, manifest digest proven); born-digital itemization sweep — 1,311 reconciliation-gated geometry-anchored rows over 82 filings in 6 counties (cf_contribution 25,147 / cf_expenditure 19,987), 3 family bugs documented+gated for Phase B; caveats + docs synced; federation 44/44, doc checks PASS | family tests `scripts/campaign_finance/tests/`; per-county module docs; LEADS Phase-B residuals |
+| 2026-08-02 | VISION-TOTALS TRANCHE DONE (owner-approved 7-agent wave, survived a session-limit kill + a network outage on checkpoint discipline): every county CF cover read — cf_filing now carries 1,911 county stated-totals rows (slco 834 · utah 265 · cache 239 · washington 206 · summit 131 · wasatch 111 · weber 98 · juab 27); offices resolved (cache 128→0, washington 48→7-county, utah 19→8+4+7); juab conformance 37-fails→PASS; wasatch form_family reclassified at builder (6 misfiles); summit anti-transposition audit 17/17 exact + crop-defect date recovery (+45); cf_cycle kept CITY-ONLY by design; caveats rewritten (104 rows); federation 44/44, doc checks 13/13, marquee 5/5, city cf rows byte-identical | per-county AVAILABILITY.md verification sections; LEADS.md wave-leads block |

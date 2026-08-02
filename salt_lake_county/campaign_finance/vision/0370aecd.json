@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "67606,85",
+ "total_expenditures": "34155,59",
+ "beginning_balance": "4735,24",
+ "ending_balance": "38186,50",
+ "aggregate": {
+  "total_contributions_to_date": "538089.87",
+  "total_expenditures_to_date": "499883.37",
+  "line5_subtotal": "72342,09"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Democrat",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1-31-06",
+  "report_date": "7/14/06",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/pcorroon_amendment13106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/pcorroon_amendment13106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the 1-31-06 year-end report (amendment box Yes, date of report '1-31-06'; the Summary Page header reads '1-31-06 Amended'); signed 7/14/06 and clerk-stamped RECEIVED JUL 18 2006. DECIMAL-SEPARATOR CAVEAT: this filer's decimal mark is a comma-like tick, so the Column A figures are recorded verbatim with a comma (67606,85 / 34155,59 / 4735,24 / 72342,09 / 38186,50) while the Column B figures read as periods; the separator is genuinely ambiguous at 250 dpi and no value was normalized. Column A arithmetic is self-consistent, but Column B is not: 538089.87 - 499883.37 = 38206.50, which is 20.00 more than the Line 7 balance of 38186.50 (kept verbatim). Compared with the un-amended 1-31-06 report (key b7a128e9), the amendment raises Line 1 by 2,500.00 in both columns."
+ }
+}

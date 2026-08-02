@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$970.85",
+ "total_expenditures": "$2,992.50",
+ "beginning_balance": "$2,046.65",
+ "ending_balance": "$25.00",
+ "aggregate": {
+  "total_contributions_to_date": "$33,200.32",
+  "total_expenditures_to_date": "$33,175.32",
+  "line5_subtotal": "$3,017.50"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council \"A\" at Large",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan. 28, 2009",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_sdebry_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_sdebry_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this '2008 Summary Report/Dissolution'; the form checks the FINAL REPORT box (the Year-End box is NOT checked). Neither amendment box is checked. Older form variant; the top-row 'Office' box is blank. Fully consistent: 2,046.65 + 970.85 = 3,017.50, minus 2,992.50 = 25.00, and the Column B aggregates differ by the same 25.00 (33,200.32 - 33,175.32). Line 3 matches Line 7 of his October 28 interim report (key 5501b206)."
+ }
+}

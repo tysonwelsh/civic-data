@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "50.00",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "50.00",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Casey Jackson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Council",
+  "district_number": "3",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-27-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jackson_C_Council3_2013_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Casey Jackson",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jackson_C_Council3_2013_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 4-5 also rendered)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "PAGES ARE OUT OF ORDER IN THE SCAN: PDF page 1 is the cover, PDF page 2 is Schedule A (its header block says 'Page 3 of 4'), and the SUMMARY PAGE is PDF page 3 (header block 'Page 2 of 4'). Both the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Signed 1-27-14, clerk stamp MAR 03 2014. Top-row 'Office' reads 'Salt Lake County Council District 3'; the Office Sought box reads 'Salt Lake County Council' with District Number '3'. Lines 1 (both columns), 3, 4, 5 and 7 are hand-drawn open zeros. ARITHMETIC INCONSISTENCY ON THE FORM, kept verbatim and NOT corrected: line 5 subtotal is 0 and line 6 expenditures is 50.00, yet line 7 closing balance is written as 0 (0 - 50.00 would be -50.00). Line 2 records 50.00 in both columns."
+ }
+}

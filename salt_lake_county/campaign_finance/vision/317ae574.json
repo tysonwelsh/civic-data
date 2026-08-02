@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "$60.00",
+ "beginning_balance": "341.47",
+ "ending_balance": "281.47",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "$60.0",
+  "line5_subtotal": "341.47"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/snelgrove_R_Mayor_2031_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2030",
+  "source_pdf": "raw/clerk_legacy/snelgrove_R_Mayor_2031_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 3 re-rendered at -r 300",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "THE SUMMARY PAGE IS ON PAGE 3, not page 2 - page 2 is a near-blank sheet (only faint show-through). The address, phone and email fields on the cover are REDACTED with solid black boxes. The form body is the 2012 template (interim dates read 'period ending March 31, 2012' etc.) but the Year-End box is checked and it is signed 1-28-14 and stamped received JAN 28 2014, i.e. the year-end report for calendar 2013 - which matches the clerk listing's '2013 Summary Report' and NOT the manifest's election_year 2030 / date 2031-01-01 (those look like a bad parse of the filename token '2031'). Cents are raised superscripts. Line 2 Column B's cents are a SINGLE superscript zero ('$60.0'), unlike Column A's '00'; recorded verbatim. Lines 1 and 4 Column A are heavily overwritten slashed zeros."
+ }
+}

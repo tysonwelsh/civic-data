@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "b7f7af87",
+ "source_filing": "raw/y2026/2026_ugd_92078f_d61dc956.pdf",
+ "document_id": "2026_ugd_92078f_d61dc956",
+ "page_start": 1,
+ "page_end": 4,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:38:01Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Alvin Thurgood",
+ "office_stated": "weber county commission seat A",
+ "report_type_stated": "7 days before the candidates' convention - Convention",
+ "filing_date_stated": "2026-03-25",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "3.00",
+   "cum": "3.00"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "",
+   "cum": "0.00"
+  },
+  "ending_balance": {
+   "last": "",
+   "this": "3.00",
+   "cum": "3.00"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "medium",
+  "ending_balance": "high"
+ },
+ "notes": "2026 FORM VARIANT - a redesigned 'Campaign Financial Summary' table (Total Contributions / Total Campaign Expenditures / Ending Balance x Last Report | This Report | Cumulative Total) plus a SEVEN-item Filing Schedule (Convention / May 26 Pre-Primary / June 16 Primary / Oct 6 Pre-General / Oct 27 General / Dec 3 Post-General / 30 days after withdrawal or elimination). HANDWRITTEN. The expenditure 'This Report' cell is LEFT BLANK here: the glyph is ambiguous between 0 and 2 even at 500dpi - not guessed; the CUMULATIVE cell reads 0.00 clearly. FILING DATE 3/25/26 IS LEGIBLE ON THE FORM but index.csv carries a blank date (needs_review=1) - see AVAILABILITY.md, this is a recoverable-attribution finding, not a source gap. County-redacted address and cell phone."
+}

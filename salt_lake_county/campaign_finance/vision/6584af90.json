@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3300",
+ "total_expenditures": "$2300",
+ "beginning_balance": "$54",
+ "ending_balance": "$1054",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$3354"
+ },
+ "cover": {
+  "candidate": "RANDY HORIUCHI",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNCIL",
+  "district_number": "AT-LGA",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-06",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "district_number": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rhoriuchi_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/rhoriuchi_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Year-End box checked; NEITHER amendment box is checked. Clerk-stamped RECEIVED JAN 31 2006; Summary Page header 'HORIUCHI, 1-31-06, page 2 of 4'. No cents are written anywhere on this Summary Page - every figure is whole dollars with a dollar sign, kept verbatim. Column B is blank on both lines 1 and 2. Arithmetic is exact (54 + 3300 = 3354; 3354 - 2300 = 1054). The District Number box is scrawled 'AT-LGA' (an abbreviation of At-Large; the trailing letters are ambiguous) - recorded verbatim at low confidence. The beginning balance of $54 matches the '$54 ON HAND CASH' annotation on the filer's amended 2004 year-end report (key e4726db4)."
+ }
+}

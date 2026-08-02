@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "23,055",
+ "total_expenditures": "64,174.00",
+ "beginning_balance": "44,722.93",
+ "ending_balance": "3,403.43",
+ "aggregate": {
+  "total_contributions_to_date": "154,067.65",
+  "total_expenditures_to_date": "149,867.82",
+  "line5_subtotal": "67,777.43"
+ },
+ "cover": {
+  "candidate": "Ross Romero",
+  "party": "Democratic",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "2/4/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "low",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Romero_R_12_Final_Amended_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ross Romero",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Romero_R_12_Final_Amended_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Year-End box AND amendment 'Yes' are both checked; the 'date of report' blank beside Yes was left empty. Despite the clerk listing calling this 'Amendment to 2012 Summary Report/Dissolution', the Final/Dissolution box is NOT checked. Signed 2/4/13, clerk stamp FEB 04 2013. A handwritten note under the table reads 'Schedules A + B were unchanged from report filed 1/29/13.' Cents on Lines 1B, 2A, 2B, 5, 6 and 7 are raised superscripts, transcribed with a decimal point; Line 1 Column A ('23,055') carries no cents at all. LOW-CONFIDENCE FIGURE: Line 3 is transcribed verbatim as 44,722.93, but the penultimate digit is genuinely ambiguous between 4 and 9 even at 300 dpi - a reading of 44,722.43 would be the arithmetically consistent one (44,722.43 + 23,055 = 67,777.43 = Line 5) and matches Line 7 of the amended April interim. Recorded as read; do not silently 'correct' it."
+ }
+}

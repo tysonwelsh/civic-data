@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5500",
+ "total_expenditures": "6400",
+ "beginning_balance": "921.06",
+ "ending_balance": "21.06",
+ "aggregate": {
+  "total_contributions_to_date": "5500",
+  "total_expenditures_to_date": "6400",
+  "line5_subtotal": "6421.06"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header '2010 amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_10_Final_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_10_Final_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2012-vintage blank hand-titled '2010 amendment', signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Lines 1 and 2 write the figures without cents ('5500', '6400'); lines 4 and 6 write the same amounts with cents ('5500.00', '6400.00') - both recorded as printed on their own lines. Line 3 chains from the 2009 amendment's line 7 (921.06). Arithmetic checks: 921.06 + 5,500 = 6,421.06 and 6,421.06 - 6,400 = 21.06."
+ }
+}

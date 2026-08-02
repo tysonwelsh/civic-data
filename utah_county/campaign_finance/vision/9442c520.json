@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountySurveyor-RatcliffeGary-061410.pdf",
+ "key": "9442c520",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "GARY RATCLIFFE",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "COUNTY SURVEYOR",
+   "residence_city": "SPRINGVILLE",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/14/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "6,361.05",
+    "contrib_cumulative": "6,361.05",
+    "expend_this_period": "6,361.05",
+    "expend_cumulative": "6,361.05",
+    "balance_beginning": "-0-",
+    "subtotal_before_expend": "6,361.05",
+    "balance_close": "-0-"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "6,361.05",
+    "line1_total_contributions_colB": "6,361.05",
+    "line2_total_expenditures_colA": "6,361.05",
+    "line2_total_expenditures_colB": "6,361.05",
+    "line3_balance_beginning": "-0-",
+    "line4_total_contributions_from_line1A": "6,361.05",
+    "line5_subtotal_lines3plus4": "6,361.05",
+    "line6_total_expenditures_from_line2A": "6,361.05",
+    "line7_balance_at_close": "-0-"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; the scan is a fax (header 'Jun.14. 2010 4:52PM Ut Co Public Works 801-851-8612'). STRUCK-THROUGH FIGURES ON LINE 1: in BOTH Column A and Column B the filer first wrote '$ 2,700.00', struck it out, and wrote '6,361.05' above it. The surviving (corrected) value 6,361.05 is what is transcribed; the struck 2,700.00 is recorded here and NOT used. Medium confidence on line 1 solely because of the overwrite. Lines 3 and 7 are written '-0-' (a dash-zero-dash glyph), transcribed verbatim. Cents throughout are raised superscripts ('6,361' with a raised '05'); transcribed as full decimals. AMENDMENT: NEITHER the 'Yes' NOR the 'No' box is checked - the filer left the amendment question blank, so is_amendment is '' (blank on the form is not 'No'). office_index said 'County Surveyor' and the page agrees. candidate_index was blank; the page names GARY RATCLIFFE."
+  }
+ ],
+ "notes": ""
+}

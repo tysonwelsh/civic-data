@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatB-BarrattTedB-102510.pdf",
+ "key": "42b9fe0c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:32:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Ted B. Barratt",
+   "party_printed": "Democratic",
+   "office_printed": "Utah County Commission Seat B.",
+   "residence_city": "American Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/25/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "7,034.00",
+    "contrib_cumulative": "7553.48",
+    "expend_this_period": "6540.82",
+    "expend_cumulative": "7060.30",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "7,034.00",
+    "balance_close": "493.18"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,034.00",
+    "line1_total_contributions_colB": "7553.48",
+    "line2_total_expenditures_colA": "6540.82",
+    "line2_total_expenditures_colB": "7060.30",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "7034.00",
+    "line5_subtotal_lines3plus4": "7,034.00",
+    "line6_total_expenditures_from_line2A": "6540.82",
+    "line7_balance_at_close": "493.18"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "medium",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The Political Party cell is the same fast scrawl as this filer's June report, read as 'Democratic' at medium confidence; the Office Seeking line reads 'Utah County Commission Seat B.' (heavy overlapping hand, medium confidence) and its seat letter agrees with index.csv. Line 3 Balance at Beginning is a struck-through circle - the filer's zero, transcribed as 0 at medium confidence - even though this filer's prior report (key 8c629a81, 6-15-2010) also closed at 0, so the two are consistent. Note the cover-page signature line has 'accurate and correct' struck through by a pen stroke; that is a stray mark over pre-printed text, not a value change."
+  }
+ ],
+ "notes": ""
+}

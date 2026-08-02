@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,500.00",
+ "total_expenditures": "6,100.00",
+ "beginning_balance": "28,112.58",
+ "ending_balance": "27,512.58",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "33,612.58"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan. 31/11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rhoriuchi_10_YearEnd_CntyCncl_AtLrgC.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/rhoriuchi_10_YearEnd_CntyCncl_AtLrgC.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the later (2010-11 era) form face: it carries BOTH a top-row 'Office' box and a separate 'Office Sought' box, and the Final block is titled 'FINAL / DISSOLUTION REPORT'. The top-row Office box is blank, so office_sought is taken from the 'Office Sought' box ('Council', district 'At Large'). Column B is headed 'Aggregate Total' and is blank on both lines. The cover's signature Date line is blank, so report_date comes from the Summary Page header ('Jan. 31/11'); the clerk stamp is RECEIVED JAN 31 2011, i.e. this is the year-end report FOR 2010 filed in Jan 2011. All money cells write the cents as a raised superscript. Arithmetic is exact (28,112.58 + 5,500.00 = 33,612.58; less 6,100.00 = 27,512.58). Neither amendment box is checked."
+ }
+}

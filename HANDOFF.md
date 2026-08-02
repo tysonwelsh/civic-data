@@ -1,87 +1,83 @@
-# HANDOFF — resume point (2026-08-01: COUNTY DATA ACQUISITION package, owner-authorized)
+# HANDOFF — resume point (2026-08-02: COUNTY ACQUISITION + VISION-TOTALS both COMPLETE)
 
-> **Read in order: root `CLAUDE.md` → this file → `TODO.md` (the package checklist) →
-> `GOTCHAS.md` (standing rules). Options menu: `LEADS.md`. Publish criteria: `SHIP_GATE.md`.
-> One session banner, overwritten per handoff (prior banner: TODO_ARCHIVE.md anchor
-> 2026-08-01-HANDOFF).**
+> **2026-08-02 addendum — the vision-totals tranche is DONE on top of the state below.**
+> Every county CF cover was vision-read (7-agent owner-approved wave; survived a
+> session-limit kill and a network outage via cache-checkpoint discipline). gov.db (built
+> 2026-08-02T12:13) now carries **cf_filing 3,802** (1,891 city + 1,911 county stated-totals
+> rows), caveat **104** (county rows rewritten to totals-tier truth), all gates green
+> (44/44 · doc checks 13/13 · marquee 5/5 · city cf rows byte-identical to the pre-package
+> baseline). cf_cycle remains CITY-ONLY by design (county rollup = design lead in
+> LEADS.md). The ZERO-GLYPH RULING is decided and executed (owner 2026-08-02: Ø/-0-/"zero"
+> = the digit 0, verbatim preserved; dash/N-A/empty stay blank — GOTCHAS.md carries it
+> repo-wide; 7 summit cells + wasatch Kahler promoted, re-federated, gates green). Owner
+> decisions open: COMMIT (all work uncommitted) and Phase B of tranche 3 (vision
+> itemization of the scanned majority — per-wave approval). TRANCHE 3 PHASE A is DONE
+> (2026-08-02 evening): calibration suite (14 specimens), 6 shared families + driver
+> capabilities (city byte-identity proven), born-digital sweep (1,311 itemized rows, 6
+> counties, geometry-anchored), federated + gated (cf_contribution 25,147 /
+> cf_expenditure 19,987; 44/44; doc checks PASS). Everything below this banner describes
+> the 2026-08-01 state it built on.
 
-## Where the repo stands (verified 2026-08-01T01:08 build)
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-01-COUNTY-ACQUISITION).**
 
-The [DEBT] queue is **EMPTY**; SHIP_GATE reads P1/P2/P3 ALL PASS; the repo is on a private
-git remote (`github.com/tysonwelsh/civic-data`, main) with every 2026-07-31/08-01 work
-package committed. gov.db: 44/44 federation gate · caveat 92 · motion 78,561 · vote 247,459
-· election_race 688 · election_result 5,482 · `check_doc_numbers.py` 13/13 · marquee
-examples 5/5. G9 (public flip) is deliberately parked. **The build auto-runs the federation
-gate; run `python3 scripts/check_doc_numbers.py` after any federation and reconcile what it
-names.**
+## Where the repo stands (verified 2026-08-01T16:07 build)
 
-## THE WORK PACKAGE (owner-authorized 2026-08-01, from live owner queries)
+The COUNTY DATA ACQUISITION package (both halves) is **DONE and federated** — one
+federation, all gates green: auto-gate **44/44**, integrity ok, FK 0, reconciliation
+exact, `check_doc_numbers.py` **13/13**, marquee examples **5/5**, `v_council_current`
+193/31. [DEBT] is EMPTY (the st_george Larkin item was filed, verified at source, FIXED,
+and closed within this session). gov.db headline: motion 78,561 · vote 247,459 ·
+**election_race 810** · **election_result 5,820** · caveat **104** · cf_contribution
+**24,741** · cf_filing 2,082 · fts_minutes 14,696. G9 (public flip) still parked.
 
-The owner tested the repo with "who was the single largest donor for county-level races in
-Salt Lake County?" — unanswerable twice over. Authorized response, two packages:
+## What this session landed (detail: TODO.md changelog + TODO_ARCHIVE anchor)
 
-### Package A — SLCo county-office ELECTION RESULTS
+- **Package A** — SLCo even-year canvasses 2002–2026 in-repo + parsed (3 never-parsed
+  eras cracked; dual reconciliation gates), 122 audited county-office races federated
+  into election_race, 338 county-office tally rows into election_result (new columns
+  `election_date`/`certified_votes`/`votes_basis` — use certified_votes under 2024/2026
+  suppression). Loader changes in `build_cities_db.py` (backed up).
+- **Package B** — 8 county `campaign_finance/` datasets, ~2,270 county-office filings
+  2006–2026 (all row offices). STRUCTURED so far: salt_lake (EasyVote 2024/2026
+  itemized; **the owner's "largest county-race donor" question now answers from
+  cf_contribution**) + juab (3 transcribed 2020 filings). The other six are
+  document-tier awaiting the vision pass. `load_cf` now iterates ALL entities; city rows
+  proven byte-identical (baselines in `_backups/2026-08-01-county-acquisition/`).
+- **st_george DEBT fix** — two state-channel AMENDED 2023 filings ingested +
+  vision-transcribed (itemized = stated exactly); Larkin 2023 cycle corrected to
+  **$33,610 / $31,491.92**; originals superseded-marked; validate_finance PASS.
+- **Caveats 92→104** (8 county-CF ceilings, 4 SLCo county-election rows, cf-coverage
+  rewritten two-tier). GOTCHAS.md +7 portal rules (PMN keyword no-op; state-folder
+  labels lie BOTH ways — classify by in-form office line + cycle parity; Wayback
+  200-with-zero-bytes; EasyVote API recipe; BigIP-dead SLCo portal; Wix headers;
+  backslash URLs). LEADS.md: full wave consolidation + 3 WATCHES + the owner's
+  school-board ruling (ledgered, out of scope). wasatch_county → `built_dbless`
+  (first dataset); hierarchy regenerated; coverage.json + DATA_DICTIONARY.md rebuilt.
+- **`.gitignore`**: `slco_county_results_long.csv` (78 MB, derived) kept local-only —
+  reversible owner call.
 
-**Gap:** `election_result` holds county-office contests (Commission/Sheriff/Clerk/Assessor/
-Attorney, even-year `general`/`primary` types) for summit (2006–2024), weber (2006–2024),
-utah (2016–2024), juab (2024) — but **salt_lake_county's 2,172 rows are odd-year MUNICIPAL
-canvasses only**. The county's own offices (Mayor, 9 Council seats, Sheriff, row offices)
-have zero result rows. Also: NO county-office race anywhere has an audited `election_race`
-row (that layer is city-only).
+## NOT yet done (owner decisions / follow-ups — all in LEADS.md or [GATED])
 
-**Deliverables:** (1) acquire SLCo even-year canvasses (Clerk's archive; same SOVC family
-formats the archive normalizer already parses — recon the depth, aim to match the 2007+
-municipal depth, floor negotiable at recon); (2) land raws + normalized rows IN-REPO at
-`salt_lake_county/elections/` per the county canvass conventions (washington/juab pattern —
-NOT the ~/Desktop archive, which is local-only and unpublishable); (3) federate as
-`election_type='general'/'primary'` rows; (4) promote SLCo county-office winners into the
-AUDITED `election_race` layer (25-col conventions, cross-checked winners); (5) file the
-other-counties election_race promotion as a follow-on lead. ⚠ Washington claims canonical
-elections "2018–2025" but federates municipal-2019+ only — verify at its source while in
-this area (LEADS.md, observation not diagnosis).
+1. **Vision-transcription pass scope** (owner): cheap first tranche = office-line-only on
+   ~195 unresolved filings (cache 128 / utah 19 / washington 48); full-dollar tranches
+   county-by-county after. `cf-vision-transcribe` needs a county-tier entry point.
+2. **Metro-township CF** (297+57 plain-GET filings) — likely closes kearns
+   `cf-blocked-cycles`.
+3. SLCo 2016–2021 CF portal era (browser automation or GRAMA); juab + weber + washington
+   GRAMA asks drafted in their AVAILABILITY files.
+4. election_race promotion for the OTHER counties' county-office tallies (Package-A
+   pattern is the reference).
+5. Shared CF family candidates (6 specs) + driver per-filing/per-sheet `is_incremental`
+   capability; `validate_finance.py` document-only conformance mode.
+6. The session's work is **UNCOMMITTED** — commit needs the owner's go
+   (`_backups/2026-08-01-county-acquisition/` holds every pre-edit original + the
+   byte-identity baselines).
 
-### Package B — county-candidate CAMPAIGN FINANCE, 7 counties
+## Discipline reminders (unchanged)
 
-**Gap:** `cf_contribution` has zero county-entity rows anywhere. **Scope: the 7 counties
-with a repo city** — salt_lake, utah, weber, cache, summit, washington, juab. (OWNER
-QUESTION to raise at plan time: wasatch — park_city's second straddle county — is
-registered-only with no build; include its CF?)
-
-**Deliverables per county:** a `campaign_finance/` dataset in the county entity dir per the
-city conventions (index.csv + raw/ + text/ + AVAILABILITY.md + CLAUDE.md; structured
-contributions/expenditures/cycle_totals via the shared `scripts/campaign_finance/` lib
-where filings support it; `cf-vision-transcribe` for scans — the $0-API default). Recon
-each county's channel first: county clerk disclosure pages AND the state
-`disclosures.utah.gov` system (which carries county-office candidates — a real channel
-here, unlike the municipal layer where it was gap-filler only). ⚠ The cf federation loader
-may be CITY-scoped — check `build_search_layer.py`'s cf loaders and extend for county
-entities if needed (shared-script change: backup + prove city rows byte-identical).
-Db-less washington/juab still get the dataset (their modules federate without a db).
-
-## Discipline (unchanged, load-bearing)
-
-Recon BEFORE acquisition (write/extend each county's recon notes); cardinal rules (honest
-gaps are data; verbatim values never overwritten; derived layers regenerated); backups to
-`_backups/<date>-county-acquisition/`; conflict-planned agent waves with ONE federation at
-the end; **agent launches (count/model/effort) are presented for OWNER APPROVAL first —
-Opus default, Fable where judgment-heavy** (memory: approve-agent-launches); leads →
-LEADS.md; new debt needs primary-source evidence; a closure that falsifies a doc claim
-fixes the doc in the same session; after federation run check_doc_numbers + reconcile
-(election_race 688 and election_result 5,482 WILL move). PRIVACY.md applies: county CF
-text layers ship verbatim (donor addresses included, documented); structured rows carry
-donor city/state only. Add caveat rows for whatever ceilings the sources impose, and
-update the cf-coverage caveat (it currently says "29 of 31 cities" — county coverage
-changes its text).
-
-## Operational pointers
-
-- SLCo SOVC parsing: the proven normalizer families live at
-  `~/Desktop/slco-election-archive/scripts/normalize_sovc.py` (local-only) — port what's
-  needed INTO the repo rather than deepening the desktop dependency.
-- County canvass conventions: `washington_county/elections/` + `juab_county/elections/`
-  are the reference implementations; `salt_lake_county/elections/` holds the municipal
-  canonical already (extend, don't disturb).
-- CF conventions: any built city's `campaign_finance/CLAUDE.md` + the shared lib +
-  `.claude/skills/cf-vision-transcribe/`. Never sum cf_filing columns; cycle_totals rules.
-- The federation build is hardened (lockfile + atomic + auto-gate); never run it while
-  agents are live; ONE federation per package.
+Cardinal rules (CLAUDE.md); GOTCHAS.md before touching portals or builders; ONE
+federation per work package (this package's is done — the next change re-federates);
+after any federation run `check_doc_numbers.py` and reconcile; leads → LEADS.md; [DEBT]
+needs primary-source evidence; agent waves need owner approval (count/model/effort).

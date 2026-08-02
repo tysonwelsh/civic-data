@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "index_path": "raw/2020/2020_DecJGranger.pdf",
+    "cache_key": "b2d8724d",
+    "entity": "wasatch_county",
+    "election_year": "2020",
+    "reporting_period_index": "December 2020 (30 days after General)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "total_contributions",
+      "total_expenses"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Joey Diane Granger",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "12/03/2020",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "30 Days after the General Election"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "1908.69",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "25.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1933.69",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "1908.69",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "25.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1933.69",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed."
+}

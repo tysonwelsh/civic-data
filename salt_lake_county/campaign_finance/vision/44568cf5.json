@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,000.00",
+ "total_expenditures": "1239.33",
+ "beginning_balance": "",
+ "ending_balance": "5760.67",
+ "aggregate": {
+  "total_contributions_to_date": "7,000.00",
+  "total_expenditures_to_date": "1239.33",
+  "line5_subtotal": "7,000.00"
+ },
+ "cover": {
+  "candidate": "Jim Winder",
+  "party": "Democrat",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/4/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwinder_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jwinder_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LINE 3 (Balance at Beginning of Reporting Period) IS BLANK - recorded as '' (the cell exists and the filer left it empty), not 0, even though Line 5 equals Line 4 which implies a zero opening balance. Every figure writes the cents as a raised superscript over a rule (7,000 superscript 00; 1239 superscript 33; 5760 superscript 67) - transcribed with a decimal point. Neither amendment box is checked. Signed 4/4/06 but clerk-stamped APR 05 2006; the Summary Page's Date-of-Report box also reads 4/4/06. Page-of box reads 'Page 1 of 3'. Column A arithmetic checks out (7,000.00 - 1,239.33 = 5,760.67)."
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "filing_key": "wayback_financialreports|2015-01-05|TOM DURRANT",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/1 5 2015 Summary - Tom Durrant_01-07-2015.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Summary - Tom Durrant_01-07-2015.xls",
+   "doc_kind": "summary",
+   "sha256": "47436920c73e25b585d44b4c8d0acf180a2a8b848659cd6ce492ef49bee62c37",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Contributions - Tom Durrant_01-07-2015.xls",
+   "doc_kind": "contributions",
+   "sha256": "6d7ad2cb528219bed74606cda355e8dc513d58475427d1d3464192ab0aec5ff0",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Expenditures - Tom Durrant_01-07-2015.xls",
+   "doc_kind": "expenditures",
+   "sha256": "779994c9789b4af9a2da9c01122159b4e88bde5a56caa1bd54d8fde77ab9aec2",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Tom Durant",
+  "office": "ASSESSOR",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Assessor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Tom Durant",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "4500.0",
+   "contrib_le50": "106.0",
+   "expenses": "3594.81",
+   "balance": "1011.19"
+  },
+  {
+   "submitted": "2014-06-10",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "1000.0",
+   "contrib_le50": "22.0",
+   "expenses": "1778.1",
+   "balance": "255.09"
+  },
+  {
+   "submitted": "2014-08-22",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "331.0",
+   "balance": "-75.91"
+  },
+  {
+   "submitted": "2014-10-17",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "100.0",
+   "contrib_le50": "0.0",
+   "expenses": "0.0",
+   "balance": "24.09"
+  },
+  {
+   "submitted": "2015-01-05",
+   "date_due": "2015-01-05",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "0.0",
+   "balance": "24.09"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2015-01-05",
+   "date_due": "2015-01-05",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 4,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "0.0",
+   "expenses_this": "0",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "24.09",
+   "balance_end": "24.09",
+   "balance_last_printed": "24.09",
+   "balance_last": "24.09",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

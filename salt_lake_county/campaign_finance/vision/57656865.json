@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "DON W. JOHNSTUN",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1-26-2007",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/djohnstun_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Don W. Johnstun",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/djohnstun_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "One-page 'Dissolution of a Candidate Campaign' form (SLCo Ordinance 2.72A.205), NOT the Financial Disclosure Report - it has no Type-of-Report checkboxes, no party/office boxes and no Summary Page, so those fields are null. Handwritten: Name of Committee 'CAMPAIGN COMMITTEE FOR DON JOHNSTUN'; County Office Candidate 'DON W. JOHNSTUN'; Committee Secretary 'DON W. JOHNSTUN'; Date Committee Was Established '3-17-2006'. Signed 1-26-2007. Clerk stamp RECEIVED JAN 31 2007."
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2016/Gil Almquist_Commission C_Financial Campaign Report_6_17_2016_06-24-2016.pdf",
+ "channel": "wayback_forms2016",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2016/Gil Almquist_Commission C_Financial Campaign Report_6_17_2016_06-24-2016.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2016/Gil Almquist_Commission C_Financial Campaign Report_6_17_2016_06-24-2016.pdf",
+   "doc_kind": "statement",
+   "sha256": "fdc5d7456ef36f0b3a61f48e25702bd766a4404227f2ba48bf4eb2f0d9d967cd",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gilbert Almquist",
+  "office": "Washington County Commissioner seat C",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": "Melanie Abplanalp"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Gilbert Almquist JUN 17 2016",
+ "index_reporting_year": "2016",
+ "index_cycle_year": "2016",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "6/17/2016",
+   "period_start": "25-Jan-16",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "20117.51",
+   "contrib_gt50_this": "20117.51",
+   "contrib_gt50_cum_printed": "20117.51",
+   "contrib_gt50_cum": "20117.51",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "20117.51",
+   "expenses_this": "20117.51",
+   "expenses_cum_printed": "20117.51",
+   "expenses_cum": "20117.51",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "0.00",
+   "balance_this": "0",
+   "balance_end_printed": "0.00",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "TYPED cover form (a typed page, SCANNED -- the PDF carries no usable text layer: `pdftotext` returns 5 bytes -- so the figures here were read from the page IMAGE). The cover states 20117.51 for contributions >$50 and 20117.51 for expenses, both in the THIS-report and CUMULATIVE columns, ending balance 0.00. NOTE CORRECTED 2026-08-02 (page images re-read at 200dpi): the previous note asserted the figures came from the text layer, gave the Form A total as $20,917.51, cited a 'Grand Total 20,449.51', and recorded a FILER INCONSISTENCY. None of that is in the document. Form A's printed TOTAL (p.3) is $20,117.51 and Form B's printed TOTAL (p.5) is $20,117.51; there is no 'Grand Total' line anywhere in the filing. Cover line 1 = Form A total = Form B total = 20,117.51, so the filing is INTERNALLY CONSISTENT and there is no inconsistency to retain. The transcribed money values were verified unchanged and correct; only this annotation was wrong."
+  }
+ ],
+ "unreadable": [],
+ "notes": "pages 4-5 are a second, separate copy of the Form A/B pages | annotation corrected 2026-08-02; transcribed values unchanged",
+ "generated_utc": "2026-08-02T03:45:03Z"
+}

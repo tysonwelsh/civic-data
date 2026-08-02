@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_CS.Phelps.pdf",
+ "key": "f418f1ca",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:04:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jim Phelps",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Sheriff",
+   "residence_city": "Alpine",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6-18-2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "72,831.37",
+    "contrib_cumulative": "",
+    "expend_this_period": "57,222.21",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "72,831.37",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "57,222.21",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "",
+    "line4_total_contributions_from_line1A": "",
+    "line5_subtotal_lines3plus4": "",
+    "line6_total_expenditures_from_line2A": "",
+    "line7_balance_at_close": ""
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink. The filer completed ONLY line 1 and line 2, Column A. Column B (Year-to-Date) on both lines and the ENTIRE Balance Summary (lines 3, 4, 5, 6, 7) were LEFT BLANK by the filer - those slots are '' and are NOT zero; nothing was computed or carried over from the completed cells. Line 1's final cent digit is written over the cell's right border and partly clipped; read as '72,831.37' at medium confidence. Amendment: NEITHER Yes nor No is checked, so is_amendment is ''. Summary page header carries 'Phelps' and 'Date of Report 6-18-18'; the cover signature date is 6-18-2018. Office field 'Utah County Sheriff' agrees with office_index."
+  }
+ ],
+ "notes": ""
+}

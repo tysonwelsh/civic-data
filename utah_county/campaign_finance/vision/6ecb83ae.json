@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14A-Graves_1.pdf",
+ "key": "6ecb83ae",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gregory J. Graves",
+   "party_printed": "Republican",
+   "office_printed": "County Comissioner \"A\"",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-16-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "1930.86",
+    "contrib_cumulative": "1930.86",
+    "expend_this_period": "1930.86",
+    "expend_cumulative": "1930.86",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "1930.86",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "1930.86",
+    "line1_total_contributions_colB": "1930.86",
+    "line2_total_expenditures_colA": "1930.86",
+    "line2_total_expenditures_colB": "1930.86",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "1930.86",
+    "line5_subtotal_lines3plus4": "1930.86",
+    "line6_total_expenditures_from_line2A": "1930.86",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "DIFFERENT FORM TITLE: this filing uses the county-candidates-only sheet - '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' with the left margin reading 'COUNTY CANDIDATES' - not the '...FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' sheet the rest of this 2014 chunk uses. Handwritten. The filer's own spelling 'Comissioner' (one m) is preserved, as are the quotation marks around the seat letter: 'County Comissioner \"A\"'. Lines 3 and 7 are a slashed-zero glyph, read as 0 at medium confidence. Report type is 'Seven days preceding the Primary Election' (signed 6-16-14), consistent with index reporting_period '6-14 Graves'. Index candidate is blank; the page names Gregory J. Graves. Office agrees with index.csv 'County Commission Seat A'. Summary page header shows 'Page 1 of 3'."
+  }
+ ],
+ "notes": ""
+}

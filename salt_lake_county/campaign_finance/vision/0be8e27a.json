@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "13.91",
+ "beginning_balance": "13.91",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "13.91",
+  "line5_subtotal": "13.91"
+ },
+ "cover": {
+  "candidate": "DAVID WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "C.C.",
+  "district_number": "#3",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/16/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Wilde_D_Council3_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Wilde_D_Council3_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Only the FINAL / DISSOLUTION box is checked \u2014 the Year-End box is NOT, although the clerk listing calls this the '2013 Summary Report/Dissolution'; the form is dated 1/16/2014 and was received JAN 29 2014. Lines 1 (both columns), 4 and 7 are written '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'COUNTY COUNCIL #3'; the Office Sought field is abbreviated 'C.C.' with District Number '#3'."
+ }
+}

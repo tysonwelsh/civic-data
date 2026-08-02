@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "33464.04",
+ "total_expenditures": "4296.47",
+ "beginning_balance": "1041.19",
+ "ending_balance": "30208.76",
+ "aggregate": {
+  "total_contributions_to_date": "33464.04",
+  "total_expenditures_to_date": "4296.47",
+  "line5_subtotal": "33 505.23"
+ },
+ "cover": {
+  "candidate": "James M Winder",
+  "party": "Dem",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/07",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jwinder_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_jwinder_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "2008-era form variant (no year in the title; the top row has a separate 'Office' box reading 'Sheriff', and the 'Office Sought' box also reads 'Sheriff'). NEITHER amendment box is checked. Date beside the signature reads '1/30/07' but the Summary Page 'Date of Report' is 1-31-08 and the clerk stamp is JAN 31 2008 - the signature year looks like a filer error; retained verbatim. INTERNAL INCONSISTENCY retained as printed: Line 5 is written '33 505.23' (confirmed on a 300dpi crop) although Line 3 + Line 4 (1041.19 + 33464.04) and Line 7 (30208.76) are both consistent with 34,505.23. No reconciliation applied."
+ }
+}

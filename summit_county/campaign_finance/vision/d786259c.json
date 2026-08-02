@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1065",
+  "path": "raw/2014/1065_martin.pdf",
+  "page": 1,
+  "sha256": "75aef2b126bcffeee6c9f3c832d413983647e312df50703687d3f0074266fc28",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1065/martin",
+  "index_text_quality": "low",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Steve Martin",
+  "office_verbatim": "Assessor",
+  "party_verbatim": "Dem",
+  "signature_date_as_printed": "10-24-14",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "0",
+    "last_report": "0",
+    "cumulative_totals": "0"
+   },
+   "contrib_le50": {
+    "current_report": "0",
+    "last_report": "0",
+    "cumulative_totals": "0"
+   },
+   "total_expenditures": {
+    "current_report": "1178.28",
+    "last_report": "0",
+    "cumulative_totals": "1178.28"
+   },
+   "campaign_balance": {
+    "current_report": null,
+    "last_report": "0",
+    "cumulative_totals": null
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "Campaign balance: the Current and Cumulative cells are written then struck through/scribbled over by the filer — value not readable, left null (Last Report cell reads 0). Contribution cells are a handwritten '0' (no dollar sign, no cents)."
+}

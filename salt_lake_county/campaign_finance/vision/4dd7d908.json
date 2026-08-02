@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6291.31",
+ "total_expenditures": "$25,415.42",
+ "beginning_balance": "$146,440.86",
+ "ending_balance": "127,316.75",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$152,732.17"
+ },
+ "cover": {
+  "candidate": "Aimee Winder Newton",
+  "party": "Republican",
+  "office_sought": "council",
+  "district_number": "3",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/9/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Winder-Newton-Aimee__B8E9095C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Winder Newton, Aimee",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Winder-Newton-Aimee__B8E9095C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'2022' title. Line 1 printed without a thousands comma ('$6291.31') and Lines 4/6/7 without the '$' - kept verbatim. NEITHER amendment box is checked. Column B blank; Summary header blank."
+ }
+}

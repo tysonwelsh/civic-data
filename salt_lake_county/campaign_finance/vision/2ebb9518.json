@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "22,725.00",
+ "total_expenditures": "14504.68",
+ "beginning_balance": "12,885",
+ "ending_balance": "21,105.32",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "35,610.00"
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mcrockett_september152008report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mcrockett_september152008report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1 and 5 use the RAISED-SUPERSCRIPT CENTS convention (22,725 with a small raised '00'; 35,610 with a small raised '00'), transcribed here with a decimal point as 22,725.00 and 35,610.00. Line 2 Column A is written with a space instead of a thousands comma ('14 504.68'), recorded as 14504.68; line 6 writes the same figure with the comma (14,504.68). Both Column B cells are BLANK ('' , not 0). Line 3 (12,885) carries forward the June amendment's line 7 exactly and every line reconciles. Page box reads 'Page 1 of 3'. Neither amendment box is checked."
+ }
+}

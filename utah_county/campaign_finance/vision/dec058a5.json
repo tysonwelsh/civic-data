@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Keven_Ewell_Redacted.pdf",
+ "key": "dec058a5",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Keven Ewell",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "Yes",
+   "report_date": "5-17-2024",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "2209.96",
+    "contrib_cumulative": "2609.96",
+    "expend_this_period": "0",
+    "expend_cumulative": "2609.96",
+    "balance_beginning": "-2209.96",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "-2209.96",
+    "boxB_contributions_received_this_period": "2209.96",
+    "boxC_contributions_received_year_to_date": "2609.96",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "2609.96",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed/born-digital fillable form, printed and signed; summary figures are typed. THE OFFICE FIELD IS COMPLETELY BLANK on the cover page - the filer left it empty, so office_printed is '' (index.csv carries 'County Assessor'; the page states no office - DISAGREEMENT, page has no claim). The form prints no political-party field. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''. Amendment box is checked YES with 'Date of Original Report 4/19/2024' written in. Cover-page signature date reads 5/17/24; the 'Date of Report' box (handwritten) reads 5-17-2024 and is used as report_date. Box A is NEGATIVE (-2209.96) as printed, and Box D/F/close are written '0' - transcribed verbatim; no arithmetic was performed or corrected."
+  }
+ ],
+ "notes": ""
+}

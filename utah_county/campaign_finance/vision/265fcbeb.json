@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Oaks_Jake_11.1.22.pdf",
+ "key": "265fcbeb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:34:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jake Oaks",
+   "party_printed": "",
+   "office_printed": "County Clerk",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "11/01/22",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "2083",
+    "contrib_cumulative": "2,366.88",
+    "expend_this_period": "1885.22",
+    "expend_cumulative": "2169.20",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2083",
+    "balance_close": "197.78"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "2083",
+    "boxC_contributions_received_year_to_date": "2,366.88",
+    "boxD_expenditures_made_this_period": "1885.22",
+    "boxE_expenditures_made_year_to_date": "2169.20",
+    "boxF_subtotal_before_expenditures": "2083",
+    "boxG_balance_at_close": "197.78"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form, crisp. NEITHER amendment radio is checked, so is_amendment is \"\" (not 'No'). Formatting is inconsistent between boxes and is preserved exactly: B and F carry no cents and no comma ('2083'), C carries both ('2,366.88'), D and E carry cents but no comma ('1885.22', '2169.20'). Box A is a typed '0' (a written zero, not a blank). Address printed in the clear (1845 E. 230 S., Spanish Fork, UT 84660); signature present, not redacted; the 'Date of Filing' box is empty. This filing's closing balance (197.78) is the opening balance of the same filer's later 'Post General' filing (key 77e1e2f0) - observed, not used to derive anything. The OCR locator guessed variant legacy_colAB; the page is the modern Box A-G form."
+  }
+ ],
+ "notes": ""
+}

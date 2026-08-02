@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "77158.77",
+ "total_expenditures": "30865.39",
+ "beginning_balance": "70306.91",
+ "ending_balance": "116600.29",
+ "aggregate": {
+  "total_contributions_to_date": "77158.77",
+  "total_expenditures_to_date": "30865,39",
+  "line5_subtotal": "147465.68"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Dem",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1-31-08",
+  "report_date": "3/28/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "is_amendment": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_pcorroon_amendment_1-31-08.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_pcorroon_amendment_1-31-08.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older template (04pccfindisc.doc), with a top-row 'Office' box filled 'MAYOR' as well as 'Office Sought' ('MAYOR'). BOTH the Year-End Report box AND the amendment 'Yes' are marked, with date of report '1-31-08'; signed 3/28/08, received MAR 28 2008. A handwritten note under the table reads: 'No change in Amounts - Only change is donor Name which is highlighted' \u2014 and indeed every figure matches the original 2007 summary (key cccdbbc2) exactly. Figures are written without thousands commas; line 2 Column B uses a DECIMAL COMMA ('30865,39'), recorded verbatim, while Column A writes the same figure with a point. Line 7 is written with a space ('116 600.29')."
+ }
+}

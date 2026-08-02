@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/31/07",
+  "form_year": null
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Deanna L. Taylor",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/dturner_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "*** MISLABELED IN THE CHUNK INDEX ***: the chunk file lists this filing under candidate 'Deanna L. Taylor', but the DOCUMENT is DIANE TURNER's dissolution. Transcribed from the form, not the label. Single-page 'Dissolution of a Candidate Campaign' notice (04pccdissolution.doc) - no Summary Page, no checkbox/party/office/district fields. Handwritten: Committee 'Committee to Elect Diane Turner'; County Office Candidate 'Diane Turner'; Committee Secretary 'Anne Ober' (surname reading uncertain); Date Committee Was Established '3/06'; signed 'Diane Turner' 1/31/07. RECEIVED stamp JAN 31 2007."
+ }
+}

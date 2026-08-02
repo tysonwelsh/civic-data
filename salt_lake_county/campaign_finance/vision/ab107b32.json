@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/25/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/JHatch_11_Dissolution_Auditor.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "Auditor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/JHatch_11_Dissolution_Auditor.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - no Summary Page and no totals; the promised final summary financial report is not attached to this PDF. Name of Committee: 'Jeffrey Hatch for County Auditor'; Name of County Office Candidate: 'Jeffrey Hatch'; Committee Secretary: 'Jeffrey Hatch'; Date Committee Was Established: 3/17/2006. Signed 1/25/2012, clerk stamp JAN 27 2012. This is the AUDITOR committee - a different office from the same filer's County Council District 4 committee (keys fd873dbd / 798c1620 / 974eb1c1), which was established 3-9-12 and dissolved 12-24-12. The form carries no party, office-sought or amendment fields."
+ }
+}

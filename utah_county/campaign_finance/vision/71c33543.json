@@ -1,0 +1,49 @@
+{
+ "path": "raw/2018/2018_Lee.pdf",
+ "key": "71c33543",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:58:00Z",
+ "pages_read": [1, 2, 3, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission (Seat B)",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "",
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "unreadable": [],
+   "notes": "THIS FILING HAS NO SUMMARY PAGE. I rendered and read all four pages to confirm (the chunk only pre-rendered p1 and p4): p1 = the cover; p2 = SCHEDULE A (5 handwritten contributions; 'Subtotal for this page $7,900' and 'Total Contributions Received $7,900'); p3 = SCHEDULE B ('Subtotal for this page $1246.75'; its Total Expenditures line holds only a dash); p4 = a second SCHEDULE B ('Subtotal for this page $8819.70'; 'Total Expenditures Received $11,561.14', the cents '14' written above the line). The form's Balance Summary lines 1-7 appear nowhere in the document, so every totals slot is '' - the schedule footers are Schedule A/B totals, NOT summary line 1 / line 2, and are deliberately NOT placed in the totals slots. The cover's signature DATE LINE IS BLANK (signed, undated); the clerk's red received stamp reads '8:52 10-30-2018'. NEITHER amendment radio (Yes/No) is filled, so is_amendment is ''. Office field 'Utah County Commission (Seat B)' agrees with office_index."
+  }
+ ],
+ "notes": "No Summary Page exists in this PDF; verified by reading all 4 pages (p2 Schedule A, p3+p4 Schedule B)."
+}

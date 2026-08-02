@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "0ca21c719d7c2f053d85c21f94529de133c7dd6024d26f8e3b286cd4749232f5",
+ "canonical_path": "raw/2014/2014_cc_Potter_Oct_28_14_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Potter_Oct_28_14_campaign_finance.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Val K. Potter",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "North East",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "North Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger, Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "October 17, 2014",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 17 OCT 2014 PM 02:51",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "199.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "199.00",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "-199.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "-199.00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "North East",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'North East'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Cents on lines 3-4 are superscript '00'."
+}

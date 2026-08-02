@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "index_path": "raw/2018/2018_Financial-Campaign-Report--Scott-Sweat.pdf",
+    "cache_key": "2322e95a",
+    "entity": "wasatch_county",
+    "election_year": "2018",
+    "reporting_period_index": "2018 cycle (as published by the county)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "total_contributions",
+      "total_expenses"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Scott H Sweat",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Attorney",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "7/18/18",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": []
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "6319.20",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "6319.20",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "6319.20",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "6319.20",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed figures. The filer used LAST REPORT + CUMULATIVE and left THIS REPORT blank. No reporting-period box is marked on the face; a clerk stamp dated 7/26/18 appears at the foot."
+}

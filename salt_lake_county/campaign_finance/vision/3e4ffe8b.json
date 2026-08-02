@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "62,30",
+ "total_expenditures": "62,30",
+ "beginning_balance": "0,00",
+ "ending_balance": "62,30",
+ "aggregate": {
+  "total_contributions_to_date": "62,30",
+  "total_expenditures_to_date": "62,30",
+  "line5_subtotal": "0,00"
+ },
+ "cover": {
+  "candidate": "Wade Marshall Miller",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/29/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Miller_W_Council3_2013_YearEnd_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Wade Marshall Miller",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Miller_W_Council3_2013_YearEnd_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to a -r 300 crop of page 2",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DECIMAL COMMAS THROUGHOUT: every figure on this Summary Page is written European-style, '62,30' and '0,00', recorded exactly as written for the downstream repair_money_line whitelist. STRIKE-THROUGH on Line 1: both Column A and Column B originally read '0,00', which is crossed out in blue with '62,30' written above it - the surviving (rewritten) value 62,30 is the one recorded, and the struck 0,00 is noted here. Both the Year-End and the Final/Dissolution boxes are checked, and the Final/Dissolution block is additionally circled in blue; neither amendment box is checked. Top-row Office is abbreviated 'C.C.'; Office Sought reads 'County Council'; District Number is blank (the clerk listing says Council #3). Signed 1/29/14, clerk-stamped JAN 30 2014. THE FORM'S ARITHMETIC IS INTERNALLY INCONSISTENT and is kept verbatim: Line 4 ('from Line 1 Column A') and Line 5 still read 0,00 even though Line 1 was rewritten to 62,30, and Line 7 reads 62,30 where 0,00 minus 62,30 would be negative. Worth a human's eye."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Nate Hendricks",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/15/07",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/nhendricks_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/nhendricks_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice (Salt Lake County Clerk form), faxed by Siegfried & Jensen 2007-02-07 and clerk-stamped RECEIVED FEB 07 2007. It has no Type-of-Report block, no party/office/district fields and no Summary Page, so those cover fields are null (field absent, not blank). Handwritten content: Name of Committee 'Committee to Elect Nate Hendricks'; County Office Candidate 'Nate Hendricks'; Committee Secretary 'Camille Hendricks'; Date Committee Was Established 'March of 2006'; signed 1/15/07."
+ }
+}

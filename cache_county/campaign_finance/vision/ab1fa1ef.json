@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "3fa22bf2ceff85057915a9febdb02bce31ba78e2e519234c72354089f999a6c7",
+ "canonical_path": "raw/2020/2020_st_campaign_finance_abbott.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_abbott.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Erica Abbott",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Logan 2",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Democratic Party",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "Oct 26 2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 26 '20 PM 3:58:47",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "112.75",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "112.75",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "112.75",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "112.75",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Logan 2",
+  "evidence": "page 1 'Name of Office' reads 'County Council'; 'Office District' reads 'Logan 2'; 'Political Party' reads 'Democratic Party'",
+  "confidence": "high"
+ },
+ "notes": "Line 3 THIS-REPORT is written '$112.75' with a struck-through mark; the standing figure is 112.75."
+}

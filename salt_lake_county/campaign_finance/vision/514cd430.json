@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,519.63",
+ "total_expenditures": "23,295.64",
+ "beginning_balance": "127,316.75",
+ "ending_balance": "111,540.74",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "134,836.38"
+ },
+ "cover": {
+  "candidate": "Aimee Winder Newton",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "3",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/29/22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Winder-Newton-Aimee__0844307B.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Winder Newton, Aimee",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Winder-Newton-Aimee__0844307B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'2022 Financial Disclosure Report' title. The words 'See attachment' are typed across the CONTRIBUTIONS RECEIVED band. NEITHER amendment box is checked. Column B blank; Summary header (page/name/date) entirely blank."
+ }
+}

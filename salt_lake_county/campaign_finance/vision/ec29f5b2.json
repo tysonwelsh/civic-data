@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "396.71",
+ "beginning_balance": "396.71",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "396.71"
+ },
+ "cover": {
+  "candidate": "BRUCE KENT MORGAN",
+  "party": "REPUBLICAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/12/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kmorgan_finalreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "B. Kent Morgan",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/kmorgan_finalreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Cover name is written 'BRUCE KENT MORGAN' (the verification line prints 'B. KENT MORGAN'). Neither the Yes nor the No amendment box is checked -> is_amendment ''. Zeros are written as a slashed-zero glyph; transcribed '0'. Dollar amounts on this form are written in the old superscript-cents style ('396' with '71' raised over a rule) - transcribed as 396.71. Column B is left entirely blank on both lines. Summary header: page '2 of 6' (the PDF has 5 pages), last name MORGAN, date of report 9/12/06. Received stamp SEP 12 2006."
+ }
+}

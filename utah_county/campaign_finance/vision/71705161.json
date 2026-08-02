@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyAttorney-HullingerSean-102610.pdf",
+ "key": "71705161",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:44:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Sean Hullinger",
+   "party_printed": "Libertarian",
+   "office_printed": "COUNTY ATTORNEY",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "25 Oct 2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "520",
+    "expend_this_period": "0",
+    "expend_cumulative": "675",
+    "balance_beginning": "-155.00",
+    "subtotal_before_expend": "-155.00",
+    "balance_close": "-155.00"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "520",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "675",
+    "line3_balance_beginning": "-155.00",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "-155.00",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "-155.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "TYPED (word-processed) form, not handwritten - the filer retyped the whole sheet, so the report-type checkboxes are gone and the selected option is marked with a typed 'XX' before 'Seven days preceding the General Election'. Street Address, City and ZIP are all blank; only State 'Utah' is filled, so residence_city is ''. Dollar signs are printed on every summary cell ('$0', '$520', '-$155.00' on line 3 and '$ -155.00' on lines 5 and 7); the '$' is dropped per spec and the minus retained. Cover signature date and summary Date of Report agree (25 OCT 2010 / 25 Oct 2010); the summary-page casing is used. Same filer as key b8aadb88 (the June faxed report), which closed at -155 - consistent, but nothing was carried across filings."
+  }
+ ],
+ "notes": ""
+}

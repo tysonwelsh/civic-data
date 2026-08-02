@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "598.46",
+ "total_expenditures": "223.46",
+ "beginning_balance": "N/A",
+ "ending_balance": "375.00",
+ "aggregate": {
+  "total_contributions_to_date": "598.46",
+  "total_expenditures_to_date": "223.46",
+  "line5_subtotal": "598.46"
+ },
+ "cover": {
+  "candidate": "DANIEL C. SNARR",
+  "party": "Democrate",
+  "office_sought": "Salt Lake County Council",
+  "district_number": "#3",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/7/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/SnarrD_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dan Snarr",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/SnarrD_2014_April.pdf",
+  "pages_read": [
+   1,
+   2,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. The Summary Page is page 4 of 4 (page 2 is Schedule A), so pages 1, 2 and 4 were read. Line 3 (Balance at Beginning of Reporting Period) is written as the words 'N/A', not a figure \u2014 recorded verbatim. Party is written 'Democrate' (filer's spelling). The Office field on the top row reads 'Salt Lake County Council/District #3'; the separate Office Sought field reads 'Salt Lake County Council' with District Number '#3' \u2014 the latter is used."
+ }
+}

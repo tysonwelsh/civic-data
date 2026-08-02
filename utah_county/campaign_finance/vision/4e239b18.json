@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Truman_Van_Cott_Redacted.pdf",
+ "key": "4e239b18",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T04:00:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Truman Van Cott",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat B",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/8/2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "1,866.75",
+    "contrib_cumulative": "1,866.75",
+    "expend_this_period": "1,866.75",
+    "expend_cumulative": "1,866.75",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "1,866.75",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "1,866.75",
+    "boxC_contributions_received_year_to_date": "1,866.75",
+    "boxD_expenditures_made_this_period": "1,866.75",
+    "boxE_expenditures_made_year_to_date": "1,866.75",
+    "boxF_subtotal_before_expenditures": "1,866.75",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten, in a clear print hand. Every box carries a leading '$' (dropped per spec). In Box F the thousands comma is written cramped against the 1 ('$1,866.75') - confirmed at magnification. OFFICE: handwritten across two lines, 'Utah County Commission' / 'Seat B'; index.csv says 'County Commission Seat B' - same seat, county-qualified wording. The address block, the email cell and the signature block are redacted upstream by the county (black bars), so residence_city is unavailable. Clerk stamp 'Received MAY 08 2026 In Person'."
+  }
+ ],
+ "notes": ""
+}

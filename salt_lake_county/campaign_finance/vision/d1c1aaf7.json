@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,500-",
+ "total_expenditures": "2,745.75",
+ "beginning_balance": "2101.79",
+ "ending_balance": "856.04",
+ "aggregate": {
+  "total_contributions_to_date": "3601.79",
+  "total_expenditures_to_date": "2,745.75",
+  "line5_subtotal": "3601.79"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/29/8",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_joehatch_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_joehatch_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "2008-era form variant (no year in the title). Top-row 'Office' box reads 'COUNTY COUNCIL'; the separate 'Office Sought' box reads 'COUNCIL' and District Number '1'. Verification name printed 'JOSEPH E. HATCH'. Signature date written '1/29/8' (verbatim; clerk stamp JAN 31 2008). Line 1 Column A / Line 4 written '1,500' with a dash for the cents. Summary Page header: Page 2 of 4, HATCH, 1/29/8; Column B header 'Aggregate Total'. Arithmetic consistent (2101.79 + 1500 = 3601.79; minus 2745.75 = 856.04)."
+ }
+}

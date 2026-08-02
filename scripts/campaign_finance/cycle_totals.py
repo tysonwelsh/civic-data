@@ -46,6 +46,22 @@ import csv, os, re, sys, glob
 
 SUMMARY_TYPES = {"summary", "final", "year-end", "yearend", "annual", "combined"}
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.join(REPO, "scripts"))
+from entities import ENTITIES, by_slug  # noqa: E402  (registry resolution, 2026-08-01)
+
+
+def _cf_dir(slug):
+    """campaign_finance dir for any entity slug. Cities resolve to the SAME
+    <slug>_city_council path as the pre-2026-08-01 hardcode (by_slug('lehi').dir ==
+    'lehi_city_council'), so city behavior is unchanged by construction; county/other
+    entities resolve through the registry (county-CF federation, 2026-08-01)."""
+    try:
+        e = by_slug(slug)
+        if e.dir:
+            return os.path.join(REPO, e.dir, "campaign_finance")
+    except KeyError:
+        pass
+    return os.path.join(REPO, f"{slug}_city_council", "campaign_finance")
 
 
 def _norm(n):
@@ -85,7 +101,7 @@ def _load_overrides(p):
 
 def cycle_totals(city):
     """Return a list of per-candidate-cycle dicts for one city."""
-    p = os.path.join(REPO, f"{city}_city_council", "campaign_finance")
+    p = _cf_dir(city)
     ftp = os.path.join(p, "filing_totals.csv")
     if not os.path.exists(ftp):
         return []
@@ -221,7 +237,7 @@ def write_city(city):
     rows = cycle_totals(city)
     if not rows:
         return 0, 0
-    outp = os.path.join(REPO, f"{city}_city_council", "campaign_finance", "cycle_totals.csv")
+    outp = os.path.join(_cf_dir(city), "cycle_totals.csv")
     with open(outp, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=COLS)
         w.writeheader()
@@ -231,8 +247,10 @@ def write_city(city):
 
 
 def all_cities():
-    return sorted(os.path.basename(os.path.dirname(os.path.dirname(g))).replace("_city_council", "")
-                  for g in glob.glob(os.path.join(REPO, "*_city_council", "campaign_finance", "filing_totals.csv")))
+    # every registry entity with a structured layer (cities AND counties since
+    # 2026-08-01); registry order is stable, sort keeps the historical output order
+    return sorted(e.slug for e in ENTITIES if e.dir and os.path.exists(
+        os.path.join(REPO, e.dir, "campaign_finance", "filing_totals.csv")))
 
 
 if __name__ == "__main__":

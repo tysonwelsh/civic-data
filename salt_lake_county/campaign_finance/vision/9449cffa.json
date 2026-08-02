@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,735.79",
+ "total_expenditures": "$1,184.79",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$551.00",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$1,735.79"
+ },
+ "cover": {
+  "candidate": "David M Muir",
+  "party": "United Utah",
+  "office_sought": "_Auditor",
+  "district_number": "SL County",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "2222-03-31",
+  "report_date": "04/02/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Muir-David__3C6DC164.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Muir, David",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Muir-David__3C6DC164.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Typed EasyVote-era form. FORM TITLE READS '2020 Financial Disclosure Report' although this is a 2022-cycle filing - the clerk reused the 2020 template; form_year recorded verbatim as 2020. Amendment date printed as '2222-03-31' (filer typo for 2022-03-31) - kept verbatim. Signature line blank; date taken from the e-signature stamp 04/02/22 - 11:04 AM and the Summary Page 'Date of Report' 04/02/22. Address/phone/email redacted black by the publisher."
+ }
+}

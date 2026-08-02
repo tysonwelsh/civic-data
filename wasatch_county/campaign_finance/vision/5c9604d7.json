@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "index_path": "raw/2026/202603_E-Mainord.pdf",
+    "cache_key": "5c9604d7",
+    "entity": "wasatch_county",
+    "election_year": "2026",
+    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Eric Mainord",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Sheriff",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "GOP",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "3-31-26",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Partisan Convention Report"
+    ],
+    "convention_date_verbatim": "April 7 2026"
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "2900.00",
+        "confidence": "medium"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "2162.79",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "737.21",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "The PDF's OCR renders the contribution cell 'L7D0'; the vision read is 2,900.00, which is the only value consistent with the printed expenditure and balance (2900.00 - 2162.79 = 737.21). Recorded at medium confidence."
+}

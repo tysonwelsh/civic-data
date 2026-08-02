@@ -1,0 +1,108 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "471016a98c8bdc6e2b3680b722c343737264f1e9f926e7a4101de0f2bae009c8",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Barbara_Yost_Tidwell.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Barbara_Yost_Tidwell.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Barbara Yost Tidwell",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Council Seat 2",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Seat 2",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "elections@cachecounty.gov / 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/29/24",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "C_contrib_ytd": {
+    "v": "0",
+    "c": "medium"
+   },
+   "D_expend_this_period": {
+    "v": "301.13",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "301.13",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "301.13",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "301.13",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "301.13",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Seat 2",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Council / Seat 2'; the printed header reads 'Financial Campaign Report for County Offices'",
+  "confidence": "high"
+ },
+ "notes": "Handwritten (blue ink) on the Cache County Clerk/Auditor form. NOTE this printed header is the COUNTY-ONLY variant — 'Financial Campaign Report for County Offices', WITHOUT the 'and Local School Board Candidates' clause carried by the 2024 born-digital variant; classified form_read='cache_cfd' because the body is the same cover/Schedule A/Schedule B/Summary-Page instrument. The ledger's form_family='campaign_report_variant_unread' is superseded by direct page evidence. No statutory citation is printed on any page. Boxes A, B and C, and both Schedule A totals ('Subtotal for this page' and 'Total Contributions Received'), are each a hand-drawn slashed/crossed O glyph used as a zero — transcribed '0' at confidence medium per protocol rule 3. Schedule A body carries a single large handwritten 'N/A' across the rows. ARITHMETIC DISAGREEMENT, recorded as printed and NOT reconciled: box F is labelled 'Box A + Box B' (0 + 0 = 0) but the filer wrote 301.13; 'Balance at Close (Box F - Box D)' would be 0.00 but the filer wrote 301.13 — the filer appears to have carried the expenditure figure into both boxes. Page 5 is an attachment, not a form page: Square One Printing invoice 442142 (07/12/2024, BARBARA TIDWELL, yard signs/business cards/thank-you cards), SUBTOTAL $281.43 + State Tax $19.70 = TOTAL $301.13, AMOUNT PAID $301.13 — it corroborates the single Schedule B line. A vertical clerk received-stamp runs down the left margin of page 1 (legible fragments suggest a CLERK/AUDITOR received impression dated in October 2024) but it is too degraded in this render to transcribe any field reliably, so received_stamp is left empty at low confidence rather than guessed."
+}

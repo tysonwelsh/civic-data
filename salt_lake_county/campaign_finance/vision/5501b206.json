@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$11,175.00",
+ "total_expenditures": "$23,119.90",
+ "beginning_balance": "$13,991.55",
+ "ending_balance": "$2,046.65",
+ "aggregate": {
+  "total_contributions_to_date": "$32,229.47",
+  "total_expenditures_to_date": "$30,182.82",
+  "line5_subtotal": "$25,166.55"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council \"A\" at Large",
+  "district_number": "",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-25-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_sdebry_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_sdebry_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. Page box reads 'Page 2 of 6'; Summary Page Date of Report 'Oct. 25, 2008'; clerk stamp OCT 27 2008. Cents are raised underlined superscripts. All lines arithmetically consistent, and Line 3 (13,991.55) matches Line 7 of the amended September filing (key d2f14535)."
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "a407523bcc89babd8185f82d450c494618a3dbbf81351a5dc2c019ef86fe4887",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Matt_Funk.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Matt_Funk.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Matthew Funk",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Auditor",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Richmond",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10-18-2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "Clerk/Auditor RSVD 2024 OCT 18 PM1:36",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "5,336.91",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "0",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "5,336.91",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "0",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "0",
+    "c": "medium"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "$5,336.91",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Clerk/Auditor",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in typed text, exactly the single word 'Auditor' - no city, town, justice-court or district qualifier appears anywhere on the line or elsewhere on the page. Supporting context on the same document: the instrument's printed title is 'Financial Campaign Report for County Offices and Local School Board Candidates', the residence is Richmond (a Cache County city), and Schedule B's first two line items are '1-2-24 Cache County Clerk / file for office / 330.39' and '1-5-24 Cache County GOP / Lincoln dinner / 350.00'.",
+  "confidence": "high"
+ },
+ "notes": "SCOPE DECIDED ON THIS DOCUMENT'S OWN PAGE EVIDENCE ONLY, as instructed. The task flagged that a DIFFERENT 'Matt Funk' filing from 2012 in this same package was re-classified OUT of scope because its office line named a municipal/justice-court office. Nothing about that 2012 document was used here. This 2024 document's Office box contains one typed word and nothing else: 'Auditor'. There is no municipal, justice-court, precinct or school qualifier on the line. Read against the county's own instrument (whose printed title covers county offices and local school board candidates) and against the filer's Schedule B, which pays a Cache County Clerk candidate filing fee and the Cache County GOP, the office is the county Auditor, so scope='county'. OFFICE MAPPING: the repo's standard label for the historic 'Cache County Auditor' / 'County Clerk' titles is 'Clerk/Auditor'; the verbatim single word 'Auditor' is preserved in cover.office_verbatim. PAGE ORDER IS NON-STANDARD in this PDF: p1 cover, p2 SCHEDULE B, p3 SCHEDULE A, p4 Summary Page - Schedule B precedes Schedule A. pages_read lists physical PDF page numbers, not the form's own sequence. The document is TYPED (form-filled), not handwritten, and is clean and fully legible; only the 'Name of Candidate' and 'Date of Report' footers on pages 3 and 4 are hand-written, as a scrawled surname 'Funk' plus a date. SCHEDULE A IS ENTIRELY EMPTY: no contribution rows, and BOTH its printed total lines - 'Subtotal for this page $' and 'Total Contributions Received $' - are left BLANK, not zeroed. schedule_totals.total_contributions_received is therefore '' (empty), per the protocol's instruction never to add rows up or supply a figure the page does not print. Schedule B lists 13 expenditure rows and prints 'Subtotal for this page $5,336.91' and 'Total Expenditures Made $5,336.91'. FILER INCONSISTENCY, recorded not corrected: the Summary Page's box C, 'Contributions Received Year-to-Date', reads 5,336.91 - the SAME figure as box E, 'Expenditures Made Year-to-Date' - even though Schedule A is blank and states no contributions at all. Whether box C was meant to be zero, or to record self-funding equal to the spend, is not stated anywhere on the form; both boxes are transcribed exactly as printed and nothing was reconciled. Boxes B, D and F read a plain typed '0'; box A and the 'Balance at Close of Reporting Period' box each carry a smaller open-circle glyph that reads as a zero but is typographically distinct from the other three, so those two are recorded '0' at confidence MEDIUM. None of these are the hand-drawn slashed-O glyph. The cover offers only THREE report-type choices (30 Days after elimination / Seven days preceding the General Election / 30 Days after the General Election) - the same three-option variant as the David R. Gillie filing in this tranche - and the General box is marked with an X. The 'Date of Report' box on page 1 is blank; page 4 reads '10-18-24' and page 3's handwritten date is partly formed and reads as '10-15' or '10-18' (not transcribed into any field, since date_signed is taken from the typed signature-block date '10-18-2024'). RECEIVED STAMP: page 4 carries a clean typed stamp reading 'Clerk/Auditor RSVD / 2024 OCT 18 PM1:36' - the word is printed 'RSVD', not the 'RCVD' spelling used on the other 2024 filings in this tranche, and is recorded verbatim. Beneath it is a handwritten clerk signature that is not confidently legible; it is deliberately NOT transcribed rather than guessed. NAME NOTE vs THE LEDGER, not a contradiction: the ledger's candidate is 'Matt Funk'; the document types 'Matthew Funk' in both the Name of Candidate box and the affirmation, with the email 'matt.funk@gmail.com' on the same page - the same person under the full and familiar forms of one name."
+}

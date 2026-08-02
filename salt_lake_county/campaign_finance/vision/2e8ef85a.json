@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6804",
+ "total_expenditures": "4842.68",
+ "beginning_balance": "0",
+ "ending_balance": "1,961.32",
+ "aggregate": {
+  "total_contributions_to_date": "7452.48",
+  "total_expenditures_to_date": "5491.16",
+  "line5_subtotal": "6804"
+ },
+ "cover": {
+  "candidate": "Jeremy Votaw",
+  "party": "GOP",
+  "office_sought": "Clerk",
+  "district_number": "-",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-15-2010",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvotaw_6_15.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeremy Votaw",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jvotaw_6_15.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1, 4 and 5 Column A are written as a bare '6804' with no cents at all - recorded exactly as printed, not padded to 6804.00. Line 3 is a slashed zero. District Number holds a single dash (recorded '-'). The manifest calls this the June report; the form actually checks 'Seven days before a primary election' (Utah's 2010 primary was June 22) and the Summary Page's Date-of-Report box reads 6-15-2010. The signature-date rule is faint but reads '6-15-2010'. This filer writes the party as 'GOP' here and 'REP' on his other 2010 filings. Line 7 (1,961.32) matches the September report's opening balance."
+ }
+}

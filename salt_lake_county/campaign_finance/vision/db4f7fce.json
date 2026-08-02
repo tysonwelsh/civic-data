@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "62,970",
+ "total_expenditures": "40,512.59",
+ "beginning_balance": "0",
+ "ending_balance": "22,457.41",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "62,970"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at-Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header 'April 2008 Amendment # 2'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_08_April_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_08_April_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FORM/LABEL MISMATCH worth a human's eye: the blank used is the 2012-vintage form (its interim boxes read 'for the period ending March 31, 2012' etc.) but the report is hand-titled 'April 2008 Amendment # 2' at the top and was signed and filed 2/14/13 - i.e. a 2008 period reported five years later on a 2012 form. NO Type-of-Report box is checked at all; only the amendment 'Yes' box, with date of report 2/14/13. Summary Page is page 2 (Column B 'Year to Date'), Column B blank on lines 1 and 2 (empty strings, not zeros). Line 3 is a slashed zero. Arithmetic checks: 62,970 - 40,512.59 = 22,457.41."
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_COMA.Sakievich.pdf",
+ "key": "b9c5033b",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:56:00Z",
+ "pages_read": [1, 8],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "THOMAS V. SAKIEVICH",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "UTAH COUNTY COMMISSION, SEAT A",
+   "residence_city": "SPANISH FORK",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "JUNE 19, 2018",
+   "summary_page": 8,
+   "totals": {
+    "contrib_this_period": "10,421.17",
+    "contrib_cumulative": "10,421.17",
+    "expend_this_period": "9,464.37",
+    "expend_cumulative": "9,464.37",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "10,421.17",
+    "balance_close": "956.80"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "10,421.17",
+    "line1_total_contributions_colB": "10,421.17",
+    "line2_total_expenditures_colA": "9,464.37",
+    "line2_total_expenditures_colB": "9,464.37",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "10,421.17",
+    "line5_subtotal_lines3plus4": "10,421.17",
+    "line6_total_expenditures_from_line2A": "9,464.37",
+    "line7_balance_at_close": "956.80"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, ALL-CAPS cover; summary figures are clear. Line 3 is a slashed-zero glyph, transcribed as '0'. The final digit of line 7 is also written as a slashed zero ('956.80'). The summary sheet is the 2016 form year reused in a 2018 filing and carries its own header 'Page 1 of 1, SAKIEVICH, Date of Report JUNE 19, 2018'. Line 5 is written with a comma instead of a decimal before the cents ('10,421,17'), transcribed as 10,421.17 to match the identical figure on lines 1 and 4. Office field agrees with office_index (County Commission Seat A)."
+  }
+ ],
+ "notes": ""
+}

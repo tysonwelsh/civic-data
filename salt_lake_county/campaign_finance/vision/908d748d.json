@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2000",
+ "total_expenditures": "206.77",
+ "beginning_balance": "208.53",
+ "ending_balance": "2001.76",
+ "aggregate": {
+  "total_contributions_to_date": "2000",
+  "total_expenditures_to_date": "206.77",
+  "line5_subtotal": "2208.53"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REP.",
+  "office_sought": "COUNCIL",
+  "district_number": "3",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/27/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/dwilde_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 1 Columns A and B are written '2000 \u2013' (a dash in place of the cents); transcribed as 2000. Neither the amendment Yes nor No box is checked. Signature date is 1/27/10 while the Summary Page 'Date of Report' box reads 1-30-10; report_date records the signature date. Cover top-row Office reads 'COUNTY COUNCIL'. Arithmetic closes."
+ }
+}

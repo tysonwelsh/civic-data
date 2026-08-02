@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,400,00",
+ "total_expenditures": "632,04",
+ "beginning_balance": "0",
+ "ending_balance": "767.96",
+ "aggregate": {
+  "total_contributions_to_date": "1,400,00",
+  "total_expenditures_to_date": "632,04",
+  "line5_subtotal": "1,400,00"
+ },
+ "cover": {
+  "candidate": "Jeffrey B Hatch",
+  "party": "Democrat",
+  "office_sought": "Auditor",
+  "district_number": "Countywide",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jeffhatch_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "Auditor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jeffhatch_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 300",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DECIMAL COMMA filer: Lines 1, 2, 4 and 5 write the cents separator as a COMMA, not a point - Line 1 reads '1,400,00' and Line 2 reads '632,04'. Recorded EXACTLY as written (per contract, the shared repair_money_line whitelist handles the final-comma-two-digit group downstream). Lines 6 and 7 by contrast use a decimal POINT ('632.04', '767.96'). Line 3 (beginning balance) is a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Fax header shows the document was faxed 04/05/2006 from 801-484-2477 (4 pages); clerk-stamped APR 05 2006. Neither amendment box is checked. Page-of box reads 'Page 1 of 3'."
+ }
+}

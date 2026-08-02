@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/6",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jhatch_sept152006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "render": "pdftoppm -jpeg -r 110 (all 6 pages; pdftoppm reports xref corruption - 'Couldn't find trailer dictionary', 'Kid object (page 3) is wrong type (null)')",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DAMAGED SCAN - needs a human. Page 2 carries the 'Summary Page' heading and its page box ('Page 2 of 6 / HATCH / 9/15/6'), but the 7-line summary TABLE was never captured: the scanner fed two skewed Schedule A sheets over that page, so the whole table area is covered by itemized-contribution rows. Every totals field is therefore null (illegible/not present in the scan), NOT zero. The PDF itself is corrupt (pdftoppm xref errors, one page object null). I walked all 6 pages: p1 cover, p2 the damaged Summary Page, p3 = form 'Page 4 of 6' Schedule A, p4 = form 'Page 5 of 6' Schedule A, p5 and p6 are BOTH form 'Page 6 of 6' Schedule B (duplicated); the form's own page 3 of 6 is absent. For a human's reference only (NOT transcribed into totals): the Schedule A pages print 'TOTAL CONTRIBUTIONS RECEIVED 7175-' and the Schedule B page prints 'TOTAL EXPENDITURES MADE 1906-'. Neither amendment box is checked; the cover's Type-of-Report block uses the generic (undated) box labels, not the 2006 dated ones."
+ }
+}

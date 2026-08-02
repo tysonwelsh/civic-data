@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$ 97,272.77",
+ "total_expenditures": "$ 262,404.26",
+ "beginning_balance": "$ 257,922.87",
+ "ending_balance": "$ 92,791.38",
+ "aggregate": {
+  "total_contributions_to_date": "$ 399,542.46",
+  "total_expenditures_to_date": "$ 323,363.87",
+  "line5_subtotal": "$ 355,195.64"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "11-01-22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Gill-Sim__7DD7DCA8.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gill, Sim",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Gill-Sim__7DD7DCA8.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form, digitally signed. Figures are printed with a space after the dollar sign; kept verbatim."
+ }
+}

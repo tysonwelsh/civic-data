@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "ec369bf69804d33081249a2a85dfc540608fbea0a09c3c9d9d5ada03d110a35e",
+ "canonical_path": "raw/2024/2024_cc_2024_Nolan_P_Gunnell.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_Nolan_P_Gunnell.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Nolan P. Gunnell", "c": "high"},
+  "office_verbatim":   {"v": "County Council", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Wellsville", "c": "high"},
+  "addressee":         {"v": "Cache County CLERK/AUDITOR (preprinted 'Where to File': Email elections@cachecounty.gov; Mail: 179 North Main St. Suite 102, Logan, Utah 84321)", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the Primary Election", "c": "high"},
+  "date_signed":       {"v": "6-11-2024", "c": "high"},
+  "received_stamp":    {"v": "Logged; Web Transmission", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "0", "c": "medium"},
+   "B_contrib_this_period":    {"v": "0", "c": "medium"},
+   "C_contrib_ytd":            {"v": "0", "c": "medium"},
+   "D_expend_this_period":     {"v": "4,891.63", "c": "high"},
+   "E_expend_ytd":             {"v": "4,891.63", "c": "high"},
+   "F_subtotal_before_expend": {"v": "", "c": "high"},
+   "closing_balance":          {"v": "", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "0", "c": "medium"},
+   "total_expenditures_made":      {"v": "4,891.63", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Council'; no district or seat text is written anywhere on the cover",
+  "confidence": "high"
+ },
+ "notes": "FORM VARIANT: this is the Cache County Clerk/Auditor Candidate Financial Disclosure instrument but an EARLIER/DIFFERENT printing than the 2024 filings by Andersen and Jorgensen -- its title is 'Financial Campaign Report for County Offices' with NO 'and Local School Board Candidates' second line, and its Type of Report block offers FIVE options ('30 Days after withdrawal or elimination', 'Seven days preceding the Primary Election', '30 Days after the Primary Election', 'Seven days preceding the General Election', '30 Days after the General Election') rather than three. Its Summary Page also labels the boxes in sentence case ('Contributions Received this Period', 'Contributions Received Year to Date'). Recorded as form_read='cache_cfd' since it is the same county instrument family; the ledger's form_family='campaign_report_variant_unread' can be resolved to this variant. Page order: cover(1), Schedule A(2), Schedule B(3), Summary(4). ZERO GLYPHS: Box A, Box B, Box C, and BOTH of Schedule A's foot lines ('Subtotal for this page' and 'Total Contributions Received') each carry a hand-drawn slashed/crossed O glyph used as a zero -- transcribed '0' at confidence medium per protocol. Schedule A is otherwise entirely EMPTY (no contributor rows at all), which is consistent with those zeros. HONEST BLANKS: Box F ('Subtotal before Expenditures') and the 'Balance at Close of Reporting Period' box are BOTH completely blank -- no figure, no zero glyph, no strike -- so both are recorded as '' rather than 0; the filer simply did not complete them. The 'Date of Report' and 'Page' footer boxes are blank on the cover; pages 2, 3 and 4 carry the date '6-11-2024' but every 'Page' box in the filing is blank, so the filing is not self-paginated. Schedule B's last two rows have partially illegible dates -- the month/day is cut off at the left page edge and only the year '2024' is readable on the 'I C Group / mailers / 1946.46' and 'Ridleys / Treats Town Halls / 30.00' rows; itemization is out of scope for this tranche so this is noted only as an observation, and it does not affect the totals recorded. The 'Office Use Only' box is heavily shaded/noisy; within it 'Logged' appears marked and the words 'Web Transmission' are printed -- recorded as the received_stamp at medium confidence. NO date or time appears in that box, so no receipt date is available for this filing. Candidate name matches the ledger ('Nolan P. Gunnell'); the schedule and summary footers abbreviate it to 'Nolan Gunnell'. Amendment question marked 'No'. Form prints no statutory citation line."
+}

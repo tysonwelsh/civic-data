@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "7,110.10",
+ "beginning_balance": "7,451.57",
+ "ending_balance": "341.47",
+ "aggregate": {
+  "total_contributions_to_date": "10,306.40",
+  "total_expenditures_to_date": "9,964.93",
+  "line5_subtotal": "7,451.57"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: June 19 (for the period ending June 18, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-19-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snelgrove_R_12_June_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Snelgrove_R_12_June_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten; light scan. The candidate's name and the word 'MAYOR' are written together on the Name line (this form variant has no separate top-row Office box); Office Sought reads 'MAYOR'. Neither amendment box is checked. Cents on Lines 1 and 2 are raised superscripts; Line 2 Column B ('9,964.93') is written without a thousands comma and its leading 9 is cramped, hence medium confidence. Received stamp JUN 22 2012."
+ }
+}

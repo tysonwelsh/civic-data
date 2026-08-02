@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_Forbush_4.23.20_Redacted_Redacted.pdf",
+ "key": "2b6e2b8a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Christopher Forbush",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat C",
+   "residence_city": "Saratoga Springs",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "4/23/2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "647.20",
+    "contrib_cumulative": "647.20",
+    "expend_this_period": "647.20",
+    "expend_cumulative": "647.20",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "647.20",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "647.20",
+    "boxC_contributions_received_year_to_date": "647.20",
+    "boxD_expenditures_made_this_period": "647.20",
+    "boxE_expenditures_made_year_to_date": "647.20",
+    "boxF_subtotal_before_expenditures": "647.20",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form, scanned. The form prints no political-party field. Boxes A and Balance at Close are written as a bare '0' (not '0.00'). Signature is blank/faint on the scan; the Date box and Date of Report both print 4/23/2020. Page face agrees with candidate_index and office_index."
+  }
+ ],
+ "notes": ""
+}

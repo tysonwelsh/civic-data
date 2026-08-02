@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyClerkAuditor-ThompsonBryanE-102610.pdf",
+ "key": "9935eb94",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:57:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bryan E. Thompson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Clerk/Auditor",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/25/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "640.00",
+    "contrib_cumulative": "1,444.16",
+    "expend_this_period": "140.00",
+    "expend_cumulative": "944.16",
+    "balance_beginning": "00.00",
+    "subtotal_before_expend": "640.00",
+    "balance_close": "500.00"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "640.00",
+    "line1_total_contributions_colB": "1,444.16",
+    "line2_total_expenditures_colA": "140.00",
+    "line2_total_expenditures_colB": "944.16",
+    "line3_balance_beginning": "00.00",
+    "line4_total_contributions_from_line1A": "640.00",
+    "line5_subtotal_lines3plus4": "640.00",
+    "line6_total_expenditures_from_line2A": "140.00",
+    "line7_balance_at_close": "500.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten over a partly pre-filled sheet. STRUCK-THROUGH VALUES: lines 5 and 7 each carry a machine-printed '$0.00' that has been struck through with a pen, with the filer's hand-written figure written ABOVE it - the SURVIVING (hand-written) values 640.00 and 500.00 are what is recorded here; the struck '$0.00' is not. Same superscript-cents notation as this filer's June report ('640' with a raised '00'); hand-drawn '$' signs dropped per spec. Line 3 is written as a doubled zero with raised cents, transcribed verbatim as '00.00' (i.e. the filer's way of writing zero) at medium confidence. Column B cents on lines 1 and 2 (1,444.16 / 944.16) are small raised, underlined pairs - medium confidence. Nothing was arithmetic-derived."
+  }
+ ],
+ "notes": ""
+}

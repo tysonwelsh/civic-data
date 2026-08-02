@@ -1,0 +1,106 @@
+{
+ "filing_key": "wayback_financialreports|2014-04-04|RUSSELL SHIRTS",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/4 4 2014 Summary - Russell Shirts_04-04-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/4 4 2014 Summary - Russell Shirts_04-04-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "5b860016acb285c4bb503fcb824888a2fcb03a97710b69c35259639eb8169041",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/4 4 2014 Contributions - Russell Shirts_04-04-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "040be7c6f98ae5e13648852c336578afb64f0ffee04cc5eccf9e14c4dbac0e19",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/4 4 2014 Expenditures - Russell Shirts_04-04-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "ed30630e7bce0127e6f3c99c8790be226801bfd95195f879a0f2123fbe20c8b7",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Russell Shirts",
+  "office": "RECORDER",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Recorder",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Russell Shirts",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "641.0",
+   "balance": "-641.0"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "641.0",
+   "expenses_this": "641",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-641.0",
+   "balance_end": "-641",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

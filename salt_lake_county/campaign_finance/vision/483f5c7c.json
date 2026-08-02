@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$13,716.74",
+ "total_expenditures": "$4,877.48",
+ "beginning_balance": "$1,964.50",
+ "ending_balance": "$10,803.76",
+ "aggregate": {
+  "total_contributions_to_date": "$19,525.36",
+  "total_expenditures_to_date": "$8,721.60",
+  "line5_subtotal": "$15,681.24"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "06/17/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nelson_S_DA_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nelson_S_DA_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing files this as the 'June' interim, but the FORM checks 'Seven days before a primary election' - the June 17 / June 19 dated box is not what is marked (this is the older blank, whose interim options are April 5 / seven days before a primary / September 15 / seven days before a general). Typed 'X' selection; neither amendment box marked. Signature 6/17/14, Summary Page header 'Nelson / 06/17/2014', clerk-stamped JUN 17 2014. Every figure reconciles: Column A (1,964.50 + 13,716.74 = 15,681.24; minus 4,877.48 = 10,803.76) and Column B against the April filing (5,808.62 + 13,716.74 = 19,525.36; 3,844.12 + 4,877.48 = 8,721.60)."
+ }
+}

@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "index_path": "raw/2018/2018_Financial-Campaign-Report-Brent-R.-Titcomb.pdf",
+    "cache_key": "62fbf39b",
+    "entity": "wasatch_county",
+    "election_year": "2018",
+    "reporting_period_index": "2018 cycle (as published by the county)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Brent R. Titcomb",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "July 26, 2018 (if eliminated in Primary)"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "486.07",
+        "confidence": "medium"
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "486.07",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "486.07",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "medium"
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Line 1 THIS REPORT reads '486.07' annotated 'self' and appears struck; its CUMULATIVE cell is blank. The balance THIS REPORT cell shows '486.07' struck through and replaced with a circled 0. Cumulative contributions and cumulative balance are blank."
+}

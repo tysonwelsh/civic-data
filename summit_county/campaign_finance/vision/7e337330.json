@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "12947",
+  "path": "raw/2020/12947_Stephanie-Larsen.pdf",
+  "page": 1,
+  "sha256": "4c0773c52b2320cfc9a95f5cf93c41cf5ca79bfab23f796a57ed1e12da4c70a9",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/12947/Stephanie-Larsen",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Stephanie Larsen",
+  "office_verbatim": "Assessor",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "12/2/2020",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$1,480.52",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "$1,480.52",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "campaign_balance": {
+    "current_report": "$0.00",
+    "last_report": "",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Re-post of the filer's Pre-Election sheet (doc 11862) as the Post-Election report; identical printed content. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

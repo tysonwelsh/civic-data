@@ -1,0 +1,60 @@
+{
+ "path": "raw/2022/2022_Mann_Rodney_4.4.2022_Redacted.pdf",
+ "key": "7c89d2a6",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:10:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rodney W Mann",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/4/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "5,253.53",
+    "contrib_cumulative": "5,253.53",
+    "expend_this_period": "5,433.81",
+    "expend_cumulative": "5,433.81",
+    "balance_beginning": "180.28",
+    "subtotal_before_expend": "5,415.36",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "180.28",
+    "boxB_contributions_received_this_period": "5,253.53",
+    "boxC_contributions_received_year_to_date": "5,253.53",
+    "boxD_expenditures_made_this_period": "5,433.81",
+    "boxE_expenditures_made_year_to_date": "5,433.81",
+    "boxF_subtotal_before_expenditures": "5,415.36",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "office_printed",
+    "residence_city"
+   ],
+   "notes": "THE OFFICE FIELD IS BLANK (as are Phone and Email) - office_printed is \"\"; index.csv carries 'County Auditor', which this page does not state. FILER ARITHMETIC DOES NOT RECONCILE, and is NOT corrected here: Box F is printed '$5,415.36' while Box A + Box B = 180.28 + 5,253.53 = 5,433.81, and the Balance at Close is printed '$0.00' while Box F - Box D = -18.45. Every figure above is exactly what the box prints. Note also the county's own reviewer flagged this filing - the checklist on page 5 has 'Does the subtotal of contributions match the total of the listed itemized contributions?' circled in the second staff block. Dollar signs appear on boxes A, B, C, F and the close balance but NOT on D and E; the '$' is dropped per schema and the difference is noted here rather than normalised away. Unlike this filer's other two 2022 filings, the summary here is the COUNTY's Box A-F page, not the candidate's own table. Address block and signature are blacked out (redacted upstream by the county). Cover header names Clerk/Auditor 'Josh Daniels'; the p4 summary header names 'Amelia Powers Gardner'."
+  }
+ ],
+ "notes": "Page 5 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, dated 4/4/22 and 4/9/2022), not a report page - the OCR locator flagged it as a summary page and it is not."
+}

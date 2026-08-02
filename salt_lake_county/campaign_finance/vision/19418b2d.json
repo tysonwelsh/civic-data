@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Laurence Rey Topham",
+  "party": "Personal Choice",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lrtopham_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lawrence Rey Topham",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lrtopham_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form is signed but the Date line next to the signature was left BLANK (recorded \"\", not null - the field exists and is empty); the clerk RECEIVED stamp reads APR 24 2006. Neither amendment box is checked. Every Summary Page cell in both columns is a hand-drawn zero (open loop), so all totals are 0. The name is spelled 'LAURENCE' on this form, against the manifest's 'Lawrence'."
+ }
+}

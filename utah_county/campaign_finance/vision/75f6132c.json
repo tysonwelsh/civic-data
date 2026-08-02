@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Davidson_Aaron.PDF",
+ "key": "75f6132c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:24:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Aaron Davidson",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "Lindon",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "12/02/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "514.64",
+    "contrib_cumulative": "3,427.12",
+    "expend_this_period": "1,067.99",
+    "expend_cumulative": "3,427.12",
+    "balance_beginning": "553.35",
+    "subtotal_before_expend": "1,067.99",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "553.35",
+    "boxB_contributions_received_this_period": "514.64",
+    "boxC_contributions_received_year_to_date": "3,427.12",
+    "boxD_expenditures_made_this_period": "1,067.99",
+    "boxE_expenditures_made_year_to_date": "3,427.12",
+    "boxF_subtotal_before_expenditures": "1,067.99",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable PDF (Amelia Powers Gardner Clerk/Auditor letterhead, footer 'v. 4.20'), digitally signed 2022.12.02 14:29:31 -07'00'. NEITHER amendment radio (No / Yes) is filled, so is_amendment is '' rather than assumed 'No'. Not redacted - street address (380 S 400 W, Lindon, UT 84042) is visible; only residence_city recorded. On this v. 4.20 cover the 'Balance at Close' box carries NO letter (the A-F letters stop at F); the v. 12.23 sheet letters it 'G'. Filing is page-stamped '1 of 4' / '4 of 4'."
+  }
+ ],
+ "notes": "index.csv variant_guess was legacy_colAB; the filing is the modern Box A-F form, version v. 4.20 (whose report-type list differs from v. 12.23: it offers '30 Days after the Primary Election' and no 'Seven days preceding Convention')."
+}

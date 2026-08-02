@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "13,465",
+ "total_expenditures": "1,143",
+ "beginning_balance": "563",
+ "ending_balance": "12,885",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "14,028"
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "4",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "6/17/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "is_amendment": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mcrockett_cojunereportAMEND.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mcrockett_cojunereportAMEND.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 1 amendment block re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older template (04pccfindisc.doc). The clerk listing says 'Amendment to June'; the FORM checks 'Seven days before a primary election' (the older template has no 'June 17' box) and marks the amendment 'Yes' \u2014 a 250-dpi re-render confirms the Yes box carries a check while the 'No' box is heavily SCRATCHED OUT, so is_amendment is 'Yes'; the 'date of report' line next to Yes was left blank. A handwritten margin note on page 1 reads 'Correct version of Schedule attached'. Column B is headed 'Year-to-Date Total' and BOTH B cells are BLANK ('' , not 0). All figures are whole dollars with no cents. Two RECEIVED stamps appear: JUN 20 2008 (clear) and an X'd-out JUN 17 2008. Page box reads 'Page 1 of 3'."
+ }
+}

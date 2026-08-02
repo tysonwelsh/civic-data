@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "-(25.00)",
+ "beginning_balance": "25.00",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "605.26",
+  "total_expenditures_to_date": "605.26",
+  "line5_subtotal": "25.00"
+ },
+ "cover": {
+  "candidate": "Richard D.M.Barnes",
+  "party": "Republican",
+  "office_sought": "SL CO. COUNCIL",
+  "district_number": "1",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "Jan. 30, 2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Barnes-Richard-D-M__29F6C75C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Barnes, Richard D M",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Barnes-Richard-D-M__29F6C75C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 2 Column A is written as a leading minus sign plus accounting parentheses around 25 with superscript cents: -(25 00); kept verbatim as \"-(25.00)\". Line 6 carries the same -(25.00). Lines 1 and 7 Column A are slashed Os = 0. The word \"OUT-\" is scrawled above the District Number cell next to the \"1\". Line 2 Column B (605.26) differs from the 580.26 aggregate expenditures shown on this filer's earlier reports - kept verbatim."
+ }
+}

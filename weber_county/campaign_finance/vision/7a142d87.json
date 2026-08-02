@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "7a142d87",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p141",
+ "page_start": 141,
+ "page_end": 143,
+ "summary_page": 141,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "JAMES H. \"Jim\" HARVEY",
+ "office_stated": "WEBER County Commission - SEAT C",
+ "report_type_stated": "December 5 (final report)",
+ "filing_date_stated": "2024-12-04",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "68,710.05",
+   "this": "8,350.00",
+   "cum": "77,060.05"
+  },
+  "expenditures": {
+   "last": "47,170.04",
+   "this": "6,741.67",
+   "cum": "53,911.71"
+  },
+  "ending_balance": {
+   "last": "21,840.01",
+   "this": "1,608.33",
+   "cum": "23,448.34"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN final report. Line-3 'last report' is written 47,170.04 where the October report's cumulative was 47,170.01 - a 3-cent filer discrepancy, retained verbatim. This 77,060.05 cumulative INCLUDES the 28,610.05 carried in from the 2020 cycle - do not read it as 2024 fundraising."
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "b425f3bf",
+ "source_filing": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+ "document_id": "2022_combined_7e3a53_78d55edd#p4",
+ "page_start": 4,
+ "page_end": 6,
+ "summary_page": 4,
+ "election_cycle": "2022",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Ricky D. Hatch - Committee to Elect Ricky Hatch",
+ "office_stated": "County Clerk/Auditor",
+ "report_type_stated": "October 25th - Nov 1st",
+ "filing_date_stated": "2022-10-27",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "22,709.94",
+   "this": "500.00",
+   "cum": "23,209.94"
+  },
+  "expenditures": {
+   "last": "18,761.47",
+   "this": "1,309.77",
+   "cum": "20,071.24"
+  },
+  "ending_balance": {
+   "last": "3,948.47",
+   "this": "(809.77)",
+   "cum": "3,138.70"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2022 3-line form. This copy's summary columns are headed 'Last Report | This Report | Totals:' rather than the standard 'Totals from Last Report / Totals for This Report / Cumulative Totals' - same three columns, different printed labels; recorded in the same last/this/cum slots."
+}

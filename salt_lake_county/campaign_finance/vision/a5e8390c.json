@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3675,00",
+ "total_expenditures": "5345,16",
+ "beginning_balance": "2426.53",
+ "ending_balance": "756.37",
+ "aggregate": {
+  "total_contributions_to_date": "9285,00",
+  "total_expenditures_to_date": "8528.63",
+  "line5_subtotal": "6101.53"
+ },
+ "cover": {
+  "candidate": "MARY BISHOP",
+  "party": "DEMOCRAT",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/15/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bishop_Mary_Recorder_Sept.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mary Bishop",
+  "office": "Recorder",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bishop_Mary_Recorder_Sept.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "WORTH A HUMAN'S EYE: the Summary Page's own 'Date of Report' box is written 'Sept 15 2015' - a wrong YEAR, since the cover signature reads 9/15/2014 and the clerk stamp is SEP 15 2014. The cover date is what is recorded. Decimal separators are mixed as written (commas on Lines 1A, 1B, 2A; periods on 2B, 3, 5, 7). The District Number box holds a hand-drawn dash rather than a figure - recorded as blank. The top-row Office box reads 'Recorder Candidate'. Amendment box checked No. Arithmetic consistent (2426.53 + 3675 = 6101.53; less 5345.16 = 756.37) and Column B chains correctly from the June filing."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$1,837.94",
+ "beginning_balance": "$16,831.11",
+ "ending_balance": "$14,993.17",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$1,837.94",
+  "line5_subtotal": "$16,831.11"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council Dist No. 2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Jensen-Michael__B69C491D.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jensen, Michael",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Jensen-Michael__B69C491D.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 and cropped to read Lines 3/5)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten in blue ink over the 2022 typed template; skewed photocopy with another form bleeding through. Zeros are written as an oval '0' with the cents as a raised, underlined superscript ('0 with 00 above a rule' = $0.00); transcribed with a decimal point. Lines 3 and 5 read $16,831.11 - the last two digits were ambiguous at 110 dpi and were confirmed at 300 dpi (and are consistent with Line 5 - Line 6 = Line 7). Office written as 'Salt Lake Council District 2' (top row) and 'County Council Dist No. 2' (Office Sought); the separate District Number cell is blank. Neither amendment box is checked."
+ }
+}

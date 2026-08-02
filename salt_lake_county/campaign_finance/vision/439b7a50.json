@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1000",
+ "total_expenditures": "",
+ "beginning_balance": "1054",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "2054"
+ },
+ "cover": {
+  "candidate": "RANDY Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final Report",
+  "is_amendment": "Yes",
+  "amendment_of": "3-15-07",
+  "report_date": "",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rhoriuchi_jan3107amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/rhoriuchi_jan3107amendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-2 re-rendered at -r 250, plus 1.5x crops of the Type-of-Report block)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Badly skewed 5-page fax (03/16/2007, MOUNTAINWEST SBF), clerk-stamped RECEIVED MAR 16 2007; the word 'Amended' is hand-written across the letterhead. The fax banners show the pages came from two different files - page 1 is labelled 'Randy Horiuchi - Randy suggested report.pdf' while pages 2-4 are 'Randy Horiuchi - Randy 06 report.pdf' - but they are one 4-page report (cover, Summary, Schedule A, Schedule B) and the FIRST Summary Page is the one transcribed. BOTH the Year-End and the Final Report boxes are checked; the amendment answer is an X drawn beside 'Yes' (the box itself is empty) with 'date of report 3-15-07'. The signature Date line is blank. The Summary Page's table rules did not reproduce in the fax and the filer's figures for lines 4-6 are displaced rightwards into the Column B space: Line 1 Col A = 1000, Line 2 Col A LEFT BLANK, Line 3 = 1054, then 1000 / 2054 / 2054 running down the rows for lines 4, 5 and 6, and Line 7 a hand-drawn slashed zero (recorded '0'). Schedule B on page 4 confirms the 2054 expenditure (Key Bank, loan), so Line 2 Column A is a genuine filer omission, not an unreadable cell."
+ }
+}

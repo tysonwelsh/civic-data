@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$329.38",
+ "total_expenditures": "$12,360.59",
+ "beginning_balance": "$12,031.21",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$68,478.20",
+  "total_expenditures_to_date": "$68,478.20",
+  "line5_subtotal": "$12,360.59"
+ },
+ "cover": {
+  "candidate": "Goud Maragani",
+  "party": "Republican",
+  "office_sought": "_Clerk",
+  "district_number": "N/A",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/20/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Maragani-Goud__16107646.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Maragani, Goud",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Maragani-Goud__16107646.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing. The clerk listing calls this the 'January 31, 2023' (year-end) report, but the FORM checks ONLY the Final/Dissolution box - the January 31 Year-End box is NOT checked. E-signature stamp 01/20/23 - 6:07 PM; the signature Date cell is blank. Summary Page is page 2 of 4."
+ }
+}

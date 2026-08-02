@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$7998.55",
+ "total_expenditures": "$14,031.87",
+ "beginning_balance": "$7654.66",
+ "ending_balance": "$1,621.34",
+ "aggregate": {
+  "total_contributions_to_date": "$25,124.81",
+  "total_expenditures_to_date": "$23,414.45",
+  "line5_subtotal": "$15,653.21"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL #3",
+  "district_number": "",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-31-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwilde_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Fax copy (fax header 10/31/2006 MATHESON&PESHELL) stamped COPY, legible. The district number cell is blank; the candidate wrote 'COUNTY COUNCIL #3' across the Office Sought cell. Neither the amendment Yes nor No box is checked. Arithmetic closes."
+ }
+}

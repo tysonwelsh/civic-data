@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$14,100.00",
+ "total_expenditures": "$2,885.44",
+ "beginning_balance": "$29,628.47",
+ "ending_balance": "$40,873.03",
+ "aggregate": {
+  "total_contributions_to_date": "$37,150.00",
+  "total_expenditures_to_date": "$4,644.48",
+  "line5_subtotal": "$43,728.47"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "Yes",
+  "amendment_of": "4/21/14",
+  "report_date": "4/21/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/GillS-2014AprilAmendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/GillS-2014AprilAmendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 260 cropped to verify lines 2 and 6)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "INTERNAL INCONSISTENCY, verified at 260 dpi: Line 2 Column A prints $2,885.44 but Line 6 ('from Line 2 Column A') prints $2,855.44, and Line 7 was computed from the Line 6 figure ($43,728.47 - $2,855.44 = $40,873.03). Both figures kept verbatim; no correction applied. This amendment differs from the original 4/7/14 report (key 036b47fc) ONLY in lines 6 and 7 \u2014 the original printed $2,885.44 on line 6 and $40,843.03 on line 7, so the amendment appears to have introduced, not fixed, the $30 discrepancy. The 6/17/14 report's beginning balance is $40,873.03, i.e. the amended figure is the one that carried forward."
+ }
+}

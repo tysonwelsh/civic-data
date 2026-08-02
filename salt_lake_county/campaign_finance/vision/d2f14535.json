@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$12,400.00",
+ "total_expenditures": "$6,000.34",
+ "beginning_balance": "$7,591.89",
+ "ending_balance": "$13,991.55",
+ "aggregate": {
+  "total_contributions_to_date": "$21,054.47",
+  "total_expenditures_to_date": "$7,062.92",
+  "line5_subtotal": "$19,991.89"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council \"A\" at Large",
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "Yes",
+  "amendment_of": "Sept. 23, 2008",
+  "report_date": "9-10-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_sdebry_amendmentsept1508.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_sdebry_amendmentsept1508.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Two boxes are marked: the September 15 interim box AND the amendment 'Yes' box with 'Sept. 23, 2008' written beside it, while the signature date is 9-10-08 and the Summary Page's Date of Report reads 'Sept 10, 2008'; the clerk stamp is SEP 25 2008. Page box reads 'Page 2 of 6'. Cents are raised/underlined superscripts. All lines are arithmetically consistent."
+ }
+}

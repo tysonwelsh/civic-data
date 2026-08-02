@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$25,650.00",
+ "total_expenditures": "$23,530.68",
+ "beginning_balance": "$16,459.64",
+ "ending_balance": "$18,578.96",
+ "aggregate": {
+  "total_contributions_to_date": "$59,417.27",
+  "total_expenditures_to_date": "$41,232.17",
+  "line5_subtotal": "$42,109.64"
+ },
+ "cover": {
+  "candidate": "Jensen, Michael",
+  "party": "REPUBLICAN",
+  "office_sought": "Council #2",
+  "district_number": null,
+  "report_type": "Interim Report October 30, 2012",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "10/30/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jensen_M12_Oct_Council2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jensen_M12_Oct_Council2_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 1",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is NOT the multi-page hand-filled form: it is the clerk's online 'summary_printer.cfm' printout, with the Summary table on page 1 (pages 2-3 are the itemized schedules). There is therefore no District Number field and no amendment question on the document (recorded null). Lines 1-2 and 4/6 are machine-printed; Lines 3, 5 and 7 are handwritten. The Summary has FOUR money columns - 'Total this Period'/'YTD' plus a second 'Total this Period'/'YTD' pair labelled 'Other Campaign Accounts', both $0.00 on Lines 1 and 2; the Other-Campaign-Accounts pair is not captured here. Line 7 is handwritten '$1857896' with no clear comma and an ambiguous decimal; the digits are unmistakable and the value is independently confirmed by the 2012 Year-End filing, whose Line 3 beginning balance is written '$18,578.96'. Report date taken from the printout footer (10/30/2012); the form carries no signature block. Column A arithmetic is consistent."
+ }
+}

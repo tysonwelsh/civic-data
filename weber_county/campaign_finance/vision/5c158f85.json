@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "5c158f85",
+ "source_filing": "raw/wayback/wb20160824045511_JBond_1.5.15.pdf",
+ "document_id": "wb20160824045511_JBond_1.5.15",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:04:40Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "John B. Bond",
+ "office_stated": "Weber County Treasurer",
+ "report_type_stated": "January 5th, 2015 (final report)",
+ "filing_date_stated": "2014-12-31",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "9,958.13",
+   "this": "$0.00",
+   "cum": "9,958.13"
+  },
+  "contrib_le50": {
+   "last": "140.00",
+   "this": "$0.00",
+   "cum": "140.00",
+   "n_contributors": "3"
+  },
+  "expenditures": {
+   "last": "10,098.13",
+   "this": "$0.00",
+   "cum": "10,098.13"
+  },
+  "ending_balance": {
+   "last": "$0.00",
+   "this": "$0.00",
+   "cum": "$0.00"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed form; dated 12/31/2014."
+}

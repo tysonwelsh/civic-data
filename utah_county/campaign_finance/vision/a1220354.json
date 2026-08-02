@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gordon_Brandon_4.4.2022_Redacted.pdf",
+ "key": "a1220354",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:36:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Brandon Gordon",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat B",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "",
+   "report_date": "April 4, 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "10975.71",
+    "contrib_cumulative": "10975.71",
+    "expend_this_period": "13007.94",
+    "expend_cumulative": "13007.94",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "10975.71",
+    "balance_close": "2032.23"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "10975.71",
+    "boxC_contributions_received_year_to_date": "10975.71",
+    "boxD_expenditures_made_this_period": "13007.94",
+    "boxE_expenditures_made_year_to_date": "13007.94",
+    "boxF_subtotal_before_expenditures": "10975.71",
+    "balance_at_close": "2032.23"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "FILER SIGN ERROR, transcribed as printed and NOT corrected: the close box prints '2032.23' as a POSITIVE figure, but the form's own formula (Box F - Box D = 10975.71 - 13007.94) gives -2032.23. The magnitude is right; the sign the filer wrote is not. Do not read this as a positive closing balance without that caveat. NEITHER amendment radio is filled, so is_amendment is ''. Box A is a written '0' (a real zero). No thousands separators anywhere on this summary page. The signature is redacted upstream by the county (black bar); the address block is NOT redacted and prints '718 E 1050 S, Spanish Fork, UT 84660' - only residence_city is recorded. Footer 'v. 4.20'; both 'Page' boxes left blank."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' with two staff review sign-offs, both dated 4/4/22. ONE report emitted. Note that on that checklist the second reviewer left the entire 'Does the Summary Page balance' column UNTICKED - consistent with the sign error above, though the checklist itself states no reason."
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Ellertson112712.pdf",
+ "key": "860d1cab",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:24:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Larry Alton Ellertson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat C",
+   "residence_city": "Lindon",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "11-26-12",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "16,224.31",
+    "expend_this_period": "0",
+    "expend_cumulative": "15,920.36",
+    "balance_beginning": "8,569.13",
+    "subtotal_before_expend": "8,569.13",
+    "balance_close": "8,569.13"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "16,224.31",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "15,920.36",
+    "line3_balance_beginning": "8,569.13",
+    "line4_total_contributions_from_line1A": "-",
+    "line5_subtotal_lines3plus4": "8,569.13",
+    "line6_total_expenditures_from_line2A": "-",
+    "line7_balance_at_close": "8,569.13"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten cursive. TWO DIFFERENT NIL MARKS appear on this summary page and both are transcribed as written rather than normalized: lines 1 and 2 Column A carry a struck-through zero glyph (transcribed '0', medium confidence), while lines 4 and 6 carry a PLAIN DASH stroke with no zero at all (transcribed '-'). A dash is the filer's nil mark here, not a digit and not a blank cell, so it is preserved verbatim; a reader should not silently treat '-' as 0. Year-to-date figures on lines 1B and 2B are unchanged from this filer's 10-29-12 report (16,224.31 / 15,920.36), and the beginning balance (8,569.13) matches that report's line 7. Office Seeking reads 'Utah County Commission Seat C', AGREEING with office_index. candidate_index was blank. AMENDMENT: 'No' is checked. NOTE ON DATES: the index reporting_period and the filename say 11/27/12, but the filer dated both the signature and the summary page's Date of Report box '11-26-12'; the clerk's Date received stamp is 'NOV 27 PM 4:51'. report_date is the filer's own 11-26-12. Page box reads 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

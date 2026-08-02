@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "3520.87",
+ "beginning_balance": "3520.87",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "76,768.50",
+  "total_expenditures_to_date": "76,768.50",
+  "line5_subtotal": "3520.87"
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MCrockett_11_Final_CntyCncl4_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MCrockett_11_Final_CntyCncl4_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 2",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; the amendment 'No' box is checked. Line 1 Column A, Line 4 and Line 7 are written as a hand-drawn slashed zero - recorded as '0'. All money cells use the raised-superscript cents convention ('3520' with a small '87' over a rule; '76,768' with a small '50'), transcribed with a decimal point; the thousands group in 3520.87 has no comma as written. Column A arithmetic checks out (3,520.87 - 3,520.87 = 0, consistent with a dissolution requiring a zero closing balance). Received by fax (header '(TUE) JAN 31 2012 17:21'), clerk-stamped JAN 31 2012. Summary Page header: Page 2 of 4, Crockett, 1-31-12."
+ }
+}

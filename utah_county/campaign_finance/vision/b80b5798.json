@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14Treas-McConnell.pdf",
+ "key": "b80b5798",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Cary R. McConnell",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Treasurer",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/17/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "10,000.00",
+    "contrib_cumulative": "",
+    "expend_this_period": "9,847.21",
+    "expend_cumulative": "",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "10,000.00",
+    "balance_close": "152.79"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "10,000.00",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "9,847.21",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "10,000.00",
+    "line5_subtotal_lines3plus4": "10,000.00",
+    "line6_total_expenditures_from_line2A": "9,847.21",
+    "line7_balance_at_close": "152.79"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. BOTH Column B (Year-to-Date) cells - line 1 and line 2 - were LEFT BLANK by the filer; they are recorded as empty strings, not zero, and are not an unreadable-glyph case. The filer writes the decimal point as a dash ('10,000-00'); transcribed in ordinary decimal form. Line 3 is a slashed-zero glyph, transcribed as 0 at medium confidence. Summary page box reads Page 2 of 4."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "4278",
+  "path": "raw/2016/4278_Tal-Adair-2016-Final.pdf",
+  "page": 1,
+  "sha256": "40681b34987b3a73bcc6e8bba74b1fc51b5978a8f2983b5fae4e76235e46741b",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/4278/Tal-Adair-2016-Final",
+  "index_text_quality": "low",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Tal Adair",
+  "office_verbatim": "County Council",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "12/8/16",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "13,697",
+    "last_report": "$8730.00",
+    "cumulative_totals": "22,427.00"
+   },
+   "contrib_le50": {
+    "current_report": "",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "17,642.44",
+    "last_report": "$7,710.68",
+    "cumulative_totals": "-25,353.12"
+   },
+   "campaign_balance": {
+    "current_report": "-3,945.44",
+    "last_report": "$1019.12",
+    "cumulative_totals": "-2,926.32"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten cover; re-read at 300dpi zoom to fix ambiguous digits. Current >$50 written with no cents ('13,697'). The Last Report column does NOT reproduce this filer's own Pre-Election (doc 4020) figures — 4020 printed expenditures 7,560.88 and balance 1,169.12 while this sheet carries 7,710.68 / 1019.12; the cumulative expenditure cell is written as a NEGATIVE (-25,353.12). Filer arithmetic retained exactly as filed. The <=$50 cells are a dash / slashed-zero nil mark, recorded as blank. CORRECTION 2026-08-02 (verification pass): the Last Report expenditure cell was transcribed $7760.68; re-read at 400 dpi it is $7,710.68 (the third digit is a 1, not a 6). The filer's own arithmetic confirms it: 17,642.44 + 7,710.68 = 25,353.12, exactly the printed cumulative (which he wrote as a negative, -25,353.12). Contributions (13,697 + 8,730.00 = 22,427.00) and balance (-3,945.44 + 1,019.12 = -2,926.32) also reconcile exactly on this sheet. No promoted figure changes (the cumulative column is promoted); cover_totals.csv verbatim is corrected. Separately and honestly: this Last Report column does NOT reproduce his own Pre-Election sheet (4020: expenditures 7,560.88, balance 1,169.12) - the filer restated, and both sheets are retained as filed."
+}

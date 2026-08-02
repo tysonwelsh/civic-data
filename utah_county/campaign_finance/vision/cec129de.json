@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Rudy_Livingston.pdf",
+ "key": "cec129de",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:04:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rudolf Livingston",
+   "party_printed": "",
+   "office_printed": "County Auditor",
+   "residence_city": "American Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/20/22",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "23,784.33",
+    "contrib_cumulative": "26,224.33",
+    "expend_this_period": "22,151.64",
+    "expend_cumulative": "24,506.14",
+    "balance_beginning": "85.50",
+    "subtotal_before_expend": "23,869.83",
+    "balance_close": "1,718.19"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "85.50",
+    "boxB_contributions_received_this_period": "23,784.33",
+    "boxC_contributions_received_year_to_date": "26,224.33",
+    "boxD_expenditures_made_this_period": "22,151.64",
+    "boxE_expenditures_made_year_to_date": "24,506.14",
+    "boxF_subtotal_before_expenditures": "23,869.83",
+    "boxG_balance_at_close": "1,718.19"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, scanned; wet-ink signature, Date 6/20/22 (Date of Filing and the summary page's Date of Report also 6/20/22). Amendment: 'No' is checked. NAME: the page prints 'Rudolf Livingston'; index.csv carries 'Rudy Livingston'. Office 'County Auditor' agrees with index.csv. Address printed in full (459 N 1120 E, American Fork) - not redacted. This filing's Box G close (1,718.19) is the same figure the filer's later 8/4/22 elimination report carries in Box A."
+  }
+ ],
+ "notes": ""
+}

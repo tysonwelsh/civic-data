@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "David A. Wilde",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "September 27, 2006",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_sept152006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwilde_sept152006amendment.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT a disclosure form \u2014 a single-page typed letter on 'GO WILDE' campaign letterhead, faxed to the SLCo Clerk 9/27/2006, Re: 'Amended Disclosure'. It supplies the occupation/employer of nine contributors of more than $50.00 and contains no Summary Page and no totals. The letter says it amends BOTH the June 20 and September 15 disclosures, while the clerk listing labels it 'Amendment to September' only. Form fields other than candidate name and letter date do not exist in this document."
+ }
+}

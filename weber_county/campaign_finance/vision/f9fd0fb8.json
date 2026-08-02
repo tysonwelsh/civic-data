@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "f9fd0fb8",
+ "source_filing": "raw/y2026/2026_ugd_92078f_163de27d.pdf",
+ "document_id": "2026_ugd_92078f_163de27d",
+ "page_start": 1,
+ "page_end": 7,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:00:04Z",
+ "read_method": "text (born-digital Polimorphic e-filing sidecar; no vision needed)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Michelle Tait",
+ "office_stated": "County Commisioner Seat A",
+ "report_type_stated": "7 days before candidates' convention (Republican Party)",
+ "filing_date_stated": "2026-04-02",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "0",
+   "this": "1973.1",
+   "cum": "1973.1"
+  },
+  "expenditures": {
+   "last": "0",
+   "this": "1973.1",
+   "cum": "1973.1"
+  },
+  "ending_balance": {
+   "last": "0",
+   "this": "0",
+   "cum": "0"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "BORN-DIGITAL Polimorphic e-filing; totals parsed from the text sidecar. Amounts are printed with ONE decimal place ('1973.1') by the platform - retained verbatim, not padded. Office spelled 'Commisioner' by the filer. Submitted on the candidate's behalf by Nick Saisi. Carries 6 itemized contributions and 6 itemized expenditures (each side sums to 1973.10) - not loaded in this totals-only tranche."
+}

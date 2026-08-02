@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Andrew_Jackson_Redacted.pdf",
+ "key": "0fcb4ca1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Andrew K Jackson",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat \"C\"",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "05/18/24",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "6,200",
+    "contrib_cumulative": "6,200",
+    "expend_this_period": "6,200",
+    "expend_cumulative": "6,200",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "6,200",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "6,200",
+    "boxC_contributions_received_year_to_date": "6,200",
+    "boxD_expenditures_made_this_period": "6,200",
+    "boxE_expenditures_made_year_to_date": "6,200",
+    "boxF_subtotal_before_expenditures": "6,200",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures. Boxes B-F are printed with a leading '$' and a thousands comma ('$6,200'); per the spec the '$' is dropped and the comma kept verbatim. Box A is printed as a bare '0' and Balance at Close as '$0'. The Office field prints the seat letter in straight double quotes: Utah County Commission Seat \"C\". The report-type checkbox marked is '30 Days after withdrawal or elimination', consistent with index.csv's 'Eliminated or Withdrawn'. Address/city/state/zip are redacted upstream by the county (a single black bar across the whole row), so residence_city is ''. The signature is an Adobe digital signature reading 'Digitally signed by Andrew K Jackson / Date: 2024.05.19 15:45:46 -06'00'' - one day AFTER the 05/18/24 the filer typed in the Date and Date of Report boxes; report_date follows the form's own date fields as printed."
+  }
+ ],
+ "notes": ""
+}

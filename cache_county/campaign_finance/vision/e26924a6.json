@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "879420e1d79a3459548c6daa6837573cb27bf78c91152bac84b980a173dd4a76",
+ "canonical_path": "raw/2020/2020_cc_David_Erickson.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_David_Erickson.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "David Erickson",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "North District",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Smithfield",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess Bradfield",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12-3-20",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-DEC 3 '20 PM 3:38:59",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "500.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "500.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "497.95",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "497.95",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "2.05",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "2.05",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "North District",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'North District'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Zeros are hand-drawn slashed-O glyphs."
+}

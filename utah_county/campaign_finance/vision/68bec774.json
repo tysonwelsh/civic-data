@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-AndersonGaryJ-061510.pdf",
+ "key": "68bec774",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:01:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gary J Anderson",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/15/2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "26,148.25",
+    "contrib_cumulative": "",
+    "expend_this_period": "21,549.12",
+    "expend_cumulative": "",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "26,148.25",
+    "balance_close": "4599.13"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "26,148.25",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "21,549.12",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "26,148.25",
+    "line5_subtotal_lines3plus4": "26,148.25",
+    "line6_total_expenditures_from_line2A": "21,549.12",
+    "line7_balance_at_close": "4599.13"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "",
+    "expend_this_period": "medium",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; the largest figures in this chunk. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat A' but the page's Office Seeking line reads only 'County Commissioner' with NO seat letter - the seat is not stated on the filing and was not inferred. TWO COLUMN-B CELLS LEFT BLANK by the filer (line 1 and line 2 Year-to-Date); they are '' and NOT zero. Cents are written as small raised pairs with a trailing flourish ('26,148.' + raised '25'; '21,549.' + raised '12'; '4599.' + raised '13') - medium confidence on the cents, high on the dollars. Line 7 is written without a thousands comma ('4599.13') unlike lines 1/2/4/5/6, and is transcribed as printed. Line 3 is a slashed-zero glyph. Summary page header reads 'Page 1 of 1' even though the PDF has 9 pages (Schedule A/B sheets follow)."
+  }
+ ],
+ "notes": ""
+}

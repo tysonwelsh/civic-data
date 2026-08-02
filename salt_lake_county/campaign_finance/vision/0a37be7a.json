@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "5,943.29",
+ "ending_balance": "943.29",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "5,943.29"
+ },
+ "cover": {
+  "candidate": "SAM Granato",
+  "party": "DEMOCRAT",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "1.30.13",
+  "report_date": "7/5/2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "is_amendment": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_YearEnd_Amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_YearEnd_Amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 320 cropped to verify lines 6 and 7)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "WORTH HUMAN ATTENTION - two things. (1) This is the 2013-vintage form whose INTERIM REPORTS section lists no dated options at all, and no Type-of-Report box is checked (report_type left empty); the only mark is 'amendment? Yes', dated 1.30.13, i.e. it amends the 1-30-13 year-end (key 05a9bb37), while itself being signed 7/5/2013 (RECEIVED JUL 08 2013). (2) ARITHMETIC DOES NOT CLOSE: line 5 = 5,943.29 and line 6 = 5,000.08 give 943.21, but line 7 prints 943.29 - an 8-cent discrepancy. Verified at 320 dpi; both figures kept verbatim, nothing recomputed. Lines 1 and 2 are BLANK in both columns and line 4 is blank (empty strings, not zeros). Line 3 equals the ending balance of the report it amends."
+ }
+}

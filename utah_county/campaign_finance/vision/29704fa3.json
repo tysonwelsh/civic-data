@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Andrea_Allen.pdf",
+ "key": "29704fa3",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Andrea Allen",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/29/2024",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "4230.57",
+    "contrib_cumulative": "4230.57",
+    "expend_this_period": "4230.57",
+    "expend_cumulative": "4230.57",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "4230.57",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "4230.57",
+    "boxC_contributions_received_year_to_date": "4230.57",
+    "boxD_expenditures_made_this_period": "4230.57",
+    "boxE_expenditures_made_year_to_date": "4230.57",
+    "boxF_subtotal_before_expenditures": "4230.57",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures. index.csv carries reporting_period='' for this filing; the page resolves it - the 'Seven days preceding the General Election' radio is the one marked (X). Clerk's blue RECEIVED stamp reads OCT 29 2024. PRIVACY NOTE: this copy is UNREDACTED - the county published the filer's full street address and phone number in the clear (the sibling filing 689f5ea9 is the same document with those fields blacked out). Per repo privacy practice only the residence city is recorded here; the street address and phone are deliberately NOT transcribed into this cache."
+  }
+ ],
+ "notes": "Same underlying report as key 689f5ea9 (identical candidate, office, report type, date 10/29/2024 and all seven boxes). The two differ only in redaction state: this file is the unredacted copy, 689f5ea9 is the redacted one. Not a bundle - one report."
+}

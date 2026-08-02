@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "180.00",
+ "total_expenditures": "106.11",
+ "beginning_balance": "67.11",
+ "ending_balance": "141.00",
+ "aggregate": {
+  "total_contributions_to_date": "180.00",
+  "total_expenditures_to_date": "106.11",
+  "line5_subtotal": "247.11"
+ },
+ "cover": {
+  "candidate": "Ott, Gary",
+  "party": "Republican",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "31/13",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ott_G_12_Final_Recorder_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ott_G_12_Final_Recorder_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked despite the clerk filename 'Final'; neither amendment box is checked. The signature date is only partly legible - the visible portion reads '31/13' with the leading month digits lost in the signature flourish; the clerk RECEIVED stamp reads JAN 31 2013 (left unconverted here per the no-fabrication rule). Cents on lines 1, 4 and 7 are written as raised superscript '00' over a rule, transcribed with a decimal point. Column B is headed 'Year to Date'. The manifest/clerk listing files this as a 2012 report; the form face carries the stale printed 2012 interim dates and was signed/received Jan 2013."
+ }
+}

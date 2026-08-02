@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,725 -",
+ "total_expenditures": "1,275.68",
+ "beginning_balance": "92.93",
+ "ending_balance": "4542.25",
+ "aggregate": {
+  "total_contributions_to_date": "$5,725-",
+  "total_expenditures_to_date": "1,275.68",
+  "line5_subtotal": "5,817.93"
+ },
+ "cover": {
+  "candidate": "Joe Hatch",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "1",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "4/4/6",
+  "report_date": "10/3/6",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/joehatch_april506amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/joehatch_april506amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Title carries NO year - form_year ''. Amendment to the April 5 report; the amendment date box reads '4/4/6' while the Summary Page 'Date of Report' is 4/5/6 and the signature is 10/3/6 (clerk stamp OCT 03 2006) - all retained as printed. Contributions written with a dash for the cents. Summary Page header: Page 2 of 5, HATCH, 4/5/6. Line 3 (92.93) matches Line 7 of Hatch's 1/31/6 report (key 69c420fb); arithmetic consistent."
+ }
+}

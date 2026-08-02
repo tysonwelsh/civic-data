@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,245.00",
+ "total_expenditures": "$96,608.99",
+ "beginning_balance": "$102,756.40",
+ "ending_balance": "$11,392.41",
+ "aggregate": {
+  "total_contributions_to_date": "$245,675.98",
+  "total_expenditures_to_date": "$234,283.57",
+  "line5_subtotal": "$108,001.40"
+ },
+ "cover": {
+  "candidate": "Lannie Chapman",
+  "party": "Dem",
+  "office_sought": "_Clerk",
+  "district_number": "na",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/31/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Chapman-Lannie__3531F3C1.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Chapman, Lannie",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Chapman-Lannie__3531F3C1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed/electronic form; TITLE reads \"2020 Financial Disclosure Report\" for the 01/31/23 year-end filing (stale template). Both the top-row Office and Office Sought read \"_Clerk\"."
+ }
+}

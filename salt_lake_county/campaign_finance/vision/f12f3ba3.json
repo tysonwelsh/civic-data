@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1520.00",
+ "total_expenditures": "1212.38",
+ "beginning_balance": "0",
+ "ending_balance": "307.62",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1520"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEMOCRAT",
+  "office_sought": "County Council C",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-30-05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/bradley_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/bradley_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Column A uses the raised-cents-over-a-rule convention (1520 with a small superscript over an underline); transcribed as 1520.00 at medium confidence \u2014 the superscript is small and smudged, though the form's arithmetic (1,520 - 1,212.38 = 307.62) is consistent with it. Line 5 Column A is plain '1520' with no cents. Line 3 Column A is written '-o-' (a zero flanked by dashes). Column B on lines 1 and 2 is entirely blank. Column B is headed 'Year-to-Date Total' on this form vintage. 'County Council C' is written across the Office Sought / District Number fields in red pen. Stamped COPY / RECEIVED JAN 31 2005."
+ }
+}

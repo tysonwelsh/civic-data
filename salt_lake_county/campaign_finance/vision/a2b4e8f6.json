@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6,600",
+ "total_expenditures": "21,105.55",
+ "beginning_balance": "13696.74",
+ "ending_balance": "-808.81",
+ "aggregate": {
+  "total_contributions_to_date": "153268.30",
+  "total_expenditures_to_date": "155076.55",
+  "line5_subtotal": "20296.74"
+ },
+ "cover": {
+  "candidate": "JAMES M. WINDER",
+  "party": "DEM",
+  "office_sought": "SHERIFF",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwinder_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jwinder_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Summary Page header: Page 2 of 4, WINDER, 1/31/07. Column B values verified on a 300dpi crop ('153268.30' and '155076.55'; this hand writes 6 like a lower-case b). Line 7 is NEGATIVE and written '-808.81' - transcribed verbatim. Column A arithmetic consistent (13696.74 + 6600 = 20296.74; 20296.74 - 21105.55 = -808.81). NEITHER amendment box is checked."
+ }
+}

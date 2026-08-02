@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$24,650.00",
+ "total_expenditures": "$29,692.37",
+ "beginning_balance": "$6,123.22",
+ "ending_balance": "$1,080.85",
+ "aggregate": {
+  "total_contributions_to_date": "$95,760.81",
+  "total_expenditures_to_date": "$99,402.41",
+  "line5_subtotal": "$30,773.33"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "REP",
+  "office_sought": "County Council, 2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_mjensen_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_mjensen_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN form (the only machine-typed filing in this chunk), so the figures are unambiguous. Older form variant with a top-row 'Office' box reading 'Council, 2'; Office Sought reads 'County Council, 2' and the District Number box is blank. Neither amendment box is checked. ARITHMETIC INCONSISTENCY, kept verbatim: Line 3 + Line 4 = 6,123.22 + 24,650.00 = 30,773.22, but Line 5 is typed 30,773.33 (an 11-cent typo); Line 7 (1,080.85) is consistent with 30,773.22 - 29,692.37, not with the typed Line 5. Nothing was corrected."
+ }
+}

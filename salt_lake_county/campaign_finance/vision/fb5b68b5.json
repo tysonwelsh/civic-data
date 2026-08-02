@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$8,575.00",
+ "total_expenditures": "$4,318.69",
+ "beginning_balance": "$6,136.99",
+ "ending_balance": "$10,393.30",
+ "aggregate": {
+  "total_contributions_to_date": "$21,718.46",
+  "total_expenditures_to_date": "$11,325.16",
+  "line5_subtotal": "$14,711.99"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-25-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sdebry_10_OctoberInterim_CntyCncl5.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sdebry_10_OctoberInterim_CntyCncl5.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The FORM checks 'Seven days before a general election'; the clerk listing calls this the October interim - the same filing, but the form face wording is what is recorded. Neither amendment box is checked. Signed 10-25-10, clerk-stamped RECEIVED OCT 26 2010; Summary Page header 'DeBry, 10-25-10, page 2 of 4'. Both columns reconcile exactly (6,136.99 + 8,575.00 = 14,711.99; less 4,318.69 = 10,393.30 = 21,718.46 - 11,325.16). Cents are written as raised superscripts on the round figures."
+ }
+}

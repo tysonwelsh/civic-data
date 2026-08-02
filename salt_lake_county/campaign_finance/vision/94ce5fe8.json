@@ -1,0 +1,50 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "1/30/15",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nelson_Steve_DA_April14_Amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nelson_Steve_DA_April14_Amendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-2, then 3-5 to hunt for the Summary Page)",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "THE SUMMARY PAGE IS MISSING FROM THIS FILING. The PDF has 5 pages: the cover (form page 1), then Schedule A (form page 3), Schedule B (form page 4) and two landscape attachment sheets - the printed page numbers jump 1 -> 3, so the form's page 2 (Summary Page) was never included. All totals are therefore null; I did NOT derive them from the schedules. For a human's information only, the schedules state Total Contributions Received $5,870.62 and Total Expenditures Made $3,906.12, each exactly $62.00 above the original April filing (key 3e198e18), which is what this amendment appears to correct. The 'April 5' box is marked with a typed X and the amendment 'Yes' box is marked with a typed X but the 'date of report' line beside it is left BLANK. Signed 1/30/15, clerk-stamped JAN 30 2015 - filed nine months after the report it amends, in the same batch as the June and October amendments."
+ }
+}

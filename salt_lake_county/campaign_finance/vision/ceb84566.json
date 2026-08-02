@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "574.92",
+ "total_expenditures": "574.92",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "574.92",
+  "total_expenditures_to_date": "574.92",
+  "line5_subtotal": "574.92"
+ },
+ "cover": {
+  "candidate": "Kim W. Lundeberg",
+  "party": "Dem.",
+  "office_sought": "Salt Lake County Surveyor",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04.04.06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/klundeberg_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kim W. Lundeberg",
+  "office": "",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/klundeberg_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 3 and 7 Column A are each written as a hand-drawn slashed zero (a circle with a stroke through it); recorded as 0. Neither the amendment Yes nor No box is checked. Note the totals here are identical to Kelton Baker's April 5 expenditure figure (574.92) - that is what both forms print; no inference drawn."
+ }
+}

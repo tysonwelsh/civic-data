@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6,186.94",
+ "total_expenditures": "$2,018.88",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$4,168.06",
+ "aggregate": {
+  "total_contributions_to_date": "$6,186.94",
+  "total_expenditures_to_date": "$2,018.88",
+  "line5_subtotal": "$6,186.94"
+ },
+ "cover": {
+  "candidate": "Chris William Harding",
+  "party": "Republican",
+  "office_sought": "_Auditor",
+  "district_number": "NA",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "04/04/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harding-Chris__AF486853.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harding, Chris",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harding-Chris__AF486853.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk listing calls this 'March 31, 2022'; the form checks the April 5 interim box and is dated 04/04/22. Stale '2020' form template. Internally consistent."
+ }
+}

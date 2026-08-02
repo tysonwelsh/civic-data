@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_CA.Hemingway.pdf",
+ "key": "161ae673",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:30:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "STEPHEN \"HEMI\" HEMINGWAY",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "UTAH COUNTY CLERK/AUDITOR",
+   "residence_city": "PROVO",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "4/29/2018",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "605.20",
+    "contrib_cumulative": "605.20",
+    "expend_this_period": "605.20",
+    "expend_cumulative": "605.20",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "605.20",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "605.20",
+    "line1_total_contributions_colB": "605.20",
+    "line2_total_expenditures_colA": "605.20",
+    "line2_total_expenditures_colB": "605.20",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "605.20",
+    "line5_subtotal_lines3plus4": "605.20",
+    "line6_total_expenditures_from_line2A": "605.20",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, ALL-CAPS cover. Every money cell is 605.20; in line 1 Column B and line 2 Column A the filer omitted/blurred the decimal point (written '60520'), transcribed as 605.20 at medium confidence since the same figure is unambiguous in the other cells. Lines 3 and 7 are slashed-zero glyphs, transcribed as '0'. The summary page is PDF page 4 but the form's own header numbers it 'Page 3 of 3' and carries 'Date of Report 4/29/2018'. Office field 'UTAH COUNTY CLERK/AUDITOR' agrees with office_index; the candidate name is printed with the nickname in quotes."
+  }
+ ],
+ "notes": ""
+}

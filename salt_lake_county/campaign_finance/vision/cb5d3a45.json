@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Benjamin Kendrick",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "29/ Jan/ 2008",
+  "form_year": null
+ },
+ "confidence": {
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_bkendrick_dissolutionreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Benjamin Kendrick",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_bkendrick_dissolutionreport.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice form (k://Election2006/CandidateInfo/FilingForms/06pccdissolution.doc), not the Financial Disclosure Report - no checkboxes, no party/office/district boxes, no Summary Page. Handwritten: Committee 'Ben Kendrick'; County Office Candidate 'Benjamin Kendrick'; Committee Secretary 'Robin Kendrick'; 'Date Committee Was Established' left BLANK. Signature date written as '29/ Jan/ 2008' (day-first); RECEIVED stamp JAN 29 2008. Stamped COPY."
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "filing_key": "wayback_2010elections|2010-06-15|CORY PULSIPHER",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/6-15-2010 County Candidate Summary - Cory Pulsipher.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 County Candidate Summary - Cory Pulsipher.pdf",
+   "doc_kind": "summary",
+   "sha256": "88b79d2b04cad109de726162d31a6c26fb7837d3bed772d126627548fa91b192",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 Contributions - Cory Pulsipher.pdf",
+   "doc_kind": "contributions",
+   "sha256": "89ff9fe16104218b7f5941906c6e6d662531137935e6077ca23be6df71a9731f",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 Expenditures - Cory Pulsipher.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "9f865f815e9e36ebe944a11204b51ad07185bedad14bbb32572f22217a82da14",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Cory Pulsipher",
+  "office": "County Sheriff",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Sheriff",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Cory Pulsipher",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/6/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$5,300.00",
+   "expenses": "$2,493.77",
+   "balance": "$2,806.23"
+  },
+  {
+   "submitted": "6/14/2010",
+   "date_due": "6/15/2010",
+   "contrib_gt50": "$18,260.00",
+   "expenses": "$18,194.05",
+   "balance": "$3,072.18"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "6/14/2010",
+   "date_due": "6/15/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "$18,260.00",
+   "contrib_gt50_this": "18260",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$18,194.05",
+   "expenses_this": "18194.05",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "$3,072.18",
+   "balance_end": "3072.18",
+   "balance_last_printed": "$2,806.23",
+   "balance_last": "2806.23",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

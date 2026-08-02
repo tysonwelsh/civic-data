@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_Dayton05.18.20Redacted.pdf",
+ "key": "cb97d6ef",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:58:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Taylor Dayton",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner C",
+   "residence_city": "Orem",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/18/20",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "647.20",
+    "contrib_cumulative": "647.20",
+    "expend_this_period": "647.20",
+    "expend_cumulative": "647.20",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "647.20",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "647.20",
+    "boxC_contributions_received_year_to_date": "647.20",
+    "boxD_expenditures_made_this_period": "647.20",
+    "boxE_expenditures_made_year_to_date": "647.20",
+    "boxF_subtotal_before_expenditures": "647.20",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Modern Box A-F form (v. 4.20) filled in entirely by HAND in pencil/grey ink, including a hand-drawn '$' before each figure (dropped per schema). The single figure 647.20 appears in five boxes; the filer's '2' is loopy and could be misread, so those hold at medium confidence, but all five writings agree. OFFICE RESOLUTION: index.csv carries the seat-less 'County Commission'; the page names the seat - 'Utah County Commissioner C'. The signature block is redacted upstream by the county (black bar); the address, phone and email survive. This form prints no political-party field. Cover Date and Date of Report both '5/18/20', cover Page '1', summary Page '4'. Clerk stamp \"'20 MAY 18 PM 1:16\"."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "869.71",
+ "ending_balance": "869.71",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "869.71"
+ },
+ "cover": {
+  "candidate": "Gary W. Ott",
+  "party": "Republican",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "30 Jan 08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_gott_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_gott_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "2008-era form variant: the title carries NO year ('Financial Disclosure Report For a Candidate'), so form_year is ''; the interim list reads 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election'. This variant has BOTH an 'Office' box in the top row and a separate 'Office Sought' box: the top-row Office box reads 'Recorder' and the Office Sought box is BLANK - 'Recorder' is reported here as office_sought. Summary Page header: Page 1 of 3, Ott, 30 Jan 2008; Column B header reads 'Aggregate Total' and both Column B cells are blank. Zeros written as slashed zeros with a tail."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/CDickson_11_Dissolution_Clerk.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/CDickson_11_Dissolution_Clerk.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - no Summary Page and no figures, so all totals are null. The form has no office field; the committee name is 'Carrie Dickson For County Clerk' and the committee secretary is Carrie Dickson herself. Committee established March 2006 (the clerk listing's '2006 Interim Reports' label reflects that establishment date). Clerk RECEIVED stamp JAN 31 2012."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "357.66",
+ "total_expenditures": "0",
+ "beginning_balance": "1144.03",
+ "ending_balance": "1501.69",
+ "aggregate": {
+  "total_contributions_to_date": "357.66",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "1501.69"
+ },
+ "cover": {
+  "candidate": "Sherrie Swensen",
+  "party": "Democrat",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sswensen_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sherrie Swensen",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/sswensen_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten with raised superscript cents. The form is titled '2006 Financial Disclosure Report' but the Year-End box is checked and it is signed 1/30/06 and stamped JAN 31 2006, i.e. the year-end report for calendar 2005 - matching the clerk listing's '2005 Summary Report'. Zeros on Line 2 (both columns) and Line 6 are small hand-drawn circles. The 'June 20' checkbox printed as a solid dot on this scan - it is NOT checked. Line 3 (1144.03) matches the 1/14/05 year-end's Line 7 and Line 5 (1501.69) matches the following April interim's Line 3."
+ }
+}

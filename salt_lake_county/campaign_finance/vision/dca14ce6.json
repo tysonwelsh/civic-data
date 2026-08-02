@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,710.00",
+ "total_expenditures": "4,454.51",
+ "beginning_balance": "379.50",
+ "ending_balance": "1,634.99",
+ "aggregate": {
+  "total_contributions_to_date": "32,721.19",
+  "total_expenditures_to_date": "31,086.20",
+  "line5_subtotal": "6,089.50"
+ },
+ "cover": {
+  "candidate": "Kevin Jacobs",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (For the period ending September 10, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/14/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jacobs_Kevin_Assessor_Sept.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kevin E. Jacobs",
+  "office": "Assessor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Jacobs_Kevin_Assessor_Sept.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NEITHER the amendment Yes nor the No box is checked, so is_amendment is left as an empty string. Signature date on the cover is 9/14/14 but the Summary Page header carries 9/15/14 (the filing deadline); the clerk received-stamp reads SEP 15 2014. All Column A arithmetic checks out (379.50 + 5,710.00 = 6,089.50; 6,089.50 - 4,454.51 = 1,634.99), and beginning balance 379.50 chains exactly to the June filing's Line 7."
+ }
+}

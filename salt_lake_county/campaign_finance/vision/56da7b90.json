@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "11,640.77",
+ "total_expenditures": "12,147.18",
+ "beginning_balance": "5966.01",
+ "ending_balance": "5459.60",
+ "aggregate": {
+  "total_contributions_to_date": "19,769.10",
+  "total_expenditures_to_date": "14,309.50",
+  "line5_subtotal": "17,606.78"
+ },
+ "cover": {
+  "candidate": "SIMARJIT S. GILL",
+  "party": "DEMOCRATIC",
+  "office_sought": "DIST. ATTORNEY",
+  "district_number": "County-wide",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/4/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/sgill_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten 2006-era form; candidate signs his full legal name 'SIMARJIT S. GILL' (the clerk listing says 'Sim Gill'). No dollar signs are written; figures recorded as printed. Lines 3 and 7 are written without a thousands comma (5966.01 / 5459.60). Balance summary is internally consistent."
+ }
+}

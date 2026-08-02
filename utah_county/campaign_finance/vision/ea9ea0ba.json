@@ -1,0 +1,58 @@
+{
+ "path": "raw/2022/2022_Ashely_Hoiland.pdf",
+ "key": "ea9ea0ba",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:30:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 2.22",
+ "form_title": "Financial Campaign Report for County Offices and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Ashley Hoiland",
+   "party_printed": "",
+   "office_printed": "School board",
+   "scope_flag": "school_board",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "",
+   "report_date": "05/06/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": ["is_amendment"],
+   "notes": "SCHOOL BOARD FILER - the Office field is handwritten 'School board' (no district named); scope_flag school_board is set, per spec, because this is out of scope for the county package. index.csv carried a BLANK office for this filing, so this read resolves it. Entirely handwritten form. All seven summary boxes carry a SLASHED-ZERO glyph (the filer's zero) - transcribed as '0' at medium confidence; these are written zeros, not blank cells. Neither amendment radio (No / Yes) is marked, so is_amendment is ''. The 'Date of Report' and 'Page' boxes on both the cover and the summary page were left blank by the filer; report_date is taken from the signature Date box (05/06/2022). A county date-received stamp reading '22 MAY 6 PM 1:21' is visible. This form revision's printed title is 'Financial Campaign Report for County OFFICES and Local School Board Candidates' (footer v. 2.22) and its report-type list differs from the v. 4.20 form (it offers '30 Days after the Primary Election' and no 'Seven days preceding Convention')."
+  }
+ ],
+ "notes": ""
+}

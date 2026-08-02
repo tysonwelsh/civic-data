@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "1736.34",
+ "beginning_balance": "1736.34",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "1736.34",
+  "line5_subtotal": "1736.34"
+ },
+ "cover": {
+  "candidate": "BRENT GOODFELLOW",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNTY COMMISSION 2",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Goodfellow-Brent__F1C0D6C1.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Goodfellow, Brent",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Goodfellow-Brent__F1C0D6C1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten on the 2022 typed template. Line 1 (total contributions) is BLANK in both Column A and Column B - recorded as empty string, not zero. Lines 4 and 7 Column A are a handwritten '0'/oval zero. Office is written as 'COUNTY COMMISSION 2' (top row) and 'COUNTY COMMISSION 2' (Office Sought); the separate District Number cell is blank. Neither amendment box is checked. Manifest office label is 'County Council'; the form says County Commission 2."
+ }
+}

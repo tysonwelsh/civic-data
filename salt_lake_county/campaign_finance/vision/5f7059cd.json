@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$62,070.09",
+ "total_expenditures": "$22,391.60",
+ "beginning_balance": "$3,502.79",
+ "ending_balance": "$43,181.28",
+ "aggregate": {
+  "total_contributions_to_date": "$62,070.09",
+  "total_expenditures_to_date": "$22,391.60",
+  "line5_subtotal": "$65,572.88"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "DEM",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_Mayor_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_Mayor_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Year-End box is checked; neither amendment box is checked. NOTE THE STALE FORM: this is the 2013 year-end but it is filed on the 2012-vintage blank, whose interim boxes still read 'April 5 / For the period ending March 31, 2012', 'June 19 ... 2012', etc. Filled out in blue ink. A zip code ('84103') is written in the Political Party area next to 'DEM', overlapping the field. Signed 1/30/14, clerk-stamped JAN 30 2014. Summary Page header: Page 1 of 6, McAdams, 1/31/14. Column B is headed 'Year to Date' and equals Column A on both lines (calendar-year reset). Column A arithmetic checks out (3,502.79 + 62,070.09 = 65,572.88; minus 22,391.60 = 43,181.28), and Line 3 chains exactly to the 2012 year-end's Line 7."
+ }
+}

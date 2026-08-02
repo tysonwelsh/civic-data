@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "55,163.59",
+ "total_expenditures": "36,202.06",
+ "beginning_balance": "4,084.47",
+ "ending_balance": "23,046.00",
+ "aggregate": {
+  "total_contributions_to_date": "84,533.59",
+  "total_expenditures_to_date": "62,487.39",
+  "line5_subtotal": "59,248.06"
+ },
+ "cover": {
+  "candidate": "Jim Winder",
+  "party": "Democrat",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/14/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwinder_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jwinder_sept152006.pdf",
+  "pages_read": [
+   1,
+   8
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "8-page filing; the Summary Page is page 8, not page 2 (pages 2-7 are Schedule A/B, which carry only 'See attached' with the itemization supplied as an attachment). Neither the amendment Yes nor No box is checked. Lines 3+4=5 and 5-6=7 both reconcile exactly, corroborating the reading."
+ }
+}

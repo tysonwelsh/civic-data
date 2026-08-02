@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$72,243.50",
+ "total_expenditures": "$25,627.16",
+ "beginning_balance": "$46,616.34",
+ "ending_balance": "$53,694.46",
+ "aggregate": {
+  "total_contributions_to_date": "$97,743.50",
+  "total_expenditures_to_date": "$44,049.04",
+  "line5_subtotal": "$72,116.34"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "April 4, 2022",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/DeBry-Steve__D59C4C61.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "DeBry, Steve",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/DeBry-Steve__D59C4C61.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Same Column-A/Column-B placement anomaly as this filer's June report: Line 1 Column A ($72,243.50) disagrees with Line 4 'from Line 1 Column A' ($25,500.00), and Line 2 Column A ($25,627.16) disagrees with Line 6 ($18,421.88); 97,743.50 - 25,500.00 = 72,243.50, so Column A on Lines 1-2 holds the prior aggregate. Recorded verbatim, not corrected. Neither amendment box checked. Clerk RECEIVED stamp APR 4 2022."
+ }
+}

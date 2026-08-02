@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "19,205.95",
+ "total_expenditures": "14,051.90",
+ "beginning_balance": "5814.19",
+ "ending_balance": "10,968.24",
+ "aggregate": {
+  "total_contributions_to_date": "41,333.62",
+  "total_expenditures_to_date": "30,365.03",
+  "line5_subtotal": "25,020.14"
+ },
+ "cover": {
+  "candidate": "Leslie Reberg",
+  "party": "Democrat",
+  "office_sought": "Recorder",
+  "district_number": "Countywide",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lreberg_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lreberg_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Written in heavy marker; the Summary Page header box was left blank. Neither amendment box is checked. Column A reconciles exactly (5814.19 + 19,205.95 = 25,020.14; minus 14,051.90 = 10,968.24). Column B does not: 41,333.62 - 30,365.03 = 10,968.59, 35 cents above the Line 7 balance - kept verbatim."
+ }
+}

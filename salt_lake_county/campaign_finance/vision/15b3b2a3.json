@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "16,995.00",
+ "total_expenditures": "4,078.75",
+ "beginning_balance": "2,550.00",
+ "ending_balance": "15,466.25",
+ "aggregate": {
+  "total_contributions_to_date": "20,278.80",
+  "total_expenditures_to_date": "4,812.55",
+  "line5_subtotal": "19,545.00"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "6/20/2006",
+  "report_date": "6/20/2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/carriedickson_june20amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/carriedickson_june20amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Fully TYPED form. NO Type-of-Report box is checked -> report_type ''; only 'Is this report an amendment? Yes ... 6/20/2006' is marked. This is the corrected version of the handwritten June report (key 3fcb544d): every figure matches except Line 7, which here reads 15,466.25 vs 16,469.25 on the handwritten original. Summary header: page 1 of 1, Dickson, 6/20/2006 (PDF has 4 pages). Received stamp OCT 06 2006."
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Grierson061912.pdf",
+ "key": "9cceca7c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:36:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "LORNE W GRIERSON",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "",
+   "residence_city": "OREM",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6-18-2012",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "13,212.30",
+    "contrib_cumulative": "13,212.30",
+    "expend_this_period": "5,684.06",
+    "expend_cumulative": "5,684.06",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "13,212.30",
+    "balance_close": "7528.24"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "13,212.30",
+    "line1_total_contributions_colB": "13,212.30",
+    "line2_total_expenditures_colA": "5,684.06",
+    "line2_total_expenditures_colB": "5,684.06",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "13,212.30",
+    "line5_subtotal_lines3plus4": "13,212.30",
+    "line6_total_expenditures_from_line2A": "5,684.06",
+    "line7_balance_at_close": "7528.24"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten block capitals. *** OFFICE SEEKING IS BLANK ON THE PAGE *** - the Office Seeking cell (and the phone/fax cells) are completely empty, so office_printed is '' . This DISAGREES with office_index, which carries 'County Commission Seat C'; nothing on either page of this filing states an office, so no office is transcribed. AMENDMENT: neither the 'Yes' nor the 'No' box is checked, so is_amendment is ''. Cents on lines 1 Column A and 2 (both columns) and line 7 are written as RAISED superscripts over the decimal point ('13,212' + raised '30'; '5,684.' + raised '06'; '7528.' + raised '24'); they are transcribed as full decimals. These readings were confirmed by enlarging the cells: line 4's thousands digit, which at page scale can look like an 8, is the filer's flat-topped 2 (13,212.30, matching lines 1 and 5). Line 3 is a hand-drawn oval zero. Line 7 alone is written WITHOUT a thousands comma ('7528.24'); kept as printed. TWO DIFFERENT DATES appear: the cover's signature Date reads '6-18-2012' (used for report_date) while the summary page's own 'Date of Report' box reads '6-19-12'; the clerk's Date received stamp is 'JUN 19 AM 11:22'. candidate_index was blank; the cover names LORNE W GRIERSON and the verification block LORNE GRIERSON. Page box reads 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

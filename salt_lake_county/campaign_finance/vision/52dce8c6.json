@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "153.20",
+ "beginning_balance": "0",
+ "ending_balance": "(153.20)",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "153.20",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Russell A. Cannon",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "5",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rcannon_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Russell A. Cannon",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/rcannon_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250, plus 3x crops of lines 2, 6 and 7)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The candidate's name is typewritten on the cover; everything else is hand-filled. April 5 interim box checked, amendment = No, signed 4/5/06, clerk-stamped RECEIVED APR 13 2006 (faxed 'Apr 05 06 08:45a Russell Cannon'). The Summary Page header box (page/name/date) was left entirely blank. Lines 1 (both columns), 3, 4 and 5 are hand-drawn slashed zeros, recorded as '0'. Line 7 is a NEGATIVE balance written inside hand-drawn ANGLE brackets with a diagonal stroke across the cell; recorded as (153.20) in the conventional accounting-parenthesis form. The digits of Line 7 are more angular than lines 2 and 6, but 3x crops of all three cells show the same figure 153.20."
+ }
+}

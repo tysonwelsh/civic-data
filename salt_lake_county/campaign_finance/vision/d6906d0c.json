@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "29,494",
+ "total_expenditures": "34,526.76",
+ "beginning_balance": "24,912.16",
+ "ending_balance": "19,879.40",
+ "aggregate": {
+  "total_contributions_to_date": "101,098.46",
+  "total_expenditures_to_date": "81,219.06",
+  "line5_subtotal": "54,406.16"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jiwamoto_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_jiwamoto_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This filing uses the OLDER template (footer 04pccfindisc.doc): its interim choices are 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election' \u2014 there is no 'October 28' box, so the clerk listing's 'October' corresponds to the checked 'Seven days before a general election'. The template also has a top-row 'Office' box (left blank) in addition to 'Office Sought' (used here). Column B is headed 'Aggregate Total' on this template. Line 1 Col A is written without cents ('29,494'; Line 4 repeats it as '29,494.\u2014'). This filer writes 6 with a large open loop that can read as '10' at low resolution; the reading is corroborated by the form's own arithmetic on all seven lines. Neither amendment box is checked."
+ }
+}

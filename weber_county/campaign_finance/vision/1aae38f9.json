@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "1aae38f9",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p40",
+ "page_start": 40,
+ "page_end": 42,
+ "summary_page": 40,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "JAMES H. \"Jim\" HARVEY",
+ "office_stated": "WEBER County Commission - SEAT #C",
+ "report_type_stated": "October 8 (pre-election)",
+ "filing_date_stated": "2024-10-04",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "31,610.05",
+   "this": "",
+   "cum": "55,610.05"
+  },
+  "expenditures": {
+   "last": "21,218.46",
+   "this": "17,474.00",
+   "cum": "38,692.46"
+  },
+  "ending_balance": {
+   "last": "10,391.59",
+   "this": "6,826.",
+   "cum": "17,217.59"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "medium",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN. The line-1 'Totals for This Report' cell is LEFT BLANK here because the handwritten figure could not be resolved between 24,300 and 24,000 - not guessed (the form's own last+this=cumulative would give 24,000.00). The last-report and cumulative cells are legible. FILER INCONSISTENCY retained: line-3 'last report' 21,218.46 and line-4 'last report' 10,391.59 do not match this filer's own 2024-04-08 cumulative figures (22,002.22 / 9,607.83)."
+}

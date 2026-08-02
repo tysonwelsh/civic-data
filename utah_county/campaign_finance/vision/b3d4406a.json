@@ -1,0 +1,58 @@
+{
+ "path": "raw/2026/2026_Travis_Hoban_Redacted.pdf",
+ "key": "b3d4406a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:52:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Travis Hoban",
+   "party_printed": "",
+   "office_printed": "County auditor",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/18/2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "6790.18",
+    "contrib_cumulative": "6790.18",
+    "expend_this_period": "6790.18",
+    "expend_cumulative": "6790.18",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "6790.18",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "6790.18",
+    "boxC_contributions_received_year_to_date": "6790.18",
+    "boxD_expenditures_made_this_period": "6790.18",
+    "boxE_expenditures_made_year_to_date": "6790.18",
+    "boxF_subtotal_before_expenditures": "6790.18",
+    "balance_at_close": "0",
+    "scheduleA_subtotal_for_this_page": "6790.18",
+    "scheduleA_total_contributions_received": "6790.18"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form throughout (scanned back in as a grey photocopy, still fully legible). OFFICE: typed lower-case 'County auditor' - transcribed with the filer's own casing; index.csv says 'County Auditor'. Boxes A and Balance at Close are typed bare zeros ('0'). The Schedule A page (p2) was read for context only and its printed page/report totals (6790.18) are recorded alongside the summary boxes; per the tranche spec the four itemized donor lines are NOT transcribed. The signature block is redacted upstream by the county (black bar); the typed Date (5/18/2026) and Date of Report (5/18/26) survive."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "index_path": "raw/2010/2010_James-Koson-6-15-10.pdf",
+    "cache_key": "ce880a9c",
+    "entity": "wasatch_county",
+    "election_year": "2010",
+    "reporting_period_index": "June 2010 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "James Wade Koson",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Attorney",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "County wide",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Midway",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Brent Titcomb, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "15 June 2010",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "5",
+        "confidence": "medium"
+      },
+      "cumulative": {
+        "value": "5",
+        "confidence": "medium"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "2,250",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "2,250",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Line 1 (>$50) reads as a bare '5' in both the THIS REPORT and CUMULATIVE columns \u2014 transcribed verbatim at medium confidence; it does not reconcile with the $2,250 of expenses and $0 balance the same filer printed. A word preceding 'Wasatch County Attorney' in the office field is scribbled out."
+}

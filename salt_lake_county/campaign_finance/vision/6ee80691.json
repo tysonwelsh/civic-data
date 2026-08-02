@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$60.00",
+ "total_expenditures": "-0-",
+ "beginning_balance": "$200.00",
+ "ending_balance": "$260.00",
+ "aggregate": {
+  "total_contributions_to_date": "$260.00",
+  "total_expenditures_to_date": "-0-",
+  "line5_subtotal": "$260.00"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "REPUBLICAN",
+  "office_sought": "SALT LAKE COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "30 Jan 06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/gott_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/gott_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Cents written as a superscript over a rule; transcribed with a decimal point (dollar figures and $ verbatim). Expenditure zeros are written '-0-' and are transcribed verbatim in that form. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 2 of 3, Ott, 30 Jan 06. Arithmetic internally consistent."
+ }
+}

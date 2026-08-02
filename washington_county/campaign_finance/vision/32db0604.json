@@ -1,0 +1,105 @@
+{
+ "filing_key": "wayback_2010elections||JAMES EARDLEY",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/County Candidate Summary - James Eardley.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/County Candidate Summary - James Eardley.pdf",
+   "doc_kind": "summary",
+   "sha256": "a23d6ee5190363443067282d0d9a928daafc9f16766dd2231fa5d03b9db9d1c8",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Contributions - James Eardley.pdf",
+   "doc_kind": "contributions",
+   "sha256": "9dde1746f2654d42cbc110b39e82c3307d66d5282c0e5d842806e9369d6b3fb8",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Expenditures - James Eardley.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "603f9adecd9a9eee58e9101e47f6dfd5f613be415e4d9eaa9d3dd524c7bdcea1",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "James Eardley",
+  "office": "Commission Seat A",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "James Eardley",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/8/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$250.00",
+   "expenses": "$770.97",
+   "balance": "-$520.97"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "4/8/2010",
+   "date_due": "4/9/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$250.00",
+   "contrib_gt50_this": "250",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$770.97",
+   "expenses_this": "770.97",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$520.97",
+   "balance_end": "-520.97",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:10Z"
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_CantoAnthony.pdf",
+ "key": "153e9234",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:33:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Anthony Canto",
+   "party_printed": "",
+   "office_printed": "Surveyor",
+   "residence_city": "Springville",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "12/03/2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "5388.90",
+    "expend_this_period": "0",
+    "expend_cumulative": "5388.90",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "5388.90",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "5388.90",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form (v. 4.20). The zeros in Boxes A, B, D, F and Balance at Close are actually TYPED '0' characters (not blanks), so they are genuine zeros; only Boxes C and E carry a figure (5388.90 each), i.e. this final report adds nothing to the year-to-date. NEITHER amendment radio (No / Yes) is filled, so is_amendment is blank. Office is printed simply 'Surveyor' (index.csv carries 'County Surveyor' - a naming convention, not a conflict). The signature block is redacted upstream by the county (black bar); address, phone and email survive. This form prints no political-party field. Clerk stamp 'RECEIVED DEC 03 REC'D'. The Page boxes are blank on both pages."
+  }
+ ],
+ "notes": ""
+}

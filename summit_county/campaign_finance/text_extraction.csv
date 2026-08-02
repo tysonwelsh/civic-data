@@ -1,0 +1,132 @@
+path,text_path,extraction_method,native_text_alnum,sidecar_alnum
+raw/2014/1058_trussell.pdf,text/1058_trussell.txt,pdftotext -layout,2190,2190
+raw/2014/1059_williams.pdf,text/1059_williams.txt,pdftotext -layout,2349,2349
+raw/2014/1064_martinez.pdf,text/1064_martinez.txt,pdftotext -layout,6301,6301
+raw/2014/1065_martin.pdf,text/1065_martin.txt,pdftotext -layout,1327,1327
+raw/2014/1080_robinson.pdf,text/1080_robinson.txt,tesseract OCR (pdftoppm 300dpi),0,2204
+raw/2014/1081_brock.pdf,text/1081_brock.txt,pdftotext -layout,1572,1572
+raw/2014/1082_hendricksen.pdf,text/1082_hendricksen.txt,pdftotext -layout,4696,4696
+raw/2014/1085_coleman.pdf,text/1085_coleman.txt,pdftotext -layout,2923,2923
+raw/2014/1086_forsling.pdf,text/1086_forsling.txt,tesseract OCR (pdftoppm 300dpi),0,2999
+raw/2014/1087_hilder.pdf,text/1087_hilder.txt,pdftotext -layout,2956,2956
+raw/2014/1088_jones.pdf,text/1088_jones.txt,pdftotext -layout,1700,1700
+raw/2014/1089_shumway.pdf,text/1089_shumway.txt,pdftotext -layout,5024,5024
+raw/2014/1090_ure.pdf,text/1090_ure.txt,pdftotext -layout,1195,1195
+raw/2014/1091_wharton.pdf,text/1091_wharton.txt,pdftotext -layout,1331,1331
+raw/2014/1092_brickey.pdf,text/1092_brickey.txt,pdftotext -layout,4247,4247
+raw/2014/1093_richards.pdf,text/1093_richards.txt,pdftotext -layout,1877,1877
+raw/2014/1097_howard.pdf,text/1097_howard.txt,pdftotext -layout,2325,2325
+raw/2014/1098_yost.pdf,text/1098_yost.txt,pdftotext -layout,2156,2156
+raw/2014/1244_brock_final.pdf,text/1244_brock_final.txt,pdftotext -layout,1349,1349
+raw/2014/1245_forsling_final.pdf,text/1245_forsling_final.txt,tesseract OCR (pdftoppm 300dpi),0,3203
+raw/2014/1246_hendricksen_final.pdf,text/1246_hendricksen_final.txt,pdftotext -layout,4145,4145
+raw/2014/1247_jones_final.pdf,text/1247_jones_final.txt,pdftotext -layout,1698,1698
+raw/2014/1248_martinez_final.pdf,text/1248_martinez_final.txt,pdftotext -layout,7243,7243
+raw/2014/1249_robinson_final.pdf,text/1249_robinson_final.txt,pdftotext -layout,2543,2543
+raw/2014/1250_trussell_final.pdf,text/1250_trussell_final.txt,pdftotext -layout,2156,2156
+raw/2014/1251_williams_final.pdf,text/1251_williams_final.txt,pdftotext -layout,2870,2870
+raw/2014/1256_coleman_final.pdf,text/1256_coleman_final.txt,pdftotext -layout,3141,3141
+raw/2014/1260_shumway_final.pdf,text/1260_shumway_final.txt,pdftotext -layout,2024,2024
+raw/2014/1264_brickey_final.pdf,text/1264_brickey_final.txt,pdftotext -layout,1698,1698
+raw/2014/1265_hilder_final.pdf,text/1265_hilder_final.txt,pdftotext -layout,1456,1456
+raw/2014/1266_howard_final.pdf,text/1266_howard_final.txt,pdftotext -layout,2665,2665
+raw/2014/1267_martin_final.pdf,text/1267_martin_final.txt,pdftotext -layout,1193,1193
+raw/2014/1268_yost_final.pdf,text/1268_yost_final.txt,pdftotext -layout,1490,1490
+raw/2014/1272_richards_final.pdf,text/1272_richards_final.txt,pdftotext -layout,1932,1932
+raw/2014/1273_ure_final.pdf,text/1273_ure_final.txt,pdftotext -layout,212,212
+raw/2014/1274_wharton_final.pdf,text/1274_wharton_final.txt,tesseract OCR (pdftoppm 300dpi),0,1029
+raw/2016/3806_Roger-Armstrong.pdf,text/3806_Roger-Armstrong.txt,pdftotext -layout,597,597
+raw/2016/3983_Kim-Carson.pdf,text/3983_Kim-Carson.txt,pdftotext -layout,1195,1195
+raw/2016/4009_Genn-Wright.pdf,text/4009_Genn-Wright.txt,pdftotext -layout,3491,3491
+raw/2016/4013_Colin-DeFord.pdf,text/4013_Colin-DeFord.txt,pdftotext -layout,3199,3199
+raw/2016/4019_Douglas-Clyde.pdf,text/4019_Douglas-Clyde.txt,pdftotext -layout,3865,3865
+raw/2016/4020_Tal-Adair.pdf,text/4020_Tal-Adair.txt,pdftotext -layout,1323,1323
+raw/2016/4180_Glenn-Wright_Final.pdf,text/4180_Glenn-Wright_Final.txt,pdftotext -layout,3660,3660
+raw/2016/4278_Tal-Adair-2016-Final.pdf,text/4278_Tal-Adair-2016-Final.txt,pdftotext -layout,1652,1652
+raw/2016/4279_Kim-Carson-2016-Final.pdf,text/4279_Kim-Carson-2016-Final.txt,pdftotext -layout,589,589
+raw/2016/4305_Doug-Clyde-General-Final.pdf,text/4305_Doug-Clyde-General-Final.txt,pdftotext -layout,4795,4795
+raw/2018/8190_Chris-Robinson.pdf,text/8190_Chris-Robinson.txt,pdftotext -layout,1387,1387
+raw/2018/8191_Glenn-Wright.pdf,text/8191_Glenn-Wright.txt,pdftotext -layout,1438,1438
+raw/2018/8192_Joshua-Mann.pdf,text/8192_Joshua-Mann.txt,pdftotext -layout,1494,1494
+raw/2018/8193_Margaret-Olson.pdf,text/8193_Margaret-Olson.txt,pdftotext -layout,1287,1287
+raw/2018/8194_Michael-Howard.pdf,text/8194_Michael-Howard.txt,pdftotext -layout,1174,1174
+raw/2018/8195_Kent-Jones.pdf,text/8195_Kent-Jones.txt,pdftotext -layout,1100,1100
+raw/2018/8196_R-Francis.pdf,text/8196_R-Francis.txt,pdftotext -layout,1103,1103
+raw/2018/8205_Justin-Martinez.pdf,text/8205_Justin-Martinez.txt,pdftotext -layout,1418,1418
+raw/2018/8354_Christopher-Robinson-Final.pdf,text/8354_Christopher-Robinson-Final.txt,pdftotext -layout,1365,1365
+raw/2018/8355_Glenn-Wright-Final.pdf,text/8355_Glenn-Wright-Final.txt,pdftotext -layout,1480,1480
+raw/2018/8356_Kent-Jones-Final.pdf,text/8356_Kent-Jones-Final.txt,pdftotext -layout,1094,1094
+raw/2018/8358_Justin-Martinez-Final.pdf,text/8358_Justin-Martinez-Final.txt,pdftotext -layout,1858,1858
+raw/2018/8359_Rhonda-Francis-Final.pdf,text/8359_Rhonda-Francis-Final.txt,pdftotext -layout,1071,1071
+raw/2018/8366_Margaret-Olson-Final.pdf,text/8366_Margaret-Olson-Final.txt,pdftotext -layout,1282,1282
+raw/2018/8397_Joshua-Mann-Final.pdf,text/8397_Joshua-Mann-Final.txt,pdftotext -layout,645,645
+raw/2018/8399_Michael-Howard-Final.pdf,text/8399_Michael-Howard-Final.txt,pdftotext -layout,1172,1172
+raw/2020/11110_Stevens.pdf,text/11110_Stevens.txt,pdftotext -layout,4166,4166
+raw/2020/11859_Armstrong.pdf,text/11859_Armstrong.txt,pdftotext -layout,1417,1417
+raw/2020/11860_Clyde.pdf,text/11860_Clyde.txt,pdftotext -layout,673,673
+raw/2020/11861_Stevens.pdf,text/11861_Stevens.txt,pdftotext -layout,1185,1185
+raw/2020/11862_Larsen.pdf,text/11862_Larsen.txt,pdftotext -layout,1208,1208
+raw/2020/11863_Francis.pdf,text/11863_Francis.txt,pdftotext -layout,1188,1188
+raw/2020/11871_Forsling.pdf,text/11871_Forsling.txt,pdftotext -layout,1117,1117
+raw/2020/12941_Doug-Clyde-Final.pdf,text/12941_Doug-Clyde-Final.txt,pdftotext -layout,686,686
+raw/2020/12942_Roger-Armstrong-Final.pdf,text/12942_Roger-Armstrong-Final.txt,pdftotext -layout,1430,1430
+raw/2020/12943_Melana-Stevens-Final.pdf,text/12943_Melana-Stevens-Final.txt,pdftotext -layout,1213,1213
+raw/2020/12944_Rhonda-Francis-Final.pdf,text/12944_Rhonda-Francis-Final.txt,pdftotext -layout,1063,1063
+raw/2020/12947_Stephanie-Larsen.pdf,text/12947_Stephanie-Larsen.txt,pdftotext -layout,700,700
+raw/2022/19764_Ames-Primary-2022.pdf,text/19764_Ames-Primary-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1344
+raw/2022/19768_Reardon-Primary-2022.pdf,text/19768_Reardon-Primary-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1754
+raw/2022/20634_Harte-Pre-Election-2022.pdf,text/20634_Harte-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,4845
+raw/2022/20636_Keyes-Pre-Election-2022.pdf,text/20636_Keyes-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1355
+raw/2022/20637_Langstone-Pre-Election-2022.pdf,text/20637_Langstone-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1872
+raw/2022/20638_Martinez-Pre-Election-2022.pdf,text/20638_Martinez-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1254
+raw/2022/20639_McClure-Pre-Election-2022.pdf,text/20639_McClure-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,3368
+raw/2022/20640_Murphy-Pre-Election-2022.pdf,text/20640_Murphy-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,2292
+raw/2022/20641_Olson-Pre-Election-2022.pdf,text/20641_Olson-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1788
+raw/2022/20645_Robinson-Pre-Election-2022.pdf,text/20645_Robinson-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1548
+raw/2022/20650_Franchek-Pre-Election-2022.pdf,text/20650_Franchek-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,71
+raw/2022/20651_Furse-Pre-Election-2022.pdf,text/20651_Furse-Pre-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,2331
+raw/2022/20751_Franchek-Post-Election-2022.pdf,text/20751_Franchek-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1272
+raw/2022/20752_Harte-Post-Election-2022.pdf,text/20752_Harte-Post-Election-2022.txt,pdftotext -layout,7053,7053
+raw/2022/20753_Siddoway-Post-Election-2022.pdf,text/20753_Siddoway-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1314
+raw/2022/20757_Keyes-Post-Election-2022.pdf,text/20757_Keyes-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,1532
+raw/2022/20758_McClure-Post-Election-2022.pdf,text/20758_McClure-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,3841
+raw/2022/20760_Olson-Post-Election-2022.pdf,text/20760_Olson-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,767
+raw/2022/20761_Robinson-Post-Election-2022.pdf,text/20761_Robinson-Post-Election-2022.txt,pdftotext -layout,1767,1767
+raw/2022/20762_Furse-Post-Election-2022.pdf,text/20762_Furse-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,4387
+raw/2022/20765_Langston-Post-Election-2022.pdf,text/20765_Langston-Post-Election-2022.txt,pdftotext -layout,2076,2076
+raw/2022/20766_Murphy-Post-Election-2022.pdf,text/20766_Murphy-Post-Election-2022.txt,tesseract OCR (pdftoppm 300dpi),0,2353
+raw/2024/23013_Ames-Final-2024-Financial-Disclosure.pdf,text/23013_Ames-Final-2024-Financial-Disclosure.txt,tesseract OCR (pdftoppm 300dpi),0,1448
+raw/2024/23014_Donaldson-Final-2024-Financial-Disclosure.pdf,text/23014_Donaldson-Final-2024-Financial-Disclosure.txt,tesseract OCR (pdftoppm 300dpi),0,1078
+raw/2024/23015_Richardson-Final-2024-Financial-Disclosure.pdf,text/23015_Richardson-Final-2024-Financial-Disclosure.txt,tesseract OCR (pdftoppm 300dpi),0,1816
+raw/2024/23016_Wallace-Final-2024-Financial-Disclosure.pdf,text/23016_Wallace-Final-2024-Financial-Disclosure.txt,pdftotext -layout,1517,1517
+raw/2024/23740_Cooke-Final-2024-Financial-Disclosure.pdf,text/23740_Cooke-Final-2024-Financial-Disclosure.txt,pdftotext -layout,4055,4055
+raw/2024/24231_Ioannides-Pre-Election-2024-General.pdf,text/24231_Ioannides-Pre-Election-2024-General.txt,pdftotext -layout,5972,5972
+raw/2024/24232_McKenna-Pre-Election-2024-General.pdf,text/24232_McKenna-Pre-Election-2024-General.txt,pdftotext -layout,10736,10736
+raw/2024/24233_Poll-Pre-Election-2024-General.pdf,text/24233_Poll-Pre-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,2796
+raw/2024/24234_Welch-Pre-Election-2024-General.pdf,text/24234_Welch-Pre-Election-2024-General.txt,pdftotext -layout,2773,2773
+raw/2024/24237_Hanson-Pre-Election-2024-General.pdf,text/24237_Hanson-Pre-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1613
+raw/2024/24239_Smith-Pre-Election-2024-General.pdf,text/24239_Smith-Pre-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1447
+raw/2024/24240_Wolbach-Pre-Election-2024-General.pdf,text/24240_Wolbach-Pre-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,2092
+raw/2024/24244_Forsling-Pre-Election-2024-General.pdf,text/24244_Forsling-Pre-Election-2024-General.txt,pdftotext -layout,1311,1311
+raw/2024/24247_Armstrong-Pre-Election-2024-General.pdf,text/24247_Armstrong-Pre-Election-2024-General.txt,pdftotext -layout,1596,1596
+raw/2024/24377_Armstrong-Post-Election-2024-General.pdf,text/24377_Armstrong-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1475
+raw/2024/24381_Hanson-Post-Election-2024-General.pdf,text/24381_Hanson-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1579
+raw/2024/24382_Ioannides-Post-Election-2024-General.pdf,text/24382_Ioannides-Post-Election-2024-General.txt,pdftotext -layout,6229,6229
+raw/2024/24384_Mckenna-Post-Election-2024-General.pdf,text/24384_Mckenna-Post-Election-2024-General.txt,pdftotext -layout,1862,1862
+raw/2024/24385_Poll-Post-Election-2024-General.pdf,text/24385_Poll-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1489
+raw/2024/24388_Smith-Post-Election-2024-General.pdf,text/24388_Smith-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1265
+raw/2024/24390_Wolbach-Post-Election-2024-General.pdf,text/24390_Wolbach-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,2472
+raw/2024/24393_Forsling-Post-Election-2024-General.pdf,text/24393_Forsling-Post-Election-2024-General.txt,tesseract OCR (pdftoppm 300dpi),0,1461
+raw/2024/24708_Welch-Post-Election-2024-General.pdf,text/24708_Welch-Post-Election-2024-General.txt,pdftotext -layout,2777,2777
+raw/2026/26742_Malena-Stevens-2026-Appointment.pdf,text/26742_Malena-Stevens-2026-Appointment.txt,tesseract OCR (pdftoppm 300dpi),0,2091
+raw/2026/27197_Babalis-Disclosure-2026-Primary_Redacted.pdf,text/27197_Babalis-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,1662
+raw/2026/27198_Bates-Disclosure-2026-Primary_Redacted.pdf,text/27198_Bates-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,1104
+raw/2026/27200_Harte-Disclosure-2026-Primary_Redacted.pdf,text/27200_Harte-Disclosure-2026-Primary_Redacted.txt,pdftotext -layout,1206,1206
+raw/2026/27203_Keyes-Disclosure-2026-Primary_Redacted.pdf,text/27203_Keyes-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,1095
+raw/2026/27204_Kucera-Disclosure-2026-Primary_Redacted.pdf,text/27204_Kucera-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,3638
+raw/2026/27205_Olson-Disclosure-2026-Primary_Redacted.pdf,text/27205_Olson-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,1031
+raw/2026/27208_Reed-Disclosure-2026-Primary_Redacted.pdf,text/27208_Reed-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,2697
+raw/2026/27210_Stevens-Disclosure-2026-Primary_Redacted.pdf,text/27210_Stevens-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,2027
+raw/2026/27212_Woolstenhulme-Disclosure-2026-Primary_Redacted.pdf,text/27212_Woolstenhulme-Disclosure-2026-Primary_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,1262
+raw/2026/27450_Reed-Disclosure-2026-Final-Report_Redacted.pdf,text/27450_Reed-Disclosure-2026-Final-Report_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,2907
+raw/2026/27451_Kucera-Diclsoure-2026-Final_Redacted.pdf,text/27451_Kucera-Diclsoure-2026-Final_Redacted.txt,tesseract OCR (pdftoppm 300dpi),0,2101

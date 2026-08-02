@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Kelton M. Baker",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "April 5, 2006",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kbaker_smallbudgetapr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kelton M. Baker",
+  "office": "Treasurer",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/kbaker_smallbudgetapr52006.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT a disclosure report: this is a single-page 'Small Budget Campaign Certificate' under SLCo Ordinance 2.72A.204.5, certifying the committee does not expect to exceed $2,000 in aggregate contributions or expenditures. It has no Summary Page and no Type of Report / party / district fields (those are recorded null because they do not exist on this form). Committee: 'Kelton M. Baker For SLCO Treasurer'; candidate Kelton M. Baker; committee secretary Rob Latham."
+ }
+}

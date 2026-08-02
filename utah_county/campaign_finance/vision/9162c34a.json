@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Jackson.pdf",
+ "key": "9162c34a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Kim Jackson",
+   "party_printed": "Republican",
+   "office_printed": "Treasurer",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/28/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "15,958.71",
+    "contrib_cumulative": "46,422.13",
+    "expend_this_period": "15,394.57",
+    "expend_cumulative": "42,402.18",
+    "balance_beginning": "3,455.81",
+    "subtotal_before_expend": "19,414.52",
+    "balance_close": "4,019.95"
+   },
+   "totals_verbatim": {
+    "contributions_received_this_period": "15,958.71",
+    "contributions_received_year_to_date": "46,422.13",
+    "expenditures_made_this_period": "15,394.57",
+    "expenditures_made_year_to_date": "42,402.18",
+    "balance_at_beginning_of_reporting_period": "3,455.81",
+    "total_contributions_received": "15,958.71",
+    "subtotal": "19,414.52",
+    "total_expenditures_made": "15,394.57",
+    "balance_at_close_of_reporting_period": "4,019.95"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Cover page is the handwritten 2014 county legacy form (Office Seeking written as 'Treasurer', which is compatible with index office 'County Treasurer' - a naming convention, not a conflict). The summary page is NOT the printed Column A/B grid: the filer substituted her own typed 'Summary Page' spreadsheet with 'This Period' / 'Year to Date' columns and a 'Balance Summary' block, carrying the same seven values. All figures are typed and crisp. Phone and fax fields left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

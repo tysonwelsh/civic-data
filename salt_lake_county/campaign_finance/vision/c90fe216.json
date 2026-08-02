@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "DECEMBER 22, 2006",
+  "form_year": ""
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rlatham_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/rlatham_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice, clerk-stamped DEC 22 2006 - so despite the filename ending '07' this is a 2006 document. No Type-of-Report block, no party/office/district fields and no Summary Page, hence the nulls. Handwritten content: Name of Committee 'LATHAM FOR DISTRICT ATTORNEY'; County Office Candidate 'ROB LATHAM'; Committee Secretary 'MELANIE BYBR[Y]ENICH' (surname partly illegible); Date Committee Was Established 'MARCH 17, 2006'; signed DECEMBER 22, 2006."
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2016/2016_RNIvie.pdf",
+ "key": "1d6937a5",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Nathan Ivie",
+   "party_printed": "Rep",
+   "office_printed": "Commissioner",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "23 Dec 2016",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "29,194",
+    "expend_this_period": "179.35",
+    "expend_cumulative": "28,814.25",
+    "balance_beginning": "559.10",
+    "subtotal_before_expend": "559.10",
+    "balance_close": "379.75"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "29,194",
+    "line2_total_expenditures_colA": "179.35",
+    "line2_total_expenditures_colB": "28,814.25",
+    "line3_balance_beginning": "559.10",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "559.10",
+    "line6_total_expenditures_from_line2A": "179.35",
+    "line7_balance_at_close": "379.75"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten. The filer writes cents as a raised, underlined superscript over the dollars (e.g. '559' with a superscript '10') - transcribed here in decimal form; a trailing dash instead of a superscript means whole dollars (line 1 both columns, line 4). Line 1 Column B ends in an ambiguous tall vertical stroke after '29,194' before the whole-dollar dash; read as '29,194' at medium confidence, not as a sixth digit. Line 2 Column B superscript cents read as '25' at medium confidence ('28,814.25'). The OFFICE FIELD SAYS ONLY 'Commissioner' - it does NOT print a seat letter, so it neither confirms nor contradicts index office 'County Commission Seat C'. The summary page's own header boxes (Page, Last Name, Date of Report) were left blank by the filer; report_date is the signature date on the cover."
+  }
+ ],
+ "notes": ""
+}

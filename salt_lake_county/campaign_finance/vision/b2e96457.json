@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "11,331.94",
+ "beginning_balance": "6,100.00",
+ "ending_balance": "9,068.06",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "20,400.00"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - Dist 4",
+  "district_number": "",
+  "report_type": "Interim Report: June 19",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/18/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_June_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_June_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL June report, amended by key 345f3a10. Line 1 is BLANK in BOTH columns and line 2 Column B is BLANK \u2014 recorded as empty strings, NOT copied down from line 4 (which does carry 14,300.00) and not zeroed. This copy's Final-report box is labelled 'FINAL REPORT (Required of all candidates and officeholders as soon as they close campaign accounts...)' rather than the later 'FINAL / DISSOLUTION REPORT' wording. The Summary Page is PDF page 2 but the form's own printed page number is 3. Lines 3-7 arithmetic self-consistent."
+ }
+}

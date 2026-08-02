@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6,608.78",
+ "total_expenditures": "4,456.34",
+ "beginning_balance": "102,64",
+ "ending_balance": "2,255.08",
+ "aggregate": {
+  "total_contributions_to_date": "7308.78",
+  "total_expenditures_to_date": "5053,70",
+  "line5_subtotal": "6711,42"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "County MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "Yes",
+  "amendment_of": "06|17|08",
+  "report_date": "06/29/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high",
+  "is_amendment": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_june17AMENDMENT.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_june17AMENDMENT.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the AMENDMENT to the June 17 report: the form checks BOTH the 'June 17' interim box AND the amendment 'Yes', with '06|17|08' written on the date-of-report line; signed 06/29/08, received JUN 30 2008. Page box reads 'Page 2 of 6'. DECIMAL COMMAS: this filer mixes decimal points and decimal commas \u2014 line 3 is '102,64', line 2 Column B is '5053,70', and line 5 reads '6711,42' (the mark is comma-shaped at 260 dpi; medium confidence between comma and point \u2014 the digits are certain). All are recorded exactly as written. Compared with the ORIGINAL June report (key e33550b5) the amendment RAISES line 1 from 6,588.40 to 6,608.78 and line 2 from 4,435.96 to 4,456.34, while line 7 stays 2,255.08 in both \u2014 a +20.38 change to both sides."
+ }
+}

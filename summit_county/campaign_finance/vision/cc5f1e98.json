@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "20753",
+  "path": "raw/2022/20753_Siddoway-Post-Election-2022.pdf",
+  "page": 1,
+  "sha256": "681f4b3e84cc61f3c7a63f77c15ab34b68552d5a7611c8e94b3a094a43c1467c",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/20753/Siddoway-Post-Election-2022",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Alan L. Siddoway",
+  "office_verbatim": "Sheriff",
+  "party_verbatim": "WRITE-IN",
+  "signature_date_as_printed": "11-11-22",
+  "rows": {
+   "contrib_total": {
+    "current_report": "Ø",
+    "last_report": "825.33",
+    "cumulative_totals": "825.33"
+   },
+   "total_expenditures": {
+    "current_report": "Ø",
+    "last_report": "825.33",
+    "cumulative_totals": "825.33"
+   },
+   "campaign_balance": {
+    "current_report": "Ø",
+    "last_report": "Ø",
+    "cumulative_totals": "Ø"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten 2022 single-total sheet, legible. Every Current Report cell and the whole campaign-balance row are a slashed-zero nil mark (recorded blank, not 0). Party written WRITE-IN. Carries the clerk's printed instruction box. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$3,283.35",
+ "beginning_balance": "$3,283.35",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$10,045.00",
+  "total_expenditures_to_date": "$10,045.00",
+  "line5_subtotal": "$3,283.35"
+ },
+ "cover": {
+  "candidate": "Hawkins, Gregory",
+  "party": "REPUBLICAN",
+  "office_sought": "Auditor",
+  "district_number": null,
+  "report_type": "Interim Report",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "9/15/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Hawkins_Gregory_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gregory Hawkins",
+  "office": "Auditor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Hawkins_Gregory_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered at -r 150)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BUNDLE: page 1 is the handwritten 'Dissolution of a Candidate Campaign Committee' notice (committee 'Committee to Elect Hawkins', office 'SALT LAKE COUNTY AUDITOR', signed 9/15/2014, clerk stamp OCT 21 2014); page 2 is blank (faint bleed-through only); pages 3-4 are the attached final summary - a machine-printed slco.org electronic 'Financial Disclosure Report' with a 'Summary' table, NOT the handwritten Summary Page form. That electronic table has FOUR money columns (Total this Period / YTD / Total this Period Other Campaign Accounts / YTD Other Campaign Accounts); Column A is mapped from 'Total this Period' and Column B from 'YTD'. Both 'Other Campaign Accounts' columns print $0.00 on lines 1 and 2 and are not captured. The form prints 'Report: Interim Report' even though the bundle is a dissolution - the FORM FACE is recorded. This electronic form has no district-number and no amendment field, hence null. Page 4 itemizes three expenditures totalling $3,283.35 and states 'No Contributions Received for this period.' Note that the printed YTD figures on lines 1 and 2 are both $10,045.00 while Total-this-Period contributions are $0.00 and expenditures $3,283.35; kept verbatim."
+ }
+}

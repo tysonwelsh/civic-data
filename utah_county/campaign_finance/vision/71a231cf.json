@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_12-14Lee.pdf",
+ "key": "71a231cf",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission (Seat B)",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/2/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "3,000",
+    "contrib_cumulative": "49,320",
+    "expend_this_period": "206.64",
+    "expend_cumulative": "40,277",
+    "balance_beginning": "6,249",
+    "subtotal_before_expend": "9,249",
+    "balance_close": "9,042"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "3,000",
+    "line1_total_contributions_colB": "49,320",
+    "line2_total_expenditures_colA": "206.64",
+    "line2_total_expenditures_colB": "40,277",
+    "line3_balance_beginning": "6,249",
+    "line4_total_contributions_from_line1A": "3000",
+    "line5_subtotal_lines3plus4": "9,249",
+    "line6_total_expenditures_from_line2A": "206.64",
+    "line7_balance_at_close": "9,042"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Same filer as key e75df429, the post-election report; the beginning balance 6,249 matches that report's closing balance. Handwritten in pencil, legible. The filer works mostly in whole dollars but writes cents as a raised superscript where they exist (lines 2 Column A and 6: '206' with superscript '64', transcribed 206.64). Line 4 is written '3000' without the comma that line 1 Column A carries ('3,000'); both transcribed verbatim. Line 7 is written as a whole dollar figure '9,042' with no cents, even though lines 5 and 6 carry cents - retained exactly as printed, not recomputed. The cover Name field reads 'Bill Lee' while the Report Verification print name reads 'William C Lee'. Office Seeking reads 'Utah County Commission (Seat B)' here, against 'Utah County Commissioner (Seat B)' on this filer's pre-election report. Page footer 'Page 2 of 4'. County date stamp DEC 3 AM11:48."
+  }
+ ],
+ "notes": ""
+}

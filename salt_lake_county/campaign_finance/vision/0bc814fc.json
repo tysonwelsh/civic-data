@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1592.20",
+ "total_expenditures": "1284.49",
+ "beginning_balance": "0",
+ "ending_balance": "307.71",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1532.14"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large A",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-7-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/BrunerM_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/BrunerM_2014_April.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "ARITHMETIC ERROR on the form, kept verbatim: Line 5 (Subtotal) reads 1532.14, but Line 3 is zero and Line 4 is 1592.20, so the subtotal should be 1592.20 - and 1532.14 less Line 6's 1284.49 is 247.65, not the 307.71 printed on Line 7. The filer's own amendment two weeks later (key ca4b5a2f) rewrites Line 5 as 1592.20. Line 1 Column A's cents digits are written over each other but read 20 at 250 dpi. Column B is entirely BLANK on Lines 1 and 2 (empty, not zero). Line 3 is a written open zero. Neither amendment box is checked here."
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14B-Lee_1.pdf",
+ "key": "6baedf1f",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "Rep.",
+   "office_printed": "Utah County Commissioner (Seat B)",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/17/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "30,240",
+    "contrib_cumulative": "30,240",
+    "expend_this_period": "22,752",
+    "expend_cumulative": "22,752",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "30,240",
+    "balance_close": "7,488"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "30,240",
+    "line1_total_contributions_colB": "30,240",
+    "line2_total_expenditures_colA": "22,752",
+    "line2_total_expenditures_colB": "22,752",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "30,240",
+    "line5_subtotal_lines3plus4": "30,240",
+    "line6_total_expenditures_from_line2A": "22,752",
+    "line7_balance_at_close": "7,488"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. Neither the Yes nor the No amendment box is marked, so is_amendment is left empty rather than assumed 'No'. Cover name is written 'Bill Lee'; the Report Verification print-name line reads 'William C Lee'. Line 3 is a bare handwritten zero glyph (medium confidence). The Balance Summary header row carries an unrelated stray handwritten mark. Page-1 header carries a handwritten 'Pg 1 of 8'; the summary page's own box reads Page 2 of 8. No cents are written anywhere on this form - the filer used whole dollars."
+  }
+ ],
+ "notes": ""
+}

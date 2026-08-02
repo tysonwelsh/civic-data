@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,540.00",
+ "total_expenditures": "5,019.17",
+ "beginning_balance": "1,630.94",
+ "ending_balance": "151.77",
+ "aggregate": {
+  "total_contributions_to_date": "28,494.41",
+  "total_expenditures_to_date": "28,342.64",
+  "line5_subtotal": "5170.94"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large A",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-15",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bruner_M_CouncilA_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bruner_M_CouncilA_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Form title: '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' - hence form_year 2014. The Year-End (January 31) box is checked; the clerk listing agrees. Summary page header: page 2 of 6, BRUNER, 'Feb 2, 2015'. Neither amendment box is checked. Both columns chain correctly from the October filing (key 91d6ed63) and Column A is self-consistent (1,630.94 + 3,540.00 = 5,170.94; less 5,019.17 = 151.77)."
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "500.00",
+ "total_expenditures": "499.50",
+ "beginning_balance": "123.28",
+ "ending_balance": "123.78",
+ "aggregate": {
+  "total_contributions_to_date": "959.14",
+  "total_expenditures_to_date": "835.36",
+  "line5_subtotal": "623.28"
+ },
+ "cover": {
+  "candidate": "Brett Helsten",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/17/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Helsten_B_CouncilA_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brett Helsten",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Helsten_B_CouncilA_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered at -r 150 to confirm page order)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The cover page of this copy is the '[Officeholders - Year-End]' variant of the 2014 form that carries NO candidate-name / party / office-sought / district fields at all - only the Type of Report block and the verification block. The candidate name is therefore taken from the Report Verification line ('Brett Helsten'); party, office_sought and district_number are null because those fields do not exist on this page. Despite the '[Officeholders - Year-End]' title the JUNE 17 interim box is checked and the Year-End box is NOT - the form face is recorded. Neither amendment box is checked. Summary Page is page 2 (Column B labelled 'Year to Date'); page 3 is Itemized Contributions, page 4 Itemized Expenditures (one line, Speak by Design, campaign post cards, 499.50). Line 1 Column A writes cents as a raised superscript ('500' with superscript '00'). Line 2 Column B (835.36) is faint in the scan. Arithmetic checks: 123.28 + 500.00 = 623.28 and 623.28 - 499.50 = 123.78."
+ }
+}

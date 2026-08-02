@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$500.00",
+ "total_expenditures": "0",
+ "beginning_balance": "$20,797.20",
+ "ending_balance": "$21,297.20",
+ "aggregate": {
+  "total_contributions_to_date": "$39,103.50",
+  "total_expenditures_to_date": "$17,806.30",
+  "line5_subtotal": "$21,297.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Oct. 26, 2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/DeBry_Steven_Council5_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/DeBry_Steven_Council5_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk listing says 'October'; the FORM checks 'Seven days before a general election'. Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. A handwritten '4 pages' note appears at the top right. Clerk RECEIVED stamp OCT 28 2014, signed Oct. 26, 2014. Line 3 matches the September report's line 7; 20,797.20 + 500.00 = 21,297.20, consistent."
+ }
+}

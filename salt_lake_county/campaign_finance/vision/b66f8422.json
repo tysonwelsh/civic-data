@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "384.24",
+ "beginning_balance": null,
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "384.24",
+  "line5_subtotal": "384.24"
+ },
+ "cover": {
+  "candidate": "Sherrie Swensen",
+  "party": "Democrat",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/23/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Sherrie-Swensen__56E26BA7.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sherrie Swensen",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Sherrie-Swensen__56E26BA7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "HANDWRITTEN form, and one of the few 2022-cycle filings whose title actually reads '2022 Financial Disclosure Report' (most reuse the 2020 template). Zeros are written as an open circle glyph. Line 3 (opening balance) reads '384.?4' - the second decimal digit is genuinely ambiguous between 2 and 9, so it is recorded ILLEGIBLE rather than inferred from Line 5 (which prints 384.24). Signature date's final digit is ambiguous 2/3 ('1/23/2023' on the cover, more like '1/23/2022' in the Summary header); recorded as 1/23/2023, low confidence. The Final/Dissolution and 'No' boxes are marked with hand-drawn X/check rather than the typed checkbox."
+ }
+}

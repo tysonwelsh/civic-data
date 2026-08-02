@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "24,845.00",
+ "total_expenditures": "29,368.57",
+ "beginning_balance": "9,848.67",
+ "ending_balance": "5,325.10",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "34,693.67"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "Countywid",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "11/1/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__E634CB98.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__E634CB98.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF; address/phone/email and signature redacted. The District Number field is CLIPPED by the form generator and prints as 'Countywid' (recorded verbatim). Column B cells are EMPTY (recorded \"\"); distinct figures print on the section-header rows - '$67,386' on CONTRIBUTIONS RECEIVED and '$58,747.04' on EXPENDITURES MADE - outside the Column B cells, flagged for a human rather than assigned. This filing is fully self-consistent and chains correctly: Line 3 (9,848.67) equals the September report's Line 7 and Line 7 (5,325.10) equals the beginning balance of both January 2023 dissolution filings. Neither amendment box is checked."
+ }
+}

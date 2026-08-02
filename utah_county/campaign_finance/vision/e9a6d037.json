@@ -1,0 +1,60 @@
+{
+ "path": "raw/2022/2022_Leavitt_David_4.4.2022_Redacted2.pdf",
+ "key": "e9a6d037",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:32:00Z",
+ "pages_read": [1, 6, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "David Leavitt",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "",
+   "is_amendment": "No",
+   "report_date": "04/01/2022",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "102284.96",
+    "contrib_cumulative": "102284.96",
+    "expend_this_period": "76030.47",
+    "expend_cumulative": "76030.47",
+    "balance_beginning": "104.44",
+    "subtotal_before_expend": "102389.40",
+    "balance_close": "26358.93"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "104.44",
+    "boxB_contributions_received_this_period": "102284.96",
+    "boxC_contributions_received_year_to_date": "102284.96",
+    "boxD_expenditures_made_this_period": "76030.47",
+    "boxE_expenditures_made_year_to_date": "76030.47",
+    "boxF_subtotal_before_expenditures": "102389.40",
+    "balance_at_close": "26358.93"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "low",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "report_type_printed",
+    "residence_city"
+   ],
+   "notes": "NO report type is marked. All five 'Mark the applicable report' radio buttons on the cover are empty circles, so report_type_printed is \"\" - the filer checked nothing. Worth noting for the index: this cover's option list does not even offer a Convention report (its five options are 30 Days after withdrawal or elimination / Seven days preceding the Primary Election / 30 Days after the Primary Election / Seven days preceding the General Election / 30 Days after the General Election), while index.csv carries reporting_period 'Convention'; the page face does not support that label. The amendment question IS answered - 'No' is filled. Address block and signature are blacked out (redacted upstream by the county), so residence_city is \"\". Figures are typed and crisp. The cover header names Clerk/Auditor 'Josh Daniels', the summary page (p6) header names 'Amelia Powers Gardner' - two form vintages bound into one PDF."
+  }
+ ],
+ "notes": "Page 7 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, both dated 4/4/2022), not a second report - it carries no filer-stated totals. The OCR locator flagged it as a summary page; it is not. This PDF contains ONE report."
+}

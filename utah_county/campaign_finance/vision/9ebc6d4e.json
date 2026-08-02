@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountySurveyorPetersonScottM052110.pdf",
+ "key": "9ebc6d4e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:31:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Scott M Peterson",
+   "party_printed": "Republican",
+   "office_printed": "County Surveyor",
+   "residence_city": "Springville",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "",
+   "report_date": "8 May 10'",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "750",
+    "contrib_cumulative": "",
+    "expend_this_period": "1,502",
+    "expend_cumulative": "",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "750",
+    "balance_close": "-752"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "750",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "1,502",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "750",
+    "line5_subtotal_lines3plus4": "750",
+    "line6_total_expenditures_from_line2A": "1502",
+    "line7_balance_at_close": "-752"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten cursive. This is the UNDATED-YEAR version of the legacy form (title has no year and cites 'Utah County Code 2-5-2'), unlike the other 2010 filings in this chunk. COLUMN B (Year-to-Date) IS ENTIRELY BLANK on lines 1 and 2 - the filer left both cells empty, so contrib_cumulative and expend_cumulative are '' and are NOT zero. No cents are written anywhere on this summary page: the filer wrote whole dollars only (750, 1,502, 1502, -752) - transcribed verbatim, no '.00' added. Line 2 is written with a thousands comma ('1,502') and line 6 without one ('1502'); both kept as printed. Line 3 is a plain '0'. LINE 7 reads as a minus sign followed by the filer's dollar-sign glyph and '752' ('-$752'); the leading glyph is the same one he uses on lines 1/4/5/6, so it is read as a dollar sign and the value as -752, at medium confidence - if that glyph were a digit the value would instead be -8752. No arithmetic was used to choose between them beyond noting the glyph shape matches. AMENDMENT: neither 'Yes' nor 'No' is checked, so is_amendment is ''. The signature date is written '8 May 10' with a trailing apostrophe; the clerk's FILED stamp (upside-down on the scan) reads '10 MAY 21 PM 4:15'. office_index 'County Surveyor' agrees with the page. candidate_index was blank; the page names Scott M Peterson."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "229.85",
+ "total_expenditures": "229.85",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "229.85",
+  "total_expenditures_to_date": "229.85",
+  "line5_subtotal": "229.85"
+ },
+ "cover": {
+  "candidate": "DON W. JOHNSTUN",
+  "party": "LIBERTARIAN",
+  "office_sought": "SLC COUNCIL SEAT \"C\" AT LARGE",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "3-30-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwjohnstun_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Don W. Johnstun",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwjohnstun_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten in pencil. Lines 3 and 7 Column A are each a hand-drawn open oval (a written zero, not slashed). Neither the amendment Yes nor No box is checked. Signature date 3-30-06; the Summary Page 'Date of Report' box reads 'MARCH 30, 2006'. Arithmetic closes."
+ }
+}

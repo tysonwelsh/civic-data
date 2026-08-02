@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Smith_Mike_11.1.22.pdf",
+ "key": "ac5f110f",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:20:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Mike Smith",
+   "party_printed": "",
+   "office_printed": "Sheriff",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "Nov 1, 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "7176",
+    "expend_this_period": "0",
+    "expend_cumulative": "6527.07",
+    "balance_beginning": "649.00",
+    "subtotal_before_expend": "0",
+    "balance_close": "649"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "649.00",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "7176",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "6527.07",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "649"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form. FILER ERROR, NOT CORRECTED: Box F (Subtotal before Expenditures = Box A + Box B) is typed as '0' although A is 649.00 and B is 0; Box G is typed '649' although the label says F - D. Both are transcribed exactly as printed and neither is recomputed. Box C is typed without cents ('7176') and Box G without cents ('649') - kept verbatim. Boxes B, D and F carry a typed '0' (real zeros, not blanks). The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. Office prints 'Sheriff' - index.csv's 'County Sheriff' agrees on substance."
+  }
+ ],
+ "notes": ""
+}

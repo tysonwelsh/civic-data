@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "700.00",
+ "total_expenditures": "597.36",
+ "beginning_balance": "0",
+ "ending_balance": "102,64",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "700.00"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04/05/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1, 2, 4 and 5 use the RAISED-SUPERSCRIPT CENTS convention (cents written small above a short rule: 700 with raised '00', 597 with raised '36'), transcribed with a decimal point as 700.00 and 597.36 per the contract; confirmed at 260 dpi. Line 3 is a slashed \u00d8 (zero), recorded '0'. LINE 7 IS DIFFERENT \u2014 the cents are written inline with a DECIMAL COMMA, '102,64' \u2014 recorded exactly as written (the shared money repair will resolve it). Both Column B cells were left BLANK ('' , not 0). Neither amendment box is checked. Page box reads 'Page 2'."
+ }
+}

@@ -106,22 +106,46 @@ PACKETS = [
   f"{SG}/2025.12.04%20%20Campaign%20Finance%20Disclosures.pdf", "",
   [("randall",M,DIR),("hughes25",M,DIR),("aldred",CO,DIR),("leavitt",CO,DIR),
    ("larsen",CO,DIR),("tanner",CO,DIR)]),
+ # ---- 2023 cycle AMENDMENTS (state channel, DEBT fix 2026-08-01) ----
+ # The Lt. Governor Municipal tree (disclosures.utah.gov -> municipal.utah.gov) holds two
+ # AMENDED 2023 St. George filings the city site never posted (received 2024-04-01).
+ # Single-candidate standalone PDFs, not compilation packets. Larkin's restates the
+ # 2023-08-29 pre-primary (contributions $24,690.00 -> $22,555.00); Kemp's restates the
+ # 2023-10-24 pre-general with unchanged figures.
+ ("raw/municipal20240401_larkin_amended.pdf","2024-04-01","exact",2023,"amended",
+  "2023-01-01..2023-08-24 (amended)",
+  "http://municipal.utah.gov/washington%5C2024%5CSt.%20George%5C"
+  "2024.04.01%20%20Larkin%20Amended%2008.29.2023%20Form.pdf", "",
+  [("larkin",CO,DIR)]),
+ ("raw/municipal20240401_kemp_amended.pdf","2024-04-01","exact",2023,"amended",
+  "2023-08-25..2023-10-19 (amended)",
+  "http://municipal.utah.gov/washington%5C2024%5CSt.%20George%5C"
+  "2024.04.01%20%20Kemp%20Amended%2010.24.2023%20Form.pdf", "",
+  [("kemp",CO,DIR)]),
 ]
 
+# per-packet overrides for the state-channel amendments (fetched 2026-08-01, born text layer)
+RETRIEVED_OVERRIDE = {"raw/municipal20240401_larkin_amended.pdf": "2026-08-01",
+                      "raw/municipal20240401_kemp_amended.pdf": "2026-08-01"}
+XM_OVERRIDE = {p: "pdftotext-layout(embedded text layer)" for p in RETRIEVED_OVERRIDE}
+
 FT_TITLE = {"interim":"Interim campaign finance report",
-            "summary":"Final/year-end campaign finance report"}
+            "summary":"Final/year-end campaign finance report",
+            "amended":"Amended campaign finance report (supersedes same-period original)"}
 
 def main():
     rows=[]
     for path,date,dprec,year,ft,period,src,orig,roster in PACKETS:
-        arch = "wayback" if "web.archive.org" in src else "city_live"
+        arch = ("state_disclosures" if "municipal.utah.gov" in src
+                else "wayback" if "web.archive.org" in src else "city_live")
         for key,office,match in roster:
             cand=C[key]
             title=f"{FT_TITLE[ft]} — {cand} ({office}, {year})"
             rows.append({
                 "date":date,"candidate":cand,"office":office,"election_year":year,
                 "filing_type":ft,"title":title,"source_url":src,
-                "retrieved_date":RETRIEVED,"format":FMT,"extraction_method":XM,
+                "retrieved_date":RETRIEVED_OVERRIDE.get(path, RETRIEVED),"format":FMT,
+                "extraction_method":XM_OVERRIDE.get(path, XM),
                 "path":path,"candidate_match":match,"date_precision":dprec,
                 "reporting_period":period,"source_archive":arch,"original_url":orig,
             })

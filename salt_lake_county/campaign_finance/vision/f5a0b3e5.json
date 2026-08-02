@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$962.91",
+ "total_expenditures": "$962.91",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$1,543.11",
+  "total_expenditures_to_date": "$1,543.11",
+  "line5_subtotal": "$962.91"
+ },
+ "cover": {
+  "candidate": "CHARLES A. BONSALL",
+  "party": "LIBERTARIAN",
+  "office_sought": "SL COUNTY CLERK",
+  "district_number": "",
+  "report_type": "Interim Report: October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/27/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cbonsall_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Charles Bonsall",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/cbonsall_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cents are written as a raised superscript over a rule ($962 with a superscript 91; $1,543 with a superscript 11); transcribed with decimal points, confirmed at 300 dpi. Lines 3 and 7 Column A are a '$' over a slashed zero. Neither amendment box is checked. Column B (1,543.11) equals this period's 962.91 plus the April filing's 580.20, which cross-confirms both filings. Stamped COPY / RECEIVED OCT 30 2006."
+ }
+}

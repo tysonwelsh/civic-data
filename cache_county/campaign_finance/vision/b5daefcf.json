@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "74c87ecca439e77bfe479f66b61f38f2ea9d4b9a6beb15c48e2900b6794ff906",
+ "canonical_path": "raw/2020/2020_st_campaign_finance_D_andersen.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_D_andersen.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "other",
+ "statutory_citation_printed": "THE FINANCIAL CAMPAIGN LAW IS IN THE CACHE COUNTY CODE 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Devron Jay Andersen",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Recorder",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Cache County",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Mendon",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess W. Bradfield, Cache County Clerk/Auditor, Chief Election Officer",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "October 20th - 27th, 2020 Reports are due from all candidates who will appear on the General Election ballot",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/27/2020 8:00 a.m.",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 27 '20 AM 8:45:02",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "2,859.77",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2,859.77",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "2,859.77",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2,859.77",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0.00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Recorder",
+  "seat": "",
+  "evidence": "page 1 'Name of Office:' reads (typed) 'Recorder'; 'Office District:' reads 'Cache County'; 'Political Party:' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "\u26a0 A THIRD, TYPED form variant \u2014 'CAMPAIGN FINANCIAL REPORT: 2020', still citing Cache County Code 2.21, with only THREE totals lines (1. Total contributions from ALL donors, 2. Total Campaign Expenditures, 3. Ending Balance) in the same Last/This/Cumulative columns. It does NOT split contributions at $50, so the whole contributions figure is recorded in the contrib_over_50 slot and contrib_50_or_less is left BLANK (not zero) \u2014 the form printed no such line. Report type is a checked box: the Oct 20-27 pre-general report."
+}

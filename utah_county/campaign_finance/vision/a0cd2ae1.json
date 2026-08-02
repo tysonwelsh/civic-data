@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Buhman_Redacted.pdf",
+ "key": "a0cd2ae1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:52:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jeffrey R. Buhman",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10-27-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "500",
+    "contrib_cumulative": "15709.58",
+    "expend_this_period": "5460.53",
+    "expend_cumulative": "15607.50",
+    "balance_beginning": "5062.61",
+    "subtotal_before_expend": "5562.61",
+    "balance_close": "102.08"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "500",
+    "line1_total_contributions_colB": "15709.58",
+    "line2_total_expenditures_colA": "5460.53",
+    "line2_total_expenditures_colB": "15607.50",
+    "line3_balance_beginning": "5062.61",
+    "line4_total_contributions_from_line1A": "500.00",
+    "line5_subtotal_lines3plus4": "5562.61",
+    "line6_total_expenditures_from_line2A": "5460.53",
+    "line7_balance_at_close": "102.08"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink. THIS IS THE FIRST FILING IN THIS CHUNK ON THE COMBINED FORM - the printed title is '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' and the side rail reads 'COUNTY & LOCAL SCHOOL BOARD CANDIDATES'. That is the FORM's title, not this filer's office: the Office Seeking field states 'Utah County Attorney', so this is a county filing and NO school-board scope flag applies. REDACTION: the entire Street Address / City / State / Zip row is covered by a solid black bar applied upstream by the county, so residence_city is '' - redacted upstream by the county, never reconstructed. No thousands separators are written anywhere on this summary page; on line 1 Column B the filer left a visible GAP where a comma would go ('15 709.58') plus a small stray pen tick after the final 8 - transcribed as 15709.58 at medium confidence for that cell only. Line 1 Column A is a bare '500' while line 4 restates it as '500.00'; both kept as printed. AMENDMENT: 'No' is checked. Office_index 'County Attorney' AGREES with the page's 'Utah County Attorney' (naming convention only). candidate_index was blank; the page names Jeffrey R. Buhman. Clerk stamp (sideways in the right margin) reads 'OCT 27 AM 9:00'. Page box reads 'Page 1 of 3'."
+  }
+ ],
+ "notes": ""
+}

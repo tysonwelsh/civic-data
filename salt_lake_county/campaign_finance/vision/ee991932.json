@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$10,070.\u2014",
+ "total_expenditures": "$271.28",
+ "beginning_balance": "0,00",
+ "ending_balance": "9,798.72",
+ "aggregate": {
+  "total_contributions_to_date": "10,070.\u2014",
+  "total_expenditures_to_date": "271.28",
+  "line5_subtotal": "10,070"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democratic",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jiwamoto_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_jiwamoto_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 is written with the bookkeeping 'no cents' convention (a long dash after the decimal point: '$10,070.\u2014' Col A, '10,070.\u2014' Col B) \u2014 transcribed verbatim, the dash means zero cents. Line 3 (beginning balance) is written with a decimal COMMA, '0,00' \u2014 recorded exactly as written per the contract. The signature Date line is blank (report_date ''); the clerk RECEIVED stamp is APR 07 2008. Neither amendment box is checked. Form arithmetic is internally consistent (10,070 \u2212 271.28 = 9,798.72)."
+ }
+}

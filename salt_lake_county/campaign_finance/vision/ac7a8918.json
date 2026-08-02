@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large \"A\"",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_CnclAtLarge_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_CnclAtLarge_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2013 Summary Report/Dissolution', but on the form face only the YEAR-END box is checked - the Final/Dissolution box is NOT checked, and neither amendment box is checked. The signature date is written '1-28-014' (an evident slip for 2014); the Summary Page header block gives the date of report as 1/28/14. Every cell on the Summary Page (both columns, lines 1-7) is a hand-drawn slashed zero (\u00d8), recorded as '0'. WORTH A HUMAN'S EYE: the immediately preceding 2012 year-end report (keys 20bbcbc2 / 509f34ed) closed at a NEGATIVE (11,487.42), but this 2013 report opens at zero on line 3 - the chain does not reconcile. Figures kept verbatim; nothing computed."
+ }
+}

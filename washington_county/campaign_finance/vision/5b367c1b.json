@@ -1,0 +1,112 @@
+{
+ "filing_key": "wayback_2010elections|2010-06-15|RUSSELL SHIRTS",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/6-15-2010 County Candidate Summary - Russell Shirts.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 County Candidate Summary - Russell Shirts.pdf",
+   "doc_kind": "summary",
+   "sha256": "dedbcba5bd9a655a741be8d997e40a9aee98331a9fad827820c92fcd0485b2dd",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 Contributions - Russell Shirts.pdf",
+   "doc_kind": "contributions",
+   "sha256": "b6ce97322afc84af3ca18691fc86fe3e4e1b70c155cce2b7b9e244d7beee2233",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/6-15-2010 Expenditures - Russell Shirts.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "f0444f1ef947763f03b8e4b1693593422ca9c1d2ccafccaf2190228725a3b6ba",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Russell Shirts",
+  "office": "County Recorder",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Recorder",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Russell Shirts",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/5/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$375.00",
+   "balance": "(375.00)"
+  },
+  {
+   "submitted": "6/14/2010",
+   "date_due": "6/15/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "(375.00)"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "6/14/2010",
+   "date_due": "6/15/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$0.00",
+   "expenses_this": "0",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "(375.00)",
+   "balance_end": "-375",
+   "balance_last_printed": "(375.00)",
+   "balance_last": "-375",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

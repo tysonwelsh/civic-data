@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6,273.16",
+ "total_expenditures": "173.16",
+ "beginning_balance": "",
+ "ending_balance": "6,100.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "6,273.16"
+ },
+ "cover": {
+  "candidate": "SAM Granato",
+  "party": "DEM",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/4/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_April_Interim_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1 and 2 re-rendered at -r 300 cropped to verify the summary figures, the district number and the date)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 3 (Balance at Beginning) is left BLANK, as is Column B on lines 1 and 2 \u2014 recorded as empty strings, not zeros. The top-row Office box reads 'Salt Lake County Council District 4'; the separate Office Sought box reads 'County Council' with '4' in the District Number column (used, per contract preference for Office Sought). Party abbreviated 'DEM'. Neither amendment box checked. The Summary Page header box is entirely blank. Arithmetic self-consistent (6,273.16 - 173.16 = 6,100.00)."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,725-",
+ "total_expenditures": "1,275.68",
+ "beginning_balance": "92.93",
+ "ending_balance": "4542.25",
+ "aggregate": {
+  "total_contributions_to_date": "$5,725-",
+  "total_expenditures_to_date": "1,275.68",
+  "line5_subtotal": "5,817.93"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/4/6",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jhatch_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 (both columns) is written with a leading '$' and a trailing dash for the cents ('$5,725-'), kept verbatim. The signature date is written '4|4|6' (April 4, 2006) although the clerk stamp is APR 05 2006 and the Summary Page's own Date-of-Report box reads '4/5/6' - the signature-line date is recorded per contract. Page-of box reads 'Page 2 of 5'. Form arithmetic checks out (92.93 + 5,725 = 5,817.93; 5,817.93 - 1,275.68 = 4,542.25)."
+ }
+}

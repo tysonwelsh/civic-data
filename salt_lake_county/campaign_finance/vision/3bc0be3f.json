@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6,000",
+ "total_expenditures": "$462.59",
+ "beginning_balance": "$393.86",
+ "ending_balance": "$5,931.27",
+ "aggregate": {
+  "total_contributions_to_date": "$6,000",
+  "total_expenditures_to_date": "$462.59",
+  "line5_subtotal": "$6,393.86"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Rep",
+  "office_sought": "Council",
+  "district_number": "District 2",
+  "report_type": "",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MJensen_11_YearEnd_CntyCncl2_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MJensen_11_YearEnd_CntyCncl2_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN form. NO 'Type of Report' box is checked at all - not Year-End, not Final/Dissolution, not either amendment box - so report_type and is_amendment are recorded as empty strings (the fields exist and were left blank). The clerk listing calls this the '2011 Summary Report'; the form itself makes no such assertion, though it is signed 1/31/12 and clerk-stamped JAN 31 2012, which is consistent with a year-end. Line 1 Columns A and B are typed '$6,000' with NO cents; Line 4 restates it as '$6,000.00' - both recorded verbatim. Two office fields agree (top-row 'Council - District 2', Office Sought 'Council', District Number 'District 2'). Column A arithmetic checks out and Line 7 ($5,931.27) chains exactly to the beginning balance of the April 2012 interim filing."
+ }
+}

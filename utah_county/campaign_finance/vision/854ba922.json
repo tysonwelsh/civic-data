@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_David_M._Spencer_Redacted.pdf",
+ "key": "854ba922",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:55:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "David M. Spencer",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/15/2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "36,230",
+    "contrib_cumulative": "52,230",
+    "expend_this_period": "27094.55",
+    "expend_cumulative": "27094.55",
+    "balance_beginning": "15,000",
+    "subtotal_before_expend": "52,230",
+    "balance_close": "25135.45"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "15,000",
+    "boxB_contributions_received_this_period": "36,230",
+    "boxC_contributions_received_year_to_date": "52,230",
+    "boxD_expenditures_made_this_period": "27094.55",
+    "boxE_expenditures_made_year_to_date": "27094.55",
+    "boxF_subtotal_before_expenditures": "52,230",
+    "balance_at_close": "25135.45"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed cover page with HANDWRITTEN summary figures; the scan is low-contrast (the page header and footer have faded to near-illegible grey, but the form body and the handwriting are clear). OFFICE PARTIALLY DISAGREES WITH THE INDEX: the Office field reads 'Utah County Commissioner' with NO SEAT LETTER, while index.csv carries 'County Commission Seat B' - the page does not name a seat and none was inferred. Address is printed and legible (Orem, Utah 84097); only the signature is redacted upstream by the county. Boxes A, B, C and F are written in whole dollars with comma separators and no cents; D, E and the close carry cents. RECONCILIATION FLAG, no correction applied: the form's formula makes Box F = Box A + Box B, i.e. 15,000 + 36,230 = 51,230, but the filer wrote F = 52,230 (which equals Box C and does satisfy close = F - D = 25,135.45). The $1,000 gap sits on Box B, whose second digit is a handwritten glyph I read as a 6 ('36,230') - a 7 would reconcile the page exactly. Transcribed AS READ at medium confidence; NOT adjusted to fit the arithmetic. Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

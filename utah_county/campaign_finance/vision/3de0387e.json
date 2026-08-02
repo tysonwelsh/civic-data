@@ -1,0 +1,61 @@
+{
+ "path": "raw/2014/2014_12-14Buhman_Redacted.pdf",
+ "key": "3de0387e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jeffrey R. Buhman",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12-1-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "15709.58",
+    "expend_this_period": "0",
+    "expend_cumulative": "15607.50",
+    "balance_beginning": "102.08",
+    "subtotal_before_expend": "102.08",
+    "balance_close": "102.08"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "15709.58",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "15607.50",
+    "line3_balance_beginning": "102.08",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "102.08",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "102.08"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "residence_city"
+   ],
+   "notes": "Handwritten in black ink, cursive but legible. The ENTIRE street-address row (street, city, state, zip) and the phone number are covered by solid black redaction bars applied upstream by the county before publication, so residence_city is '' - redacted upstream by the county, never reconstructed. Report type checked is '30 Days after the General Election' (the box at the foot of the list), and the amendment answer 'No' is checked. Zeros on lines 1A, 2A, 4 and 6 are plainly written '0' digits. Page footer 'Page 1 of 3'. County date stamp DEC 1 PM12:16."
+  }
+ ],
+ "notes": ""
+}

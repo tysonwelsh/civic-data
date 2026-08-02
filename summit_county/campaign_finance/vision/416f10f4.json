@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "23013",
+  "path": "raw/2024/23013_Ames-Final-2024-Financial-Disclosure.pdf",
+  "page": 1,
+  "sha256": "64ebc7aedb02010e63c99011e505d1186e258721078187eab62976e3dd1d3eb7",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/23013/Ames-Final-2024-Financial-Disclosure",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "Byron Lansing Ames",
+  "office_verbatim": "Summit County Council - seat C",
+  "party_verbatim": "Rep.",
+  "signature_date_as_printed": "2/27/2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$579.46",
+    "previous_report": "",
+    "cumulative_total": "$579.46"
+   },
+   "total_expenditures": {
+    "current_report": "$579.46",
+    "previous_report": "",
+    "cumulative_total": "579.46"
+   },
+   "campaign_balance": {
+    "current_report": "0",
+    "previous_report": "",
+    "cumulative_total": "0"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "FORM-VARIANT SEAM: the 2024 sheet renames the middle column 'Previous Report' (third is 'Cumulative Total') — the ORDER is unchanged: Current | Previous | Cumulative. Handwritten; the cents digits on 579.46 are over-written by the filer (medium confidence on the cents). Previous Report column left blank. Indexed as Withdrawn."
+}

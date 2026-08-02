@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$68,605.79",
+ "total_expenditures": "$29,202.92",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$39,402.87",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$68,605.79"
+ },
+ "cover": {
+  "candidate": "Rosie Rivera",
+  "party": "D",
+  "office_sought": "_Sheriff",
+  "district_number": "na",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/20/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Rivera-Rosie__8108996C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rivera, Rosie",
+  "office": "Sheriff",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Rivera-Rosie__8108996C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "LISTING LABEL DISAGREES: listed as 'June report' but the form checks 'April 5' and is not marked an amendment; e-signed 06/20/22. Its Column A contributions ($68,605.79) far exceed the other April-5 filings in this chain ($38,236.42) - printed as-is, never reconciled. Form title reads 2020 (template reuse)."
+ }
+}

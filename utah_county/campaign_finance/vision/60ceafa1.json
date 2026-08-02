@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Rampton_Russ_4.4.2022_Redacted.pdf",
+ "key": "60ceafa1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 7, 9],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Russ J Rampton",
+   "party_printed": "",
+   "office_printed": "County Clerk",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "04/04/2022",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "1975.00",
+    "contrib_cumulative": "1975.00",
+    "expend_this_period": "1725.43",
+    "expend_cumulative": "1725.43",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "1975.00",
+    "balance_close": "249.57"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "$1975.00",
+    "boxC_contributions_received_year_to_date": "$1975.00",
+    "boxD_expenditures_made_this_period": "$1725.43",
+    "boxE_expenditures_made_year_to_date": "$1725.43",
+    "boxF_subtotal_before_expenditures": "$1975.00",
+    "balance_at_close": "$249.57"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, scanned. The whole Address row (street, City, State, Zip) is a single black bar - redacted upstream by the county - so residence_city is '' rather than blank-by-filer. The Signature box is likewise a black bar; the Date box reads 04/04/2022 and the footer 'Date of Report' block also reads 04/04/2022, Page 1. The v. 4.20 form misprints the affirmation block's label as a second 'Type of Report' header - that is the blank form's own typo, not a filer error. Boxes B-F and the close line carry a printed '$' which is retained in totals_verbatim and dropped in the normalized totals. The summary page's letterhead names 'Amelia Powers Gardner, Clerk/Auditor' while page 1's names 'Josh Daniels' - the filing was assembled from two form vintages."
+  }
+ ],
+ "notes": "The locator flagged pages 7 and 9 as summary pages; page 9 is NOT a second report - it is the Elections Division's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff-review passes, Staff Signature #2 dated 4/4/2022). One report only."
+}

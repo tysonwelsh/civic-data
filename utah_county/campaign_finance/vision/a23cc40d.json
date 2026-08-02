@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_PostPrimary-Grierson.pdf",
+ "key": "a23cc40d",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Lorne Grierson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commissioner",
+   "residence_city": "Orem",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "No",
+   "report_date": "7/22/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "12,572.62",
+    "contrib_cumulative": "52,515.93",
+    "expend_this_period": "15,311.53",
+    "expend_cumulative": "54,863.96",
+    "balance_beginning": "",
+    "subtotal_before_expend": "55,075.54",
+    "balance_close": "211.58"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "12,572.62",
+    "line1_total_contributions_colB": "52,515.93",
+    "line2_total_expenditures_colA": "15,311.53",
+    "line2_total_expenditures_colB": "54,863.96",
+    "line3_balance_beginning": "",
+    "line4_total_contributions_from_line1A": "52,515.93",
+    "line5_subtotal_lines3plus4": "55,075.54",
+    "line6_total_expenditures_from_line2A": "54,863.96",
+    "line7_balance_at_close": "211.58"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "low",
+    "balance_close": "high"
+   },
+   "unreadable": ["balance_beginning", "line3_balance_beginning"],
+   "notes": "Cover and most of the summary page are TYPED (born-digital fill), except the two Column B cells on lines 1 and 2, which are handwritten. LINE 3 (Balance at Beginning) IS NOT FULLY READABLE: the printed form's bold black arrow graphic ('Refer to Line 7 on your last report') overlaps the right end of the cell; the visible characters are '2559.0' with the final digit hidden. It is left empty and flagged unreadable - NOT reconstructed from the other lines. FILER ERROR worth knowing: lines 4 and 6 are directed to carry Column A, but the filer carried the Column B (year-to-date) figures instead (52,515.93 and 54,863.96), so lines 4-7 are a year-to-date ladder while lines 1-2 Column A are the period figures. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat B', but the page's Office Seeking line prints only 'Utah County Commissioner' with NO seat - the seat is not stated on this filing. The summary page's Page/Last Name/Date of Report header box was left entirely blank."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "41.50",
+ "beginning_balance": "$435.36",
+ "ending_balance": "$393.86",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "41.50",
+  "line5_subtotal": "$435.36"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "REP",
+  "office_sought": "County Council",
+  "district_number": "2",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/mjensen_10_YearEnd_CntyCncl2.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/mjensen_10_YearEnd_CntyCncl2.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN. Lines 1 and 2 are typed WITHOUT a dollar sign ('0.00', '41.50') while Lines 3-7 are typed WITH one ('$435.36' etc.) - kept verbatim either way. Neither amendment box is checked; the signature date is handwritten 1/31/11 and the clerk stamp reads FEB 01 2011, i.e. the year-end report covering calendar 2010. Line 3 (435.36) matches Line 7 of this candidate's prior year-end report; 435.36 - 41.50 = 393.86 reconciles exactly."
+ }
+}

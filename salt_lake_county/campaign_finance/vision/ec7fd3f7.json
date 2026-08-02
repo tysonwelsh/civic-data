@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "DANIEL C. SNARR",
+  "party": "",
+  "office_sought": "County Council District #3",
+  "district_number": "#3",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/14/15",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snarr_D_Council3_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dan Snarr",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Snarr_D_Council3_Dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice \u2014 NOT the multi-page disclosure report, so there is no Summary Page and all totals are null (honest, not a failure). Committee name: 'Committee to Elect Dan Snarr'; committee secretary 'Carie Clyde' (handwriting uncertain). Signed 1/14/15. It states a final summary report is attached, but this PDF contains only the notice page."
+ }
+}

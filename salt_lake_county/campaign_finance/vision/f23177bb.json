@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "12,273.45",
+ "total_expenditures": "6469.72",
+ "beginning_balance": "317.56",
+ "ending_balance": "6121.29",
+ "aggregate": {
+  "total_contributions_to_date": "20742.61",
+  "total_expenditures_to_date": "14621.32",
+  "line5_subtotal": "12591.01"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Co.Council",
+  "district_number": "6",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mburdick_september152008.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mburdick_september152008.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-2, then pages 3-7 to locate the Summary Page)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "THE SCAN IS OUT OF ORDER: PDF page 2 is Schedule A (printed page 3) and the Summary Page (printed page 2) is PDF page 3; PDF pages 4-7 are the four Schedule B sheets. This is the ORIGINAL September report; its Summary Page carries exactly the same seven figures as the later 'Amendment to September' filing (key e937bbe8), so the amendment changed the schedules, not the totals. Column B line 1 is written with a space instead of a thousands comma ('20 742.61'). Neither amendment box is checked."
+ }
+}

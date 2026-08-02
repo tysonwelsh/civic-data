@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "e1804a147d168348c971db8137c492f5e523df708caf6ba03af02003bb537714",
+ "canonical_path": "raw/2008/2008_wb_dbigelow1203.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_dbigelow1203.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "DAVID K BIGELOW",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "COUNTY COUNCIL SOUTH",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "COUNTY COUNCIL SOUTH",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "DEMOCRATIC",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "PARADISE",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "CACHE",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12-3-08",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "RECEIVED CACHE COUNTY CLERK 2008 DEC -3 PM 4:00",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "1300.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "1300.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "60.37",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "60.37",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "950.62",
+     "c": "high"
+    },
+    "this": {
+     "v": "613.20",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "1564.32",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "409.75",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "COUNTY COUNCIL SOUTH",
+  "evidence": "page 1 'Name of Office' reads 'COUNTY COUNCIL SOUTH'; 'Political Party' reads 'DEMOCRATIC'",
+  "confidence": "high"
+ },
+ "notes": "Line 4 CUMULATIVE box holds a hand-drawn slashed-O, with '(264.32)' written on the line BELOW the box. Both marks are recorded here (the box as '0', the annotation in this note); neither is arbitrated and no balance was recomputed."
+}

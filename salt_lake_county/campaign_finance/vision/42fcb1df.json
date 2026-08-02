@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,438.18",
+ "total_expenditures": "9,866.06",
+ "beginning_balance": "2,254.11",
+ "ending_balance": "2,826.23",
+ "aggregate": {
+  "total_contributions_to_date": "79,544.87",
+  "total_expenditures_to_date": "76,976.71",
+  "line5_subtotal": "12,692.29"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At Large \"C\"",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jbradley_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "NEITHER amendment box is checked. Summary Page header box is entirely BLANK. Column A internally consistent (2,254.11 + 10,438.18 = 12,692.29; minus 9,866.06 = 2,826.23, which matches Line 3 of the 1-30-08 report, key 1d733db5). Column B is a multi-cycle aggregate and does not reconcile to Column A - reported as printed."
+ }
+}

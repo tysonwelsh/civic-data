@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1139.71",
+ "total_expenditures": "$1,379.04",
+ "beginning_balance": "$439.33",
+ "ending_balance": "$200.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$1579.04"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "REPUBLICAN",
+  "office_sought": "Salt Lake County Recorder",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "31 Jan 05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ott_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/ott_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to read the superscript cents)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form face: the title has no year and Column B is headed 'Year-to-Date Total'. Every Column A figure writes the cents as a raised superscript over a rule ($1139 with superscript 71), transcribed here with a decimal point. Column B is blank on both lines 1 and 2. Line 3's leading digits are cramped; read as $439.33 at 250 dpi and consistent with the form's own arithmetic (439.33 + 1139.71 = 1579.04; 1579.04 - 1379.04 = 200.00). Year-End checked, amendment = No. Clerk-stamped RECEIVED JAN 31 2005."
+ }
+}

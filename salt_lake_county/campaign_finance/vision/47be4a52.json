@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "KELTON BAKER",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/31/2008",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_kbaker_dissolutionreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kelton M. Baker",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_kbaker_dissolutionreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Two-page faxed filing (banner 'From: Kelton Baker ... 1/31/2008 3:30 PM'), NOT the Financial Disclosure Report. Page 1 is the 'Dissolution of a Candidate Campaign' form: Name of Committee 'KELTON BAKER for SALT LAKE CO TREASURER', County Office Candidate 'KELTON BAKER', Committee Secretary 'Rob Lotham' (medium), Date Committee Was Established 'April 4, 2006'; signed 1/31/2008, clerk stamp RECEIVED JAN 31 2008. Page 2 is a TYPED NARRATIVE final summary, not the Summary Page form, reading verbatim: 'Beginning campaign balance..........$109.97 / Return of uncashed check to donor .......... (50.00) / Printing supplies, paper.......... (42.20) / Return of donated funds to Kelton Baker..... (17.97) / Ending Balance in closed WAMU account for 2007....$0.00'. Because these figures do not come from the Summary Page's numbered lines, the totals block is left null and the narrative is preserved here."
+ }
+}

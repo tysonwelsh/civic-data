@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Garrett_Mast_Redacted.pdf",
+ "key": "9a8e409a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:02:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Garrett Mast",
+   "party_printed": "",
+   "office_printed": "County Recorder",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "22 April 2024",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "410.00",
+    "contrib_cumulative": "410.00",
+    "expend_this_period": "410.00",
+    "expend_cumulative": "410.00",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "410.00",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "410.00",
+    "boxC_contributions_received_year_to_date": "410.00",
+    "boxD_expenditures_made_this_period": "410.00",
+    "boxE_expenditures_made_year_to_date": "410.00",
+    "boxF_subtotal_before_expenditures": "410.00",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures printed with a leading '$' (dropped per spec). The Office field reads 'County Recorder', matching index.csv. Address row and signature are redacted upstream by the county (a black bar across the whole address row, so no city survives) - residence_city is ''. The cover page's signature Date box was left blank by the filer; report_date is taken from the form's own 'Date of Report' box, '22 April 2024' (written out in words-and-digits form, transcribed verbatim), which the summary page repeats. Page numbering is the filer's '1 of 4' / '4 of 4'."
+  }
+ ],
+ "notes": ""
+}

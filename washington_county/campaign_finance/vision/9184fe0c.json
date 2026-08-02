@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2018/June 19_Gil Almquist_FCR_06-19-2018.pdf",
+ "channel": "wayback_forms2018",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2018/June 19_Gil Almquist_FCR_06-19-2018.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2018/June 19_Gil Almquist_FCR_06-19-2018.pdf",
+   "doc_kind": "statement",
+   "sha256": "82c9e03c574d5a1231d583d2297d6fdb99e822f6b824b5f769424ddb732ad84f",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gilbert M. Almquist",
+  "office": "",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": "Washington County Offices, Kim Hafen"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Gilbert M@. Almquist =",
+ "index_reporting_year": "2018",
+ "index_cycle_year": "2018",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "3/9/2018",
+   "period_end": "6/19/2018",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "575.46",
+   "contrib_gt50_last": "575.46",
+   "contrib_gt50_this_printed": "29,152.93",
+   "contrib_gt50_this": "29152.93",
+   "contrib_gt50_cum_printed": "29,728.39",
+   "contrib_gt50_cum": "29728.39",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "27,236.46",
+   "expenses_cum": "27236.46",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "2,491.93",
+   "balance_end": "2491.93",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "typed form; the LAST-report contribution figure is annotated '(rollover from 2016 campaign)'. The Office line is BLANK on this copy - office comes from the index (person roster / portal listing), not from this document."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:47:02Z"
+}

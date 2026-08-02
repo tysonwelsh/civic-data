@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,877.00",
+ "total_expenditures": "2707.82",
+ "beginning_balance": "8,043.90",
+ "ending_balance": "8212.18",
+ "aggregate": {
+  "total_contributions_to_date": "15,650.30",
+  "total_expenditures_to_date": "7,623.85",
+  "line5_subtotal": "10,920.90"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "Democrat",
+  "office_sought": "SL Cnty Council",
+  "district_number": "#3",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/15/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_10_PrimaryInterim_CntyCncl3.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/dturner_10_PrimaryInterim_CntyCncl3.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to resolve the Column B cents)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Cents are written as raised superscripts over a rule; transcribed with a decimal point. Line 1 Column B is written with a plain decimal point and TWO slashed zeros (15,65\u00d8.3\u00d8) \u2014 read as 15,650.30, medium confidence. Neither the amendment Yes nor No box is checked, so is_amendment is left blank. The form's own arithmetic does not close: Line 5 (10,920.90) minus Line 6 (2,707.82) is 8,213.08, but Line 7 is written 8,212.18 \u2014 the filer's figure is kept verbatim (and the September report carries 8,212.18 forward as its Line 3, confirming the reading). Cover top-row Office reads 'SL Cnty Council Dist 3'; Office Sought was used per contract."
+ }
+}

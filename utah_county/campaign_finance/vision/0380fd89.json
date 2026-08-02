@@ -1,0 +1,59 @@
+{
+ "path": "raw/2008/2008_LarryEllertson2008YearEnd.pdf",
+ "key": "0380fd89",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:12:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Larry Alton Ellertson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat (C)",
+   "residence_city": "Lindon",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/1/08",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "3,024.37",
+    "expend_this_period": "0",
+    "expend_cumulative": "755.75",
+    "balance_beginning": "8265.18",
+    "subtotal_before_expend": "8265.18",
+    "balance_close": "8265.18"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "3,024.37",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "755.75",
+    "line3_balance_beginning": "8265.18",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "8265.18",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "8265.18"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten 2008 year-end report. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat B'; the page's own Office Seeking line reads 'Utah County Commission Seat (C)' (the parenthesised letter is a single cursive glyph, read as C at medium confidence). Every Column-A cell and lines 4/6 are written as the filer's slashed-zero glyph and are transcribed as '0'. Lines 3/5/7 all carry the same figure, read as 8265.18 at medium confidence (no thousands comma is clearly written and the 6/5 pair is compressed). Line 2 Column B (755.75) is compressed handwriting, medium confidence. Cover signature date is written '12-1-08'; report_date is taken from the summary page's printed Date of Report box ('12/1/08')."
+  }
+ ],
+ "notes": ""
+}

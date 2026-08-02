@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "12943",
+  "path": "raw/2020/12943_Melana-Stevens-Final.pdf",
+  "page": 1,
+  "sha256": "5767e0f6d4c297e6d74db210da07d8865916f1b82c52575482ef87b10c359f9a",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/12943/Melana-Stevens-Final",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Malena Stevens",
+  "office_verbatim": "Summit County Council Seat C",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "12/2/2020",
+  "rows": {
+   "contrib_total": {
+    "current_report": "0",
+    "last_report": "10,157.17",
+    "cumulative_totals": "10,157.17"
+   },
+   "total_expenditures": {
+    "current_report": "424.80",
+    "last_report": "9,217.72",
+    "cumulative_totals": "9,642.52"
+   },
+   "campaign_balance": {
+    "current_report": "",
+    "last_report": "",
+    "cumulative_totals": "514.65"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten 2020 single-total sheet, legible. Campaign-balance Current and Last cells EMPTY. Column-order cross-check: Last Report reproduces doc 11861's CUMULATIVE figures exactly (10,157.17 / 9,217.72). CORRECTION 2026-08-02 (verification pass): the cumulative expenditure was transcribed 9,647.52; re-read at 600 dpi it is 9,642.52 (the digit is a 2, not a 7 - compare the filer's 7 in the adjacent 9,217.72). 424.80 + 9,217.72 = 9,642.52 exactly. stated_total_expenditures changes 9647.52 -> 9642.52."
+}

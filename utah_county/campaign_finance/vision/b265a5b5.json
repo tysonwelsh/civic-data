@@ -1,0 +1,60 @@
+{
+ "path": "raw/2024/2024_Alan_Wessman.xlsx",
+ "key": "b265a5b5",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:30:00Z",
+ "pages_read": [],
+ "form_variant": "other",
+ "form_version": "",
+ "form_title": "(no county form) — the filer's own itemization spreadsheet: 'Itemized Contributions Received Exceeding $50.00' / 'Itemized Expenditures Made'",
+ "reports": [
+  {
+   "candidate_printed": "Alan Wessman",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "",
+   "is_amendment": "",
+   "report_date": "",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "6860.87",
+    "expend_this_period": "",
+    "expend_cumulative": "2859.39",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {
+    "TOTAL CONTRIBUTIONS RECEIVED": "6860.87",
+    "TOTAL EXPENDITURES MADE": "2859.39",
+    "Subtotal for reporting period (seven days preceding the primary election) — contributions": "1115.87",
+    "Subtotal for reporting period (seven days preceding the general election) — contributions": "5745",
+    "Subtotal for reporting period (7 days before primary) — expenditures": "847.39",
+    "Subtotal for reporting period (7 days before general election) — expenditures": "2012",
+    "Aggregate Contributions Received of $50.00 or less each (primary period, 0 contributions)": "0.0",
+    "Aggregate Contributions Received of $50.00 or less each (general period, 21 contributions)": "695.0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "",
+    "report_date": "",
+    "contrib_this_period": "",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "",
+    "balance_close": ""
+   },
+   "unreadable": ["contrib_this_period", "expend_this_period", "balance_beginning",
+                  "subtotal_before_expend", "balance_close", "office_printed",
+                  "report_type_printed", "report_date"],
+   "notes": "NOT a county form and NOT an image — this is the one spreadsheet filing in the corpus (the state `disclosures.utah.gov/Municipal/utah_2024` channel served it as .xlsx). Read from the workbook cells, not from a rendered page. It carries NO cover block at all: no office line, no political party, no Type-of-Report checkbox, no signature and no date, and no balance ladder — those fields are honestly absent from the document, not unreadable. The filer's own name appears only inside the ledger ('Friends of Alan Wessman' / 'Alan Wessman' as self-contributors); `candidate_printed` is taken from index.csv-corroborating ledger text plus the workbook filename. The sheet spans TWO reporting periods (7 days before the primary and 7 days before the general) and prints a per-period subtotal for each plus one cycle TOTAL; because no single per-period figure describes the whole document, the per-period slots are left BLANK and only the cycle totals are carried, with every printed subtotal preserved verbatim above. Itemized donor/vendor lines exist in this file and are NOT transcribed in this tranche (cover + stated totals only).",
+   "scope_flag": ""
+  }
+ ],
+ "notes": "Companion to Alan Wessman's PDF filings in the same 2024 cycle (raw/2024/2024_Alan_Wessman_Redacted_1_.pdf and _Redacted2.pdf) — retained and transcribed as its own filing because index.csv holds it as one, but its money is the SAME cycle's money. Do not add its totals to the PDFs' totals."
+}

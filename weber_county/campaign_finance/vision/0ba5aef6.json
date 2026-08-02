@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "0ba5aef6",
+ "source_filing": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+ "document_id": "2020_combined_7e3a53_f03540b9#p14",
+ "page_start": 14,
+ "page_end": 17,
+ "summary_page": 14,
+ "election_cycle": "2020",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:05Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "JAMES HARRISON HARVEY",
+ "office_stated": "Commission Seat # C.",
+ "report_type_stated": "October 20 - Oct 27",
+ "filing_date_stated": "2021-01-05",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "28,610.05",
+   "cum": "28,610.05"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "21,218.46",
+   "cum": "21,218.46"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "7,391.59",
+   "cum": "7,391.59"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "medium",
+  "filing_date": "medium",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN 2020 3-line form. TWO FILER ERRORS retained verbatim: (a) the 'October 20 - Oct 27' box is ticked but the clerk RECEIVED stamp is JAN 05 2021, i.e. this is the January final report; (b) the signature is dated '5 Jan 2020' / '1/5/20' - a year typo for 2021. index.csv carries 2021-01-05 (the stamp). Nothing corrected."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "22,837.63",
+ "total_expenditures": "160,958.73",
+ "beginning_balance": "20,949.04",
+ "ending_balance": "1045.79",
+ "aggregate": {
+  "total_contributions_to_date": "204745.40",
+  "total_expenditures_to_date": "203,699.61",
+  "line5_subtotal": "43786.67"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "DEMOCRAT.",
+  "office_sought": "DA",
+  "district_number": "County",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/sgill_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 250 to read the superscript cents",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cents are written as raised superscripts over a rule throughout; transcribed with a decimal point. ARITHMETIC INCONSISTENCY ON THE FORM: Line 2 Column A reads 160,958.73 but Line 6 ('from Line 2 Column A') reads 42,740.88; the balance summary is internally consistent only with 42,740.88 (20,949.04 + 22,837.63 = 43,786.67; 43,786.67 - 42,740.88 = 1,045.79). Both figures kept verbatim, nothing recomputed. Line 1 Column B is written with no thousands comma (204745) and Line 5 as '43 786' with a space rather than a comma. Line 7 cents read as 79 at 250 dpi (also equals Line 1B minus Line 2B)."
+ }
+}

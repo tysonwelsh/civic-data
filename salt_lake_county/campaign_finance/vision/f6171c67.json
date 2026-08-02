@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "JEREMY VOTAW",
+  "party": "REP",
+  "office_sought": "County Clerk",
+  "district_number": "N/A",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvotaw_10_InterimApr_clerk.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeremy Votaw",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jvotaw_10_InterimApr_clerk.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "EVERY Summary Page cell (Lines 1-7, both columns) is a hand-drawn slashed zero; all recorded as '0'. Neither amendment box is checked. Faxed 03/30/2010 16:56 from 801-208-9451 (fax pagination 'PAGE 02/05' on the cover, 'PAGE 03/05' on the Summary Page - the fax cover sheet is not in this PDF), signed 4/5/10, clerk-stamped MAR 30 2010. Note the ordering oddity: the fax and clerk stamp both PRECEDE the 4/5/10 signature date. The filer's April amendment (jvotaw_10_Apr_Interim_Amend.pdf) later restates this period at 648.48."
+ }
+}

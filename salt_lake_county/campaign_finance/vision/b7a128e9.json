@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "65106.85",
+ "total_expenditures": "34155.59",
+ "beginning_balance": "4735.24",
+ "ending_balance": "35686.50",
+ "aggregate": {
+  "total_contributions_to_date": "535589.87",
+  "total_expenditures_to_date": "499883.37",
+  "line5_subtotal": "69842.09"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Democrat",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/19/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/pcorroon_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/pcorroon_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form title prints '2006 Financial Disclosure Report' although the clerk listing labels this the '2005 Summary Report'; the Summary Page header reads 'Date of Report 1-31-06' and the signature is dated 1/19/06 (clerk-stamped RECEIVED JAN 31 2006). Year-End box checked; NEITHER amendment box is checked, so is_amendment is left blank. Column A arithmetic is self-consistent, but Column B is not: 535589.87 - 499883.37 = 35706.50 versus the Line 7 balance of 35686.50 (a 20.00 discrepancy, kept verbatim - the same 20.00 gap appears in the amended version, key 0370aecd)."
+ }
+}

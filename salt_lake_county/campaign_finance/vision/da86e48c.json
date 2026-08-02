@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$10,860.25",
+ "total_expenditures": "$10,145.02",
+ "beginning_balance": "$10,803.76",
+ "ending_balance": "$11,518.99",
+ "aggregate": {
+  "total_contributions_to_date": "$30,385.61",
+  "total_expenditures_to_date": "$18,866.62",
+  "line5_subtotal": "$21,664.01"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/12/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nelson_Steve_DA_Sept.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nelson_Steve_DA_Sept.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed (not handwritten) form. NEITHER amendment box (Yes/No) is checked, so is_amendment is left blank. The signature date is handwritten 9/12/14 while the Summary Page 'Date of Report' box prints 09/15/2014. Both office fields read 'Salt Lake County District Attorney'. Clerk RECEIVED stamp SEP 12 2014."
+ }
+}

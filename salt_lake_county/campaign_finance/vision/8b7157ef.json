@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$158,626.80",
+ "total_expenditures": "$95,510.54",
+ "beginning_balance": "$33,764.20",
+ "ending_balance": "$96,880.46",
+ "aggregate": {
+  "total_contributions_to_date": "$294,258.33",
+  "total_expenditures_to_date": "$197,404.87",
+  "line5_subtotal": "$192,391.00"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "D",
+  "office_sought": "Mayor",
+  "district_number": "N/A",
+  "report_type": "Interim Report: June 19 (For the period ending June 18, 2012)",
+  "is_amendment": "Yes",
+  "amendment_of": "June 19th",
+  "report_date": "7/3/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_June_Interim_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_June_Interim_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDMENT to the June 19 interim: the 'June 19' box is checked AND the amendment 'Yes' box is checked with 'June 19th' on the date-of-report line. Signed 7/3/12, clerk-stamped JUL 03 2012 - i.e. filed two weeks after the original. This is the later (2012) cover layout with no top-row 'Office' field, only Name + Political Party, so office_sought comes from the 'Office Sought' cell ('Mayor'); District Number is written 'N/A'. On this form Column B is headed 'Year to Date' rather than 'Aggregate Total'. The Summary Page header box is blank. Column A is identical to the original June filing (cf08b649) and the arithmetic checks out (33,764.20 + 158,626.80 = 192,391.00; minus 95,510.54 = 96,880.46), and Line 3 chains to the April filing's Line 7."
+ }
+}

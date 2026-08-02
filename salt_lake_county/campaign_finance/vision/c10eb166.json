@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4201.12",
+ "total_expenditures": "859.22",
+ "beginning_balance": "1657.17",
+ "ending_balance": "4999.08",
+ "aggregate": {
+  "total_contributions_to_date": "4,201.12",
+  "total_expenditures_to_date": "859.22",
+  "line5_subtotal": "5858.29"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "4/30/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_12_April_Interim_Amend_CntyCncl6_Redacte.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_12_April_Interim_Amend_CntyCncl6_Redacte.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Faint PENCIL throughout; page 2 re-rendered at 250 dpi and the superscript cents are still blotchy, hence medium confidence on every figure. This is the AMENDED April 2012 report (amendment box Yes, the 'date of report' blank left empty), amending key 4596d874. INTERNAL 1-CENT INCONSISTENCY, kept verbatim: Line 2 Column A reads 859.22 while Line 6 - which is supposed to copy it - reads 859.21, and Line 7 (4999.08) is computed from the Line 6 figure (5858.29 - 859.21 = 4999.08, whereas 5858.29 - 859.22 = 4999.07). Cents are raised superscripts over a rule throughout. Line 3 (1657.17) carries forward from the original April filing."
+ }
+}

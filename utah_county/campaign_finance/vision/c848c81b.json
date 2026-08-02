@@ -1,0 +1,58 @@
+{
+ "path": "raw/2020/2020_Child_5.1.20_Redacted_Redacted.pdf",
+ "key": "c848c81b",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:50:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Paul V. Child",
+   "party_printed": "Republican",
+   "office_printed": "Recorder",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "4/14/2020",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "250",
+    "contrib_cumulative": "250",
+    "expend_this_period": "1367.98",
+    "expend_cumulative": "1367.98",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "250.00",
+    "balance_close": "-1117.98"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "250",
+    "line1_total_contributions_colB": "250",
+    "line2_total_expenditures_colA": "1367.98",
+    "line2_total_expenditures_colB": "1367.98",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "250.00",
+    "line5_subtotal_lines3plus4": "250.00",
+    "line6_total_expenditures_from_line2A": "1367.98",
+    "line7_balance_at_close": "-1117.98"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "*** NAME DISAGREEMENT: index.csv carries candidate 'Taylor Dayton'; the PAGE FACE says 'Paul V. Child' in the Name of Candidate field and 'Paul Child' in the Report Verification block. The page is the authority - this is a Paul Child filing, filed under a county filename ('Child 5.1.20 Redacted') that index.csv attributes to Dayton. *** Line 7 is NEGATIVE: written '$- 1117.98' (the '$-' in black ink, the digits in blue) - the filer reports a deficit; transcribed as -1117.98 and magnified to confirm the minus sign. Line 3 is a hand-drawn open 'O' zero. The filer writes cents inconsistently: lines 1 and 2 as bare '250' / '1367.98', lines 4 and 5 as '250.00' with raised cents. AMENDMENT BOX: the 'No' checkbox carries a clear check; the 'Yes' checkbox also shows a small square artifact of the fillable-PDF rendering - read as 'No' at medium certainty. The cover's 'District:' and 'Office:' fill lines (right of the report-type list) were left blank. Signature redacted upstream by the county (black bar). Summary page's Page / Last Name / Date of Report boxes left blank; the sheet is the fillable version with a 'Submit' button. Office Seeking is written simply 'Recorder' (index.csv carries 'County Recorder')."
+  }
+ ],
+ "notes": ""
+}

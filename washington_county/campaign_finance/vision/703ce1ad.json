@@ -1,0 +1,99 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2020/Recorder_Gary L_06-17-2020. Christensen_June 23 2020 FCR.pdf",
+ "channel": "wayback_forms2020",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2020/Recorder_Gary L_06-17-2020. Christensen_June 23 2020 FCR.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2020/Recorder_Gary L_06-17-2020. Christensen_June 23 2020 FCR.pdf",
+   "doc_kind": "statement",
+   "sha256": "9eff255f7bf9a6eb2f619ce7d7a239308d4bd85a458f76d55d57211fdea810fe",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gary L. Christensen",
+  "office": "Recorder",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": ""
+ },
+ "index_office": "Recorder",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "G AVY L. GF ¥ sen = Sor",
+ "index_reporting_year": "2020",
+ "index_cycle_year": "2020",
+ "index_filing_type": "interim",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "3/13/20",
+   "period_end": "6/15/20",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "300.00",
+   "contrib_gt50_last": "300",
+   "contrib_gt50_this_printed": "",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "0",
+   "contrib_le50_last": "0",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "1,195.61",
+   "expenses_last": "1195.61",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "-895.61",
+   "balance_last": "-895.61",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_gt50_cum",
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "the filer entered every figure in the 'Totals from LAST Report' column and left THIS and CUMULATIVE blank - retained as filed"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:53:23Z"
+}

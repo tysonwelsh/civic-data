@@ -1,0 +1,108 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "92b0d4c42b57019da5e481ce90e69a6450cfe4202d177744a5de93ca57c2590e",
+ "canonical_path": "raw/2022/2022_cc_Kathryn_A_Beus_738747.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_Kathryn_A_Beus_738747.pdf",
+  "raw/2022/2022_wb_Kathryn_A_Beus.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Kathryn A Beus",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council-Southeast",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Southeast",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Nibley",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10-25-2022",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 OCT 25 PM 2:55",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "2350.00",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "2350.00",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "2479.01",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "2479.01",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "2350.00",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "-129.01",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "2350.00",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "2479.01",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Southeast",
+  "evidence": "page 1 'Office' box reads (typed) 'Cache County Council-Southeast'",
+  "confidence": "high"
+ },
+ "notes": "Born-digital typed cache_cfd, 4 pages: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page. All four are now read. 2026-08-02 UPDATE: the Summary page (page 4) HAS NOW BEEN RENDERED AND READ — it was not rendered in the 2026-08-01 batch, and the earlier note recording that absence is superseded by this one. The stated block is therefore no longer 'none': boxes A–F and the closing balance are transcribed above directly from the page image, and Schedule A's printed 'Total Contributions Received $ 2350.00' (page 2) and Schedule B's printed 'Total Expenditures Made $ 2479.01' (page 3) are transcribed from their own printed TOTAL lines — nothing was summed by this module. Box A is written as a bare '0' (typed, not a hand-drawn glyph). The closing balance is printed as a NEGATIVE, '-129.01', with a minus sign rather than accounting parentheses — recorded verbatim; the filer spent more than she raised in the period and the form's own arithmetic (F 2350.00 - D 2479.01) is internally consistent. The figures agree with what the scanner OCR sidecar had produced (A 0 / B 2350.00 / C 2350.00 / D 2479.01 / E 5479.01 / F 2350.00 / close -129.01) EXCEPT box E, where the OCR read '5479.01' and the page image plainly reads '2479.01' — the page image is authoritative and 2479.01 is recorded; this is a concrete instance of why this module does not trust the OCR layer for figures. Cover fields and office_determination are PRESERVED VERBATIM from the 2026-08-01 pass (re-verified against the page-1 image this pass; unchanged)."
+}

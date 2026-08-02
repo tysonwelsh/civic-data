@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1086",
+  "path": "raw/2014/1086_forsling.pdf",
+  "page": 1,
+  "sha256": "d97cc3fd8e6431c03e643c44a88d47e67fef1d2bfe84613813be5e20ff9fa422",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1086/forsling",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Corrie Forsling",
+  "office_verbatim": "Treasurer",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "10/27/14",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$13,482.96",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "contrib_le50": {
+    "current_report": "$50.00",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "$13,532.96",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "campaign_balance": {
+    "current_report": "$0.00",
+    "last_report": "",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed cover; Last Report and Cumulative Totals columns left blank."
+}

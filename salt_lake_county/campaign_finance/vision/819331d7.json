@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "F. Joseph Irish",
+  "party": "Republican",
+  "office_sought": "S.L. County Mayor",
+  "district_number": null,
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_fjosephirish_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "F. Joseph Irish",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_fjosephirish_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 1 header/signature and page 2 totals column re-rendered as -r 220-250 crops to confirm",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Every summary cell is a hand-written zero; the filer's decimal separator is inconsistent (sometimes a dot, sometimes a comma-like tick), but the value is unambiguously zero in all seven cells, so all are recorded as 0.00. The District Number cell holds an illegible hand-drawn mark (a '#' with a slash, apparently a not-applicable scribble), not a number, so it is recorded null rather than blank. Neither the amendment Yes nor the No box is checked. No year appears in the form title; the template is 08_FinancialDisclosureform.doc. Clerk RECEIVED stamp APR 08 2008."
+ }
+}

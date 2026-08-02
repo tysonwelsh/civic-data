@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$112,735.00",
+ "total_expenditures": "$112,218.28",
+ "beginning_balance": "$17,188.53",
+ "ending_balance": "$17,705.25",
+ "aggregate": {
+  "total_contributions_to_date": "$162,315.00",
+  "total_expenditures_to_date": "$144,609.75",
+  "line5_subtotal": "$129,923.53"
+ },
+ "cover": {
+  "candidate": "Crockett, Mark",
+  "party": "REPUBLICAN",
+  "office_sought": "Mayor",
+  "district_number": null,
+  "report_type": "Interim Report June 19, 2012",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "6/19/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Crockett_M_12_June_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Crockett_M_12_June_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk online-system printout (summary_printer.cfm?ID=654); every figure is machine-printed, nothing handwritten. The summary table has FOUR value columns - 'Total this Period', 'YTD', and a second pair for 'Other Campaign Accounts' which are $0.00 on lines 1 and 2. No checkbox block, amendment question or signature block, so those fields are null; report_date is the system print date. Line 3 ($17,188.53) matches line 7 of the April interim report and the arithmetic is internally consistent. Clerk listing calls this the 'June' report and the form itself says 'Interim Report June 19, 2012'."
+ }
+}

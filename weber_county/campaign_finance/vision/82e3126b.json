@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "82e3126b",
+ "source_filing": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+ "document_id": "2018_combined_7e3a53_1c487f91#p24",
+ "page_start": 24,
+ "page_end": 26,
+ "summary_page": 24,
+ "election_cycle": "2018",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:05Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Scott K Jenkins",
+ "office_stated": "County Commissioner Seat B",
+ "report_type_stated": "January 7th, 2019 (final report)",
+ "filing_date_stated": "2018-12-30",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "11,426.61",
+   "this": "-0",
+   "cum": "11,426.61"
+  },
+  "expenditures": {
+   "last": "8,508.52",
+   "this": "695.00",
+   "cum": "9,203.52"
+  },
+  "ending_balance": {
+   "last": "2,918.09",
+   "this": "695.00",
+   "cum": "2,223.09"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN 2018 3-line form (p24 of the 2018 archive). Line-1 'this report' written as '-0' - kept verbatim. Line-4 'this report' is written 695.00 as a positive though the balance DECREASES by that amount (2,918.09 -> 2,223.09); the filer's sign convention, retained."
+}

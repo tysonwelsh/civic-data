@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,000.00",
+ "total_expenditures": "574.92",
+ "beginning_balance": "0",
+ "ending_balance": "4,425.08",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "5,000.00"
+ },
+ "cover": {
+  "candidate": "E Dana Peck",
+  "party": "Republican",
+  "office_sought": "Surveyor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dpeck_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "E. Dana Peck",
+  "office": "Surveyor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dpeck_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'April/Dissolution', but the FINAL REPORT box on the form is NOT checked \u2014 only the April 5 interim box is, and the filing shows a $4,425.08 closing balance rather than a zeroed account. Recorded as the form reads. Column B is blank on both lines 1 and 2. Line 3 Column A is a drawn zero. Neither amendment box is checked. Form arithmetic checks out (5,000.00 - 574.92 = 4,425.08). Stamped COPY / RECEIVED APR 04 2006."
+ }
+}

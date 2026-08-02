@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "11862",
+  "path": "raw/2020/11862_Larsen.pdf",
+  "page": 1,
+  "sha256": "e22cd9ac1a615cbd0471985fdfd4b0147ea5ecfb9bc6984a99e645c1bfe2c252",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/11862/Larsen",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Stephanie Larsen",
+  "office_verbatim": "Assessor",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "10/24/2020",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$1,480.52",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "$1,480.52",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "campaign_balance": {
+    "current_report": "$0.00",
+    "last_report": "",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2020 single-total sheet; Last Report and Cumulative columns left blank."
+}

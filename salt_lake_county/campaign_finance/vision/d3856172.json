@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$8,140.29",
+ "total_expenditures": "$7,452.97",
+ "beginning_balance": "$4,722.45",
+ "ending_balance": "$5,409.77",
+ "aggregate": {
+  "total_contributions_to_date": "$8,140.29",
+  "total_expenditures_to_date": "$7,452.97",
+  "line5_subtotal": "$12,862.74"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "2",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1/31/08",
+  "report_date": "2/11/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MJensen08Jan31amended.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/MJensen08Jan31amended.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN/word-processed form (not handwritten), stamped 'COPY' in blue and clerk-stamped RECEIVED FEB 11 2008. This is an AMENDMENT: the Year-End box is checked AND the amendment 'Yes' box is checked with '1/31/08' written as the date of the report being amended, which matches the manifest's 'Amendment to 2007 Summary Report'. Two office fields are present and agree: top-row Office 'County Council, District 2' and Office Sought 'Council' with District Number '2'. Signature date 2/11/08. The Summary Page's own header box (Page/of, Last Name, Date of Report) is left entirely blank. Column A arithmetic checks out (4,722.45 + 8,140.29 = 12,862.74; 12,862.74 - 7,452.97 = 5,409.77)."
+ }
+}

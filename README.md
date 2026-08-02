@@ -72,7 +72,7 @@ Headline federated totals (measured, not estimated):
 |---|---:|---:|---:|---:|---|
 | **motions** | 49,105 | 27,271 | 977 | 1,208 | `motion` table |
 | **member-votes** | 180,980 | 38,592 | 0 | 27,887 | `vote`; regional minutes are tally-only, so MPOs record no member-votes |
-| **elections** | | | | | `election_race` 688 (authoritative winners/margins) + `election_result` 5,482 (SLCo SOVC tallies) |
+| **elections** | | | | | `election_race` 810 (authoritative winners/margins — 688 city + 122 SLCo county-office, 2026-08-01) + `election_result` 5,820 (SOVC tallies: 5,482 municipal + 338 SLCo county-office 2002–2026) |
 | **regional projects** | | | 5,717 | | `regional_project` — WFRC + MAG programmed TIP/RTP projects |
 | **projections** | | 980 | 9,832 | 140 | `projection` — county / annual city-area regional / state grains |
 | **searchable minutes** | | | | | `fts_minutes` — 14,696 documents across 40 entities (incl. 823 recovered-PMN texts) |
@@ -262,7 +262,12 @@ packets + staff reports), `housing_plans/` (moderate-income housing + general pl
 `ordinances/` (zoning/land-use ordinance index), `pmn_backfill/` (Utah Public Notice
 cross-check + recovered meetings), `transcripts/` (meeting-video transcripts),
 `campaign_finance/` (candidate disclosures joined to election results — a structured
-dollar layer in 29 of 31 cities; SLC is portal-blocked and Draper unstructured, both
+dollar layer in 29 of 31 cities (SLC is portal-blocked and Draper unstructured, both
+caveated) plus, since 2026-08-01/02, ALL 8 counties: every county-office filing's cover was
+vision-read and its STATED TOTALS federate into cf_filing (1,911 county filing rows,
+2006–2026, all row offices); county itemized donor rows exist from salt_lake_county's
+EasyVote 2024/2026 API layer + juab's 2020 transcriptions; cf_cycle remains city-only by
+design (per-county ceilings + regimes in the caveat table),
 caveat-carried in the db), and a primary-document text layer. Each is self-contained
 with its own `CLAUDE.md`, `AVAILABILITY.md`, `index.csv`, retained `raw/`, and honest
 `unrecovered.csv`. The 2026-07 city wave and the counties are queued for expansion (see

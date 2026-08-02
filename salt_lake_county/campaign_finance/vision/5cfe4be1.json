@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,225",
+ "total_expenditures": "1,203.03",
+ "beginning_balance": "0",
+ "ending_balance": "$9021.97",
+ "aggregate": {
+  "total_contributions_to_date": "10,225",
+  "total_expenditures_to_date": "1,203.03",
+  "line5_subtotal": "$10,225"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council",
+  "district_number": "At-Large Seat A",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "Yes",
+  "amendment_of": "4/16/14",
+  "report_date": "4/16/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/WilsonJ2014AprilAmendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/WilsonJ2014AprilAmendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Amendment 'Yes' checked with '4/16/14' written as the date of report \u2014 the same as the signature date, not the 4/6/2014 original being amended. Line 3 is a slashed zero (\u00d8) \u2014 recorded as \"0\". Line 1 is written without cents ('10,225') and Line 7 without a thousands comma ('$9021.97') \u2014 both kept verbatim. This amendment lowers contributions from the original April filing (key a1c5749f, 10,375) by 150, changing the closing balance from 9171.97 to 9021.97. Top-row Office reads 'Council At-Large A'. Received stamp APR 22 2014."
+ }
+}

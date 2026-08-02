@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,283.80",
+ "total_expenditures": "733.80",
+ "beginning_balance": "0",
+ "ending_balance": "2,550.00",
+ "aggregate": {
+  "total_contributions_to_date": "3,283.80",
+  "total_expenditures_to_date": "733.80",
+  "line5_subtotal": "3,283.80"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "3/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cdickson_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/cdickson_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 3 Column A is a slashed zero. Neither amendment box is checked. Signature date 3/31/06 (the period-ending date) rather than the April 5 due date. Form arithmetic checks out (3,283.80 - 733.80 = 2,550.00). Stamped RECEIVED APR 05 2006."
+ }
+}

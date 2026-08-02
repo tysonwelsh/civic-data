@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "b0b6c072",
+ "source_filing": "raw/y2026/2026_ugd_92078f_e3986a38.pdf",
+ "document_id": "2026_ugd_92078f_e3986a38",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:38:01Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Duane D. Kearsley",
+ "office_stated": "Weber Co. Commission Seat A",
+ "report_type_stated": "June 16 - Primary Election",
+ "filing_date_stated": "2026-06-14",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "21,188.86",
+   "this": "520.00",
+   "cum": "21,708.86"
+  },
+  "expenditures": {
+   "last": "17,532.36",
+   "this": "18.69",
+   "cum": "17,551.05"
+  },
+  "ending_balance": {
+   "last": "3,656.50",
+   "this": "501.31",
+   "cum": "4,157.81"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED summary (handwritten signature/date 6-14-26). All columns reconcile. Filing date legible on the form though index.csv carries a blank date. County-redacted street address; city/zip printed (Ogden, 84404)."
+}

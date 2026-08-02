@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "23740",
+  "path": "raw/2024/23740_Cooke-Final-2024-Financial-Disclosure.pdf",
+  "page": 1,
+  "sha256": "03158e89c98bd1ae893b45a85932f5e2faba29c5349344cac38f7fef56af03ad",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/23740/Cooke-Final-2024-Financial-Disclosure",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Thomas Cooke",
+  "office_verbatim": "County Council Seat C",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "July 23, 2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$5,456.46",
+    "last_report": "$0.00",
+    "cumulative_totals": "$5,456.46"
+   },
+   "total_expenditures": {
+    "current_report": "$5,755.91",
+    "last_report": "$0.00",
+    "cumulative_totals": "$5,755.91"
+   },
+   "campaign_balance": {
+    "current_report": "-$299.45",
+    "last_report": "$0.00",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2024 filing on the OLDER 'Last Report' sheet layout (address/phone block, Current | Last | Cumulative). The campaign-balance CUMULATIVE cell is EMPTY. Carries the clerk's printed instruction box. Indexed as Out at Primary."
+}

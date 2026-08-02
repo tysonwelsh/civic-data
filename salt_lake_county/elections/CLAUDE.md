@@ -1,11 +1,23 @@
 # salt_lake_county / elections — the canonical Salt Lake County canvass
 
-**This is the county-level canonical source for Salt Lake County municipal elections.**
-The 7 SLCo cities in this repo (slc, sandy, west_jordan, west_valley, south_jordan,
-millcreek, taylorsville) all draw from the *same* county-clerk canvass — this module holds
-it once, at the level where it actually originates, instead of 7 divergent city copies.
+**This is the county-level canonical source for Salt Lake County elections.** The 7 SLCo
+cities in this repo (slc, sandy, west_jordan, west_valley, south_jordan, millcreek,
+taylorsville) all draw from the *same* county-clerk canvass — this module holds it once,
+at the level where it actually originates, instead of 7 divergent city copies.
 
-## Files
+**TWO layers, two election cycles, two canonical long files** (they never overlap):
+
+| | ODD years | EVEN years |
+|---|---|---|
+| canonical | `slco_municipal_results_long.csv` | `slco_county_results_long.csv` |
+| what | MUNICIPAL offices (every SLCo city/town) | the COUNTY's OWN offices + county ballot measures |
+| span | 2007–2025 | 2002–2026 |
+| derived | `election_results_by_contest.csv` | `county_results_by_contest.csv` |
+| races | (city `<slug>_races.csv`, federated) | `county_races.csv` — **STAGED, not federated** |
+| builder | `build_elections.py` | `normalize_sovc_county.py` → `build_county_elections.py` |
+| status | federated into `gov.db` | **staged 2026-08-01, awaiting loader extension** |
+
+## Files — the ODD-year municipal layer
 
 - `slco_municipal_results_long.csv` — **canonical.** The Salt Lake County Clerk Statement
   of Votes Cast (SOVC), tidy long form: one row per precinct × candidate × vote-method,
@@ -67,13 +79,75 @@ it once, at the level where it actually originates, instead of 7 divergent city 
   Idempotent; DERIVED output, never hand-edited.
 - `raw/SOURCES.md` — provenance + the upstream pipeline.
 
+## Files — the EVEN-year COUNTY-OFFICE layer (added 2026-08-01, **STAGED**)
+
+The county's own elected offices — **Mayor, the 9 Council seats (3 at-large A/B/C +
+6 districts), Sheriff, District Attorney, Clerk, Assessor, Recorder, Treasurer,
+Auditor, Surveyor** — are elected in EVEN years and had **zero result rows anywhere
+in the repo** before this. Full record: `RECON_COUNTY_2026-08-01.md`.
+
+- `slco_county_results_long.csv` — **canonical.** One row per precinct × candidate ×
+  vote-method, **561,447 rows / 134 contests, 2002–2026**, verbatim. Columns match
+  the municipal long file's first 13 with `election_date` + `family` inserted.
+  Scoped to **Salt Lake County-level contests** (offices + county ballot measures);
+  the full 1,404-contest parse (federal/state/judicial/school/municipal, 3.0M rows /
+  416 MB) is over GitHub's limit and lives behind `--full` under gitignored `raw/`.
+  **Nothing is silently dropped** — `contest_inventory.csv` catalogues all 1,404.
+- `contest_inventory.csv` — every contest in every even-year workbook, with its
+  county-office classification and `retained` yes/no. The proof of scope.
+- `reconciliation_county.csv` — the **hard gate ledger**, all 3,811 candidate columns:
+  precinct sum vs the workbook's own certified-total row. **3,624 exact**, 185
+  `suppressed-deficit` (2024/2026 `****` privacy suppression), 2
+  `known-source-discrepancy` (the 2004 SLC School District 2 contest — the county's
+  own precinct rows and its own certified total disagree by 5 votes; kept verbatim,
+  allowlisted, verified against the county's certification PDF).
+- `county_results_by_contest.csv` — **derived**, 338 rows, contest × candidate.
+  `votes` = precinct sum (the `election_result` convention); **`certified_votes`** =
+  the workbook's own contest total, which is LARGER wherever suppression hid cells —
+  `votes_basis` says which applies (314 exact / 24 suppressed-deficit).
+- `county_races.csv` — **STAGED**, 122 races in the uniform 25-column `election_race`
+  shape. Vote figures are the county's **certified** totals. ⚠ NOT federated:
+  `scripts/build_cities_db.py`'s `load_election_race()` reads only `level=='city'`
+  entities today. Read each row's `note`: 17 primary rows are a **party ballot's
+  nominee, not an election winner**; 7 are uncontested; **2 carry an `AUDIT FLAG`**
+  (2006 Surveyor, 2016 Council D2 — the canvass's aggregate write-in bucket is the
+  runner-up, so those margins are not two-candidate margins).
+- `acquire_county_raw.py` / `normalize_sovc_county.py` / `county_contest_map.py` /
+  `build_county_elections.py` / `verify_against_certifications.py` — the pipeline,
+  in that order. All idempotent; all outputs DERIVED, never hand-edited.
+- `verification_county.csv` — the **external** gate: every staged race re-checked
+  against the county's own certified summary PDF. **115 match / 0 NOT FOUND**;
+  the 7 unchecked are honest publication gaps (no summary PDF exists for the 2008
+  general; the 2026 primary's PDF is a canvass *statistics* report with no tallies).
+
+**Parser lineage:** families A/B/C/D are **ported, not imported**, from
+`~/Desktop/slco-election-archive/scripts/normalize_sovc.py` (the repo must never
+depend on that path). Families **E (2006)** and **G (2002/2004 single-sheet canvass)**
+are new here, and the 2020 SpreadsheetML pair is read by a local reader — those three
+eras were listed as *"still unparsed"* upstream and are now parsed and gate-verified.
+
+**Even-year quirks to respect:** the 2002 GENERAL canvass overflows its name column,
+printing the total inside the name cell and clipping the party suffix
+(`AARON D. KENNARD RE121,314`) — split exactly, suffix kept verbatim; 2018 and 2020
+print **no party at all**; the 2010 primary prints `At-Large` with no seat letter;
+2002 prints 5 `CANDIDATE WITHDREW` placeholders with no data column (nothing invented).
+
 ## Provenance
 
-Source: **Salt Lake County Clerk** — <https://www.saltlakecounty.gov/clerk/elections/election-results/>.
-Ingested + normalized by the personal pipeline at `~/Desktop/slco-election-archive`
-(`raw/` verbatim mirror → `scripts/normalize_sovc.py` → `data/municipal_results_long.csv`,
-which is copied here). The true raw SOVC `.xlsx`/`.xls`/PDF files live in that mirror and
-are **linked, not re-hosted** (bulk-data discipline). Re-fetch there before each election.
+Source for both layers: **Salt Lake County Clerk** —
+<https://www.saltlakecounty.gov/clerk/elections/election-results/>.
+
+- **ODD-year municipal:** ingested + normalized by the personal pipeline at
+  `~/Desktop/slco-election-archive` (`raw/` verbatim mirror →
+  `scripts/normalize_sovc.py` → `data/municipal_results_long.csv`, copied here). Its
+  raws are **linked, not re-hosted**. Re-fetch there before each election.
+- **EVEN-year county-office:** raws are **mirrored in this module** at `raw/<year>/`
+  (61 files / 208 MB, gitignored by the repo-wide `raw/` rule) and catalogued with
+  URL + bytes + **sha256** + acquisition channel in **`sources.csv`** — 28 copied
+  from the local mirror, 33 fresh-downloaded from saltlakecounty.gov on 2026-08-01.
+  Refresh with `python3 acquire_county_raw.py` (idempotent; preserves each file's
+  original channel and date), then rerun `normalize_sovc_county.py` →
+  `build_county_elections.py` → `verify_against_certifications.py`.
 
 ## How the cities relate (the tier)
 
@@ -100,11 +174,23 @@ counts exactly). In `gov.db`:
   Nov-2023 council election (D1/D3/D5; Resolution 2023-09-02 — Prokopis/Sudbury/Pierce
   deemed elected) and Alta's Nov-2025 general (Resolution 2025-R-26 — Bourke/Anctil/
   Heimark deemed elected) were cancelled; their absence from the SOVC is correct.
-- Still unparsed upstream (odd-year relevant: none): 2020 primary + 2020 presidential
-  primary (SpreadsheetML `.xls`), the 2002–2006 canvass era, 1996–2001 PDFs, and the
-  2025 Cast Vote Record (ballot-level; future loader).
+- ~~Still unparsed upstream: 2020 primary + 2020 presidential primary (SpreadsheetML
+  `.xls`), the 2002–2006 canvass era…~~ **CLOSED 2026-08-01** by the even-year build:
+  the 2002/2004 single-sheet canvasses (family G), 2006 (family E) and the three 2020
+  SpreadsheetML workbooks (local XML reader → family D) all parse and pass the
+  reconciliation gate. Still unparsed, honestly: the **1996/1998/2000 PDF-only era**
+  (no machine-readable canvass exists — mirrored + catalogued only) and the **Cast
+  Vote Records** (2025 municipal, 2026 primary — ballot-level; future loader).
 
 ## Not done yet (tracked in root TODO.md)
+
+**The even-year county-office layer is STAGED, not federated (2026-08-01).**
+`scripts/build_cities_db.py` needs two loader extensions before `county_races.csv` and
+`county_results_by_contest.csv` reach `gov.db`: `load_election_race()` currently
+iterates `level=='city'` only, and `load_election_result()` reads only each county's
+`election_results_by_contest.csv`. Until then, query the CSVs here directly — and note
+that `election_result`/`election_race` in `gov.db` still contain **odd-year municipal
+rows only** for Salt Lake County.
 
 The 3 city pipelines still parse their own raw (SLC filters county per-year CSVs;
 sandy/wj/wvc parse per-city SOVC `.xlsx`; sj/millcreek/taylorsville use city long-slices).

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "267.37",
+ "beginning_balance": "267.37",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "21,093.42",
+  "total_expenditures_to_date": "21,093.42",
+  "line5_subtotal": "267.37"
+ },
+ "cover": {
+  "candidate": "Tyler Andrus",
+  "party": "Dem",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "11/10/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/tandrus_10_Final_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Tyler Andrus",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/tandrus_10_Final_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten, clean. Top-row 'Office' box reads 'County Council #5'; Office Sought 'County Council' with District Number '5'. Aggregate contributions and aggregate expenditures are both 21,093.42 and the closing balance is a hand-drawn zero, as a dissolution report requires. Neither amendment box is checked."
+ }
+}

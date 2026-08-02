@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Jimmy Cadman",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/31/07",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "medium",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jcadman_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jimmy L. Cadman",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jcadman_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "One-page 'Dissolution of a Candidate Campaign' form, NOT the Financial Disclosure Report - no checkboxes, no party/office boxes, no Summary Page. Handwriting is a rapid cursive: Name of Committee 'Jimmy Cadman', County Office Candidate 'Jimmy Cadman', Committee Secretary 'Jimmy Cadman' (all medium confidence). 'Date Committee Was Established' is ILLEGIBLE. Signature date read as 1/31/07 (clerk stamp RECEIVED JAN 31 2007 corroborates)."
+ }
+}

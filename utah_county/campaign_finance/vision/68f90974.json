@@ -1,0 +1,58 @@
+{
+ "path": "raw/2016/2016_G2016Ivie.pdf",
+ "key": "68f90974",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "R. Nathan Ivie",
+   "party_printed": "Rep.",
+   "office_printed": "Ut. County Commissioner Seat C",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "1 Nov 2016",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "8,550",
+    "contrib_cumulative": "29,194",
+    "expend_this_period": "18,181.70",
+    "expend_cumulative": "",
+    "balance_beginning": "10,190.80",
+    "subtotal_before_expend": "18,740.80",
+    "balance_close": "559.10"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "8,550",
+    "line1_total_contributions_colB": "29,194",
+    "line2_total_expenditures_colA": "18,181.70",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "10,190.80",
+    "line4_total_contributions_from_line1A": "8,550",
+    "line5_subtotal_lines3plus4": "18,740.80",
+    "line6_total_expenditures_from_line2A": "18,181.70",
+    "line7_balance_at_close": "559.10"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "low",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": ["expend_cumulative", "line2_total_expenditures_colB"],
+   "notes": "Handwritten. LINE 2 COLUMN B IS NOT FULLY READABLE: the dollar part reads '28,634' clearly but the raised superscript cents are a smudged two-character mark that cannot be resolved (it is over-written and crossed by the filer's underline), so the field is left empty and flagged unreadable rather than guessed - the '28,634' dollars are recorded here in the notes only. Cents elsewhere are written as raised superscripts and transcribed in decimal form; whole-dollar figures are written with a trailing dash ('8,550-'), reproduced without it. Same filer as key 672dd5a2 (the June 2016 pre-primary report); the cover name here is 'R. Nathan Ivie' while the verification line reads 'Nathan Ivie'. The summary page's Page / Last Name / Date of Report header box was left entirely blank; its printed header reads '2016 County & Local School Board Candidates' (form boilerplate - the Office Seeking line is a county commission seat). Clerk received stamp NOV 1 AM 7:5x."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_PEPhelps.pdf",
+ "key": "17b6d8dc",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:18:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jim Phelps",
+   "party_printed": "Republican",
+   "office_printed": "Sheriff",
+   "residence_city": "Alpine",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "",
+   "report_date": "7-13-2018",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "8357.14",
+    "contrib_cumulative": "81,188.78",
+    "expend_this_period": "8324.19",
+    "expend_cumulative": "65,546.40",
+    "balance_beginning": "15,609.16",
+    "subtotal_before_expend": "23,966.57",
+    "balance_close": "15,642.38"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "8357.14",
+    "line1_total_contributions_colB": "81,188.78",
+    "line2_total_expenditures_colA": "8324.19",
+    "line2_total_expenditures_colB": "65,546.40",
+    "line3_balance_beginning": "15,609.16",
+    "line4_total_contributions_from_line1A": "8.357.41",
+    "line5_subtotal_lines3plus4": "23,966.57",
+    "line6_total_expenditures_from_line2A": "8,324.19",
+    "line7_balance_at_close": "15,642.38"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "FILER INCONSISTENCY, transcribed as printed, not reconciled: Line 1 Column A reads '8357.14' while Line 4 (which the form says is copied from Line 1 Column A) reads '8.357.41' - the last two digits are transposed between the two writings and the filer used a period as the thousands separator on Line 4. Both are recorded verbatim; contrib_this_period takes Line 1 Column A per the schema mapping, at medium confidence. Neither amendment box (Yes/No) is marked, so is_amendment is left blank - the filer answered nothing. Summary page header reads '2018 County & Local School Candidates', Page 3 of 3, Last Name 'Phelps', Date of Report '7-13-2018'. Office Seeking is written simply 'Sheriff' (index.csv carries 'County Sheriff' - a naming convention, not a conflict)."
+  }
+ ],
+ "notes": ""
+}

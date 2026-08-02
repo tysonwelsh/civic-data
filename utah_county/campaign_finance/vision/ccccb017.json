@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Skyler_Beltran_Financial_Disclosure_12.6.24.pdf",
+ "key": "ccccb017",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 3, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "SKYLER M. BELTRAN",
+   "party_printed": "",
+   "office_printed": "UTAH COUNTY COMMISSION C",
+   "residence_city": "LEHI",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/6/24",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "13,894.23",
+    "expend_this_period": "0",
+    "expend_cumulative": "3,849.95",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "13,894.23",
+    "balance_close": "10,044.28"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "13,894.23",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "3,849.95",
+    "boxF_subtotal_before_expenditures": "13,894.23",
+    "balance_at_close": "10,044.28"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in ALL CAPS over the printed v. 12.23 form. Office field reads 'UTAH COUNTY COMMISSION C' - the seat letter C is written tight against the right edge of the box (medium confidence on the trailing C); index.csv 'County Commission Seat C' agrees. Not redacted - the address, phone and email are legible on the page; only the city is recorded here per package privacy rules. Boxes A, B and D are the filer's SLASHED-ZERO glyph, transcribed as 0 (genuine written zeros, not blanks). FILER INCONSISTENCY, transcribed verbatim and NOT corrected: the form's own formula makes Box F = A + B = 0, but the filer wrote F = 13,894.23 and a Balance at Close of 10,044.28 - i.e. F and the close carry over the prior (7-days-before-General) period's figures rather than this period's. No arithmetic was performed here. In Box C the decimal separator is written as a comma-like glyph ('$13,894,23'); read as 13,894.23 at medium confidence by analogy with the clearly period-separated E and close. The cover page's 'Date of Report' box is left BLANK by the filer; report_date is taken from the signature date 12/6/24, which matches the summary page's own Date of Report box. Page 3 is a PHOTOCOPY of the previous filing's typed Schedule A (same 8 contributions, same 13,894.23 total) with the printed date '10/28/2024' struck through and '12/6/24 SB' handwritten beneath - re-used paperwork, not new itemization; not transcribed per this tranche's totals-only scope."
+  }
+ ],
+ "notes": ""
+}

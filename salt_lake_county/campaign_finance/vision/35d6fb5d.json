@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,835.48",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "1,835.48",
+ "aggregate": {
+  "total_contributions_to_date": "1,835.48",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "1,835.48"
+ },
+ "cover": {
+  "candidate": "Leslie Reberg",
+  "party": "Democrat",
+  "office_sought": "County Recorder",
+  "district_number": "S.L. County",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lreberg_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lreberg_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The filer wrote 'S.L. County' in the District Number box (recorded verbatim - not a district number). Lines 2 (both columns), 3 and 6 are hand-drawn slashed zeros. Neither amendment box is checked; the Summary Page header box was left blank. Re-rendered page 2 at 250 dpi to confirm Line 1 Column B is 1,835.48 (identical to Column A)."
+ }
+}

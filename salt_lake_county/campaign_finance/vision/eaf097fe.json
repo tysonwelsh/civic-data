@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "1,144.03",
+ "ending_balance": "1,144.03",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1,144.03"
+ },
+ "cover": {
+  "candidate": "Sherrie Swensen",
+  "party": "Democrat",
+  "office_sought": "Clerk",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/14/05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/swensen_05finalreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sherrie Swensen",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/swensen_05finalreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten, raised superscript cents. Column B is BLANK on both Lines 1 and 2 (recorded \"\", not 0). Lines 1, 2, 4 and 6 Column A are small hand-drawn circles (zeros). No Final/Dissolution box is checked despite the clerk filename 'finalreport' - only the Year-End box, signed 1/14/05 and stamped JAN 19 2005, i.e. the year-end report for calendar 2004 (the clerk listing's '2004 Summary Report'). Line 7 (1,144.03) matches the 1/30/06 year-end's Line 3."
+ }
+}

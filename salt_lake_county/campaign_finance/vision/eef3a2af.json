@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,060.00",
+ "total_expenditures": "7,760.26",
+ "beginning_balance": "26,812.84",
+ "ending_balance": "28,112.58",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "35,872.84"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-1-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rhoruchi_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/rhoruchi_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Later form face with both an 'Office' box (left blank) and an 'Office Sought' box ('Council' / district 'At Large'), and a 'FINAL / DISSOLUTION REPORT' block; Column B is headed 'Aggregate Total' and is blank on both lines. Year-End box checked, neither amendment box checked; signed 2-1-10 and clerk-stamped RECEIVED FEB 01 2010, i.e. the year-end report FOR 2009. Summary Page header 'Horiuchi, Feb. 1/10' (the page/of box is blank). Cents are written as raised superscripts. Arithmetic exact (26,812.84 + 9,060.00 = 35,872.84; less 7,760.26 = 28,112.58), and the closing balance chains correctly into the 2010 year-end report (key 7165730e)."
+ }
+}

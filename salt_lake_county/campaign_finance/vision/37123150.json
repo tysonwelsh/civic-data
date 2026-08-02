@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,632.00",
+ "total_expenditures": "14,222.86",
+ "beginning_balance": "13,294.20",
+ "ending_balance": "6,703.34",
+ "aggregate": {
+  "total_contributions_to_date": "37,897.35",
+  "total_expenditures_to_date": "30,056.81",
+  "line5_subtotal": "20,926.20"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "Republican",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "10/31/2006",
+  "report_date": "11/28/2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cdickson_103106amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/cdickson_103106amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Fully TYPED form. NO Type-of-Report box checked -> ''; amendment Yes, of the 10/31/2006 report; signed/dated 11/28/2006. Summary header: page 1 of 1, Dickson, 11/28/2006 (PDF has 6 pages). Received stamp NOV 29 2006 plus a handwritten 'Received Salt Lake County Clerk' annotation."
+ }
+}

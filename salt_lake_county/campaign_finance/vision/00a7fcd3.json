@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,200",
+ "total_expenditures": "2,957.42",
+ "beginning_balance": "11,425.10",
+ "ending_balance": "17,667.68",
+ "aggregate": {
+  "total_contributions_to_date": "29,945",
+  "total_expenditures_to_date": "12,277.32",
+  "line5_subtotal": "20,625.10"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "Cnty Council",
+  "district_number": "#5",
+  "report_type": "September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9-15-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jallen_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jallen_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Lines 1A/1B carry no cents ('9,200' / '29,945'). Arithmetic closes and Line 7 (17,667.68) matches the October report's Line 3."
+ }
+}

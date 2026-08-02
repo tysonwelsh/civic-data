@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "95.00",
+ "total_expenditures": "108.00",
+ "beginning_balance": "25.49",
+ "ending_balance": "12.49",
+ "aggregate": {
+  "total_contributions_to_date": "95.00",
+  "total_expenditures_to_date": "108.00",
+  "line5_subtotal": "120.49"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "D",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_jwilson_yearendsumm.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_jwilson_yearendsumm.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Party is written as the single letter 'D'. Older form variant with a top-row 'Office' box reading 'County Council'; the District Number box holds 'At Large' (clerk listing says At-Large B - the form does not print the letter). Neither amendment box is checked. Arithmetic consistent (25.49 + 95.00 = 120.49; minus 108.00 = 12.49)."
+ }
+}

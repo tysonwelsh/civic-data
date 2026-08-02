@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "14,691.51",
+ "total_expenditures": "2,323.06",
+ "beginning_balance": "655.86",
+ "ending_balance": "13,024.31",
+ "aggregate": {
+  "total_contributions_to_date": "16,491.51",
+  "total_expenditures_to_date": "3,724.82",
+  "line5_subtotal": "15,347.37"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "Council At-Large C",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "June 20",
+  "report_date": "Oct. 3, 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jimbradley_june2006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jimbradley_june2006amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "As with the filer's April amendment, NO reporting-period box is checked - the only mark in the Type of Report block is the amendment 'Yes' box with 'June 20' written on the date-of-report rule; report_type is left blank and the period is carried by amendment_of. Signed 'Oct. 3, 2006', clerk-stamped OCT 03 2006. The Summary Page's Date-of-Report box has an earlier entry scribbled out and 'Oct. 3, 2006' written beside it. Page-of box reads 'Page 2 of 7'. Figures chain correctly with the filer's other 2006 reports (opens at 655.86 = the April report's close; closes at 13,024.31 = the September report's opening balance)."
+ }
+}

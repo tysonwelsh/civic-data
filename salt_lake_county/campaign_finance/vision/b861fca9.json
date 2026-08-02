@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3673.44",
+ "total_expenditures": "3673.44",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "3673.44",
+  "total_expenditures_to_date": "3673.44",
+  "line5_subtotal": "3673.44"
+ },
+ "cover": {
+  "candidate": "Ott, Gary",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5, 2012",
+  "report_date": "April 5, 2012",
+  "form_year": "2008"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ott_G_12_April_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ott_G_12_April_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Stale 2008-vintage blank form used for a 2012 filing: the printed interim dates read 'April 7 5 / For the period ending March 31, 2008' with the 7 struck out and '2012' handwritten over a struck-out '2008'. The April box IS checked and the amendment 'Yes' box is checked with 'April 5, 2012' written in. The handwritten signature date is illegible (struck-through scrawl over the signature); report_date here is taken from the Summary Page 'Date of Report' box, which reads 'April 5, 2012'. Clerk stamp APR 05 2012. Lines 3 and 7 Column A are written as a slashed zero (\u00d8). Column B is headed 'Sum Total to Date' on this form vintage."
+ }
+}

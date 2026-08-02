@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_Commission.Ellingson.pdf",
+ "key": "8ccacdeb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:32:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Karen Ellingson",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner",
+   "residence_city": "Springville",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "",
+   "report_date": "05/09/2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "5690.79",
+    "contrib_cumulative": "5690.79",
+    "expend_this_period": "5548.02",
+    "expend_cumulative": "5548.02",
+    "balance_beginning": "30.23",
+    "subtotal_before_expend": "5721.02",
+    "balance_close": "173.00"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "5690.79",
+    "line1_total_contributions_colB": "5690.79",
+    "line2_total_expenditures_colA": "5548.02",
+    "line2_total_expenditures_colB": "5548.02",
+    "line3_balance_beginning": "30.23",
+    "line4_total_contributions_from_line1A": "5690.79",
+    "line5_subtotal_lines3plus4": "5721.02",
+    "line6_total_expenditures_from_line2A": "5548.02",
+    "line7_balance_at_close": "173.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed entries (only the signature is handwritten); figures typed with a leading '$' (dropped per spec) and no thousands comma - transcribed verbatim as written. AMENDMENT FIELD IS INTERNALLY INCONSISTENT: neither the Yes nor the No box is checked, yet the 'Yes, Date of Report' line carries the typed date '05/09/2018' (the same as the report date). is_amendment is therefore '' - the checkbox state, not an inference from the filled line. The OFFICE FIELD SAYS ONLY 'County Commissioner' - no seat letter is printed, so it neither confirms nor contradicts office_index 'County Commission Seat A'. Summary page header: 'Page 1 of 4, Ellingson, Date of Report 05/09/2018'."
+  }
+ ],
+ "notes": ""
+}

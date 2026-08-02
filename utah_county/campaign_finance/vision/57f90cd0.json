@@ -1,0 +1,103 @@
+{
+ "path": "raw/2014/2014_6-14Attorney-Buhman_Redacted_1.pdf",
+ "key": "57f90cd0",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:20:00Z",
+ "pages_read": [1, 2, 6, 7],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jeffrey R. Buhman",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-15-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "15209.58",
+    "contrib_cumulative": "15209.58",
+    "expend_this_period": "10146.97",
+    "expend_cumulative": "10146.97",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "15209.58",
+    "balance_close": "5062.61"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "15209.58",
+    "line1_total_contributions_colB": "15209.58",
+    "line2_total_expenditures_colA": "10146.97",
+    "line2_total_expenditures_colB": "10146.97",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "15209.58",
+    "line5_subtotal_lines3plus4": "15209.58",
+    "line6_total_expenditures_from_line2A": "10146.97",
+    "line7_balance_at_close": "5062.61"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "FIRST of two separate reports bundled in one PDF (cover p1, summary p2). The ORIGINAL filing: the amendment question is answered 'No'. Street address, city, state, zip and phone are REDACTED UPSTREAM BY THE COUNTY (solid black bars), so residence_city is an empty string - not reconstructed. Handwritten in blue ink; line 3 is a plain written '0'. Summary page header shows 'Page 1 of 4'."
+  },
+  {
+   "candidate_printed": "Jeffrey R. Buhman",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "Yes",
+   "report_date": "6-19-14",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "15209.58",
+    "contrib_cumulative": "15209.58",
+    "expend_this_period": "10808.10",
+    "expend_cumulative": "10808.10",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "15209.58",
+    "balance_close": "4401.48"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "15209.58",
+    "line1_total_contributions_colB": "15209.58",
+    "line2_total_expenditures_colA": "10808.10",
+    "line2_total_expenditures_colB": "10808.10",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "15209.58",
+    "line5_subtotal_lines3plus4": "15209.58",
+    "line6_total_expenditures_from_line2A": "10808.10",
+    "line7_balance_at_close": "4401.48"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "SECOND of two separate reports bundled in one PDF (cover p6, summary p7) - NOT a rescan of the first: it is the AMENDMENT. The amendment question is checked 'Yes, Date of Report 6-16-14' (the date of the report being amended) and the verification is signed 6-19-14; report_date carries the signature/summary Date of Report 6-19-14, with the amended-report date recorded here in the note. Contributions are unchanged (15209.58) but expenditures rise from 10146.97 to 10808.10 and the closing balance falls from 5062.61 to 4401.48 - the two reports' figures are kept strictly separate and never merged. Note the amendment names 6-16-14 as the amended report's date while the first report in this same PDF is signed 6-15-14; transcribed as printed, not reconciled. Address and phone redacted upstream by the county. The summary page header shows 'Page 2 of 3' (the second report restarts its own page numbering)."
+  }
+ ],
+ "notes": "One PDF, TWO separate reports: an original 7-day-pre-primary report and its amendment. Both emitted as separate elements per spec."
+}

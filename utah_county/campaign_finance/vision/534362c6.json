@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_SheriffDurfey.pdf",
+ "key": "534362c6",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:48:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Darin Durfey",
+   "party_printed": "Republican",
+   "office_printed": "Sheriff",
+   "residence_city": "Santaquin",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "",
+   "report_date": "5-1-18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "24294.75",
+    "contrib_cumulative": "24294.75",
+    "expend_this_period": "24294.75",
+    "expend_cumulative": "24294.75",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "24294.75",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "24294.75",
+    "line1_total_contributions_colB": "24294.75",
+    "line2_total_expenditures_colA": "24294.75",
+    "line2_total_expenditures_colB": "24294.75",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "24294.75",
+    "line5_subtotal_lines3plus4": "24294.75",
+    "line6_total_expenditures_from_line2A": "24294.75",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "medium",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The single figure 24294.75 (no thousands separator, as written) is entered in all six money cells; it was magnified to confirm the digits. Lines 3 and 7 are slashed-zero glyphs, transcribed as 0. Neither amendment box (Yes/No) is marked, so is_amendment is left blank - the filer answered nothing. Office Seeking is written simply 'Sheriff' (index.csv carries 'County Sheriff'). Summary page header reads '2016 County Commission & Local School Board Candidate' (a 2016-vintage sheet used for this 2018 filing), Page 2 of 11, Last Name 'Durfey', Date of Report '5-1-18'; the clerk's receipt stamp reads \"'18 MAY 1 AM 8:38\". Fax field left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

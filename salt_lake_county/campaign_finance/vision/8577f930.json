@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$289.45",
+ "total_expenditures": "$289.45",
+ "beginning_balance": "$2.22",
+ "ending_balance": "$2.22",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$291.67"
+ },
+ "cover": {
+  "candidate": "Rashelle Hobbs",
+  "party": "Democratic",
+  "office_sought": "_Recorder",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/31/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Hobbs-Rashelle__7A5E95F0.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Hobbs, Rashelle",
+  "office": "Recorder",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Hobbs-Rashelle__7A5E95F0.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Stale '2020' form template used for a 2022-cycle year-end report signed 01/31/23. Column B (Aggregate Total) is printed as $0.00 on BOTH lines while Column A shows $289.45 - an aggregate the filer did not carry; recorded verbatim, not corrected. Office fields carry the leading-underscore artifact ('_Recorder'). Digital signature stamp 01/31/23 - 3:22 PM."
+ }
+}

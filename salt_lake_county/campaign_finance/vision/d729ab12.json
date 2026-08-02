@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "574.92",
+  "total_expenditures_to_date": "574.92",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Kim W. Lundeberg",
+  "party": "Dem",
+  "office_sought": "Salt Lake County Surveyor",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "06-19-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_lundeberg_kim06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kim W. Lundeberg",
+  "office": "",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_lundeberg_kim06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "NEITHER amendment box is checked. Summary Page header box is entirely BLANK. Every Column A cell holds a hand-drawn oval or slashed zero read as 0 (medium). Both Column B cells read '574.92' - the leading digit is written like an 'S' but reads as 5. INTERNAL ODDITY retained as printed: Column B carries 574.92 on both lines while every Column A cell, including the beginning and ending balances, is zero."
+ }
+}

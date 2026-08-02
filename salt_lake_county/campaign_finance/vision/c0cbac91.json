@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,826.22",
+ "total_expenditures": "15,752.68",
+ "beginning_balance": "10,968.24",
+ "ending_balance": "3,041.78",
+ "aggregate": {
+  "total_contributions_to_date": "49,159.04",
+  "total_expenditures_to_date": "46,117.71",
+  "line5_subtotal": "18,794.46"
+ },
+ "cover": {
+  "candidate": "Leslie Reberg",
+  "party": "Democrat",
+  "office_sought": "Recorder",
+  "district_number": "Countywide",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lreberg_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/lreberg_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2006 Summary Report/Dissolution', but the form checks ONLY the YEAR-END REPORT (January 31) box - the Final Report box is NOT checked and there is no dissolution notice in the 4-page document. Written in heavy marker; re-rendered page 2 at 250 dpi. Column A reconciles exactly (10,968.24 + 7,826.22 = 18,794.46; minus 15,752.68 = 3,041.78) and Line 3 matches Line 7 of this candidate's October 31 report. The Column B figures are recorded at medium confidence - the last digit of 49,159.04 runs past the cell edge - and note that 49,159.04 - 46,117.71 = 3,041.33, 45 cents off the Line 7 balance; kept verbatim, no correction made."
+ }
+}

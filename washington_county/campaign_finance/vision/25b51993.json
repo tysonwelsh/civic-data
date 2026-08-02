@@ -1,0 +1,130 @@
+{
+ "filing_key": "wayback_financialreports|2015-01-05|BROCK BELNAP",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/1 5 2015 Summary - Brock Belnap_01-13-2015.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Summary - Brock Belnap_01-13-2015.xls",
+   "doc_kind": "summary",
+   "sha256": "2af024e254adfdc3365de08aa34f3cb6f1346ac4a7959d1646e06e6570facbd5",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Contributions - Brock Belnap_01-13-2015.xls",
+   "doc_kind": "contributions",
+   "sha256": "04e64913cf985fef9d13351d68f5c40b5964563d98af2b9dea65a9d20fa1d137",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/1 5 2015 Expenditures - Brock Belnap_01-13-2015.xls",
+   "doc_kind": "expenditures",
+   "sha256": "f9f4de0c493c785fab6bef1f521ba2907f78d3c0890a26c1b299847115a8a4cf",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Brock Belnap",
+  "office": "ATTORNEY",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Attorney",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Brock Belnap",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "700.0",
+   "contrib_le50": "0.0",
+   "expenses": "1951.44",
+   "balance": "-1251.44"
+  },
+  {
+   "submitted": "2014-06-16",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "31782.08",
+   "contrib_le50": "325.0",
+   "expenses": "25674.77",
+   "balance": "5180.87"
+  },
+  {
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "16368.65",
+   "contrib_le50": "100.0",
+   "expenses": "20763.11",
+   "balance": "686.71"
+  },
+  {
+   "submitted": "2015-01-05",
+   "date_due": "2015-01-05",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "481.61",
+   "balance": "205.1"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2015-01-05",
+   "date_due": "2015-01-05",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 3,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "481.61",
+   "expenses_this": "481.61",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "205.1",
+   "balance_end": "205.10",
+   "balance_last_printed": "686.71",
+   "balance_last": "686.71",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

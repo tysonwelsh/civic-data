@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "d324e1012255f4ceec0a29a7487d51aaaea1d0bdbaf48a561d4d05103aba2a40",
+ "canonical_path": "raw/2026/2026_cc_2026_Financial_Disclosure_PreCon_Jeffrey_Wallentine.pdf",
+ "applies_to": ["raw/2026/2026_cc_2026_Financial_Disclosure_PreCon_Jeffrey_Wallentine.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Jeffrey Wallentine", "c": "high"},
+  "office_verbatim":   {"v": "Cache County Two", "c": "high"},
+  "office_district":   {"v": "Two", "c": "medium"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Logan", "c": "medium"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail:179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the General Election", "c": "high"},
+  "date_signed":       {"v": "01-02-2026", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "0", "c": "high"},
+   "B_contrib_this_period":    {"v": "0", "c": "high"},
+   "C_contrib_ytd":            {"v": "0", "c": "high"},
+   "D_expend_this_period":     {"v": "0", "c": "high"},
+   "E_expend_ytd":             {"v": "0", "c": "high"},
+   "F_subtotal_before_expend": {"v": "0", "c": "high"},
+   "closing_balance":          {"v": "0", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "0", "c": "high"},
+   "total_expenditures_made":      {"v": "0", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "Two",
+  "evidence": "page 1 'Office' box reads, in typed text, exactly 'Cache County Two' - legible but naming no office title; it identifies the jurisdiction ('Cache County') and what appears to be a seat/district number ('Two'), but no county office name and no school-board wording appears anywhere on the page",
+  "confidence": "high"
+ },
+ "notes": "Electronically-filled county CFD form (Cache County Office of the Clerk header), 4 pages: cover, Schedule A, Schedule B, Summary Page. No statutory citation is printed on the form. Amendment radio marked 'No'. SCOPE: the office line is fully legible and reads 'Cache County Two' - it does NOT name a county office from the standard list, and it does NOT name a school-board seat, so scope is recorded as 'undetermined' rather than guessed in either direction; the seat text 'Two' is preserved. This does not confirm the repo's hypothesis that Wallentine is a school-board filer, nor does it refute it - the page carries no such evidence either way. Report type marked is 'Seven days preceding the General Election', which is at odds with the source filename's 'PreCon' (pre-convention) label and with the 01-02-2026 signing date; recorded as marked. Address line runs together as '305 West Haven Drive Logan' with 'Utah 84321' under City/State/Zip - the City cell itself is effectively blank, so residence_city 'Logan' is taken from the address line at medium confidence. Schedule A and Schedule B both carry a typed 'N/A' on the first line with no itemized rows, and both print '$0' subtotal and '$ 0' total lines. All Summary Page boxes A-F and the closing balance print '0'. Ledger candidate 'Jeffrey Wallentine' matches the page."
+}

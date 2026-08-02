@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,404,17",
+ "total_expenditures": "3043.29",
+ "beginning_balance": "1,135.30",
+ "ending_balance": "496,18",
+ "aggregate": {
+  "total_contributions_to_date": "18,903.46",
+  "total_expenditures_to_date": "17484,50",
+  "line5_subtotal": "3,539.47"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "01/31/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_mrenckert_yearendsumm.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_mrenckert_yearendsumm.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to distinguish the comma and period decimal separators)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "MIXED DECIMAL SEPARATORS - the filer uses a COMMA for the cents on some lines and a period on others, and this is recorded exactly as written: Line 1 Column A '2,404,17', Line 2 Column B '17484,50' and Line 7 '496,18' all use a decimal COMMA, while Lines 2A ('3043.29'), 3 ('1,135.30'), 5 ('3,539.47') and 1B ('18,903.46') use a period. Line 4 restates Line 1 as '2,404.17' with a period. Thousands commas are omitted on Lines 2 Column A and 2 Column B. Neither amendment box is checked; the older form variant's top-row 'Office' box is blank. Arithmetic consistent once the commas are read as decimal points (1,135.30 + 2,404.17 = 3,539.47; minus 3,043.29 = 496.18)."
+ }
+}

@@ -35,6 +35,103 @@ def is_money(tok: str) -> bool:
     return bool(_MONEY_RE.match(clean_token(tok)))
 
 
+# --------------------------------------------------------------- the ZERO-GLYPH RULING
+# GOTCHAS.md, owner 2026-08-02, repo-wide: a glyph that DENOTES the digit zero — a slashed
+# zero `Ø`, the accounting `-0-`, or the written word "zero" — reads as **0**, with the
+# verbatim glyph preserved by the caller. A bare dash, `N/A`, or an empty cell is a NIL MARK,
+# not a numeral, and stays BLANK. Both sets are matched on the WHOLE cell only: a dash inside
+# a name and the word "zero" inside prose are untouched.
+_ZERO_GLYPHS = ("Ø", "∅", "0̸")        # Ø (O-slash), ∅ (empty set), 0+combining slash
+_ZERO_WORD_RE = re.compile(r"^zero$", re.I)          # the ruling names ONLY "zero" — `None`,
+#                                                      `NA` and a bare dash are nil marks, blank
+_ZERO_DASH_RE = re.compile(r"^-\s*0\s*-$")            # -0-  /  - 0 -
+_NIL_RE = re.compile(r"^(?:-{1,3}|–|—|n\s*/?\s*a|na|n\.a\.?|none)$", re.I)
+
+# A strictly-formed decimal CELL: optional $ (with optional spaces), optional sign, an integer
+# part that is either plain digits or CLEANLY comma-grouped (\d{1,3}(,\d{3})*), and at most one
+# 1-2 digit decimal group. Deliberately REJECTS the malformed forms this corpus contains —
+# summit's `23,744,71` (second comma group is 2 digits) and `23.744.71` (two dots) — which must
+# stay unparseable-blank, never repaired (cardinal rule 1).
+_CELL_NUM_RE = re.compile(
+    r"^(?P<p1>\()?\s*(?P<sign1>-)?\s*\$?\s*(?P<p2>\()?\s*(?P<sign2>-)?\s*"
+    r"(?P<int>\d{1,3}(?:,\d{3})+|\d+)"
+    r"(?:\.(?P<dec>\d{1,2}))?\s*(?P<p3>\))?$")
+
+
+def parse_money_cell(tok):
+    """Read ONE form cell -> (value_or_None, kind). The shared money reader for the county
+    form families (2026-08-02); city families keep using `parse_money`/`find_money` unchanged.
+
+    kind ∈:
+      `money`        a clean decimal (value = float; parentheses ⇒ negative)
+      `zero-glyph`   Ø / ∅ / -0- / the word "zero"|"none"  -> value 0.0  (ZERO-GLYPH RULING)
+      `nil`          a bare dash / N/A / NA                 -> value None (a nil mark is not 0)
+      `empty`        nothing printed                        -> value None
+      `unparseable`  something IS printed and it is not clean money -> value None, NEVER repaired
+
+    The caller keeps the verbatim token; this function never mutates or repairs one.
+    """
+    if tok is None:
+        return None, "empty"
+    t = str(tok).strip().strip("|").strip()
+    if t == "":
+        return None, "empty"
+    if t in _ZERO_GLYPHS or _ZERO_WORD_RE.match(t) or _ZERO_DASH_RE.match(t):
+        return 0.0, "zero-glyph"
+    if _NIL_RE.match(t):
+        return None, "nil"
+    m = _CELL_NUM_RE.match(t)
+    if not m:
+        return None, "unparseable"
+    body = m.group("int").replace(",", "")
+    if m.group("dec"):
+        body += "." + m.group("dec")
+    try:
+        v = float(body)
+    except ValueError:
+        return None, "unparseable"
+    neg = bool(m.group("sign1")) != bool(m.group("sign2"))
+    # accounting parentheses -> negative; the opening paren may sit before OR after the '$'
+    # ("(65.00)", "$ (426.27)"), but an unbalanced paren is a broken cell, not a negative.
+    opened, closed = bool(m.group("p1") or m.group("p2")), bool(m.group("p3"))
+    if opened != closed:
+        return None, "unparseable"
+    if opened:
+        neg = not neg
+    return (-v if neg else v), "money"
+
+
+# Money tokens as they appear INSIDE a laid-out row (not a whole cell): `$` optionally spaced
+# away from the digits, or a bare decimal. Position-aware so a column-positional reader can
+# match a token's x-span to a header's x-span.
+# The lookarounds are load-bearing: without the trailing `(?![\d.,])` this regex would match
+# `23,744` out of summit's MALFORMED `23,744,71` (Ioannides 2024, cents comma) and publish a
+# repaired figure. A malformed decimal must yield NO token at all (cardinal rule 1).
+_CELL_MONEY_FIND = re.compile(
+    r"(?<![\d.,])(?:"
+    r"\(?-?\$\s*-?\d{1,3}(?:,\d{3})+(?:\.\d{1,2})?\)?"
+    r"|\(?-?\$\s*-?\d+(?:\.\d{1,2})?\)?"
+    r"|\(?-?\d{1,3}(?:,\d{3})+(?:\.\d{1,2})?\)?"
+    r"|\(?-?\d+\.\d{1,2}\)?"
+    r")(?![\d,]|\.\d)")
+
+
+def money_cell_spans(line: str):
+    """All money-shaped tokens in a laid-out line as (start, end, value, raw).
+
+    Accepts a space after `$` ("$   500.00" — the summit/wasatch fillable templates) and BARE
+    decimals ("1973.1", "168872.24" — the polimorphic / Box A-F forms), which `money_spans`
+    deliberately does not. Malformed tokens are dropped by `parse_money_cell`, never repaired.
+    """
+    out = []
+    for m in _CELL_MONEY_FIND.finditer(line):
+        raw = m.group(0)
+        v, kind = parse_money_cell(raw)
+        if kind == "money":
+            out.append((m.start(), m.end(), v, raw))
+    return out
+
+
 def parse_money(tok):
     """Return a float dollar value, or None if the token is not clean, unambiguous money.
 
@@ -186,6 +283,125 @@ def parse_date(tok):
 
 # ------------------------------------------------------------------- column tokenizing
 
+# ------------------------------------------------------- PRIVACY: address -> city/state only
+# SCHEMA.md §2 + every county PRIVACY.md: an itemized row may carry `donor_city` / `donor_state`
+# and NEVER the street portion. `split_city_state` is the one shared implementation, so no family
+# can accidentally promote a street line into a structured row. It only ever RETURNS a city and a
+# state — the street tokens are discarded, not stored anywhere.
+
+_US_STATES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA",
+    "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT",
+    "VA", "WA", "WV", "WI", "WY", "DC", "PR", "VI", "GU", "AS", "MP",
+}
+# tokens that can only be part of a STREET / delivery line, never a city name
+_STREET_LEAD = re.compile(r"^(?:\d+[a-z]{0,2}|[nsew]\.?|north|south|east|west|p\.?o\.?|box|"
+                          r"#\S*|ste\.?|suite|apt\.?|unit|rr|hc)$", re.I)
+_STREET_TYPE = re.compile(r"^(?:st|street|ave|avenue|rd|road|dr|drive|ln|lane|ct|court|cir|"
+                          r"circle|way|blvd|boulevard|pkwy|parkway|hwy|highway|pl|place|ter|"
+                          r"terrace|trl|trail|loop|bend|run|cv|cove|pt|point)\.?$", re.I)
+_ZIP_TAIL = re.compile(r"[\s,]+\d{5}(?:-\d{4})?\.?$")
+
+
+def split_city_state(addr):
+    """`'168 S 50 W Hyde Park, UT 84318'` -> `('Hyde Park', 'UT')`. PRIVACY-SAFE: the street
+    portion is dropped, never returned. Returns `('', '')` when no city can be read WITHOUT
+    guessing — an honest blank, never a promoted street token.
+
+    Deterministic order: strip a trailing ZIP, then a trailing 2-letter US state, then take the
+    text after the LAST comma; if that is empty, fall back to the segment before it and strip a
+    leading street run (numbers, directionals, PO Box, and everything through the last street-type
+    word). A candidate city is rejected if it is empty, contains a digit, or runs past 4 tokens.
+    """
+    if not addr:
+        return "", ""
+    s = str(addr).strip().strip("|").strip()
+    s = _ZIP_TAIL.sub("", s).strip().rstrip(",").strip()
+    state = ""
+    m = re.search(r"[,\s]+([A-Za-z]{2})\.?$", s)
+    if m and m.group(1).upper() in _US_STATES:
+        state = m.group(1).upper()
+        s = s[:m.start()].strip().rstrip(",").strip()
+    strip_street = True
+    if "," in s:
+        tail = s.rsplit(",", 1)[1].strip()
+        head = s.rsplit(",", 1)[0].strip()
+        # Text after the LAST comma is the city FIELD; do not street-strip it, or `St George`
+        # loses its `St` to the street-type list and becomes `George`.
+        cand, strip_street = (tail, False) if tail else (head, True)
+    else:
+        cand = s
+    rest = cand.split()
+    if strip_street:
+        i = 0
+        while i < len(rest) and _STREET_LEAD.match(rest[i]):
+            i += 1
+        rest = rest[i:]
+        # if a street-type word appears, the city (if any) is whatever follows the LAST one
+        last_type = max((j for j, t in enumerate(rest) if _STREET_TYPE.match(t)), default=None)
+        if last_type is not None:
+            rest = rest[last_type + 1:]
+    city = " ".join(rest).strip(" ,.")
+    if not city or any(ch.isdigit() for ch in city) or len(city.split()) > 4:
+        return "", state
+    return city, state
+
+
+# --------------------------------------------------------------------------- row GEOMETRY
+# A COMPACT, optional per-row provenance pointer for POSITIONAL sources (SCHEMA.md §2a,
+# 2026-08-02). Two shapes, both plain ASCII and both re-derivable from the retained source:
+#   `p<page>:l<line>:c<col0>-<col1>`  a laid-out text row (pdftotext -layout): 1-based page
+#                                     (form feeds), 1-based line WITHIN the sidecar, and the
+#                                     0-based character-column span the value occupies
+#   `<Sheet>!<A1>`                    a spreadsheet cell reference (the .xls generation)
+# Written into the TRAILING, optional `geometry` column, which appears in the output CSV only
+# when at least one row carries a value -> every existing city file is byte-unchanged.
+
+
+def geom_text(page, line_no, col_start=None, col_end=None):
+    """Compact geometry for a laid-out text row. Blank args -> a shorter, still-valid pointer."""
+    s = f"p{int(page)}:l{int(line_no)}"
+    if col_start is not None and col_end is not None:
+        s += f":c{int(col_start)}-{int(col_end)}"
+    return s
+
+
+def geom_cell(sheet, row, col):
+    """Compact geometry for a spreadsheet cell: 0-based (row, col) -> `Sheet1!C7`."""
+    col = int(col)
+    letters = ""
+    n = col + 1
+    while n:
+        n, r = divmod(n - 1, 26)
+        letters = chr(65 + r) + letters
+    return f"{sheet}!{letters}{int(row) + 1}"
+
+
+def page_line_index(text):
+    """Map each 0-based index of `text.splitlines()` -> (page_no, line_no), both 1-based, where a
+    page break is a form feed (`\\f`, what `pdftotext` emits). Sidecars without form feeds are one
+    page. Used by families to fill `geometry` without re-reading the PDF.
+
+    ⚠ `str.splitlines()` SPLITS ON `\\f` as well as `\\n`, so the form feed never survives as a
+    visible character and page number must be reconstructed here. The result is length-checked
+    against `splitlines()`; on any mismatch (an exotic separator) it degrades to a single page
+    rather than mis-attributing a row to the wrong page."""
+    n = len(text.splitlines())
+    pages = []
+    page = 1
+    for phys in text.split("\n"):
+        for j, _seg in enumerate(phys.split("\f")):
+            if j:
+                page += 1
+            pages.append(page)
+    while len(pages) > n:                 # splitlines() drops a trailing "" after a final \n
+        pages.pop()
+    if len(pages) != n:
+        pages = [1] * n
+    return [(p, i + 1) for i, p in enumerate(pages)]
+
+
 def split_columns(line: str):
     """Split a `pdftotext -layout` row into fields on runs of 2+ spaces.
 
@@ -222,6 +438,13 @@ class ContribRow:
     extraction_confidence: str = ""  # high | medium | low
     extract_method: str = ""  # family id + text|ocr
     needs_review: str = "0"
+    # geometry — TRAILING, OPTIONAL, ADDITIVE (2026-08-02). Where the SOURCE is positional (a
+    # column-aligned PDF ledger, a spreadsheet cell), the family records WHERE on the page this
+    # row's value was read: `p2:l14:c46-55` or `Sheet1!F5` (see geom_text / geom_cell). The
+    # driver emits this column ONLY when at least one row of the CSV carries a value, so every
+    # existing (non-positional) city file keeps its exact historical header. Never a value —
+    # a provenance pointer, so a mis-columned read is auditable without re-reading the PDF.
+    geometry: str = ""
 
 
 @dataclass
@@ -245,6 +468,7 @@ class ExpendRow:
     extraction_confidence: str = ""
     extract_method: str = ""
     needs_review: str = "0"
+    geometry: str = ""        # see ContribRow.geometry — trailing, optional, emitted only if set
 
 
 @dataclass
@@ -281,9 +505,16 @@ class FilingTotals:
     filing_regime: str = ""
 
 
-CONTRIB_HEADER = [f.name for f in fields(ContribRow)]
-EXPEND_HEADER = [f.name for f in fields(ExpendRow)]
+# The CANONICAL headers exclude the optional trailing `geometry` column, so they are byte-for-byte
+# what every city has always written. `*_HEADER_GEO` is the same list + `geometry`; `driver._write`
+# selects it only when a row actually carries geometry, and `validate_finance.py` accepts either.
+# (Same trailing-optional-column contract as `filing_totals.filing_regime`.)
+GEOMETRY_COL = "geometry"
+CONTRIB_HEADER = [f.name for f in fields(ContribRow) if f.name != GEOMETRY_COL]
+EXPEND_HEADER = [f.name for f in fields(ExpendRow) if f.name != GEOMETRY_COL]
 TOTALS_HEADER = [f.name for f in fields(FilingTotals)]
+CONTRIB_HEADER_GEO = CONTRIB_HEADER + [GEOMETRY_COL]
+EXPEND_HEADER_GEO = EXPEND_HEADER + [GEOMETRY_COL]
 
 
 def money_str(v):
@@ -294,4 +525,11 @@ def money_str(v):
 
 
 def row_to_dict(row):
-    return asdict(row)
+    """Row -> dict for the CSV writers. The optional trailing `geometry` key is OMITTED when it
+    is blank, so a caller writing the canonical (geometry-less) header — provo's inline writer,
+    salt_lake_county's module-local writer, and the driver for every city — passes an exactly
+    historical dict to `csv.DictWriter` and needs no change."""
+    d = asdict(row)
+    if GEOMETRY_COL in d and not d[GEOMETRY_COL]:
+        del d[GEOMETRY_COL]
+    return d

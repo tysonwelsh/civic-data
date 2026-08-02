@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gray_Jeff_Redacted.pdf",
+ "key": "2904e2a5",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:14:00Z",
+ "pages_read": [1],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeff Gray",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "Dec 7, 2022",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "low",
+    "expend_cumulative": "low",
+    "balance_beginning": "low",
+    "balance_close": "low"
+   },
+   "unreadable": [
+    "contrib_this_period",
+    "contrib_cumulative",
+    "expend_this_period",
+    "expend_cumulative",
+    "balance_beginning",
+    "subtotal_before_expend",
+    "balance_close"
+   ],
+   "notes": "NO TOTALS EXIST TO TRANSCRIBE - the county published this filing as a ONE-PAGE PDF containing only the cover sheet. There is no Summary Page, no Schedule A and no Schedule B in the document, so summary_page is null and every totals slot is '' . This is a DOCUMENT-LEVEL gap (the county posted an incomplete filing), NOT an illegible or blank cell on a page I read: nothing here was left blank by the filer and nothing may be inferred from the filer's other 2022 reports. Cover details that DO exist: office 'Utah County Attorney', report type '30 Days after the General Election', Date of Report and signature date both 'Dec 7, 2022', cover 'Page' box prints '1' with no 'of N'. NEITHER amendment radio is filled, so is_amendment is ''. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''."
+  }
+ ],
+ "notes": "index.csv records n_pages = 1 and the OCR locator found no summary page ('no SUMMARY page located - last page rendered as a fallback'); reading the page confirms the locator was right and the document is genuinely cover-only. Candidate for the unrecovered/incomplete-filing ledger rather than the totals layer."
+}

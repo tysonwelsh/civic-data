@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "1cb41e87",
+ "source_filing": "raw/y2026/2026_ugd_92078f_f7ac73e5.pdf",
+ "document_id": "2026_ugd_92078f_f7ac73e5",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:38:01Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "James Ebert",
+ "office_stated": "Commission Seat A",
+ "report_type_stated": "30 days after withdrawal or Primary Election elimination",
+ "filing_date_stated": "",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "86,477.02",
+   "this": "12,904.63",
+   "cum": "99,381.65"
+  },
+  "expenditures": {
+   "last": "83,377.13",
+   "this": "16,004.52",
+   "cum": "99,381.65"
+  },
+  "ending_balance": {
+   "last": "3,099.89",
+   "this": "(3,099.89)",
+   "cum": "0.00"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED summary. The candidate's final 2026 report (eliminated at the primary): the account is zeroed out. FILER ODDITY retained: cumulative contributions and cumulative expenditures are BOTH printed 99,381.65 although 83,377.13+16,004.52 = 99,381.65 and 86,477.02+12,904.63 = 99,381.65 - the two happen to coincide exactly, which is what drives the 0.00 balance. The DATE BOX IS GENUINELY BLANK on this form (the signature is present) - an honest blank, not an unread value. County-redacted address."
+}

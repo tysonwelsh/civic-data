@@ -1,0 +1,60 @@
+{
+ "path": "raw/2026/2026_Renee_Tribe_Redacted.pdf",
+ "key": "47743cf4",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:05:00Z",
+ "pages_read": [1, 2, 3, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Renee Tribe",
+   "party_printed": "",
+   "office_printed": "Commissioner Seat A",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "05/20/2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0.00",
+    "contrib_cumulative": "0.00",
+    "expend_this_period": "0.00",
+    "expend_cumulative": "0.00",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "0.00",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "0.00",
+    "boxC_contributions_received_year_to_date": "0.00",
+    "boxD_expenditures_made_this_period": "0.00",
+    "boxE_expenditures_made_year_to_date": "0.00",
+    "boxF_subtotal_before_expenditures": "0.00",
+    "balance_at_close": "0.00",
+    "scheduleA_total_contributions_received": "0",
+    "scheduleA_subtotal_for_this_page": "0",
+    "scheduleB_total_expenditures_made": "0",
+    "scheduleB_subtotal_for_this_page": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the born-digital form; every box is a written zero. Each box is written with a leading '$' (dropped per spec) and slashed-zero glyphs; in boxes A, B and Balance at Close the decimal separator is written low and comma-like, so those four are medium confidence - the value is unambiguously zero dollars in every box. Schedule A (p2) and Schedule B (p3) are both filled 'N/A' with a written 0 amount and 0 page/report totals. The Office field is HANDWRITTEN 'Commissioner Seat A' (medium confidence on the cursive); index.csv says 'County Commission Seat A' - same seat, different wording, not a conflict. Address block, email and signature are redacted upstream by the county (black bars), so residence_city is unavailable. The clerk's 'Received MAY 20 2026 In Person Utah County Clerk' stamp appears on the cover."
+  }
+ ],
+ "notes": ""
+}

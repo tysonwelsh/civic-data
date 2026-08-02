@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Cox_Hyrum_4.1.2022_Redacted.pdf",
+ "key": "966dbc38",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:58:00Z",
+ "pages_read": [1, 5, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Hyrum Cox",
+   "party_printed": "",
+   "office_printed": "Utah County Sheriff",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "04/01/2022",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "10,778.00",
+    "contrib_cumulative": "10,778.00",
+    "expend_this_period": "8705.50",
+    "expend_cumulative": "8705.50",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "10,778.00",
+    "balance_close": "2072.50"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "10,778.00",
+    "boxC_contributions_received_year_to_date": "10,778.00",
+    "boxD_expenditures_made_this_period": "8705.50",
+    "boxE_expenditures_made_year_to_date": "8705.50",
+    "boxF_subtotal_before_expenditures": "10,778.00",
+    "balance_at_close": "2072.50"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form (footer v. 4.20); figures typed. Punctuation is inconsistent on the page and is preserved verbatim: B, C and F carry a thousands comma and two decimals ('10,778.00'), while D, E and the close box do not ('8705.50', '2072.50'); Box A is a bare typed '0' (a written zero, not a blank cell). Street address, city and signature are redacted upstream by the county (black bars), so residence_city is ''. Office prints as 'Utah County Sheriff' and agrees with index.csv. Date box, 'Date of Report' and the summary page all read 04/01/2022. TWO SUMMARY PAGES WERE FLAGGED (5 and 7) but page 7 is the county's internal CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST (staff-reviewed 4/4/22 twice), not a second report - this 8-page PDF holds ONE report."
+  }
+ ],
+ "notes": ""
+}

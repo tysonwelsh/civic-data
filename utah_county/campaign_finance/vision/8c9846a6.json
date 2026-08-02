@@ -1,0 +1,60 @@
+{
+ "path": "raw/2010/2010_CountySheriff-TracyJamesO-061510.pdf",
+ "key": "8c9846a6",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:34:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "James O. Tracy Jr.",
+   "party_printed": "Republican",
+   "office_printed": "Sheriff",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "06-15-2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "4,574.30",
+    "contrib_cumulative": "4,574.30",
+    "expend_this_period": "4,574.30",
+    "expend_cumulative": "4,574.30",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "4,574.30",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "4,574.30",
+    "line1_total_contributions_colB": "4,574.30",
+    "line2_total_expenditures_colA": "4,574.30",
+    "line2_total_expenditures_colB": "4,574.30",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "4574.30",
+    "line5_subtotal_lines3plus4": "4,574.30",
+    "line6_total_expenditures_from_line2A": "4,574.30",
+    "line7_balance_at_close": "0",
+    "filer_annotation_below_line7": "( LOAN TO SELF FOR NON CONTRIBUTION COVERED CAMPAIGN EXPENSES."
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium",
+    "filer_annotation_below_line7": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, crisp. Lines 3 and 7 are the filer's SLASHED-zero glyph, transcribed as 0 at medium confidence; cents on several rows are superscripted and underlined. THE STREET ADDRESS CELL IS EMPTY on the published page (faint residue where text was) while City/State/Zip survive - consistent with upstream redaction by the county; nothing is reconstructed. THE FILER ADDED AN UNPROMPTED ANNOTATION in the margin below line 7, carried verbatim in totals_verbatim as filer_annotation_below_line7: '( LOAN TO SELF FOR NON CONTRIBUTION COVERED CAMPAIGN EXPENSES.' - the word read as COVERED is the one ambiguous word (it could be read GOVERED/GOVERNED from the glyphs), hence medium confidence; the opening parenthesis is unclosed as printed. It appears to explain that the reported money is a self-loan, not third-party contributions. Office Seeking reads simply 'Sheriff'; index.csv says 'County Sheriff' - same office. Page/of on the summary page reads 1 of 1."
+  }
+ ],
+ "notes": ""
+}

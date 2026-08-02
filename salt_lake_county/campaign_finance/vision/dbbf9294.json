@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1875,00",
+ "total_expenditures": "1855.36",
+ "beginning_balance": "756.37",
+ "ending_balance": "776.01",
+ "aggregate": {
+  "total_contributions_to_date": "11,160,00",
+  "total_expenditures_to_date": "10,383,99",
+  "line5_subtotal": "2631.37"
+ },
+ "cover": {
+  "candidate": "MARY BISHOP",
+  "party": "DemocRatic",
+  "office_sought": "RECORDER",
+  "district_number": "County",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bishop_Mary_Recorder_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mary Bishop",
+  "office": "Recorder",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bishop_Mary_Recorder_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the 'October' report; the FORM checks 'Seven days before a general election'. Decimal separators are MIXED as written: Line 1 Column A '1875,00', Line 1 Column B '11,160,00' and Line 2 Column B '10,383,99' use a decimal comma, while Lines 2A/3/5/7 use a period. The top-row Office box reads 'Candidate Recorder,'; the Office Sought box reads 'RECORDER'. A red hand annotation '4 pgs' appears at the top of the cover. Neither amendment box is checked. On-form arithmetic is consistent (756.37 + 1875.00 = 2631.37; less 1855.36 = 776.01)."
+ }
+}

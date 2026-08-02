@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$4,800.00",
+ "total_expenditures": "$21,737.63",
+ "beginning_balance": "$18,578.96",
+ "ending_balance": "$1,641.33",
+ "aggregate": {
+  "total_contributions_to_date": "$28,650.00",
+  "total_expenditures_to_date": "$34,983.24",
+  "line5_subtotal": "$23,378.96"
+ },
+ "cover": {
+  "candidate": "Jensen, Michael",
+  "party": "REPUBLICAN",
+  "office_sought": "Council #2",
+  "district_number": null,
+  "report_type": "2012 Summary Report (Year End)",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/31/2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Jensen_M_12_Final_Council2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Jensen_M_12_Final_Council2_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk 'summary_printer.cfm' online printout (Summary on page 1, schedules on page 2); no District Number field and no amendment question exist on the form (null). Lines 3, 5 and 7 are handwritten. Manifest calls this the '2012 Summary Report'; the form's Report line reads '2012 Summary Report (Year End)' - they agree. Note the YTD columns RESET for the year-end filing (Line 1 YTD $28,650.00 is LOWER than the October interim's $59,417.27, and Line 2 YTD $34,983.24 is lower than October's $41,232.17), which is an apparent inconsistency in the clerk system's YTD basis - both figures are recorded verbatim as printed. Column A arithmetic checks out and Line 3 chains exactly to the October filing's Line 7. Footer print date 1/31/2013."
+ }
+}

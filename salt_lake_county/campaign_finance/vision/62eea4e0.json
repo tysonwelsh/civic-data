@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": ".19",
+ "total_expenditures": "498.73",
+ "beginning_balance": "498.54",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "498.73"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "01/31/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MRenckert_11_Final_Mayor.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MRenckert_11_Final_Mayor.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 2",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; neither amendment box is checked. The top-row 'Office' cell is blank - Office Sought reads 'County Mayor'. Line 1 Column A is written using the raised-superscript cents convention with NOTHING in the dollars place (a comma/decimal mark followed by a small raised '19'), i.e. nineteen cents - transcribed as '.19'; Line 4 restates it the same way. Line 7 is a hand-drawn slashed zero - recorded as '0', consistent with a dissolution requiring a zero closing balance. COLUMN B on Lines 1 and 2 is genuinely BLANK (empty string, not zero). Column A arithmetic checks out: 498.54 + 0.19 = 498.73, minus 498.73 = 0. Cover signature date 01/31/2012 but the Summary Page header box is dated 01/30/2012 (Page 2 of 4, RENCKERT)."
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Christine_Riley_Redacted.pdf",
+ "key": "1cb5fdba",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:44:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Christine Riley",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "1-3-2023",
+   "summary_page": 1,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink. PAGE ORDER: the SUMMARY PAGE is PDF page 1 and the COVER is PDF page 4 (the locator had this right). All seven summary boxes carry a SLASHED-ZERO glyph (the filer's zero) - transcribed as '0' at medium confidence; these are written zeros, not blank cells. OFFICE NOT STATED: the Office cell on the cover is empty (the county's black redaction bar sits on the Address row above it, not on the Office cell), so office_printed is '' and index.csv's blank office is NOT resolved by this filing. Street address, city and the signature are redacted upstream by the county; the Date box, Date of Filing and the summary page's Date of Report all read 1-3-2023. NAME NOTE: the page prints 'Christine Riley'; index.csv carries the portal's surname-first form 'Riley Christine' - same person, portal ordering. The checked report type is 'End-of-Year Report' (index.csv's reporting_period is the portal's label 'Midterm'). This revision labels the close box 'G' and prints no 'v.' version string. The scan shows faint bleed-through of the Schedule B page behind it; it does not obscure any value."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "28de96ccb8eb969674cde2bf7ccb3a01cb46641c3dba24d75cb34cc47ae9fa2b",
+ "canonical_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Mar5_Chris_Daines.pdf",
+ "applies_to": ["raw/2026/2026_cc_2026_Financial_Disclosure_Mar5_Chris_Daines.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Chris Daines", "c": "high"},
+  "office_verbatim":   {"v": "County Attorney", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "N. Logan", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail:179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "Special (handwritten beside 'Type of Report'); handwritten annotation '3 Business days before CCCC GOP submits names' with an X; none of the three printed options is filled", "c": "medium"},
+  "date_signed":       {"v": "3/5/26", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RCVD 2026 MAR 5 PM 4:53", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$0", "c": "medium"},
+   "B_contrib_this_period":    {"v": "$3,661.68", "c": "high"},
+   "C_contrib_ytd":            {"v": "$3,661.68", "c": "high"},
+   "D_expend_this_period":     {"v": "$3,125.13", "c": "high"},
+   "E_expend_ytd":             {"v": "$3,125.13", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$3,661.68", "c": "high"},
+   "closing_balance":          {"v": "$536.55", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "3,661.68", "c": "high"},
+   "total_expenditures_made":      {"v": "3,125.13", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Attorney",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Attorney'",
+  "confidence": "high"
+ },
+ "notes": "Hand-completed county CFD form (Cache County Office of the Clerk header), scanned; 4 pages: cover, Schedule A, Schedule B, Summary Page. No statutory citation printed on the form. Amendment marked 'No'. SCOPE: this is NOT a school-board filing - the office line plainly reads 'County Attorney' in the filer's hand, contradicting the repo's hypothesis that Chris Daines is among the likely 2026 school-board filers. Summary Page Box A is a handwritten '$' followed by a slashed/crossed O glyph used as a zero, transcribed '$0' at medium confidence per protocol. Schedule A page 2 prints a handwritten total '$3,661.68' (typed in-table trailing figure '$3,661.68' as well) and Schedule B page 3 a handwritten total '$3,125.13' (typed in-table trailing figure '$3,125.13'); both recorded verbatim, nothing summed or reconciled by the transcriber. Date-of-report inconsistency within the document: pages 1, 2 and 4 read '3/5/26' while page 3 (Schedule B) reads '3/6/26'. Two contributor/expenditure line dates read '2/13/27' where the surrounding rows are 2026 - recorded as an observation only, not corrected. Ledger candidate 'Chris Daines' matches the page."
+}

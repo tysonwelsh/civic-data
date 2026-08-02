@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$865.82",
+ "total_expenditures": "$985.27",
+ "beginning_balance": "$1276.54",
+ "ending_balance": "$1157.09",
+ "aggregate": {
+  "total_contributions_to_date": "$3823.42",
+  "total_expenditures_to_date": "$2366.33",
+  "line5_subtotal": "$2142.36"
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": "LIBERTARIAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "Yes",
+  "amendment_of": "JUNE 20, 2006",
+  "report_date": "9/14/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rlatham_june202006amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "2020",
+  "source_pdf": "raw/clerk_legacy/rlatham_june202006amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "MANIFEST LABEL IS WRONG ON THE YEAR: the manifest gives election_year 2020 / date 2020-01-01, but the form is the 2006 form, checks the June 20 interim box, is signed 9/14/06 and is clerk-stamped RECEIVED SEP 14 2006. The amendment box is Yes with 'date of report JUNE 20, 2006' - i.e. an amendment to the June 20 interim, filed alongside the September report. The Summary Page header box was left blank. Column A reconciles exactly (1276.54 + 865.82 = 2142.36; less 985.27 = 1157.09) and Line 3 matches the April report's closing balance. Column B does NOT reconcile: 3823.42 - 2366.33 = 1457.09, three hundred dollars above the Line 7 balance of 1157.09 (kept verbatim)."
+ }
+}

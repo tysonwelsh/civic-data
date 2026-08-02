@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "32f407e4",
+ "source_filing": "raw/y2026/2026_ugd_92078f_6280fe33.pdf",
+ "document_id": "2026_ugd_92078f_6280fe33",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:43:43Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Katrina C. Gibson",
+ "office_stated": "Weber County Commission Seat A",
+ "report_type_stated": "June 16 - Primary Election",
+ "filing_date_stated": "2026-06-16",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "24,000.00",
+   "this": "20,550.00",
+   "cum": "88,152.04"
+  },
+  "expenditures": {
+   "last": "10,711.79",
+   "this": "36,573.66",
+   "cum": "87,158.67"
+  },
+  "ending_balance": {
+   "last": "13,288.21",
+   "this": "(16,023.66)",
+   "cum": "993.37"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED. FILER ERROR retained verbatim: the 'Last Report' column repeats the PREVIOUS report's 'This Report' figures (24,000.00 / 10,711.79 / 13,288.21) instead of its cumulative totals, so last+this does NOT equal the printed cumulative. The filer re-filed a corrected June-16 report on 7/23/2026 (cache 8a163a02, last-report column 66,670.65 / 49,653.62 / 17,017.03) - treat THIS row as SUPERSEDED for any cycle rollup. County-redacted address."
+}

@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "4b8c476a",
+ "source_filing": "raw/wayback/wb20161020003411_KGibson_1.5.15.pdf",
+ "document_id": "wb20161020003411_KGibson_1.5.15",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:05:38Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Kerry W. Gibson",
+ "office_stated": "County Commissioner Seat B",
+ "report_type_stated": "January 5th, 2015 (final report)",
+ "filing_date_stated": "2015-01-05",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "70,740.69",
+   "this": "10,509.63",
+   "cum": "81,250.32"
+  },
+  "contrib_le50": {
+   "last": "2,705.00",
+   "this": "-",
+   "cum": "2,705.00",
+   "n_contributors": "21"
+  },
+  "expenditures": {
+   "last": "54,704.64",
+   "this": "2,394.95",
+   "cum": "57,099.59"
+  },
+  "ending_balance": {
+   "last": "18,741.05",
+   "this": "8,114.68",
+   "cum": "26,855.73"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed form. Largest county-office filing in the dataset."
+}

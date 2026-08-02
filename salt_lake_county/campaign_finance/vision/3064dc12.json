@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "770.00",
+ "total_expenditures": "1103.77",
+ "beginning_balance": "274.94",
+ "ending_balance": "-58.83",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1044.94"
+ },
+ "cover": {
+  "candidate": "Cal Noyce",
+  "party": "Democrat",
+  "office_sought": "S.L. City Council",
+  "district_number": "1",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-31-11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cnoyce_10_YearEnd_CntyCncl1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Calvin J. Noyce",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/cnoyce_10_YearEnd_CntyCncl1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NEGATIVE closing balance: Line 7 Column A is written '-58.83' with a leading dash rather than accounting parentheses \u2014 kept verbatim. The form's own arithmetic produces it (274.94 + 770.00 = 1,044.94; minus 1,103.77 = -58.83), so the campaign closed the year overdrawn. Line 1 Column A uses the raised-cents convention (770 with a superscript 00). Column B is blank on both lines. This copy is a FAX: the header band reads 'Feb 01 11 04:35p  Cal Noyce & Bruce Dicks  801-519-9525'. The filer writes 'S.L. City Council' here (County on his other 2010 filings)."
+ }
+}

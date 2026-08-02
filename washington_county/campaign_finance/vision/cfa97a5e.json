@@ -1,0 +1,122 @@
+{
+ "filing_key": "wayback_financialreports|2014-10-28|CHRIS WHITE",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/10 28 2014 Summary - Chris White_10-28-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Summary - Chris White_10-28-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "db727068062a13671fae70d878f35de1b5afa313fa724d1cf675c153e6c58729",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Contributions - Chris White_10-28-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "81b513e4ec07e78fc440de634e67c879ca9bf60479e978ac97004c1b5cbafdd0",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Expenditures - Chris White_10-28-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "fc4dd0de0c244e562693e55c7a7a2eca9651bd697c5a301bb154d9b83a092c8b",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Chris White",
+  "office": "COMMISSION SEAT A",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Chris White",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "512.82",
+   "contrib_le50": "0.0",
+   "expenses": "378.0",
+   "balance": "134.82"
+  },
+  {
+   "submitted": "2014-06-16",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "0.0",
+   "balance": "134.82"
+  },
+  {
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "303.09",
+   "contrib_le50": "25.0",
+   "expenses": "56.07",
+   "balance": "406.85"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 2,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "303.09",
+   "contrib_gt50_this": "303.09",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "25.0",
+   "contrib_le50_this": "25",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "56.07",
+   "expenses_this": "56.07",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "406.85",
+   "balance_end": "406.85",
+   "balance_last_printed": "134.82",
+   "balance_last": "134.82",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

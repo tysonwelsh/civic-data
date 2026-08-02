@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "d0df0309",
+ "source_filing": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+ "document_id": "2020_combined_7e3a53_f03540b9#p19",
+ "page_start": 19,
+ "page_end": 21,
+ "summary_page": 19,
+ "election_cycle": "2020",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:05Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "John E. Ulibarri",
+ "office_stated": "Assessor",
+ "report_type_stated": "October 20 - Oct 27",
+ "filing_date_stated": "2020-12-10",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "636.46",
+   "cum": "636.46"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "636.46",
+   "cum": "636.46"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "-",
+   "cum": "-"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2020 3-line form. FILER LABEL CONFLICT retained: the 'October 20 - Oct 27' box is ticked but the form is signed 'December 10, 2020'."
+}

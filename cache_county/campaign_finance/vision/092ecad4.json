@@ -1,0 +1,108 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "ccc1d218d02d2865dd5ab1cda4925273f5d72c843a99bf87d9e6abc8adde0f09",
+ "canonical_path": "raw/2024/2024_cc_2024_General_K_Taylor_Sorensen.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_K_Taylor_Sorensen.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "K. Taylor Sorensen",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Attorney",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Smithfield",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/29/2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 29 PM 1:25",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0.00",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "1939.82",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "1939.82",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "3,714.09",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "3714.09",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "1939.82",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "(self funded) - 1774.27",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "1939.82",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "3,714.09",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Attorney",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Attorney'; the printed title of the instrument is 'Financial Campaign Report for County Offices' and the campaign email is 'votesorensen2024@gmail.com'",
+  "confidence": "high"
+ },
+ "notes": "Five pages, handwritten in black ink on the Cache County Clerk/Auditor instrument (printed title 'Financial Campaign Report for County Offices', without the '...and Local School Board Candidates' clause; five report-type choices on the cover): p1 cover, p2 Schedule A, p3 Schedule B page 1, p4 Schedule B page 2, p5 Summary Page. Scan quality is good. No statutory citation is printed on any page. A clean Clerk/Auditor received stamp sits at the top right of page 1 and is fully legible: 'CLERK/AUDITOR RCVD 2024 OCT 29 PM 1:25'. OVERWRITES ON THE SUMMARY PAGE (recorded, not corrected): boxes B, C, F and the 'Balance at Close of Reporting Period' box each carry a HEAVY SCRIBBLED-OUT earlier figure with the operative value written to its right. The obliterated figures are completely blacked out and unrecoverable - no attempt was made to read or reconstruct them. The operative values, which is what is transcribed, are B=1939.82, C=1939.82, F=1939.82 and, in the closing box, the parenthetical annotation '(self funded)' followed by '- 1774.27' (a negative balance; the minus sign is the filer's own and is retained verbatim). Box A reads '0.00' written plainly, box D '3,714.09' with a thousands comma, box E '3714.09' without one - both are transcribed exactly as each is written. THE SAME OVERWRITE APPEARS ON SCHEDULE A (p2): the 'Subtotal for this page $' line and the 'Total Contributions Received $' line are both scribbled through, with '1939.82' written above the subtotal line and '1939.82' written below the total line; those legible figures are what is recorded. SCHEDULE B spans two pages with per-page subtotals $3,351.80 (p3) and $362.29 (p4); the 'Total Expenditures Made $' line is LEFT BLANK on p3 and filled in only on p4 as '$3,714.09', which is the value recorded in schedule_totals. IN-KIND MARKINGS on Schedule A, recorded as observed: three rows carry a circled '(In kind)' annotation immediately before the amount - Chad Jensen, 280 E 9000 S Paradise UT, 75.00; Terryl Warner, 623 Anderson Ave. Hyrum UT, 265.00; and Terryl Warner, same address, 53.00. Unlike the Gillie filing in this same tranche, these in-kind rows DO carry dollar amounts. One further row, Cindy Holland 30.00 (3/15/2024), has no address written. Ledger candidate 'K. Taylor Sorensen' matches the cover name, the affirmation and all four footer blocks exactly - no contradiction."
+}

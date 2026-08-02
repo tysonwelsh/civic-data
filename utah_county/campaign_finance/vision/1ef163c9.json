@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Amelia_Powers_Gardner.pdf",
+ "key": "1ef163c9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:24:00Z",
+ "pages_read": [1, 8],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Amelia Powers Gardner",
+   "party_printed": "",
+   "office_printed": "Utah County Commission",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/21/22",
+   "summary_page": 8,
+   "totals": {
+    "contrib_this_period": "45,392.35",
+    "contrib_cumulative": "75,077.97",
+    "expend_this_period": "56,428.08",
+    "expend_cumulative": "73,596.68",
+    "balance_beginning": "12,520.11",
+    "subtotal_before_expend": "57,912.46",
+    "balance_close": "1484.38"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "12,520.11",
+    "boxB_contributions_received_this_period": "45,392.35",
+    "boxC_contributions_received_year_to_date": "75,077.97",
+    "boxD_expenditures_made_this_period": "56,428.08",
+    "boxE_expenditures_made_year_to_date": "73,596.68",
+    "boxF_subtotal_before_expenditures": "57,912.46",
+    "boxG_balance_at_close": "1484.38"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "MIXED form: Boxes A, B, C and F are typed (born-digital); Boxes D, E and the close box are HANDWRITTEN in heavy black marker over the printed box letters - transcribed at medium confidence. The handwritten D reads $56,428.08, E reads $73,596.68 and the close reads $1484.38 (the filer wrote the close WITHOUT a thousands comma, unlike the typed boxes - preserved verbatim). This revision of the form labels the close box 'G' (recorded as boxG_balance_at_close) and adds an 'End-of-Year Report' checkbox; it prints no 'v.' version string in the footer, so form_version is ''. Signature is a handwritten script signature dated 6/21/22; the cover also prints 'Date of Filing 6/21/22'. DISAGREEMENT WITH THE INDEX: index.csv carries office 'County Commission Seat A' but the page's Office field prints only 'Utah County Commission' with NO seat letter - the page is less specific and the seat is not inferred here. VARIANT NOTE: the locator's variant_guess was legacy_colAB; the page face is the modern Box A-F/G form."
+  }
+ ],
+ "notes": ""
+}

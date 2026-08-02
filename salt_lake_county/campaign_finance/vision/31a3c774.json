@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8128.33",
+ "total_expenditures": "2162.32",
+ "beginning_balance": "0",
+ "ending_balance": "5966.01",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "8128.33"
+ },
+ "cover": {
+  "candidate": "SIMARJIT S. GILL",
+  "party": "DEMOCRATIC",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "S.L.Co.",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/30/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/sgill_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Column B (Sum Total to Date) cells for Lines 1 and 2 are left BLANK by the filer (recorded as \"\", not 0). Line 3 is written as a plain '0'. Figures carry no dollar signs and no thousands comma. The form is titled '2006 Financial Disclosure Report' but is the year-end report for calendar 2005, signed 1/30/06 - matching the clerk listing's '2005 Summary Report'."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "21.06",
+ "beginning_balance": "21.06",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "21.06",
+  "line5_subtotal": "21.06"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header '2011 Amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_11_Final_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_11_Final_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2012-vintage blank hand-titled '2011 Amendment' on the cover and '2011' on the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Line 1 (both columns), line 4 and line 7 are written as hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 chains from the 2010 amendment's line 7 (21.06). Arithmetic checks: 21.06 - 21.06 = 0."
+ }
+}

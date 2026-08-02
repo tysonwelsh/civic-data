@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyAttorney-BuhmanJeffreyR-102610.pdf",
+ "key": "0989f448",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:36:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Jeffrey R. Buhman",
+   "party_printed": "Rep.",
+   "office_printed": "County Attorney",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10-26-10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "400.00",
+    "contrib_cumulative": "900.00",
+    "expend_this_period": "0",
+    "expend_cumulative": "288.37",
+    "balance_beginning": "211.63",
+    "subtotal_before_expend": "611.63",
+    "balance_close": "611.63"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "400.00",
+    "line1_total_contributions_colB": "900.00",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "288.37",
+    "line3_balance_beginning": "211.63",
+    "line4_total_contributions_from_line1A": "400.00",
+    "line5_subtotal_lines3plus4": "611.63",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "611.63"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The party field is written abbreviated as 'Rep.' and is transcribed verbatim (not expanded to Republican). The Street Address line on the cover is EMPTY - the filer or the county left it blank; only the city (Orem), state and ZIP are filled. Phone and fax cells are also blank. Lines 2 Column A and 6 are plain hand-drawn zeros. Line 2 Column B (288.37) has a compressed double-8 and is recorded at medium confidence. Summary page header reads 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

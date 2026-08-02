@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$15,460.00",
+ "total_expenditures": "$25,160.97",
+ "beginning_balance": "$51,986.96",
+ "ending_balance": "$42,285.99",
+ "aggregate": {
+  "total_contributions_to_date": "$55,140.40",
+  "total_expenditures_to_date": "$32,787.89",
+  "line5_subtotal": "$67,446.96"
+ },
+ "cover": {
+  "candidate": "richard snelgrove",
+  "party": "Republican",
+  "office_sought": "_Council - At Large",
+  "district_number": "b",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__79278E67.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard ",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__79278E67.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Name typed lower-case ('richard snelgrove') on this filing; District Number box holds a lower-case 'b' (the At-Large seat letter). Form title reads 2020 (template reuse)."
+ }
+}

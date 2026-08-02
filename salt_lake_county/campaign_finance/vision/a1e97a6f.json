@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,486.34",
+ "total_expenditures": "9,325.28",
+ "beginning_balance": "0.00",
+ "ending_balance": "1,161.06",
+ "aggregate": {
+  "total_contributions_to_date": "10,486.34",
+  "total_expenditures_to_date": "9,325.28",
+  "line5_subtotal": "10,486.34"
+ },
+ "cover": {
+  "candidate": "Jake Parkinson",
+  "party": "Republican",
+  "office_sought": "County Assessor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/14",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Parkinson_J_Assessor_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jake Parkinson",
+  "office": "Assessor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Parkinson_J_Assessor_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "18-page duplex scan whose even pages are blank versos - PDF page 2 is blank, so the Summary Page is PDF page 3 (its own header reads 'Page 1 of 8', 'Date of Report Dec. 31, 2013'). A 2013 year-end filed on a stale form whose printed interim dates all read 2012; Year-End box checked, neither amendment box checked. Signature date 1/31/14, clerk stamp JAN 31 2014. Column B is headed 'Year to Date'. Line 3 is written '0.00' with a slashed/looped zero. Face arithmetic consistent."
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2022/2022_Mann_Rod.pdf",
+ "key": "14f508a7",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rodney W Mann",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "Highland",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "8-Dec-2022",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "17.16",
+    "contrib_cumulative": "51,278.85",
+    "expend_this_period": "17.16",
+    "expend_cumulative": "51,278.85",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "17.16",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "A_balance_at_beginning_of_reporting_period": "0.00",
+    "B_contributions_received_this_reporting_period": "17.16",
+    "C_contributions_received_since_the_beginning_of_the_year": "51,278.85",
+    "D_expenditures_made_this_reporting_period": "17.16",
+    "E_expenditures_made_year_to_date": "51,278.85",
+    "F_subtotal_before_expenditures_A_plus_B": "17.16",
+    "G_balance_at_close_of_reporting_period_F_minus_D": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "office_printed"
+   ],
+   "notes": "THE OFFICE FIELD IS BLANK. The county cover page's 'Office' box was left empty by the filer, so office_printed is \"\" - index.csv carries 'County Auditor', which this page does not state (the filer's email is rod@rodforutah.com, which names no office either). HYBRID FILING: page 1 is the county's own cover form (typed, digitally signed - the signature block shows a certificate GUID and 'Digitally signed by 43548557-cdfc-4d31-9dcb-e284eb9857dc, Date: 2022.12.08 22:32:44 -07'00''), but the summary on page 5 is the CANDIDATE'S OWN document - a plain table headed 'Candidate Discolosure Form / 2022 Election Cycle / Rod Mann' (the filer's own misspelling of 'Disclosure' preserved) with lines A-G, not the county's Box A-F ladder. The totals_verbatim keys follow that page's own printed labels. All amounts are typed with '$' prefixes, dropped per the schema; the thousands commas in C and E are as printed. Name on the cover is 'Rodney W Mann'; the summary page header says 'Rod Mann'; index.csv says 'Rodd Mann' - three spellings, all recorded here, none adjudicated. Address printed in the clear (5262 W Castle Pine Way, Highland, UT 84003) - the entire address including city sits on the Address line, the form's separate City/State/Zip columns are unused."
+  }
+ ],
+ "notes": ""
+}

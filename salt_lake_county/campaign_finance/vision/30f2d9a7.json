@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "805.19",
+ "total_expenditures": "1265.22",
+ "beginning_balance": "570.00",
+ "ending_balance": "109.97",
+ "aggregate": {
+  "total_contributions_to_date": "1950.11",
+  "total_expenditures_to_date": "1,840.14",
+  "line5_subtotal": "1375.19"
+ },
+ "cover": {
+  "candidate": "Kelton M. Baker",
+  "party": "Libertarian Party",
+  "office_sought": "SL. Co Treasurer",
+  "district_number": "N/A",
+  "report_type": "October 31",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kbaker_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kelton M. Baker",
+  "office": "Treasurer",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/kbaker_oct312006.pdf",
+  "pages_read": [
+   1,
+   2,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Scanned 5-page filing; the Summary Page is page 5 (page 2 is Schedule A, page 4 Schedule B). Line 2 Column A is heavily overwritten in bold pen (an earlier figure written over to read 1265.22, matching Line 6's clearly written 1,265.22) - recorded at medium confidence. Schedule B (page 4) shows the same rewrite: 895.22 struck and re-added to 1,265.22 with +570.00. Lines 3+4=5 and 5-6=7 reconcile exactly."
+ }
+}

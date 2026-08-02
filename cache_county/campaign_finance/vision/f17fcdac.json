@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "61c49e90a5192b0a628fe7f9e0186d6a14866d476b373d36347610da4080af67",
+ "canonical_path": "raw/2022/2022_wb_2022_Primary_Financial_Disclosures.pdf",
+ "applies_to": ["raw/2022/2022_wb_2022_Primary_Financial_Disclosures.pdf"],
+ "pages_read": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Chris Booth; Ladd Kennington", "c": "high"},
+  "office_verbatim":   {"v": "COUNTY COUNCIL NORTHEAST", "c": "high"},
+  "office_district":   {"v": "NORTHEAST", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "N. Logan", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.org  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "30 Days after withdrawal or elimination; 30 Days after the Primary Election", "c": "medium"},
+  "date_signed":       {"v": "7/26/22", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "", "c": "high"},
+   "B_contrib_this_period":    {"v": "$1830.00", "c": "high"},
+   "C_contrib_ytd":            {"v": "$1830.00", "c": "high"},
+   "D_expend_this_period":     {"v": "$1850.99", "c": "high"},
+   "E_expend_ytd":             {"v": "$1850.99", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$1830.00", "c": "high"},
+   "closing_balance":          {"v": "$0", "c": "medium"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "1830.00", "c": "high"},
+   "total_expenditures_made":      {"v": "1850.99", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Northeast",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'COUNTY COUNCIL NORTHEAST' (Chris Booth); page 6 'Office' box reads, in the filer's hand, 'County Council' (Ladd Kennington). Both candidates in this combined PDF filed for Cache County Council, so the document's scope is county for both; the seat differs (Booth names the Northeast district, Kennington names no district).",
+  "confidence": "high"
+ },
+ "notes": "TWO-CANDIDATE DOCUMENT. This 9-page PDF is a COMBINED filing packet covering TWO separate candidates, each with their own complete Cache County 'Candidate Financial Disclosure / Financial Campaign Report for County Offices and Local School Board Candidates' instrument. It does NOT fit the one-row-one-filer model of this cache schema. Pages 1-5 are CHRIS BOOTH's report (cover p1, Schedule A p2, Schedule B p3, Schedule B continued p4, Summary p5). Pages 6-9 are LADD KENNINGTON's report (cover p6, Schedule A p7, Schedule B p8, Summary p9). The `cover` and `stated` blocks above carry the FIRST candidate's (Chris Booth's) figures, per instruction; `cover.candidate_stated` carries the combined verbatim name. Both candidates' stated totals are recorded verbatim below.\n\n=== CANDIDATE 1 - CHRIS BOOTH (pages 1-5) ===\nCover (p1): Name of Candidate 'Chris Booth'. Address '1112 E 1900 N', City 'N. Logan', State 'UT', Zip '84341'. Office 'COUNTY COUNCIL NORTHEAST'. Phone '435-554-4940'. Email 'cboothgop@gmail.com'. Type of Report: TWO bullets appear filled - '30 Days after withdrawal or elimination' AND '30 Days after the Primary Election' (the first is an ink blot/scribble over the bullet, the second is a solidly filled bullet; both read as marked - flagged medium confidence because the intent of the double marking is not stated on the page). Is this report an amendment? 'No' bullet is filled. Affirmation printed name 'Chris Booth'. Signature present. Date '7/26/22'. Date of Report '7/26/22'. Page '1'. Office Use Only: no bullet filled, no received stamp.\nSchedule A (p2): 7 itemized rows. Subtotal for this page '$ $1830.00' (a '$' is written after the preprinted '$'). Total Contributions Received '$ 1830.00'.\nSchedule B (p3): 16 itemized rows. Subtotal for this page '$ 1472.48'. 'Total Expenditures Made $' line is BLANK on this page.\nSchedule B continued (p4): 4 itemized rows. Subtotal for this page '$ 378.51'. Total Expenditures Made '$ 1850.99'. Page number written as '4' with an overwritten/struck leading character (looks like a '0' or ink slip preceding the 4).\nSummary (p5): Box A (Balance at Beginning of Reporting Period) is BLANK - no figure written, recorded as empty. Box B '$1830.00' (a small '$'-like mark precedes it). Box C '$1830.00'. Box D '$1850.99'. Box E '$1850.99'. Box F '$1830.00'. Balance at Close of Reporting Period: '$ 0' - a single hand-drawn open/looped O glyph used as a zero, transcribed '$0' at medium confidence per protocol rule 3. Page '5'.\nARITHMETIC DISAGREEMENT (recorded, not corrected): the filer's Box D/E expenditures ($1850.99) exceed Box F ($1830.00), so Box F - Box D would be negative, yet the filer wrote a closing balance of 0. Recorded verbatim as printed; no reconciliation performed.\n\n=== CANDIDATE 2 - LADD KENNINGTON (pages 6-9) ===\nCover (p6): Name of Candidate 'LADD KENNINGTON'. Address '131 W 100 N', City 'Providence', State 'UT', Zip '84332'. Office 'County Council' (no district written). Phone '435 760 5346'. Email 'laddtkennington@gmail.com'. Type of Report: '30 Days after elimination' bullet filled (note this cover page prints a SHORTER 3-option list than Booth's page-1 variant). Is this report an amendment? NEITHER 'No' nor 'Yes' is marked. Affirmation printed name 'LADD KENNINGTON'. Signature present. Date '7-27-22'. Date of Report '7-27-22'. Page '1'. Office Use Only: no bullet filled, no received stamp.\nSchedule A (p7): 1 itemized row (self-contribution). Subtotal for this page '$ 2,000'. Total Contributions Received '$ 2,000'. Page '2'.\nSchedule B (p8): 4 itemized rows. Subtotal for this page '$ 2,000'. Total Expenditures Made '$ 2,000'. Page '3'.\nSummary (p9): Box A (Balance at Beginning of Reporting Period) contains a figure that has been HEAVILY SCRIBBLED/STRUCK OUT and deliberately obliterated - beneath the scribble the strokes are consistent with '$2,000' but the obliteration makes it not reliably readable, so it is recorded as EMPTY per the no-fabrication rule rather than guessed. Box B '$2,000'. Box C '$2,000'. Box D '$2,000' (written '$2, 000' with the comma dropped low). Box E '$2,000' - the digits after the comma are written as open looped O glyphs, matching the same writer's zeros in boxes B/C/F, so read as 2,000 at medium confidence (a reading of '2,200' cannot be fully excluded from the glyph shape alone). Box F '$2,000'. Balance at Close of Reporting Period: '- 0' (a dash followed by a single open O glyph used as zero) - transcribed '-0' / zero at medium confidence per protocol rule 3. Page '4'.\n\n=== LEDGER CHECK ===\nThe ledger's candidate value 'Chris Booth Ladd Kennington' is consistent with the page evidence (two candidates, unpunctuated concatenation). The ledger's scope_status='undetermined' is CONTRADICTED by the page evidence: both cover pages name a COUNTY COUNCIL office in the filer's own hand, so scope is county for both filers; scope has been set to 'county' with office_std 'County Council'. No school-board, municipal, or state office appears anywhere in this document."
+}

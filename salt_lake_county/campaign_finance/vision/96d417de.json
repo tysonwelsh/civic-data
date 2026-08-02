@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$21,581.66",
+ "total_expenditures": "",
+ "beginning_balance": "$7029.48",
+ "ending_balance": "$3,293.26",
+ "aggregate": {
+  "total_contributions_to_date": "$38,485.96",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$28,611.14"
+ },
+ "cover": {
+  "candidate": "Jeremy Votaw",
+  "party": "Rep",
+  "office_sought": "County Clerk",
+  "district_number": "NA",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10-26-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvotaw_10_OctoberInterim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeremy Votaw",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jvotaw_10_OctoberInterim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; Summary Page cells re-rendered at -r 450",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LINE 2 IS BLANK IN BOTH COLUMNS - the filer skipped 'TOTAL EXPENDITURES MADE' entirely even though Line 6 (which is supposed to copy Line 2 Column A) carries $25,317.88. Both Line 2 cells are recorded as '' (the cell exists and was left blank), NEVER as 0 and never back-filled from Line 6. Cents are written as raised superscripts over a rule (21,581 superscript 66; 7029 superscript 48; 28,611 superscript 14; 3,293 superscript 26) and transcribed with a decimal point; Line 1 Column B uniquely uses a real decimal point ($38,485.96). The Type-of-Report block uses the generic (undated) box labels; the manifest calls this the October interim, and the box actually checked is 'Seven days before a general election' - consistent with an October filing (signed 10-26-10, clerk-stamped OCT 26 2010). Form arithmetic checks out using Line 6: 7,029.48 + 21,581.66 = 28,611.14; 28,611.14 - 25,317.88 = 3,293.26."
+ }
+}

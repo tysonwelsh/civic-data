@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "50,758.93",
+ "total_expenditures": "43,913.54",
+ "beginning_balance": "0",
+ "ending_balance": "6,845.39",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "50,758.93"
+ },
+ "cover": {
+  "candidate": "Mike Winder",
+  "party": "Republican",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Winder_M_12_April_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mike Winder",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Winder_M_12_April_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The filer used the 2008-vintage form (08_FinancialDisclosureform.doc) and hand-corrected the April-5 period line, writing '12' over the printed '2008' ('For the period ending March 31, 2008' -> 2012). Neither amendment box is checked. Line 1 and Line 2 Column B each carry a hand-drawn dash across the cell, recorded as '0' per the corpus convention (medium confidence). Line 3 Column A is a drawn/slashed zero. Note the ending balance here (6,845.39) differs by $50 from the amendment's 6,895.39."
+ }
+}

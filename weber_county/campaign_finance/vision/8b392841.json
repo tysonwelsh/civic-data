@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "8b392841",
+ "source_filing": "raw/y2026/2026_ugd_92078f_741f163c.pdf",
+ "document_id": "2026_ugd_92078f_741f163c",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:38:01Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "James Ebert",
+ "office_stated": "Commission - Seat A",
+ "report_type_stated": "7 days before the candidates' convention - Convention",
+ "filing_date_stated": "2026-04-03",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "0",
+   "this": "66,500.00",
+   "cum": "66,500.00"
+  },
+  "expenditures": {
+   "last": "0",
+   "this": "52,916.62",
+   "cum": "52,916.62"
+  },
+  "ending_balance": {
+   "last": "0",
+   "this": "13,583.38",
+   "cum": "13,583.38"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant; summary values typed, 'Last Report' column filled in by hand with circled zeros. Filing date 4/3/2026 legible on the form though index.csv carries a blank date. County-redacted address."
+}

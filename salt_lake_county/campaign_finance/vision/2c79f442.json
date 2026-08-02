@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$135,209.25",
+ "total_expenditures": "$83,729.45",
+ "beginning_balance": "$17,705.25",
+ "ending_balance": "$69,185.05",
+ "aggregate": {
+  "total_contributions_to_date": "$297,594.25",
+  "total_expenditures_to_date": "$228,339.20",
+  "line5_subtotal": "$152,914.50"
+ },
+ "cover": {
+  "candidate": "Crockett, Mark",
+  "party": "REPUBLICAN",
+  "office_sought": "Mayor",
+  "district_number": null,
+  "report_type": "Interim Report September 15, 2012 (Amended)",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "10/3/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Crockett_M_12_Sept_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Crockett_M_12_Sept_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (line 1 Column B cropped at -r 500 and -r 900)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk online-system printout (summary_printer.cfm?ID=848), 5 pages. This form has NO amendment checkbox - the amendment status comes from the printed Report line, which reads 'Interim Report September 15, 2012 (Amended)'; is_amendment is recorded 'Yes' on that basis and amendment_of is left blank because the form gives no date of the amended report. Line 1's YTD cell is HANDWRITTEN and hard to read even at 900 dpi: it reads $297,594.25 but the hundreds digit is genuinely ambiguous (could be a 5) - recorded at LOW confidence, do not quote without re-checking the source. All other figures are machine-printed. report_date is the system print date in the footer (10/3/2012), later than the September 15 report it amends."
+ }
+}

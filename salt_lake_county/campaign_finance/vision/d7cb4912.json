@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5, June 20, September 15",
+  "report_date": "10/6/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "office_sought": "high",
+  "is_amendment": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/simgill_amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/simgill_amendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-2); pages 3-9 at -r 80",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO SUMMARY PAGE - honest, not a failure. This is the 2006 cover page plus seven pages of a re-filed Schedule A contributor table ('Amended financial disclosures for Sim Gill. April, June, September 2006--including employers for donations of $200 and more.'), and a final page that is a separate one-page fax amendment dated October 9, 2006 adding one contributor (Minhaj Ghatala). No Type-of-Report box is checked; only the amendment 'Yes' box, with three report dates written in. All totals null."
+ }
+}

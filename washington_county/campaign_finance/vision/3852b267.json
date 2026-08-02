@@ -1,0 +1,122 @@
+{
+ "filing_key": "wayback_financialreports|2014-10-28|VICTOR IVERSON",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/10 28 2014 Summary - Victor Iverson_10-28-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Summary - Victor Iverson_10-28-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "2d5ac76cfc0eb800fd53c6e934ae7d1ad492ad210c90766147d95d6813544c58",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Contributions - Victor Iverson_10-28-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "bffd58364d59f0e5e31e2a0cb4ee70703cee416b603676bd6877d7bcb3f99d46",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Expenditures - Victor Iverson_10-28-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "5efadb5594859658efbdd6107287264d78308e9bbeb2a69ea2e59e8f189a6cd8",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Victor Iverson",
+  "office": "COMMISSION SEAT B",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat B",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Victor Iverson",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "630.0",
+   "contrib_le50": "0.0",
+   "expenses": "2032.83",
+   "balance": "-1402.83"
+  },
+  {
+   "submitted": "2014-06-17",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "0.0",
+   "balance": "-1402.83"
+  },
+  {
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "7100.0",
+   "contrib_le50": "0.0",
+   "expenses": "8228.89",
+   "balance": "-498.89"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 2,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "7100.0",
+   "contrib_gt50_this": "7100",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "8228.89",
+   "expenses_this": "8228.89",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-498.89",
+   "balance_end": "-498.89",
+   "balance_last_printed": "-1402.83",
+   "balance_last": "-1402.83",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "44.49",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "44.49",
+  "line5_subtotal": "44.49"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/23/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwilson_10_Final.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jwilson_10_Final.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "COLUMN A OF LINES 1 AND 2 IS BLANK - the filer entered only the Column B aggregates (0 and 44.49) on those two lines, so total_contributions and total_expenditures are recorded as '' (cell exists, left blank), never copied across from Column B. Lines 4 and 7 are written as an unslashed '0'. This IS a full report (Final/Dissolution box checked), not a bare dissolution notice; the account is zeroed out by spending the 44.49 carried over from the 2009 year-end report. Signed 4/23/10, clerk-stamped APR 30 2010. Page-of box reads 'Page 1 of 2'."
+ }
+}

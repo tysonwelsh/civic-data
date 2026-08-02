@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Melvin Nimer",
+  "party": "",
+  "office_sought": "SL County Council At Large - C",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee [County and Local School Board Candidates and Officeholders]",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "8/21/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nimer_M_CouncilC_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mel Nimer",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nimer_M_CouncilC_Dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page dissolution notice only - no Summary Page, no figures. Committee written as 'Melvin Nimer SL County Council At Large Seat C'; secretary 'Rusty James'. Signed 8/21/2014, clerk RECEIVED stamp AUG 21 2014. The manifest labels this filing '2012 Interim Reports / Dissolution' but the document is dated 2014 and the source URL sits in the 2014 disclosures directory."
+ }
+}

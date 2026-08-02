@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "6e392f49",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p50",
+ "page_start": 50,
+ "page_end": 52,
+ "summary_page": 50,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Lynelle Jensen",
+ "office_stated": "Weber County Treasurer",
+ "report_type_stated": "October 8 (pre-election)",
+ "filing_date_stated": "2024-10-04",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "1,500.00",
+   "this": "75.00",
+   "cum": "1,575.00"
+  },
+  "expenditures": {
+   "last": "1,440.18",
+   "this": "78.99",
+   "cum": "1,519.17"
+  },
+  "ending_balance": {
+   "last": "59.82",
+   "this": "(3.99)",
+   "cum": "55.83"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2024 3-line form; all columns reconcile. County-redacted address."
+}

@@ -1,0 +1,133 @@
+{
+ "filing_key": "wayback_financialreports|2011-04-05|ART PARTRIDGE",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/County Candidate Summary- Art Partridge_04-05-2011.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/County Candidate Summary- Art Partridge_04-05-2011.pdf",
+   "doc_kind": "summary",
+   "sha256": "2d65109c631df91e8c7127e27916a22a0f2d2e27aec166294cb03175c6b8ff58",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Contributions- Art Partridge_04-05-2011.pdf",
+   "doc_kind": "contributions",
+   "sha256": "5abd937aba162ed1d61890e6ffad1158af8aea6d7965e3b43f7095539f1e5b46",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Expenditures- Art Partridge_04-05-2011.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "5b716dbc0ce1345728f249d18602d1b216034118ec6c43f1f142b2e219d6eb77",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Arthur Partridge",
+  "office": "County Assessor",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Assessor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Arthur Partridge",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/5/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$375.00",
+   "balance": "-$375.00"
+  },
+  {
+   "submitted": "6/15/2010",
+   "date_due": "6/15/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$375.00"
+  },
+  {
+   "submitted": "8/19/2010",
+   "date_due": "8/31/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$375.00"
+  },
+  {
+   "submitted": "10/26/2010",
+   "date_due": "10/26/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$375.00"
+  },
+  {
+   "submitted": "1/10/2011",
+   "date_due": "1/10/2011",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$375.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "1/10/2011",
+   "date_due": "1/10/2011",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 4,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$0.00",
+   "expenses_this": "0",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$375.00",
+   "balance_end": "-375",
+   "balance_last_printed": "-$375.00",
+   "balance_last": "-375",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

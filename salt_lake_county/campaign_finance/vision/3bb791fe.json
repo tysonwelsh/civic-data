@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,068.61",
+ "total_expenditures": "$668.61",
+ "beginning_balance": "N/A",
+ "ending_balance": "$4,400.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$5,068.61"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sdebry_10_Apr_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sdebry_10_Apr_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Later form face carrying BOTH a top-row 'Office' box ('County Council') and an 'Office Sought' box ('County Council', district '#5'); Column B is headed 'Aggregate Total' and is blank on both lines. April 5 interim checked; neither amendment box checked; signed 4-4-10, clerk-stamped RECEIVED APR 2010. IMPORTANT: Line 3, Balance at Beginning of Reporting Period, is written as the letters 'N/A' - not a number and not blank - so it is recorded verbatim as 'N/A'. Arithmetic on the rest is exact (5,068.61 - 668.61 = 4,400.00)."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$811.95",
+ "total_expenditures": "$931.40",
+ "beginning_balance": "$1276.54",
+ "ending_balance": "$1157.09",
+ "aggregate": {
+  "total_contributions_to_date": "$3769.55",
+  "total_expenditures_to_date": "$2312.46",
+  "line5_subtotal": "$2088.49"
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": "LIBERTARIAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/16/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_latham_rob06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_latham_rob06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, both pages re-rendered at -r 250 for the figures and the signature date",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cramped handwriting; page 2 re-rendered at 250 dpi. Figures are written with a dollar sign and no thousands comma - kept verbatim. Line 2 Column A's leading digit is ambiguous between 7 and 9 on its face; the form's own arithmetic settles it at 931.40 (2088.49 - 931.40 = 1157.09), and Line 3 likewise reads 1276.54 (1276.54 + 811.95 = 2088.49). The summary page's 'Date of Report' box reads JUNE 16, 2006, matching the cover signature date."
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$75,869",
+ "total_expenditures": "$10,198.93",
+ "beginning_balance": "45.79",
+ "ending_balance": "$65,715.86",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "75,914.79"
+ },
+ "cover": {
+  "candidate": "SIM GILL",
+  "party": "DEMOCRAT",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2-1-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/sgill_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Later form face with a top-row 'Office' box, filled 'SLCo. DA.', plus an 'Office Sought' box reading 'District Attorney' - office_sought is taken from the 'Office Sought' box per contract. Year-End box checked, amendment = No. Signed 2-1-10 and clerk-stamped RECEIVED FEB 04 2010, i.e. the year-end report FOR 2009. The Summary Page header box was left blank and Column B ('Aggregate Total') is blank on both lines. Line 1 Column A is written WITHOUT cents ('$75,869'), kept verbatim; the arithmetic still works (45.79 + 75,869 = 75,914.79; less 10,198.93 = 65,715.86)."
+ }
+}

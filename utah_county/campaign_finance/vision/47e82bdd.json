@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_Mccullough.pdf",
+ "key": "47e82bdd",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:12:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "W. Andrew McCullough",
+   "party_printed": "Libertarian",
+   "office_printed": "County Attorney",
+   "residence_city": "Lehi",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/27/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2,394.50",
+    "contrib_cumulative": "2,394.50",
+    "expend_this_period": "2,364.33",
+    "expend_cumulative": "2,364.33",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2,394.50",
+    "balance_close": "30.17"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2,394.50",
+    "line1_total_contributions_colB": "2,394.50",
+    "line2_total_expenditures_colA": "2,364.33",
+    "line2_total_expenditures_colB": "2,364.33",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "2,394.50",
+    "line5_subtotal_lines3plus4": "2,394.50",
+    "line6_total_expenditures_from_line2A": "2,364.33",
+    "line7_balance_at_close": "30.17"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "medium",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Loose cursive handwriting throughout; every figure appears twice on the page (Col A/Col B, then again on lines 4-6) and the two writings agree, which is why the amounts hold at medium rather than low. Line 3 is a handwritten bare 0. The signature date is written '10/27/18'. The cover page uses the older 'FOR COUNTY CANDIDATES' title (no school-board wording), while the summary sheet's header reads '2016 County & Local School Board Candidates' - a mixed-vintage packet. The summary sheet's Page/Last Name/Date of Report boxes were left blank by the filer. No amendment box marked Yes; the No circle is struck."
+  }
+ ],
+ "notes": ""
+}

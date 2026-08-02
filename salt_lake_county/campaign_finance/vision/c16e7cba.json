@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "BILLIE LARSON",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/31/08",
+  "form_year": null
+ },
+ "confidence": {
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_blarson_dissolutionreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Billie Gay Larson",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_blarson_dissolutionreport.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice form (04pccdissolution.doc), not the Financial Disclosure Report - no Summary Page and no checkbox/party/office/district fields. Handwritten: Committee 'LARSON FOR COUNTY TREASURER'; County Office Candidate 'BILLIE LARSON'; Committee Secretary 'MEGAN RISBON' (surname reading uncertain); Date Committee Was Established '3/2006'. Signature date '1/31/08' (last digit written over - reads 08). Scan is skewed and faint."
+ }
+}

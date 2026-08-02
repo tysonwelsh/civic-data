@@ -1,0 +1,90 @@
+path,text_path,pages,method,format,chars,per_page_chars
+raw/archives/2012_combined_7e3a53_770058fb.pdf,text/archives__2012_combined_7e3a53_770058fb.txt,39,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,35713,1697|247|281|1766|222|156|1726|1946|281|258|1238|1786|1893|217|197|1858|156|195|1862|924|646|1859|240|331|1982|206|564|1880|889|1214|1841|194|196|1867|177|289|1805|268|283
+raw/archives/2016_combined_7e3a53_2e3f405d.pdf,text/archives__2016_combined_7e3a53_2e3f405d.txt,35,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,38426,1868|1869|252|375|1846|310|199|1755|205|258|1787|157|90|1851|2886|3083|580|2242|3148|1469|1301|1820|119|61|1863|61|106|1765|310|1807|352|369|1836|182|176
+raw/archives/2018_combined_7e3a53_1c487f91.pdf,text/archives__2018_combined_7e3a53_1c487f91.txt,39,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,45494,869|1659|1631|1824|202|398|1694|1927|2063|212|1295|2780|2880|1829|154|268|1926|314|1050|1872|348|231|1927|1817|107|257|1835|93|75|1789|99|206|1778|1828|246|1785|515|1890|1745
+raw/archives/2020_combined_7e3a53_f03540b9.pdf,text/archives__2020_combined_7e3a53_f03540b9.txt,37,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,46992,1973|3385|1843|133|167|1946|224|3157|2194|1387|1940|258|3098|1881|1679|39|133|1988|1988|262|320|1964|164|297|1881|53|191|2981|2040|221|166|1929|259|315|847|1418|1989
+raw/archives/2022_combined_7e3a53_78d55edd.pdf,text/archives__2022_combined_7e3a53_78d55edd.txt,52,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,59468,1955|145|1997|1701|126|279|1662|1936|467|247|1726|275|337|1641|247|151|1965|325|762|1896|984|2329|1895|1685|3079|1742|1850|268|374|1919|139|445|2389|1894|427|900|1910|297|940|1955|1052|1253|1934|488|661|182|1950|768|1057|1886|555|319
+raw/archives/2024_combined_92078f_26b6bacd.pdf,text/archives__2024_combined_92078f_26b6bacd.txt,167,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,154082,2285|273|393|1812|335|319|1457|2184|450|883|2170|2174|210|406|1933|341|500|539|2324|475|1043|2317|143|392|1643|218|261|2274|87|65|2115|161|492|2283|314|237|2340|197|386|2417|140|575|1415|356|455|417|2232|41|96|2123|317|540|2454|234|351|2133|706|516|2421|2227|755|1018|528|701|939|315|2265|71|182|2257|223|307|2197|236|267|2306|587|202|2094|192|271|1914|2085|122|271|594|2390|328|491|2000|2421|123|267|2104|172|675|398|1968|305|104|144|2278|201|286|2271|292|387|1839|400|485|2424|233|1024|286|1989|268|207|249|2264|228|328|2295|295|578|2055|272|330|2177|2079|125|0|0|243|353|2232|235|308|2299|218|294|2386|198|268|2218|240|355|2224|75|98|2273|162|321|2259|62|283|83|244|2258|239|255|2389|91|358|0|2235|219|247
+raw/state/st2010_Brad_Smith_8-26-10.pdf,text/state__st2010_Brad_Smith_8-26-10.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2144,1893|93|154
+raw/state/st2010_Cheryl_Ferrin_08312010.pdf,text/state__st2010_Cheryl_Ferrin_08312010.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2197,1922|122|149
+raw/state/st2010_Dean_Oborn_08312010.pdf,text/state__st2010_Dean_Oborn_08312010.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2141,1837|152|148
+raw/state/st2010_Jh_Thompson_8-10-2010.pdf,text/state__st2010_Jh_Thompson_8-10-2010.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2114,1834|163|113
+raw/state/st2010_Sharilyn_Gerber_08312010.pdf,text/state__st2010_Sharilyn_Gerber_08312010.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2060,1882|65|109
+raw/state/st2010_Stan_Bassett_8-25-10.pdf,text/state__st2010_Stan_Bassett_8-25-10.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2250,1763|262|221
+raw/state/st2010_Steven_Prisbreg_6-8-10.pdf,text/state__st2010_Steven_Prisbreg_6-8-10.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2020,1771|149|96
+raw/state/st2012pri_Allen_D_Smith_6-19-12_Primary.pdf,text/state__st2012pri_Allen_D_Smith_6-19-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2183,1697|225|257
+raw/state/st2012pri_Clark_Hogan_6-19-12_Primary.pdf,text/state__st2012pri_Clark_Hogan_6-19-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2522,1859|225|434
+raw/state/st2012pri_David_Tanner_6-18-12_Primary.pdf,text/state__st2012pri_David_Tanner_6-18-12_Primary.txt,4,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3655,1878|277|291|1203
+raw/state/st2012pri_Don_E._Belnay_6-18-12_Primary.pdf,text/state__st2012pri_Don_E._Belnay_6-18-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2573,1877|326|366
+raw/state/st2012pri_Douglas_R._Hurst_6-11-12_Primary.pdf,text/state__st2012pri_Douglas_R._Hurst_6-11-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2281,1847|181|249
+raw/state/st2012pri_J._Scott_Handy_6-13-12_Primary.pdf,text/state__st2012pri_J._Scott_Handy_6-13-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3589,1849|722|1014
+raw/state/st2012pri_Jeffrey_Harris_6-18-12_Primary.pdf,text/state__st2012pri_Jeffrey_Harris_6-18-12_Primary.txt,1,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1714,1714
+raw/state/st2012pri_Jeffrey_Heiner_6-19-12_Primary.pdf,text/state__st2012pri_Jeffrey_Heiner_6-19-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2053,1750|159|140
+raw/state/st2012pri_Jennifer_Zundel_6-18-12_Primary.pdf,text/state__st2012pri_Jennifer_Zundel_6-18-12_Primary.txt,1,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1735,1735
+raw/state/st2012pri_Jim_Hutchins_6-18-12_Primary.pdf,text/state__st2012pri_Jim_Hutchins_6-18-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2653,1935|306|408
+raw/state/st2012pri_Jon_S._Ritchie_6-13-12_Primary.pdf,text/state__st2012pri_Jon_S._Ritchie_6-13-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2180,1829|177|170
+raw/state/st2012pri_Layne_Clarke_6-15-12_Primary.pdf,text/state__st2012pri_Layne_Clarke_6-15-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2268,1830|225|209
+raw/state/st2012pri_Richard_H._Favero_6-12-12_Primary.pdf,text/state__st2012pri_Richard_H._Favero_6-12-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2331,1783|267|277
+raw/state/st2012pri_Shane_B_Story_6-13-12_Primary.pdf,text/state__st2012pri_Shane_B_Story_6-13-12_Primary.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3261,1814|830|613
+raw/state/st2022_Weber_County_Candidates_General_Election_22_Financial_Disclosures.pdf,text/state__st2022_Weber_County_Candidates_General_Election_22_Financial_Disclosures.txt,52,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,60213,1949|120|1975|1673|448|831|1687|1946|398|304|1756|297|374|1838|263|165|1927|413|1002|1894|1001|2240|1796|1512|2680|1763|1849|279|376|1907|176|441|2503|1871|422|896|1934|302|987|1933|1316|1207|1921|392|549|151|1956|641|1034|1913|599|304
+raw/wayback/wb20151203045241_Gibson_financials.pdf,text/wayback__wb20151203045241_Gibson_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4192,1990|762|1436
+raw/wayback/wb20160824031236_JUlibarri_1.5.15.pdf,text/wayback__wb20160824031236_JUlibarri_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3343,1978|802|559
+raw/wayback/wb20160824031246_Thompson_financials.pdf,text/wayback__wb20160824031246_Thompson_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4945,2096|836|2009
+raw/wayback/wb20160824031350_Allred_financials.pdf,text/wayback__wb20160824031350_Allred_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3517,1920|1168|425
+raw/wayback/wb20160824031446_NHansen_1.5.15.pdf,text/wayback__wb20160824031446_NHansen_1.5.15.txt,3,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,4078,3093|391|527
+raw/wayback/wb20160824031502_16June_Harvey_Commission.pdf,text/wayback__wb20160824031502_16June_Harvey_Commission.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2382,1774|94|77|248|70|109
+raw/wayback/wb20160824031533_Kilts_financials.pdf,text/wayback__wb20160824031533_Kilts_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3036,2042|384|606
+raw/wayback/wb20160824031600_Ernest_Rowley_June_Financial.pdf,text/wayback__wb20160824031600_Ernest_Rowley_June_Financial.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,7906,2021|1328|1441|401|1842|863
+raw/wayback/wb20160824031922_TThompson_1.5.15.pdf,text/wayback__wb20160824031922_TThompson_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2545,2027|182|332
+raw/wayback/wb20160824033528_Bond_financial.pdf,text/wayback__wb20160824033528_Bond_financial.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4412,1968|1018|1422
+raw/wayback/wb20160824033548_JErickson_1.5.15.pdf,text/wayback__wb20160824033548_JErickson_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2347,1972|120|251
+raw/wayback/wb20160824033824_Leann_Kilts_June_Financials.pdf,text/wayback__wb20160824033824_Leann_Kilts_June_Financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,5907,2003|1943|1957
+raw/wayback/wb20160824033834_RHatch1.5.2015.pdf,text/wayback__wb20160824033834_RHatch1.5.2015.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2651,1935|217|495
+raw/wayback/wb20160824043243_16June_Gochnour_Commission.pdf,text/wayback__wb20160824043243_16June_Gochnour_Commission.txt,11,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,29911,2744|3140|2671|2743|3090|3196|3089|1425|3760|1827|1889
+raw/wayback/wb20160824043247_Hansen_financials.pdf,text/wayback__wb20160824043247_Hansen_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2656,2054|256|342
+raw/wayback/wb20160824043328_Ulibarri_financials.pdf,text/wayback__wb20160824043328_Ulibarri_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3331,1703|759|865
+raw/wayback/wb20160824045455_16July_Gochnour_Commission.pdf,text/wayback__wb20160824045455_16July_Gochnour_Commission.txt,3,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,5116,2772|1390|869
+raw/wayback/wb20160824045511_JBond_1.5.15.pdf,text/wayback__wb20160824045511_JBond_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2359,1936|180|239
+raw/wayback/wb20160824045524_July_Post-Primary_report.pdf,text/wayback__wb20160824045524_July_Post-Primary_report.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,9295,1955|2044|1642|448|2092|1104
+raw/wayback/wb20160824045532_LKilts_1.5.15.pdf,text/wayback__wb20160824045532_LKilts_1.5.15.txt,1,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2033,2033
+raw/wayback/wb20160824045615_JEbert_1.5.15.pdf,text/wayback__wb20160824045615_JEbert_1.5.15.txt,2,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2883,2145|736
+raw/wayback/wb20160824055025_CAllred_1.5.15.pdf,text/wayback__wb20160824055025_CAllred_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2254,1851|194|205
+raw/wayback/wb20160824055040_Ebert_financials.pdf,text/wayback__wb20160824055040_Ebert_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4727,2063|843|1817
+raw/wayback/wb20160824082859_CCombeCampaign.pdf,text/wayback__wb20160824082859_CCombeCampaign.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,7701,1733|1071|1683|1106|692|1406
+raw/wayback/wb20160824082904_Erickson_Financials.pdf,text/wayback__wb20160824082904_Erickson_Financials.txt,3,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,6825,3223|1778|1732
+raw/wayback/wb20160824082910_Hatch_financials.pdf,text/wayback__wb20160824082910_Hatch_financials.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,6511,2015|2246|2246
+raw/wayback/wb20160910181514_MBellCampaign2.pdf,text/wayback__wb20160910181514_MBellCampaign2.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4909,1896|576|2433
+raw/wayback/wb20161019231334_MBellCampaign.pdf,text/wayback__wb20161019231334_MBellCampaign.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,17576,1937|3778|3463|3466|3284|1638
+raw/wayback/wb20161020003411_KGibson_1.5.15.pdf,text/wayback__wb20161020003411_KGibson_1.5.15.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2837,1906|339|588
+raw/wayback/wb20190828041319_harvey_commission.pdf,text/wayback__wb20190828041319_harvey_commission.txt,8,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,16574,1851|2886|3083|580|2242|3148|1469|1301
+raw/y2026/2026_ugd_7e3a53_253b9fd2.pdf,text/y2026__2026_ugd_7e3a53_253b9fd2.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1634,864|468|298
+raw/y2026/2026_ugd_7e3a53_300692b1.pdf,text/y2026__2026_ugd_7e3a53_300692b1.txt,6,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4699,847|536|927|965|1171|243
+raw/y2026/2026_ugd_7e3a53_3037c6f1.pdf,text/y2026__2026_ugd_7e3a53_3037c6f1.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1835,1026|553|252
+raw/y2026/2026_ugd_7e3a53_3751da9b.pdf,text/y2026__2026_ugd_7e3a53_3751da9b.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1144,1038|71|31
+raw/y2026/2026_ugd_7e3a53_4667baf3.pdf,text/y2026__2026_ugd_7e3a53_4667baf3.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,3082,1064|1387|627
+raw/y2026/2026_ugd_7e3a53_b032cea9.pdf,text/y2026__2026_ugd_7e3a53_b032cea9.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2444,1145|533|762
+raw/y2026/2026_ugd_92078f_163de27d.pdf,text/y2026__2026_ugd_92078f_163de27d.txt,7,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,8080,1625|1244|1283|1284|1202|991|413
+raw/y2026/2026_ugd_92078f_26dc5c7e.pdf,text/y2026__2026_ugd_92078f_26dc5c7e.txt,4,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,3673,1087|554|560|1456
+raw/y2026/2026_ugd_92078f_39510beb.pdf,text/y2026__2026_ugd_92078f_39510beb.txt,2,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,2498,1626|870
+raw/y2026/2026_ugd_92078f_43ba38c9.pdf,text/y2026__2026_ugd_92078f_43ba38c9.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1092,1018|57|13
+raw/y2026/2026_ugd_92078f_443f5c0e.pdf,text/y2026__2026_ugd_92078f_443f5c0e.txt,3,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,3195,1461|1176|554
+raw/y2026/2026_ugd_92078f_4df9df3b.pdf,text/y2026__2026_ugd_92078f_4df9df3b.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1592,1031|41|516
+raw/y2026/2026_ugd_92078f_514dc4bb.pdf,text/y2026__2026_ugd_92078f_514dc4bb.txt,3,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,2623,1519|654|407
+raw/y2026/2026_ugd_92078f_6280fe33.pdf,text/y2026__2026_ugd_92078f_6280fe33.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1568,1048|341|175
+raw/y2026/2026_ugd_92078f_741f163c.pdf,text/y2026__2026_ugd_92078f_741f163c.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2197,1062|447|684
+raw/y2026/2026_ugd_92078f_863a82a7.pdf,text/y2026__2026_ugd_92078f_863a82a7.txt,5,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,5496,1406|1300|1331|1025|413
+raw/y2026/2026_ugd_92078f_916755f7.pdf,text/y2026__2026_ugd_92078f_916755f7.txt,5,pdftotext -layout + tesseract --psm 6 on blank pages,mixed,6283,1540|1255|1265|1366|829
+raw/y2026/2026_ugd_92078f_995d4b3b.pdf,text/y2026__2026_ugd_92078f_995d4b3b.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1392,1036|127|225
+raw/y2026/2026_ugd_92078f_9e369872.pdf,text/y2026__2026_ugd_92078f_9e369872.txt,4,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1530,960|294|228|42
+raw/y2026/2026_ugd_92078f_a7965ee7.pdf,text/y2026__2026_ugd_92078f_a7965ee7.txt,4,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2969,1015|516|488|944
+raw/y2026/2026_ugd_92078f_b0a9dedf.pdf,text/y2026__2026_ugd_92078f_b0a9dedf.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,4907,1082|1083|2738
+raw/y2026/2026_ugd_92078f_c0e75e41.pdf,text/y2026__2026_ugd_92078f_c0e75e41.txt,5,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2307,1052|323|459|311|154
+raw/y2026/2026_ugd_92078f_d61dc956.pdf,text/y2026__2026_ugd_92078f_d61dc956.txt,4,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1579,1010|238|10|315
+raw/y2026/2026_ugd_92078f_d8532285.pdf,text/y2026__2026_ugd_92078f_d8532285.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2033,1114|374|541
+raw/y2026/2026_ugd_92078f_e3986a38.pdf,text/y2026__2026_ugd_92078f_e3986a38.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1783,1100|311|368
+raw/y2026/2026_ugd_92078f_eae67827.pdf,text/y2026__2026_ugd_92078f_eae67827.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1491,1019|243|225
+raw/y2026/2026_ugd_92078f_f36d6ca9.pdf,text/y2026__2026_ugd_92078f_f36d6ca9.txt,4,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,2831,1060|528|336|901
+raw/y2026/2026_ugd_92078f_f7ac73e5.pdf,text/y2026__2026_ugd_92078f_f7ac73e5.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1738,1072|381|281
+raw/y2026/2026_ugd_92078f_fc638272.pdf,text/y2026__2026_ugd_92078f_fc638272.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1390,1045|203|138
+raw/y2026/2026_ugd_92078f_fd9d0787.pdf,text/y2026__2026_ugd_92078f_fd9d0787.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1724,1159|386|175
+raw/y2026/2026_ugd_92078f_fe0c94e7.pdf,text/y2026__2026_ugd_92078f_fe0c94e7.txt,3,tesseract --psm 6 (pdftoppm 300dpi gray),scanned,1550,956|354|236

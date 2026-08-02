@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "24382",
+  "path": "raw/2024/24382_Ioannides-Post-Election-2024-General.pdf",
+  "page": 1,
+  "sha256": "5203a100a96f928170784037c8e40a4b40bdf043c47101f51e2692ce8921c30d",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/24382/Ioannides-Post-Election-2024-General",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "",
+  "office_verbatim": "",
+  "party_verbatim": "",
+  "signature_date_as_printed": "Dec 5, 2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "4,765.71",
+    "previous_report": "23,744.71",
+    "cumulative_total": "28,510.42"
+   },
+   "total_expenditures": {
+    "current_report": "4,765.71",
+    "previous_report": "23,744,71",
+    "cumulative_total": "28,510.42"
+   },
+   "campaign_balance": {
+    "current_report": "0",
+    "previous_report": "",
+    "cumulative_total": "0"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "n/a",
+  "office": "n/a",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "HEADER BLANK ON THE FORM, as on this filer's Pre-Election sheet (doc 24231): the Full Name / Office / Party boxes are empty; candidate (Ari Ioannides) and office come from the portal listing. The Previous-Report expenditure cell repeats the comma-for-decimal typo '23,744,71'. Column-order cross-check: Previous Report reproduces 24231's Current figure. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

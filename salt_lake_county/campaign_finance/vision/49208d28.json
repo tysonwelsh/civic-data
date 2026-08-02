@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6,438.02",
+ "total_expenditures": "$1,013.29",
+ "beginning_balance": "$3,729.71",
+ "ending_balance": "$9,154.44",
+ "aggregate": {
+  "total_contributions_to_date": "$6,694.44",
+  "total_expenditures_to_date": "$2,964.82",
+  "line5_subtotal": "$10,167.73"
+ },
+ "cover": {
+  "candidate": "Chris William Harding",
+  "party": "Republican",
+  "office_sought": "_Auditor",
+  "district_number": "NA",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "09/14/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harding-Chris__0E90F3D5.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harding, Chris",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harding-Chris__0E90F3D5.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed on the stale '2020 Financial Disclosure Report' template though filed for the 2022 cycle. Office fields are typed with a leading underscore ('_Auditor'); recorded verbatim. Line 1 Column B ($6,694.44) is SMALLER than Line 1 Column A ($6,438.02) plus the prior period's aggregate, and Column B here is identical to the June report's Column B - the filer appears not to have advanced the aggregate column; recorded verbatim, not corrected. Digital signature stamp 09/14/22 - 6:44 AM."
+ }
+}

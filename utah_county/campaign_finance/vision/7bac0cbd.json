@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gardner_Amelia_4.4.2022_Redacted.pdf",
+ "key": "7bac0cbd",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:12:00Z",
+ "pages_read": [1, 3, 10, 11],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Amelia Powers Gardner",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat A",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "3/30/2022",
+   "summary_page": 10,
+   "totals": {
+    "contrib_this_period": "29,685.62",
+    "contrib_cumulative": "29,685.62",
+    "expend_this_period": "17,168.60",
+    "expend_cumulative": "17,168.60",
+    "balance_beginning": "3.09",
+    "subtotal_before_expend": "29,688.71",
+    "balance_close": "12,520.11"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "3.09",
+    "boxB_contributions_received_this_period": "29,685.62",
+    "boxC_contributions_received_year_to_date": "29,685.62",
+    "boxD_expenditures_made_this_period": "17,168.60",
+    "boxE_expenditures_made_year_to_date": "17,168.60",
+    "boxF_subtotal_before_expenditures": "29,688.71",
+    "balance_at_close": "12,520.11"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "THREE DIFFERENT DATES appear on the same filing, all transcribed rather than reconciled: the cover's 'Date of Report' box prints 3/30/2022 (used as report_date), the cover's signature 'Date' box prints 04/02/2022, and the summary page's 'Date of Report' box prints 3/31/2022. Every summary box prints a leading '$' (dropped per spec). Address block and signature are redacted upstream by the county (black bars), so residence_city is ''. Office prints 'Utah County Commission Seat A'; index.csv says 'County Commission Seat A' - a naming-convention difference, not a conflict. Corroboration: the Schedule A page's 'Total Contributions Received' (29,685.62) equals Boxes B and C. The close box carries no letter on this v. 4.20 sheet."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [10,11], but page 11 is NOT a second report - it is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' with two staff review sign-offs, both dated 4/4/22. ONE report emitted. Pagination oddity worth knowing: PDF page 3 is stamped report 'Page 4' while PDF page 10 is stamped report 'Page 10', so the PDF page numbers and the form's own page stamps do not line up in the front of the document. Mixed letterhead: cover (p1) Josh Daniels banner, interior/summary pages Amelia Powers Gardner banner (the filer is herself the outgoing Clerk/Auditor whose name is on the older form template). Footer 'v. 4.20' throughout."
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_30DayMillett_2.pdf",
+ "key": "934de3d9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "RAPHAEL MILLET",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "RECORDER",
+   "residence_city": "PAYSON",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "",
+   "report_date": "5/12/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "11,035.47",
+    "contrib_cumulative": "11,035.47",
+    "expend_this_period": "11,035.47",
+    "expend_cumulative": "11,035.47",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "11,035.47",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "11,035.47",
+    "line1_total_contributions_colB": "11,035.47",
+    "line2_total_expenditures_colA": "11,035.47",
+    "line2_total_expenditures_colB": "11,035.47",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "11,035.47",
+    "line5_subtotal_lines3plus4": "11,035.47",
+    "line6_total_expenditures_from_line2A": "11,035.47",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, crisp block capitals. Lines 3 and 7 are a SLASHED-ZERO glyph (a written zero), transcribed 0. NAME-SPELLING DISAGREEMENT with the portal: the county filename and index reporting_period spell the filer 'Millett' (double t); the page spells it 'MILLET' in both the Name field and the signature-block print line. NEITHER amendment box is checked - is_amendment left as an empty string, not assumed 'No'. REPORT-TYPE DISAGREEMENT: index reporting_period is '30 Day Recorder - Millett' but the checked box is 'INTERIM REPORTS - 30 Days after withdraw or elimination' (dated 5/12/2014). Index candidate is blank. Office is printed as bare 'RECORDER'; index.csv says 'County Recorder'. Summary page header shows 'Page 1 of 4'."
+  }
+ ],
+ "notes": ""
+}

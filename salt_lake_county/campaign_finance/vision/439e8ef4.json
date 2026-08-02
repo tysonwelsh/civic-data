@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "15,398",
+ "total_expenditures": "12,059.14",
+ "beginning_balance": "709.55",
+ "ending_balance": "4,048.41",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "16,107.55"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "N/A",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/21/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__859738CC.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__859738CC.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF; address/phone/email and signature redacted. Both Column B cells are EMPTY (recorded \"\") and there is no stray header-row figure on this one. Balance summary is fully self-consistent (709.55 + 15,398 = 16,107.55; 16,107.55 - 12,059.14 = 4,048.41), and Line 3 matches the April interim's Line 7. Line 1 is written without cents ('15,398')."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9470.00",
+ "total_expenditures": "4132.35",
+ "beginning_balance": "2317.01",
+ "ending_balance": "7,654.66",
+ "aggregate": {
+  "total_contributions_to_date": "17,126.26",
+  "total_expenditures_to_date": "9382.58",
+  "line5_subtotal": "11,787.01"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "3",
+  "report_type": "September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9-15-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwilde_sept152006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered at -r 130 to locate the Summary Page)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Fax copy (4 fax pages). The Summary Page is page 4, not page 2 \u2014 pages 2 and 3 are Schedule A and Schedule B. Line 1 Column A cents are a raised superscript '00'. Arithmetic closes."
+ }
+}

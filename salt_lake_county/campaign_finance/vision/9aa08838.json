@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$500",
+ "total_expenditures": "$568.40",
+ "beginning_balance": "$7,809.33",
+ "ending_balance": "$7,740.93",
+ "aggregate": {
+  "total_contributions_to_date": "$7,701.12",
+  "total_expenditures_to_date": "$1,617.36",
+  "line5_subtotal": "$8,309.33"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_12_Sept_Interim_CntyCncl6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_12_Sept_Interim_CntyCncl6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to read Column B)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Faxed copy (fax header 'Sep 17 12 01:57p Burdick & Associates'). Line 1 Column A is written '$500.' with a trailing dash denoting no cents; transcribed as $500. Line 1 Column B cents run into the cell edge and are read as .12 at medium confidence. Cents elsewhere are raised superscripts. Neither amendment box is checked. Arithmetic is internally consistent, and line 7 ($7,740.93) matches line 3 of the October report."
+ }
+}

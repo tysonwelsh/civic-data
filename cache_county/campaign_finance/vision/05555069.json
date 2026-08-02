@@ -1,0 +1,109 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "47fa3535ca9067e069e1163a85657e716d4a95b0d88eabe7cda4325709c71413",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Craig_McAllister.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Craig_McAllister.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "CRAIG McALLISTER",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "TREASURER",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "LOGAN",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "elections@cachecounty.gov / 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the Primary Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/28/2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 29 PM",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "C_contrib_ytd": {
+    "v": "0",
+    "c": "medium"
+   },
+   "D_expend_this_period": {
+    "v": "747.25",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "747.25",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "0",
+    "c": "medium"
+   },
+   "closing_balance": {
+    "v": "- 747.25",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "747.25",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Treasurer",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'TREASURER'; the printed header of the instrument reads 'Financial Campaign Report for County Offices'",
+  "confidence": "high"
+ },
+ "notes": "Six pages: 1 cover, 2 Schedule A (empty), 3 Schedule B, 4 Summary Page, 5-6 receipt attachments. Handwritten in block capitals; scan quality good. No statutory citation is printed on any page. ZERO GLYPHS: boxes A, B, C and F on the Summary Page, and both Schedule A totals ('Subtotal for this page' and 'Total Contributions Received'), are each a hand-drawn slashed/crossed O used as a zero - transcribed '0' at confidence medium per protocol rule 3. Schedule B's three printed lines are 1/2/2024 CACHE COUNTY CLERK / FILING FEE 582.68; 1/2/2024 CACHE COUNTY CLERK / CREDIT CARD SERVICE 14.57; 1/11/2024 CACHE COUNTY REPUBLICAN PARTY / Lincoln Day Dinner 150.00, and the page also carries a photocopied adding-machine tape ('582.68 * + / 14.57 + / 150.00 + / 747.25 *', marked 003) beside the printed 'Subtotal for this page $747.25' and 'Total Expenditures Made $747.25'. REPORT-TYPE ANOMALY (recorded as marked, not corrected): the marked box is 'Seven days preceding the PRIMARY Election', yet the report is dated 10/28/2024 and was received by the Clerk in late October - i.e. general-election timing; the ledger and filename call this a 2024 General filing. NAME NOTE, not a contradiction of the ledger: the page-5 Cache County Clerk payment receipt for the $582.68 filing fee names the payer 'Byron C McAllister' while the form is signed 'CRAIG McALLISTER' - consistent with a filer who goes by a middle name; both are recorded as printed and neither is merged. Page 6 is a sideways-scanned Cache County Republican Party receipt, $150.00, 2x Individual Dinner Tickets, Craig McAllister, 01/11/2024. A vertical CLERK/AUDITOR received stamp runs down the left margin of page 1; 'CLERK/AUDITOR RCVD' and '2024 OCT 29 PM' are legible, the clock time after 'PM' is not, so it is omitted rather than guessed (confidence low)."
+}

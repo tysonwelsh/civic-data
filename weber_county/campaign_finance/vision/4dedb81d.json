@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "4dedb81d",
+ "source_filing": "raw/y2026/2026_ugd_92078f_9e369872.pdf",
+ "document_id": "2026_ugd_92078f_9e369872",
+ "page_start": 1,
+ "page_end": 4,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:43:43Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Michael Nyron Thomas",
+ "office_stated": "County Commissioner Seat B",
+ "report_type_stated": "7 days before the candidates' convention - Convention",
+ "filing_date_stated": "2026-04-02",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "1995.76",
+   "cum": "1995.76"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "1995.76",
+   "cum": "1995.76"
+  },
+  "ending_balance": {
+   "last": "",
+   "this": "0",
+   "cum": "0"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED summary with a HANDWRITTEN correction: the ending-balance cells were typed 1995.76, then struck through and replaced with a handwritten 0 initialled 'MT'. The corrected value (0) is transcribed; the struck 1995.76 is recorded here. County-redacted address."
+}

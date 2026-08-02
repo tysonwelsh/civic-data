@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "21,302.72",
+ "total_expenditures": "29,737.94",
+ "beginning_balance": "15,977.52",
+ "ending_balance": "7,542.30",
+ "aggregate": {
+  "total_contributions_to_date": "66,194.98",
+  "total_expenditures_to_date": "58,652.68",
+  "line5_subtotal": "37,280.24"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - District 4",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "October 30",
+  "report_date": "10/31/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "is_amendment": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_Oct_Council4_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_Oct_Council4_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO Type-of-Report box is checked on this form at all \u2014 not April 5, June 19, September 15, October 30, Year-End, or Final \u2014 so report_type is left as an empty string rather than assumed from the filename. The only thing checked is 'Is this report an amendment? Yes', with the date written as the word-form 'October 30'. It amends key 0c7d8d66: line 2 Column A moves 29,437.94 -> 29,737.94, Column B 58,352.68 -> 58,652.68, and line 7 7,842.30 -> 7,542.30 (a $300 revision). The amended line 7 (7,542.30) is the figure that carries into the January year-end. Arithmetic self-consistent."
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "77158.77",
+ "total_expenditures": "30865.39",
+ "beginning_balance": "70306.91",
+ "ending_balance": "116600.29",
+ "aggregate": {
+  "total_contributions_to_date": "77158.77",
+  "total_expenditures_to_date": "30865,39",
+  "line5_subtotal": "147465.68"
+ },
+ "cover": {
+  "candidate": "Peter Corroon",
+  "party": "Dem",
+  "office_sought": "MAYOR",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_pcorroon_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Peter Corroon",
+  "office": "Mayor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_pcorroon_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL 2007 year-end report (its amendment is key 2db59d51, which changed only a donor name, not any amount). Older template (04pccfindisc.doc); Column B is headed 'Aggregate Total'; the top-row 'Office' box also reads 'MAYOR'. Neither amendment box is checked. Figures are written without thousands commas ('77158.77', '30865.39', '70306.91', '147465.68'); line 7 is written with a space ('116 600.29'); line 2 Column B and line 6 use a DECIMAL COMMA ('30865,39'), recorded verbatim. Confirmed at 260 dpi; every line reconciles (70,306.91 + 77,158.77 = 147,465.68; \u2212 30,865.39 = 116,600.29). Note the large carried-in balance on line 3 with no prior report in this chunk."
+ }
+}

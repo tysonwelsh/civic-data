@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "4,137.00",
+ "beginning_balance": "7,657.87",
+ "ending_balance": "3,520.87",
+ "aggregate": {
+  "total_contributions_to_date": "76,768.50",
+  "total_expenditures_to_date": "73,247.63",
+  "line5_subtotal": "7,657.87"
+ },
+ "cover": {
+  "candidate": "MARK CROCKETT",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNCIL",
+  "district_number": "#4",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_mcrockett_yearendreport1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_mcrockett_yearendreport1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to read the Column B figures and the Line 1 mark)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant with a top-row 'Office' box reading 'County Council'. Lines 1 and 4 Column A are a single short DIAGONAL STROKE through the cell (not a figure and not blank) - the filer's nil mark - recorded as 0 at medium confidence per the corpus convention that a drawn stroke means zero; Line 5 repeating Line 3 unchanged is consistent with that reading. Line 1 Column B (76,768.50) is written in a crossed-seven hand and is recorded at medium confidence. Arithmetic consistent (7,657.87 - 4,137.00 = 3,520.87)."
+ }
+}

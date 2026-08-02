@@ -11,7 +11,15 @@ dataset built by `expand-city-sources` Source 6. **As-of 2026-07-02.**
   from the Internet Archive (2021, old `sgcity.org` domain).
 - `text/` — one **OCR sidecar per packet** (`tesseract --psm6 @200dpi`). Machine OCR of
   scanned forms — **expect errors; not authoritative for amounts.**
-- `index.csv` — **104 rows**, one per (candidate, packet).
+- `index.csv` — **106 rows**, one per (candidate, packet) — 104 city-packet rows + **2
+  state-channel AMENDED 2023 filings** (`filing_type=amended`,
+  `source_archive=state_disclosures`, added 2026-08-01; single-candidate PDFs from
+  `municipal.utah.gov` via `disclosures.utah.gov/Municipal/washington_2024_St. George`).
+  Each amendment supersedes its same-period original in the money layer (driver marker
+  `superseded by amendment/re-file`); originals kept verbatim. Larkin's amendment restates
+  the 2023 pre-primary ($24,690→$22,555 raised, $14,978.31→$11,804.99 spent → 2023 cycle
+  total $33,610/$31,491.92); Kemp's re-files unchanged figures. Both vision-transcribed
+  (claude-fable-5, 2026-08-01), itemized sums = stated totals exactly.
 - `build_index.py` — regenerates `index.csv` from the packet→candidate mapping (the
   mapping is hard-coded there, derived from the OCR "Full Name of Candidate" fields).
 - `AVAILABILITY.md` — per-source what-exists / what-doesn't + the 2019 gap.
@@ -137,7 +145,8 @@ hand-edit** (`python3 build_finance.py`); corrections go to `finance_overrides.c
   correctly SUMS St. George's incremental year-end reports instead of dropping the interims.
   `cycle_totals.csv` = **40 candidate-cycles, 0 review flags** — **read it for any candidate/race
   total; never sum `filing_totals` yourself.**
-- **Rows:** contributions **1,354**, expenditures **1,103**, filing_totals **104**.
+- **Rows:** contributions **1,450**, expenditures **1,134**, filing_totals **106** (the two
+  2026-08-01 amendments add 80+16 contribution and 21+10 expenditure rows).
   `donor_type`: individual 1109 · business 80 · candidate-self 69 · unknown 43 ·
   **family-of-candidate 32** · loan 11 · anonymous 5 · pac 2 · party 2 · carryover 1.
   extract_method: vision 937 · ocr 413 · ocr+repair 4 (contributions).

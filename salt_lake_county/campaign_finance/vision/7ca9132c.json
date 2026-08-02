@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "44,646.00",
+ "total_expenditures": "82,381.08",
+ "beginning_balance": "41,070.23",
+ "ending_balance": "3,335.15",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "85,716.23"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Mayor",
+  "district_number": "Countywid",
+  "report_type": "January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "2/1/2021",
+  "report_date": "1/30/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Wilson-Jennifer__CE8EF5B5.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Wilson, Jennifer",
+  "office": "Mayor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Wilson-Jennifer__CE8EF5B5.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "AMENDMENT of a 2/1/2021 report, but signed 1/30/2023 and filed into the 2022 EasyVote cycle (the clerk listing labels it '2021_02_01_Wilson_Disclosures_amended'). The report-type box checked is the January-31 year-end. The amendment's target year (2021) and its filing year (2023) are three cycles apart - recorded verbatim, not reconciled. 'District Number' box is clipped to 'Countywid'. Column B left blank."
+ }
+}

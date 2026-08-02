@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "153.23",
+  "total_expenditures_to_date": "153.23",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "STEVEN F. SHAMY SR.",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNTY COUNCIL #3",
+  "district_number": "",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006); Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-20-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_shamy_steven06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven F. Shamy Sr.",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_shamy_steven06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TWO boxes checked: the June 20 interim AND the Final Report box. Every Column A cell (lines 1-7) is a hand-drawn slashed zero (\u00d8) - recorded as 0. The candidate wrote the district into the Office Sought box ('COUNTY COUNCIL #3'), leaving the District Number box itself empty. Summary-page header box is blank. Neither amendment box is checked. Filed together with a separate Dissolution of a Candidate Campaign notice (key 7466a510)."
+ }
+}

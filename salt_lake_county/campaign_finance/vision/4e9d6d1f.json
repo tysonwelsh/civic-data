@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Craig Ward",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ward_C_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Craig Ward",
+  "office": "County #4",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ward_C_Dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice on yellow paper \u2014 no Summary Page, all totals null (honest, not a failure). This older dissolution form has no office field, so office_sought is blank: committee 'Craig Ward', candidate 'Craig Ward', secretary 'Craig Ward', committee established 'March 2012'. Signed 1/31/13, received JAN 31 2013 \u2014 the same day as the year-end report (key f671874c) that shows the account closing at zero."
+ }
+}

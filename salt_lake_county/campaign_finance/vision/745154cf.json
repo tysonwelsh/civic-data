@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7.50 (est)",
+ "total_expenditures": "0",
+ "beginning_balance": "201.03",
+ "ending_balance": "208.53",
+ "aggregate": {
+  "total_contributions_to_date": "7.50",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "208.53"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REP.",
+  "office_sought": "COUNTY COUNCIL #3",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_dwilde_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_dwilde_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant with TWO office boxes: the 'Office Sought' box is BLANK, so office_sought is taken from the top-row 'Office' box, which reads 'COUNTY COUNCIL #3'; the District Number box is blank (the #3 is part of the office string). Neither amendment box is checked. Line 1 Column A is annotated by the filer: '7.50 (est)' - the '(est)' is written on the form and is kept verbatim; Column B for the same line is a plain '7.50'. Line 2 Columns A and B and Line 6 are written as a dash-zero-dash ('- 0 -') = 0. The document is a FAX copy (header 'Feb 02 09 02:22p Rocky Mountain Verdicts 801 268 2321'); the Summary Page's Date of Report box is blank. Arithmetic consistent (201.03 + 7.50 = 208.53)."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$400.00",
+ "total_expenditures": "$890.20",
+ "beginning_balance": "$8,827.71",
+ "ending_balance": "$8,337.51",
+ "aggregate": {
+  "total_contributions_to_date": "$400.00",
+  "total_expenditures_to_date": "$890.20",
+  "line5_subtotal": "$9,227.71"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Gill_S_12_Final_DA_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Gill_S_12_Final_DA_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FORM FACE vs FILENAME: the file is named '..._12_Final_...' and the clerk listing calls it a Summary Report, but the only box checked is YEAR-END REPORT (January 31); the Final / Dissolution box is NOT checked. This 2012-vintage form has no top-row 'Office' box (only Political Party) and labels Column B 'Year to Date' rather than 'Aggregate Total'. Arithmetic self-consistent."
+ }
+}

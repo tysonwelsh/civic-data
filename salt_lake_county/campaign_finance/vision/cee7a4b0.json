@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "13,710",
+ "total_expenditures": "7,895.44",
+ "beginning_balance": "3,745.39",
+ "ending_balance": "9,559.95",
+ "aggregate": {
+  "total_contributions_to_date": "23,170",
+  "total_expenditures_to_date": "13,610.05",
+  "line5_subtotal": "17,455.39"
+ },
+ "cover": {
+  "candidate": "Joseph Demma",
+  "party": "Republican",
+  "office_sought": "County Council At-Large",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/11/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_Sept_Interim_Amend_CntyCncl_AtLrgC_Reda.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_Sept_Interim_Amend_CntyCncl_AtLrgC_Reda.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250 cropped to verify the signature date)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form. The clerk listing filename says 'Amend' but NEITHER amendment box (Yes/No) is checked on the form face, so is_amendment is left empty. Top-row Office reads 'County Council'; the separate Office Sought line reads 'County Council At-Large' (used). District Number cell is blank (the Office Sought handwriting runs across it). Signature date leading digit is ambiguous between 7 and 9 even at 250 dpi; read as 9/11/12, consistent with the clerk RECEIVED stamp of SEP 12 2012 \u2014 recorded at medium confidence. Summary arithmetic is internally consistent (3,745.39 + 13,710 = 17,455.39; less 7,895.44 = 9,559.95). Lines 1 and 4 are written without cents."
+ }
+}

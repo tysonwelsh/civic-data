@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Ellertson061812.pdf",
+ "key": "e00a4fae",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:11:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Larry Alton Ellertson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat C",
+   "residence_city": "Lindon",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-18-12",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "8924.31",
+    "contrib_cumulative": "8924.31",
+    "expend_this_period": "9759.51",
+    "expend_cumulative": "9759.51",
+    "balance_beginning": "8265.18",
+    "subtotal_before_expend": "17189.49",
+    "balance_close": "7429.98"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "8924.31",
+    "line1_total_contributions_colB": "8924.31",
+    "line2_total_expenditures_colA": "9759.51",
+    "line2_total_expenditures_colB": "9759.51",
+    "line3_balance_beginning": "8265.18",
+    "line4_total_contributions_from_line1A": "8924.31",
+    "line5_subtotal_lines3plus4": "17189.49",
+    "line6_total_expenditures_from_line2A": "9759.51",
+    "line7_balance_at_close": "7429.98"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink, legible cursive; no dollar signs and no thousands commas anywhere on the summary page - amounts transcribed exactly as written (e.g. '17189.49', not '17,189.49'). The verification block shows the middle name struck and rewritten: 'Larry [Alton struck] Ellertson' with 'Ellertson' continuing - the cover's Name of Candidate line, which reads cleanly 'Larry Alton Ellertson', is used for candidate_printed. Office Seeking reads 'Utah County Commission Seat C' and AGREES with office_index 'County Commission Seat C'. candidate_index was blank. AMENDMENT: 'No' is checked. Clerk stamps: 'JUN 18 PM 4:53' (margin) and 'JUN 19 AM 11:26' (Date received). Page box reads 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

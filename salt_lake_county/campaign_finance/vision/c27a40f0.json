@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "730.00",
+ "total_expenditures": "620.00",
+ "beginning_balance": "40.42",
+ "ending_balance": "150.42",
+ "aggregate": {
+  "total_contributions_to_date": "730.00",
+  "total_expenditures_to_date": "620.00",
+  "line5_subtotal": "770.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large C",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_jbradley_yearendsumm.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_jbradley_yearendsumm.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant with a separate top-row 'Office' box, which reads 'County Council' and matches the Office Sought entry; the District Number box holds 'At-Large C'. Neither amendment box is checked. On Lines 1, 2, 4 and 6 the cents are written as a raised DASH ('730.-', '620.-'), the accounting shorthand for .00; recorded as .00 per the corpus dash-equals-zero convention, at medium confidence. Arithmetic consistent (40.42 + 730.00 = 770.42; minus 620.00 = 150.42). The Summary Page header boxes are blank."
+ }
+}

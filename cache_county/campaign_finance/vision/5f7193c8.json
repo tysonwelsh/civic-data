@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "83972c46db4af131aa8da9441e3072e8bfd29b7bb7307808ad1ea5c0f95a4612",
+ "canonical_path": "raw/2010/2010_wb_lnelson.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_lnelson.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Gerald Lynn Nelson",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Sheriff",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/19/10",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 20 OCT 2010 PM 04:07",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "784.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "784.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "388.06",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "388.06",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "395.94",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Sheriff",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Sheriff'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Line 1 is written with a stray comma ('7,84.00' / '784,00'); read as 784.00 on both boxes. Line 2 THIS-REPORT carries a dash, recorded blank."
+}

@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14WriteIn-Freeze.pdf",
+ "key": "06dd70a9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Freeze",
+   "party_printed": "Write-in",
+   "office_printed": "Commission Seat A",
+   "residence_city": "Highland",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10/28/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "21,753.55",
+    "contrib_cumulative": "21,753.55",
+    "expend_this_period": "11,604.56",
+    "expend_cumulative": "11,604.56",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "21,753.55",
+    "balance_close": "10,148.99"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "21,753.55",
+    "line1_total_contributions_colB": "21,753.55",
+    "line2_total_expenditures_colA": "11,604.56",
+    "line2_total_expenditures_colB": "11,604.56",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "21,753.55",
+    "line5_subtotal_lines3plus4": "21,753.55",
+    "line6_total_expenditures_from_line2A": "11,604.56",
+    "line7_balance_at_close": "10,148.99"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink, legible. The Political Party field reads 'Write-in' (the filer entered his ballot status, not a party) - transcribed verbatim; the index reporting_period likewise labels this a write-in filing. NEITHER amendment box is checked (Yes and No both empty), so is_amendment is left '' rather than assumed No. Cents are written as a raised superscript over the dollars. Line 3 is a plain written '0'. The summary page's own header boxes (Page / of, Candidate's Last Name, Date of Report) were left ENTIRELY BLANK by the filer, so report_date is taken from the cover signature date 10/28/14. Illegible pencil marginalia (a name, possibly 'Scott Bryan') appears in the bottom-left corner of the cover page - not transcribed. County date stamp OCT 28 PM3:0? (last digit not legible)."
+  }
+ ],
+ "notes": ""
+}

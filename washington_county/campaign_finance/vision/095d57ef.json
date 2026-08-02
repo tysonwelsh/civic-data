@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_outpost/Tom Durrant_Assessor_FCR_10-26-2024.pdf",
+ "channel": "live_outpost",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_outpost/Tom Durrant_Assessor_FCR_10-26-2024.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_outpost/Tom Durrant_Assessor_FCR_10-26-2024.pdf",
+   "doc_kind": "statement",
+   "sha256": "4c1d9f1c83f33fc4bdf25852a0970cc135a3a4f78e980de26b7105a39d1059ab",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Tom Durrant",
+  "office": "Assessor",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Assessor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "TOM DURRANT",
+ "index_reporting_year": "2024",
+ "index_cycle_year": "2024",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "10-15-24",
+   "period_start": "6/12/2024",
+   "period_end": "10/15/2024",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "640.20",
+   "contrib_gt50_last": "640.20",
+   "contrib_gt50_this_printed": "35.55",
+   "contrib_gt50_this": "35.55",
+   "contrib_gt50_cum_printed": "675.75",
+   "contrib_gt50_cum": "675.75",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "640.20",
+   "expenses_last": "640.20",
+   "expenses_this_printed": "35.55",
+   "expenses_this": "35.55",
+   "expenses_cum_printed": "675.75",
+   "expenses_cum": "675.75",
+   "balance_last_printed": "-",
+   "balance_last": "",
+   "balance_this_printed": "-",
+   "balance_this": "",
+   "balance_end_printed": "-",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "3-LINE typed form; balance row prints accounting dashes"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T02:52:13Z"
+}

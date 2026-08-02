@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "62,710.00",
+ "total_expenditures": "",
+ "beginning_balance": "8,668.09",
+ "ending_balance": "32,098.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "21,943.91",
+  "line5_subtotal": "54,041.91"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2008)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm the balance figures)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The signature Date line is blank (the clerk's RECEIVED stamp, Oct 28 2008, overlaps it); the Summary Page's own 'Date of Report' box reads 'Oct. 28/08'. ARITHMETIC INCONSISTENCY on the form, kept verbatim: Line 5 (54,041.91) is not Line 3 + Line 4 (which would be 71,378.09) - it equals Line 4 minus Line 3, as though the 8,668.09 beginning balance were negative; no minus sign is printed. Lines 6/7 are internally consistent with Line 5. Line 2 Column A is blank; the expenditure figure is only in Column B."
+ }
+}

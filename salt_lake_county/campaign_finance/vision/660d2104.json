@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,293.00",
+ "total_expenditures": "$5,177.44",
+ "beginning_balance": "$9,154.36",
+ "ending_balance": "$5,269.92",
+ "aggregate": {
+  "total_contributions_to_date": "$13,853.96",
+  "total_expenditures_to_date": "$8,584.04",
+  "line5_subtotal": "$10,447.36"
+ },
+ "cover": {
+  "candidate": "Chris William Harding",
+  "party": "Republican",
+  "office_sought": "_Auditor",
+  "district_number": "NA",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "Yes",
+  "amendment_of": "2022-11-01",
+  "report_date": "11/01/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harding-Chris__70CD4215.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harding, Chris",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harding-Chris__70CD4215.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDMENT: the Yes box is checked with 'date of report 2022-11-01' - i.e. it amends the same-day 10/31-11/01 general-election report (see key 365a2de5, which reports different Column A figures for the same period: $580.00 contributions / $4,464.44 expenditures vs $1,293.00 / $5,177.44 here). Line 5 - Line 6 = $5,269.92, matching Line 7. Beginning balance $9,154.36 differs by 8 cents from the September report's closing balance ($9,154.44); recorded verbatim. Stale '2020' form template."
+ }
+}

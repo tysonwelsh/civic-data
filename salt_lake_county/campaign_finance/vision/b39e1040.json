@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "545.00",
+ "total_expenditures": "4173.54",
+ "beginning_balance": "4061.62",
+ "ending_balance": "433.08",
+ "aggregate": {
+  "total_contributions_to_date": "7436.46",
+  "total_expenditures_to_date": "7003.38",
+  "line5_subtotal": "4606.62"
+ },
+ "cover": {
+  "candidate": "Benjamin Kendrick",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "1",
+  "report_type": "Interim Report: October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "31 Oct 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/bkendrick_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Benjamin Kendrick",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/bkendrick_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. Line 5 Column A is written '4606 62' with a gap where the decimal point should be (recorded as 4606.62, medium). The clerk hand-wrote 'Received Salt Lake County Clerk' plus initials in the page-1 footer margin, over an OCT 31 2006 received stamp. Both columns are internally consistent (4,061.62 + 545.00 = 4,606.62; minus 4,173.54 = 433.08; and 7,436.46 - 7,003.38 = 433.08)."
+ }
+}

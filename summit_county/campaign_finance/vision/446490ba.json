@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "24231",
+  "path": "raw/2024/24231_Ioannides-Pre-Election-2024-General.pdf",
+  "page": 1,
+  "sha256": "616562429157ed96eb6cee0a8e994b21acbdfab6b64f9a7193f00804bf6bc205",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/24231/Ioannides-Pre-Election-2024-General",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "",
+  "office_verbatim": "",
+  "party_verbatim": "",
+  "signature_date_as_printed": "October 29, 2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "23,744.71",
+    "previous_report": "N/A",
+    "cumulative_total": "23,744,71"
+   },
+   "total_expenditures": {
+    "current_report": "23.744.71",
+    "previous_report": "",
+    "cumulative_total": "32,744.71"
+   },
+   "campaign_balance": {
+    "current_report": "0",
+    "previous_report": "",
+    "cumulative_total": "0"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "n/a",
+  "office": "n/a",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "HEADER BLANK ON THE FORM: the Full Name / Office Filed For / Party boxes of this 2024 sheet were left empty by the filer; the candidate (Ari Ioannides) and office come from the county portal listing, NOT from the document. Three filer typography errors retained verbatim: cumulative contributions written '23,744,71' (comma for the decimal point), current expenditures written '23.744.71' (period for the thousands separator), and cumulative expenditures written '32,744.71' against a current of 23,744.71. Nothing corrected. Confidence on the stated totals is MEDIUM because the promotion has to choose between two typo-bearing cells: the cumulative contributions cell does not parse (comma decimal) so the Current 23,744.71 is promoted, while the cumulative expenditure cell parses as 32,744.71 and is promoted even though the Current cell (unparseable '23.744.71') suggests 23,744.71. Nothing was repaired. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

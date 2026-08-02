@@ -88,6 +88,43 @@ survive every handoff. The cardinal rules themselves are in CLAUDE.md.
   siblings on the same agenda fetch fine; walled rows use `fetch_status=error:auth_wall`.
 - **CivicEngage is Akamai-403 to plain fetchers** — urllib + archive-browser UA works
   (taylorsville).
+- **The PMN JSON search silently IGNORES a `keyword` param** and returns an unfiltered
+  entity browse that LOOKS like a hit — a keyword-based negative is not a negative. Honored
+  fields: entityName/publicBodyName/title/agenda/tags/startDate/endDate (dates YYYY-MM-DD),
+  paginate via startingRow at 25/page (juab CF determination, 2026-08-01).
+- **disclosures.utah.gov `/Municipal` folder labels lie BOTH ways** (2026-08-01 wave):
+  county-office filings hide in candidate's-RESIDENCE-TOWN subfolders (juab sheriff under
+  `juab_2014_Mona`; washington's whole 2010 county field under `2010 Elections`, commission
+  filings under a `Local School Board` folder), AND the 17-16-6.5 county form header
+  false-positives (clerks hand the county blank form to municipalities/special districts —
+  summit 29, washington 6). Classify by the **office line inside the form** + even-year
+  cycle parity; header = supporting evidence only. Files serve from `municipal.utah.gov`
+  with **BACKSLASH paths** (URL-encode `%5C`); directory listings 403 but direct file URLs
+  serve.
+- **ZERO-GLYPH RULING (owner, 2026-08-02, repo-wide):** in any transcription, a glyph that
+  DENOTES the digit zero — slashed zero `Ø`, `-0-`, or the written word "zero" — transcribes
+  as **0** with the verbatim glyph preserved in the cache/notes; a bare dash, `N/A`, or an
+  empty cell stays BLANK (a nil mark is not a numeral). Utah County's `-0-`/"Zero" whitelist,
+  summit's 7 promoted Ø cells and wasatch's Kahler "zero" all follow it; weber's 10 dash
+  balances correctly stay blank.
+- **Vision transcription renders FULL pages, never cropped** — an improvised "top 80%"
+  crop silently cut the signature-date line off most Summit CF covers (45 recoverable
+  dates lost until the 2026-08-02 re-read); a crop that saves tokens costs fields you
+  didn't know were below the fold.
+- **Wayback can return HTTP 200 with a ZERO-BYTE body on a valid capture** — check bytes,
+  not status; an immediate re-request often recovers the file (washington CF, 2026-08-01).
+- **SLCo EasyVote API** (saltlakecountyut.easyvotecampaignfinance.com): open JSON API, no
+  auth — token via `GET /authentication/getwebsiteuser/saltlakecountyut`, itemized data via
+  `/advancedsearch/{contributions,distributions}/{customerId}` with the
+  `Easy-Vote-Authenticated-User` + `ZUMO-API-VERSION: 2.0.0` headers; **403 to
+  `Python-urllib` UA — send a browser UA**. Full recipe:
+  `salt_lake_county/campaign_finance/RECON.md`.
+- **disclosure.saltlakecounty.gov (pre-2022 SLCo CF portal) is BigIP-dead to ALL scripting**
+  (302-loop or TCP reset under every UA/TLS/cookie combo; Wayback has folder metadata but
+  not the `/Report/{id}` pages). Browser automation or GRAMA are the only recovery paths.
+- **Wix-hosted county sites** (weberelections.gov): `_files/ugd/` objects 429 plain urllib —
+  send `Accept` + same-site `Referer`; some objects need a curl fallback
+  (weber `fetch_cf.py`).
 
 ## Standing constraints (cardinal-rule corollaries)
 

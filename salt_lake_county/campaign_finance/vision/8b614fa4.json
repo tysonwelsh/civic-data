@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "229.85",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "DON W. JOHNSTUN",
+  "party": "LIBERTARIAN",
+  "office_sought": "SLC COUNCIL SEAT C AT LARGE",
+  "district_number": "1110",
+  "report_type": "January 31 of each year + Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-26-2007",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/djohnstun_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Don W. Johnstun",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/djohnstun_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. District Number box reads '1110' although the seat named in Office Sought is at-large; transcribed as printed (verified on a 300dpi crop). Summary Page header: Page 1 of 3, JOHNSTUN, 1-26-2007. Every value cell except Line 1 Column B holds a hand-drawn oval read as 0 (medium confidence). Internal inconsistency retained as printed: Line 1 Column B is 229.85 while Line 1 Column A and every balance line are 0."
+ }
+}

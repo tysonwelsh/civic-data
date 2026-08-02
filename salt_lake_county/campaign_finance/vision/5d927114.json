@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$580.20",
+ "total_expenditures": "$580.20",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$580.20",
+  "total_expenditures_to_date": "$580.20",
+  "line5_subtotal": "$580.20"
+ },
+ "cover": {
+  "candidate": "CHARLES A. BONSALL",
+  "party": "LIBERTARIAN",
+  "office_sought": "SL COUNTY CLERK",
+  "district_number": "-",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/3/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cbonsall_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Charles Bonsall",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/cbonsall_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The filer draws the second digit as a slashed/open 8, so at 110 dpi several cells could be misread as 570.20; at 300 dpi they are all the same glyph, and Bonsall's own October filing (key f5a0b3e5) carries a Column B aggregate of 1,543.11 against a period figure of 962.91, which reconciles only if this filing is 580.20 \u2014 so 580.20 it is. Line 1 Column B is the least legible cell (medium). A '$' is written above each figure. Lines 3 and 7 Column A are written '-0-'. The District Number field carries a dash. Neither amendment box is checked. Stamped COPY / RECEIVED APR 03 2006."
+ }
+}

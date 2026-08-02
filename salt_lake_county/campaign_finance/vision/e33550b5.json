@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6,588.40",
+ "total_expenditures": "4,435.96",
+ "beginning_balance": "102.64",
+ "ending_balance": "2,255.08",
+ "aggregate": {
+  "total_contributions_to_date": "7,288.40",
+  "total_expenditures_to_date": "5,033.32",
+  "line5_subtotal": "6,691.04"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "County MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "06/17/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_june17report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_june17report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL June 17 report (its amendment is key 5f047af5). Neither amendment box is checked here. Page box reads 'Page 2 of 6'. Every line reconciles internally (102.64 + 6,588.40 = 6,691.04; \u2212 4,435.96 = 2,255.08) and Column B chains correctly off the April report (700.00 + 6,588.40 = 7,288.40; 597.36 + 4,435.96 = 5,033.32). The later amendment restates lines 1 and 2 upward by 20.38 each while leaving line 7 unchanged."
+ }
+}

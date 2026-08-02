@@ -1,0 +1,57 @@
+{
+ "path": "raw/2021/2021_Powers__Gardner.pdf",
+ "key": "8a0eb2ca",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Amelia Powers Gardner",
+   "party_printed": "",
+   "office_printed": "Utah County Commission Seat A",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "",
+   "is_amendment": "",
+   "report_date": "4/02/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "8198.17",
+    "contrib_cumulative": "8198.17",
+    "expend_this_period": "9893.07",
+    "expend_cumulative": "9893.07",
+    "balance_beginning": "1697.99",
+    "subtotal_before_expend": "9896.16",
+    "balance_close": "3.09"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "1697.99",
+    "boxB_contributions_received_this_period": "8198.17",
+    "boxC_contributions_received_year_to_date": "8198.17",
+    "boxD_expenditures_made_this_period": "9893.07",
+    "boxE_expenditures_made_year_to_date": "9893.07",
+    "boxF_subtotal_before_expenditures": "9896.16",
+    "balance_at_close": "3.09"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "low",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": ["report_type_printed", "is_amendment"],
+   "notes": "Born-digital fillable form, digitally signed (signature block reads 'Digitally signed by Amelia Powers Gardner, Date: 2022.04.02 17:02:21 -06'00''); figures are typed. NO report-type radio button is marked on the cover page - all five circles are empty, so report_type_printed is left blank rather than inferred; likewise neither amendment radio (No / Yes) is marked, so is_amendment is ''. The form prints no political-party field. DISAGREEMENT WITH THE INDEX: index.csv carries election_year 2021 / reporting_period 'Special Election' / office blank, but the page face is dated 4/02/2022 and its Office field reads 'Utah County Commission Seat A'. Page 5 is the county's internal CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST (staff-reviewed 4/4/22 and 4/1/2022), not a second summary page - only one report is present."
+  }
+ ],
+ "notes": ""
+}

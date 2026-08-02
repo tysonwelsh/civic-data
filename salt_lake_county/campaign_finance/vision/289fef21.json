@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6700",
+ "total_expenditures": "7,268.73",
+ "beginning_balance": "577.90",
+ "ending_balance": "9.17",
+ "aggregate": {
+  "total_contributions_to_date": "6700",
+  "total_expenditures_to_date": "7,268.73",
+  "line5_subtotal": "7277.90"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "#1",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/5",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/hatch_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/hatch_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (all 22 pages also rendered at -r 40 as a contact sheet to confirm the document is one report plus attachments)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant: Column B is headed 'Year-to-Date Total' rather than 'Aggregate Total'. Line 1 Columns A and B are written '$6700 \u2013' (a dash in place of the cents); transcribed as 6700. Line 7 carries a hand-written asterisk and the footnote '* BANK ACCOUNT INCLUDES $150.00 EXPENSE CHECKS NEVER CASHED.' \u2014 the 9.17 is the form's figure and is kept verbatim. The PDF is 22 pages but is ONE report: pages 1-5 are the form (cover, Summary, Schedule A, two Schedule B pages, matching the form's own 'page N of 5') and pages 6-22 are attached Wells Fargo 'Joe Hatch For Council' bank statements. Arithmetic closes."
+ }
+}

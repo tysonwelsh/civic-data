@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_Bowen.pdf",
+ "key": "6e4d607a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:18:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Jeanne Bowen",
+   "party_printed": "democrat",
+   "office_printed": "Utah County Commissioner Seat B",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "29 Oct 2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "647.22",
+    "expend_cumulative": "647.22",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": "647.22"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "647.22",
+    "line2_total_expenditures_colB": "647.22",
+    "line3_balance_beginning": "",
+    "line4_total_contributions_from_line1A": "",
+    "line5_subtotal_lines3plus4": "",
+    "line6_total_expenditures_from_line2A": "647.22",
+    "line7_balance_at_close": "647.22"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "medium",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "low",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. NO DIGIT is written in lines 1 (both columns), 4 and 5 - the filer drew a plain horizontal DASH in each of those cells; a dash is not a zero, so those slots are '' (not '0'). Line 3 (Balance at Beginning) is genuinely EMPTY - no dash, no digit. Line 7 as written is 647.22 even though it is the same figure as line 6 expenditures with nothing on line 5 - a filer arithmetic inconsistency, transcribed verbatim and NOT corrected. Report-type: the 'Seven days preceding the General Election' box carries a clear handwritten check; the 'Seven days preceding the Primary Election' box a few lines above carries a faint smudge/partial mark that may be a scan artifact - only the General box is reported as checked (medium confidence). Neither amendment Yes nor No is checked, so is_amendment is ''. The summary page's own header boxes (Page, Last Name, Date of Report) were left blank; report_date is the cover signature date. Summary page prints the 2016 form year ('2016 County & Local School Board Candidates') in a 2018 filing - the filer reused an older summary sheet."
+  }
+ ],
+ "notes": ""
+}

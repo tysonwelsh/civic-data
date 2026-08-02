@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_Commission.Spencer.pdf",
+ "key": "3dfdfe9f",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:38:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Timothy William Spencer",
+   "party_printed": "Republican",
+   "office_printed": "Commissioner",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "04-23-18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "748.31",
+    "contrib_cumulative": "748.31",
+    "expend_this_period": "748.31",
+    "expend_cumulative": "748.31",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "748.31",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "748.31",
+    "line1_total_contributions_colB": "748.31",
+    "line2_total_expenditures_colA": "748.31",
+    "line2_total_expenditures_colB": "748.31",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "748.31",
+    "line5_subtotal_lines3plus4": "748.31",
+    "line6_total_expenditures_from_line2A": "748.31",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; the page is stamped 'COPY' and hand-paginated '- 1 -' / '- 2 -'. The filer wrote each in-cell figure and then RE-WROTE the same figure in parentheses beside/below the cell in a second, cleaner hand ('(748.31)' beside lines 1, 2, 4, 5 and 6) - the parentheticals duplicate the in-cell values and add nothing new; the in-cell values are transcribed. Lines 3 and 7 are slashed-zero glyphs, transcribed as '0'. The OFFICE FIELD SAYS ONLY 'Commissioner' - no seat letter, so it neither confirms nor contradicts office_index 'County Commission Seat B'. Summary header: 'Page 2 of 2, Spencer, Date of Report 04-23-18'."
+  }
+ ],
+ "notes": ""
+}

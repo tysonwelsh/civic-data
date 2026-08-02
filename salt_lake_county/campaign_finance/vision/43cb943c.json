@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$801.80",
+ "beginning_balance": "$847.51",
+ "ending_balance": "$45.71",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$801.80",
+  "line5_subtotal": "$847.51"
+ },
+ "cover": {
+  "candidate": "Arlyn Bradshaw",
+  "party": "Democrat",
+  "office_sought": "_Council - District",
+  "district_number": "1",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "04/05/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Bradshaw-Arlyn__88E0C703.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Bradshaw, Arlyn",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Bradshaw-Arlyn__88E0C703.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed/electronic form; the TITLE reads \"2020 Financial Disclosure Report\" for an April 5, 2022 interim (stale template)."
+ }
+}

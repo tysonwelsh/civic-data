@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "1,012.30",
+ "ending_balance": "1,012.30",
+ "aggregate": {
+  "total_contributions_to_date": "995.00",
+  "total_expenditures_to_date": "50.00",
+  "line5_subtotal": "1,012.30"
+ },
+ "cover": {
+  "candidate": "Deanna L. Taylor",
+  "party": "Desert Greens",
+  "office_sought": "S.L.Co. Council",
+  "district_number": "#5",
+  "report_type": "Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "02-06-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dtaylor_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Deanna L. Taylor",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/dtaylor_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy - banner 'FEB.-06'07(TUE) 10:24  TEL:801 521+4181  P.002/P.003'. The FINAL REPORT box is checked and the 'January 31 of each year' box is NOT, even though the chunk metadata calls this a '2006 Summary Report'. The Summary Page header box (page N of M / last name / date of report) is entirely BLANK. Line 2 Column B is a heavy scrawl read as '50.00' (verified on a 400 dpi crop; the cents are a merged blot) - flagged low. Line 5 is written '1,012.3 0' with the final zero raised. NOTE for a later reader: this is a Final Report but Line 7 (balance at close) is 1,012.30, not zero, which the dissolution rule requires. RECEIVED stamp FEB 06 2007."
+ }
+}

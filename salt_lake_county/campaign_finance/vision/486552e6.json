@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "CHARLES A. BONSALL",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/22/07",
+  "form_year": null
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cbonsall_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Charles Bonsall",
+  "office": "Clerk",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/cbonsall_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice form (04pccdissolution.doc) - no Summary Page, no checkbox/party/office/district fields. Handwritten: Committee 'COMMITTEE TO ELECT CHARLES BONSALL'; County Office Candidate 'CHARLES A. BONSALL'; Committee Secretary 'SELF'; Date Committee Was Established '4/6/2006'. RECEIVED stamp JAN 23 2007. Faint show-through of another document at the bottom of the scan."
+ }
+}

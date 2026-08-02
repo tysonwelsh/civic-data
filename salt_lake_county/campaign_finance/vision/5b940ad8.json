@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,250.00",
+ "total_expenditures": "0",
+ "beginning_balance": "$15,128.34",
+ "ending_balance": "$17,378.34",
+ "aggregate": {
+  "total_contributions_to_date": "$28,903.50",
+  "total_expenditures_to_date": "$11,525.16",
+  "line5_subtotal": "$17,378.34"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "2-3-2012",
+  "report_date": "2-3-2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/SDeBry_11_YearEnd_Amend_CntyCncl5_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/SDeBry_11_YearEnd_Amend_CntyCncl5_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm Line 1 Column B)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form. The Year-End box is checked and the amendment 'Yes' box is checked with date 2-3-2012 (same as the signature date). Lines 2 and 6 Column A are a hand-drawn zero (an open circle) \u2014 recorded as \"0\". Cents on several figures are written as raised superscripts over a rule; transcribed with a decimal point. Received stamp FEB 03 2012."
+ }
+}

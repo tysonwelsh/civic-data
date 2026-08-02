@@ -1,0 +1,57 @@
+{
+ "path": "raw/2014/2014_6-14B-Grierson_1.pdf",
+ "key": "333c734e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:30:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Lorne Grierson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commissioner",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/17/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "39,943.31",
+    "contrib_cumulative": "",
+    "expend_this_period": "39,552.43",
+    "expend_cumulative": "",
+    "balance_beginning": "2,168.13",
+    "subtotal_before_expend": "42,111.44",
+    "balance_close": "2,559.01"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "39,943.31",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "39,552.43",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "2,168.13",
+    "line4_total_contributions_from_line1A": "39,943.31",
+    "line5_subtotal_lines3plus4": "42,111.44",
+    "line6_total_expenditures_from_line2A": "39,552.43",
+    "line7_balance_at_close": "2,559.01"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "expend_this_period": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "TYPED (machine-filled) form, faxed - the page header reads 'JUN-17-2014 TUE 04:44 PM COLDWELL BANKER WEST  FAX NO. 801 375 2483  P. 01/P. 02'. Figures are crisp type, not handwriting. BOTH Column B (Year-to-Date) cells on lines 1 and 2 are LEFT BLANK - empty strings, not zero. Line 3's final digit is partly overlapped by the form's printed black 'Refer to Line 7' arrow; the visible characters read '2,168.13' and it is recorded at MEDIUM confidence for that reason (not back-computed from lines 4/5). OFFICE DISAGREEMENT (partial) with the portal: the page prints only 'Utah County Commissioner' with NO seat letter; index.csv carries 'County Commission Seat B'. The page is the authority and names no seat. Index candidate is blank; the page names Lorne Grierson. Report type 'Seven days preceding the Primary Election' is consistent with index reporting_period '6-14 Grierson'. The summary page's Page/of, Last Name and Date-of-Report header boxes are all left blank."
+  }
+ ],
+ "notes": ""
+}

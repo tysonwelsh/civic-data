@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$521.00",
+ "beginning_balance": "$3,393.71",
+ "ending_balance": "$2,872.71",
+ "aggregate": {
+  "total_contributions_to_date": "$17,951.97",
+  "total_expenditures_to_date": "$15,079.26",
+  "line5_subtotal": "$3,393.71"
+ },
+ "cover": {
+  "candidate": "Richardson, Larry W",
+  "party": "REPUBLICAN",
+  "office_sought": "Treasurer",
+  "district_number": null,
+  "report_type": "Year-End Report December 31, 2006",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": null,
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lrichardson_jan3107amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Larry W. Richardson",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/lrichardson_jan3107amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "DIFFERENT FORM VARIANT: a web-printed 'Salt Lake County Clerk / Election Division / Financial Disclosure Report' (browser print from secure.slco.org, printed 1/27/2007), header 'Richardson, Larry W - Year-End Report December 31, 2006, Page 1 of 2'. Org Type: Personal Campaign Committee. It has NO Type-of-Report checkbox block, NO amendment field, NO District Number field and NO signature date - hence those are null; report_type is taken from the printed 'Report:' line. Column B header reads 'YTD'. HAND CORRECTION: the printed Column B cells on lines 1 and 2 both read '$0.00' and are STRUCK THROUGH by hand, with '$17,951.97' and '$15,079.26' written in beside them, each initialled and dated 1/29/07 - the handwritten values are the ones that stand and are transcribed here. All Column A values are machine-printed. Clerk stamp RECEIVED JAN 30 2007. Page 2 shows the tail of Schedule B ('Total Expenditures $521.00')."
+ }
+}

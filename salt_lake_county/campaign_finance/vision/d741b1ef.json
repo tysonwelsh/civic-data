@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "190.50",
+ "total_expenditures": "78.70",
+ "beginning_balance": "0",
+ "ending_balance": "111.80",
+ "aggregate": {
+  "total_contributions_to_date": "190.50",
+  "total_expenditures_to_date": "78.78",
+  "line5_subtotal": "190.50"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "4",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jiwamoto_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/jiwamoto_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; Line 2 re-rendered at -r 600",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 78.70 but Column B reads 78.78 - re-rendered at 600 dpi to confirm the final digit really differs (a clean '0' in A, a knotted '8' in B). Since this is the campaign's first period (Line 3 beginning balance is a slashed zero) the two columns should agree; the form's own figures are recorded, not reconciled. The cover's signature Date rule is BLANK; the Summary Page's Date-of-Report box reads 'Jan 31 '10' and the clerk stamp is FEB 01 2010, so this is the year-end report for calendar 2009. The form has both an 'Office' box ('County Council #4') and an 'Office Sought' box ('Council'); Office Sought is used per contract. Line 7 (111.80) = 190.50 - 78.70."
+ }
+}

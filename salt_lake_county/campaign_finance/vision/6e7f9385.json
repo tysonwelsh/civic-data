@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,038.23",
+ "total_expenditures": "$580.14",
+ "beginning_balance": "0",
+ "ending_balance": "1,457.09",
+ "aggregate": {
+  "total_contributions_to_date": "$2,038.23",
+  "total_expenditures_to_date": "$580.14",
+  "line5_subtotal": "2,038.23"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "DEMOCRAT",
+  "office_sought": "S.L.Co. Council",
+  "district_number": "#3",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/4/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dturner_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to resolve Line 7)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2006-era form (no top-row Office field, only Office Sought). Line 3 is a hand-drawn slashed \u00d8 = zero. Neither the amendment Yes nor No box is checked. Form arithmetic does not close: 2,038.23 minus 580.14 is 1,458.09 but Line 7 is clearly written 1,457.09 at 250 dpi \u2014 the filer's figure kept verbatim. Signature date is 4/4/06 while the Summary Page 'Date of Report' box reads 4/5/06; report_date records the signature date."
+ }
+}

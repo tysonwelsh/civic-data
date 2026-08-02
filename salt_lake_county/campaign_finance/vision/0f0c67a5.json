@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "900",
+ "total_expenditures": "8,638.08",
+ "beginning_balance": "7,738.08",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "36493.46",
+  "total_expenditures_to_date": "36,493.46",
+  "line5_subtotal": "8,638.08"
+ },
+ "cover": {
+  "candidate": "Dan Snarr",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "#3",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/14/15",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snarr_D_Council3_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dan Snarr",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Snarr_D_Council3_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2014 form title reads '2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 7 is a heavily-inked drawn zero. Line 1 Column B is written without a thousands comma ('36493.46') while Line 2 Column B has one ('36,493.46') \u2014 both kept verbatim. Line 3's handwriting overlaps the printed arrow; read as 7,738.08, which matches Line 7 of this filer's October report (key 12698ed9)."
+ }
+}

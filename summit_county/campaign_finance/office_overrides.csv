@@ -1,0 +1,3 @@
+document_id,office,seat,evidence
+1081,County Recorder/Surveyor,,"vision read of the raw scan cover page at 200dpi (2026-08-01, claude-opus-5): the handwritten 'Office Filed For:' line reads RECORDER/SURVEYOR and 'Party:' reads WRITE-IN. Illegible to both the clerk's scanner OCR layer and this repo's tesseract pass, which is why the row was office_source=unresolved. Corroborated by the same filer's Post-Election sheet, document 1244."
+1244,County Recorder/Surveyor,,"vision read of the raw scan cover page at 200dpi (2026-08-01, claude-opus-5): 'Office Filed For: RECORDER/SURVEYOR', 'Party: WRITE-IN'. This sheet is the clearer of the two Brock scans (the surname also reads BROCK here, matching the county listing and the DocumentCenter filename)."

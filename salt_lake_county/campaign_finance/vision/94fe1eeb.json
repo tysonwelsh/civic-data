@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2990.00",
+ "total_expenditures": "1746.52",
+ "beginning_balance": "4,542.25",
+ "ending_balance": "5,785.73",
+ "aggregate": {
+  "total_contributions_to_date": "8,715.00",
+  "total_expenditures_to_date": "3022.20",
+  "line5_subtotal": "7,532.25"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL #1",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/19/6",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_hatch_joe06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_hatch_joe06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'COUNCIL #1' written across the Office Sought / District Number boxes; reported as office_sought. Signature date written '6/19/6' (verbatim). Summary Page header: Page 2 of 4, HATCH, 6/20/6. Line 3 (4,542.25) matches Line 7 of Hatch's April-5 amendment (key b66d9548); arithmetic consistent."
+ }
+}

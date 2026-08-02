@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Davidson_Aaron_4.1.2022_Redacted.pdf",
+ "key": "4f4712bf",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 2, 5, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Aaron Davidson",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/1/22",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "1,687.48",
+    "contrib_cumulative": "1,687.48",
+    "expend_this_period": "959.45",
+    "expend_cumulative": "959.45",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "1,687.48",
+    "balance_close": "728.03"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "1,687.48",
+    "boxC_contributions_received_year_to_date": "1,687.48",
+    "boxD_expenditures_made_this_period": "959.45",
+    "boxE_expenditures_made_year_to_date": "959.45",
+    "boxF_subtotal_before_expenditures": "1,687.48",
+    "balance_at_close": "728.03"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "ONE report, page-stamped '1 of 5' ... '5 of 5'. The address block and the signature are redacted upstream by the county (black bars), so residence_city is '' - the cover prints no city. (For context only, NOT used as the residence field: the Schedule A self-loan rows on p2 print 'Lindon, UT 84042' with the street redacted.) Typed fillable form. The close box carries no letter on this v. 4.20 sheet. Box close 728.03 carries forward to Box A of the filer's 10/31/22 report (key c37543a6)."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [5,7], but page 7 is NOT a second report - it is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' with two staff review sign-offs, both dated 4/4/22 (4/4/2022). So ONE report is emitted, not two. Mixed letterhead within the one filing: the cover (p1) carries the Josh Daniels Clerk/Auditor banner while the interior pages (p2, p5) carry the earlier Amelia Powers Gardner banner; the footer version is 'v. 4.20' throughout, and the cover's report-type list includes 'Seven days preceding Convention' (unlike the other v. 4.20 covers in this chunk). Pages 3, 4, 6 and 8 of the 8-page PDF were not rendered by the orchestrator and were not read."
+}

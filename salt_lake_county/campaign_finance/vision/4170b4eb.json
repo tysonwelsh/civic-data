@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,822.63",
+ "total_expenditures": "$196.53",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$2,626.10",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$2,822.63"
+ },
+ "cover": {
+  "candidate": "Sheldon Stewart",
+  "party": "Republican",
+  "office_sought": "_Council - District",
+  "district_number": "5",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Committee-to-Elect-Sheldon-Stewart__A304DB4C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Committee to Elect Sheldon Stewart",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Committee-to-Elect-Sheldon-Stewart__A304DB4C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Same pattern as this filer's other 2022 reports: both Column B aggregate cells $0.00, Line 3 opens at $0.00, and Line 1 Column A ($2,822.63) equals the prior report's closing balance. Kept verbatim. TITLE reads \"2020 Financial Disclosure Report\" (stale template)."
+ }
+}

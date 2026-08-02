@@ -15,6 +15,12 @@ slc_city_council/public_comments/20*/*.pdf
 # QC source packets retained for comment ground-truthing (re-fetchable; 43 MB files)
 _audits/comment_qc/**/*.pdf
 
+# SLCo even-year canonical long file (78 MB — over GitHub's 50 MB warning): DERIVED,
+# regenerates in ~2 min from the mirrored raws via
+# salt_lake_county/elections/normalize_sovc_county.py (gate-verified); the committed
+# county_results_by_contest.csv + county_races.csv are the federated/audited layers.
+salt_lake_county/elections/slco_county_results_long.csv
+
 # gov.db is DERIVED (1.64 GB — 16x over GitHub's 100 MB hard limit) — regenerate with
 # `python3 scripts/build_cities_db.py` (runs the search layer too), or download the
 # release asset (gov.db.gz, ~399 MiB). The per-entity db/*.db files ARE committed

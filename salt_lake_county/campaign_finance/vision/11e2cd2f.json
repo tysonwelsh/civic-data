@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$154.47",
+ "total_expenditures": "154.47",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "154.47",
+  "total_expenditures_to_date": "154.47",
+  "line5_subtotal": "154.47"
+ },
+ "cover": {
+  "candidate": "Robert W. Warnick",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "6",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/7/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rwarnick_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Robert L. Warnick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rwarnick_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NAME DISCREPANCY: the clerk listing calls him 'Robert L. Warnick' but the form is signed and printed 'Robert W. Warnick' in both the name box and the verification block. Neither amendment box is checked. Cents throughout are raised superscripts over a rule (154 with a raised 47). Lines 3 and 7 are written as a dash-zero-dash ('- 0 -'), recorded as 0. Line 1 Column A carries a '$' glyph; the other cells do not."
+ }
+}

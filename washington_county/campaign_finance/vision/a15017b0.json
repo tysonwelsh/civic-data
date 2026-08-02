@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2020/Commission C_Slade Hughes_June 23 2020_04-20-2020.pdf",
+ "channel": "wayback_forms2020",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2020/Commission C_Slade Hughes_June 23 2020_04-20-2020.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2020/Commission C_Slade Hughes_June 23 2020_04-20-2020.pdf",
+   "doc_kind": "statement",
+   "sha256": "f2fef49c0c63fd6ec624a63e1426b061e362b67c364bf7942ad5e7ea0a6bf4cc",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Slade Rudy Hughes",
+  "office": "County Commission Seat C",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "Veyo",
+  "filed_to": "Washington"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission (seat not stated)",
+ "index_office_source": "filename",
+ "index_office_confidence": "low",
+ "index_candidate": "Slade Hughes",
+ "index_reporting_year": "2020",
+ "index_cycle_year": "2020",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "3-19-2020",
+   "period_end": "4-20-2020",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "571",
+   "contrib_gt50_this": "571",
+   "contrib_gt50_cum_printed": "571",
+   "contrib_gt50_cum": "571",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "571",
+   "expenses_this": "571",
+   "expenses_cum_printed": "571",
+   "expenses_cum": "571",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "0",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "figures written without cents"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:52:05Z"
+}

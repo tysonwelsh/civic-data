@@ -1,0 +1,98 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2018/Oct 30_Victor Iverson_FCR_10-31-2018.pdf",
+ "channel": "wayback_forms2018",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2018/Oct 30_Victor Iverson_FCR_10-31-2018.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2018/Oct 30_Victor Iverson_FCR_10-31-2018.pdf",
+   "doc_kind": "statement",
+   "sha256": "fa3848b8bb480548cfe45546cbb96c3d8d1ad4fdec10ceada4f236d82a16e34b",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Victor Moses Iverson",
+  "office": "Washington County Commission Seat B",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "LaVerkin",
+  "filed_to": "Washington County"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat B",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "ee",
+ "index_reporting_year": "2018",
+ "index_cycle_year": "2018",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "10/30/2018",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "1,195.84",
+   "contrib_gt50_last": "1195.84",
+   "contrib_gt50_this_printed": "0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_cum_printed": "1,195",
+   "contrib_gt50_cum": "1195",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "",
+   "expenses_this": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "",
+    "balance": ""
+   },
+   "blank_fields": [
+    "contrib_le50_cum",
+    "expenses_cum",
+    "balance_end"
+   ],
+   "notes": "the OLDER 17-16-6.5 form (TOTALS FROM LAST REPORT / FOR THIS REPORT / CUMULATIVE). Lines 2-4 are entirely blank; the cumulative contribution is written '1,195' without cents."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:50:43Z"
+}

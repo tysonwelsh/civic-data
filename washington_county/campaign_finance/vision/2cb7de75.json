@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2016/Greg Aldred 10_26_2016 FCR_11-05-2016.pdf",
+ "channel": "wayback_forms2016",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2016/Greg Aldred 10_26_2016 FCR_11-05-2016.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2016/Greg Aldred 10_26_2016 FCR_11-05-2016.pdf",
+   "doc_kind": "statement",
+   "sha256": "463059e0f2380f9b815938aa93053cce3b5573dca2388af5b3d9c7f7616cbdb5",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Greg Aldred",
+  "office": "County Commissioner Seat C",
+  "district": "",
+  "election_year": "",
+  "party": "Unafiliated",
+  "residence_city": "St. George",
+  "filed_to": "Washington"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat C",
+ "index_office_source": "document_determination",
+ "index_office_confidence": "high",
+ "index_candidate": "— .— Wier: Alber en ee",
+ "index_reporting_year": "2016",
+ "index_cycle_year": "2016",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "10-27-16",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "2,650",
+   "contrib_gt50_this": "2650",
+   "contrib_gt50_cum_printed": "2,650",
+   "contrib_gt50_cum": "2650",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "6,333.06",
+   "expenses_this": "6333.06",
+   "expenses_cum_printed": "6,333.06",
+   "expenses_cum": "6333.06",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "-3,683.06",
+   "balance_this": "-3683.06",
+   "balance_end_printed": "-3,683.06",
+   "balance_end": "-3683.06",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "older 17-16-6.5 form (TOTALS FROM LAST REPORT / TOTALS FOR THIS REPORT / CUMULATIVE REPORT); the LAST-report column is blank on every line"
+  }
+ ],
+ "unreadable": [],
+ "notes": "promoted into index.csv 2026-08-01 by office_determinations.csv (office read from the form face)",
+ "generated_utc": "2026-08-02T02:39:06Z"
+}

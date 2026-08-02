@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "46.00",
+ "ending_balance": "46.00",
+ "aggregate": {
+  "total_contributions_to_date": "200.00",
+  "total_expenditures_to_date": "154.00",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "DOUGLAS C. BORBA",
+  "party": "REPUBLICAN",
+  "office_sought": "SL COUNTY COUNCIL",
+  "district_number": "3",
+  "report_type": "June 20 + Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/12/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_borba_douglas06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Douglas C. Borba",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_borba_douglas06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "TWO Type-of-Report boxes checked: 'June 20' AND 'Final Report'. Summary Page header box is entirely blank (no page/name/date). Line 5 (Subtotal) left BLANK by the filer. Line 6 shows '154.00' heavily struck through with a slashed zero written above it - the value that stands is 0 (Line 6 is not a captured field; noted for context). Zeros are written as slashed ovals with a long tail. Line 1 Column B leading glyph is a cursive 2 - read as 200.00 (medium)."
+ }
+}

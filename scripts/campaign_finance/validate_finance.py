@@ -90,6 +90,11 @@ def main(dataset_dir):
             ok_headers = [header]
             if name == "filing_totals.csv" and header and header[-1] == "filing_regime":
                 ok_headers.append(header[:-1])
+            # contributions/expenditures carry an OPTIONAL trailing `geometry` column (positional
+            # sources only — the county form families record page + bbox / xls cell there; every
+            # other dataset omits it entirely). Same trailing-optional contract; accept both.
+            if name in ("contributions.csv", "expenditures.csv"):
+                ok_headers.append(header + [common.GEOMETRY_COL])
             if got not in ok_headers:
                 fail(f"{name} header mismatch\n    expected: {header}\n    got:      {got}")
             tables[name] = list(rd)

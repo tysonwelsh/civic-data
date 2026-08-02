@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$13,200.00",
+ "total_expenditures": "$18,749.05",
+ "beginning_balance": "$16,495.58",
+ "ending_balance": "$10,946.53",
+ "aggregate": {
+  "total_contributions_to_date": "$40,190.29",
+  "total_expenditures_to_date": "$33,966.21",
+  "line5_subtotal": "$29,695.58"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "District 2",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/16/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mjensen_june17report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mjensen_june17report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form. The office line is typed as one string spanning two boxes, 'County Council   District 2' \u2014 split here into office_sought 'County Council' and district_number 'District 2' (verbatim as typed in the District Number column). The 'No' amendment box is checked. The signature date is 6/16/08 while the clerk RECEIVED stamp is JUN 17 2008. All lines reconcile against the April report."
+ }
+}

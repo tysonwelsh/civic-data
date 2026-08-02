@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Jimmy Cadman",
+  "party": "Personal Choice",
+  "office_sought": "Council at Large",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/26/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_jcadman_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jimmy L. Cadman",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_jcadman_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2008 Summary Report', but the form checks the FINAL REPORT box, not the Year-End box. The Political Party entry is the write-in 'Personal Choice'. The Office Sought entry is cramped, faint cursive read as 'Council at Large' at LOW confidence (the clerk listing says Council At-Large C). EVERY summary cell - both columns of Lines 1 and 2 and all of Lines 3-7 - is a hand-drawn slashed zero, and the filer even drew slashed zeros in the CONTRIBUTIONS/EXPENDITURES/BALANCE SUMMARY header bands; a wholly dormant committee closing out."
+ }
+}

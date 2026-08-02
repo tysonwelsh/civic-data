@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$16,297.68",
+ "total_expenditures": "$10,448.95",
+ "beginning_balance": "$17,964.62",
+ "ending_balance": "$23,813.35",
+ "aggregate": {
+  "total_contributions_to_date": "$47,583.36",
+  "total_expenditures_to_date": "$23,770.01",
+  "line5_subtotal": "$34,262.30"
+ },
+ "cover": {
+  "candidate": "Goud Maragani",
+  "party": "Republican",
+  "office_sought": "_Clerk",
+  "district_number": "N/A",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/21/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Maragani-Goud__6C8B2F0F.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Maragani, Goud",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Maragani-Goud__6C8B2F0F.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing. E-signature stamp 06/21/22 - 11:22 AM; the signature Date cell is blank. Summary Page header 'Date of Report 06/21/22'; Summary Page is page 2 of 10. The amendment question is answered No - note the manifest lists a separate AMENDED version of this same June 21 report (key 7e04f8e8) whose Column A figures differ."
+ }
+}

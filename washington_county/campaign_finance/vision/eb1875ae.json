@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2016/Gil Almquist_County Commission Seat C_Final FCR_8_4_2016_08-05-2016.pdf",
+ "channel": "wayback_forms2016",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2016/Gil Almquist_County Commission Seat C_Final FCR_8_4_2016_08-05-2016.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2016/Gil Almquist_County Commission Seat C_Final FCR_8_4_2016_08-05-2016.pdf",
+   "doc_kind": "statement",
+   "sha256": "00be7624ef3f8206211a512f618156375e646291b9e619c65f6772d2df4ed380",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gilbert Almquist",
+  "office": "Washington County Commissioner seat C",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": "Melanie Aplanalp"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Gil Almquist",
+ "index_reporting_year": "2016",
+ "index_cycle_year": "2016",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "6/17/2016",
+   "period_start": "25-Jan-16",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "20117.51",
+   "contrib_gt50_this": "20117.51",
+   "contrib_gt50_cum_printed": "20117.51",
+   "contrib_gt50_cum": "20117.51",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "20117.51",
+   "expenses_this": "20117.51",
+   "expenses_cum_printed": "20117.51",
+   "expenses_cum": "20117.51",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "0.00",
+   "balance_this": "0",
+   "balance_end_printed": "0.00",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "BORN-DIGITAL (pdftotext -layout). Same filer inconsistency as the live-page copy; Form A TOTAL $20,917.51, Form B TOTAL $20,117.51 and a later 'Grand Total 20,449.51' - nothing reconciled."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:58:59Z"
+}

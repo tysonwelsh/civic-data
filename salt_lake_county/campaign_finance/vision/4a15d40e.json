@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "11,670",
+ "total_expenditures": "5,321.85",
+ "beginning_balance": "N/A",
+ "ending_balance": "6,348.15",
+ "aggregate": {
+  "total_contributions_to_date": "11,670",
+  "total_expenditures_to_date": "5,321.85",
+  "line5_subtotal": "11,670"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "SLCo Council",
+  "district_number": "5",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/4/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jallen_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jallen_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250 to confirm the signature date)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 3 (Balance at Beginning of Reporting Period) is written as the LITERAL TEXT 'N/A', not a figure \u2014 recorded verbatim, not converted to 0. Line 1 Columns A and B carry no cents ('11,670'). Signature date re-rendered at 250 dpi reads 4/4/06 (received stamp APR 04 2006); the Summary Page 'Date of Report' box reads 4/4/06 as well. Arithmetic closes on the printed figures."
+ }
+}

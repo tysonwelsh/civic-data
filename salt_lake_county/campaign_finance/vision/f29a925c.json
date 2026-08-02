@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$ 47,909.90",
+ "total_expenditures": "$ 19,709.10",
+ "beginning_balance": "$ 229,722.07",
+ "ending_balance": "$ 257,922.87",
+ "aggregate": {
+  "total_contributions_to_date": "$ 302,269.69",
+  "total_expenditures_to_date": "$ 60,959.61",
+  "line5_subtotal": "$ 277,631.97"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "09-15-22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Gill-Sim__C6DFD0E4.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gill, Sim",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Gill-Sim__C6DFD0E4.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form. Column B aggregates are not internally consistent across this filer's series (the Nov 1 report's Column B contributions aggregate, $399,542.46, less its Column A $97,272.77, gives $302,269.69 which matches here; but the expenditure aggregates step 60,959.61 -> 323,363.87 while Column A is 262,404.26 - consistent). Recorded verbatim."
+ }
+}

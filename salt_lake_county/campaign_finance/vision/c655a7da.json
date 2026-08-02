@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3,000.00",
+ "total_expenditures": "$189.75",
+ "beginning_balance": "$4,999.08",
+ "ending_balance": "$7,809.33",
+ "aggregate": {
+  "total_contributions_to_date": "$7,201.12",
+  "total_expenditures_to_date": "$1,048.97",
+  "line5_subtotal": "$7,999.08"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Interim Report: June 19 (for the period ending June 18, 2012)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-18-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_12_June_Interim_Amend_CntyCncl6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_12_June_Interim_Amend_CntyCncl6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the source filename says 'June_Interim_Amend', but the form's amendment question is checked NO - this is not an amendment. The June 19 interim box is checked, matching the clerk listing's 'June'. Cover signature date is 6-18-12 while the summary page's Date of Report box says 6/19/12. Cents are raised superscripts over a rule. Line 2 Column B's superscript is faint (read as 97) but the form's own chain confirms it: 859.22 (April amendment) + 189.75 = 1,048.97. Column A consistent (4,999.08 + 3,000.00 = 7,999.08; less 189.75 = 7,809.33)."
+ }
+}

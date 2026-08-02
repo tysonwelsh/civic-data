@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "9f7bfdf9",
+ "source_filing": "raw/wayback/wb20151203045241_Gibson_financials.pdf",
+ "document_id": "wb20151203045241_Gibson_financials",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:05:38Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Kerry Wayne Gibson",
+ "office_stated": "County Commission Seat B",
+ "report_type_stated": "October 21st - 28th",
+ "filing_date_stated": "2014-10-28",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "58,090.69",
+   "this": "12,650.00",
+   "cum": "70,740.69"
+  },
+  "contrib_le50": {
+   "last": "2,705.00",
+   "this": "-",
+   "cum": "2,705.00",
+   "n_contributors": "21"
+  },
+  "expenditures": {
+   "last": "47,494.11",
+   "this": "7,210.53",
+   "cum": "54,704.64"
+  },
+  "ending_balance": {
+   "last": "13,301.58",
+   "this": "5,439.47",
+   "cum": "18,741.05"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed form; RECEIVED stamp OCT 28 2014."
+}

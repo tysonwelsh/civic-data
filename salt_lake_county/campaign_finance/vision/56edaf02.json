@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$868",
+ "total_expenditures": null,
+ "beginning_balance": "1897",
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": "$27,438",
+  "total_expenditures_to_date": "27438",
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Steve Harmsen",
+  "party": "R",
+  "office_sought": "CC #1",
+  "district_number": "D-1",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/9/11",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "beginning_balance": "medium",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "low",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sharmsen_10_FinalDis_CntyCncl1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Harmsen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sharmsen_10_FinalDis_CntyCncl1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 300 and -r 600 with cell crops",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "WORST SCAN IN THE CHUNK: a degraded fax (fax header 01/10/2011) with a heavy black smear over the left half of page 1 and very loose handwriting. Re-rendered page 2 at 300 and 600 dpi and cropped every cell; Line 2 Column A, Line 5 and Line 7 Column A remain genuinely unreadable (each is written but the individual digits cannot be resolved) and are recorded as null rather than guessed. Line 3 (1897) matches the October interim's Line 7 (1,897), which corroborates that reading. Note this is a Final/Dissolution report yet Line 7 is plainly NOT zero (a 3-digit figure is written). Worth a human's eyes."
+ }
+}

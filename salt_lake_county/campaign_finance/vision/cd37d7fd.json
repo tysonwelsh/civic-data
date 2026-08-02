@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "563",
+ "ending_balance": "563",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "MARK CROCKETT",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNCIL",
+  "district_number": "4",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/7/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "low",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mcrockett_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mcrockett_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "READ THIS ONE CAREFULLY \u2014 the filer used TWO different nil marks. Confirmed at 260 dpi: lines 1 and 2 (BOTH columns), line 5 and line 6 each carry a plain hand-drawn DIAGONAL PEN STROKE across the cell; line 4 carries a slashed \u00d8; lines 3 and 7 both read '563'. Following the contract's convention (a drawn dash across a cell = a written zero) every struck cell is recorded as '0'. NOTE THE INTERNAL INCONSISTENCY: line 5 (Subtotal = line 3 + line 4) is struck rather than written as 563, so a literal reading of line 5 as 0 contradicts lines 3 and 7. line5_subtotal is therefore flagged low confidence; the substantive figures for this period are contributions 0, expenditures 0, balance unchanged at 563. Page box reads 'Page 2 of 4'. Neither amendment box is checked. The top of the scan is cropped (the clerk letterhead is cut off)."
+ }
+}

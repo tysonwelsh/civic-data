@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "249.93",
+ "total_expenditures": "182.63",
+ "beginning_balance": "0.00",
+ "ending_balance": "67.30",
+ "aggregate": {
+  "total_contributions_to_date": "249.93",
+  "total_expenditures_to_date": "182.63",
+  "line5_subtotal": "249.93"
+ },
+ "cover": {
+  "candidate": "Deanna L. Taylor",
+  "party": "Desert Greens",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "April 3, 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dtaylor_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Deanna L. Taylor",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dtaylor_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clean, fully legible filing; both columns agree and the arithmetic checks out (249.93 - 182.63 = 67.30). Neither amendment box is checked. The Summary Page header box (page/name/date) is left blank. Stamped COPY / RECEIVED APR 05 2006."
+ }
+}

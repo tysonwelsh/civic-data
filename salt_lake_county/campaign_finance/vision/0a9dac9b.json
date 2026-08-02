@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1.55",
+ "total_expenditures": "$0.00",
+ "beginning_balance": "$4,002.19",
+ "ending_balance": "$4,003.74",
+ "aggregate": {
+  "total_contributions_to_date": "$1.55",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$4,003.74"
+ },
+ "cover": {
+  "candidate": "Reid Demman",
+  "party": "Republican",
+  "office_sought": "_Surveyor",
+  "district_number": "N/A",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/31/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Demman-Reid__83F79F1A.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Demman, Reid",
+  "office": "Surveyor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Demman-Reid__83F79F1A.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form. The form TITLE reads '2020 Financial Disclosure Report' although this is the year-end report for the 2022 cycle signed 01/31/23 (stale form template). Office Sought is typed with a leading underscore ('_Surveyor'); recorded verbatim. Digital signature stamp dated 01/31/23 - 11:06 AM."
+ }
+}

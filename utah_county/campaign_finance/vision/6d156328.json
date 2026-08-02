@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Alan_Wessman_Redacted2.pdf",
+ "key": "6d156328",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:30:00Z",
+ "pages_read": [1, 2, 3, 4],
+ "form_variant": "other",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "",
+   "is_amendment": "",
+   "report_date": "",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "",
+    "boxB_contributions_received_this_period": "",
+    "boxC_contributions_received_year_to_date": "",
+    "boxD_expenditures_made_this_period": "",
+    "boxE_expenditures_made_year_to_date": "",
+    "boxF_subtotal_before_expenditures": "",
+    "balance_at_close": ""
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "EVERY FIELD ON EVERY PAGE IS BLANK - left blank by the filer, NOT unreadable and NOT zero. The confidences are 'high' because the emptiness itself is unambiguous, not because a value was read. index.csv attributes this to candidate 'Alan Wessman', office 'County Commission Seat C', reporting_period '7 Days before General' - the PAGE FACE states none of that: the Name of Candidate box, Office box, Phone, Email, all five report-type radios, the amendment radios, the affirmation line, the Date, the Date of Report and Page boxes, and all seven summary boxes are empty."
+  }
+ ],
+ "notes": "BLANK FORM. This 4-page PDF is a completely unfilled copy of the county's modern v. 12.23 'Financial Campaign Report for County and Local School Board Candidates' (p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page) - born-digital, crisp, not a scan, nothing typed or written anywhere. The only marks are two upstream county redaction bars (a black bar over the Address field and one over the Signature field), which confirms the clerk processed it as a real submission before publishing. form_variant is 'other' per the spec's blank-form rule, though the underlying template is modern_boxAF. Pages 2 and 3 were not in the pre-rendered image set; they were rendered here (pdftoppm) specifically to confirm the whole document is blank, and they are. This filing yields NO office resolution and NO totals - an honest empty outcome, not an extraction failure."
+}

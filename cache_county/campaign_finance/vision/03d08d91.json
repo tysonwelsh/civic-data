@@ -1,0 +1,123 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "f820e72d307fa037eb37c0a296f213fc5155580b5f27c235bca7c7038455947a",
+ "canonical_path": "raw/2020/2020_cc_Karl_Ward.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Karl_Ward.pdf",
+  "raw/2020/2020_st_Ward_summary.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Karl Benson Ward",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Logan District #1",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess Bradfield",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "30 Nov. 2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-NOV 30 '20 AM 10:28:27",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "5,271.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "-471.00",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "4,800.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "50.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "50.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "4,409.05",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "440.95",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Logan District #1",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'Logan District #1'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Line 1 THIS-REPORT is written over a struck-through '$' and reads as a NEGATIVE '-471.00'. Lines 3-4 are filled only in the CUMULATIVE column. Cents are superscript."
+}

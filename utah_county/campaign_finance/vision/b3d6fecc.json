@@ -1,0 +1,58 @@
+{
+ "path": "raw/2020/2020_SakievichThomas.pdf",
+ "key": "b3d6fecc",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:42:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Thomas V. Sakievich",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "Dec 3, 2020",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "7,000.00",
+    "contrib_cumulative": "73,650.88",
+    "expend_this_period": "9,161.34",
+    "expend_cumulative": "67,754.77",
+    "balance_beginning": "8,057.45",
+    "subtotal_before_expend": "15,057.45",
+    "balance_close": "5,896.11"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,000.00",
+    "line1_total_contributions_colB": "73,650.88",
+    "line2_total_expenditures_colA": "9,161.34",
+    "line2_total_expenditures_colB": "67,754.77",
+    "line3_balance_beginning": "8,057.45",
+    "line4_total_contributions_from_line1A": "7,000.00",
+    "line5_subtotal_lines3plus4": "15,057.45",
+    "line6_total_expenditures_from_line2A": "9,161.34",
+    "line7_balance_at_close": "5,896.11"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable legacy form with a few handwritten additions. Line 1 Column B (Year-to-Date contributions) is the ONE handwritten figure on the summary page, in blue ink: read as '73,650.88' at MEDIUM confidence (the leading digit is a hand-drawn 7). The Office Seeking box is typed 'Utah County Commission'; the filer ALSO hand-wrote 'UTAH COUNTY COMMISSION' on the Office: line in the Type-of-Report block, and left the District: line blank. OFFICE DISAGREEMENT: the page states no SEAT; office_index says 'County Commission Seat C'. Report-type checkbox '30 Days after the General Election' is checked by hand; amendment answered 'No'. Signature is redacted upstream by the county (black bar); the Date line reads Dec 3, 2020 and a clerk 'RECEIVED DEC 03 REC'D' stamp appears. Summary page is hand-numbered 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

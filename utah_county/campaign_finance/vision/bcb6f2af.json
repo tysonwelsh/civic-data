@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Ballard120412.pdf",
+ "key": "bcb6f2af",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:04:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "LARRY L. BALLARD",
+   "party_printed": "CONSTITUTION",
+   "office_printed": "COUNTY COMMISSION \"C\"",
+   "residence_city": "SALEM",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/4/12",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "0",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "0",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "0",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten block capitals. A ZERO REPORT: all nine summary cells carry the filer's hand-drawn oval zero (written zeros, not blanks). Office Seeking is written with the seat letter in quotation marks - 'COUNTY COMMISSION \"C\"' - transcribed verbatim including the quotes; it agrees with office_index 'County Commission Seat C'. The cover's field layout is scrambled by the filer: he wrote the CITY ('SALEM') on the City label line above the address row and put his phone number in the middle of the Street Address row, and a stray 'C' sits in the Fax Number cell. residence_city 'SALEM' is taken from the City label where he wrote it. AMENDMENT: 'No' is checked. Type of Report: '30 Days after the General Election' is the only checked box. Names differ slightly between blocks on this same page - cover 'LARRY L. BALLARD', verification 'LARRY LEE BALLARD'; both recorded here, candidate_printed uses the cover. candidate_index was blank. Page box reads 'Page 1 of 3'."
+  }
+ ],
+ "notes": ""
+}

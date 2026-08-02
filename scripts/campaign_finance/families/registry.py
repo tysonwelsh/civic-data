@@ -39,6 +39,36 @@ _FAMILIES = {
                                                  # REPORT" Form A/B (3-column LAST/THIS/CUMULATIVE
                                                  # cover box; 2021 = cumulative whole-cycle bundle,
                                                  # else per-period; interior subtotal lines dropped)
+    # ---- COUNTY tier (TRANCHE 3 Phase A, 2026-08-02). Each module's docstring cites the county
+    # CLAUDE.md / RECON.md / AVAILABILITY.md passage its shape and its anchors come from. All six
+    # read the ZERO-GLYPH RULING through `common.parse_money_cell` and emit per-row `geometry`
+    # where the source is positional (SCHEMA.md §2a). None is wired into a county build here —
+    # a follow-on agent does that.
+    "washco_split": "washco_split",              # Washington Co — ONE filing split across up to
+                                                 # THREE files (Summary + Contributions +
+                                                 # Expenditures): needs driver `group_fn`. Also
+                                                 # the 2014-15 .xls cell reader and the
+                                                 # column-positional 2010-13 PDF ledgers.
+    "utahcounty_schedab": "utahcounty_schedab",  # Utah Co — legacy `Column A / Column B` +
+                                                 # Schedule A/B AND the v.12.23 `Box A-F` ladder;
+                                                 # Column A / Box B is the anchor, Column B /
+                                                 # Box C is never summed.
+    "weber_polimorphic": "weber_polimorphic",    # Weber Co — the 2026 born-digital Polimorphic
+                                                 # e-filing: labelled Date/Name/Amount blocks,
+                                                 # bare-decimal money, 'on This Report' anchor.
+    "cache_cfd": "cache_cfd",                    # Cache Co — 2022+ born-digital CFD: free-typed
+                                                 # one-liner ledger rows (" - " tokenizer) +
+                                                 # PER-FILING is_incremental from the Summary
+                                                 # Page's This-Period vs Year-to-Date boxes.
+    "wasatch_disclosure_tableab": "wasatch_disclosure_tableab",
+                                                 # Wasatch Co — the 2024+ `CAMPAIGN FINANCIAL
+                                                 # DISCLOSURE` Table A/B grid (born-digital
+                                                 # subset), period-scoped, one TOTALS column.
+    "summit_form": "summit_form",                # Summit Co — cover box in the REVERSED order
+                                                 # `Current | Last/Previous | Cumulative` (the
+                                                 # millcreek transposition trap), section tagging
+                                                 # on `ITEMIZED CONTRIBUTION REPORT`, cumulative
+                                                 # dedup.
     "vision_cache": "vision_cache",              # F10 — vision-cache-consumed cities (2026-07-17
                                                  # wave: midvale reference + 13 clones): scans /
                                                  # garbled templates, ALL data from

@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "7a944882",
+ "source_filing": "raw/wayback/wb20160824082904_Erickson_Financials.pdf",
+ "document_id": "wb20160824082904_Erickson_Financials",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:04:40Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Jared B. Erickson",
+ "office_stated": "Weber County Treasurer",
+ "report_type_stated": "",
+ "filing_date_stated": "2014-10-27",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "-",
+   "this": "3,950.00",
+   "cum": "3,950.00"
+  },
+  "contrib_le50": {
+   "last": "-",
+   "this": "119.03",
+   "cum": "119.03",
+   "n_contributors": "3"
+  },
+  "expenditures": {
+   "last": "-",
+   "this": "3,346.09",
+   "cum": "3,346.09"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "722.94",
+   "cum": "722.94"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "NO report-type box is checked - honest blank, not inferred. Signed 'Oct 27, 2014'. Contributor count 3 here vs 1 on the 11/7/14 report - both retained verbatim."
+}

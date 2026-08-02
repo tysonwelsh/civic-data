@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,950.00",
+ "total_expenditures": "19,247.87",
+ "beginning_balance": "9,299.55",
+ "ending_balance": "1,001.68",
+ "aggregate": {
+  "total_contributions_to_date": "45,723.61",
+  "total_expenditures_to_date": "44,721.93",
+  "line5_subtotal": "20249.55"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Co Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_mburdick_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_mburdick_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. The scan carries horizontal banding artefacts across the Column B cells, so the two aggregate figures (45,723.61 and 44,721.93) are recorded at medium confidence. Lines 4 and 5 are written without thousands commas ('10950.00', '20249.55'). Arithmetic consistent (9,299.55 + 10,950.00 = 20,249.55; minus 19,247.87 = 1,001.68)."
+ }
+}

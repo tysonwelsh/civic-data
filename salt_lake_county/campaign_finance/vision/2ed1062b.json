@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,046.08",
+ "total_expenditures": "3,546.08",
+ "beginning_balance": "0.00",
+ "ending_balance": "1,500.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "5,046.08"
+ },
+ "cover": {
+  "candidate": "Tracey Creno",
+  "party": "Democratic",
+  "office_sought": "SLCO Sheriff",
+  "district_number": "49",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4.4.22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Creno-Tracey__5D27CB0A.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Creno, Tracey",
+  "office": "Sheriff",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Creno-Tracey__5D27CB0A.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed figures on a scanned form; the April 5 box is filled solid. Both Column B (Aggregate Total) cells on Lines 1 and 2 were left BLANK by the filer (recorded as \"\", not 0). Neither amendment box is checked. The Summary Page header block (page/last name/date) is entirely blank. District Number reads \"49\" for a countywide Sheriff race - recorded verbatim. Signature date written \"4.4.22\"; clerk stamp APR 05 2022."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "cache_version": 1,
+ "cache_key": "2613aa33",
+ "source_filing": "raw/wayback/wb20160824031246_Thompson_financials.pdf",
+ "document_id": "wb20160824031246_Thompson_financials",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:06:59Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Terry Thompson",
+ "office_stated": "County Sheriff",
+ "report_type_stated": "October 21st - 28th",
+ "filing_date_stated": "2014-10-28",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "-",
+   "this": "5,555.00",
+   "cum": "5,555.00"
+  },
+  "contrib_le50": {
+   "last": "-",
+   "this": "179.68",
+   "cum": "179.68",
+   "n_contributors": "12"
+  },
+  "expenditures": {
+   "last": "-",
+   "this": "6,019.85",
+   "cum": "6,019.85"
+  },
+  "ending_balance": {
+   "last": "1,469.60",
+   "this": "(285.17)",
+   "cum": "1,184.43"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed form; RECEIVED stamp OCT 28 2014. FILER INCONSISTENCY retained verbatim: lines 1-3 show '-' in the 'Totals from Last Report' column but line 4 shows 1,469.60 there, and 5,555.00+179.68-6,019.85 does not give the printed 1,184.43. Nothing corrected."
+}

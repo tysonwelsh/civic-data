@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3539.35",
+ "total_expenditures": "3539.35",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3539.35"
+ },
+ "cover": {
+  "candidate": "Nancy Lord",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Cle",
+  "district_number": "NA",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4-03-22",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Lord-Nancy__96381A31.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lord, Nancy",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Lord-Nancy__96381A31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form. The top-row 'Office' cell reads 'Salt Lake County Clerk' but the separate 'Office Sought' cell is truncated on the form as 'Salt Lake County Cle' - recorded verbatim. Column B (Aggregate Total) is BLANK on Lines 1 and 2 (left empty by the filer, not zero). Summary Page header 'Date of Report' is 3-31-22 while the signature date is 4-03-22 and the clerk received-stamp reads APR 04 2022. Figures are printed without dollar signs."
+ }
+}

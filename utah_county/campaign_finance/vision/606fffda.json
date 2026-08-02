@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_12-14Smith.pdf",
+ "key": "606fffda",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:10:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JEFFERY DEAN SMITH",
+   "party_printed": "REP",
+   "office_printed": "UT-COUNTY RECORDER",
+   "residence_city": "OREM",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "12/3/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "7065.54",
+    "expend_this_period": "0",
+    "expend_cumulative": "7065.54",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "7065.54",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "7065.54",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "0",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink. NEITHER amendment box (Yes / No) is checked - is_amendment left as empty string rather than assumed 'No'. The Column B figures are written with a leading dollar sign ('$7065.54'); the line-1 Column B dollar sign is scrawled over itself, so the leading glyph is a struck $ and not a digit - the $ is dropped per spec and the figure transcribed 7065.54 (medium confidence on line 1 Column B because of the overwritten leading glyph; line 2 Column B prints the identical figure cleanly). Lines 3-7 and both Column A cells are a written zero (an open loop). Index candidate is blank; the page names JEFFERY DEAN SMITH (signed 'JEFFERY D. SMITH'). Office on the page is 'UT-COUNTY RECORDER'; index.csv says 'County Recorder' - same office."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "index_path": "raw/2022/202211_L.-Searle-Financial-Disclosure-General.pdf",
+    "cache_key": "7a44c676",
+    "entity": "wasatch_county",
+    "election_year": "2022",
+    "reporting_period_index": "General 2022",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "balance_end",
+      "contrib_gt50",
+      "total_expenses"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Luke James Searle",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey Granger, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "11/01/2022",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "2050.00",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "1600.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "3650.00",
+        "confidence": "high"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "2035.85",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "422.90",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "2458.75",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "14.15",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "14.15",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1191.25",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed. Line 2 carries the same up-arrow mark as his June report \u2014 blank. The balance THIS REPORT cell repeats the prior 14.15; the cumulative 1191.25 equals 3650.00 - 2458.75."
+}

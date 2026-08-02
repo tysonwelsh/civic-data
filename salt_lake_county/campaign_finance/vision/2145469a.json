@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1400.00",
+ "total_expenditures": "2043.85",
+ "beginning_balance": "$8300.39",
+ "ending_balance": "$7056.54",
+ "aggregate": {
+  "total_contributions_to_date": "24,684.55",
+  "total_expenditures_to_date": "21457.05",
+  "line5_subtotal": "$9700.39"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "REPUBLICAN",
+  "office_sought": "County Council District 2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "low",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jensen_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/jensen_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 350 and individual cells cropped at -r 600 and -r 900",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Very faint PENCIL entries on a 2004-vintage form (Column B is headed 'Year-to-Date Total', not 'Sum Total to Date'); cells were re-rendered up to 900 dpi. Line 1 Column A is written '1400' + a wide gap + '00' with NO visible decimal separator - recorded as '1400.00' at medium confidence (Line 4 repeats it the same way, and Line 3 + Line 4 = Line 5 checks out: 8300.39 + 1400.00 = 9700.39). Line 1 Column B likewise shows no decimal separator; best reading '24,684.55' but the cents pair could be '88' - low confidence. Line 2 Column B best reading '21457.05', low confidence. Lines 3-7 carry a written '$' which is kept verbatim. INTERNAL INCONSISTENCY: Line 2 Column A reads '2043.85' but Line 6 (which should copy it) reads as '2443.85'/'2643.85' over a heavily struck-out earlier entry, and Line 5 - Line 7 (9700.39 - 7056.54) implies 2643.85; the form's own Line 2 figure is recorded verbatim at low confidence and NOT corrected."
+ }
+}

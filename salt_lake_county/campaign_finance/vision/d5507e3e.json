@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7560.00",
+ "total_expenditures": "6660.26",
+ "beginning_balance": "21.32",
+ "ending_balance": "921.06",
+ "aggregate": {
+  "total_contributions_to_date": "7560.00",
+  "total_expenditures_to_date": "6660.26",
+  "line5_subtotal": "7581.32"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At-Large A",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year (annotated '2009')",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_09_Final_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_09_Final_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Hand-titled '2009 Amendment' at the top of the cover; unlike the 2008 amendments this one DOES check a Type-of-Report box - the Year-End box, with '2009' written beside it - and also checks amendment 'Yes' with date of report 2/14/13. Signature line reads 'Randy Horiuchi / hmastakes' (signed by an agent), dated 2/14/13. Summary Page header block filled: Page 1 of 1, Horiuchi, 2/14/13. Figures are written without thousands commas ('7560.00', '6660.26'). Line 3 chains from the 2008 year-end amendment's line 7 (21.32). Arithmetic checks: 21.32 + 7,560.00 = 7,581.32 and 7,581.32 - 6,660.26 = 921.06."
+ }
+}

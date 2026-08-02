@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "SEAN THOMAS",
+  "party": "",
+  "office_sought": "AUDITOR",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "01/06/2007",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sthomas_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sean Thomas",
+  "office": "Auditor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/sthomas_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO SUMMARY PAGE - honest, not a failure. This is the one-page 'Dissolution of a Candidate Campaign' notice under SLCo Ordinance 2.72A.205, not a disclosure report. Fields as written: Name of Committee 'COMMITTEE TO ELECT SEAN THOMAS'; Name of County Office Candidate 'AUDITOR' (the filer wrote the OFFICE, not a name, in that blank); Committee Secretary 'SEAN THOMAS'; Date Committee Was Established 'JUNE 2004'. Signed 01/06/2007, stamped JAN 06 2007. The final summary report the notice tells the filer to attach is NOT in this PDF. All totals null."
+ }
+}

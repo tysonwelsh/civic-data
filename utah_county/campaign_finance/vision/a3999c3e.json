@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_BowenJeanne.pdf",
+ "key": "a3999c3e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:26:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeanne Bowen",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner seat C",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "16 November 2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "200",
+    "contrib_cumulative": "200",
+    "expend_this_period": "200",
+    "expend_cumulative": "200",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "200",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "200",
+    "boxC_contributions_received_year_to_date": "200",
+    "boxD_expenditures_made_this_period": "200",
+    "boxE_expenditures_made_year_to_date": "200",
+    "boxF_subtotal_before_expenditures": "200",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form (v. 4.20). Every summary figure is written as a whole dollar amount with no cents ('$0', '$200') - transcribed verbatim with the leading $ dropped, not padded to 200.00. DISAGREES WITH index.csv reporting_period: index.csv says 'Withdraw/Elimination', but the page face has the '30 Days after the General Election' radio filled and no other. Office is printed lower-case 'seat C' - transcribed as written. The candidate's signature is redacted upstream by the county (black bar spanning the signature block); the address, phone and email survive. This form prints no political-party field. Page 2 is Schedule A - Itemized Contributions Received (a single line, 4/2/20 self-contribution of $200), NOT a second cover page, so this is ONE report despite the locator flagging pages 1 and 2 as covers."
+  }
+ ],
+ "notes": ""
+}

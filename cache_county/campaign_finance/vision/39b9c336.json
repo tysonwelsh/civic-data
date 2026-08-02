@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "88f7fd9bdb2ca5aa58a8a1c0276406db9495f56d6995f31d592f448579a167f0",
+ "canonical_path": "raw/2014/2014_cc_McAllister_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_McAllister_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "CRAIG McALLISTER",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "TREASURER",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "CACHE",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "LOGAN",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL ZOLLINGER",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12/4/14",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 04 DEC 2014 PM 12:03",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "11,566.20",
+     "c": "high"
+    },
+    "this": {
+     "v": "500.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "12,066.20",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "115.42",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "115.42",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "11,681.62",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "11,681.62",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0.00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Treasurer",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'TREASURER'; 'Office District' reads 'CACHE'; 'Political Party' reads 'REPUBLICAN'",
+  "confidence": "high"
+ },
+ "notes": "Cents are written as superscript on several boxes."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,598.63",
+ "total_expenditures": "$1,598.63",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$1,598.63",
+  "total_expenditures_to_date": "$1,598.63",
+  "line5_subtotal": "$1,598.63"
+ },
+ "cover": {
+  "candidate": "Larry Decker",
+  "party": "Republican",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/26/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Decker_L_12_FinalDissolution_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Larry Decker",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Decker_L_12_FinalDissolution_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Two-office-box form; top-row 'Office' and 'Office Sought' both read 'Mayor'. Lines 3 and 7 Column A are a hand-drawn slashed zero with a dash through the cell, recorded as 0. The 'No' amendment box is checked. Every non-zero cell carries the same figure ($1,598.63) - a single-period campaign that raised and spent the same amount, ending at zero as a dissolution requires. Clerk RECEIVED stamp APR 30 2012, signed 4/26/2012. Header block reads 'Page 1 of 3'."
+ }
+}

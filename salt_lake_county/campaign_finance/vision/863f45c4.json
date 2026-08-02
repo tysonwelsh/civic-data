@@ -1,0 +1,50 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "0",
+ "ending_balance": "153.23",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "306.46"
+ },
+ "cover": {
+  "candidate": "Benjamin Kendrick",
+  "party": "Republican",
+  "office_sought": "SaltLake County Council",
+  "district_number": "1",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "5 April 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/bkendrick_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Benjamin Kendrick",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/bkendrick_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1 and 2 are left ENTIRELY BLANK in both columns (recorded as empty strings, not zeros) even though the filer filled in the carry-forward lines below: Line 4 'Total Contributions Received (From Line 1 Column A)' = 306.46 and Line 6 'Total Expenditures Made (From Line 2 Column A)' = 153.23. I did NOT copy those into Lines 1/2. Line 3 Column A is a drawn zero. Line 7 = 153.23. Stamped COPY / RECEIVED APR 05 2006."
+ }
+}

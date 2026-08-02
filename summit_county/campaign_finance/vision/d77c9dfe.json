@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1268",
+  "path": "raw/2014/1268_yost_final.pdf",
+  "page": 1,
+  "sha256": "29a8091118b1e301407611b298f323f5637b3675daab2477de705d3d84b0a724",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1268/yost_final",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Amy W. Yost",
+  "office_verbatim": "Treasurer",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "12/4/14",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "1700.00",
+    "last_report": "3085.00",
+    "cumulative_totals": "4785.00"
+   },
+   "contrib_le50": {
+    "current_report": "75.00",
+    "last_report": "685.00",
+    "cumulative_totals": "760.00"
+   },
+   "total_expenditures": {
+    "current_report": "4332.75",
+    "last_report": "7309.74",
+    "cumulative_totals": "11,642.49"
+   },
+   "campaign_balance": {
+    "current_report": "(2557.75)",
+    "last_report": "(3539.74)",
+    "cumulative_totals": "(6,097.49)"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten cover. The Current Report <=$50 cell has a struck-out character before '75.00' (the filer over-wrote it); value read as 75.00 — medium confidence on that one cell (760.00 - 685.00 = 75.00 in the filer's own row is consistent but was NOT used to set the value). Balances written in accounting parentheses, kept verbatim. Column-order cross-check: Last Report reproduces doc 1098's Current figures exactly."
+}

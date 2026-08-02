@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "2297.49",
+ "beginning_balance": "3323.22",
+ "ending_balance": "1025.73",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3323.22"
+ },
+ "cover": {
+  "candidate": "Ann Granato",
+  "party": "Democrat",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/24/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Granato-Ann__A6C54095.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Granato, Ann",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Granato-Ann__A6C54095.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Office Sought and District Number cells are BLANK on the cover; the top-row Office reads 'Salt Lake County Council' - office_sought left empty rather than borrowed. The cover's signature Date line is blank; report_date is taken from the Summary Page 'Date of Report' box (01/24/2023). Column B (Aggregate Total) is blank on both Lines 1 and 2 - recorded as empty strings, not zeros. Figures are typed without dollar signs."
+ }
+}

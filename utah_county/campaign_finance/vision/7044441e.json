@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14Clerk-BThompson.pdf",
+ "key": "7044441e",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:15:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bryan E. Thompson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Clerk/Auditor",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/17/14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "16,060.00",
+    "contrib_cumulative": "16,060.00",
+    "expend_this_period": "15,994.71",
+    "expend_cumulative": "15,994.71",
+    "balance_beginning": "500.00",
+    "subtotal_before_expend": "16,560.00",
+    "balance_close": "565.29"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "16,060.00",
+    "line1_total_contributions_colB": "16,060.00",
+    "line2_total_expenditures_colA": "15,994.71",
+    "line2_total_expenditures_colB": "15,994.71",
+    "line3_balance_beginning": "500.00",
+    "line4_total_contributions_from_line1A": "16,060.00",
+    "line5_subtotal_lines3plus4": "16,560.00",
+    "line6_total_expenditures_from_line2A": "15,994.71",
+    "line7_balance_at_close": "565.29"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The filer writes cents as a raised/superscript pair over the dollar figure (e.g. '16,060' with a superscript '00'); transcribed here in decimal form. The third digit of the expenditure figure (15,994.71) is written over itself and is legible only at medium confidence in both Column A and Column B; the digits after the comma are the ambiguous part, not the cents. Neither amendment box (Yes/No) is marked, so is_amendment is left empty rather than assumed 'No'. Cover carries a clerk received stamp (JUN 17 PM 12:49) and a handwritten '1 of 5'."
+  }
+ ],
+ "notes": ""
+}

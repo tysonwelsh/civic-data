@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "19875.85",
+ "total_expenditures": "19,435.13",
+ "beginning_balance": "2233.58",
+ "ending_balance": "2674.30",
+ "aggregate": {
+  "total_contributions_to_date": "24,366.60",
+  "total_expenditures_to_date": "21,692.30",
+  "line5_subtotal": "22109.43"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council - At Large C",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-19-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_auger_janice06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_auger_janice06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Cents written as superscripts over a rule; transcribed with a decimal point. Summary Page header: Page 1 of 3, Auger, 6-19-06. NEITHER amendment box is checked. Line 3 (2233.58) is faint but matches the ending balance on Auger's April-5 amendment (key 99ed33f7), and Column A is internally consistent (2233.58 + 19875.85 = 22109.43; 22109.43 - 19435.13 = 2674.30)."
+ }
+}

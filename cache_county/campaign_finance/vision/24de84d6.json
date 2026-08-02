@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "d8bdd3bfeeaf26912eb229d9ac8fb7dbe0df58c10050f1616f411a783442e391",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Dennis_Jeffery_Nielsen.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Dennis_Jeffery_Nielsen.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "other",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "DENNIS JEFFREY NIELSEN",
+   "c": "medium"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY DISTRICT #3 SCHOOL BOARD",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "DISTRICT #3",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "NIBLEY",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "medium"
+  },
+  "date_signed": {
+   "v": "10/26/24",
+   "c": "medium"
+  },
+  "received_stamp": {
+   "v": "",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$0.00",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0.00",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "0.00",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "out_of_scope",
+  "office_std": "School Board",
+  "seat": "District #3",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'CACHE COUNTY DISTRICT #3 SCHOOL BOARD'; the printed title of the instrument itself is 'Financial Campaign Report for School Board' (not the county-offices form)",
+  "confidence": "high"
+ },
+ "notes": "FORM IDENTITY - this is NOT the 2022+ county-offices instrument. Every page is scanned SIDEWAYS (rotated 90 degrees) at low contrast, and the printed title reads 'Candidate Financial Disclosure / Financial Campaign Report for SCHOOL BOARD' beside the Cache County CLERK/AUDITOR seal. It is structurally the same four-part instrument as the county form (p1 cover, p2 Schedule A - Itemized Contributions Received, p3 Schedule B - Itemized Expenditures Made, p4 Summary Page with boxes A-F plus 'Balance at Close of Reporting Period'), but its cover offers FOUR report-type choices (30 days after withdrawal or elimination / Seven days preceding the Primary Election / 30 Days after the Primary Election / Seven days preceding the General Election / 30 Days after the General Election) and its Summary Page uses lower-case box labels ('Contributions Received this Period'). Because its printed title is neither the county-offices form nor the Carr 20A-11-1301 school-board instrument, form_read is 'other'. NO statutory citation is printed on any page. IT DOES CARRY A SUMMARY/TOTALS SECTION, so basis 'none' does not apply: page 4 states A=$0.00, B=$0.00, C=$0.00, D=$0.00, E=$0.00, F=$0.00 and Balance at Close=$0.00, all in the filer's hand with a handwritten '$' (the boxes carry no preprinted dollar sign). Schedule A (p2) and Schedule B (p3) are entirely BLANK of line items, and each prints a handwritten '0.00' on both its 'Subtotal for this page $' and its 'Total Contributions Received $' / 'Total Expenditures Made $' line; the form preprints the '$' on those lines, so the schedule_totals values are recorded without it. The zeros here are ordinary written zeros with a decimal point, not the slashed-O glyph, so they are transcribed at high confidence. This is a zero-activity filing. SCOPE: out_of_scope - the office the filer wrote names a SCHOOL BOARD seat, and the instrument's own title agrees; per the protocol's scope rule the office line decides, and here both point the same way. REPORT-TYPE ANOMALY: TWO marks appear in the 'Mark the applicable report' column - a heavy scribbled-over/struck mark on 'Seven days preceding the Primary Election' and a clean filled mark on 'Seven days preceding the General Election'. The struck Primary mark is read as a correction and the General box as the operative one (the report is dated 10/26/24, general-election timing, consistent with that reading); recorded at confidence medium because the correction is inferred from the strike, not printed. NAME NOTE vs THE LEDGER: the ledger's candidate is 'Dennis Jeffery Nielsen' (Jeff-E-ry). The cover's 'Name of Candidate' and the affirmation both read, in rough block capitals, 'DENNIS JEFFREY NIELSEN' (Jeff-R-ey), and pages 2-4 are signed 'D. JEFFREY NIELSEN'; the handwriting is coarse enough that the vowel order is not certain, so candidate_stated is confidence medium. This is a spelling variance in the same person's name, not a different filer - no wrong-candidate-PDF condition. The 'Date of Report' / signature date glyph could be read as 10/26/24 or 10/28/24 (the middle digit is smudged); '24' as the year is consistent with the 2024 cycle and every page carries the same glyph, so 10/26/24 is recorded at medium confidence rather than guessed at high. 'Office Use Only' shows an unfilled 'Logged' circle and the preprinted words 'Web Transmission'; there is no Clerk/Auditor date stamp anywhere."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "27,893.17",
+ "total_expenditures": "27,488.55",
+ "beginning_balance": "8,212.18",
+ "ending_balance": "8,616.80",
+ "aggregate": {
+  "total_contributions_to_date": "43,551.55",
+  "total_expenditures_to_date": "35,112.46",
+  "line5_subtotal": "36,105.35"
+ },
+ "cover": {
+  "candidate": "Diane Turner",
+  "party": "Democrat",
+  "office_sought": "SL Cnty Council",
+  "district_number": "#3",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dturner_10_Sept_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Diane Turner",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/dturner_10_Sept_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 and -r 400 to resolve Line 2/6 Column A)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten, cents as raised superscripts. Lines 2 and 6 Column A ('27,488') are written in a slanted single-stroke hand whose 8s can be mistaken for slashed zeros; read as 27,488.55 at 400 dpi (medium confidence). Line 1 Column B cents superscript '55' is small; read as 43,551.55, medium confidence. Neither the amendment Yes nor No box is checked. Cover top-row Office reads 'County Council #3'; Office Sought used per contract."
+ }
+}

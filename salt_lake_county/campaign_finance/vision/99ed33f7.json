@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4490.75",
+ "total_expenditures": "225717",
+ "beginning_balance": "0",
+ "ending_balance": "2233.58",
+ "aggregate": {
+  "total_contributions_to_date": "4490.75",
+  "total_expenditures_to_date": "225717",
+  "line5_subtotal": "4490.75"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council - At Large C",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "4-5-06",
+  "report_date": "8-2-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_4506amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jauger_4506amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Amendment to the April 5, 2006 report (amendment Yes box checked, date of report '4-5-06'), signed 8-2-06, clerk stamp AUG 04 2006. Line 2 in BOTH columns is written WITHOUT a decimal point - '225717' - and is transcribed that way; Line 6 (not a captured field) prints the same figure as '2257.17', and Line 5 minus that value gives Line 7 (4490.75 - 2257.17 = 2233.58). Line 3 zero is a slashed zero. Summary Page header: Page 1 of 3, 'Janice Auger', 8-2-06."
+ }
+}

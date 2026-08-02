@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Aaron_Davidson_Redacted.pdf",
+ "key": "ce69c783",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:05:00Z",
+ "pages_read": [1, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Aaron Davidson",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "Lindon",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/16/26",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "17,360.29",
+    "contrib_cumulative": "17,360.29",
+    "expend_this_period": "17,013.80",
+    "expend_cumulative": "17,013.80",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "17,360.29",
+    "balance_close": "346.49"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "17,360.29",
+    "boxC_contributions_received_year_to_date": "17,360.29",
+    "boxD_expenditures_made_this_period": "17,013.80",
+    "boxE_expenditures_made_year_to_date": "17,013.80",
+    "boxF_subtotal_before_expenditures": "17,360.29",
+    "balance_at_close": "346.49"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form; every figure is typed. Office field reads 'Utah County Clerk' (index.csv 'County Clerk' - agrees). Street address, phone number and the signature block are redacted upstream by the county (black bars); the printed city 'Lindon, UT 84042' and the email survive. Amounts are typed WITHOUT dollar signs; comma thousands separators preserved. NOTE for readers: this filer, Aaron Davidson, is the sitting Utah County Clerk whose name also appears in the form's own letterhead ('Aaron Davidson, Clerk') - the letterhead is preprinted on every filing in this corpus and is NOT evidence about the filer; here the Name of Candidate field independently reads 'Aaron Davidson'. This cover page prints the filing address as 'disclosures@utahcounty.gov' where other v. 12.23 copies print 'elections@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,61 @@
+{
+ "path": "raw/2018/2018_Powers.pdf",
+ "key": "7bf1b2df",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:40:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Amelia Powers",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Clerk/Auditor",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/29/2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "7,490.00",
+    "contrib_cumulative": "",
+    "expend_this_period": "5792.01",
+    "expend_cumulative": "",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "7,490.00",
+    "balance_close": "1697.99"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,490.00",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "5792.01",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0.00",
+    "line4_total_contributions_from_line1A": "7,490.00",
+    "line5_subtotal_lines3plus4": "7,490.00",
+    "line6_total_expenditures_from_line2A": "5792.01",
+    "line7_balance_at_close": "1697.99",
+    "stray_figure_in_CONTRIBUTIONS_RECEIVED_header_band": "7,490.00",
+    "stray_figure_in_EXPENDITURES_MADE_header_band": "5792.01",
+    "stray_figure_in_BALANCE_SUMMARY_header_band": "1697.99"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed (fillable form, printed and scanned) - all figures are machine text, hence high confidence. MISALIGNED FORM, recorded but NOT reconciled: the Line 1 and Line 2 'Column B - Year-to-Date Total' cells are EMPTY, while three large figures (7,490.00 / 5792.01 / 1697.99) are printed at the Column B position inside the CONTRIBUTIONS RECEIVED, EXPENDITURES MADE and BALANCE SUMMARY section-header bands directly above their lines. These are very likely the filer's Column B entries rendered one row high by the fillable form, but that is an inference, so contrib_cumulative / expend_cumulative are left blank and the three stray figures are recorded verbatim under their own keys for the reader to judge. Dates disagree between pages: the cover signature is dated 10/29/2018, the summary page's 'Date of Report' box reads 10/30/18; report_date takes the cover signature. The clerk's receipt stamp reads 'OCT 30 PM 1:56'. Summary page is Page 1 of 1, Last Name 'Powers'. The filer typed no fax number."
+  }
+ ],
+ "notes": ""
+}

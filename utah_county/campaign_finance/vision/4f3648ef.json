@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Smith_Mike_Redacted.pdf",
+ "key": "4f3648ef",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:38:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Mike Smith",
+   "party_printed": "",
+   "office_printed": "Sheriff",
+   "residence_city": "",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "Dec 8, 2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "7176",
+    "expend_this_period": "0",
+    "expend_cumulative": "6527.07",
+    "balance_beginning": "649.00",
+    "subtotal_before_expend": "0",
+    "balance_close": "649"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "649.00",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "7176",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "6527.07",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "649"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form. Same seven box values as this filer's 11/1/22 pre-general report (key ac5f110f) - the filer reported no activity between the two - but this is a SEPARATE report: the checked type is '30 Days after the General Election' and the date is Dec 8, 2022 (Date of Filing likewise Dec 8, 2022). FILER ERROR, NOT CORRECTED: Box F (A + B) is typed '0' although A is 649.00; Box G is typed '649' although the label says F - D. Both transcribed as printed. The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. Amendment 'No' is checked."
+  }
+ ],
+ "notes": ""
+}

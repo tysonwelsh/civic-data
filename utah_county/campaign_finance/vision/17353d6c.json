@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyRecorderCampbellRodney081310.pdf",
+ "key": "17353d6c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:08:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "RODNEY D. CAMPBELL",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "COUNTY RECORDER",
+   "residence_city": "PROVO",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "",
+   "report_date": "7/13/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "2003.75",
+    "expend_this_period": "0",
+    "expend_cumulative": "2003.75",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "2003.75",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "2003.75",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "0",
+    "line5_subtotal_lines3plus4": "0",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten all-caps (the same filer's 6/14/2010 report, key e0c17755, was typed). A ZERO-ACTIVITY PERIOD: every Column A cell and every line 3-7 cell is the filer's slashed-zero glyph (a circle with a stroke through it), transcribed as 0 at medium confidence; Column B carries the unchanged year-to-date 2003.75 on both lines, which matches the prior report's totals exactly. The 'Is this report an amendment?' Yes and No boxes are BOTH left unchecked - is_amendment is '' (blank, not 'No'). REPORT DATE DISAGREES WITH THE PORTAL LABEL: the signature date is unmistakably '7/13/10' (cropped and enlarged to confirm the leading 7), while the clerk's received stamp reads AUG 13 and index.csv's reporting_period says 'Campbell - 08/13/10'; the page value is transcribed. Office Seeking reads 'COUNTY RECORDER', agreeing with index.csv. The Page/of, Last Name and Date of Report boxes on the summary page were all left blank."
+  }
+ ],
+ "notes": ""
+}

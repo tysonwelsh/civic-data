@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Tracy.pdf",
+ "key": "c969ce67",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:35:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JAMES O. TRACY",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "SHERIFF",
+   "residence_city": "PROVO",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10-28-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "65.00",
+    "balance_beginning": "(65.00)",
+    "subtotal_before_expend": "(65.00)",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "0",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "65.00",
+    "line3_balance_beginning": "(65.00)",
+    "line4_total_contributions_from_line1A": "(65.00)",
+    "line5_subtotal_lines3plus4": "(65.00)",
+    "line6_total_expenditures_from_line2A": "65.00",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "THIS FILING USES THE COUNTY-ONLY TITLE: '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (no '& LOCAL SCHOOL BOARD'), with the sidebar reading 'COUNTY CANDIDATES' and the summary-page header '2014 County Candidate' - a different printing of the legacy form from the other 2014 filings in this tranche. Handwritten. The filer writes zeros as a slashed-zero glyph (lines 1A, 1B, 2A, 7) - actually-written zeros, transcribed 0 at medium confidence. Cents are written as a raised superscript ('65.' with superscript '00'), transcribed 65.00. NEGATIVE figures are written in accountant's parentheses on lines 3, 4 and 5 and are transcribed with the parentheses intact. FILER ERROR retained verbatim: line 4 is labelled 'Total Contributions Received (From Line 1 Column A)' but the filer wrote (65.00) there while line 1 Column A is a zero - not corrected. Street address and zip code left blank by the filer on the cover; there is no political-party inconsistency."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2100.00",
+ "total_expenditures": "16,649.83",
+ "beginning_balance": "25,203.64",
+ "ending_balance": "10653.81",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "27,303.64"
+ },
+ "cover": {
+  "candidate": "Ashley Liewer",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Cou",
+  "district_number": "D3",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Liewer-Ashley__526DCB1A.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liewer, Ashley",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Liewer-Ashley__526DCB1A.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing titles this filing with the candidate's email address ('ashleyrliewer@gmail.com'); the form is her January 31, 2023 year-end report. Office Sought is truncated on the form face to 'Salt Lake County Cou' (cell overflow) - recorded as printed. Thousands separators are used inconsistently (2100.00 and 10653.81 without commas; 16,649.83 / 25,203.64 / 27,303.64 with) - kept verbatim. Column B blank on both lines. Internally consistent (27,303.64 - 16,649.83 = 10,653.81)."
+ }
+}

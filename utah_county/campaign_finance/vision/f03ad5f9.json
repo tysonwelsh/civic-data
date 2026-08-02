@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-WrightJoel-061510.pdf",
+ "key": "f03ad5f9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Joel Wright",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat A",
+   "residence_city": "Cedar Hills",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-15-2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "47,652",
+    "contrib_cumulative": "47,652",
+    "expend_this_period": "42,950.15",
+    "expend_cumulative": "42,950.15",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "47,652",
+    "balance_close": "4,701.85"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "47,652",
+    "line1_total_contributions_colB": "47,652",
+    "line2_total_expenditures_colA": "42,950.15",
+    "line2_total_expenditures_colB": "42,950.15",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "47,652",
+    "line5_subtotal_lines3plus4": "47,652",
+    "line6_total_expenditures_from_line2A": "42,950.15",
+    "line7_balance_at_close": "4,701.85"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten fax (header '06/15/2010 15:22 FAX'). Clear, unambiguous handwriting throughout. Line 3 is a handwritten '0'. Line 1 carries no cents on the form ('47,652'); transcribed as printed. The Office Seeking line names the seat explicitly - 'Utah County Commission Seat A' - agreeing with index.csv. The Page/of box on the summary page was left blank by the filer. Street address (9102 Silver Lake Drive) is printed in full (not redacted by the county); the clerk's FILED stamp is printed mirror-reversed in the For Office Use Only box."
+  }
+ ],
+ "notes": ""
+}

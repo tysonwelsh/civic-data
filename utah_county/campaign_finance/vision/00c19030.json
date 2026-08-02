@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Skyler_Beltran.pdf",
+ "key": "00c19030",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:35:00Z",
+ "pages_read": [1, 3, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Skyler M. Beltran",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner Seat C",
+   "residence_city": "Lehi",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/28/2024",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "13,894.23",
+    "contrib_cumulative": "13,894.23",
+    "expend_this_period": "3,849.95",
+    "expend_cumulative": "3,849.95",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "13,894.23",
+    "balance_close": "10,044.28"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "13,894.23",
+    "boxC_contributions_received_year_to_date": "13,894.23",
+    "boxD_expenditures_made_this_period": "3,849.95",
+    "boxE_expenditures_made_year_to_date": "3,849.95",
+    "boxF_subtotal_before_expenditures": "13,894.23",
+    "balance_at_close": "10,044.28"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form, dotloop-signed (signature verification banner 'dtlp.us/hJgj-FYBE-0IZc' at the top of pages 1 and 3; dotloop stamp '10/29/24 1:53 PM MDT'). Not redacted - address, phone and email are all printed; only the city is recorded here per package privacy rules. Office field reads 'Utah County Commissioner Seat C' (index.csv 'County Commission Seat C' - agrees). Candidate name on the page is 'Skyler M. Beltran'; index.csv carries 'Skyler Beltran' (middle initial only). Box A is written '$0' with no cents. DATE DISCREPANCY within the filing: the cover page's 'Date of Report' and signature date both read 10/28/2024, while the summary page's own 'Date of Report' box reads 10/29/2024 - report_date takes the cover value, the summary value is recorded here. Page 3 is Schedule A (8 itemized contributions, page subtotal 8,544.23, 'Total Contributions Received 13,894.23') - NOT transcribed per this tranche's totals-only scope; its stated total agrees with Box B. Red clerk 'RECEIVED OCT 30 2024' stamp on the cover (clerk markup). index.csv carries a blank reporting_period; the page checks 'Seven days preceding the General Election'."
+  }
+ ],
+ "notes": ""
+}

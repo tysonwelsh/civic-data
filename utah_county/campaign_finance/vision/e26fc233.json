@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Williams_Taylor_5.9.2022_Redacted.pdf",
+ "key": "e26fc233",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:18:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Taylor Williams",
+   "party_printed": "",
+   "office_printed": "Auditor",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/9/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "864.95",
+    "contrib_cumulative": "3488.45",
+    "expend_this_period": "864.95",
+    "expend_cumulative": "3488.45",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "864.95",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "864.95",
+    "boxC_contributions_received_year_to_date": "3488.45",
+    "boxD_expenditures_made_this_period": "864.95",
+    "boxE_expenditures_made_year_to_date": "3488.45",
+    "boxF_subtotal_before_expenditures": "864.95",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed figures. This is a LATER revision of the modern form than a14994b8's v. 4.20: the report-type list adds an 'End-of-Year Report' option, the affirmation block is labelled 'Affirmation' (not a second 'Type of Report'), the cover adds a 'Date of Filing' box (5/9/2022), and the Balance at Close box is lettered 'G'. No version string is printed in the footer. The Office field reads 'Auditor' (index.csv says 'County Auditor' - naming convention only). Address/city/state/zip are redacted upstream by the county (black bar), so residence_city is ''; the signature itself is NOT redacted on this filing. The summary page's own 'Name of Candidate' and 'Date of Report' boxes were left blank by the filer; report_date is taken from the cover page signature/filing date."
+  }
+ ],
+ "notes": "The chunk listed pages 4 and 5 as summary pages, but page 5 is the county's internal 'Campaign Financial Disclosure Checklist' (two staff review sign-offs dated 5/18/2022), not a second report. ONE report only; page 4 is the sole Summary Page."
+}

@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-26-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/RSnelgrove_11_Dissolution_AtLrgB.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/RSnelgrove_11_Dissolution_AtLrgB.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page dissolution notice only - no Summary Page and no figures, despite the form's instruction to attach a final summary report. This form variant has no 'County Office' field; it asks instead for 'Date Committee Was Established', filled in as 3-12-10. Committee 'RICHARD SNELGROVE COUNTY COUNCIL'; candidate and secretary both Richard Snelgrove. Office_sought is left blank because the form prints no office field (the At-Large B seat comes from the clerk listing only). Signed 1-26-12; clerk RECEIVED stamp JAN 27 2012."
+ }
+}

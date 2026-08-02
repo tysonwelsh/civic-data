@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4.97",
+ "total_expenditures": "-0-",
+ "beginning_balance": "108.71",
+ "ending_balance": "113.68",
+ "aggregate": {
+  "total_contributions_to_date": "4.97",
+  "total_expenditures_to_date": "-0-",
+  "line5_subtotal": "113.68"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "#3",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/18/06",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/dwilde_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "OLDER form variant (no year in title; interim options are the 'Seven days before a primary/general election' set). This is the 2005 year-end (Jan 31 2006) report. The 'State' box on the cover carries 'UTAH'. Zeros written '-0-'. Summary header: page 2 of 4, WILDE, 1-18-06. Received stamp JAN 19 2006; stamped COPY."
+ }
+}

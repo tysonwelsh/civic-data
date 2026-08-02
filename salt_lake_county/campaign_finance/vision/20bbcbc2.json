@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "(11,487.42)",
+ "ending_balance": "(11,487.42)",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "(11,487.42)"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At-Large Seat A",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_12_Final_Amended_CouncilA_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_12_Final_Amended_CouncilA_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 and -r 600 with crops)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'Amendment to 2012 Summary Report', but the form face checks ONLY the Year-End box and leaves BOTH amendment boxes ('Yes' and 'No') unchecked - so is_amendment is blank, not 'Yes'. This document is byte-different from but page-for-page IDENTICAL in content to key 509f34ed (Horiuchi_R_12_Final_CouncilA_Redacted.pdf) - same cover, same date 1/31/13, same figures; the pair appears to be one report scanned twice. Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of 11,487.42 - kept verbatim; re-rendered at 600 dpi to confirm the middle digit is an 8 ('11,487.42', not '11,407.42'). Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B is blank on lines 1 and 2 (empty strings, not zeros)."
+ }
+}

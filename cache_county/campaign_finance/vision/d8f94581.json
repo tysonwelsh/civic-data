@@ -1,0 +1,123 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "69d9025a8e24d1f95f00e6a8c006958159b8d3d1ced31d6caf77c2834eeb4366",
+ "canonical_path": "raw/2018/2018_cc_Paul_R_Borup.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Paul_R_Borup.pdf",
+  "raw/2018/2018_st_Borup_Paul.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "PAUL R. BORUP",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY COUNCIL",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "LOGAN SEAT #3",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "LOGAN",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL N. ZOLLINGER",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/27/18",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "Rec'd 10/29/18 10:33 SH",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "1,649.67",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "1,649.67",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "25.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "25.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "1,674.67",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "1,674.67",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "LOGAN SEAT #3",
+  "evidence": "page 1 'Name of Office' reads 'CACHE COUNTY COUNCIL'; 'Office District' reads 'LOGAN SEAT #3'; 'Political Party' reads 'REPUBLICAN'",
+  "confidence": "high"
+ },
+ "notes": "'N/A' on line 1 of the LAST-REPORT column, with a downward arrow drawn through the rest of that column (lines 2-4 recorded blank). Zeros on line 4 are written '-0-'. The received stamp is hand-written in red."
+}

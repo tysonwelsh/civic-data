@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "300",
+ "total_expenditures": "4,358.75",
+ "beginning_balance": "11,852.61",
+ "ending_balance": "7,793.86",
+ "aggregate": {
+  "total_contributions_to_date": "32,295.",
+  "total_expenditures_to_date": "24,501.19",
+  "line5_subtotal": "12,152.61"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "SLCo Council",
+  "district_number": "#5",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-30-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jallen_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jallen_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "OVERWRITE on Line 1 Column B (verified at 300dpi): the filer wrote a figure, struck it through heavily, and wrote '32,295.' above it. The value that stands ('32,295.', trailing period as printed) is transcribed; the struck figure underneath is illegible. Line 3's fourth digit is ambiguous between 6 and 8; read as 8 (11,852.61) - lines 4 and 5 as printed (300 and 12,152.61) and Line 7 (7,793.86 = 12,152.61 - 4,358.75) support that reading. Line 4 is written '300.-'. Line 2 Column B reads '24,501.19' with comma/period separators used interchangeably by this hand (low confidence). Summary Page header: Page 1 of 3, ALLEN, 1-30-07."
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "111.80",
+ "beginning_balance": "111.80",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "111.80"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/15/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Iwamoto_J_Final_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Iwamoto_J_Final_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Final/Dissolution box is checked; neither amendment box is checked. Signed 1/15/14, clerk stamp JAN 21 2014; a hand-written fax cover note at the top reads 'ckuhn@slco.org / Fax: 385-468-7401 / attn: Dahnelle Burtonlee'. Column B is blank on lines 1 and 2 (empty strings) and Line 4 Column A is also left BLANK by the filer, even though lines 3 and 5 both read 111.80. Line 7 is a hand-drawn slashed zero. IMPORTANT FILER ANNOTATION in the right margin of the Summary Page, transcribed verbatim: 'Please note that 1/25/13 received report had the beginning balance of $111.08. The numbers were accidentally transposed - the beginning balance in the report filed 1/1/12 was $111.80.' That annotation reconciles this chunk's two conflicting Iwamoto figures: key 1ce31a59 (received JAN 25 2013) prints $111.08 and key 42f6908b (2011 year-end) prints $111.80. Both are transcribed as printed; the annotation says $111.80 is the correct one."
+ }
+}

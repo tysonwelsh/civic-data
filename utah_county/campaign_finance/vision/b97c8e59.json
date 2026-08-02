@@ -1,0 +1,58 @@
+{
+ "path": "raw/2020/2020_SakievichTom_Redacted.pdf",
+ "key": "b97c8e59",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Thomas V. Sakievich",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "OCTOBER 27, 2020",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "38,237.00",
+    "contrib_cumulative": "66,650.88",
+    "expend_this_period": "37,182.65",
+    "expend_cumulative": "58,516.22",
+    "balance_beginning": "7,003.10",
+    "subtotal_before_expend": "45,240.10",
+    "balance_close": "8,057.45"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "38,237.00",
+    "line1_total_contributions_colB": "66,650.88",
+    "line2_total_expenditures_colA": "37,182.65",
+    "line2_total_expenditures_colB": "58,516.22",
+    "line3_balance_beginning": "7,003.10",
+    "line4_total_contributions_from_line1A": "38,237.00",
+    "line5_subtotal_lines3plus4": "45,240.10",
+    "line6_total_expenditures_from_line2A": "37,182.65",
+    "line7_balance_at_close": "8,057.45"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable legacy form; Column A and lines 3-7 are typed and crisp. The TWO Column B (Year-to-Date) cells are HANDWRITTEN in blue ink and are the only medium-confidence figures: line 1 Column B read as '66,650.88' and line 2 Column B as '58,516.22'. In both the filer underlines the cents with a horizontal pen stroke (the same habit on both lines) - this is an underline, not a strike-through, and nothing is rewritten above it. Column A amounts are printed with a leading '$' on this page; the '$' is dropped per the transcription convention. The filer hand-wrote 'UTAH COUNTY COMMISSION' on the Office: line and left District: blank; the typed Office Seeking box also reads 'Utah County Commission'. OFFICE DISAGREEMENT: the page states no SEAT; office_index says 'County Commission Seat C'. Amendment answered 'No'. Verification block partly redacted upstream by the county (black bar); the handwritten Date reads 'OCT 27, 2020' in the verification block and 'OCTOBER 27, 2020' in the summary-page header. Summary page hand-numbered 'Page 2 of 5'."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,380",
+ "total_expenditures": "4,923.01",
+ "beginning_balance": "1,288.40",
+ "ending_balance": "3,745.39",
+ "aggregate": {
+  "total_contributions_to_date": "9,460",
+  "total_expenditures_to_date": "5,714.61",
+  "line5_subtotal": "8,668.40"
+ },
+ "cover": {
+  "candidate": "JOSEPH M. DEMMA",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNCIL",
+  "district_number": "AT-LARGE",
+  "report_type": "Interim Report: June 19 (for the period ending June 18, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/19/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_June_Interim__CntyCncl_AtLrgC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_June_Interim__CntyCncl_AtLrgC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single office line on this 2012 form: 'COUNCIL' in Office Sought and 'AT-LARGE' in District Number, recorded verbatim. Contribution amounts are written without cents (7,380 / 9,460). Neither amendment box is checked. Clerk RECEIVED stamp JUN 19 2012. Line 3 ($1,288.40) carries forward from the AMENDED April report's line 7, not the original April report's $1,548.14 - the filer used the amended figure. Arithmetic is internally consistent and Column B equals the April amendment's aggregates plus this period."
+ }
+}

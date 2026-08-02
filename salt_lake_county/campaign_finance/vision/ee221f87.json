@@ -1,0 +1,50 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "833.41",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "9 349,85",
+  "total_expenditures_to_date": "9 349.85",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Brent Cardall",
+  "party": "Republican",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "3/17/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_bcardall_yearendsummreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Cardall",
+  "office": "Sheriff",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_bcardall_yearendsummreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to inspect the Column B separators)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2008 Summary Report', but the form checks the FINAL REPORT box, not the Year-End box (the check mark sits on the Final Report box; read at medium confidence because the mark is a light hook). The Office Sought box is blank. Neither amendment box is checked. DECIMAL COMMA: Line 1 Column B is written '9 349,85' - a space where the thousands comma belongs and a COMMA as the decimal separator - recorded exactly as written; Line 2 Column B is written '9 349.85' with a period. Lines 1 and 2 Column A, Line 4 and Line 5 are all left BLANK by the filer; only Lines 3, 6 (both 833.41) and 7 carry Column A figures. Line 7 is a slashed zero = 0."
+ }
+}

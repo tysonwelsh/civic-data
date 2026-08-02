@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,306.56",
+ "total_expenditures": "2,886.54",
+ "beginning_balance": "100.00",
+ "ending_balance": "2,520.02",
+ "aggregate": {
+  "total_contributions_to_date": "5,559.79",
+  "total_expenditures_to_date": "3,039.77",
+  "line5_subtotal": "5,406.56"
+ },
+ "cover": {
+  "candidate": "Nate Hendricks",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_hendricks_nate06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_hendricks_nate06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250 to resolve Line 1 Column B",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cents written as a raised superscript over a rule on the Column A lines and on Line 1 Column B - transcribed with a decimal point. Line 1 Column B was re-rendered at 250 dpi: the superscript reads 79 (5,559.79), which the form's own internals corroborate (5,559.79 - 5,306.56 = 253.23 and 3,039.77 - 2,886.54 = 153.23, differing by the 100.00 opening balance). Neither amendment box is checked."
+ }
+}

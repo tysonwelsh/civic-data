@@ -1,0 +1,60 @@
+{
+ "path": "raw/2022/2022_Oaks_Jake_4.3.2022_Redacted.pdf",
+ "key": "786f4d74",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:42:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jake Oaks",
+   "party_printed": "",
+   "office_printed": "UTAH County Clerk",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "",
+   "report_date": "04/03/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "283.98",
+    "expend_this_period": "283.98",
+    "expend_cumulative": "283.98",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "283.98",
+    "boxC_marginal_annotation": "(personal loan to campaign)",
+    "boxD_expenditures_made_this_period": "283.98",
+    "boxE_expenditures_made_year_to_date": "283.98",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [
+    "residence_city"
+   ],
+   "notes": "Handwritten on a washed-out pink/grey photocopy - every figure is medium confidence. STRUCK-THROUGH VALUE: the Balance at Close box holds a heavily scribbled-out figure followed by a hand-drawn '0' and a small scrawl; the SURVIVING value is transcribed as '0' and the struck figure is illegible and NOT guessed. The filer annotated Box C in the right margin '(personal loan to campaign)', captured verbatim in totals_verbatim under its own key. FILER INCONSISTENCY retained: Box B (contributions this period) is 0 while Box C (year to date) is 283.98, and Box F is 0 although the form defines it as A + B. Boxes A, B and F are hand-drawn zeros. Office is handwritten 'UTAH County Clerk' with that mixed casing. NEITHER amendment radio is marked, so is_amendment is \"\". Address block and signature are blacked out (redacted upstream by the county). The cover's own 'Date of Report' and 'Page' boxes are empty; report_date is the signature Date (04/03/2022), which matches the summary page's Date of Report."
+  }
+ ],
+ "notes": "The OCR locator listed pages 1 and 4 as covers and page 5 as the summary; the rendered images show the opposite - physical p4 IS the Summary Page and physical p5 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, dated 4/4/22 and 4/6/2022). One report only."
+}

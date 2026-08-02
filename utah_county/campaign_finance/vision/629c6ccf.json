@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Michelle_Kaufusi_Redacted.pdf",
+ "key": "629c6ccf",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:59:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Michelle Kaufusi",
+   "party_printed": "",
+   "office_printed": "County Commission Seat A",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/16/26",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "94009.26 +Inkind 666.67",
+    "contrib_cumulative": "94009.26 +Inkind 666.67",
+    "expend_this_period": "90890.82",
+    "expend_cumulative": "90890.82",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "94009.26 +Inkind 666.67",
+    "balance_close": "3118.44"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "94009.26 +Inkind 666.67",
+    "boxC_contributions_received_year_to_date": "94009.26 +Inkind 666.67",
+    "boxD_expenditures_made_this_period": "90890.82",
+    "boxE_expenditures_made_year_to_date": "90890.82",
+    "boxF_subtotal_before_expenditures": "94009.26 +Inkind 666.67",
+    "balance_at_close": "3118.44"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form. Boxes B, C and F are printed as a COMPOUND value - '94009.26 +Inkind 666.67' - the filer wrote the cash figure plus a separate in-kind figure in the same cell; both are retained verbatim in the normalized slots rather than being summed or split (no arithmetic performed). Box A is a typed '0'. The form prints no political-party field. Signature is redacted upstream by the county (black bar); the printed Date and Date of Report (6/16/26) survive. The cover page's own Page box reads '2' although this is the first page of the rendered PDF."
+  }
+ ],
+ "notes": "index.csv office 'County Commission Seat A' AGREES with the page face. The OCR locator's variant_guess was 'legacy_colAB'; the filing is in fact the modern Box A-F form (v. 12.23)."
+}

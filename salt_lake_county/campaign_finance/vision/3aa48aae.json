@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Lilli E. De Cair",
+  "party": "Personal Choice",
+  "office_sought": "SL Co Council",
+  "district_number": "1",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": null,
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ldecair_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lilli Decair",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/ldecair_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 1 re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Poor-quality fax copy (fax header 'APR-05-06 03:41 PM WENDYKUNZ 8017823792'), heavily blackened at the page edges; re-rendered at 260 dpi and the signature Date is still illegible, so report_date is null (the clerk RECEIVED stamp reads APR 05 2006 and the fax header APR-05-06, but neither is the signature date). Every Summary Page cell (Lines 1-7, both columns) carries a small hand-drawn zero, so all totals are 0."
+ }
+}

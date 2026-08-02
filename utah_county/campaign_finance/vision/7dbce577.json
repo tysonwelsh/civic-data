@@ -1,0 +1,58 @@
+{
+ "path": "raw/2016/2016_Frost.pdf",
+ "key": "7dbce577",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:10:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bradley J Frost",
+   "party_printed": "Republican",
+   "office_printed": "County Commission Seat C",
+   "residence_city": "American Fork",
+   "report_type_printed": "",
+   "is_amendment": "No",
+   "report_date": "04/21/2017",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2,177.09",
+    "contrib_cumulative": "",
+    "expend_this_period": "1,602.14",
+    "expend_cumulative": "",
+    "balance_beginning": "763.15",
+    "subtotal_before_expend": "2,940.24",
+    "balance_close": "1,338.10"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2,177.09",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "1,602.14",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "763.15",
+    "line4_total_contributions_from_line1A": "2,177.09",
+    "line5_subtotal_lines3plus4": "2,940.24",
+    "line6_total_expenditures_from_line2A": "1,602.14",
+    "line7_balance_at_close": "1,338.10"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "low",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": ["report_type_printed"],
+   "notes": "Cover fields and the whole summary page are TYPED (born-digital fill, then scanned); the name on the Report Verification line is handwritten. REPORT TYPE IS NOT DETERMINABLE: TWO of the five Type-of-Report boxes carry marks - a handwritten check at '30 Days after the Primary Election' (with an additional illegible ink squiggle just above it) AND a solidly filled-in box at '30 Days after the General Election'. Rather than pick one, report_type_printed is left empty and flagged unreadable; the portal's reporting_period label for this filing is 'Commission C - Brad Frost, Post-Primary'. The amendment control on this version of the form is a RADIO button pair, and the 'No' radio is filled - is_amendment 'No' is solid. BOTH Column B (Year-to-Date) cells, lines 1 and 2, were LEFT BLANK by the filer (empty, not zero). The report date, 04/21/2017, is what the form prints on both the cover and the summary page even though this is a 2016-cycle filing."
+  }
+ ],
+ "notes": ""
+}

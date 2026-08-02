@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Jimmy Cadman",
+  "party": "P.P.",
+  "office_sought": null,
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "party": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jcadman_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jimmy L. Cadman",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jcadman_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; Office-Sought field crop re-rendered at -r 400",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Office Sought IS filled in but is an illegible two-line scrawl even at 400 dpi - the first line begins 'Coun...' and the second line ends '...Large'; recorded as null rather than guessed. The signature is present but the Date rule next to it was left BLANK (clerk received-stamp is SEP 14 2006). Every Summary Page cell (Lines 1-7, both columns) is a small unslashed hand-drawn oval zero; all recorded as '0' at medium confidence because the mark is a loop with no slash. Political Party reads 'P.P.' (low confidence). Neither amendment box is checked."
+ }
+}

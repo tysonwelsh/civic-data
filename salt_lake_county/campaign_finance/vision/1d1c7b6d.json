@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$35.00",
+ "total_expenditures": "$35.00",
+ "beginning_balance": "274.94",
+ "ending_balance": "274.94",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "309.94"
+ },
+ "cover": {
+  "candidate": "Cal Noyce",
+  "party": "Democrat",
+  "office_sought": "SL Cty Council",
+  "district_number": "2",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/26/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "low",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cnoyce_10_OctoberInterim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Calvin J. Noyce",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/cnoyce_10_OctoberInterim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150 (both pages re-rendered at -r 300; district field and Line 1/2 cells cropped and enlarged)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DISTRICT MISMATCH worth a human's attention: this form's District Number field is unambiguously a '2' (verified at 300 dpi and enlarged), while Noyce's own April, June, September and Year-End filings all write '1' and the clerk listing files him under Council #1. Transcribed as printed. This is a very light scan: Lines 1 and 2 Column A are faint and read '$35.00' \u2014 Line 2 especially (low) \u2014 but Lines 4 and 6 repeat 35.00 clearly, and the balance chain confirms it (274.94 + 35.00 = 309.94; minus 35.00 = 274.94). Column B is blank on both lines. The report-type checkbox is a faint tick beside (not inside) 'Seven days before a general election'; no other period box is marked, and the 10/26/10 date fits that filing (medium). Stamped RECEIVED OCT 26 2010."
+ }
+}

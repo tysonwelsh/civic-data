@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "20766",
+  "path": "raw/2022/20766_Murphy-Post-Election-2022.pdf",
+  "page": 1,
+  "sha256": "65f22e05d5c30341f6ec22b77cdef22d460c61d8faba085236ab7d1ce878725d",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/20766/Murphy-Post-Election-2022",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "John \"Jack\" Murphy",
+  "office_verbatim": "County Coucil Seat E",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "12/8/22",
+  "rows": {
+   "contrib_total": {
+    "current_report": "200",
+    "last_report": "5100",
+    "cumulative_totals": "5300"
+   },
+   "total_expenditures": {
+    "current_report": "1509.01",
+    "last_report": "3733.22",
+    "cumulative_totals": "5242.23"
+   },
+   "campaign_balance": {
+    "current_report": "1309.01",
+    "last_report": "1366.78",
+    "cumulative_totals": "-57.77"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2022 single-total sheet ('County Coucil' typo retained). Column-order cross-check: Last Report reproduces doc 20640's Current figures (5100 / 3733.22 / 1366.78) — this INDEPENDENTLY resolves 20640's ambiguous cumulative expenditure glyph as 3733.22, but 20640's own null is left as-is (never back-filled from another document)."
+}

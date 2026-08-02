@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "11f78fab6f938ee19805b5c342f7244d4037670302031f33536dc5de01919aa3",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Tennille_Johnson.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Tennille_Johnson.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Tennille Johnson",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Recorder",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "millville",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102 Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/18/24",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 18 PM",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$ 672.12",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$ 672.12",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "$ 672.12",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Recorder",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Recorder'; the printed instrument header reads 'Financial Campaign Report for County Offices' (this variant does NOT carry the 'and Local School Board Candidates' second line)",
+  "confidence": "high"
+ },
+ "notes": "Four pages: 1 cover, 2 Schedule A (empty), 3 Schedule B (two itemized lines), 4 Summary Page. Filled in by hand in blue ink; scan quality very good, everything legible. No statutory citation is printed anywhere on the form. CONTRADICTS THE LEDGER (flagged, not corrected here): the ledger carries form_family='campaign_report_variant_unread' and scope_status='undetermined', but the page is unambiguously the Cache County Clerk/Auditor 'Candidate Financial Disclosure / Financial Campaign Report for County Offices' instrument with a clearly handwritten Office line reading 'Recorder' - a county office. Note this variant of the printed header omits 'and Local School Board Candidates', so the instrument itself is county-only. The ledger candidate name 'Tennille Johnson' matches the form exactly. NOT an amendment ('No' is marked). ZERO GLYPHS: Schedule A's 'Subtotal for this page' and 'Total Contributions Received' are each a small hand-drawn open O used as a zero - transcribed '0' at confidence medium per protocol rule 3. Schedule B's two printed lines are 'Jan 2, 24 / Cache County Clerk / Filing Fee / $ 597.12' and 'march 25, 24 / Ryan Smith / Speech Writing / $ 75.00' (the cents on the second are written as a raised 'oo'), over a 'Subtotal for this page $ 672.12' and 'Total Expenditures Made $ 672.12'. Cents throughout the filing are written as raised superscript digits after the point (e.g. '672.^12'); recorded as ordinary decimals since the digits themselves are unambiguous. SUMMARY PAGE PARTIALLY BLANK: boxes A, B, C, E and F carry no writing at all and are recorded as '' - I did not compute or infer them. INTERNAL DISAGREEMENT recorded, not reconciled: the 'Balance at Close of Reporting Period (Box F - Box D)' box reads '$ 672.12' positive, while box D (expenditures this period) is also 672.12 and box F is blank; taken literally F - D could not be +672.12. The printed value is recorded verbatim as the filer wrote it. Received stamp runs vertically inside the shaded 'Office Use Only' box at the lower right of page 1; 'CLERK/AUDITOR RCVD', '2024 OCT 18' and 'PM' are legible, the clock time after 'PM' is not, so it is omitted rather than guessed (confidence low)."
+}

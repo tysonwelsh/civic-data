@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountySheriff-TracyJamesO-110910R.pdf",
+ "key": "0ed9170b",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JAMES O. TRACY JR.",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "SHERIFF",
+   "residence_city": "",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "Nov. 9TH 2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "135.00",
+    "contrib_cumulative": "4709.30",
+    "expend_this_period": "135.00",
+    "expend_cumulative": "4,709.30",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "135.00",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "135.00",
+    "line1_total_contributions_colB": "4709.30",
+    "line2_total_expenditures_colA": "135.00",
+    "line2_total_expenditures_colB": "4,709.30",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "135.00",
+    "line5_subtotal_lines3plus4": "135.00",
+    "line6_total_expenditures_from_line2A": "135.00",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The candidate's name is written 'TRACY' on the form (index/portal filename also says Tracy); no disagreement. Street address and City cells were left blank/redacted on the cover - only State 'Ut.' and Zip '84604' are written, so residence_city is ''. Lines 3 and 7 are a slashed-zero glyph (the filer's zero), transcribed as 0 at medium confidence. Cents on lines 1-6 are written as superscripts over the decimal ('135.' with a raised '00'); transcribed as full decimals. Line 1 Column B is written without a thousands comma (4709.30) while line 2 Column B has one (4,709.30) - both kept verbatim as printed. office_index said 'County Sheriff'; the page says 'SHERIFF' (a naming-convention difference, not a conflict). candidate_index was blank; the page names JAMES O. TRACY JR."
+  }
+ ],
+ "notes": ""
+}

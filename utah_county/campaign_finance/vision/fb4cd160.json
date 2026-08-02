@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_John_Taylor_Redacted.pdf",
+ "key": "fb4cd160",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:25:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "John Stewart Taylor",
+   "party_printed": "",
+   "office_printed": "5 E 400 N Springville UT 84603",
+   "residence_city": "Springville",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "12/21/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "Zero",
+    "contrib_cumulative": "Zero",
+    "expend_this_period": "Zero",
+    "expend_cumulative": "Zero",
+    "balance_beginning": "Zero",
+    "subtotal_before_expend": "Zero",
+    "balance_close": "Zero"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "Zero",
+    "boxB_contributions_received_this_period": "Zero",
+    "boxC_contributions_received_year_to_date": "Zero",
+    "boxD_expenditures_made_this_period": "Zero",
+    "boxE_expenditures_made_year_to_date": "Zero",
+    "boxF_subtotal_before_expenditures": "Zero",
+    "balance_at_close": "Zero"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "THE OFFICE FIELD DOES NOT NAME AN OFFICE. The filer wrote a street address into the 'Office' box - two handwritten lines, '5 E 400 N' / 'Springville UT 84603' - transcribed verbatim above. No office is stated anywhere on the cover page, so index.csv's blank office is CORRECT and this filing does not resolve. Adjacent evidence NOT used to infer an office, recorded here for the orchestrator only: the Email field reads 'j.taylor@nebo.edu' (Nebo School District domain), which is suggestive of a local-school-board filer but is not a stated office; no scope_flag is set because the office line names no board. residence_city 'Springville' is read from that same handwritten Office-box address (the form's own Address/City block is blacked out - redacted upstream by the county), hence medium confidence. Signature also redacted upstream. Every summary box is filled with the handwritten WORD 'Zero' (not a numeral) - transcribed verbatim as 'Zero'; these are written values, not blank cells. Handwriting is clear throughout."
+  }
+ ],
+ "notes": "Page footer version string is illegible on this photocopy, so form_version is \"\"; the cover-page layout and the Box A-G summary match the v. 4.20-era modern form (the summary page's close-balance box carries a printed 'G')."
+}

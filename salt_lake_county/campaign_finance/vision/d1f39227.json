@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4000.00",
+ "total_expenditures": "12,476.06",
+ "beginning_balance": "10,577.85",
+ "ending_balance": "2101.79",
+ "aggregate": {
+  "total_contributions_to_date": "25,641.00",
+  "total_expenditures_to_date": "23,626.14",
+  "line5_subtotal": "14,577.85"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/7",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jhatch_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Signature date written '1/31/7' (verbatim). Line 1 Column B has overwritten digits in the middle ('25,641.00' - medium confidence). Summary Page header: Page 2 of 5, HATCH, 1/31/7. Column A internally consistent (10,577.85 + 4,000.00 = 14,577.85; minus 12,476.06 = 2101.79, which matches Line 3 of the 1/29/8 report, key d1c1aaf7)."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "12,255",
+ "total_expenditures": "17,588.35",
+ "beginning_balance": "9559.95",
+ "ending_balance": "4,226.60",
+ "aggregate": {
+  "total_contributions_to_date": "35,425",
+  "total_expenditures_to_date": "31,198.40",
+  "line5_subtotal": "21,814.95"
+ },
+ "cover": {
+  "candidate": "JOSEPH M. DEMMA",
+  "party": "GOP",
+  "office_sought": "COUNTY COUNCIL - AT LARGE",
+  "district_number": "",
+  "report_type": "Interim Report: October 30 (for the period ending October 29, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/30/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_Oct_CouncilC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_Oct_CouncilC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (line 3 cropped at -r 450)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is blank; party written 'GOP'. Line 3 is written '9559.95' with no thousands comma (it looked like 7559.95 at 110 dpi; a 450 dpi crop resolves it as a 9, and it matches the September amendment's line 7). Contribution amounts are written without cents. Line 7 is circled by hand. Neither amendment box is checked. Clerk RECEIVED stamp OCT 30 2012. Arithmetic is internally consistent."
+ }
+}

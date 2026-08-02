@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Gray_Jeff_4.4.2022_Redacted.pdf",
+ "key": "5afc4e0b",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T01:08:00Z",
+ "pages_read": [1, 5, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeff Gray",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "",
+   "report_date": "April 4, 2022",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "15298.31",
+    "contrib_cumulative": "15298.31",
+    "expend_this_period": "11780.76",
+    "expend_cumulative": "11780.76",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "15298.31",
+    "balance_close": "3517.55"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "15298.31",
+    "boxC_contributions_received_year_to_date": "15298.31",
+    "boxD_expenditures_made_this_period": "11780.76",
+    "boxE_expenditures_made_year_to_date": "11780.76",
+    "boxF_subtotal_before_expenditures": "15298.31",
+    "balance_at_close": "3517.55"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "NEITHER amendment radio (No / Yes) is filled, so is_amendment is '' rather than assumed 'No'. Box A is a written '0'. No thousands separators. The address block is NOT redacted but is a BUSINESS address, not a residence - it prints '455 N University Ave, Ste 204, Provo, UT 84601'; residence_city is recorded as 'Provo' on that basis and should be read as the address-of-record city, not a proven residence. The signature is redacted upstream by the county (black bar). Typed fillable form, footer 'v. 4.20'; both 'Page' boxes left blank."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [5,7], but page 7 is NOT a second report - it is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST', reviewed 4/4/22 and 4/6/2022, with 'Website' ticked in the disposition block. ONE report emitted. Pages 2, 3, 4, 6 and 8 of the 8-page PDF were not rendered by the orchestrator and were not read."
+}

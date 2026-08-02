@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "index_path": "raw/2018/2018_Financial-Campaign-Report-Alan-Wane-McDonald.pdf",
+    "cache_key": "db09b057",
+    "entity": "wasatch_county",
+    "election_year": "2018",
+    "reporting_period_index": "2018 cycle (as published by the county)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Alan Wayne McDonald",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "County Council",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "REPUBLICAN",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "July 26, 2018 (if eliminated in Primary)"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "1,301.38",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1,301.38",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "1,301.38",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1,301.38",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "0.00",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Handwritten throughout; the PDF's embedded text layer is an unusable OCR of that handwriting."
+}

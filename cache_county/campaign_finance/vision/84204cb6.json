@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "4c485a7c7416ec860b21fb1802a0360368cc229d24ec1f63e25113accc3313bf",
+ "canonical_path": "raw/2020/2020_st_campaign_finance_gunnell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_gunnell.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Nolan Parker Gunnell",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "South",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Wellsville  Utah",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess Bradfield",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10-23-2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 23 '20 PM 1:29:39",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "high"
+    },
+    "this": {
+     "v": "0",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "3,665.03",
+     "c": "high"
+    },
+    "this": {
+     "v": "3,665.03",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "3,665.03",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "3,665.03",
+     "c": "high"
+    },
+    "this": {
+     "v": "3,665.03",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "3,665.03",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "South",
+  "evidence": "page 1 'Name of Office' reads 'County Council'; 'Office District' reads 'South'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "The filer repeated 3,665.03 across all three columns of lines 3-4, as in his November report \u2014 retained verbatim."
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "7213711d",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p76",
+ "page_start": 76,
+ "page_end": 78,
+ "summary_page": 76,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:11:00Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Bahram Rahimzadegan",
+ "office_stated": "Recorder / Surveyor",
+ "report_type_stated": "October 29",
+ "filing_date_stated": "2024-10-29",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "1450.00",
+   "this": "0",
+   "cum": "1450.00"
+  },
+  "expenditures": {
+   "last": "907.19",
+   "this": "0",
+   "cum": "907.19"
+  },
+  "ending_balance": {
+   "last": "542.81",
+   "this": "0",
+   "cum": "542.81"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "medium"
+ },
+ "notes": "HANDWRITTEN. The ending-balance cells are written over a struck-out figure ('542.' with an overwritten cent superscript) - read as 542.81 at medium confidence, consistent with this filer's own October 8 report. County-redacted address."
+}

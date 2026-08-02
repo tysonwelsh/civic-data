@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Jeff_Gray.pdf",
+ "key": "c3d66073",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Jeff Gray",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "June 21, 2022",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "36370.74",
+    "contrib_cumulative": "51669.05",
+    "expend_this_period": "37900.38",
+    "expend_cumulative": "49212.73",
+    "balance_beginning": "3517.55",
+    "subtotal_before_expend": "39888.28",
+    "balance_close": "2456.32"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "3517.55",
+    "boxB_contributions_received_this_period": "36370.74",
+    "boxC_contributions_received_year_to_date": "51669.05",
+    "boxD_expenditures_made_this_period": "37900.38",
+    "boxE_expenditures_made_year_to_date": "49212.73",
+    "boxF_subtotal_before_expenditures": "39888.28",
+    "balance_at_close": "2456.32"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form, typed and crisp throughout; no $ signs printed in the boxes. NEITHER amendment radio button is filled (both 'No' and 'Yes' are empty circles), so is_amendment is \"\" - the filer answered nothing, which is not the same as 'No'. Address block printed in the clear (a campaign office address, 455 N University Ave Ste 204, Provo). The signature is present (not redacted). This filing's address is not redacted anywhere. Page number box on cover and summary page left blank by the form."
+  }
+ ],
+ "notes": ""
+}

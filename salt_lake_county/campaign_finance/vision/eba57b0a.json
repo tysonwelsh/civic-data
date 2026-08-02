@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Laurence Rey Topham",
+  "party": "Personal Choice",
+  "office_sought": "Salt Lake County Clerk",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15 2006 AD",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ltopham_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lawrence Rey Topham",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/ltopham_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This filing uses the OLDER form (title carries no year; interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general; Column B headed 'Year-to-Date Total') even though it was filed for the 2006 cycle - clerk stamp SEP 15 2006. All seven Column A cells are hand-drawn zeros; BOTH Column B cells (Lines 1 and 2) were left BLANK, recorded as \"\" not 0. The signature date is written '9/15 2006 AD'. Name spelled 'LAURENCE' here."
+ }
+}

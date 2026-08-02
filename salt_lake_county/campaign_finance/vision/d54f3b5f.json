@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "1727.25",
+ "beginning_balance": "3518.61",
+ "ending_balance": "1791.36",
+ "aggregate": {
+  "total_contributions_to_date": "6750.00",
+  "total_expenditures_to_date": "4958.64",
+  "line5_subtotal": "3518.61"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMOCRAT",
+  "office_sought": "S.L. COUNTY COUNCIL #2",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-14-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_Sept_Interim_CntyCncl2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_Sept_Interim_CntyCncl2_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Lines 1 and 4 Column A are written as a dash-flanked zero ('-0-') \u2014 recorded as '0'. STRIKE-THROUGH REWRITE on lines 3 and 5: '3518.86' was struck and '.61' written above, so the surviving value on both lines is 3518.61 (which matches the June report's line 7). The surviving values are the ones recorded. Neither amendment box checked. Arithmetic self-consistent (3518.61 - 1727.25 = 1791.36)."
+ }
+}

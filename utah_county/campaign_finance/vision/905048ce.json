@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_COMA.Ainge.pdf",
+ "key": "905048ce",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:50:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Tanner Ainge",
+   "party_printed": "Republican",
+   "office_printed": "County Commission, Seat A",
+   "residence_city": "Alpine",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/18/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "47,397.39",
+    "contrib_cumulative": "47,397.39",
+    "expend_this_period": "42,192.78",
+    "expend_cumulative": "42,192.78",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "47,397.39",
+    "balance_close": "5,204.61"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "47,397.39",
+    "line1_total_contributions_colB": "47,397.39",
+    "line2_total_expenditures_colA": "42,192.78",
+    "line2_total_expenditures_colB": "42,192.78",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "47,397.39",
+    "line5_subtotal_lines3plus4": "47,397.39",
+    "line6_total_expenditures_from_line2A": "42,192.78",
+    "line7_balance_at_close": "5,204.61"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form (only the signature is handwritten); all figures crisp and typed with a leading '$' (dropped per spec). Line 3 is typed '$0' - a real zero, not a blank. The summary page's own header boxes (Page, Last Name, Date of Report) are empty on the born-digital template; report_date is the cover Date field. Office field 'County Commission, Seat A' agrees with office_index."
+  }
+ ],
+ "notes": ""
+}

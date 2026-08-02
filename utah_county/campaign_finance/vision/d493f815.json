@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-AndersonGaryJ-102610.pdf",
+ "key": "d493f815",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:05:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Gary J. Anderson",
+   "party_printed": "Republican",
+   "office_printed": "County Commissioner",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/26/2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "13,850.00",
+    "contrib_cumulative": "39,998.25",
+    "expend_this_period": "15,360.99",
+    "expend_cumulative": "36,910.11",
+    "balance_beginning": "4,599.13",
+    "subtotal_before_expend": "18,449.13",
+    "balance_close": "3088.14"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "13,850.00",
+    "line1_total_contributions_colB": "39,998.25",
+    "line2_total_expenditures_colA": "15,360.99",
+    "line2_total_expenditures_colB": "36,910.11",
+    "line3_balance_beginning": "4,599.13",
+    "line4_total_contributions_from_line1A": "13,850.00",
+    "line5_subtotal_lines3plus4": "18,449.13",
+    "line6_total_expenditures_from_line2A": "15,360.99",
+    "line7_balance_at_close": "3088.14"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "TYPED cover and typed summary grid (the same filer's June report, key 68bec774, was fully handwritten) - only line 7 is filled in by hand, '$3088.14', written without a thousands comma and transcribed as printed. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat A'; the page's Office Seeking line reads only 'County Commissioner' with no seat letter. Every summary cell is typed with a leading '$' which is dropped per spec. Line 3's typed '$4,599.13' is slightly overlapped at its right edge by the pre-printed 'Refer to Line 7 on your last report' arrow but is fully legible. Summary page header reads 'Page 2 of 6'."
+  }
+ ],
+ "notes": ""
+}

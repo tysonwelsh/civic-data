@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "f79a4cefba6677875fae4f5087283de184f3ff0f7e700dfe2f2d34eaa28f5847",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Nolan_P_Gunnell.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Nolan_P_Gunnell.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Nolan P Gunnell",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "County Council South",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "South",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Wellsville",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102 Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10-22-2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 2[?] PM 2:35",
+   "c": "low"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$ 0.00",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$ 0.00",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$ 0.00",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$ 0.00",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$ 4,896 63",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "0",
+    "c": "medium"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "South",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'County Council' on the first line and 'South' on the second (the seat/district line)",
+  "confidence": "high"
+ },
+ "notes": "Four pages: 1 cover, 2 Schedule A (empty), 3 Schedule B (empty), 4 Summary Page. Born-digital county 'Candidate Financial Disclosure / Financial Campaign Report for County Offices and Local School Board Candidates' instrument, filled in by hand; scan quality good. No statutory citation is printed anywhere on the form. AMENDMENT: the 'Is this report an amendment?' block is marked YES with 'Date of Original Report 6-11-2024', and the filer wrote across the Type of Report box, in hand, 'No change since previous report'. ZERO GLYPHS: Schedule A's 'Subtotal for this page' and 'Total Contributions Received', and Schedule B's 'Subtotal for this page' and 'Total Expenditures Made', are each a hand-drawn slashed/crossed O used as a zero - transcribed '0' at confidence medium per protocol rule 3; the single mark in the middle of each schedule's first row is the same slashed-O, i.e. the filer's way of saying the schedule is empty, not an itemized line. DECIMAL POINT: box E is written '4,896 63' with a clear gap and NO printed decimal point (verified on a 2.2x crop of the box); it is recorded verbatim as written and is evidently four thousand eight hundred ninety-six dollars and sixty-three cents, but the punctuation was not added by me. Boxes A-D are written '$ 0.00' in longhand digits (not zero glyphs). BOXES F AND 'Balance at Close of Reporting Period' ARE COMPLETELY BLANK on the page - left empty as '' per protocol; I did not compute A+B or F-D for the filer. INTERNAL DISAGREEMENT recorded, not reconciled: Schedule B carries a zero total while box E (Expenditures Made Year-to-Date) states 4,896 63 - consistent with a no-activity amendment period on top of prior-period spending, but the form itself does not say so. Received stamp runs diagonally down the lower-right corner of page 1 and is heavily degraded; 'CLERK/AUDITOR RCVD', '2024 OCT 2' and 'PM 2:35' are legible on a rotated 3x crop, but the second digit of the day of month is lost in the noise, so it is marked '[?]' rather than guessed (confidence low). Ledger agreement: ledger candidate 'Nolan P Gunnell' matches the typed/handwritten name exactly, and scope_status=county_confirmed is upheld by the page."
+}

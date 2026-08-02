@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2928.70",
+ "total_expenditures": "1931.75",
+ "beginning_balance": "8932.01",
+ "ending_balance": "9828.96",
+ "aggregate": {
+  "total_contributions_to_date": "18,963.70",
+  "total_expenditures_to_date": "9,134.74",
+  "line5_subtotal": "11,760.71"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "Republican",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "15 Sep 06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/gott_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/gott_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. ARITHMETIC DOES NOT CLOSE on Line 5: Line 3 (8932.01) + Line 4 (2928.70) is 11,860.71 but Line 5 is written 11,760.71 \u2014 a $100 discrepancy. Line 3 was re-rendered at 300 dpi and reads 8932.01 (an 8-9-3-2 sequence), recorded verbatim at medium confidence; the rest of the chain does close (11,760.71 - 1,931.75 = 9,828.96 = Line 7, which the October report carries forward as its Line 3). Neither the amendment Yes nor No box is checked."
+ }
+}

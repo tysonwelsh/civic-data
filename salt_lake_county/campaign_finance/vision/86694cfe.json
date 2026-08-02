@@ -1,0 +1,49 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Russell A. Cannon",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "5",
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "6-16-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_cannon_russ06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Russell A. Cannon",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_cannon_russ06.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered separately; ghostscript repair and pdfimages extraction also attempted, plus a raw JPEG carve of the file)",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DAMAGED PDF - NEEDS A HUMAN. The file is structurally corrupt (poppler reports 'Couldn't find trailer dictionary', 'Invalid XRef entry 676', 'Kid object (page 2) is wrong type (null)'). It claims 4 pages but contains only TWO embedded JPEG streams, and pages 1, 3 and 4 render as blank white. Page 2 renders as SCHEDULE B ('Page 3 of 3', Date of Report 6-16-06, page subtotal box $1,749.04 - a Schedule B page subtotal, NOT a summary-page total, so it is not recorded in totals). Carving the second JPEG out of the raw bytes recovers the COVER page, whose top half is readable - title '2006 Financial Disclosure Report For a Candidate', Russell A. Cannon, REPUBLICAN, Office Sought COUNTY COUNCIL district 5, clerk stamp RECEIVED JUN 19 2006 - but the image degenerates into corrupt scan data from the Type of Report block downward, so report_type, the amendment boxes and the verification signature/date are UNREADABLE (null, not blank). report_date 6-16-06 is taken from the Schedule B page header's 'Date of Report' box, since the verification block is destroyed. NO Summary Page exists in the recoverable data; all totals are null. Ghostscript repair yielded a 1-page file and pdfimages could reach only the Schedule B image."
+ }
+}

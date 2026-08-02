@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2080",
+ "total_expenditures": "$531.86",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$1548.14",
+ "aggregate": {
+  "total_contributions_to_date": "$2080",
+  "total_expenditures_to_date": "$531.86",
+  "line5_subtotal": "$2080"
+ },
+ "cover": {
+  "candidate": "Joseph M. Demma",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-5-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Demma_J_12_April_Interim_CntyCncl_AtLrg_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Demma",
+  "office": "County At-Large C",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Demma_J_12_April_Interim_CntyCncl_AtLrg_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the ORIGINAL April 5 interim report; neither amendment box is checked. Two-office-box form: top-row 'Office' reads 'County Council', 'Office Sought' reads 'Council' with District Number written 'At Large' (not a number) - recorded verbatim. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. The Summary Page header block (page, name, date) was left completely BLANK. Clerk RECEIVED stamp APR 05 2012. NOTE: the same candidate's April AMENDMENT in this chunk (key 09324485, filed 4/11/2012) restates line 2 as $791.60 and line 7 as $1288.40 - the two April filings disagree by design, the amendment superseding this one."
+ }
+}

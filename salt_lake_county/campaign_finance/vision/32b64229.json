@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$268,232.00",
+ "total_expenditures": "$180,904.12",
+ "beginning_balance": "$43,181.28",
+ "ending_balance": "$130,509.16",
+ "aggregate": {
+  "total_contributions_to_date": "$268,232.00",
+  "total_expenditures_to_date": "$180,904.12",
+  "line5_subtotal": "$311,413.28"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "Democratic Party",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/2/15",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_Mayor_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_Mayor_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPED form - the '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' blank. The Year-End box is checked; neither amendment box is checked. Signature date 2/2/15 and clerk-stamped FEB 02 2015, but the Summary Page header box is dated 'January 30, 2015' (Page 2 of 7, McAdams) - the two dates disagree by three days. A handwritten '15' is circled at the top of the cover (a clerk annotation). Column B ('Year to Date') equals Column A on both lines. Column A arithmetic checks out (43,181.28 + 268,232.00 = 311,413.28; minus 180,904.12 = 130,509.16) and Line 3 chains exactly to the 2013 year-end's Line 7."
+ }
+}

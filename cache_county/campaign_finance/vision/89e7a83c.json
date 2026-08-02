@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "9624fa71f986c8e9f582a9d8ff81ee59c91e90b067da5c878709096d338fd636",
+ "canonical_path": "raw/2024/2024_cc_2024_General_David_Erickson.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_General_David_Erickson.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "David Erickson", "c": "high"},
+  "office_verbatim":   {"v": "", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Smithfield", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the General Election", "c": "high"},
+  "date_signed":       {"v": "10/29/2024", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$ 0.00", "c": "high"},
+   "B_contrib_this_period":    {"v": "$ 0.00", "c": "high"},
+   "C_contrib_ytd":            {"v": "$ 3,363.08 (contibutions for convention and primary)", "c": "high"},
+   "D_expend_this_period":     {"v": "$ 0.00", "c": "high"},
+   "E_expend_ytd":             {"v": "$ 3,363.08 (expenditures for convention and primary)", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$ 0.00", "c": "high"},
+   "closing_balance":          {"v": "$ 0.00", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "0.00", "c": "high"},
+   "total_expenditures_made":      {"v": "0.00", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "",
+  "evidence": "page 1 'Office' box is COMPLETELY BLANK - the filer wrote nothing on the Office line (verified by zooming the page image; the box contains only the preprinted 'Office' label and empty white space). No office is named anywhere else in the four pages: the schedules carry only 'None received' / 'None expended', and the footers carry only the candidate name, date and page number. The document is on the Cache County 'Financial Campaign Report for County Offices and Local School Board Candidates' instrument, but per the scope rule that printed header is only supporting evidence and cannot decide scope - the county form is handed to municipal and special-district candidates too. There is therefore no page evidence of the office sought.",
+  "confidence": "high"
+ },
+ "notes": "Typed/word-processed entries on a scanned Cache County Candidate Financial Disclosure (cache_cfd), 4 pages: cover p1, Schedule A p2, Schedule B p3, Summary p4. A faint horizontal scanner rule crosses pages 2 and 4; it does not obscure any field.\n\nCOVER (p1): Name of Candidate 'David Erickson'. Address '360 West 7800 North', City 'Smithfield', State 'Utah' (spelled out, not the usual 'UT'), Zip '84335'. Office box BLANK. Phone '(435)770-0283'. Email 'crowmtn59@gmail.com'. Type of Report: an X-in-circle on 'Seven days preceding the General Election'; the other two options unmarked. Is this report an amendment? 'No' is marked with an X-in-circle. Affirmation printed name 'David Erickson'. Handwritten signature present. Date '10/29/2024'. Date of Report '10/29/2024'. Page 'Page 1'. Office Use Only: the 'Logged' and 'Transmitted' bullets appear as open circles over a heavily speckled grey scan block - neither can be read as definitively filled, so nothing is claimed for them; NO received stamp appears.\n\nSCHEDULE A (p2): no itemized rows. A typed line under the column headers reads 'None received'. Subtotal for this page '0.00'. Total Contributions Received '0.00' (both printed after the form's preprinted '$'). Footer 'David Erickson', '10/29/2024', 'Page 2'.\n\nSCHEDULE B (p3): no itemized rows. Typed line 'None expended'. Subtotal for this page '0.00'. Total Expenditures Made '0.00'. Footer 'David Erickson', '10/29/2024', 'Page 3'.\n\nSUMMARY (p4): Box A '$ 0.00'. Box B '$ 0.00'. Box C '$ 3,363.08' with a typed parenthetical beneath it reading '(contibutions for convention and primary)' - the misspelling 'contibutions' is the filer's and is recorded verbatim. Box D '$ 0.00'. Box E '$ 3,363.08' with the parenthetical '(expenditures for convention and primary)'. Box F '$ 0.00'. Balance at Close of Reporting Period '$ 0.00'. The parentheticals are kept as part of the recorded values because they qualify what the year-to-date figures cover. Footer 'David Erickson', '10/29/2024', 'Page 4'.\n\nNo arithmetic problems observed: with A=B=D=0.00, F=0.00 and close=0.00 as printed. Boxes C and E are equal at $3,363.08, which the filer explains as the convention-and-primary phase totals carried forward; those figures are not derivable from this document's own schedules (both zero) and that is expected, not a contradiction.\n\nLEDGER CHECK: the ledger's candidate value 'David Erickson' MATCHES the page evidence exactly. The ledger's scope_status='county_confirmed' is NOT supported by anything on these four page images - the Office line is blank and no office is stated anywhere in the document. Scope is recorded here as 'undetermined' per protocol. Whatever confirmed the county scope in the ledger came from outside this PDF (filename token, index, or an external roster), not from the filing itself. NOTE: this is the SECOND document in this chunk with a blank Office box that the ledger nonetheless marks 'county_confirmed' (the other is b7803180, Jess W. Bradfield) - worth checking whether the ledger's county_confirmed flag for the cache_cfd family is being set from the form title rather than the filled Office line."
+}

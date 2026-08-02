@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8,784.35",
+ "total_expenditures": "7,284.35",
+ "beginning_balance": "1,418.58",
+ "ending_balance": "2,918.58",
+ "aggregate": {
+  "total_contributions_to_date": "15,429.14",
+  "total_expenditures_to_date": "12,505.56",
+  "line5_subtotal": "10,202.93"
+ },
+ "cover": {
+  "candidate": "Nathan Hendricks",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Interim Report: October 31 (for the period ending October 30, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/nhendricks_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/nhendricks_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cover prints the name as 'Nathan Hendricks' (the manifest and the filer's other reports say 'Nate'). Only the October 31 interim box is checked; neither amendment box is checked. The form's arithmetic is internally consistent (1,418.58 + 8,784.35 = 10,202.93; 10,202.93 - 7,284.35 = 2,918.58). This writer's '2' looks like an 'a'; Line 1 Column B was confirmed at 250 dpi as 15,429.14, which is exactly 500.00 less than the same field on the filer's 1/15/07 final report."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "RUSSELL A. CANNON",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "6-16-06",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_cannon_russ06dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Russell A. Cannon",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_cannon_russ06dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT A DISCLOSURE REPORT - this is the single-page 'Dissolution of a Candidate Campaign' notice (Salt Lake County Ordinance 2.72A.205), so there is no Summary Page and no totals: all totals are null, honestly. The form has no party / office-sought / district / report-type / amendment fields at all, hence null rather than blank. Fields it does print: Name of Committee 'RUSS CANNON FOR COUNTY COUNCIL 5'; Name of County Office Candidate 'RUSSELL A. CANNON'; Name of Committee Secretary 'DIANE LeFevre'; Date Committee Was Established '4-5-06 (on or about)'; signed and dated 6-16-06. The notice states the final summary report's ending balance must be zero - the attached final summary report is not part of this PDF."
+ }
+}

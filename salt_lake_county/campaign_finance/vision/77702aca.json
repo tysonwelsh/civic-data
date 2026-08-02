@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1144.92",
+ "total_expenditures": "$574.92",
+ "beginning_balance": "0",
+ "ending_balance": "$570.00",
+ "aggregate": {
+  "total_contributions_to_date": "$1144.92",
+  "total_expenditures_to_date": "$574.92",
+  "line5_subtotal": "$1144.92"
+ },
+ "cover": {
+  "candidate": "Kelton M. Baker",
+  "party": "Libertarian",
+  "office_sought": "SLCO Treasurer",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "April 9, 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kbaker_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kelton M. Baker",
+  "office": "Treasurer",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/kbaker_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 3 (beginning balance) is written as a hand-drawn zero flanked by dashes ( - 0 - ); recorded as 0. Line 7 cents are written as a small raised '00' over the rule, transcribed as $570.00. Arithmetic reconciles (1144.92 - 574.92 = 570.00)."
+ }
+}

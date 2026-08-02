@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Rampton_Russ_5.6.2022_Redacted.pdf",
+ "key": "b9feac94",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:20:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Russ J Rampton",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "05/06/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "900.00",
+    "contrib_cumulative": "2875.00",
+    "expend_this_period": "708.33",
+    "expend_cumulative": "2433.76",
+    "balance_beginning": "249.57",
+    "subtotal_before_expend": "1149.57",
+    "balance_close": "441.24"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "$249.57",
+    "boxB_contributions_received_this_period": "$900.00",
+    "boxC_contributions_received_year_to_date": "$2875.00",
+    "boxD_expenditures_made_this_period": "$708.33",
+    "boxE_expenditures_made_year_to_date": "$2433.76",
+    "boxF_subtotal_before_expenditures": "$1149.57",
+    "boxG_balance_at_close": "$441.24"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, scanned. The entire Address row (street/City/State/Zip) and the Signature box are black bars - redacted upstream by the county - so residence_city is ''. Date 05/06/2022, Date of Filing 05/06/2022. Every box carries a printed '$', retained in totals_verbatim. Office prints 'Utah County Clerk' (index.csv says 'County Clerk' - naming convention only, no substantive disagreement)."
+  }
+ ],
+ "notes": "The locator flagged pages 4 and 5 as summary pages; page 5 is NOT a second report - it is the Elections Division's internal 'Campaign Financial Disclosure Checklist' (two staff-review passes, both dated 5/18/2022). One report only."
+}

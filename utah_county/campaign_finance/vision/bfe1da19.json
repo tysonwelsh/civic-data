@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Brian_Baird.pdf",
+ "key": "bfe1da19",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:35:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Brian Bird",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "Lehi",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/25/24",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "4,311.52",
+    "contrib_cumulative": "4,311.52",
+    "expend_this_period": "4,311.52",
+    "expend_cumulative": "4,311.52",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "4,311.52",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "4,311.52",
+    "boxC_contributions_received_year_to_date": "4,311.52",
+    "boxD_expenditures_made_this_period": "4,311.52",
+    "boxE_expenditures_made_year_to_date": "4,311.52",
+    "boxF_subtotal_before_expenditures": "4,311.52",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "NAME DISAGREEMENT: the page reads 'Brian Bird' in the Name of Candidate box, in the affirmation line and on the summary page; index.csv carries 'Brian Baird' and the county's own filename is 2024_Brian_Baird.pdf. The page is the authority - this filer is Brian Bird. OFFICE NOT STATED: the Office box does NOT contain an office. The filer typed a street address into it - '980 E 800 N #102 / Orem UT, 84097' (a suite address, distinct from the Lehi residence in the Address row). So office_printed is '' - the page states no office, which is an honest outcome and matches index.csv's blank office_index; the confidence is 'high' because the absence is unambiguous, not because an office was read. Born-digital fillable form, typed figures with '$' and thousands commas; the '$' is dropped and the comma kept per spec. PRIVACY NOTE: this copy is UNREDACTED - the county published the filer's full residential street address, phone number and email in the clear. Only the residence city is recorded here."
+  }
+ ],
+ "notes": ""
+}

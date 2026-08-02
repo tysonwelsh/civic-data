@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "253.23",
+ "total_expenditures": "153.23",
+ "beginning_balance": "0",
+ "ending_balance": "100.00",
+ "aggregate": {
+  "total_contributions_to_date": "253.23",
+  "total_expenditures_to_date": "153.23",
+  "line5_subtotal": "253.23"
+ },
+ "cover": {
+  "candidate": "Nate Hendricks",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council",
+  "district_number": "5",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/nhendricks_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Nate Hendricks",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/nhendricks_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The candidate name box reads 'Nate Hendricks' but the Report Verification print-name line reads 'Nathan Hendricks'. Line 3 is a hand-drawn slashed zero. Line 5 is written without a clearly formed decimal point ('253 23'), read as 253.23 at medium confidence - it agrees with Line 1 Column A and with 253.23 - 153.23 = 100.00 on Line 7. Neither amendment box is checked."
+ }
+}

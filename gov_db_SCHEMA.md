@@ -91,7 +91,7 @@ UDOT ePM `pin`; 4 caveat rows guard the semantics) · `projection` 10,952 (count
 regional city-area annual 2019–2050 9,832 / state 140) · `development_application` 869 ·
 `gis_layer` 173 (with per-layer license).
 
-**Apparatus**: `caveat` 92 (see below) · `build_info` 100 (built_at, per-layer counts,
+**Apparatus**: `caveat` 104 (see below) · `build_info` 100 (built_at, per-layer counts,
 join rates — the numeric source of truth).
 
 ## Search layer (FTS5)
@@ -116,7 +116,7 @@ statutes use a 40-char floor (short sections are real law) while other docs keep
 200-char stub guard; the only remaining unindexed ut_state items are the 2 image-only
 advisory opinions (#142/#145 — no text exists).
 
-## The `caveat` table (92 rows) — what it protects against
+## The `caveat` table (104 rows) — what it protects against
 
 `(city, dataset, code, caveat)`; `'*'` = applies across that axis. Every measurement
 ceiling — tally-only and dissent-only recording, vote-vocabulary limits, coverage floors,

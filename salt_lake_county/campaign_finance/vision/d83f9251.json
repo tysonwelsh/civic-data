@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "16,702.38",
+ "total_expenditures": "11,716.65",
+ "beginning_balance": "13,024.31",
+ "ending_balance": "18,010.04",
+ "aggregate": {
+  "total_contributions_to_date": "33,193.89",
+  "total_expenditures_to_date": "15,441.47",
+  "line5_subtotal": "29,726.69"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council \"C\" At-Large",
+  "district_number": "",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jbradley_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 250 and a Line-1-Column-B crop at -r 600",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Column B is a cramped hand where the '1' and '9' are joined; re-rendered the cell at 600 dpi to read it as 33,193.89 (medium confidence). Neither the amendment Yes nor No box is checked. Line 7 closes at 18,010.04 while the filer's next (October 31) report opens at 18,010.49 - a 45-cent cross-filing mismatch, kept verbatim."
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "8876cae9",
+ "source_filing": "raw/archives/2016_combined_7e3a53_2e3f405d.pdf",
+ "document_id": "2016_combined_7e3a53_2e3f405d#p14",
+ "page_start": 14,
+ "page_end": 21,
+ "summary_page": 14,
+ "election_cycle": "2016",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:06:59Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "JAMES H HARVEY",
+ "office_stated": "WEBER COUNTY COMMISSONER",
+ "report_type_stated": "",
+ "filing_date_stated": "2016-10-31",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "58,639.45",
+   "cum": "58,639.45"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "56,420.94",
+   "cum": "56,420.94"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "2,218.51",
+   "cum": "2,218.51"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2016 3-line form variant, read from p14 of the 2016 consolidated archive PDF. NO report-type box checked (honest blank). Signed '31 OCTOBER 2016'; RECEIVED stamp NOV 1 2016. Office spelled 'COMMISSONER' by the filer - verbatim. NOTE: index.csv also carries a standalone Wayback copy of this same 2016-10-31 filing (document_id wb20190828041319_harvey_commission) - two channels, one filing; do not add the two together."
+}

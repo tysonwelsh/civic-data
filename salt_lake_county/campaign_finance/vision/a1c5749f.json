@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "10,375",
+ "total_expenditures": "1,203.03",
+ "beginning_balance": "0",
+ "ending_balance": "$9171.97",
+ "aggregate": {
+  "total_contributions_to_date": "10,375",
+  "total_expenditures_to_date": "1,203.03",
+  "line5_subtotal": "$10,375.00"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council At-Large A",
+  "district_number": "",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/7/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/WilsonJ_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/WilsonJ_2014_April.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Signature date 4/7/14 but the Summary Page's own 'Date of Report' box reads 'April 6, 2014'. Line 3 is a slashed zero (\u00d8) \u2014 recorded as \"0\". Line 1 is written without cents; Lines 4 and 5 carry a raised superscript '00' (transcribed '.00' on Line 5); Line 7 is written without a thousands comma ('$9171.97'). Top-row Office reads 'Council At-Large Seat A'; the District Number cell is blank because the seat is written into the Office Sought line. Received stamp APR 07 2014."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Burt_Garfield_Amended_Redacted.pdf",
+ "key": "48b509e4",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:40:00Z",
+ "pages_read": [1, 2, 3, 4, 5, 6, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Burt Garfield",
+   "party_printed": "",
+   "office_printed": "Assessor",
+   "residence_city": "",
+   "report_type_printed": "",
+   "is_amendment": "Yes",
+   "report_date": "Oct. 25 2024",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "10,391.30",
+    "contrib_cumulative": "10,391.30",
+    "expend_this_period": "10,391.30",
+    "expend_cumulative": "10,391.30",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "10,391.30",
+    "balance_close": ""
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "10,391.30",
+    "boxC_contributions_received_year_to_date": "10,391.30",
+    "boxD_expenditures_made_this_period": "10,391.30",
+    "boxE_expenditures_made_year_to_date": "10,391.30",
+    "boxF_subtotal_before_expenditures": "10,391.30",
+    "balance_at_close": ""
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "low",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "low"
+   },
+   "unreadable": ["balance_close", "report_type_printed"],
+   "notes": "AMENDED report. Handwritten on the printed v. 12.23 form. The governing cover is page 2: 'Is this report an amendment?' = Yes, Date of Original Report 'Oct. 23 2024'; Office written 'Assessor'; signature Date 'Oct. 23, 2024'; Date of Report 'Oct. 25 2024'; clerk RECEIVED stamp OCT 25 2024, BY: Brian Voeks. On that amendment cover NO report-type box is marked - report_type_printed is '' rather than carried over from the original cover. BALANCE AT CLOSE IS NOT READABLE: the box holds a single curved stroke that resembles a cursive 2 or a partial glyph, clearly different from the filer's round zero in Box A; it is left '' and flagged - NOT derived from F minus D. Box B's thousands separator is written as a near-vertical tick rather than the clear commas used in C/D/E/F ('10|391.30'); all eight characters are present so the value is recorded as 10,391.30 at medium confidence. Box A is the filer's round-loop zero (medium). Schedule A (pages 3-4) itemizes contributions and totals 'Total Contributions Received $ 10,391.30'; Schedule B (pages 5-6) itemizes expenditures and totals 'Total Expenditures Made $ 10,391.30' - both agree with the summary boxes. Address, phone and signature are redacted upstream by the county (black bars), so residence_city is ''."
+  }
+ ],
+ "notes": "TWO COVER PAGES, ONE REPORT. Page 1 is the ORIGINAL cover (amendment = No, report type 'Seven days preceding the General Election' marked, Office written 'County Assessor', signature date 'Oct. 23, 2024', Date of Report 'Oct. 24, 2024', clerk RECEIVED stamp OCT 23 2024) - it is bundled into the amendment packet as an attachment. Page 2 is the AMENDMENT cover and governs the filing (see the report note). There is only ONE summary page (p7, which the filer hand-numbered 'Page 6'); pages 3-6 are Schedules A and B. Pages 3-6 were not in the pre-rendered image set and were rendered here (pdftoppm) to confirm no second summary page exists. Not a two-report bundle - one report, emitted once."
+}

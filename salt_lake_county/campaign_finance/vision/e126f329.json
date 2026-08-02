@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Josie Valdez",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/30/07",
+  "form_year": null
+ },
+ "confidence": {
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jvaldez_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Josie Valdez",
+  "office": "Assessor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jvaldez_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "One-page 'Dissolution of a Candidate Campaign' form, NOT the Financial Disclosure Report - no checkboxes, no party/office boxes, no Summary Page. Handwritten: Name of Committee 'Comittee to Elect Josie Valdez' (filer's spelling), County Office Candidate 'Josie Valdez', Committee Secretary 'Josie Valdez', Date Committee Was Established 'March 2006'. Signed 1/30/07; clerk stamp RECEIVED FEB 05 2007."
+ }
+}

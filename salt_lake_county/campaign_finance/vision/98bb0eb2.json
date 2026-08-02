@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7192.55",
+ "total_expenditures": "5847.57",
+ "beginning_balance": "1791.36",
+ "ending_balance": "3136.34",
+ "aggregate": {
+  "total_contributions_to_date": "13942.55",
+  "total_expenditures_to_date": "10 006.21",
+  "line5_subtotal": "8983.91"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMOCRAT",
+  "office_sought": "S.L. COUNTY COUNCIL #2",
+  "district_number": "",
+  "report_type": "Interim Report: October 30",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10.30.12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_Oct_Council2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_Oct_Council2_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 cropped to read line 2 Column B)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL October filing; identical to key a175b6fb except line 2 Column B, which reads '10 006.21' here (confirmed at 300 dpi) and was corrected to '10 806.21' on the amended copy. Written with a space where a comma belongs; kept verbatim. Lines 3-7 arithmetic self-consistent."
+ }
+}

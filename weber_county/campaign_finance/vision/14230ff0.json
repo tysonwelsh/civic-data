@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "14230ff0",
+ "source_filing": "raw/y2026/2026_ugd_7e3a53_3037c6f1.pdf",
+ "document_id": "2026_ugd_7e3a53_3037c6f1",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:43:43Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Katrina C. Gibson",
+ "office_stated": "Weber County Commission Seat A",
+ "report_type_stated": "May 26 - Pre-Primary Election",
+ "filing_date_stated": "2026-05-26",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "42,670.65",
+   "this": "24,000.00",
+   "cum": "66,670.65"
+  },
+  "expenditures": {
+   "last": "38,941.83",
+   "this": "10,711.79",
+   "cum": "49,653.62"
+  },
+  "ending_balance": {
+   "last": "3,728.82",
+   "this": "13,288.21",
+   "cum": "17,017.03"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED summary; all columns reconcile. County-redacted address."
+}

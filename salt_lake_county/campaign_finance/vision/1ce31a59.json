@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "$111.08",
+ "ending_balance": "$111.08",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$111.08"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Dem",
+  "office_sought": "none",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Iwamoto_J_12_Final_Council4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Iwamoto_J_12_Final_Council4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report' for 'Council #4', but the form face checks only the YEAR-END box (not Final/Dissolution) and the 'Office Sought' box is filled in as the single word 'none' - recorded verbatim; the top-row 'Office' reads 'Council'. Neither amendment box is checked. The Date line next to the signature is LEFT BLANK by the filer (empty string, not null); the only date on the document is the clerk's RECEIVED stamp, JAN 25 2013. Column B (Aggregate Total) is blank on lines 1 and 2. Lines 3, 5 and 7 are written with a dollar sign ('$111.08'); lines 1, 2, 4 and 6 are plain hand-drawn zeros."
+ }
+}

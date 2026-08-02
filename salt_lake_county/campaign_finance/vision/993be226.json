@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,690.00",
+ "total_expenditures": "$4,663.01",
+ "beginning_balance": "$5,110.00",
+ "ending_balance": "$6,136.99",
+ "aggregate": {
+  "total_contributions_to_date": "$13,143.46",
+  "total_expenditures_to_date": "$7,006.47",
+  "line5_subtotal": "$10,800.00"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-14-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sdebry_10_Sept_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/sdebry_10_Sept_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "September 15 interim box checked; neither amendment box is checked. Signed 9-14-10, clerk-stamped RECEIVED SEP 14 2010; Summary Page header 'DeBry, 9-14-10, page 2 of 4'. Both columns reconcile exactly (5,110.00 + 5,690.00 = 10,800.00; less 4,663.01 = 6,136.99 = 13,143.46 - 7,006.47)."
+ }
+}

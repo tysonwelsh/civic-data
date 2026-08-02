@@ -1,0 +1,58 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "51,374",
+ "total_expenditures": "11,942.50",
+ "beginning_balance": "0",
+ "ending_balance": "39,431.50",
+ "aggregate": {
+  "total_contributions_to_date": "51,374",
+  "total_expenditures_to_date": "11,942.50",
+  "line5_subtotal": "51,374"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "Dem",
+  "office_sought": "Mayor",
+  "district_number": "N/A",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "Jan 31st",
+  "report_date": "3-13-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/BMcAdams_11_YearEnd_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/BMcAdams_11_YearEnd_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   8
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-8), page 8 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Summary Page is PDF page 8, NOT page 2 - the bundle is cover, then blank Schedule A / Schedule B forms marked 'See Attached' with the itemized lists supplied as separate landscape printouts (pages 3-5, 7), and the Summary Page last. Amendment box is checked Yes with 'Jan 31st' as the amended report. Line 3 is a hand-drawn struck-through zero - recorded as 0. Line 2 Column B's decimal point is faint at 250 dpi (reads '11,942 50'); recorded as 11,942.50 at medium confidence since Column A on the same line clearly shows the point. Contribution figures are whole dollars with no cents. Report Verification is printed and signed by 'Justin Miller', not by the candidate. Address and phone are redacted black on the cover; several Schedule A address columns are redacted too."
+ }
+}

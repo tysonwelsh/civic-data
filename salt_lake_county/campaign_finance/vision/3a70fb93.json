@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3,208.8",
+ "total_expenditures": "$11,868.21",
+ "beginning_balance": "5,325.10",
+ "ending_balance": "-3,334.31",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "8,533.9"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "DA",
+  "district_number": "NA",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__23F2E34E.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__23F2E34E.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF; address, phone, fax and email are redacted with black boxes. BOTH Column B cells (Lines 1 and 2) are EMPTY - recorded \"\". However a figure '$70,615.25' is printed on the CONTRIBUTIONS RECEIVED section-header row AND an identical '$70,615.25' on the EXPENDITURES MADE header row, outside the Column B cells; it is very likely the aggregate total mis-placed by the form generator, but because it is not in the Column B cell I have not assigned it - flagged here for a human. Top-row Office reads 'NA' and Office Sought 'DA'. LINE 7 IS NEGATIVE (-3,334.31) on a report whose checked box says the campaign account balance is zero - a real contradiction on the form face, kept verbatim. Line 1 Column A is written to only one decimal ('$3,208.8'). Clerk listing labels this 'Needs Amendment Form'; the form itself checks Final/Dissolution and answers 'No' to the amendment question."
+ }
+}

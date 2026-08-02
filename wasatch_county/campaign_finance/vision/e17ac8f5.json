@@ -1,0 +1,112 @@
+{
+  "_meta": {
+    "index_path": "raw/2010/2010_Karl-Mcdonald-6-10-10.pdf",
+    "cache_key": "e17ac8f5",
+    "entity": "wasatch_county",
+    "election_year": "2010",
+    "reporting_period_index": "June 2010 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "contrib_gt50"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Karl Ray McDonald",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "County Treasurer",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber City",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Brent Titcomb, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "June 10, 2010",
+      "confidence": "high"
+    },
+    "signed": false,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "300.00",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "300.00",
+        "confidence": "high"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "1,162.99",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "1162.99",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Filer used the LAST REPORT and CUMULATIVE columns and left THIS REPORT blank; the balance line is blank in all three columns. The signature line is blank \u2014 published unsigned."
+}

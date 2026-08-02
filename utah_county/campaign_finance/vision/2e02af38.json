@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-WrightJoel-072210.pdf",
+ "key": "2e02af38",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:24:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Joel Wright",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat A",
+   "residence_city": "Cedar Hills",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "",
+   "report_date": "7-22-2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "47,652.00",
+    "contrib_cumulative": "63,117.00",
+    "expend_this_period": "42,950.15",
+    "expend_cumulative": "63,116.93",
+    "balance_beginning": "4,701.85",
+    "subtotal_before_expend": "20,166.85",
+    "balance_close": "0.07"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "47,652.00",
+    "line1_total_contributions_colB": "63,117.00",
+    "line2_total_expenditures_colA": "42,950.15",
+    "line2_total_expenditures_colB": "63,116.93",
+    "line3_balance_beginning": "4,701.85",
+    "line4_total_contributions_from_line1A": "15,465.00",
+    "line5_subtotal_lines3plus4": "20,166.85",
+    "line6_total_expenditures_from_line2A": "20,166.78",
+    "line7_balance_at_close": "0.07"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Identity block is TYPED (born-digital cover); the summary page and signature are handwritten. The 'Is this report an amendment?' Yes and No boxes are BOTH left unchecked - is_amendment is '' (blank, not 'No'). FILER INTERNAL CONTRADICTION, recorded not corrected: the form instructs line 4 to copy line 1 Column A and line 6 to copy line 2 Column A, but they do not match. Line 1 Column A reads 47,652.00 (identical to the filer's prior 6-15-2010 report, key f03ad5f9) while line 4 reads 15,465.00; line 2 Column A reads 42,950.15 (also the prior report's figure) while line 6 reads 20,166.78. The line 4 / line 6 values equal the Column B year-to-date figures minus the prior report's, so the filer appears to have left the PRIOR period's numbers in Column A. Every cell is transcribed exactly as printed; nothing was reconciled or recomputed. Balance at Beginning 4,701.85 matches the line 7 close of key f03ad5f9. Office Seeking reads 'Utah County Commission Seat A', agreeing with index.csv. The Page/of box was left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

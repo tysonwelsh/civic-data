@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Teri_McCabe_Redacted.pdf",
+ "key": "267e9dbb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:35:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Teri McCabe",
+   "party_printed": "",
+   "office_printed": "Utah County Clerk",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "4 May 2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "1,012.30",
+    "contrib_cumulative": "211",
+    "expend_this_period": "1,012.30",
+    "expend_cumulative": "947.28",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "1,012.30",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "1,012.30",
+    "boxC_contributions_received_year_to_date": "211",
+    "boxD_expenditures_made_this_period": "1,012.30",
+    "boxE_expenditures_made_year_to_date": "947.28",
+    "boxF_subtotal_before_expenditures": "1,012.30",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten. BOX C IS STRUCK THROUGH AND REWRITTEN: an initial figure (roughly '$1,0??.??', scribbled out so heavily it is ILLEGIBLE - not transcribed, not guessed) is followed by a surviving, unstruck '$211' written to its right; 211 is recorded as the surviving value at medium confidence. Box C ('211') and Box E ('947.28') do NOT agree with the this-period figures in B/D/F (1,012.30) - that is the FILER'S OWN inconsistency, recorded verbatim; no arithmetic correction made. In Box F the cents separator is written as a comma ('$1,012,30'); read as 1,012.30. Box A is a bare handwritten '0'; Balance at Close is '$0'. The address block and the signature block are redacted upstream by the county (black bars), so residence_city is unavailable. report_date is the filer's own long-form date '4 May 2026' (Date and Date of Report agree); the clerk's stamp reads 'Received MAY 05 2026 In Person'. OFFICE: the handwritten Office line reads 'Utah County Clerk'; index.csv says 'County Clerk' - same office, county-qualified wording."
+  }
+ ],
+ "notes": ""
+}

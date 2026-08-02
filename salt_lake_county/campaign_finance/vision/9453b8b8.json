@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "CHRISTIAN BURRAGE",
+  "party": "",
+  "office_sought": "COUNTY COUNCIL AT LARGE",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-27-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/CBurrage_11_Dissolution_CntyCnclB.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Christian Burridge",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/CBurrage_11_Dissolution_CntyCnclB.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110 (re-rendered at -r 250 to read the handwritten committee name)",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This is the single-page 'Dissolution of a Candidate Campaign Committee' notice - there is no Summary Page and no financial figures in the document, so all totals are null. The 'Name of County Office Candidate' line contains an OFFICE ('COUNTY COUNCIL AT LARGE'), not a name, so the candidate name is taken from the committee name 'CHRISTIAN BURRAGE FOR COUNTY COUNCIL B' (a trailing 'B' and a stray mark follow). The surname is all-caps handwriting and is genuinely ambiguous between BURRAGE and BURRIDGE even at 250 dpi - recorded as printed at low confidence; the clerk listing says 'Christian Burridge' and the file name says 'CBurrage'. Committee secretary: ROB MILLER. Committee established January 14, 2010. Clerk RECEIVED stamp JAN 31 2012."
+ }
+}

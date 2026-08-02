@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "21,302.72",
+ "total_expenditures": "29,437.94",
+ "beginning_balance": "15,977.52",
+ "ending_balance": "7,842.30",
+ "aggregate": {
+  "total_contributions_to_date": "66,194.98",
+  "total_expenditures_to_date": "58,352.68",
+  "line5_subtotal": "37,280.24"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - District 4",
+  "district_number": "",
+  "report_type": "Interim Report: October 30",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/30/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_Oct_Council4_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_Oct_Council4_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL October filing (RECEIVED OCT 30 2012), superseded by key 3953c721 the next day. Neither amendment box checked. Arithmetic self-consistent as printed (37,280.24 - 29,437.94 = 7,842.30)."
+ }
+}

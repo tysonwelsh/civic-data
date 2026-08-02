@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,175 -",
+ "total_expenditures": "1906 -",
+ "beginning_balance": "5,785.73",
+ "ending_balance": "11,054.73",
+ "aggregate": {
+  "total_contributions_to_date": "15,890 -",
+  "total_expenditures_to_date": "4928.20",
+  "line5_subtotal": "12,960.73"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "#1",
+  "report_type": "September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "9/13/6",
+  "report_date": "10/3/6",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/joehatch_september1506amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/joehatch_september1506amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Title carries NO year - form_year ''. Amendment to the September 15 report (amendment date box '9/13/6'; signature 10/3/6; clerk stamp OCT 03 2006). Whole-dollar figures written with a dash for the cents, kept verbatim. Summary Page header: Page 2 of 6, HATCH, 9/15/6. Line 3 (5,785.73) matches Line 7 of Hatch's June 20 report (key 94fe1eeb); arithmetic consistent (5,785.73 + 7,175 = 12,960.73; minus 1,906 = 11,054.73)."
+ }
+}

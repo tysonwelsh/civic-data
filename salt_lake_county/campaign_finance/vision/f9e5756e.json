@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,683.84",
+ "total_expenditures": "9,407.89",
+ "beginning_balance": "2,859.35",
+ "ending_balance": "1,135.30",
+ "aggregate": {
+  "total_contributions_to_date": "16,499.29",
+  "total_expenditures_to_date": "14,441.21",
+  "line5_subtotal": "10,543.19"
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": "REPUBLICAN",
+  "office_sought": "County MAYOR",
+  "district_number": "",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_oct28report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_oct28report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Page box reads 'Page 2 of 6'. Neither amendment box is checked. Every line reconciles internally and Column A line 3 carries forward the AMENDED September line 7 (2,859.35). Column B line 2 chains off 5,033.32 \u2014 the ORIGINAL June aggregate \u2014 even though line 3 chains off the amended September figures; that mixed lineage is the filer's, kept verbatim."
+ }
+}

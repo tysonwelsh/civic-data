@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "6000.00",
+ "total_expenditures": "173.16",
+ "beginning_balance": "0",
+ "ending_balance": "5826.84",
+ "aggregate": {
+  "total_contributions_to_date": "6000.00",
+  "total_expenditures_to_date": "173.16",
+  "line5_subtotal": "6000.00"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMO",
+  "office_sought": "S.L. COUNTY COUNCIL",
+  "district_number": "2",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4.2.12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Goodfellow_B_12_April_Interim_CntyCncl2_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Goodfellow",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Goodfellow_B_12_April_Interim_CntyCncl2_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten form. Party abbreviated 'DEMO' verbatim. Office Sought is written 'S.L. COUNTY COUNCIL' with the '2' falling in the District Number column, so it is recorded as district_number='2'. Neither amendment box is checked. Line 3 is written as a small open zero. Arithmetic self-consistent (6000.00 - 173.16 = 5826.84). No dollar signs on any figure."
+ }
+}

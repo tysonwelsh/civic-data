@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "",
+  "office_sought": "COUNTY MAYOR",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Snelgrove_R_Mayor_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Richard Snelgrove",
+  "office": "Mayor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Snelgrove_R_Mayor_Dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 1 re-rendered at -r 250 to confirm the date",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice \u2014 no Summary Page, all totals null (honest, not a failure). Committee: 'Snelgrove County Mayor'; committee secretary written as 'NONE'. The signature date is written '2-2-14' but the clerk's RECEIVED stamp reads FEB 02 2015 and the accompanying year-end report covers Nov/Dec 2014 expenditures \u2014 the filer appears to have written the wrong year; the date is recorded verbatim as printed. Faxed copy (fax number handwritten at the top)."
+ }
+}

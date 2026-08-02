@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "bcd074cc91d8479adb510e18fdc584bad0c3010fa3ebbd494086be0407d91b7b",
+ "canonical_path": "raw/2022/2022_cc_Kathryn_A_Beus_14e5f5.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_Kathryn_A_Beus_14e5f5.pdf",
+  "raw/2022/2022_cc_Kathryn_A_Beus_22G.pdf",
+  "raw/2022/2022_wb_Kathryn_A_Beus_22G.pdf"
+ ],
+ "pages_read": [
+  1,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Kathryn A Beus",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council-Southeast",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Southeast",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "30 Days after the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12/06/2022",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 DEC 7 PM 12:23",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "2350.00",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "2479.01",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "0.00",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Southeast",
+  "evidence": "page 1 'Office' box reads (typed) 'Cache County Council-Southeast'",
+  "confidence": "high"
+ },
+ "notes": "\u26a0 YEAR-TO-DATE ONLY: boxes A, B, D and F are left entirely EMPTY on this page; only C (2350.00), E (2479.01) and the Balance-at-Close (0.00) carry values. Recorded exactly so \u2014 the This-Period boxes are blank, NOT zero. Address, city, zip and email are redacted on the published PDF by the county."
+}

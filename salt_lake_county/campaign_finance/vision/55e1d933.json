@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "38,769.26",
+ "total_expenditures": "23,237.64",
+ "beginning_balance": "21,976.06",
+ "ending_balance": "37,507.68",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "60,745.32"
+ },
+ "cover": {
+  "candidate": "Jenny Wilson",
+  "party": "Democrat",
+  "office_sought": "Mayor",
+  "district_number": "candidate",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Wilson-Jennifer__B0E4DD8D.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Wilson, Jennifer",
+  "office": "Mayor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Wilson-Jennifer__B0E4DD8D.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'2022 Financial Disclosure Report' title. Column B left BLANK by the filer (recorded blank, not zero). Summary header carries the last name only - no page numbers, no date of report. Name printed 'Jenny Wilson' here and 'Jennifer Wilson' on the companion amended filing."
+ }
+}

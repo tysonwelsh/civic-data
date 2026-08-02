@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "14,300.00",
+ "total_expenditures": "11,331.94",
+ "beginning_balance": "6,100.00",
+ "ending_balance": "9,068.06",
+ "aggregate": {
+  "total_contributions_to_date": "20,573.16",
+  "total_expenditures_to_date": "11,505.10",
+  "line5_subtotal": "20,400.00"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - District 4",
+  "district_number": "",
+  "report_type": "Interim Report: June 19",
+  "is_amendment": "Yes",
+  "amendment_of": "6/18/12",
+  "report_date": "6/25/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_June_Interim_Amend_CntyCncl4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_June_Interim_Amend_CntyCncl4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Amendment box Yes, amending the report of 6/18/12 (key b2e96457); signature date 6/25/12, RECEIVED JUN 27 2012. Office Sought spans the whole row so the District Number cell has no separate entry. The Summary Page header box is blank. What the amendment adds relative to the original: Line 1 Column A (14,300.00) and both Column B figures, which the original left blank. Fully self-consistent in both directions (6,100.00 + 14,300.00 = 20,400.00 less 11,331.94 = 9,068.06; Column B chains from the April report: 6,273.16 + 14,300.00 = 20,573.16 and 173.16 + 11,331.94 = 11,505.10)."
+ }
+}

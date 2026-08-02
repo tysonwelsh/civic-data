@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "index_path": "raw/2024/202411_731_m-murray-general.pdf",
+    "cache_key": "1728285f",
+    "entity": "wasatch_county",
+    "election_year": "2024",
+    "reporting_period_index": "General 2024 (pre-general / post-election)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Marcy Murray",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "10-29-2024",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": []
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "0",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "No period box marked."
+}

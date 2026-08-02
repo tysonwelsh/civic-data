@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$53,644.89",
+ "total_expenditures": "$29,667.38",
+ "beginning_balance": "$68,132.28",
+ "ending_balance": "$92,109.79",
+ "aggregate": {
+  "total_contributions_to_date": "$137,922.15",
+  "total_expenditures_to_date": "$45,812.36",
+  "line5_subtotal": "$121,777.17"
+ },
+ "cover": {
+  "candidate": "Lannie Chapman",
+  "party": "Dem",
+  "office_sought": "_Clerk",
+  "district_number": "NA",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "2023-01-30",
+  "report_date": "01/31/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Chapman-Lannie__DABD4E00.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Chapman, Lannie",
+  "office": "Clerk",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Chapman-Lannie__DABD4E00.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "31-page filing. LABEL/FORM detail: clerk listing calls it \"September 2022 Amendment\" - the form agrees, checking \"September 15\" and marking it an amendment, but the amended report's date is written as 2023-01-30 (which is the date the amendment was prepared, not the September report's date). Signed 01/31/23. TITLE reads \"2020 Financial Disclosure Report\" (stale template)."
+ }
+}

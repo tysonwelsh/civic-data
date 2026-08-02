@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$277,039.40",
+ "total_expenditures": "$223,877.77",
+ "beginning_balance": "$96,880.46",
+ "ending_balance": "$150,042.09",
+ "aggregate": {
+  "total_contributions_to_date": "$571,297.73",
+  "total_expenditures_to_date": "$421,282.64",
+  "line5_subtotal": "$373,919.86"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "Dem",
+  "office_sought": "Mayor",
+  "district_number": "N/A",
+  "report_type": "Interim Report: September 15 (For the period ending September 10, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/17/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_Sept_Interim_CntyMyr_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_Sept_Interim_CntyMyr_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The 'September 15' interim box is checked; neither amendment box is checked. Later 2012 cover layout (no top-row 'Office' field); District Number written 'N/A'. Signed 9/17/2012 and clerk-stamped SEP 17 2012 - two days AFTER the September 15 statutory date printed on the box, which is worth noting but is what the document says. Summary Page header: Page 1 of 28, McAdams, 'Sept. 17 '12'. Column B is headed 'Year to Date'. Every figure reconciles in both directions: Column A (96,880.46 + 277,039.40 = 373,919.86; minus 223,877.77 = 150,042.09) and Column B (June's 294,258.33 + 277,039.40 = 571,297.73; June's 197,404.87 + 223,877.77 = 421,282.64). The five McAdams 2012 filings form one unbroken balance chain."
+ }
+}

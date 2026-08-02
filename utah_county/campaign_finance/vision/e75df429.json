@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Lee.pdf",
+ "key": "e75df429",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:10:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commissioner (Seat B)",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/28/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "16,080",
+    "contrib_cumulative": "46,320",
+    "expend_this_period": "17,319",
+    "expend_cumulative": "40,071",
+    "balance_beginning": "7488",
+    "subtotal_before_expend": "23,568",
+    "balance_close": "6,249"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "16,080",
+    "line1_total_contributions_colB": "46,320",
+    "line2_total_expenditures_colA": "17,319",
+    "line2_total_expenditures_colB": "40,071",
+    "line3_balance_beginning": "7488",
+    "line4_total_contributions_from_line1A": "16,080",
+    "line5_subtotal_lines3plus4": "23,568",
+    "line6_total_expenditures_from_line2A": "17319",
+    "line7_balance_at_close": "6,249"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink, crisp. The cover's Name field reads 'Bill Lee'; the Report Verification print-name line reads 'William C Lee' - both transcribed as printed (candidate_printed carries the cover field). The filer wrote whole dollars only, no cents, and used a comma inconsistently (line 6 is written '17319' where line 2 Column A is '17,319'); both transcribed verbatim. Page footer reads 'Page 2 of 6'."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$17,124.23",
+ "total_expenditures": "$16,644.09",
+ "beginning_balance": "$5390.08",
+ "ending_balance": "$5870.22",
+ "aggregate": {
+  "total_contributions_to_date": "$70,845.42",
+  "total_expenditures_to_date": "$64,975.20",
+  "line5_subtotal": "$22,514.31"
+ },
+ "cover": {
+  "candidate": "Holly Mullen",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large B",
+  "district_number": "",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/26/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/hmullen_10_OctoberInterim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Holly Mullen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/hmullen_10_OctoberInterim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. The clerk listing calls this the 'October' report; the form checks 'Seven days before a general election' (signed 10/26/10) \u2014 consistent. Summary Page header box is blank. Neither the amendment Yes nor No box is checked. Arithmetic closes."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8544.33",
+ "total_expenditures": "28,423.73",
+ "beginning_balance": "19,879.40",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "109,642.79",
+  "total_expenditures_to_date": "109,642.79",
+  "line5_subtotal": "28,423.73"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council District 4",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/2/09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_jiwamoto_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_jiwamoto_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older form variant with a top-row 'Office' box reading 'County Council'; the Office Sought line runs across the District Number box and reads 'County Council District 4', so district_number is left blank rather than duplicating it. Neither amendment box is checked. Line 1 Column A is written without a thousands comma ('8544.33'); Line 4 restates it as '8,544.33'. Line 7 is a slashed zero. Column B carries the same figure (109,642.79) on both Lines 1 and 2 - a committee that has spent everything it ever raised. Arithmetic consistent."
+ }
+}

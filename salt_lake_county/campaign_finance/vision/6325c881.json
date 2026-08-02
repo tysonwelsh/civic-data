@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1920,00",
+ "total_expenditures": "4043.07",
+ "beginning_balance": "2134.50",
+ "ending_balance": "11.43",
+ "aggregate": {
+  "total_contributions_to_date": "2510.00",
+  "total_expenditures_to_date": "375.50",
+  "line5_subtotal": "4,435.00"
+ },
+ "cover": {
+  "candidate": "B. Kent Morgan",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/5/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kmorgan_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "B. Kent Morgan",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/kmorgan_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 1 Column A is written with a DECIMAL COMMA: '1920,00' - recorded exactly as printed, not converted. Line 1 Column B is written as '2510' with the cents as a raised superscript '00' over a rule, transcribed 2510.00; Line 5 likewise ends in a superscript '00'. Line 4 has a struck-through figure with '1920,00' rewritten beside it. ARITHMETIC INCONSISTENCY on the form: 2134.50 + 1920.00 = 4054.50, but Line 5 prints 4,435.00; Line 7's 11.43 is consistent with 4054.50 - 4043.07, so the printed Line 5 appears to be a filer error - kept verbatim. Line 2 Column B (375.50) is smaller than Column A (4043.07), which the form does not explain; the filer mixes decimal commas and periods throughout. Re-rendered at 250 dpi to confirm."
+ }
+}

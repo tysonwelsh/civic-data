@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,300.00",
+ "total_expenditures": "$7,606.76",
+ "beginning_balance": "$2,478.38",
+ "ending_balance": "$171.62",
+ "aggregate": {
+  "total_contributions_to_date": "$21,550.12",
+  "total_expenditures_to_date": "$23,035.67",
+  "line5_subtotal": "$7,778.38"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-31-2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdick_M_12_Final_Council6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdick_M_12_Final_Council6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the '2012 Summary Report' and the filename says 'Final'; the FORM checks the YEAR-END (January 31) box only - the Final / Dissolution box is NOT checked - and the amendment box is checked No. This copy is a FAX transmission (header '01-31-2013 4:07 PM ... Pg 2/9' across the top of every page, so the cover is fax page 2 and the Summary Page fax page 3, corresponding to PDF pages 1 and 2). Cents are raised superscripts over a rule. Arithmetic consistent (2,478.38 + 5,300.00 = 7,778.38; less 7,606.76 = 171.62), and Line 3 chains from the amended October filing (key a1d62517)."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3845.",
+ "total_expenditures": "4194.82",
+ "beginning_balance": "404.67",
+ "ending_balance": "54.85",
+ "aggregate": {
+  "total_contributions_to_date": "3845.",
+  "total_expenditures_to_date": "4194.82",
+  "line5_subtotal": "4249.67"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large C",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_CouncilAtLarge_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_CouncilAtLarge_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-6 of 18)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "An 18-page BUNDLE. PDF page 2 is a blank verso (only show-through of the cover is visible); the Summary Page is PDF page 3, and pages 4-5 are the blank Itemized Contributions / Expenditures grids marked 'See Attached', with the itemized material following. The form uses the 2012 vintage (its interim labels still read 2012) but the YEAR-END box is checked and it is signed 1-31-14, i.e. the 2013 year-end as the clerk listing says. Line 1 Columns A and B write cents as a raised dash - recorded without it. Summary-page header box is blank. Neither amendment box is checked. Arithmetic consistent (404.67 + 3845 = 4249.67; less 4194.82 = 54.85)."
+ }
+}

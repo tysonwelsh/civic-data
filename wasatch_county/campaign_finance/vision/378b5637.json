@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "index_path": "raw/2020/2020_OctAArmer.pdf",
+    "cache_key": "378b5637",
+    "entity": "wasatch_county",
+    "election_year": "2020",
+    "reporting_period_index": "October 2020 (7 days before General)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Aimee Armer",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/26/2020",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "7 Days preceding the General Election"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "2997.23",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "7462.63",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "10,459.86",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "525.58",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "8103.75",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "8629.33",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "2471.65",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "1830.53",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "The signature date reads 6/26/2020 on a report filed at the October point \u2014 verbatim. The cumulative balance cell is blank."
+}

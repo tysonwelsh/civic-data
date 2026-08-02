@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "203.50",
+ "beginning_balance": "869.71",
+ "ending_balance": "666.21",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": null,
+  "line5_subtotal": "869.71"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "REPUBLICAN",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "JAN 30 09",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_gott_yearendsumm.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_gott_yearendsumm.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to inspect the Line 2 cells)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Office Sought box is blank; neither amendment box is checked. LINE 2 IS WRITTEN ACROSS THE COLUMN DIVIDER: the digits '203' sit in Column A and '50' sit in Column B, with no decimal point - they are one figure whose cents overran the rule, as the form itself confirms on Line 6, which prints '203.50' for 'Total Expenditures Made (From Line 2 Column A)'. total_expenditures is therefore recorded as 203.50 at medium confidence, and total_expenditures_to_date is left NULL because no aggregate figure exists in that cell (the ink there is the cents of the Column A figure), not blank and not zero. Lines 1 and 4 are slashed zeros. Arithmetic consistent: 869.71 - 203.50 = 666.21."
+ }
+}

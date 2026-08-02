@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Diamond_Steven_4.11.2022_Redacted.pdf",
+ "key": "aeddb421",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:00:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Steven Diamond",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner Seat A",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "",
+   "report_date": "04-11-2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "3000.00",
+    "expend_this_period": "557.82",
+    "expend_cumulative": "3000.00",
+    "balance_beginning": "557.82",
+    "subtotal_before_expend": "557.82",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "557.82",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "3000.00",
+    "boxD_expenditures_made_this_period": "557.82",
+    "boxE_expenditures_made_year_to_date": "3000.00",
+    "boxF_subtotal_before_expenditures": "557.82",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "OFFICE RESOLVED FROM THE PAGE: 'Utah County Commissioner Seat A' - index.csv carries office_index = '' for this filing, so this is a new resolution, not a conflict. Name printed 'Steven Diamond' here vs 'Steven C. Diamond' on his 3/30/2022 filing (key 7cf59ece); both transcribed as printed. NEITHER amendment radio (No / Yes) is marked, so is_amendment is '' rather than assumed 'No'. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''. Boxes C and E print '3000.00' with NO thousands comma (verbatim); Box B and the close box are a written '0' (real zeros, not blank cells). Box A (557.82) carries forward exactly from the close of the same filer's 3/30/2022 report. Typed fillable form, footer 'v. 4.20'; cover 'Page' box prints just '1', summary page '4'."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'Campaign Financial Disclosure Checklist', with two staff review sign-offs dated 4/18/22 and 4/20/2022. ONE report emitted. Mixed letterhead: cover (p1) Josh Daniels banner, summary (p4) Amelia Powers Gardner banner. This cover's report-type list omits 'Seven days preceding Convention' and includes '30 Days after the Primary Election' - a different v. 4.20 cover layout from the same filer's 3/30/2022 filing."
+}

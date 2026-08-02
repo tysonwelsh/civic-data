@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_wp/2016-Gil-Almquist.pdf",
+ "channel": "live_wp",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_wp/2016-Gil-Almquist.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_wp/2016-Gil-Almquist.pdf",
+   "doc_kind": "statement",
+   "sha256": "ec98182955618cd761de2f4f065f7aca0f77eae22f0b1eadab3a96a59a9c4308",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gilbert Almquist",
+  "office": "Washington County Commissioner seat C",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": "Melanie Aplanalp"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "portal_listing",
+ "index_office_confidence": "medium",
+ "index_candidate": "GIL ALMQUIST",
+ "index_reporting_year": "2016",
+ "index_cycle_year": "2016",
+ "index_filing_type": "annual",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "25-Jan-16",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "20117.51",
+   "contrib_gt50_this": "20117.51",
+   "contrib_gt50_cum_printed": "20117.51",
+   "contrib_gt50_cum": "20117.51",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "20117.51",
+   "expenses_this": "20117.51",
+   "expenses_cum_printed": "20117.51",
+   "expenses_cum": "20117.51",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "0.00",
+   "balance_this": "0",
+   "balance_end_printed": "0.00",
+   "balance_end": "0",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "BORN-DIGITAL (pdftotext -layout). FILER INCONSISTENCY retained: the contribution line repeats the expenditure total; the filing's own Form A prints TOTAL $20,917.51."
+  }
+ ],
+ "unreadable": [],
+ "notes": "the live county page's re-post of the same 2016 Final FCR held at wayback_forms2016 (cache eb1875ae)",
+ "generated_utc": "2026-08-02T03:58:59Z"
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "776.01",
+ "beginning_balance": "776.01",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "11,160.00",
+  "total_expenditures_to_date": "11,160.00",
+  "line5_subtotal": "776.01"
+ },
+ "cover": {
+  "candidate": "MARY BISHOP",
+  "party": "DEMOCRAT",
+  "office_sought": "Co. Recorder",
+  "district_number": "County Wide",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2/2/15",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bishop_M_Recorder_YearEnd_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mary Bishop",
+  "office": "Recorder",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bishop_M_Recorder_YearEnd_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the '2014 Summary Report/Dissolution'; the FORM checks ONLY the Final / Dissolution Report box - the Year-End (January 31) box is NOT checked. Line 1 Column A is a written open zero; Lines 4 and 7 Column A are hand-drawn slashed zeros - all recorded as 0. Column B cents are written as a raised superscript 00 over a rule - transcribed with a decimal point. The top-row Office box reads 'Co. Rocorder' (filer's misspelling); the Office Sought box reads 'Co. Recorder' and is the value used. Amendment box checked No."
+ }
+}

@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "index_path": "raw/2020/2020_DecSFarrell.pdf",
+    "cache_key": "377fadeb",
+    "entity": "wasatch_county",
+    "election_year": "2020",
+    "reporting_period_index": "December 2020 (30 days after General)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Steve B. Farrell",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "12/3/2020",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "30 Days after the General Election"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "178.75",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "3159.21",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "3332.96",
+        "confidence": "medium"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "178.75",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "3159.21",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "3337.96",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "178.95",
+        "confidence": "medium"
+      },
+      "this_report": {
+        "value": "3159.21",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "3337.96",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Three internal inconsistencies, all kept verbatim: the CUMULATIVE contributions cell reads 3332.96 while the expense and balance cumulative cells read 3337.96 (178.75 + 3159.21 = 3337.96); the balance LAST REPORT cell reads 178.95 against 178.75 elsewhere; and the balance line repeats the expense line instead of netting."
+}

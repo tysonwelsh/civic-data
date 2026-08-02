@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "484.18",
+ "beginning_balance": "2258.17",
+ "ending_balance": "1773.99",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "2258.17"
+ },
+ "cover": {
+  "candidate": "Laurie Stringham",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Cou",
+  "district_number": "Seat A",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan 31. 2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Stringham-Laurie__8CD1F961.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Stringham, Laurie",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Stringham-Laurie__8CD1F961.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'2022 Financial Disclosure Report' title. NEITHER amendment box is checked. Column B (Aggregate Total) is left entirely BLANK by the filer on both lines - recorded as blank, not zero. Amounts typed without a '$'. The 'Office Sought' box is clipped by the form field width and renders as 'Salt Lake County Cou'; the cover 'Office' box reads 'Salt Lake County Council' in full. Summary header 'Date of Report' is clipped to 'Jan 31, 202'; the cover signature date reads 'Jan 31. 2023'. Page/of boxes blank."
+ }
+}

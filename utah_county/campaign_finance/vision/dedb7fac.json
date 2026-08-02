@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Graves_Greg_4.11.2022_Redacted.pdf",
+ "key": "dedb7fac",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:52:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Gregory James Graves",
+   "party_printed": "",
+   "office_printed": "Commission Seat \"B\"",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "4/11/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "SEAT CONFLICT ON THE PAGE FACE - do not silently reconcile. The Office field here is HANDWRITTEN and reads Commission Seat \"B\" (with the filer's own quotation marks around the B), while the SAME filer's 3/31/2022 filing (key 511e9efa) prints a typed 'Commission Seat A'. index.csv carries office_index = 'County Commission' (seat unresolved) for this row. Both pages are transcribed as they read; the seat is NOT adjudicated here. Every one of the seven boxes is a written '0' (real zeros, handwritten, not blank cells) - this is an all-zero withdrawal report. NOTE this filing letters the close box 'G' (unlike the filer's own 3/31 v. 4.20 sheet, where it is unlettered), so totals_verbatim uses 'boxG_balance_at_close' here. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''; the Email field is blank on the form. Cover is typed except the handwritten Office; the summary page's 'Name of Candidate' is also handwritten."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'Campaign Financial Disclosure Checklist', reviewed 4/18/22 and 4/20/2022. ONE report emitted. This cover carries the Josh Daniels banner and NO footer version string, and its report-type list includes both 'Seven days preceding Convention' and 'End-of-Year Report' - a different template again from the same filer's 3/31/2022 v. 4.20 filing."
+}

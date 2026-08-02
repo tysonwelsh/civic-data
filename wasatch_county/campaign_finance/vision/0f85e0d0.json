@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "index_path": "raw/2026/202606_R-Kahler.pdf",
+    "cache_key": "0f85e0d0",
+    "entity": "wasatch_county",
+    "election_year": "2026",
+    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+    "form_family_index": "wasatch_disclosure_tableab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "balance_end",
+      "total_contributions",
+      "total_expenditures"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Rachel Anne Kahler",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Council",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "Seat A",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber City",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/16/2026",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Primary Report"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "4,745.00",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "2854.92",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "1,890.08",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed. Her March 2026 filing printed no figures at all, so these are her first stated totals."
+}

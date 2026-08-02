@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "19fe0f79",
+ "source_filing": "raw/y2026/2026_ugd_92078f_4df9df3b.pdf",
+ "document_id": "2026_ugd_92078f_4df9df3b",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Richard A. Hyer",
+ "office_stated": "Weber County Commissioner seat a",
+ "report_type_stated": "June 16 - Primary Election",
+ "filing_date_stated": "2026-06-16",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "54,305.00",
+   "this": "3,776.31",
+   "cum": "58,081.31"
+  },
+  "expenditures": {
+   "last": "34,353.53",
+   "this": "5,710.14",
+   "cum": "40,063.67"
+  },
+  "ending_balance": {
+   "last": "19,951.47",
+   "this": "(1,933.83)",
+   "cum": "18,017.64"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED; clerk RECEIVED stamp JUN 16 2026. FILER INCONSISTENCY retained: the ending-balance 'Last Report' cell reads 19,951.47 while this filer's own May report printed a cumulative balance of 22,951.47 (a $3,000 difference); contributions and expenditures carry forward correctly. County-redacted street address and home/office phone."
+}

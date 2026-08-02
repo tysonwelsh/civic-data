@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6,250.00",
+ "total_expenditures": "$908.11",
+ "beginning_balance": "$2,250.00",
+ "ending_balance": "$7,591.89",
+ "aggregate": {
+  "total_contributions_to_date": "$8,654.47",
+  "total_expenditures_to_date": "$1,062.58",
+  "line5_subtotal": "$8,500.00"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council \"A\" at Large",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-16-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_sdebry_june17report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_sdebry_june17report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. Page box reads 'Page 2 of 4'. Cents are raised underlined superscripts. All lines arithmetically consistent (2,250.00 + 6,250.00 = 8,500.00; 8,500.00 - 908.11 = 7,591.89)."
+ }
+}

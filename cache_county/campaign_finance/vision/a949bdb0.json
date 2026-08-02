@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "897cd500a227313e699e8336578a8b604c94225fef576278e94200e6c3448a44",
+ "canonical_path": "raw/2020/2020_st_campaign_finance_tidwell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_tidwell.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Barbara Y. Tidwell",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Seat 2",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess Bradfield",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/20/20",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-OCT 26 '20 PM 1:18:55",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "500.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "500.00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "75.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "75.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "659.32",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "659.32",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "659.32",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "659.32",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Seat 2",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'Seat 2'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "LAST-REPORT boxes carry crossed-O zero glyphs. Line 4 repeats the line-3 expense figure without a minus sign \u2014 retained as filed."
+}

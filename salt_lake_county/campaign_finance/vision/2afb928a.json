@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Liz Fehrmann",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1-31-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/LFehrmann_11_Dissolutionl_Assessor.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liz Fehrmann",
+  "office": "Assessor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/LFehrmann_11_Dissolutionl_Assessor.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - NOT the financial disclosure report, so there is no Summary Page and every total is null. Name of Committee, Name of County Office Candidate and Name of Committee Secretary are all written 'Liz Fehrmann'; 'Date Committee Was Established' is left blank. No office/party/district fields exist on this form. Signed and dated 1-31-12, clerk-stamped JAN 31 2012 - so the manifest's 2010/2011 framing refers to the election cycle, not the document date."
+ }
+}

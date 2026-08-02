@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Balderree_Heidi_4.2.22_Redacted.pdf",
+ "key": "ef961762",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:42:00Z",
+ "pages_read": [1, 9, 11, 13],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Heidi Balderree",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4-2-22",
+   "summary_page": 11,
+   "totals": {
+    "contrib_this_period": "3,709.09",
+    "contrib_cumulative": "3,709.09",
+    "expend_this_period": "2,723.47",
+    "expend_cumulative": "2,723.47",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "3,709.09",
+    "balance_close": "985.62"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "3,709.09",
+    "boxC_contributions_received_year_to_date": "3,709.09",
+    "boxD_expenditures_made_this_period": "2,723.47",
+    "boxE_expenditures_made_year_to_date": "2,723.47",
+    "boxF_subtotal_before_expenditures": "3,709.09",
+    "balance_at_close": "985.62"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten form on a faint, skewed photocopy scan - all summary figures are medium confidence. OFFICE NOT STATED: the Office cell on the cover page is genuinely EMPTY (verified at high zoom - the county's black redaction bar covers only the Address/City/State/Zip row above it, not the Office cell), so office_printed is '' and index.csv's blank office is NOT resolved by this filing. Street address and city are redacted upstream by the county (black bar), so residence_city is ''; the signature is likewise blacked out but the Date box (4-2-22) and the 'Date of Report' box (4-2-22) survive. Box A is written '$0'. The close balance reads $985.62 on a degraded scan (medium confidence); this is consistent with the form's own printed 'Box F - Box D' relation, offered here only as corroboration - the figure was READ, not computed. Corroborating the D box, the Schedule B page (p9) prints 'Total Expenditures Made $ 2,723.47'. PAGE-FACE vs LOCATOR: the locator flagged p9 as a second COVER page, but p9 is a Schedule B - Itemized Expenditures Made continuation sheet, and p13 is the county's internal CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST (staff-reviewed 4/4/22). This 14-page PDF therefore contains ONE report, not two."
+  }
+ ],
+ "notes": ""
+}

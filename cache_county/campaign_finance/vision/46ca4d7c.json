@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "44ba8c3e3ac329d31595f22f7cb1ac877d1619613c9875f718395c8cec124079",
+ "canonical_path": "raw/2024/2024_cc_2024_General_Frank_C_Stewart.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Frank_C_Stewart.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Frank C. Stewart",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/21/24",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2024 OCT 22 AM 11:03",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "None",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "None",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "0",
+    "c": "medium"
+   },
+   "total_expenditures_made": {
+    "v": "50",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "",
+  "evidence": "page 1 'Office' box is entirely BLANK (verified at 250% zoom on the rendered image — no handwriting of any kind between the 'Office' label and the 'Type of Report' band); no district or party field exists on this 2022+ form. The only office-bearing text anywhere in the document is the single Schedule B line on page 3: '1) County Clerk Candidate Filing Fee - $50'.",
+  "confidence": "high"
+ },
+ "notes": "Cache County Clerk/Auditor 'Candidate Financial Disclosure / Financial Campaign Report for County Offices and Local School Board Candidates' (2022+ instrument); no statutory citation is printed on the form. Cover: candidate 'Frank C. Stewart', address '1146 No. 680 E, Logan UT 84341', phone '435 770 0844', email 'f.stewart@ ... tech-edu' (email domain not confidently legible); 'Mark the applicable report' has an X on 'Seven days preceding the General Election'; 'Is this report an amendment?' is marked 'No'; Date of Report 10/21/24; 'Office Use Only' Logged/Transmitted circles are both UNMARKED. Page 2 Schedule A carries the single handwritten word 'None' and no itemized rows; its 'Subtotal for this page' and 'Total Contributions Received' are both a large hand-drawn OPEN O GLYPH used as a zero — transcribed '0' at confidence medium per protocol rule 3. Page 3 Schedule B has one itemized line, '1) County Clerk Candidate Filing Fee - $50', and both its 'Subtotal for this page' and 'Total Expenditures Made' read '50' (each hand-CIRCLED by the filer; a trailing dash follows the figure). SUMMARY PAGE ANOMALY — boxes D, E and 'Balance at Close of Reporting Period' each contain ONLY the filer's own hand-drawn dollar sign with NO figure written after it; this is verified by comparing the identical '$' glyph the filer drew immediately before the '50' on Schedule B (both are an S-loop crossed by two vertical strokes). They are therefore NOT zeros and were NOT read as zeros — recorded verbatim as '$'. Boxes A and F are entirely blank. Consequence: the filing's own summary states no expenditure figure even though its Schedule B states 50; that disagreement is the filer's and is retained, not reconciled. SCOPE: left 'undetermined' because the Office box is blank. The Schedule B line is a LEAD, not a determination, and is ambiguous on its face — it reads either as vendor='County Clerk' + purpose='Candidate Filing Fee' (i.e. the fee every county-form filer pays to the Clerk, which does not discriminate County Council vs Clerk/Auditor vs SCHOOL BOARD, since school-board candidates also file with the county clerk) or as 'County Clerk candidate' filing fee (i.e. a Clerk/Auditor candidacy). Neither reading can be settled from this document's own pages, so no office was assigned; an elections-canvass join is the right next instrument. Ledger candidate name 'Frank C. Stewart' MATCHES the document's typed/handwritten name in all four page footers — no conflict."
+}

@@ -1,0 +1,60 @@
+{
+ "path": "raw/2022/2022_Mark_Clement_Redacted.pdf",
+ "key": "fcc2e30f",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:16:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Mark Clement",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "12/22/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "0",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "0",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "0",
+    "boxF_subtotal_before_expenditures": "0",
+    "boxG_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "office_printed",
+    "residence_city"
+   ],
+   "notes": "THE OFFICE FIELD IS BLANK - office_printed is \"\", and index.csv's blank office is therefore CORRECT; this filing does not resolve to an office. Nothing else on the cover names one (email is mjcleme@gmail.com). Born-digital typed form; every summary box carries a typed '0' (an actual written zero, not a blank cell) and the close-balance box is lettered 'G' on this version of the summary page. The candidate signature Date box is EMPTY - the report_date above is the form's own 'Date of Report' box on the summary page (12/22/2022), which matches the cover's 'Date of Filing' (12/22/2022). Address block and signature are blacked out (redacted upstream by the county), so residence_city is \"\"."
+  }
+ ],
+ "notes": ""
+}

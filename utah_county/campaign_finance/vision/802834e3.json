@@ -1,0 +1,60 @@
+{
+ "path": "raw/2022/2022_JacksonKim.pdf",
+ "key": "802834e3",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:10:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Kim Jackson",
+   "party_printed": "",
+   "office_printed": "Utah County Treasurer",
+   "residence_city": "Provo",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "12/20/2022",
+   "summary_page": null,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {
+    "scheduleB_p2_subtotal_for_this_page": "0.00",
+    "scheduleB_p2_total_expenditures_made": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "low",
+    "expend_this_period": "low",
+    "expend_cumulative": "low",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "low",
+    "balance_close": "low"
+   },
+   "unreadable": [
+    "contrib_this_period",
+    "contrib_cumulative",
+    "expend_this_period",
+    "expend_cumulative",
+    "balance_beginning",
+    "subtotal_before_expend",
+    "balance_close"
+   ],
+   "notes": "THE PDF CONTAINS NO SUMMARY PAGE. It is 2 pages: p1 cover, p2 Schedule B (Itemized Expenditures Made, every row blank). The filer did not submit the Box A-F summary page, so every normalized total is \"\" - NOT zero, and NOT derived from Schedule B. The two figures recorded in totals_verbatim are the Schedule B page's own printed totals ('Subtotal for this page $ 0.00' and 'Total Expenditures Made $ 0.00'), kept under explicit schedule-B keys so they can never be mistaken for summary boxes. Born-digital typed form; address is NOT redacted here (3024 Comanche Ln, Provo, UT 84604 printed in the clear). Phone and Email fields left blank by the filer. Checked report type is 'End-of-Year Report' - the index carries reporting_period 'Midterm', which the page face does not support."
+  }
+ ],
+ "notes": "OCR locator correctly reported 'no SUMMARY page located' - there genuinely is none in this 2-page filing."
+}

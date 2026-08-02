@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Paul Pugmire",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "January 26, 2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/PPugmire_11_Dissolution_CntyCncl2.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Paul Pugmire",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/PPugmire_11_Dissolution_CntyCncl2.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT a disclosure form at all: this single page is a printed EMAIL thread between Paul Pugmire and Pam Tueller (SL County Elections Fiscal Manager) dated Thursday, January 26, 2012, subject 'Re: 2011 Year End Financial Disclosure Due by Jan 31, 2012', in which Pugmire writes 'I wish now to officially dissolve my campaign. Please mark your records as closing my account.' There is no Summary Page, no dissolution form, and no financial figures. Clerk RECEIVED stamp JAN 26 2012. The office (Council #2) comes from the clerk listing, not from the document, so office_sought is left blank."
+ }
+}

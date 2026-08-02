@@ -1,0 +1,49 @@
+{
+ "path": "raw/2022/2022_Rebecca_Nielsen_Scanned_Copy_of_FD.pdf",
+ "key": "726d9383",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:30:00Z",
+ "pages_read": [1],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rebecca Nielsen",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "End-of-Year Report",
+   "is_amendment": "No",
+   "report_date": "12/27/22",
+   "summary_page": null,
+   "scope_flag": "school_board",
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "subtotal_before_expend": "",
+    "balance_close": ""
+   },
+   "totals_verbatim": {},
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "",
+    "contrib_cumulative": "",
+    "expend_this_period": "",
+    "expend_cumulative": "",
+    "balance_beginning": "",
+    "balance_close": ""
+   },
+   "unreadable": [],
+   "notes": "SCHOOL BOARD FILER - out of scope for the county package. The typed Name of Candidate field reads 'Rebecca Nielsen' and a handwritten annotation beside it reads '- Provo School District Board Member'; the Office box itself is LEFT BLANK by the filer, so office_printed is '' and the school-board identification comes from the name line. index.csv carries office_index='' - the page does not resolve it either. The Address row and the Signature box are black bars (redacted upstream by the county), so residence_city is ''. No totals are transcribed because the PDF is a ONE-PAGE cover sheet only - it contains no Summary Page, no Schedule A and no Schedule B; the totals are ABSENT FROM THE DOCUMENT, not unreadable and not zero."
+  }
+ ],
+ "notes": "Single-page filing: cover page only. Scan is heavily shadowed along the right and bottom edges but every filled field on it is legible."
+}

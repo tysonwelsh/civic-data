@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "108,520.63",
+ "total_expenditures": "8,870.92",
+ "beginning_balance": "0",
+ "ending_balance": "99,649.71",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "108,520.63"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Dem",
+  "office_sought": "SLCO Council",
+  "district_number": "At Large",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/2/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__3D069168.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__3D069168.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "14-page bundle; Summary Page is page 2 (a photocopied/scanned page with the header box left blank). Figures are typed WITHOUT dollar signs; Line 3 is a bare '0'. Column B (Aggregate Total) is blank on both Lines 1 and 2 - recorded as empty strings, not zeros. Top-row Office reads 'Salt Lake County Council at Larg' (truncated on the form); Office Sought 'SLCO Council', District Number 'At Large'. Neither amendment box is checked. Clerk RECEIVED stamp APR 4 2022; the signature date is 4/2/2022."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$7,207.01",
+ "total_expenditures": "$7,532.01",
+ "beginning_balance": "$1,124.30",
+ "ending_balance": "$799.30",
+ "aggregate": {
+  "total_contributions_to_date": "$2,975.43",
+  "total_expenditures_to_date": "$3,035.92",
+  "line5_subtotal": "$8,331.31"
+ },
+ "cover": {
+  "candidate": "David M Muir",
+  "party": "UUP",
+  "office_sought": "_Auditor",
+  "district_number": "SLCo",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Muir-David__FE6B478C.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Muir, David",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Muir-David__FE6B478C.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Form title reads 2020 (template reuse). Column B stale as on this filer's other reports."
+ }
+}

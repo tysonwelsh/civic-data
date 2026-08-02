@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "e806e2c473a9b8f13ca7b655e4ac14715bc301c6e9f002611389e7b92ee30a15",
+ "canonical_path": "raw/2014/2014_cc_Buttars_10_28_14_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Buttars_10_28_14_campaign_finance.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Craig \"W\" Buttars",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Executive",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Lewiston",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/27/2014",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 27 OCT 2014 AM 10:46",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "2,630.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "2,630.",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "220.",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "220",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "9,619.85",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "9,619.85",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "-0-",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Executive",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Executive'; 'Political Party' reads 'Republican'; the printed citation on this vintage is 'Cache County Code 2.21'",
+  "confidence": "high"
+ },
+ "notes": "2014 is the first vintage whose printed citation is Cache County Code 2.21 rather than Utah Code 17-16-6.5. LAST-REPORT column blank throughout; line 4 filled only in the CUMULATIVE column."
+}

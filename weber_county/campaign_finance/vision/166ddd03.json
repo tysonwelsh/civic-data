@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "166ddd03",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p47",
+ "page_start": 47,
+ "page_end": 49,
+ "summary_page": 47,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "John Ulibarri",
+ "office_stated": "Assessor",
+ "report_type_stated": "October 8 (pre-election)",
+ "filing_date_stated": "2024-10-02",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "742.76",
+   "this": "-",
+   "cum": "742.76"
+  },
+  "expenditures": {
+   "last": "742.76",
+   "this": "-",
+   "cum": "742.76"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "-",
+   "cum": "-"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2024 3-line form. The printed date '5-Jun-24' is STRUCK THROUGH and replaced in handwriting with 'October 2, 2024' - both retained here; index.csv carries 2024-10-02. County-redacted address."
+}

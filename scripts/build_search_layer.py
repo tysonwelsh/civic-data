@@ -10,7 +10,9 @@ only writes tables inside <repo>/cities.db. Idempotent (drops + recreates its ta
 What it adds (everything carries a leading `city` column, like the core):
 
   comment           union of every public_comments/all_comments_clean.csv (verbatim cols)
-  cf_filing         union of campaign_finance/filing_totals.csv   — one row PER FILING:
+  cf_filing         union of campaign_finance/filing_totals.csv   — one row PER FILING
+                    (every entity with a campaign_finance/ dataset: cities AND counties
+                    since 2026-08-01; the `city` column carries the entity slug):
                     NEVER sum dollar columns across rows (interim+summary double-counts);
                     use cf_cycle for any per-candidate/race total (repo rule).
   cf_contribution   union of campaign_finance/contributions.csv (+ amount_num REAL parsed)
@@ -333,7 +335,13 @@ CF_EXPEND_COLS = ["candidate", "office", "seat", "election_year", "filing_date",
 def load_cf(out):
     counts = {"cf_filing": 0, "cf_contribution": 0, "cf_expenditure": 0,
               "cf_cycle": 0}
-    for c in CITIES:
+    # Cities first (their row order is unchanged from the city-only era), then every
+    # non-city entity with a dir — county campaign_finance/ datasets federate too
+    # (2026-08-01 county-acquisition package). Entities without the dataset contribute
+    # nothing (read_csv returns [] on missing files).
+    cf_entities = list(CITIES) + [e for e in ENTITIES
+                                  if e.level != "city" and e.dir]
+    for c in cf_entities:
         cf = os.path.join(ROOT, c.dir, "campaign_finance")
         for r in read_csv(os.path.join(cf, "filing_totals.csv")):
             out.execute(

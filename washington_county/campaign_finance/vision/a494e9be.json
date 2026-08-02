@@ -1,0 +1,133 @@
+{
+ "filing_key": "wayback_financialreports|2011-04-05|KIM HAFEN",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/County Candidate Summary - Kim Hafen_04-05-2011.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/County Candidate Summary - Kim Hafen_04-05-2011.pdf",
+   "doc_kind": "summary",
+   "sha256": "3ecf2435e8606bde4420f7a3afc0e6ccdb38964f98afe4f9df80fed6cc7d1ad1",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Contributions - Kim Hafen_04-05-2011.pdf",
+   "doc_kind": "contributions",
+   "sha256": "0e8cd168ccc106ecd676aa1f1b5d688ef8cc856050f0dec77ae036b7264b795b",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Expenditures - Kim Hafen_04-05-2011.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "893ca958c3de806e9f5dc7707043f83a7f1ce7fc927987938e28d85b894f8216",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Kim Hafen",
+  "office": "Clerk/Auditor",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Clerk/Auditor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Kim Hafen",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/7/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$500.00",
+   "balance": "-$500.00"
+  },
+  {
+   "submitted": "6/15/2010",
+   "date_due": "6/15/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$500.00"
+  },
+  {
+   "submitted": "8/31/2010",
+   "date_due": "8/31/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$500.00"
+  },
+  {
+   "submitted": "10/26/2010",
+   "date_due": "10/26/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$500.00"
+  },
+  {
+   "submitted": "1/10/2011",
+   "date_due": "1/10/2011",
+   "contrib_gt50": "$0.00",
+   "expenses": "$0.00",
+   "balance": "-$500.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "1/10/2011",
+   "date_due": "1/10/2011",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 4,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$0.00",
+   "expenses_this": "0",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$500.00",
+   "balance_end": "-500",
+   "balance_last_printed": "-$500.00",
+   "balance_last": "-500",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

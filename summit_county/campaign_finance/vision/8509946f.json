@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "24239",
+  "path": "raw/2024/24239_Smith-Pre-Election-2024-General.pdf",
+  "page": 1,
+  "sha256": "be44bf0f698c30d9960072147936121d1a7a5bb5ba3135f72ce874131fab7392",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/24239/Smith-Pre-Election-2024-General",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "FRANCIS ANTHONY SMITH",
+  "office_verbatim": "SHERIFF",
+  "party_verbatim": "DEM",
+  "signature_date_as_printed": "10/29/24",
+  "rows": {
+   "contrib_total": {
+    "current_report": "501.55",
+    "previous_report": "501.55",
+    "cumulative_total": "$ 0.00"
+   },
+   "total_expenditures": {
+    "current_report": "501.55",
+    "previous_report": "501.55",
+    "cumulative_total": "$ 0.00"
+   },
+   "campaign_balance": {
+    "current_report": "",
+    "previous_report": "",
+    "cumulative_total": "$ 0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten 2024 sheet, messy. Contribution and expenditure figures are written as '501' with a superscript '55' (read 501.55) in both the Current and Previous columns; the expenditure cells additionally carry a struck-through scribble that cannot be resolved and was NOT transcribed. The Cumulative column prints the template default $ 0.00 on every row against non-zero Current figures — retained verbatim. Balance Current/Previous cells are a slashed-zero nil mark (blank). Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

@@ -1,0 +1,105 @@
+{
+ "filing_key": "wayback_2010elections||DENNY DRAKE",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/County Candidate Summary- Denny Drake.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/County Candidate Summary- Denny Drake.pdf",
+   "doc_kind": "summary",
+   "sha256": "e50197bc72bc8eb6aab5baf58e9fb0517fec9d82223f54d0771fc4ef0b0a55ee",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Contributions- Denny Drake.pdf",
+   "doc_kind": "contributions",
+   "sha256": "6a16ad1f7a2b3ab5d2d38943d0c9212080741e208bde33a309d14b82a7ef162a",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Expenditures - Denny Drake.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "6c8af1bac5134e87ffb59517c8ac0ff90800f63c5e06af22f678209b8ab9282a",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "Denny Drake",
+  "office": "Commission Seat B",
+  "district": "County",
+  "election_year": "2010"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat B",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Denny Drake",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$225.00",
+   "balance": "-$225.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "",
+   "date_due": "4/9/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$225.00",
+   "expenses_this": "225",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$225.00",
+   "balance_end": "-225",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:10Z"
+}

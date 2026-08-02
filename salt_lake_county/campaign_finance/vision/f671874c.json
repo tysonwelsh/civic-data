@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "250.00",
+ "total_expenditures": "329.16",
+ "beginning_balance": "79.16",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "523.16",
+  "total_expenditures_to_date": "523.16",
+  "line5_subtotal": "329.16"
+ },
+ "cover": {
+  "candidate": "Craig A. Ward",
+  "party": "Republican",
+  "office_sought": "S.L. County Council",
+  "district_number": "4",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ward_C_12_Final_Council4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Craig Ward",
+  "office": "County #4",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ward_C_12_Final_Council4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten in blue ink. The clerk listing calls this the '2012 Summary Report', but on the form ONLY the Year-End (January 31) box is checked \u2014 the Final/Dissolution box is NOT (the separate dissolution notice, key 4e9d6d1f, was filed the same day). Line 1 Column A is written '250' with a raised superscript '00' \u2014 transcribed '250.00'. Line 7 is a drawn horizontal dash across the cell, the filer's zero \u2014 recorded as \"0\". Neither amendment box is checked. Received stamp JAN 31 2013."
+ }
+}

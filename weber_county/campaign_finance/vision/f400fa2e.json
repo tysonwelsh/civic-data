@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "f400fa2e",
+ "source_filing": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+ "document_id": "2022_combined_7e3a53_78d55edd#p34",
+ "page_start": 34,
+ "page_end": 36,
+ "summary_page": 34,
+ "election_cycle": "2022",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Sharon Arrington Bolos",
+ "office_stated": "Weber County Commission Seat B",
+ "report_type_stated": "October 25 - Nov 1",
+ "filing_date_stated": "2022-10-31",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "41,727.54",
+   "this": "5,150.40",
+   "cum": "46,877.94"
+  },
+  "expenditures": {
+   "last": "38,484.39",
+   "this": "8,264.50",
+   "cum": "46,748.89"
+  },
+  "ending_balance": {
+   "last": "3,243.15",
+   "this": "3,114.10",
+   "cum": "129.05"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN 2022 3-line form (p34 of the 2022 archive). All three columns reconcile internally. Line-4 'this report' 3,114.10 is written positive though the balance decreases by it; filer sign convention, retained."
+}

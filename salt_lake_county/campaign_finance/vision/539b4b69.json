@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,775.00",
+ "total_expenditures": "8,351.26",
+ "beginning_balance": "9,828.96",
+ "ending_balance": "6,252.70",
+ "aggregate": {
+  "total_contributions_to_date": "23,738.70",
+  "total_expenditures_to_date": "17,486.00",
+  "line5_subtotal": "14,603.96"
+ },
+ "cover": {
+  "candidate": "Gary W. Ott",
+  "party": "Republican",
+  "office_sought": "County Recorder",
+  "district_number": "",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "31 Oct 06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/gott_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/gott_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten, legible; arithmetic closes. Neither the amendment Yes nor No box is checked. Received stamp is hand-written 'Received Salt Lake County Clerk OCT 31 2006'."
+ }
+}

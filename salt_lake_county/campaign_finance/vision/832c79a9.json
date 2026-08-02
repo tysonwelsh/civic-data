@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1506.67",
+ "total_expenditures": "902.40",
+ "beginning_balance": "2,255.08",
+ "ending_balance": "2859.35",
+ "aggregate": {
+  "total_contributions_to_date": "8815.45",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3761.75"
+ },
+ "cover": {
+  "candidate": "Michael Renckert",
+  "party": "Republican",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "9-15-08",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "line5_subtotal": "high",
+  "is_amendment": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mrenckert_sept15amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mrenckert_sept15amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO Type-of-Report period box is checked \u2014 the only mark in that block is the amendment 'Yes' with date of report '9-15-08', so report_type is ''. The signature Date line on page 1 is BLANK (report_date ''); the page-2 header box carries '9.26.2008' and the clerk RECEIVED stamp is OCT 06 2008. Page box reads 'Page 2 of 4'. IMPORTANT: Column B line 2 (aggregate expenditures) was left BLANK on this amendment ('' , not 0) even though the original September report filled it. Against the ORIGINAL September report (key b008ee6c) this amendment RAISES line 1 from 1,505.02 to 1,506.67, line 1 Col B from 8,813.80 to 8,815.45, line 5 from 3,760.10 to 3,761.75 and line 7 from 2,857.70 to 2,859.35 \u2014 a uniform +1.65. This filing sits under a different template path (K:\\Elections\\Common_Folders\\...)."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "MICHAEL RENCKERT",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "01/31/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/MRenckert_11_Dissolution_Mayor.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Renckert",
+  "office": "Mayor",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/MRenckert_11_Dissolution_Mayor.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - not the financial disclosure report, so no Summary Page and all totals null. Name of Committee 'Campaign Renckert'; Name of County Office Candidate 'MICHAEL RENCKERT'; the Committee Secretary line reads as a Renckert first name I could only partially resolve (looks like 'Alecia Renckert') - not a captured field, noted for completeness. 'Date Committee Was Established' left blank. Signed 01/31/2012, clerk-stamped JAN 31 2012. The manifest labels this a 'Dissolution Report' for the Mayor race, which the document supports (its companion Final report is MRenckert_11_Final_Mayor.pdf)."
+ }
+}

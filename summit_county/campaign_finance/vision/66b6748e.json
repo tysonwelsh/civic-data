@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "27205",
+  "path": "raw/2026/27205_Olson-Disclosure-2026-Primary_Redacted.pdf",
+  "page": 1,
+  "sha256": "c415cefb8e1a67142e2729d53313fbcad20e24835d7952ddfbe02d434c9be436",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/27205/Olson-Disclosure-2026-Primary_Redacted",
+  "index_text_quality": "low",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2026",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Margaret Olson",
+  "office_verbatim": "",
+  "party_verbatim": "Democratic",
+  "signature_date_as_printed": "June 6, 2026",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$ 1,140.39",
+    "last_report": "$  -",
+    "cumulative_totals": "$  -"
+   },
+   "total_expenditures": {
+    "current_report": "$ 1,140.39",
+    "last_report": "$  -",
+    "cumulative_totals": "$  -"
+   },
+   "campaign_balance": {
+    "current_report": "$ 0-",
+    "last_report": "",
+    "cumulative_totals": "$  -"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "n/a",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten 2026 sheet, legible despite the 'low' OCR sidecar. The 'Name of Office' box is EMPTY on the form — the office (County Attorney) comes from the county portal listing, NOT from this document. Cents written as superscripts; the balance cell is written '0-'. Address redacted by the county. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

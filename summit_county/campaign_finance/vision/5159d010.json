@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1087",
+  "path": "raw/2014/1087_hilder.pdf",
+  "page": 1,
+  "sha256": "0f521495f084d237146e0c71ebd83ca8969d88f618a5a47d4dd0977c69ea2660",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1087/hilder",
+  "index_text_quality": "low",
+  "index_format": "scanned"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "ROBERT K. HILDER",
+  "office_verbatim": "Summit County Attorney",
+  "party_verbatim": "DEMOCRATIC",
+  "signature_date_as_printed": "October 27, 2014",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$9,200.-",
+    "last_report": "N/A",
+    "cumulative_totals": "$9,200.00"
+   },
+   "contrib_le50": {
+    "current_report": "225.00",
+    "last_report": "N/A",
+    "cumulative_totals": "225.00"
+   },
+   "total_expenditures": {
+    "current_report": "7,232.57",
+    "last_report": "N/A",
+    "cumulative_totals": "7,232.57"
+   },
+   "campaign_balance": {
+    "current_report": "$2,192.43",
+    "last_report": "N/A",
+    "cumulative_totals": "$2,192.43"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten cover, legible. Filer wrote N/A in every Last Report cell; the Current Report contributions>$50 cell is written '$9,200.-' (dash for cents) — kept verbatim."
+}

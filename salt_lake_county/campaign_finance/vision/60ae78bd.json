@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$20,350.00",
+ "total_expenditures": "$109,884.60",
+ "beginning_balance": "$89,534.60",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$488,558.50",
+  "total_expenditures_to_date": "$488,558.50",
+  "line5_subtotal": "$109,884.60"
+ },
+ "cover": {
+  "candidate": "Crockett, Mark",
+  "party": "REPUBLICAN",
+  "office_sought": "Mayor",
+  "district_number": null,
+  "report_type": "2012 Summary Report (Year End)",
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1/14/2013",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Crockett_M_12_Mayor_Final.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Crockett_M_12_Mayor_Final.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110 (Column B cells cropped at -r 450)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Clerk online-system printout (summary_printer.cfm?ID=653) headed 'Summary'; the form's own Report line reads '2012 Summary Report (Year End)', matching the clerk listing. Column A is machine-printed; BOTH YTD cells were left blank by the system and filled in BY HAND with the SAME figure, $488,558.50, for contributions-to-date and expenditures-to-date. That equality is implausible but is what the document shows - recorded verbatim, not reconciled. The Other-Campaign-Accounts columns print $0.00. No checkbox block/amendment question/signature block, so those fields are null; report_date is the system print date. Line 3 ($89,534.60) matches line 7 of the October interim report and Column A arithmetic is consistent (ending balance $0.00)."
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,100.-",
+ "total_expenditures": "822.65",
+ "beginning_balance": "307.62",
+ "ending_balance": "584.97",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1,407.62"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-27-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_jan3106.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jbradley_jan3106.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Office Sought and District Number boxes both BLANK on this filing. NEITHER amendment box is checked. As on the Wilson 1/31/06 copy, the 'June 20' checkbox prints as a filled bullet - a scan artifact, not a check. Summary Page header carries only the last name ('Bradley'); page number and date of report blank; both Column B cells BLANK. Line 1 Column A is written '$1,100.' followed by a dash for the cents - transcribed '$1,100.-'. Arithmetic consistent (307.62 + 1,100 = 1,407.62; minus 822.65 = 584.97)."
+ }
+}

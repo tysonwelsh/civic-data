@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$0.00",
+ "total_expenditures": "$0.00",
+ "beginning_balance": "$2,828.39",
+ "ending_balance": "$2,828.39",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$2,828.39"
+ },
+ "cover": {
+  "candidate": "Christopher Stavros",
+  "party": "Republican",
+  "office_sought": "_Assessor",
+  "district_number": "county",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/25/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Stavros-Christopher__97EC5759.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Stavros, Christopher",
+  "office": "Assessor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Stavros-Christopher__97EC5759.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Year-end report with no activity: $0.00 raised and spent, balance carried unchanged at $2,828.39. Listed under the filename 'ChrisStavrosAssessorDisclosure2022.xls' although the stored document is the PDF form. Form title reads 2020 (template reuse)."
+ }
+}

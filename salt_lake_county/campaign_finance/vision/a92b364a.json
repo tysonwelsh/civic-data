@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$84,284.53",
+ "total_expenditures": "$89,951.83",
+ "beginning_balance": "$39,431.50",
+ "ending_balance": "$33,764.20",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$123,716.03"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "D",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_April_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_April_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 1",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The 'April 5' box carries a clean X. The 'Seven days before a primary election' box immediately below carries a SCRIBBLED-OVER mark - an entry that appears to have been made and then struck out - so report_type records only 'April 5' and is flagged medium; a human may want to look at that box. Neither amendment box is checked (empty string). District Number holds a hand-drawn dash (blank). COLUMN B on Lines 1 and 2 is genuinely BLANK here - it is the amended version of this same filing (key 53201068) that supplies the aggregate figures. Signed 4/5/2012, clerk received-stamp APR 5 2012 (faint). Summary Page header: last name McAdams, date 4-5-12. Column A arithmetic checks out."
+ }
+}

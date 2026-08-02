@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$66,076.00",
+ "total_expenditures": "$120,946.03",
+ "beginning_balance": "$58,372.82",
+ "ending_balance": "$3,502.79",
+ "aggregate": {
+  "total_contributions_to_date": "$896,190.44",
+  "total_expenditures_to_date": "$892,714.65",
+  "line5_subtotal": "$124,448.82"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "Democrat",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Year-End box is checked; neither amendment box is checked. Later 2012 cover layout (no top-row 'Office' field); District Number holds a hand-drawn dash (blank). Signed in blue ink 1/30/2013, clerk-stamped JAN 31 2013. The Summary Page header box is entirely blank. Column B is headed 'Year to Date'. All arithmetic reconciles both ways: 58,372.82 + 66,076.00 = 124,448.82, minus 120,946.03 = 3,502.79; and the Column B figures continue the October filing exactly (830,114.44 + 66,076.00 = 896,190.44; 771,768.62 + 120,946.03 = 892,714.65). Manifest calls this the '2012 Summary Report' and the form's Year-End check agrees."
+ }
+}

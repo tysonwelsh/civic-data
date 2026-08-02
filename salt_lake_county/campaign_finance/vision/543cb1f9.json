@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$110,368.90",
+ "total_expenditures": "$95,438.92",
+ "beginning_balance": "$14,929.98",
+ "ending_balance": "$16,267.41",
+ "aggregate": {
+  "total_contributions_to_date": "$119,268.90",
+  "total_expenditures_to_date": "$103,001.49",
+  "line5_subtotal": "$23,829.98"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Sept. 13, 2022",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/DeBry-Steve__530CCB32.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "DeBry, Steve",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/DeBry-Steve__530CCB32.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 and cropped at -r 400 to resolve Line 2 Column A)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten on the OLDER form (Sherrie Swensen letterhead, no year in the title - form_year left blank). Neither amendment box is checked. WORTH A HUMAN LOOK - the filer used Column A on Lines 1 and 2 for the PRIOR cumulative totals, not this period: Line 1 Column A is $110,368.90 while Line 4 (\"from Line 1 Column A\") is $8,900.00, and Line 2 Column A is $95,438.92 while Line 6 (\"from Line 2 Column A\") is $7,562.57. Lines 3-7 are internally consistent. Line 2 Column A's second digit is genuinely ambiguous between 5 and 6 even at 400 dpi; read as 5 by glyph comparison with the filer's other 5s and 6s (and Column B minus Line 6 gives the same figure) - recorded at medium confidence."
+ }
+}

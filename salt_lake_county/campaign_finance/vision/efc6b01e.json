@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "-0-",
+ "total_expenditures": "5,503.50",
+ "beginning_balance": "6,252.70",
+ "ending_balance": "749.20",
+ "aggregate": {
+  "total_contributions_to_date": "23,738.70",
+  "total_expenditures_to_date": "22,989.50",
+  "line5_subtotal": "6252.70"
+ },
+ "cover": {
+  "candidate": "Gary W. Ott",
+  "party": "Republican",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": "January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "24 Jan 07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/gott_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/gott_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Summary Page header: Page 1 of 1, Ott, 1-31-07. Both Column A and Column B are internally consistent (6,252.70 - 5,503.50 = 749.20; 23,738.70 - 22,989.50 = 749.20), which corroborates the Column B digit readings. Contribution zeros written '-0-' (verbatim)."
+ }
+}

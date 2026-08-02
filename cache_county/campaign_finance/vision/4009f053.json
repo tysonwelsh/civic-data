@@ -1,0 +1,109 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "467f4c4655af9b48cde7399df551c60c19d7070772ca8b34365ba56500238a3c",
+ "canonical_path": "raw/2024/2024_cc_2024_General_David_R_Gillie.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_David_R_Gillie.pdf"
+ ],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "David R. Gillie",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Clerk",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Email: elections@cachecounty.gov / Mail: 179 North Main St. Suite 102, Logan, Utah 84321",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "Seven days preceding the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "28 OCT 2024",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$3000.00",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$4017.45",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$4017.45",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$6868.15",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$6868.15",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "$7017.45",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$149.30",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "$4017.45",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "$6868.15",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Clerk/Auditor",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Cache County Clerk'; the campaign email printed beside it is 'realelections@gillieforcountyclerk.com'",
+  "confidence": "high"
+ },
+ "notes": "Six pages, all handwritten in blue ink on the 2022+ county 'Candidate Financial Disclosure / Financial Campaign Report for County Offices and Local School Board Candidates' instrument: p1 cover, p2 Schedule A, p3-p5 Schedule B (three pages), p6 Summary Page. Scan quality is good and every figure is legible. OFFICE MAPPING: the filer wrote 'Cache County Clerk'; the repo's standard label for the historic County Clerk / County Auditor titles is 'Clerk/Auditor', so office_std='Clerk/Auditor' with the verbatim wording preserved in cover.office_verbatim. No statutory citation is printed anywhere on the form. Schedule A prints both a 'Subtotal for this page $4017.45' and a 'Total Contributions Received $4017.45' (one Schedule A page only). Schedule B's three pages print per-page subtotals $3203.23 (p3), $2493.33 (p4) and $1171.59 (p5), each over the same 'Total Expenditures Made $6868.15'; the three subtotals sum to $6868.15 but that check is stated here only as an observation - no arithmetic was performed to fill any field, every value is transcribed as printed. IN-KIND NOTE (verbatim from the filer): two Schedule A rows - Ralph Call, 10 South Main Street, Providence UT 84332 (marked *) and Alan Lower / Lower Family Foods, 700 US HWY 91, Richmond UT 84333 (marked **) - carry NO dollar amount, with the footnote 'No attempt has been made to assign a cost to the two considerable In Kind donations. DRG'. Those two rows are therefore genuinely amount-less on the page and are excluded from the printed $4017.45 by the filer's own choice; they are not treated as zeros here. A Schedule B row on p5 (Frank Anderson 1360, Kamas UT, Data Consulting) is written as '$259.55 / -$100 (credit) / $159.55' - an overwrite-style netting shown on three stacked lines, recorded here as an observation, not normalized. Closing balance is printed as '$149.30' in the 'Balance at Close of Reporting Period (Box F - Box D)' box with no letter-G label on the form. No Clerk/Auditor received stamp is visible on any page. Ledger candidate 'David R. Gillie' matches the typed/handwritten name on every page - no contradiction."
+}

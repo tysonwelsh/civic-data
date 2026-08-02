@@ -1,0 +1,58 @@
+{
+ "path": "raw/2026/2026_Tom_Westmoreland_Redacted.pdf",
+ "key": "0d4bce27",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:45:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Tom Westmoreland",
+   "party_printed": "Republican",
+   "office_printed": "County Commission B",
+   "residence_city": "Eagle Mountain",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "5/14/26",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "7,400.79",
+    "contrib_cumulative": "",
+    "expend_this_period": "5,630.11",
+    "expend_cumulative": "",
+    "balance_beginning": "7,400.79",
+    "subtotal_before_expend": "7,400.79",
+    "balance_close": "1,770.68"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,400.79",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "5,630.11",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "7,400.79",
+    "line4_total_contributions_from_line1A": "7,400.79",
+    "line5_subtotal_lines3plus4": "7,400.79",
+    "line6_total_expenditures_from_line2A": "5,630.11",
+    "line7_balance_at_close": "1,770.68"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "The LEGACY two-column form (this is a 2026 filing on the OLD sheet - the 2026 cycle mixes both variants). Handwritten in blue ink, crisp. STRUCK-THROUGH FIGURE: on line 1 Column A an earlier entry is crossed out and is ILLEGIBLE (not transcribed); the surviving value written beneath it is 7,400.79. Cents are written as raised/superscript digits throughout (7,400.79 / 5,630.11 / 1,770.68). COLUMN B (Year-to-Date Total) IS ENTIRELY BLANK on lines 1 and 2 - cells left blank by the filer, NOT zero; contrib_cumulative and expend_cumulative are therefore ''. Note the filer put the same 7,400.79 on line 3 (Balance at Beginning) as on line 1/4 and carried 7,400.79 - not their sum - to line 5; that is what the page says, recorded verbatim with no arithmetic correction (line 7 = line 5 - line 6 does hold: 7,400.79 - 5,630.11 = 1,770.68). OFFICE: handwritten 'County Commission B' (no word 'Seat'); index.csv says 'County Commission Seat B'. The signature is redacted upstream by the county (black bar); the handwritten date 5/14/26 survives on both the cover and the summary page."
+  }
+ ],
+ "notes": ""
+}

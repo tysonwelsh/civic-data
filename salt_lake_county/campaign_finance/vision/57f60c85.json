@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "23,309.92",
+ "total_expenditures": "18398.19",
+ "beginning_balance": "5062.38",
+ "ending_balance": "9974.11",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "28372.30"
+ },
+ "cover": {
+  "candidate": "Ashley Liewer",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "3",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "",
+  "report_date": "9/14/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Liewer-Ashley__A20FF70B.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liewer, Ashley",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Liewer-Ashley__A20FF70B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDMENT of the September 15 report (the Yes box is checked but the 'date of report' blank next to it is EMPTY - recorded as empty string, not inferred). It restates the same-day original (key d9c138d8, No box checked, same 9/14/2022 signature date): contributions 22336.17 -> 23,309.92, expenditures 17424.44 -> 18398.19, Line 5 27398.55 -> 28372.30, while Lines 3 and 7 are unchanged at 5062.38 / 9974.11. Line 1 is typed with a comma separator, Line 4 (23309.92) without - kept verbatim. Column B blank on both lines. Summary Page 'Date of Report' reads 9/15/22 while the cover signature date is 9/14/2022."
+ }
+}

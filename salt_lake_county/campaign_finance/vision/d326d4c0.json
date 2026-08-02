@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1218.86",
+ "total_expenditures": "1143.86",
+ "beginning_balance": "246.94",
+ "ending_balance": "321.94",
+ "aggregate": {
+  "total_contributions_to_date": "6006.13",
+  "total_expenditures_to_date": "5284.19",
+  "line5_subtotal": "1465.80"
+ },
+ "cover": {
+  "candidate": "ROB LATHAM",
+  "party": "LIBERTARIAN",
+  "office_sought": "DISTRICT ATTORNEY",
+  "district_number": "",
+  "report_type": "Interim Report: October 31 (for the period ending October 30, 2006)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/30/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rlatham_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rob Latham",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/rlatham_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "October 31 interim box checked; amendment = No; signed 10/30/06 and clerk-stamped OCT 30 2006; Summary Page header 'LATHAM, OCTOBER 30, 2006'. Column A reconciles exactly (246.94 + 1218.86 = 1465.80; less 1143.86 = 321.94) and Line 3 matches the September report's closing balance. Column B again does not reconcile: 6006.13 - 5284.19 = 721.94 versus the Line 7 balance of 321.94 (a 400.00 gap, kept verbatim; the same kind of Column B drift appears on this filer's June-amendment and September reports)."
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "5d9a65e3",
+ "source_filing": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+ "document_id": "2018_combined_7e3a53_1c487f91#p20",
+ "page_start": 20,
+ "page_end": 23,
+ "summary_page": 20,
+ "election_cycle": "2018",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:05Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Ricky D. Hatch",
+ "office_stated": "Clerk/Auditor",
+ "report_type_stated": "January 7th, 2019 (final report)",
+ "filing_date_stated": "2019-01-04",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "3,420.93",
+   "this": "30.00",
+   "cum": "3,450.93"
+  },
+  "expenditures": {
+   "last": "3,154.30",
+   "this": "-",
+   "cum": "3,154.30"
+  },
+  "ending_balance": {
+   "last": "266.63",
+   "this": "30.00",
+   "cum": "296.63"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Typed 2018 3-line form; RECEIVED stamp JAN 04 2019. The 'last report' column continues this filer's 2014 closing figure (3,420.93) - an officeholder account carried across cycles."
+}

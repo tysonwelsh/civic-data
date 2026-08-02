@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$15,490",
+ "total_expenditures": "$25,514.45",
+ "beginning_balance": "$15,462.65",
+ "ending_balance": "$5438.20",
+ "aggregate": {
+  "total_contributions_to_date": "$41,195",
+  "total_expenditures_to_date": "$35,756.00",
+  "line5_subtotal": "$30952.65"
+ },
+ "cover": {
+  "candidate": "HOLLY MULLEN",
+  "party": "Democrat",
+  "office_sought": "COUNTY COUNCIL AT-LARGE B",
+  "district_number": "",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/15/2010",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/hmullen_10_PrimaryInterim_CntyCncl_AtLrgB.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Holly Mullen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/hmullen_10_PrimaryInterim_CntyCncl_AtLrgB.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 1 Columns A and B are written with no cents at all ('$15,490' and '$41,195') \u2014 recorded exactly as printed. Summary Page header box is blank. Arithmetic closes."
+ }
+}

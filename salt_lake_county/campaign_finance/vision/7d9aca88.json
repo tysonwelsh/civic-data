@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$510.00",
+ "total_expenditures": "$510.00",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$733.46",
+  "total_expenditures_to_date": "$733.46",
+  "line5_subtotal": "510"
+ },
+ "cover": {
+  "candidate": "Kit Erickson",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04/14/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/EricksonK_2014_April_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kit Erickson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/EricksonK_2014_April_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This IS a full multi-page report (not the one-page dissolution notice) with the Final / Dissolution box checked. Neither amendment box is checked. Fax-transmitted (banner PAGE 002 OF 010, same 10-page fax as the April amendment). Summary Page header Date of Report 04/14/2014 matches the cover. Lines 4-6 are written without the dollar sign or cents (510)."
+ }
+}

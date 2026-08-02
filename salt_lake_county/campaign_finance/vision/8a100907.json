@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8,355.00",
+ "total_expenditures": "8,359.67",
+ "beginning_balance": "1,161.06",
+ "ending_balance": "1,156.39",
+ "aggregate": {
+  "total_contributions_to_date": "8,355.00",
+  "total_expenditures_to_date": "8,359.67",
+  "line5_subtotal": "9,516.06"
+ },
+ "cover": {
+  "candidate": "Jake Parkinson",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "4/21/14",
+  "report_date": "4/21/14",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ParkinsonJ2014AprilAmended.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jake Parkinson",
+  "office": "Assessor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/ParkinsonJ2014AprilAmended.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amended April 2014 interim on a stale form whose printed period dates all read 2012. April box checked; amendment 'Yes' checked with date of report '4/21/14'; signature date reads 4/21/14 (heavily scrawled); clerk RECEIVED stamp APR 22 2014. Summary Page header: page 2 of 6, 'Date of Report Mar. 31, 2014'. Two office fields (top-row Office 'Assessor', Office Sought 'Assessor') agree. Face arithmetic is consistent, and Line 7 (1,156.39) CORRECTS the un-amended April filing's 1,159.39."
+ }
+}

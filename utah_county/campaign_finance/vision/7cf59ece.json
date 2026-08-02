@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Diamond_Steven_3.30.2022_Redacted.pdf",
+ "key": "7cf59ece",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:50:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Steven C. Diamond",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "03/30/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "3,000.00",
+    "contrib_cumulative": "3,000.00",
+    "expend_this_period": "2,442.18",
+    "expend_cumulative": "2,442.18",
+    "balance_beginning": "3,000.00",
+    "subtotal_before_expend": "3,000.00",
+    "balance_close": "557.82"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "3,000.00",
+    "boxB_contributions_received_this_period": "3,000.00",
+    "boxC_contributions_received_year_to_date": "3,000.00",
+    "boxD_expenditures_made_this_period": "2,442.18",
+    "boxE_expenditures_made_year_to_date": "2,442.18",
+    "boxF_subtotal_before_expenditures": "3,000.00",
+    "balance_at_close": "557.82"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": ["office_printed"],
+   "notes": "OFFICE IS UNRESOLVABLE FROM THE PAGE: the county blacked out the Office box itself (a black bar sits inside the 'Office' cell), in addition to the usual address-block redaction. index.csv also carries office_index = '' for this filing, so the office remains honestly blank - do not infer it from the email address (vote4stevediamond@gmail.com names no office). residence_city is likewise '' (address block redacted upstream). FILER ARITHMETIC INCONSISTENCY, transcribed as printed and NOT corrected: Box F is printed 3,000.00 although the form's own formula (Box A + Box B) would give 6,000.00; the printed close (557.82) is consistent with the printed F minus D. Typed fillable form, wet-signed, footer 'v. 4.20'. The 'Page' box on the cover prints just '1' (no 'of N')."
+  }
+ ],
+ "notes": "OFFICE LEAD (NOT transcribed into office_printed, which stays '' because THIS page's Office box is redacted): the same filer's next filing, raw/2022/2022_Diamond_Steven_4.11.2022_Redacted.pdf (key aeddb421), prints an UNREDACTED Office field reading 'Utah County Commissioner Seat A', with the same phone (801-830-2400) and email (vote4stevediamond@gmail.com). That is a same-cycle sibling document, not this page - the orchestrator may use it as evidence for an office_overrides.csv row. The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'Campaign Financial Disclosure Checklist' with two staff review sign-offs, both dated 3/31/22 (3/31/2022). ONE report emitted. Mixed letterhead: cover (p1) carries the Josh Daniels banner, the summary page (p4) carries the earlier Amelia Powers Gardner banner; footer 'v. 4.20' on both."
+}

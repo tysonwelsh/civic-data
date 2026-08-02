@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,025.00",
+ "total_expenditures": "3,624.01",
+ "beginning_balance": "7,542.30",
+ "ending_balance": "5,943.29",
+ "aggregate": {
+  "total_contributions_to_date": "68,219.98",
+  "total_expenditures_to_date": "62,276.69",
+  "line5_subtotal": "9,567.30"
+ },
+ "cover": {
+  "candidate": "Sam Granato",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council - District 4",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "candidate": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Granato_S_12_Final_Council4_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam Granato",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Granato_S_12_Final_Council4_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 cropped to verify line 3)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "FORM FACE vs FILENAME: file is named '..._12_Final_...' and the clerk listing calls it a Summary Report, but only the YEAR-END box is checked; the Final / Dissolution box is NOT. Handwritten in blue ink. Office Sought spans the whole row ('Salt Lake County Council - District 4'), so the District Number cell has no separate entry. Neither amendment box checked. The Summary Page header box is blank; Column B is labelled 'Year to Date'. Arithmetic self-consistent (7,542.30 + 2,025.00 = 9,567.30; less 3,624.01 = 5,943.29)."
+ }
+}

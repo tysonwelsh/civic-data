@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "ea3bc6e3440edf84ffbf6b959ddb397a1b97b2cb06cbb29c3e9d5ae2de494882",
+ "canonical_path": "raw/2022/2022_wb_John_D_Luthy.pdf",
+ "applies_to": ["raw/2022/2022_wb_John_D_Luthy.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "JOHN D. LUTHY", "c": "high"},
+  "office_verbatim":   {"v": "Cache County Attorney", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Logan", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.org  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the General Election", "c": "high"},
+  "date_signed":       {"v": "10/31/22", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RCVD 2022 OCT 31 PM4:15", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "0", "c": "medium"},
+   "B_contrib_this_period":    {"v": "$219.83 In-kind", "c": "high"},
+   "C_contrib_ytd":            {"v": "$219.83 In-kind", "c": "high"},
+   "D_expend_this_period":     {"v": "", "c": "high"},
+   "E_expend_ytd":             {"v": "", "c": "high"},
+   "F_subtotal_before_expend": {"v": "0", "c": "medium"},
+   "closing_balance":          {"v": "0", "c": "medium"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "219.83 In Kind", "c": "high"},
+   "total_expenditures_made":      {"v": "", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Attorney",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Cache County Attorney'",
+  "confidence": "high"
+ },
+ "notes": "Handwritten entries on a scanned Cache County Candidate Financial Disclosure (cache_cfd), 4 pages: cover p1, Schedule A p2, Schedule B p3 (blank), Summary p4.\n\nCOVER (p1): Name of Candidate 'JOHN D. LUTHY' (block capitals). Address '650 S. 100 E., Apt. H104, Logan, UT 84321' - the filer wrote the whole address across the Address/City/State/Zip fields as one continuous line; residence city read as 'Logan'. Office 'Cache County Attorney'. Phone '435-890-2465'. Email 'jdluthy72@gmail.com'. Type of Report: the filled bullet is on 'Seven days preceding the General Election'; '30 Days after elimination' and '30 Days after the General Election' are unmarked. Is this report an amendment? 'No' bullet is filled. Affirmation printed name 'John D. Luthy'. Signature present. Date '10/31/22'. Date of Report '10/31/22'. Page '1'. Office Use Only: neither 'Logged' nor 'Transmitted' bullet is filled; rubber stamp reads 'CLERK/AUDITOR RCVD 2022 OCT 31 PM4:15'.\n\nSCHEDULE A (p2): 2 itemized rows, both IN-KIND and both from the same contributor. Row 1: 'March 18, 2022 | Terryl Warner | 623 Anderson Ave. Hyrum, UT 84319 | In-kind contribution of 10 yard signs. Value - $187.57'. Row 2: 'March 24, 2022 | Terryl Warner | 623 Anderson Ave. Hyrum, UT 84319 | In-kind contribution of table decorations, tools, and snacks. Value - $32.26'. The contributor surname is written 'Warnes'/'Warner' with an ambiguous final letter on row 1 and clearly 'Warner' on row 2. Subtotal for this page '$219.83 In kind'. Total Contributions Received '$219.83 In Kind'. The filer appended the words 'In kind'/'In Kind' to the printed dollar totals - recorded verbatim, not stripped, because the qualifier is part of what the filing states. Footer 'John D. Luthy', '10/31/22', Page '2'.\n\nSCHEDULE B (p3): COMPLETELY EMPTY - no itemized rows, and BOTH the 'Subtotal for this page $' and 'Total Expenditures Made $' lines are BLANK (nothing written after the preprinted '$', not even a zero). Recorded as empty strings, not as zero. Footer 'John D. Luthy', '10/31/22', Page '3'.\n\nSUMMARY (p4): Box A contains a single hand-drawn SLASHED/CROSSED O glyph used as a zero - transcribed '0' at medium confidence per protocol rule 3. Box B '$219.83 In-kind'. Box C '$219.83 In-kind'. Box D is BLANK (nothing written). Box E is BLANK (nothing written). Box F contains the same hand-drawn slashed O glyph - transcribed '0' at medium confidence. Balance at Close of Reporting Period contains the same hand-drawn slashed O glyph - transcribed '0' at medium confidence. Footer 'John D. Luthy', '10/31/22', Page '4'.\n\nOBSERVATION (recorded, not corrected): the filer reports $219.83 of contributions in boxes B and C but writes 0 in box F ('Subtotal Before Expenditures = Box A + Box B'), which by the form's own instruction would be $219.83. This is presumably because both contributions were in-kind and never entered a cash account, but the page does not say so. Recorded exactly as printed; no reconciliation performed.\n\nLEDGER CHECK: the ledger's candidate value 'John D. Luthy' MATCHES the page evidence. The ledger's scope_status='county_confirmed' is CONFIRMED by the page: the Office box reads 'Cache County Attorney' in the filer's own hand. Mapped to office_std 'County Attorney'."
+}

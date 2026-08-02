@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "234.06",
+ "total_expenditures": "123.00",
+ "beginning_balance": "141.00",
+ "ending_balance": "259.06",
+ "aggregate": {
+  "total_contributions_to_date": "234.06",
+  "total_expenditures_to_date": "123.00",
+  "line5_subtotal": "375.06"
+ },
+ "cover": {
+  "candidate": "Ott, Gary W.",
+  "party": "Republican",
+  "office_sought": "SLCo Recorder",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "4/7/2014",
+  "report_date": "4/4/2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ott_G_Recorder_Amended_2013_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ott_G_Recorder_Amended_2013_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the 2013 year-end: Year-End box checked, amendment 'Yes' checked with '4/7/2014' written in, signature dated 4/4/2014, clerk stamp APR 07 2014. ARITHMETIC INCONSISTENCY kept verbatim: Line 6 ('Total Expenditures Made, from Line 2 Column A') reads 116.00 while Line 2 Column A reads 123.00; Line 7 (259.06) follows the 116.00 figure, not the 123.00 one. That 259.06 versus the original filing's 252.06 is the only substantive change from Ott_G_Recorder_2013_YearEnd. Two office fields on this vintage: top-row Office 'SLCo Recorder' and Office Sought 'SLCo Recorder' agree. Column B is headed 'Aggregate Total' here."
+ }
+}

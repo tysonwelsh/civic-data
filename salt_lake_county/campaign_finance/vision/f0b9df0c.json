@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "$50,00",
+ "beginning_balance": "50.00",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "50.00"
+ },
+ "cover": {
+  "candidate": "Carrie Dickson",
+  "party": "",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/CDickson_11_Final_Clerk_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Carrie Dickson",
+  "office": "Clerk",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/CDickson_11_Final_Clerk_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to check decimal separators)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Older two-office-box form: the top-row 'Office' reads 'Clerk' and the separate 'Office Sought' reads 'County Clerk'; Office Sought is used. Political Party is blank. Line 2 Column A is written with a DECIMAL COMMA ($50,00) - recorded exactly as written for the downstream repair. Lines 3, 5 and 6 use a raised mid-dot separator, transcribed as 50.00. Lines 1, 4 and 7 Column A are a hand-drawn slashed zero, recorded as 0. Column B (Aggregate Total) is blank on lines 1 and 2. The 'No' amendment box is checked. Clerk RECEIVED stamp JAN 31 2012."
+ }
+}

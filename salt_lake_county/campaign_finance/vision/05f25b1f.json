@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "61,539.00",
+ "total_expenditures": "71,484.01",
+ "beginning_balance": "23641.75",
+ "ending_balance": "13696.74",
+ "aggregate": {
+  "total_contributions_to_date": "146668.34",
+  "total_expenditures_to_date": "133971.40",
+  "line5_subtotal": "85180.75"
+ },
+ "cover": {
+  "candidate": "Jim Winder",
+  "party": "DEMOCRAT",
+  "office_sought": "SHERIFF",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwinder_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "James M Winder",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jwinder_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Unlike the filer's April 2006 report, THIS cover uses the generic (undated) Type-of-Report box labels and no year in the title, and the box checked is 'Seven days before a general election' - the manifest labels it the October report, which is consistent (signed 10/31/06, hand-written clerk receipt 'Received Salt Lake County Clerk' OCT 31 2006). Neither amendment box is checked. Column B is headed 'Year-to-Date Total' on this form vintage. Form arithmetic checks out (23,641.75 + 61,539.00 = 85,180.75; 85,180.75 - 71,484.01 = 13,696.74), and the opening balance matches the closing balance of the filer's September 15 amendment (23,641.75)."
+ }
+}

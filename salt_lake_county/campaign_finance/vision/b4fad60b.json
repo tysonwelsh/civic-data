@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,912.37",
+ "total_expenditures": "4,173.31",
+ "beginning_balance": "307.71",
+ "ending_balance": "2046.77",
+ "aggregate": {
+  "total_contributions_to_date": "7504.57",
+  "total_expenditures_to_date": "5457.80",
+  "line5_subtotal": "6220.08"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large A",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/17/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bruner_M_CouncilA_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bruner_M_CouncilA_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Summary page header: page 2 of 6, BRUNER, 6/17/14. Neither amendment box is checked. Both columns are fully self-consistent and chain correctly from the amended April filing (307.71 + 5,912.37 = 6,220.08, less 4,173.31 = 2,046.77; and 1,592.20 + 5,912.37 = 7,504.57, 1,284.49 + 4,173.31 = 5,457.80) - which confirms the amendment (key ca4b5a2f), not the original April form, is the figure the filer carried forward."
+ }
+}

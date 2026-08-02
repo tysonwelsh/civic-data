@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "53a9f9cba53065ebaccff7a60ae925769732191e093983be679ff10877a0fcad",
+ "canonical_path": "raw/2010/2010_wb_mllemon.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_mllemon.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "M. LYNN LEMON",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY EXECUTIVE/SURVEYOR",
+   "c": "medium"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "PROVIDENCE",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL ZOLLINGER",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/12/10",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 13 OCT 2010 AM 08:42",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": ".00",
+     "c": "high"
+    },
+    "this": {
+     "v": ".00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": ".00",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": ".00",
+     "c": "high"
+    },
+    "this": {
+     "v": ".00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": ".00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": ".00",
+     "c": "high"
+    },
+    "this": {
+     "v": ".00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": ".00",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": ".00",
+     "c": "high"
+    },
+    "this": {
+     "v": ".00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": ".00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Executive",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'CACHE COUNTY EXECUTIVE/SURVEYOR' \u2014 a single hand-written line naming both offices; 'Political Party' reads 'REPUBLICAN'",
+  "confidence": "medium"
+ },
+ "notes": "\u26a0 The office line names TWO offices ('CACHE COUNTY EXECUTIVE/SURVEYOR'); office_std is set to County Executive (the first-named) and the verbatim string is retained \u2014 Surveyor is a Cache County elective office too, so this row should not be read as a clean single-office attribution. Every one of the twelve boxes is written '.00' (a cents mark with no dollars), transcribed verbatim."
+}

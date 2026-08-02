@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_wp/K.-Adam-Snow-2.pdf",
+ "channel": "live_wp",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_wp/K.-Adam-Snow-2.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_wp/K.-Adam-Snow-2.pdf",
+   "doc_kind": "statement",
+   "sha256": "cddbc2696e639c5930eec567b6fdb8cdf7f201fa11739db3646b03f0aadb9005",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "K. Adam Snow",
+  "office": "Commission",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Commission (seat not stated)",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "K. ADAM SNOW",
+ "index_reporting_year": "2025",
+ "index_cycle_year": "",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "1/8/26",
+   "period_start": "1/1/2025",
+   "period_end": "12/31/2025",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "16,875.51",
+   "contrib_gt50_last": "16875.51",
+   "contrib_gt50_this_printed": "-",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "16,875.51",
+   "contrib_gt50_cum": "16875.51",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "5,221.00",
+   "expenses_this": "5221",
+   "expenses_cum_printed": "5,221.00",
+   "expenses_cum": "5221",
+   "balance_last_printed": "16,875.51",
+   "balance_last": "16875.51",
+   "balance_this_printed": "(5,221.00)",
+   "balance_this": "-5221",
+   "balance_end_printed": "11,654.51",
+   "balance_end": "11654.51",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "3-LINE typed variant; the LAST-report expense cell is left empty"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:39:36Z"
+}

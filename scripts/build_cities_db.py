@@ -289,6 +289,7 @@ CREATE TABLE election_result (
     state             TEXT NOT NULL,
     year              INTEGER,
     election_type     TEXT,
+    election_date     TEXT,            -- county-office rows only ('' on municipal rows)
     contest           TEXT,
     jurisdiction_slug TEXT,            -- held city the contest belongs to ('' = other)
     office            TEXT,
@@ -296,7 +297,9 @@ CREATE TABLE election_result (
     seats             TEXT,
     candidate         TEXT,
     party             TEXT,
-    votes             INTEGER,
+    votes             INTEGER,         -- precinct-sum tally (understates under suppression)
+    certified_votes   INTEGER,         -- workbook-certified total (county-office rows; NULL = municipal)
+    votes_basis       TEXT,            -- exact | certified-over-suppressed | '' (municipal)
     rank_in_contest   INTEGER,         -- plurality rank; RCV finals differ (see caveat)
     n_precincts       INTEGER,
     suppressed        TEXT,
@@ -894,11 +897,90 @@ CAVEATS = [
 ] + [
     # --- campaign finance coverage (2026-07-31): previously the cf_* tables had
     # ZERO caveat rows, so the two absent cities were invisible to any money query.
+    # (county caveats rewritten 2026-08-02 after the vision-totals tranche: every county's
+    # stated-totals layer now federates into cf_filing; itemized + cf_cycle remain limited.)
     ("*", "campaign_finance", "cf-coverage",
-     "The structured campaign-finance layer covers 29 of 31 cities: slc is ABSENT "
-     "(portal blocked — see its row) and draper is acquired-but-unstructured (see "
-     "its row). NEVER sum cf_filing dollar columns — filings overlap (interim + "
-     "summary); cf_cycle is the only sanctioned per-candidate total."),
+     "The campaign-finance layer spans TWO tiers. Cities: structured dollar layer in 29 of "
+     "31 (slc ABSENT — portal blocked; draper acquired-but-unstructured — see their rows). "
+     "Counties (added 2026-08-01, vision-totals tranche completed 2026-08-02): all 8 "
+     "county datasets federate their per-filing STATED TOTALS into cf_filing (salt_lake "
+     "834 · utah 265 · cache 239 · washington 206 · summit 131 · wasatch 111 · weber 98 · "
+     "juab 27 rows). ITEMIZED donor/vendor rows (cf_contribution/cf_expenditure) exist for "
+     "the county tier from salt_lake_county's EasyVote 2024/2026 API data, juab's 3 "
+     "transcribed 2020 filings, and — since the 2026-08-02 born-digital sweep — "
+     "reconciliation-gated parser rows in weber/cache/summit/wasatch/utah/washington "
+     "(1,311 rows over 82 born-digital filings, geometry-anchored; the scanned "
+     "remainder is NOT itemized) — an empty itemized layer means NOT TRANSCRIBED, never "
+     "'no donors'. cf_cycle is CITY-ONLY: county cycle rollups are deliberately NOT "
+     "derived (regimes vary per candidate and officeholder carryover contaminates naive "
+     "sums — design lead in LEADS.md). NEVER sum cf_filing dollar columns; for county "
+     "money read each county's cf-* caveat row + campaign_finance/AVAILABILITY.md first."),
+    ("salt_lake_county", "campaign_finance", "cf-county-eras",
+     "SLCo county-office CF has three source eras: legacy PDFs ~2006–2015 (547 filings — "
+     "stated totals vision-transcribed 496; 51 docs have NO summary page), the county "
+     "disclosure portal ~2016–2021 (NOT ACQUIRED — WAF-blocked; browser/GRAMA lead), and "
+     "EasyVote 2022+ (2024/2026 itemized rows structured from the API; 2022 = 123 "
+     "image-only PDFs, 122 totals transcribed). A query spanning eras measures "
+     "PUBLICATION, not fundraising. Semantic traps carried per-row in notes: at least two "
+     "filers (DeBry 2022, Gill 2007) put CUMULATIVE figures in the per-period column; 48 "
+     "filings check no report-type box (filing_type honestly blank); 16 decimal-comma "
+     "currency repairs are named in notes."),
+    ("utah_county", "campaign_finance", "cf-totals-tier",
+     "265 filing_totals rows 2008–2026 (all covers vision-read; regime per-period — "
+     "cumulative YTD columns kept in notes, never summed as increments). No itemized "
+     "rows. 7 offices honestly unresolved; 62 filing_date blanks (crop-defect sweep lead); "
+     "89 school-board filings ledgered out of scope; 2 channel errors documented (wrong "
+     "year ×2; one filing mis-attributed by the county API — join on source_filing, not "
+     "the channel label). Itemized rows: born-digital slice only (2 filings incl. Paxman's "
+     "compound cash+in-kind ledger, 72+81 rows, 2026-08-02)."),
+    ("weber_county", "campaign_finance", "cf-totals-tier",
+     "98 filing_totals rows 2012–2026, regime CUMULATIVE (cycle figure = latest "
+     "non-superseded report, never a sum; two superseding re-files flagged in notes; "
+     "officeholder carryover inflates cumulative totals — Harvey 2024 opens from his 2020 "
+     "closing). 33 county-published interim filings (2018/2020) are LOST everywhere — "
+     "those cycles carry FINAL-report figures only, no within-cycle timing. Itemized rows: "
+     "born-digital slice only (3 filings, 16 contribution + 11 expenditure rows, exact-"
+     "reconciled + geometry-anchored, 2026-08-02); the scanned remainder is not itemized."),
+    ("cache_county", "campaign_finance", "cf-totals-tier",
+     "239 filing_totals rows 2008–2026 (vision pass closed the handwriting floor: 234 "
+     "county_confirmed offices, 5 blank ON THE FILING; 210/212 stated figures). No "
+     "itemized rows EXCEPT the born-digital slice (21 filings, 32+111 rows, exact-reconciled, "
+     "2026-08-02). is_incremental varies PER FILING (filing_regime is NULL in db — "
+     "regime lives in the module docs); 42 cross-channel byte-duplicate rows — group on "
+     "sha256 before counting filings."),
+    ("summit_county", "campaign_finance", "cf-totals-tier",
+     "131 filing_totals rows 2014–2026 (every ballot candidate covered; regime CUMULATIVE; "
+     "the form's Current|Last|Cumulative column order is REVERSED vs the parsed cities' "
+     "sheet — anti-transposition audit recorded in AVAILABILITY.md, 17 samples exact). "
+     "Itemized rows: born-digital slice only (11 filings, 105+386 rows, gated; the Harte-"
+     "2026 period-grain class is WITHHELD with both figures named); filing_regime NULL in "
+     "db (module docs carry it). Zero-glyph ruling "
+     "(owner 2026-08-02): slashed-zero marks transcribe as 0.00 (7 cells across 6 filings "
+     "promoted, verbatim Ø kept in the caches); dashes/N-A/empty stay blank."),
+    ("washington_county", "campaign_finance", "cf-totals-tier",
+     "206 filing_totals rows 2006–2025 at the LOGICAL-FILING grain (one filing spans up to "
+     "3 files: Summary+Contributions+Expenditures — 409 files behind 206 filings; summary "
+     "rows are per-period, ledgers restate cycle-to-date). 195 stated totals; wrapped/"
+     "'Various'-dated ledgers are WITHHELD from counted sums unless provably complete. "
+     "Itemized rows: born-digital slice only (43 filings, 181+308 rows, geometry-anchored, "
+     "2026-08-02). One portal-anchor disagreement kept verbatim (Gardner Dec-2012); "
+     "113 rows carry medium/low office confidence (not individually document-verified)."),
+    ("juab_county", "campaign_finance", "cf-partial-structured",
+     "27 filing_totals rows (2010/2014/2020 only — the county stopped uploading to the "
+     "state system after 2020 and adopted a local disclosure ordinance only 2024-10; "
+     "2012/2016/2018/2022/2024/2026 are publication gaps, GRAMA lead filed). Itemized "
+     "rows exist ONLY for the 3 transcribed 2020 filings; blank itemized layers elsewhere "
+     "mean NOT TRANSCRIBED, never 'no donors'."),
+    ("wasatch_county", "campaign_finance", "cf-totals-tier",
+     "111 filing_totals rows 2010–2026 (first dataset of a previously registered-only "
+     "entity). THREE form variants with a clean 2022→2024 cycle-boundary seam: the two "
+     "older sheets are CUMULATIVE (2020's three-reports-per-candidate: take December, "
+     "never sum), the 2024+ sheet is period-scoped — but three filers restate "
+     "cumulatively on it anyway (flagged in notes; regime is per CANDIDATE, not per "
+     "form). Itemized rows: 8 expenditures over 2 born-digital filings ONLY — every other "
+     "parsed Table-A/B side was field-shifted or garbled and WITHHELD (see the module "
+     "CLAUDE.md; date-grammar fix queued Phase B); 5 of 12 2024 general reports unrecoverable on any "
+     "channel; county publication begins 2018."),
     ("slc", "campaign_finance", "cf-honest-zero",
      "Salt Lake City — the repo's flagship entity — has NO campaign-finance rows: "
      "the city's disclosure portal (dotnet.slcgov.com) has been down/blocked "
@@ -1454,6 +1536,23 @@ ELECTION_CAVEATS = [
      "Millcreek uses Ranked-Choice Voting (2021, 2023) — election_result rank_in_contest "
      "(first-choice plurality) is NOT the RCV final winner; 2025 mayor was appointed. Use "
      "election_race for authoritative outcomes."),
+    ("salt_lake_county", "election_results", "county-office-suppression",
+     "County-office rows (even-year, 2002–2026): 185 candidate columns in the 2024/2026 "
+     "workbooks carry **** privacy-suppressed precinct sub-rows, so `votes` (precinct sum) "
+     "understates. Use `certified_votes` (the workbook's own certified figure; "
+     "votes_basis='certified-over-suppressed' marks these rows)."),
+    ("salt_lake_county", "election_results", "county-primary-nominees",
+     "County-office `primary` rows in election_race are party NOMINATION results — the "
+     "winner is the nominee, not an officeholder. Each such row's note says so; join "
+     "year+office to the general row for the seat outcome."),
+    ("salt_lake_county", "election_results", "county-writein-bucket",
+     "2 county_races rows carry AUDIT FLAG in note (2006 Surveyor, 2016 Council D2): the "
+     "runner-up is the canvass's aggregate write-in bucket, so margin_* is not a "
+     "two-candidate margin."),
+    ("salt_lake_county", "election_results", "county-2004-source-discrepancy",
+     "2004 'Salt Lake City School District 2': the county's own precinct rows sum to "
+     "1,937/1,934 but its legend and certification PDF certify 1,939/1,938. Source-internal "
+     "contradiction kept verbatim (allowlisted in the county normalizer's gate)."),
 ]
 
 ERACE_COLS = [
@@ -1466,8 +1565,10 @@ ERACE_COLS = [
 
 
 def load_election_race(out):
-    """City-grain race summaries — every city's election_results/<slug>_races.csv
-    (the uniform 25-col §9 superset), stamped with entity key + containing county."""
+    """Audited race summaries (the uniform 25-col §9 superset), stamped with entity
+    key + containing county. Two grains: every city's election_results/<slug>_races.csv,
+    and — since 2026-08-01 (county-acquisition package) — every county's
+    elections/county_races.csv (county-office races; `county` = the entity itself)."""
     within = {r.a: r.b for r in RELATIONSHIPS if r.relation == "within"}
     n = 0
     for e in (x for x in ENTITIES if x.level == "city"):
@@ -1481,28 +1582,46 @@ def load_election_race(out):
                     "INSERT INTO election_race VALUES (%s)" % ",".join(["?"] * 29),
                     [e.slug, "city", e.state, county] + [r.get(c, "") for c in ERACE_COLS])
                 n += 1
-    return n
-
-
-def load_election_result(out):
-    """County-grain SOVC tallies from each built county's elections module
-    (salt_lake_county today). Contest×candidate, jurisdiction-tagged."""
-    n = 0
     for e in (x for x in ENTITIES if x.level == "county"):
-        path = os.path.join(ROOT, e.dir, "elections",
-                            "election_results_by_contest.csv")
+        path = os.path.join(ROOT, e.dir, "elections", "county_races.csv")
         if not os.path.exists(path):
             continue
         with open(path, newline="", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 out.execute(
-                    "INSERT INTO election_result VALUES (%s)" % ",".join(["?"] * 17),
-                    [e.slug, "county", e.state, int(r["year"]), r["election_type"],
-                     r["contest"], r["jurisdiction_slug"], r["office"], r["district"],
-                     r["seats"], r["candidate"], r["party"], int(r["votes"]),
-                     int(r["rank_in_contest"]), int(r["n_precincts"]),
-                     r["suppressed"], r["source_file"]])
+                    "INSERT INTO election_race VALUES (%s)" % ",".join(["?"] * 29),
+                    [e.slug, "county", e.state, e.slug] + [r.get(c, "") for c in ERACE_COLS])
                 n += 1
+    return n
+
+
+def load_election_result(out):
+    """County-grain SOVC tallies from each built county's elections module.
+    Two files per county: election_results_by_contest.csv (municipal, odd-year)
+    and — since 2026-08-01 — county_results_by_contest.csv (county-office,
+    even-year; carries election_date/certified_votes/votes_basis, '' / NULL on
+    municipal rows). Contest×candidate, jurisdiction-tagged."""
+    def _int(v):
+        return int(v) if v not in (None, "") else None
+    n = 0
+    for e in (x for x in ENTITIES if x.level == "county"):
+        for fname in ("election_results_by_contest.csv",
+                      "county_results_by_contest.csv"):
+            path = os.path.join(ROOT, e.dir, "elections", fname)
+            if not os.path.exists(path):
+                continue
+            with open(path, newline="", encoding="utf-8") as f:
+                for r in csv.DictReader(f):
+                    out.execute(
+                        "INSERT INTO election_result VALUES (%s)" % ",".join(["?"] * 20),
+                        [e.slug, "county", e.state, int(r["year"]),
+                         r["election_type"], r.get("election_date", ""),
+                         r["contest"], r["jurisdiction_slug"], r["office"],
+                         r["district"], r["seats"], r["candidate"], r["party"],
+                         int(r["votes"]), _int(r.get("certified_votes")),
+                         r.get("votes_basis", ""), int(r["rank_in_contest"]),
+                         int(r["n_precincts"]), r["suppressed"], r["source_file"]])
+                    n += 1
     return n
 
 

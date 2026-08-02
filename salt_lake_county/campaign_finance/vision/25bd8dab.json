@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "23,055",
+ "total_expenditures": "64174.00",
+ "beginning_balance": "45,378.83",
+ "ending_balance": "4259.83",
+ "aggregate": {
+  "total_contributions_to_date": "154,067.65",
+  "total_expenditures_to_date": "149867.82",
+  "line5_subtotal": "68,433.83"
+ },
+ "cover": {
+  "candidate": "Ross Romero",
+  "party": "Democratic",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/29/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Romero_R_12_Final_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ross Romero",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Romero_R_12_Final_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked despite the clerk filename 'Final' - the Final/Dissolution box is NOT checked and neither amendment box is checked. Signed 1/29/13, clerk RECEIVED stamp JAN 29 2013; Summary Page header 'Page 2 of 11, Romero, Date of Report 1/29/13'. Cents on Lines 1B, 2A, 2B, 3, 5, 6 and 7 are raised superscripts, transcribed with a decimal point; Line 1 Column A ('23,055') has no cents; some figures are written without thousands separators and are kept as written. Face arithmetic is consistent (45,378.83 + 23,055 = 68,433.83; less 64,174.00 = 4,259.83). The February amendment (Romero_R_12_Final_Amended) restated Line 3 from this filing's 45,378.83 down to 44,722.9x and Line 7 to 3,403.43, while noting the schedules were unchanged."
+ }
+}

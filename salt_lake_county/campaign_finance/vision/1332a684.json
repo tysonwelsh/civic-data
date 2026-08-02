@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "12985.78",
+ "total_expenditures": "12087.73",
+ "beginning_balance": "1403.42",
+ "ending_balance": "2301.47",
+ "aggregate": {
+  "total_contributions_to_date": "18681.53",
+  "total_expenditures_to_date": "16380.06",
+  "line5_subtotal": "14389.20"
+ },
+ "cover": {
+  "candidate": "Cal Noyce",
+  "party": "Democrat",
+  "office_sought": "S.L. County Council",
+  "district_number": "1",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-15-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cnoyce_10_PrimaryInterim_CntyCncl1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Calvin J. Noyce",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/cnoyce_10_PrimaryInterim_CntyCncl1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The cleanest filing in the Noyce series \u2014 every figure reconciles both within the page (1,403.42 + 12,985.78 = 14,389.20; minus 12,087.73 = 2,301.47) and against the April report (5,695.75 + 12,985.78 = 18,681.53 Column B; 4,292.33 + 12,087.73 = 16,380.06 Column B; 18,681.53 - 16,380.06 = 2,301.47). The top-row Office field reads 'S.L. County Council Dist 1' with '(sought)' written above. Stamped RECEIVED JUN 15 2010."
+ }
+}

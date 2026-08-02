@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Smith_Mike_4.4.2022_Redacted.pdf",
+ "key": "9f400417",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:30:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Mike Smith",
+   "party_printed": "",
+   "office_printed": "Sheriff",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "4/4/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "7,176",
+    "contrib_cumulative": "7,176",
+    "expend_this_period": "6527.07",
+    "expend_cumulative": "6527.07",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "7,176",
+    "balance_close": "649.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "7,176",
+    "boxC_contributions_received_year_to_date": "7,176",
+    "boxD_expenditures_made_this_period": "6527.07",
+    "boxE_expenditures_made_year_to_date": "6527.07",
+    "boxF_subtotal_before_expenditures": "7,176",
+    "balance_at_close": "649.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten on the v. 4.20 form. Box A is a single slashed-zero glyph (the filer's zero) - transcribed '0' at medium confidence. The report-type option 'Seven days preceding Convention' is marked with a slash through its radio circle; the amendment answer is marked by a stroke drawn through the word 'No' (not a filled radio) - read as No, and flagged here because the mark form is a strike rather than a fill. The filer writes the address city/state as 'Provo Utch 84601' (his spelling of Utah) - residence_city 'Provo'. The Signature box is a black bar (redacted upstream by the county); the handwritten Date is 4/4/22 and the footer Date of Report 4/4/22, Page 1 (summary page footer: Page 3). MINOR FILER ARITHMETIC NOTE, NOT CORRECTED: Balance at Close is written 649.00 while Box F minus Box D would be 648.93. The summary page's letterhead names 'Amelia Powers Gardner, Clerk/Auditor' while page 1's names 'Josh Daniels' - two form vintages bound into one filing."
+  }
+ ],
+ "notes": "The locator flagged pages 4 and 5 as summary pages; page 5 is NOT a second report - it is the Elections Division's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff-review passes, dated 4/4/22 and 4/6/2022, 'Website' ticked). One report only."
+}

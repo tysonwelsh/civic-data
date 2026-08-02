@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14Treas-Jackson.pdf",
+ "key": "6b998b79",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:35:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Kim Jackson",
+   "party_printed": "Republican",
+   "office_printed": "Treasurer",
+   "residence_city": "Orem",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/17/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "30,463.42",
+    "contrib_cumulative": "30,463.42",
+    "expend_this_period": "27,007.61",
+    "expend_cumulative": "27,007.61",
+    "balance_beginning": "-",
+    "subtotal_before_expend": "30,463.42",
+    "balance_close": "3,455.81"
+   },
+   "totals_verbatim": {
+    "Contributions Received - This Period": "30,463.42",
+    "Contributions Received - Year to Date": "30,463.42",
+    "Expenditures Made - This Period": "27,007.61",
+    "Expenditures Made - Year to Date": "27,007.61",
+    "Balance at Beginning of Reporting Period": "-",
+    "Total Contributions Received": "30,463.42",
+    "Subtotal": "30,463.42",
+    "Total Expenditures Made": "27,007.61",
+    "Balance at Close of Reporting Period": "3,455.81"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "The COVER is the county's legacy form but its printed title is the shorter '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (no '& LOCAL SCHOOL BOARD'), and the side rail reads 'COUNTY CANDIDATES'. The SUMMARY PAGE is NOT the county's Column A / Column B grid - the filer substituted a typed spreadsheet printout headed 'Summary Page' with 'This Period' / 'Year to Date' columns; it carries the same seven quantities, so totals_verbatim is keyed by the spreadsheet's own labels. That summary page is typed, not handwritten (high confidence on every figure). 'Balance at Beginning of Reporting Period' prints as a bare '$  -' (Excel accounting-format zero); transcribed verbatim as '-' rather than as 0 or as blank. Neither amendment box is marked, so is_amendment is left empty. The Office Seeking field reads simply 'Treasurer' (no 'County' prefix); phone and fax fields were left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

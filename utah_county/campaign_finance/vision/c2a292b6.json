@@ -1,0 +1,62 @@
+{
+ "path": "raw/2014/2014_12-14Jackson.pdf",
+ "key": "c2a292b6",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:15:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Kim Jackson",
+   "party_printed": "Republican",
+   "office_printed": "Treasurer",
+   "residence_city": "Orem",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/4/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "46,422.13",
+    "expend_this_period": "4,014.95",
+    "expend_cumulative": "46,417.13",
+    "balance_beginning": "4,019.95",
+    "subtotal_before_expend": "4,019.95",
+    "balance_close": "5.00"
+   },
+   "totals_verbatim": {
+    "contributions_received_this_period": "",
+    "contributions_received_year_to_date": "46,422.13",
+    "expenditures_made_this_period": "4,014.95",
+    "expenditures_made_year_to_date": "46,417.13",
+    "balance_at_beginning_of_reporting_period": "4,019.95",
+    "total_contributions_received": "",
+    "subtotal": "4,019.95",
+    "total_expenditures_made": "4,014.95",
+    "balance_at_close_of_reporting_period": "5.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "contributions_received_this_period",
+    "total_contributions_received"
+   ],
+   "notes": "Same filer as key 9162c34a, the post-election report. The cover page is the handwritten legacy county form; the summary page is again the filer's own TYPED 'Summary Page' spreadsheet (This Period / Year to Date columns plus a Balance Summary block) rather than the printed Column A/B grid. TWO CELLS PRINT A DASH, NOT A NUMBER: 'Contributions Received - This Period' and 'Total Contributions Received' both show a spreadsheet accounting-format '$   -'. A dash is not a digit, so both are transcribed '' and flagged rather than read as zero. The Year-to-Date contributions figure 46,422.13 is identical to the one on this filer's pre-election report (key 9162c34a), and the beginning balance 4,019.95 matches that report's closing balance. Office Seeking reads 'Treasurer' (index office 'County Treasurer' - naming convention). Phone and fax left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Cox_Hyrum_5.9.2022_Redacted.pdf",
+ "key": "08dda6af",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T04:06:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Hyrum Cox",
+   "party_printed": "",
+   "office_printed": "Sheriff",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "05/09/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "10,778.00",
+    "expend_this_period": "1,359.27",
+    "expend_cumulative": "10,064.77",
+    "balance_beginning": "2,072.50",
+    "subtotal_before_expend": "2,072.50",
+    "balance_close": "713.23"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "2,072.50",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "10,778.00",
+    "boxD_expenditures_made_this_period": "1,359.27",
+    "boxE_expenditures_made_year_to_date": "10,064.77",
+    "boxF_subtotal_before_expenditures": "2,072.50",
+    "boxG_balance_at_close": "713.23"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital fillable form; figures typed. Box B is a bare typed '0' (a written zero, not a blank cell); Box G (713.23) is printed without a thousands separator because it is under 1,000 - all other boxes carry commas, preserved verbatim. Street address, city and signature are redacted upstream by the county (black bars), so residence_city is ''. Office prints as 'Sheriff' and agrees with index.csv's 'County Sheriff'. Date box, Date of Filing and the summary page's Date of Report all read 05/09/2022. This revision labels the close box 'G' and prints no 'v.' version string. TWO SUMMARY PAGES WERE FLAGGED (4 and 5) but page 5 is the county's internal Campaign Financial Disclosure Checklist (staff-reviewed 5/18/2022 twice), not a second report - this 6-page PDF holds ONE report."
+  }
+ ],
+ "notes": ""
+}

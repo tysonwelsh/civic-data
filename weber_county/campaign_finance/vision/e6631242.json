@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "e6631242",
+ "source_filing": "raw/y2026/2026_ugd_92078f_26dc5c7e.pdf",
+ "document_id": "2026_ugd_92078f_26dc5c7e",
+ "page_start": 1,
+ "page_end": 4,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Sharon Arrington Bolos",
+ "office_stated": "County Commission - Seat B",
+ "report_type_stated": "7 days before the candidates' convention - Convention",
+ "filing_date_stated": "2026-03-31",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "0.00",
+   "this": "26,231.39",
+   "cum": "26,231.39"
+  },
+  "expenditures": {
+   "last": "0.00",
+   "this": "13,742.18",
+   "cum": "13.742.18"
+  },
+  "ending_balance": {
+   "last": "0.00",
+   "this": "12,489.21",
+   "cum": "12,489.21"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, HANDWRITTEN. The expenditure CUMULATIVE cell is written '13.742.18' with a period instead of the thousands comma - retained verbatim (the value is 13,742.18, confirmed by the same filer's next report). This scan's printed text is reflowed/mangled ('FilingSchedule(CheckOne'). OFFICE IS WRITTEN ON THE FORM though index.csv leaves office_stated blank."
+}

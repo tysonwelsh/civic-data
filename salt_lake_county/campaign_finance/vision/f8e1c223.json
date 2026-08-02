@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,075",
+ "total_expenditures": "3,998.05",
+ "beginning_balance": "6,348.15",
+ "ending_balance": "11,425.10",
+ "aggregate": {
+  "total_contributions_to_date": "20,745",
+  "total_expenditures_to_date": "9,319.90",
+  "line5_subtotal": "15,423.15"
+ },
+ "cover": {
+  "candidate": "JEFF S. ALLEN",
+  "party": "REPUBLICAN",
+  "office_sought": "Co Council",
+  "district_number": "#5",
+  "report_type": "June 20",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6/19/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_allen_jeff06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeff S. Allen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_allen_jeff06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Office Sought is a cramped abbreviation read as 'Co Council' (medium). Summary Page header: Page 2 of 5, ALLEN, 6/20/06. Column A internally consistent (6,348.15 + 9,075 = 15,423.15; minus 3,998.05 = 11,425.10)."
+ }
+}

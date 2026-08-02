@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "ec26f2c2",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p8",
+ "page_start": 8,
+ "page_end": 10,
+ "summary_page": 8,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:11:00Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Bahram Rahimzadegan",
+ "office_stated": "Weber County Recorder Surveyors Office",
+ "report_type_stated": "7 days before convention",
+ "filing_date_stated": "2024-04-07",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "1,300.00",
+   "cum": "1,300.00"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "890.72",
+   "cum": "890.72"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "409.28",
+   "cum": "409.28"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2024 form variant - SEVEN report-type checkboxes (7 days before convention / May 28 / June 18 / October 8 / October 29 / December 5 / 30 days after withdrawal or elimination), so the 2024 cycle has up to 6 scheduled reports per candidate. The candidate's street address is BLACKED OUT by the county before publication (PRIVACY.md - the county's own redaction, preserved)."
+}

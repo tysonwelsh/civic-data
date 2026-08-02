@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "280bf335c594333538731b90447b6c9c71b0f31b602c056489b422fdf23cb8be",
+ "canonical_path": "raw/2010/2010_wb_mgleed.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_mgleed.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Utah Code reference 17-16-6.5.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Michael L. Gleed",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Recorder",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Republican",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Smithfield",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jill Zollinger, CACHE",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "10/19/2010",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 19 OCT 2010 AM 11:54",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "5138.40",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "5138.40",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "20.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "20.00",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "5158.40",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "5158.40",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0",
+     "c": "medium"
+    },
+    "this": {
+     "v": "0",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "medium"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Recorder",
+  "seat": "",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Recorder'; 'Political Party' reads 'Republican'",
+  "confidence": "high"
+ },
+ "notes": "Zeros are hand-drawn slashed-O glyphs. Line 1 THIS/CUM are written '5138,40' / '5138.40'."
+}

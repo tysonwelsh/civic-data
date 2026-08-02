@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$258,816.71",
+ "total_expenditures": "$350,485.98",
+ "beginning_balance": "$150,042.09",
+ "ending_balance": "$58,372.82",
+ "aggregate": {
+  "total_contributions_to_date": "$830,114.44",
+  "total_expenditures_to_date": "$771,768.62",
+  "line5_subtotal": "$408,858.80"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "Democrat",
+  "office_sought": "Mayor",
+  "district_number": "N/A",
+  "report_type": "Interim Report: October 30 (For the period ending October 29, 2012)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/30/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_Oct_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_Oct_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The 'October 30' interim box is checked and the amendment 'No' box is checked. Later 2012 cover layout (no top-row 'Office' field); District Number written 'N/A'. Signed 10/30/2012, clerk-stamped OCT 30 2012. Column B is headed 'Year to Date'. Line 1 Column B is written with an overwritten digit but is confirmed in both directions by the neighbouring filings (571,297.73 + 258,816.71 = 830,114.44, and 830,114.44 + 66,076.00 = the year-end's 896,190.44). Column A arithmetic checks out (150,042.09 + 258,816.71 = 408,858.80; minus 350,485.98 = 58,372.82)."
+ }
+}

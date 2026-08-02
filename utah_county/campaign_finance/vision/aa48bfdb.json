@@ -1,0 +1,56 @@
+{
+ "path": "raw/2024/2024_Anthony_Canto_Redacted_1_.pdf",
+ "key": "aa48bfdb",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:15:00Z",
+ "pages_read": [1, 2, 3, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Anthony Canto",
+   "party_printed": "",
+   "office_printed": "SURVEYOR",
+   "residence_city": "BENJAMIN",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "12/04/24",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "1081.12",
+    "expend_this_period": "0",
+    "expend_cumulative": "1081.12",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "0",
+    "boxC_contributions_received_year_to_date": "1081.12",
+    "boxD_expenditures_made_this_period": "0",
+    "boxE_expenditures_made_year_to_date": "1081.12",
+    "boxF_subtotal_before_expenditures": "0",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the printed v. 12.23 form (radio buttons are digital filled dots, the rest is ink). Boxes A, B, D, F and Balance at Close are each a hand-drawn open loop - the filer's zero glyph, transcribed as '0' at medium confidence; these are WRITTEN zeros, not blanks. Only C and E carry figures (1081.12), the year-to-date carry-forward from this filer's 7-days-before-General report (keys 52270376 / c7820527, same 1081.12). Schedules A (p2) and B (p3) have no line items - every row is empty and the Subtotal / Total lines were left blank by the filer. The Office field is hand-printed 'SURVEYOR' with no 'County' prefix (index.csv says 'County Surveyor'); the name is 'Anthony Canto' with no middle initial (index.csv says 'Anthony D Canto'). Street address, phone and signature are redacted upstream by the county (black bars); the hand-printed 'BENJAMIN UT 84660' survives. Email left blank by the filer."
+  }
+ ],
+ "notes": "The chunk flagged pages 1, 2 and 3 as cover pages; in fact p1 is the cover, p2 is Schedule A and p3 is Schedule B (both blank). ONE report; p4 is the sole Summary Page."
+}

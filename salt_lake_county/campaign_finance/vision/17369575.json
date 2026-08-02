@@ -1,0 +1,57 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Dem",
+  "office_sought": "County Council",
+  "district_number": "At-Large E",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__890CE966.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__890CE966.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 1-6), -r 90 (pages 7-12)",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO SUMMARY PAGE IN THIS BUNDLE - checked all 12 pages. Contents: p1 cover; p2 blank Schedule A form ('see attached'); p3 blank 'Summary Page Other Campaign Accounts'; p4 blank 'Itemized Expenditures from Other Campaign Accounts'; pp5-11 a landscape Schedule A contributor spreadsheet ('Schedule A - de Suzanne Harrison, County Council, Primary filing, June 21, 2022'); p12 a landscape Schedule B expenditure spreadsheet whose printed TOTAL is $12,216.70. The main Summary Page was simply not included in the filing - all totals recorded null, none inferred from the schedules. District Number typed 'At-Large E' (see key 6f820442). Neither amendment box is checked; the clerk listing calls the sibling filing key 91946e9c the 'June 21 Amendment'."
+ }
+}

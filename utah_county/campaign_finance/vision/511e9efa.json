@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Graves_Greg_3.31.2022_Redacted.pdf",
+ "key": "511e9efa",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:44:00Z",
+ "pages_read": [1, 4, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Gregory James Graves",
+   "party_printed": "",
+   "office_printed": "Commission Seat A",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding Convention",
+   "is_amendment": "No",
+   "report_date": "3/31/22",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "5746.16",
+    "contrib_cumulative": "5746.16",
+    "expend_this_period": "5746.16",
+    "expend_cumulative": "5746.16",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "5746.16",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "5746.16",
+    "boxC_contributions_received_year_to_date": "5746.16",
+    "boxD_expenditures_made_this_period": "5746.16",
+    "boxE_expenditures_made_year_to_date": "5746.16",
+    "boxF_subtotal_before_expenditures": "5746.16",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "OFFICE RESOLVED FROM THE PAGE: the Office field prints 'Commission Seat A' - WITHOUT the words 'Utah County', so it is transcribed exactly that way. index.csv carries office_index = '' for this filing, so this is a new resolution, not a conflict. Name prints in full as 'Gregory James Graves' (index.csv says 'Gregory Graves'). Boxes A and the close box are written '0' (real zeros). No thousands separators. Address block and signature are both redacted upstream by the county (black bars), so residence_city is ''. Typed fillable form, footer 'v. 4.20'; page-stamped '1' and '4'."
+  }
+ ],
+ "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST', reviewed 3/31/22 and 4/4/2022, with the 'HOLD' box ticked in the top-right disposition block. ONE report emitted. Mixed letterhead: cover (p1) Josh Daniels banner, summary (p4) Amelia Powers Gardner banner."
+}

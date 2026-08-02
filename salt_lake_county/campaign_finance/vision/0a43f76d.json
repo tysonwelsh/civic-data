@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "21,575.00",
+ "total_expenditures": "26,860.16",
+ "beginning_balance": "32,098.00",
+ "ending_balance": "26,812.84",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "53,673.00"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-2-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/09_rhoriuchi_yearendreport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/09_rhoriuchi_yearendreport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "WRONG YEAR IN THE SIGNATURE DATE: the filer wrote '2-2-08', but this is the year-end report for 2008 filed in 2009 - the Summary Page's own Date of Report box reads 'Feb. 2/09' and the clerk stamp is FEB 2 2009. The written date is recorded verbatim. Neither amendment box is checked. Column B is blank on both Lines 1 and 2. Cents are raised superscripts (dashes and raised 00s). Arithmetic consistent (32,098.00 + 21,575.00 = 53,673.00; minus 26,860.16 = 26,812.84), and Line 3 matches Line 7 of his October 28 interim report (key e7a1ba89)."
+ }
+}

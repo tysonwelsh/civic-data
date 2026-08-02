@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_Gifford_05.18.20_Redacted_Redacted.pdf",
+ "key": "d7926589",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:15:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Doug Gifford",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/18/2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "701.96",
+    "contrib_cumulative": "701.96",
+    "expend_this_period": "1847.78",
+    "expend_cumulative": "1847.78",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "701.96",
+    "balance_close": "-1145.82"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "701.96",
+    "boxC_contributions_received_year_to_date": "701.96",
+    "boxD_expenditures_made_this_period": "1847.78",
+    "boxE_expenditures_made_year_to_date": "1847.78",
+    "boxF_subtotal_before_expenditures": "701.96",
+    "balance_at_close": "-1145.82"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form, scanned. The form prints no political-party field. Signature block redacted upstream by the county (black bar); clerk received-stamp reads '20 MAY 18 PM 3:48'. Balance at Close is printed as a NEGATIVE value (-1145.82) - transcribed as printed. Page face agrees with candidate_index and office_index."
+  }
+ ],
+ "notes": "ONE report only. The locator flagged pages 1 and 2 as covers, but page 2 is Schedule A - Itemized Contributions Received (Subtotal for this page 701.96 / Total Contributions Received 701.96), not a second cover. This filing is content-identical to key 6ee0a784 (same candidate, same 5/18/2020 report, same figures) - the county published the same document twice under different filenames."
+}

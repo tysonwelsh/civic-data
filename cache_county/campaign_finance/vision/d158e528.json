@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "2d42b5f178e369b91de73b384c59341a94dddd778befe37305e210f07f41a5b1",
+ "canonical_path": "raw/2012/2012_st_Katherine_Mather_Christiansen_6_4_12_primary.pdf",
+ "applies_to": [
+  "raw/2012/2012_st_Katherine_Mather_Christiansen_6_4_12_primary.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_school_board",
+ "statutory_citation_printed": "The financial campaign law for school board candidates is in the Utah Code reference 20A-11-1301 through 20A-11-1305.",
+ "cover": {
+  "candidate_stated": {
+   "v": "Katherine Mather Christiansen",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Representative District 6",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Smithfield",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Cache",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "June 4, 2012",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CACHE COUNTY CLERK RCVD 06 JUN 2012 PM 02:45",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "out_of_scope",
+  "office_std": "School Board",
+  "seat": "Representative District 6",
+  "evidence": "the page is the 'SCHOOL BOARD CANDIDATE FINANCIAL CAMPAIGN REPORT' instrument citing Utah Code 20A-11-1301 through 20A-11-1305, footer '5-4 PG School'; the '\u2026in the ___ School District' line reads 'Cache County' and 'Representative District 6'.",
+  "confidence": "high"
+ },
+ "notes": "RE-CLASSIFICATION: SCHOOL-BOARD instrument. State-disclosures copy of the same upside-down scan as the county-site 2012_cc_K_Christiansen_finance_campaign.pdf; both scanned inverted, which is why the header rule never matched them in OCR text. Only the CUMULATIVE column is filled, each box a hand-drawn zero glyph."
+}

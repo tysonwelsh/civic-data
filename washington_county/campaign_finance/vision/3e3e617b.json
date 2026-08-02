@@ -1,0 +1,106 @@
+{
+ "filing_key": "wayback_financialreports|2012-03-30|SLADE HUGHES",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/County Candidate Summary - Slade Hughes_03-30-2012.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/County Candidate Summary - Slade Hughes_03-30-2012.pdf",
+   "doc_kind": "summary",
+   "sha256": "6255739a2102f0f4dd50b2642126ef233ecda2a4984a0a821d7951c9f2e3af3d",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Contributions - Slade Hughes_03-30-2012.pdf",
+   "doc_kind": "contributions",
+   "sha256": "96dd2db3d436d2e5f342cf57677d91005dabf19c1514e1d639486ac0df43b17b",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_financialreports/Expenditures - Slade Hughes_03-30-2012.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "02bdcdd21035359a071133d6b32c5334a135ab25eac2319288cc28b29da34b37",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "SLADE HUGHES",
+  "office": "COMMISSION SEAT C",
+  "district": "COUNTY",
+  "election_year": "2012"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat C",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "SLADE HUGHES",
+ "index_reporting_year": "2012",
+ "index_cycle_year": "2012",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "3/30/2012",
+   "date_due": "3/30/2012",
+   "contrib_gt50": "$0.00",
+   "contrib_le50": "$0.00",
+   "expenses": "$225.00",
+   "balance": "$225.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "3/30/2012",
+   "date_due": "3/30/2012",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "$0.00",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$225.00",
+   "expenses_this": "225",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "$225.00",
+   "balance_end": "225",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:11Z"
+}

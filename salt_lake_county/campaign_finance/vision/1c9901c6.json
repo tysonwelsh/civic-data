@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$1,000.00",
+ "total_expenditures": "$2,615.83",
+ "beginning_balance": "$6,338.28",
+ "ending_balance": "$4,722.45",
+ "aggregate": {
+  "total_contributions_to_date": "$1,000.00",
+  "total_expenditures_to_date": "$2,615.83",
+  "line5_subtotal": "$7,338.28"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council District 2",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/30/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/mjensen_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/mjensen_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "TYPEWRITTEN on the 2006 form; Year-End (January 31) checked and the amendment 'No' box checked. Signed 1/30/07, clerk-stamped JAN 30 2007 - the year-end report covering calendar 2006. Line 3 (6,338.28) matches Line 7 of this candidate's prior year-end report; Lines 3+4=5 and 5-6=7 reconcile exactly."
+ }
+}

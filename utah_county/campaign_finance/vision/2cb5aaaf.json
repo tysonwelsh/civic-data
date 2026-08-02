@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_White05.15.20Redacted.pdf",
+ "key": "2cb5aaaf",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:32:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "STEVE WHITE",
+   "party_printed": "",
+   "office_printed": "COMMISSION C",
+   "residence_city": "PROVO",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/14/2020",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "2,000.00",
+    "contrib_cumulative": "2,000.00",
+    "expend_this_period": "2,172.48",
+    "expend_cumulative": "2,172.48",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2,000.00",
+    "balance_close": "-172.48"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "2,000.00",
+    "boxC_contributions_received_year_to_date": "2,000.00",
+    "boxD_expenditures_made_this_period": "2,172.48",
+    "boxE_expenditures_made_year_to_date": "2,172.48",
+    "boxF_subtotal_before_expenditures": "2,000.00",
+    "balance_at_close": "-172.48"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "ENTIRELY HANDWRITTEN in blue ink over the modern v. 4.20 form (only the report-type radio button is a filled bubble). OFFICE RESOLVED FROM THE PAGE: the Office box reads 'COMMISSION C' - office_index was blank, so this filing's own field resolves it to the County Commission Seat C race; transcribed verbatim as written (medium confidence - the word is legible but abbreviated, no 'Utah County' prefix). Box A is a slashed-zero glyph (the filer's zero) - recorded as '0' at medium confidence. Boxes B, C and F are written '$2,000' with the cents as a superscript '00' (i.e. two thousand dollars, no cents); rendered here as '2,000.00'. Balance at Close is written '-$172.48' with a leading minus - a NEGATIVE value, transcribed as printed. Every amount carries a handwritten '$' which is dropped per the transcription convention. The Signature box is EMPTY (unsigned as scanned - no black bar, not redacted); the Date box reads 5/14/2020 and a clerk stamp reads 'RECEIVED MAY 13 2020' - the stamp predates the written date, recorded as it appears and not reconciled. The summary page's own footer boxes (Name of Candidate, Date of Report, Page) were left blank by the filer, as were the cover's Date of Report / Page boxes."
+  }
+ ],
+ "notes": ""
+}

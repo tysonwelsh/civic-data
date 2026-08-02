@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CommissionSeatBWitneyDouglas05112010.pdf",
+ "key": "d2a138cd",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:20:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Douglas Witney",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission Seat B",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "May 9 2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "550.00",
+    "contrib_cumulative": "550.00",
+    "expend_this_period": "2,703.70",
+    "expend_cumulative": "2,703.70",
+    "balance_beginning": "3000.00",
+    "subtotal_before_expend": "3550.00",
+    "balance_close": "846.30"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "550.00",
+    "line1_total_contributions_colB": "550.00",
+    "line2_total_expenditures_colA": "2,703.70",
+    "line2_total_expenditures_colB": "2,703.70",
+    "line3_balance_beginning": "3000.00",
+    "line4_total_contributions_from_line1A": "550.00",
+    "line5_subtotal_lines3plus4": "3550.00",
+    "line6_total_expenditures_from_line2A": "2703.70",
+    "line7_balance_at_close": "846.30"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. NOTATION: the filer writes cents as a raised/superscript pair after the dollars ('550' with a superscript '00', '2,703' with a superscript '70') and prefixes each cell with a hand-drawn '$'; transcribed here in ordinary decimal form with the '$' dropped, exactly as written otherwise (line 6 has no thousands comma on the page, lines 1-2 do). Lines 3 and 5 are written over earlier digits - the pen has been retraced through the middle zeros/fives - so 3000.00 and 3550.00 are recorded at medium confidence as the surviving values; nothing was arithmetic-derived. The summary page's own last-name and Date of Report header boxes are blank; report_date is the cover-page signature date."
+  }
+ ],
+ "notes": ""
+}

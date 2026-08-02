@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1,945.62",
+ "total_expenditures": "1,490.30",
+ "beginning_balance": "0",
+ "ending_balance": "455.32",
+ "aggregate": {
+  "total_contributions_to_date": "2,520.54",
+  "total_expenditures_to_date": "2,065.22",
+  "line5_subtotal": "1,945.62"
+ },
+ "cover": {
+  "candidate": "BILLIE LARSON",
+  "party": "DEMOCRAT",
+  "office_sought": "TREASURER",
+  "district_number": "COUNTY",
+  "report_type": "June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_larson_billie06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Billie Gay Larson",
+  "office": "Treasurer",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_larson_billie06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy - fax banner reads '06/20/2006 14:07  8015963134  DUNN FOR CONGRESS  PAGE 01/02' (sent from an unrelated campaign's fax machine). Neither amendment box is checked -> ''. The June 20 checkbox mark is light but present. Line 3 is a small circle glyph read as zero. Line 1 Column B verified at 400 dpi as '2,520.54'. Summary header: page 2 of 4, LARSON, 6/20/2006."
+ }
+}

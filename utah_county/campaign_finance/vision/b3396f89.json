@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Bill_Lee.pdf",
+ "key": "b3396f89",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:02:00Z",
+ "pages_read": [1, 2, 3, 8],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Bill Lee",
+   "party_printed": "",
+   "office_printed": "Commission Seat B",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/21/2022",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "45,276",
+    "contrib_cumulative": "52,096",
+    "expend_this_period": "43,477.05",
+    "expend_cumulative": "50,847.22",
+    "balance_beginning": "26,522.23",
+    "subtotal_before_expend": "71,798.23",
+    "balance_close": "28,321.18"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "26,522.23",
+    "boxB_contributions_received_this_period": "45,276",
+    "boxC_contributions_received_year_to_date": "52,096",
+    "boxD_expenditures_made_this_period": "43,477.05",
+    "boxE_expenditures_made_year_to_date": "50,847.22",
+    "boxF_subtotal_before_expenditures": "71,798.23",
+    "boxG_balance_at_close": "28,321.18"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten form, clear hand. PAGES ARE OUT OF ORDER IN THE PDF and the locator therefore found no summary page (it fell back to the last page, which is a Schedule A sheet). The filer hand-numbered every sheet: PDF p1 is the cover marked 'Pg 8 of 8', PDF p2 is the SUMMARY PAGE marked 'Pg 1 of 8', PDF p3 is a Schedule B marked 'Pg 7 of 8', PDF p8 is a Schedule A marked 'Pg 2 of 8'. Pages 2-7 were rendered for this read because the summary image was missing from the pre-rendered set. CENTS CONVENTION: this filer writes cents as a raised superscript after the dollars (A '26,522' with a superscript 23, D '43,477' superscript 05, E '50,847' superscript 22, F '71,798' superscript 23, G '28,321' superscript 18) - transcribed with a decimal point. Boxes B and C are written with NO cents at all ('45,276', '52,096') and are preserved that way, not padded. This revision labels the close box 'G'; it prints no 'v.' version string, so form_version is ''. Schedule totals on the itemization sheets corroborate the summary: Schedule A 'Total Contributions Received $45,276' matches Box B (that page's subtotal figure was struck through and rewritten - the surviving value is 19,776 for the page subtotal and 45,276 for the report total), and Schedule B 'Total Expenditures Made $43,477.05' matches Box D. Office 'Commission Seat B' agrees with index.csv."
+  }
+ ],
+ "notes": ""
+}

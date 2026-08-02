@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1536.20",
+ "total_expenditures": "3562.73",
+ "beginning_balance": "2301.47",
+ "ending_balance": "274.94",
+ "aggregate": {
+  "total_contributions_to_date": "20217.73",
+  "total_expenditures_to_date": "17817.20",
+  "line5_subtotal": "3837.67"
+ },
+ "cover": {
+  "candidate": "Cal Noyce",
+  "party": "Democrat",
+  "office_sought": "Cty Council",
+  "district_number": "1",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/15/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cnoyce_10_Sept_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Calvin J. Noyce",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/cnoyce_10_Sept_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Column A reconciles (2,301.47 + 1,536.20 = 3,837.67; minus 3,562.73 = 274.94) and Line 1 Column B carries forward correctly from the June filing (18,681.53 + 1,536.20 = 20,217.73). LINE 2 COLUMN B DOES NOT: the June aggregate 16,380.06 plus this period's 3,562.73 is 19,942.79, but the form prints 17,817.20 \u2014 and 20,217.73 - 17,817.20 = 2,400.53, not the 274.94 closing balance. Kept verbatim as printed (medium confidence on the reading itself, given the handwriting). Office Sought reads 'Cty Council'. Stamped RECEIVED SEP 15 2010."
+ }
+}

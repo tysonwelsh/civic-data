@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "24377",
+  "path": "raw/2024/24377_Armstrong-Post-Election-2024-General.pdf",
+  "page": 1,
+  "sha256": "fbf45dc7d88ab88c30a615a78ee5c14914bc6241ca627ba81fc88d8de9d937a7",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/24377/Armstrong-Post-Election-2024-General",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "Roger Lynn Armstrong",
+  "office_verbatim": "Summit County Council Seat A",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "12/2/2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 339.46",
+    "cumulative_total": "$ 339.46"
+   },
+   "total_expenditures": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 339.46",
+    "cumulative_total": "$ 339.46"
+   },
+   "campaign_balance": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 0.00",
+    "cumulative_total": "$ 0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2024 sheet; same figures as the filer's Pre-Election copy (doc 24247), name written in full as 'Roger Lynn Armstrong'. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$32,180.40",
+ "total_expenditures": "$6,992.94",
+ "beginning_balance": "$26,799.50",
+ "ending_balance": "$51,986.96",
+ "aggregate": {
+  "total_contributions_to_date": "$39,680.40",
+  "total_expenditures_to_date": "$7,626.92",
+  "line5_subtotal": "$58,979.90"
+ },
+ "cover": {
+  "candidate": "Richard  Snelgrove",
+  "party": "Republican",
+  "office_sought": "_Council - At Large",
+  "district_number": "b",
+  "report_type": "September 15",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "09/12/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__EA0B69D6.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard ",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__EA0B69D6.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Balance chain is continuous with this filer's June report ($26,799.50 opening). Form title reads 2020 (template reuse)."
+ }
+}

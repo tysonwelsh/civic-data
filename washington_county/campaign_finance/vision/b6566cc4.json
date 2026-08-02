@@ -1,0 +1,114 @@
+{
+ "filing_key": "wayback_financialreports|2014-06-17|ZACHARY RENSTROM",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/6 17 2014 Summary - Zachary Renstrom_06-11-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Summary - Zachary Renstrom_06-11-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "4ace0da2240954b532200af5eca1b20266da44589f65715c2f1dac760f79adde",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Contributions - Zachary Renstrom_06-11-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "c3b70eba41a7c42a0a8fd027b02b08cb6d72577726e19ad1ae303f416fa9f480",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Expenditures - Zachary Renstrom_06-11-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "c427b07d2168e1800310896350bfbc3b87ebbfccfaa2cc8b264f32ca929756fb",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Zachary Renstrom",
+  "office": "COMMISSION SEAT A",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Zachary Renstrom",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "2000.0",
+   "contrib_le50": "0.0",
+   "expenses": "1821.77",
+   "balance": "178.23"
+  },
+  {
+   "submitted": "2014-06-10",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "25.0",
+   "expenses": "156.48",
+   "balance": "46.75"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-06-10",
+   "date_due": "2014-06-17",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "0.0",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "25.0",
+   "contrib_le50_this": "25",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "156.48",
+   "expenses_this": "156.48",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "46.75",
+   "balance_end": "46.75",
+   "balance_last_printed": "178.23",
+   "balance_last": "178.23",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

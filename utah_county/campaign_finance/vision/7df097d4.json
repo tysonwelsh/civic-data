@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Rod_Mann_Redacted.pdf",
+ "key": "7df097d4",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:16:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rodney Mann",
+   "party_printed": "",
+   "office_printed": "County Commission B",
+   "residence_city": "Highland",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "5/14/2026",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "11,215.93",
+    "contrib_cumulative": "11,215.93",
+    "expend_this_period": "11,722.37",
+    "expend_cumulative": "11,722.37",
+    "balance_beginning": "506.44",
+    "subtotal_before_expend": "11,722.37",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "506.44",
+    "boxB_contributions_received_this_period": "11,215.93",
+    "boxC_contributions_received_year_to_date": "11,215.93",
+    "boxD_expenditures_made_this_period": "11,722.37",
+    "boxE_expenditures_made_year_to_date": "11,722.37",
+    "boxF_subtotal_before_expenditures": "11,722.37",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "medium",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten. NAME: the Name of Candidate box reads 'Rodney Mann' and the affirmation line reads 'Rodney W Mann'; the summary-page footer block reads 'Rodney W Mann'. index.csv carries 'Rod Mann' - the same person, the page prints the long form. OFFICE: handwritten 'County Commission B' (no word 'Seat'); index.csv says 'County Commission Seat B'. Balance at Close is written with slashed-zero glyphs ('0.00'). The cover-page signature block and the email cell are redacted upstream by the county (black bars), so report_date is taken from the summary page's Date of Report (5/14/2026); the cover's Date of Report cell reads only '5/14'. Clerk stamp 'Received MAY 14 2026 In Person'."
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "11,247.86",
+ "total_expenditures": "7,493.98",
+ "beginning_balance": "1,835.48",
+ "ending_balance": "5,589.36",
+ "aggregate": {
+  "total_contributions_to_date": "13083.34",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "13083.34"
+ },
+ "cover": {
+  "candidate": "LESLIE REBERG",
+  "party": "DEMOCrat",
+  "office_sought": "RECORDER",
+  "district_number": "",
+  "report_type": "Interim Report: June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-20-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/RebergL_Recorder_June2006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/RebergL_Recorder_June2006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form title prints '2006 Financial Disclosure Report'. Page order is unusual: PDF page 2 is the CONTRIBUTIONS schedule and page 3 the EXPENDITURES schedule (both landscape spreadsheet printouts, not the official Schedule A/B forms), and the Summary Page is PDF page 4. The June 20 interim box is checked; neither amendment box is checked; signed 6-20-06, clerk stamp JUN 20 2006. Column B is headed 'Sum Total to Date'; Line 2 Column B was left BLANK by the filer (empty string, not zero). The Column B / Line 5 figure 13083.34 is written without a thousands comma and its last digit is crowded against the cell edge, hence medium confidence. Face arithmetic is consistent."
+ }
+}

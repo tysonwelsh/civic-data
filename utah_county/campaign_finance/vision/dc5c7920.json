@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_William_Brimley_Redacted.pdf",
+ "key": "dc5c7920",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T04:10:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "William Brimley",
+   "party_printed": "",
+   "office_printed": "Utah County Commisioner E",
+   "residence_city": "",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "",
+   "report_date": "5/13/26",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "3170",
+    "contrib_cumulative": "3170",
+    "expend_this_period": "3170",
+    "expend_cumulative": "3170",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "3170",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "3170",
+    "boxC_contributions_received_year_to_date": "3170",
+    "boxD_expenditures_made_this_period": "3170",
+    "boxE_expenditures_made_year_to_date": "3170",
+    "boxF_subtotal_before_expenditures": "3170",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, but the retained file is a PHOTOGRAPH of the printed sheet lying on a dark surface (soft focus, uneven light); the box figures are nonetheless crisp. OFFICE - FLAG FOR THE ORCHESTRATOR: the typed Office line reads 'Utah County Commisioner E' (the filer's own misspelling of 'Commissioner' preserved). At magnification the trailing glyph renders as an E, but Utah County has only Commission Seats A/B/C and index.csv carries 'County Commission Seat B'; because the capture is a soft photo I cannot rule out a degraded 'B'. Transcribed exactly as it renders, at medium confidence, and NOT adjudicated. AMENDMENT: NEITHER the 'No' nor the 'Yes' box is marked - is_amendment is '' (left blank by the filer), not 'No'. Boxes B-F are whole-dollar entries with no cents ('3170'); Box A is '0.00' and the Balance at Close is a bare '0' - transcribed as printed. DATE: the affirmation Date is handwritten '5-13-26', the summary page's Date of Report is typed '5/13/26', and the COVER page's Date of Report cell is typed '5/13/20' - an apparent filer/field truncation; report_date takes the summary page's 5/13/26 and the discrepancy is recorded here. The address block, the phone cell and the signature block are redacted upstream by the county (black bars), so residence_city is unavailable. No form-version string is legible in this photo, so form_version is ''."
+  }
+ ],
+ "notes": ""
+}

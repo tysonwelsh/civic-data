@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "123.78",
+ "ending_balance": "123.78",
+ "aggregate": {
+  "total_contributions_to_date": "959.14",
+  "total_expenditures_to_date": "835.36",
+  "line5_subtotal": "123.78"
+ },
+ "cover": {
+  "candidate": "H. Brett Helsten",
+  "party": "Republican",
+  "office_sought": "County Council At Large A",
+  "district_number": "",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Helsten_Brett_CouncilA-Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brett Helsten",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Helsten_Brett_CouncilA-Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Cover is the '[County Officeholders - Year-End]' 2014 form but the OCTOBER 28 interim box is checked and the Year-End box is not - the form face is recorded. Neither amendment box is checked. Clerk stamp RECEIVED IN OFFICE OCT 28 2014. Summary Page is page 2 (Column B labelled 'Year to Date'); Lines 1, 2, 4 and 6 Column A are all written as hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 and Line 7 both read 123.78 - no activity in the period."
+ }
+}

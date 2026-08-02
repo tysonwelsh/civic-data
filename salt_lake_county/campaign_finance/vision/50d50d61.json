@@ -1,0 +1,48 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Leslie Reberg",
+  "party": "Democrat",
+  "office_sought": "Recorder",
+  "district_number": "",
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": null,
+  "form_year": "2006"
+ },
+ "confidence": {
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lreberg_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lreberg_sept152006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 1 re-rendered at -r 250",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DAMAGED / DEFECTIVE DOCUMENT - worth a human's attention. Page 1 is the 2006 cover sheet but the bottom two-thirds (the whole 'Type of Report' box, the amendment boxes and the entire Report Verification block with the signature date) is destroyed by an expenditure listing printed on top of it, tripled and offset; re-rendered at 250 dpi and none of it is recoverable, so report_type / is_amendment / report_date are null. Pages 2, 3 and 4 are the SAME landscape 'Revenues' contributor listing scanned three times (TOTAL 9044.33). There is NO Summary Page anywhere in the 4-page file, so all totals are null. Clerk RECEIVED stamp SEP 15 2006 and the filename imply the September 15 interim report, but the form face does not say so."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,072.92",
+ "total_expenditures": "894.85",
+ "beginning_balance": "4,629.05",
+ "ending_balance": "6,807.12",
+ "aggregate": {
+  "total_contributions_to_date": "3,072.92",
+  "total_expenditures_to_date": "894.85",
+  "line5_subtotal": "7,701.97"
+ },
+ "cover": {
+  "candidate": "Larry W Richardson",
+  "party": "Republican",
+  "office_sought": "County Treasurer",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/2/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lrichardson_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Larry W. Richardson",
+  "office": "Treasurer",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/lrichardson_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked. Lines 3+4=5 and 5-6=7 both reconcile exactly (4,629.05 + 3,072.92 = 7,701.97; minus 894.85 = 6,807.12)."
+ }
+}

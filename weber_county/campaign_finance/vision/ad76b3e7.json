@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "ad76b3e7",
+ "source_filing": "raw/y2026/2026_ugd_92078f_995d4b3b.pdf",
+ "document_id": "2026_ugd_92078f_995d4b3b",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Richard A. Hyer",
+ "office_stated": "Weber County Commisioner Seat A",
+ "report_type_stated": "30 days after withdrawal or Primary Election elimination",
+ "filing_date_stated": "2026-05-20",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "58,081.31",
+   "this": "2,100.00",
+   "cum": "60,181.31"
+  },
+  "expenditures": {
+   "last": "40,063.67",
+   "this": "5,611.15",
+   "cum": "45,674.82"
+  },
+  "ending_balance": {
+   "last": "18,017.64",
+   "this": "(3,511.15)",
+   "cum": "14,506.49"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "medium",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, TYPED; all columns reconcile. DATE CONFLICT retained verbatim: the form is dated 5/20/26 but the clerk RECEIVED stamp is JUL 20 2026 and the report is the post-primary-elimination one - the written month is very likely a typo for 7/20/26, but nothing was corrected. Office spelled 'Commisioner' by the filer. County-redacted address and home/office phone."
+}

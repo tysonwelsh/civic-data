@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$6350.",
+ "total_expenditures": "$13,514.52",
+ "beginning_balance": "$7,569.19",
+ "ending_balance": "$404.67",
+ "aggregate": {
+  "total_contributions_to_date": "$105,162.",
+  "total_expenditures_to_date": "$105,137.77",
+  "line5_subtotal": "$13,919.19"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large C",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_Final_CouncilC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_Final_CouncilC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the '2012 Summary Report' and the filename says 'Final'; the FORM checks the YEAR-END (January 31) box only - the Final / Dissolution box is NOT checked. This is a later form revision whose Column B is headed 'Year to Date' rather than 'Aggregate Total'. Line 1 Columns A and B write the cents as a raised dash after the decimal point ('$6350.-' / '$105,162.-', the zero-cents convention) - recorded without the dash. Summary-page header box is blank. Neither amendment box is checked. Arithmetic consistent (7,569.19 + 6,350 = 13,919.19; less 13,514.52 = 404.67)."
+ }
+}

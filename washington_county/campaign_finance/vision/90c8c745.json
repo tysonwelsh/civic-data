@@ -1,0 +1,105 @@
+{
+ "filing_key": "wayback_2010elections||BROCK BELNAP",
+ "channel": "wayback_2010elections",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_2010elections/County Candidate Summary - Brock Belnap.pdf",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_2010elections/County Candidate Summary - Brock Belnap.pdf",
+   "doc_kind": "summary",
+   "sha256": "5cac6d50b8ee3a0d5707831309c35559c5f7477c61cb3c31f9d31127ad0e2658",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Contributions - Brock Belnap.pdf",
+   "doc_kind": "contributions",
+   "sha256": "31e176703aa02d308d1519df20559e4373c272620b2c4b4203dc730dd0121e16",
+   "format": "text"
+  },
+  {
+   "path": "raw/wayback_2010elections/Expenditures - Brock Belnap.pdf",
+   "doc_kind": "expenditures",
+   "sha256": "8cbdb76b0a389635b4f89a925952d79602905ca6ccf082fe4f85126357ff5fc2",
+   "format": "text"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "pdftotext_layout",
+ "contrib_columns_split": false,
+ "cover": {
+  "candidate": "",
+  "office": "",
+  "district": "",
+  "election_year": ""
+ },
+ "cover_conf": {
+  "candidate": "",
+  "office": "",
+  "district": "",
+  "election_year": ""
+ },
+ "index_office": "Attorney",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Brock Belnap",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "4/7/2010",
+   "date_due": "4/9/2010",
+   "contrib_gt50": "$0.00",
+   "expenses": "$500.00",
+   "balance": "-$500.00"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "4/7/2010",
+   "date_due": "4/9/2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 0,
+   "row_basis": "last printed row carrying a figure (no deadline on the filename)",
+   "contrib_gt50_this_printed": "$0.00",
+   "contrib_gt50_this": "0",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "$500.00",
+   "expenses_this": "500",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "-$500.00",
+   "balance_end": "-500",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:10Z"
+}

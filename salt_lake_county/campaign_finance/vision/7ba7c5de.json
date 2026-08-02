@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "625",
+ "total_expenditures": "400",
+ "beginning_balance": "150.42",
+ "ending_balance": "375.42",
+ "aggregate": {
+  "total_contributions_to_date": "625",
+  "total_expenditures_to_date": "400",
+  "line5_subtotal": "775.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large \"C\"",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-1-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jbradley_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/jbradley_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Lines 1 and 2 (both columns) and Line 6 are written '625.\u2013' and '400.\u2013' \u2014 a dash in place of the cents; transcribed as 625 and 400. district_number holds 'At-Large \"C\"' because that is what the filer wrote in the District Number cell. Summary Page header box is blank. Neither the amendment Yes nor No box is checked. Filed stamp FEB 01 2010; signed 2-1-10. Arithmetic closes."
+ }
+}

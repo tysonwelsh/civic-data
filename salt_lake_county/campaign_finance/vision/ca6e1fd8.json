@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,695 -",
+ "total_expenditures": "18,363.81",
+ "beginning_balance": "8,744.51",
+ "ending_balance": "75.70",
+ "aggregate": {
+  "total_contributions_to_date": "144,245.36",
+  "total_expenditures_to_date": "144,169.66",
+  "line5_subtotal": "18,439.51"
+ },
+ "cover": {
+  "candidate": "Jenny Wilson",
+  "party": "Democrat",
+  "office_sought": "At-Large Council B",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jwilson_january312005.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2004",
+  "source_pdf": "raw/clerk_legacy/jwilson_january312005.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2004-vintage form (Column B is headed 'Year-to-Date Total'). The Name box is signed 'Jenny Wilson' - the informal form of the Jennifer Wilson who files the 2009/2010 reports in this same chunk; transcribed as printed, not normalised. Line 1 Column A writes the cents as a trailing dash ('9,695 -'); Line 4 repeats it. Neither amendment box is checked. Signed 1/31/05, clerk-stamped JAN 31 2005; this is the year-end report for the 2004 election cycle. Form arithmetic checks out (8,744.51 + 9,695 = 18,439.51; 18,439.51 - 18,363.81 = 75.70)."
+ }
+}

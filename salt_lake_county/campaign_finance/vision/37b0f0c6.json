@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,234.71",
+ "total_expenditures": "480.10",
+ "beginning_balance": "11,413.10",
+ "ending_balance": "16,167.71",
+ "aggregate": {
+  "total_contributions_to_date": "17,234.71",
+  "total_expenditures_to_date": "1,067.00",
+  "line5_subtotal": "16,647.81"
+ },
+ "cover": {
+  "candidate": "Lee Gardner",
+  "party": "Republican",
+  "office_sought": "SL County Assessor",
+  "district_number": "",
+  "report_type": "Interim Report: June 20 (for the period ending June 19, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6-20-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_gardner_lee06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lee Gardner",
+  "office": "Assessor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_gardner_lee06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2006 form. All figures written with the cents as a raised superscript over a rule (e.g. 5,234 with a superscript 71) - transcribed with a decimal point. Neither the amendment Yes nor No box is checked. Summary-page header box (page/last name/date) is blank on this filing. On-form arithmetic is internally consistent (11,413.10 + 5,234.71 = 16,647.81; less 480.10 = 16,167.71)."
+ }
+}

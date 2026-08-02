@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Steven F Shamy Sr.",
+  "party": "",
+  "office_sought": "For County Council #3",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_shamy_steven06dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven F. Shamy Sr.",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_shamy_steven06dissolution.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NOT a disclosure report - this is the single-page 'Dissolution of a Candidate Campaign' notice under SLCo Ordinance 2.72A.205, so there is no Summary Page and all totals are null (honest, not a gap). Committee name: 'For Steven F Shamy Sr For County Council #3'; committee secretary Lucila Osses-Shamy; committee established 3-13-06; signed 6/20/06. The office_sought field above is transcribed from the committee name, since the notice has no Office Sought box. Party and district are not fields on this form."
+ }
+}

@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "index_path": "raw/2010/2010_Scott-Sweat-6-15-10.pdf",
+    "cache_key": "01be9386",
+    "entity": "wasatch_county",
+    "election_year": "2010",
+    "reporting_period_index": "June 2010 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Scott H Sweat",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "County Attorney",
+      "confidence": "high"
+    },
+    "district_verbatim": {
+      "value": "County",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Brent Titcomb, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/15/10",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "340.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "340.00",
+        "confidence": "high"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "250.00",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "250.",
+        "confidence": "medium"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "2063.18",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "2063.18",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "-1473.18",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "1473.18",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "The line-2 CUMULATIVE cell is written '250.' with a trailing strike. The balance is printed '-1473.18' in THIS REPORT but '1473.18' (no minus) in CUMULATIVE \u2014 both verbatim."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "-0-",
+ "total_expenditures": "$ 682.04",
+ "beginning_balance": "$ 6,908.95",
+ "ending_balance": "$ 6,226.91",
+ "aggregate": {
+  "total_contributions_to_date": "-0-",
+  "total_expenditures_to_date": "$ 682.04",
+  "line5_subtotal": "$ 6,908.95"
+ },
+ "cover": {
+  "candidate": "SEAN THOMAS",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY AUDITOR",
+  "district_number": "",
+  "report_type": "Interim Report: April 5 (for the period ending March 31, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/3/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sthomas_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sean Thomas",
+  "office": "Auditor",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/sthomas_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Zeros on Lines 1 and 4 are written in the dash-flanked form '-0-' and are recorded verbatim. The candidate's first name is written with a script capital that can read as 'Jean'; the clerk listing and the attached dissolution notice both say 'Sean Thomas'. The cover is signed 4/3/06 but the Summary Page's own 'Date of Report' box says 3/31/06 (the period end). Balance summary is internally consistent."
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_Mccabe.pdf",
+ "key": "473c1c76",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:05:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Teri McCabe",
+   "party_printed": "United Utah",
+   "office_printed": "Utah County Commissioner Seat A",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "27 Oct 2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "7,280.14",
+    "contrib_cumulative": "7,280.14",
+    "expend_this_period": "6,657.58",
+    "expend_cumulative": "6,657.58",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "7,280.14",
+    "balance_close": "622.56"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "7,280.14",
+    "line1_total_contributions_colB": "7,280.14",
+    "line2_total_expenditures_colA": "6,657.58",
+    "line2_total_expenditures_colB": "6,657.58",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "7,280.14",
+    "line5_subtotal_lines3plus4": "7,280.14",
+    "line6_total_expenditures_from_line2A": "6,657.58",
+    "line7_balance_at_close": "622.56"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten summary page. The hundreds digit of the Line 2 figure is ambiguous between 5 and 6 in this filer's hand in both columns; transcribed as 6,657.58 at medium confidence because the same figure is written more crisply on Line 6. Line 3 is a handwritten bare 0. Page 4 is a typed 'Schedule A Itemized Contributions Received page 2/2' listing, NOT a second summary page - one report only. The summary page's own header reads '2016 County & Local School Board Candidates' (a 2016-vintage form sheet used for this 2018 filing); its Page/Last Name/Date of Report boxes were left blank by the filer."
+  }
+ ],
+ "notes": ""
+}

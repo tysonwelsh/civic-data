@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2007.05",
+ "total_expenditures": "2007.05",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "2007.05",
+  "total_expenditures_to_date": "2007.05",
+  "line5_subtotal": "2007.05"
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "12-24-12",
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Hatch_Jeff_12_Council4_Final_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Hatch_Jeff_12_Council4_Final_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 and -r 500 with crops)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2012-vintage form; the interim boxes carry explicit 2012 period-end dates, so form_year is 2012. Only Final/Dissolution is checked; amendment 'No' is checked. Summary Page header block filled in: Page 1 of 3, last name 'Hatch', date of report 12-24-12; Column B is labelled 'Year to Date' on this vintage. Handwriting caution: in Line 1 Column B and both Line 2 cells the filer's joined double-zero renders like an extra digit (could be misread as '20057.05'/'2057.05'); re-rendered at 500 dpi, the clean cells on Lines 4, 5 and 6 read '2007.05' unambiguously and those lines are the filer's own copies of Line 1 Col A and Line 2 Col A, so all six cells are transcribed 2007.05, with medium confidence on the loopy ones. Lines 3 and 7 are hand-drawn zeros."
+ }
+}

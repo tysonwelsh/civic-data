@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "24,742.77",
+ "total_expenditures": "20,201.22",
+ "beginning_balance": "9798.72",
+ "ending_balance": "14,340.27",
+ "aggregate": {
+  "total_contributions_to_date": "34,812.77",
+  "total_expenditures_to_date": "20,472.50",
+  "line5_subtotal": "34,541.49"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jiwamoto_cojunereport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_jiwamoto_cojunereport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 line-5 cell re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Line 5 has an overwritten second digit (a '4' written on top of an earlier digit); the surviving figure reads 34,541.49, recorded at medium confidence after a 250-dpi re-render. Line 3 is written without a thousands comma ('9798.72') and carries forward Line 7 of this filer's April report exactly. Signature Date line is blank; clerk RECEIVED stamp JUN 17 2008. Neither amendment box is checked. All seven figures are internally consistent."
+ }
+}

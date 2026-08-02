@@ -120,7 +120,11 @@ links never break — verify after any rebuild).
 
 ## Gaps / follow-ons (root TODO.md "County content menu")
 
-RDA project-area financials; interlocal/development agreements; county campaign finance;
+RDA project-area financials; interlocal/development agreements; ~~county campaign
+finance~~ (BUILT 2026-08-01/02 — `campaign_finance/`, 989 filings ~2004–2026: EasyVote
+2024/2026 itemized-structured + stated totals vision-transcribed for the legacy and 2022
+eras (618 of 670 covers; 52 docs have no summary page); 2016–2021 portal era remains the
+honest gap; see its CLAUDE.md);
 sub-county/WFRC projections + TAZ; cross-tier analytical views; one image-only HA minutes PDF
 (2021-12-15, re-OCR pending); 2019 HA minutes (below the 2020 floor). All honest, tracked,
 never fabricated.

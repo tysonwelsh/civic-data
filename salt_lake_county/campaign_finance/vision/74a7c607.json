@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "8,355.00",
+ "total_expenditures": "8,359.67",
+ "beginning_balance": "1,161.06",
+ "ending_balance": "1,159.39",
+ "aggregate": {
+  "total_contributions_to_date": "8,355.00",
+  "total_expenditures_to_date": "8,359.67",
+  "line5_subtotal": "9,516.06"
+ },
+ "cover": {
+  "candidate": "Jake Parkinson",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04/07/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ParkinsonJ_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jake Parkinson",
+  "office": "Assessor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/ParkinsonJ_2014_April.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The 'April 7' interim box is checked (this form vintage prints April 7, not April 5); neither amendment box is checked. Signature date 04/07/14, clerk RECEIVED stamp APR 07 2014. Summary Page header: page 2 of 6, 'Date of Report Mar. 31, 2014'. ARITHMETIC ERROR kept verbatim: Line 7 reads 1,159.39 although Line 5 (9,516.06) minus Line 6 (8,359.67) is 1,156.39 - the later amended filing (ParkinsonJ2014AprilAmended) prints 1,156.39. Scan is skewed with a visible copier seam through line 1, but every digit is legible."
+ }
+}

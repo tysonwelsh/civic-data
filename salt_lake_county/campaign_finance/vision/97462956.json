@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Steve Harmsen",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/28/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Harmsen_S_Dissolution_CouncilC.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Harmsen",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Harmsen_S_Dissolution_CouncilC.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign Committee' notice - NOT a disclosure report, so it has no Summary Page and no totals. Name of Committee: 'Steve Harmsen for County Council'; Name of County Office Candidate: 'Steve Harmsen'; Committee Secretary: 'Steve Harmsen'; Date Committee Was Established: 'Feb / 2012'. Signed 1/28/13, clerk RECEIVED stamp JAN 30 2013. The form has no party/office-sought/amendment fields, so those are left blank."
+ }
+}

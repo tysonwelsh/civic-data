@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1592.20",
+ "total_expenditures": "1284.49",
+ "beginning_balance": "0",
+ "ending_balance": "307.71",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1592.20"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large 'A'",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "April 7th",
+  "report_date": "4-21-14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/BrunerM2014AprilAmendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/BrunerM2014AprilAmendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO interim/year-end/final box is checked at all - only the amendment question is answered ('Yes', amending the April 7th report), so report_type is recorded as empty rather than invented; the clerk listing supplies 'Amendment to April'. Column B is entirely BLANK on both Lines 1 and 2 (recorded as empty strings, not zeros). Line 3 is a hand-drawn slashed zero. Several Column A figures are written over earlier digits - Line 5 in particular is heavily overwritten but resolves to 1592.20 at 250 dpi, which is also what Line 4 says. This amendment CORRECTS the original April filing (key 0bc814fc), whose Line 5 read 1532.14 - an arithmetic error there. On this form 1592.20 - 1284.49 = 307.71 checks out."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Rod_Mann.pdf",
+ "key": "d057c2c1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:52:00Z",
+ "pages_read": [1, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Rodney W Mann",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "Highland",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "6/21/2022",
+   "summary_page": 7,
+   "totals": {
+    "contrib_this_period": "14,764.00",
+    "contrib_cumulative": "14,764.00",
+    "expend_this_period": "14,944.28",
+    "expend_cumulative": "14,944.28",
+    "balance_beginning": "180.28",
+    "subtotal_before_expend": "14,944.28",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "$180.28",
+    "boxB_contributions_received_this_period": "$14,764.00",
+    "boxC_contributions_received_year_to_date": "$14,764.00",
+    "boxD_expenditures_made_this_period": "$14,944.28",
+    "boxE_expenditures_made_year_to_date": "$14,944.28",
+    "boxF_subtotal_before_expenditures": "$14,944.28",
+    "boxG_balance_at_close": "$0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form, digitally signed (the Signature box holds the certificate string 'ceeb3a55-f0e3-4409-af49-d801b9a67024, Date: 2022.06.21 00:26:16 -06'00''). NAME DISAGREEMENT: the page prints 'Rodney W Mann'; index.csv carries 'Rodd Mann'. OFFICE: the Office box is LEFT BLANK by the filer, so office_printed is '' - index.csv's 'County Auditor' is not corroborated anywhere on the page face (his email is rod@rodforutah.com, which names no office). The whole street address including city/state/zip is typed into the Address cell ('5262 W Castle Pine Way, Highland, UT 84003') - not redacted on this filing. Neither amendment option is marked (this render of the form shows no checkbox glyphs at all, just the labels 'No' and 'Yes, Date of Original Report'), so is_amendment is ''."
+  }
+ ],
+ "notes": "variant_guess said legacy_colAB; the filing is in fact the modern Box A-G form."
+}

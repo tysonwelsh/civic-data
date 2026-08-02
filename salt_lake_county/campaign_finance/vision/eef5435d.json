@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "650.-",
+ "total_expenditures": "579.11",
+ "beginning_balance": "584.97",
+ "ending_balance": "655.86",
+ "aggregate": {
+  "total_contributions_to_date": "1,750.-",
+  "total_expenditures_to_date": "1,401.76",
+  "line5_subtotal": "1,234.97"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At Large \"C\"",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5",
+  "report_date": "Oct. 3, 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jimbradley_april52006amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jimbradley_april52006amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "NO reporting-period box is checked at all on this form - the only mark in the Type of Report block is the amendment 'Yes' box, with 'April 5' written on the date-of-report rule; report_type is therefore left blank ('') and the period is carried only by amendment_of. Signed 'Oct. 3, 2006' and clerk-stamped OCT 03 2006, i.e. an April report amended six months later. The Summary Page figures are IDENTICAL to the original April 5 filing (jbradley_apr52006.pdf) - the amendment did not change the stated totals. Line 1 cents are written as a trailing dash ('650.-', '1,750.-')."
+ }
+}

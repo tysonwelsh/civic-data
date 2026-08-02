@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "8359",
+  "path": "raw/2018/8359_Rhonda-Francis-Final.pdf",
+  "page": 1,
+  "sha256": "5b0db68c27340d6faa5602ce8e45f2a911d90acdd7412e3038c52924d054d069",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/8359/Rhonda-Francis-Final",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Rhonda Francis",
+  "office_verbatim": "RECORDER",
+  "party_verbatim": "DEMOCRAT",
+  "signature_date_as_printed": "11/26/18",
+  "rows": {
+   "contrib_total": {
+    "current_report": "",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "total_expenditures": {
+    "current_report": "$293.54",
+    "last_report": "",
+    "cumulative_totals": ""
+   },
+   "campaign_balance": {
+    "current_report": "",
+    "last_report": "",
+    "cumulative_totals": ""
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "The filer's Pre-Election sheet (doc 8196) re-filed as the Post-Election report, re-dated 11/26/18; identical single filled cell ('$293 54/100'). Contributions and balance rows EMPTY."
+}

@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_PostPrimary-Stanley.pdf",
+ "key": "0b995515",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:55:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Benjamin D. Stanley",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Pleasant Grove",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "",
+   "report_date": "July 25, 2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "4,100.00",
+    "contrib_cumulative": "9,989.00",
+    "expend_this_period": "4,490.63",
+    "expend_cumulative": "9,751.15",
+    "balance_beginning": "628.48",
+    "subtotal_before_expend": "4,728.48",
+    "balance_close": "237.85"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "4,100.00",
+    "line1_total_contributions_colB": "9,989.00",
+    "line2_total_expenditures_colA": "4,490.63",
+    "line2_total_expenditures_colB": "9,751.15",
+    "line3_balance_beginning": "628.48",
+    "line4_total_contributions_from_line1A": "4,100.00",
+    "line5_subtotal_lines3plus4": "4,728.48",
+    "line6_total_expenditures_from_line2A": "4,490.63",
+    "line7_balance_at_close": "237.85"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, legible. Every summary figure is written with a leading '$', dropped here per the schema. The signature date on the cover is written out as 'July 25, 2014'; the summary page's Date of Report box abbreviates it 'July 25,14'. Neither amendment box (Yes/No) is marked, so is_amendment is left empty. A clerk received stamp reads JUL 25 AM 11:35."
+  }
+ ],
+ "notes": ""
+}

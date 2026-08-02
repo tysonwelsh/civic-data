@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-HendersonJLane-061510.pdf",
+ "key": "b2b16869",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:08:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "J. Lane Henderson",
+   "party_printed": "Democrat",
+   "office_printed": "County Commissioner",
+   "residence_city": "Salem",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6-14-10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "1895",
+    "contrib_cumulative": "1895",
+    "expend_this_period": "716.67",
+    "expend_cumulative": "716.67",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "1895",
+    "balance_close": "1178.33"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "1895",
+    "line1_total_contributions_colB": "1895",
+    "line2_total_expenditures_colA": "716.67",
+    "line2_total_expenditures_colB": "716.67",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "1895",
+    "line5_subtotal_lines3plus4": "1895",
+    "line6_total_expenditures_from_line2A": "716.67",
+    "line7_balance_at_close": "1178.33"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten fax (header 'SENT BY: JMART; 8017989770; JUN-14-10 5:56PM'). The cover-page signature date is struck and rewritten: the day digit '13' is crossed out with '14' written above it, giving '6-14-10'; the Date of Report box on the summary page and Schedule B both read '6-14-10', so that is the value taken. Line 1 contributions are written as a bare '1895' with no cents; transcribed exactly as printed. The Office Seeking line reads 'County Commissioner' with NO seat letter - index.csv/the county filename say 'County Commission Seat A'; the page does not corroborate the seat. Street address (38 North 950 East) is printed in full on this filing (not redacted by the county)."
+  }
+ ],
+ "notes": "The chunk's locator failed to find the summary page and rendered p4 (Schedule B) as a fallback; p2 is the actual SUMMARY PAGE and was rendered and read. Schedule B p4 prints 'Total Expenditures Received' 716.67, agreeing with line 2."
+}

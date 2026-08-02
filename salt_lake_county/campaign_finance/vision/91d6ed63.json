@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "9,132.44",
+ "total_expenditures": "7,918.35",
+ "beginning_balance": "416.85",
+ "ending_balance": "1,630.94",
+ "aggregate": {
+  "total_contributions_to_date": "24,954.41",
+  "total_expenditures_to_date": "23,323.47",
+  "line5_subtotal": "9,549.29"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large A",
+  "report_type": "Interim Report: October 28 (for the period ending October 27, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/28/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bruner_Micah_CouncilA_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Micah Bruner",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Bruner_Micah_CouncilA_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The form's printed title carries the standing '[County Officeholders - Year-End]' header but the box checked is the October 28 INTERIM, matching the clerk listing. Summary page header: page 2 of 8, BRUNER, 'Oct 28'. Neither amendment box is checked. Both columns are self-consistent and chain correctly from the September filing (416.85 + 9,132.44 = 9,549.29, less 7,918.35 = 1,630.94; 15,821.97 + 9,132.44 = 24,954.41; 15,405.12 + 7,918.35 = 23,323.47)."
+ }
+}

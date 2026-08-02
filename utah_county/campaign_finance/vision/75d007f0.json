@@ -1,0 +1,58 @@
+{
+ "path": "raw/2010/2010_CountyCommissionSeatA-HendersonJLane-120210.pdf",
+ "key": "75d007f0",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:16:00Z",
+ "pages_read": [1, 2, 5],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "J. Lane Henderson",
+   "party_printed": "Democrat",
+   "office_printed": "County Commissioner",
+   "residence_city": "Salem",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "",
+   "report_date": "12-1-10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2,000",
+    "contrib_cumulative": "25,469.07",
+    "expend_this_period": "2,550",
+    "expend_cumulative": "25,866.52",
+    "balance_beginning": "869.22",
+    "subtotal_before_expend": "2869.22",
+    "balance_close": "319.22"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "2,000",
+    "line1_total_contributions_colB": "25,469.07",
+    "line2_total_expenditures_colA": "2,550",
+    "line2_total_expenditures_colB": "25,866.52",
+    "line3_balance_beginning": "869.22",
+    "line4_total_contributions_from_line1A": "2,000.00",
+    "line5_subtotal_lines3plus4": "2869.22",
+    "line6_total_expenditures_from_line2A": "2,550.00",
+    "line7_balance_at_close": "319.22"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten fax, pages scanned UPSIDE DOWN (fax header 'SENT BY: JMART; DEC-1-10 6:15PM' runs along the bottom edge). The 'Is this report an amendment?' Yes and No boxes are BOTH left unchecked - is_amendment is '' (blank, not 'No'). Lines 1 and 2 Column A carry no cents on the form ('2,000' / '2,550'); transcribed as printed. Line 2 Column B cents are superscripted and partly clipped by the fax edge ('25,866 52') - medium confidence. The Office Seeking line reads 'County Commissioner' with NO seat letter; index.csv says 'County Commission Seat A' - the page does not corroborate the seat. Balance at Beginning 869.22 matches the line 7 close of this filer's 10-22-10 report (key 54467fcc)."
+  }
+ ],
+ "notes": "The chunk flagged pages 2 and 5 as possible summary pages; page 5 is in fact a SCHEDULE A itemization page (its 'Total Contributions Received' footer prints 25,469.07, agreeing with summary line 1 Column B), NOT a second report. One report only."
+}

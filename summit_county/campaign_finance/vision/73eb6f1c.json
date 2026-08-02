@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "24247",
+  "path": "raw/2024/24247_Armstrong-Pre-Election-2024-General.pdf",
+  "page": 1,
+  "sha256": "7619e17d2e75476766138172d952570aa161c760576b8b9d34de34ea5462df92",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/24247/Armstrong-Pre-Election-2024-General",
+  "index_text_quality": "high",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "Roger L. Armstrong",
+  "office_verbatim": "Summit County Council Seat A",
+  "party_verbatim": "Democrat",
+  "signature_date_as_printed": "10/31/2024",
+  "rows": {
+   "contrib_total": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 339.46",
+    "cumulative_total": "$ 339.46"
+   },
+   "total_expenditures": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 339.46",
+    "cumulative_total": "$ 339.46"
+   },
+   "campaign_balance": {
+    "current_report": "$ 0.00",
+    "previous_report": "$ 0.00",
+    "cumulative_total": "$ 0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed 2024 sheet, all three columns printed. The $339.46 carried in Previous Report has no published predecessor filing in this dataset (the county page lists only two 2024 Armstrong reports) — an availability observation, not a transcription gap. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+}

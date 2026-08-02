@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "36,791.69",
+ "total_expenditures": "26,219.80",
+ "beginning_balance": "14,340.27",
+ "ending_balance": "24,912.16",
+ "aggregate": {
+  "total_contributions_to_date": "71,604.46",
+  "total_expenditures_to_date": "46,692.30",
+  "line5_subtotal": "51,131.96"
+ },
+ "cover": {
+  "candidate": "Jani Iwamoto",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2008)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "9/15/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jiwamoto_september152008.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jani Iwamoto",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_jiwamoto_september152008.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 Column B cells and page 1 date re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The filer writes the digit 6 as a large open loop that reads as '10' at 110 dpi; a 250-dpi re-render of the Column B cells confirms '71,604.46' and '46,692.30' (and both are corroborated by the form's own carry-forward arithmetic against the June and October reports). The signature Date is partly obscured by the signature flourish; it reads 9/15/08 (medium confidence) and the clerk RECEIVED stamp is SEP 15 2008. The 'No' amendment box IS checked on this one."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,934.91",
+ "total_expenditures": "7,817.35",
+ "beginning_balance": "200.00",
+ "ending_balance": "317.56",
+ "aggregate": {
+  "total_contributions_to_date": "8,469.16",
+  "total_expenditures_to_date": "8,151.60",
+  "line5_subtotal": "8,134.91"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Co. Council",
+  "district_number": "6",
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2008)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-17-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mburdick_lsbjunereport.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_mburdick_lsbjunereport.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The 'No' amendment box is checked. Line 3 (200.00) is written faintly but matches this filer's April line 7 exactly, and every line reconciles (200.00 + 7,934.91 = 8,134.91; \u2212 7,817.35 = 317.56). The clerk RECEIVED stamp (JUN 17 2008) is double-struck on the scan."
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "cache_version": 1,
+ "cache_key": "10cbef31",
+ "source_filing": "raw/wayback/wb20160824055025_CAllred_1.5.15.pdf",
+ "document_id": "wb20160824055025_CAllred_1.5.15",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2014",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:04:40Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Chris Allred",
+ "office_stated": "Weber County Attorneys Office",
+ "report_type_stated": "January 5th, 2015 (final report)",
+ "filing_date_stated": "2015-01-05",
+ "form_variant": "4line",
+ "stated": {
+  "contrib_gt50": {
+   "last": "4,067.20",
+   "this": "-",
+   "cum": "4,067.20"
+  },
+  "contrib_le50": {
+   "last": "-",
+   "this": "-",
+   "cum": "-",
+   "n_contributors": ""
+  },
+  "expenditures": {
+   "last": "4,067.20",
+   "this": "-",
+   "cum": "4,067.20"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "-",
+   "cum": "-"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "Final report; report-type box circled in ink. '-' is the filer's nil marker, retained verbatim."
+}

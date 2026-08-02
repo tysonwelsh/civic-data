@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "16,702.38",
+ "total_expenditures": "11,716.65",
+ "beginning_balance": "13,024.31",
+ "ending_balance": "18,010.04",
+ "aggregate": {
+  "total_contributions_to_date": "33,193.89",
+  "total_expenditures_to_date": "15,441.47",
+  "line5_subtotal": "29,726.69"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large \"C\"",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "Sept. 15",
+  "report_date": "Oct. 3, 2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jimbradley_september1506amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jimbradley_september1506amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "NO Type-of-Report box is checked at all (report_type = '') - the only mark in that block is the amendment 'Yes' box with 'Sept. 15' written beside it. Summary Page header box is entirely BLANK. Both columns reconcile against Bradley's June 20 report (key adfcf1a3): 13,024.31 carries forward as Line 3; 16,491.51 + 16,702.38 = 33,193.89 and 3,724.82 + 11,716.65 = 15,441.47, which corroborates the Column B readings."
+ }
+}

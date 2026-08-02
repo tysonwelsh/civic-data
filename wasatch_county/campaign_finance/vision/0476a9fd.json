@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "index_path": "raw/2024/202403_state_Adams.pdf",
+    "cache_key": "0476a9fd",
+    "entity": "wasatch_county",
+    "election_year": "2024",
+    "reporting_period_index": "March 2024 (state-site copy)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [
+      "balance_end",
+      "total_expenditures"
+    ],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Robert F. D. (Bob) Adams",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Wasatch County Assessor",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Midway",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "03/26/24",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "Partisan Convention Report"
+    ],
+    "convention_date_verbatim": "04/02/24"
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "9,832.68",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "9,352.38",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "480.30",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Typed. index.csv labels this row form_family=utah_county_fcr_formab; the page is the NEW 'CAMPAIGN FINANCIAL DISCLOSURE' Table A/B sheet, whose 2024 vintage still cites Utah Code 17-16-6.5 \u2014 the likely cause of the mislabel."
+}

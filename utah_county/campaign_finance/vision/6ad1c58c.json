@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_Commission.Dixon.pdf",
+ "key": "6ad1c58c",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:26:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "James A. Dixon",
+   "party_printed": "Republican",
+   "office_printed": "Ut. County Commission Seat A",
+   "residence_city": "Lehi",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "No",
+   "report_date": "May 14, 2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "4105.43",
+    "contrib_cumulative": "4105.43",
+    "expend_this_period": "4105.43",
+    "expend_cumulative": "4105.43",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "4105.43",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "4105.43",
+    "line1_total_contributions_colB": "4105.43",
+    "line2_total_expenditures_colA": "4105.43",
+    "line2_total_expenditures_colB": "4105.43",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "4105.43",
+    "line5_subtotal_lines3plus4": "4105.43",
+    "line6_total_expenditures_from_line2A": "4105.43",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten and FAX-TRANSMITTED (fax header '05/16/2018 12:40 01 ... PAGE 01/05'), so the scan is coarse. Amounts are written without a thousands comma ('4105.43') - transcribed verbatim. Lines 3 and 7 are slashed-zero glyphs, transcribed as '0'. TWO DIFFERENT DATES appear: the cover signature reads 'May 14, 2018' (medium confidence - the day digits are fax-degraded) while the summary page's own 'Date of Report' box reads '5/1/18'; report_date holds the cover signature date. The office field 'Ut. County Commission Seat A' agrees with office_index (County Commission Seat A). Only the '30 Days after withdraw or elimination' box carries a check; the 'Seven days preceding the General Election' box has a fax speck, not a mark."
+  }
+ ],
+ "notes": ""
+}

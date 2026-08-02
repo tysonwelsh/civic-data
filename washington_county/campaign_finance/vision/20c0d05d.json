@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2018/Jan 7 2019_Brock R Belnap_Final FCR_01-09-2019.pdf",
+ "channel": "wayback_forms2018",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2018/Jan 7 2019_Brock R Belnap_Final FCR_01-09-2019.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2018/Jan 7 2019_Brock R Belnap_Final FCR_01-09-2019.pdf",
+   "doc_kind": "statement",
+   "sha256": "4c14a18bfd3f431ae252533dee3ee05da180b604e96c40c9624e98aba0858ad4",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Brock R Belnap",
+  "office": "County Attorney",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St George",
+  "filed_to": "Washington County Clerk"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Attorney",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "& rock & be LA a P",
+ "index_reporting_year": "2019",
+ "index_cycle_year": "2018",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "October 24, 2018",
+   "period_end": "January 7, 2018",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "997.00",
+   "contrib_gt50_last": "997",
+   "contrib_gt50_this_printed": "-0-",
+   "contrib_gt50_this": "",
+   "contrib_gt50_cum_printed": "997.00",
+   "contrib_gt50_cum": "997",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "997.00",
+   "expenses_last": "997",
+   "expenses_this_printed": "-0-",
+   "expenses_this": "",
+   "expenses_cum_printed": "997.00",
+   "expenses_cum": "997",
+   "balance_last_printed": "-0-",
+   "balance_last": "",
+   "balance_this_printed": "-0-",
+   "balance_this": "",
+   "balance_end_printed": "-0-",
+   "balance_end": "",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "the certification END date is written 'January 7, 2018' - a filer typo for 2019 (the form was received JAN 07 2019); retained verbatim"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:46:18Z"
+}

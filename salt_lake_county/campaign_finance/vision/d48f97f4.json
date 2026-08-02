@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1576.58",
+ "total_expenditures": "5,511.43",
+ "beginning_balance": "3,934.85",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "141,734.25",
+  "total_expenditures_to_date": "141734.25",
+  "line5_subtotal": "5511.43"
+ },
+ "cover": {
+  "candidate": "Mike Winder",
+  "party": "R",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "7-11-2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Winder_M_12Mayor_Final.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mike Winder",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Winder_M_12Mayor_Final.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm figures)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Final / Dissolution box is the only Type-of-Report box checked; neither amendment Yes nor No is checked. The top-row Office field reads 'SLCo Mayor'; Office Sought reads 'Mayor'. Line 7 Column A is a drawn circle/zero. Column B on this form is headed 'Year to Date' rather than 'Aggregate Total'. Arithmetic on the form checks out (3,934.85 + 1,576.58 = 5,511.43; minus 5,511.43 = 0)."
+ }
+}

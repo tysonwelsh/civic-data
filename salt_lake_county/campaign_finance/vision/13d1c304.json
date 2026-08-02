@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "13,780.00",
+ "total_expenditures": "7,337.69",
+ "beginning_balance": "0",
+ "ending_balance": "6,442.31",
+ "aggregate": {
+  "total_contributions_to_date": "13,780.00",
+  "total_expenditures_to_date": "7,337.69",
+  "line5_subtotal": "13,780.00"
+ },
+ "cover": {
+  "candidate": "Kevin Jacobs",
+  "party": "Republican",
+  "office_sought": "Assessor",
+  "district_number": "",
+  "report_type": "April 7",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4/7/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jacobsk_2014_April.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kevin E. Jacobs",
+  "office": "Assessor",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/jacobsk_2014_April.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2014 form variant: the interim boxes read 'April 7 / June 17 / September 15 / October 28'. The candidate prints as 'Kevin Jacobs' on the form (the clerk listing says 'Kevin E. Jacobs'). Office Sought and District Number cells are BLANK; office_sought taken from the top-row Office cell ('Assessor') per contract. The address and phone/email cells are redacted (blacked out) in the published PDF. Line 3 Column A is a hand-drawn open oval (zero). Arithmetic closes."
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "path": "raw/2022/2022_Livingston_Rudolf_3.31.2022_Redacted2.pdf",
+ "key": "78cd2b77",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:48:00Z",
+ "pages_read": [1, 2, 7],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County Offices and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "RUDOLF LIVINGSTON",
+   "party_printed": "",
+   "office_printed": "AUDITOR",
+   "residence_city": "",
+   "report_type_printed": "PRECEDING CONVENTION",
+   "is_amendment": "No",
+   "report_date": "4/1/22",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "2,440.00",
+    "contrib_cumulative": "2,440.00",
+    "expend_this_period": "2354.50",
+    "expend_cumulative": "2,354.50",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "2440.00",
+    "balance_close": "85.50"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "2,440.00",
+    "boxC_contributions_received_year_to_date": "2,440.00",
+    "boxD_expenditures_made_this_period": "2354.50",
+    "boxE_expenditures_made_year_to_date": "2,354.50",
+    "boxF_subtotal_before_expenditures": "2440.00",
+    "balance_at_close": "85.50"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "medium",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "NAME DISAGREES WITH THE INDEX: the page is signed and printed 'RUDOLF LIVINGSTON' in the filer's block capitals; index.csv carries 'Rudy Livingston' (his campaign email on the same page is Rudy@RudyForAuditor.com). The page face is transcribed. REPORT TYPE IS A WRITE-IN: none of the five printed radio options is marked; the filer hand-wrote a checkmark plus 'PRECEDING CONVENTION' in the margin beside the last option, and this form version prints no Convention option at all - hence report_type_printed is that write-in, at medium confidence. Office is handwritten 'AUDITOR' with no 'Utah County' prefix (index: County Auditor - agrees in substance). Box A is a slashed-zero glyph (the filer's zero), transcribed '0' at medium confidence. Comma use is inconsistent between boxes and is preserved as written (D '2354.50' vs E '2,354.50'; F '2440.00'). The close-balance figure reads '85.50' - the leading digit is a heavy hand-drawn 8, medium confidence. Address block and signature are blacked out (redacted upstream by the county). Signature date is 3/31/22; the form's own 'Date of Report' box (used here) reads 4/1/22."
+  }
+ ],
+ "notes": "This filing uses a slightly different form title from the rest of the 2022 tranche - 'Financial Campaign Report for County Offices and Local School Board Candidates' (note 'County Offices') - and its header carries no Clerk/Auditor name. Page 7 is the county's internal 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' (two staff review blocks, both dated 4/4/2022), not a report page; the OCR locator flagged it as a summary page and it is not."
+}

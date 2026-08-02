@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$2,370",
+ "total_expenditures": "$11,008.96",
+ "beginning_balance": "5,325.10",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "7695.1"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "N/A",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "Yes",
+  "amendment_of": "01/31/2023",
+  "report_date": "1/31/2023",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__43FA92A0.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__43FA92A0.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF, printed/rescanned (page 1 is a skewed photocopy; the signature block and the date are handwritten over, with the year digit overwritten - it reads 1/31/2023). BOTH the Final/Dissolution box AND the amendment 'Yes' box (date of report 01/31/2023) are checked, i.e. this is the AMENDED version of the same-day dissolution filing 3a70fb93. Column B cells are EMPTY (recorded \"\"); a figure '$69,756' is printed on BOTH the CONTRIBUTIONS RECEIVED and EXPENDITURES MADE section-header rows, outside the Column B cells - probably the aggregate total, not assigned, flagged for a human. ARITHMETIC CONTRADICTION KEPT VERBATIM: Line 5 (7695.1) minus Line 6 (11,008.96) is negative, yet Line 7 is written as '0'. Line 1 is written without cents ('$2,370')."
+ }
+}

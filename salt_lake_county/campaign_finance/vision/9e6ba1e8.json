@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,050.00",
+ "total_expenditures": "$4,017.68",
+ "beginning_balance": "$19,764.88",
+ "ending_balance": "$20,797.20",
+ "aggregate": {
+  "total_contributions_to_date": "$38,603.50",
+  "total_expenditures_to_date": "$17,806.30",
+  "line5_subtotal": "$24,814.88"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "June 17, 2014",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/DeBry_S_Council5_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/DeBry_S_Council5_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the 'June' report; the FORM checks the interim box 'Seven days before a primary election' (this older blank form prints no dates next to the interim options). Two-office-box form, both office fields 'County Council', District Number '#5'. Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. Clerk RECEIVED IN OFFICE stamp JUN 17 2014. Line 3 matches the April report's line 7 and the arithmetic is consistent."
+ }
+}

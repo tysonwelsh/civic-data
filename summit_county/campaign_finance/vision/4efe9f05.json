@@ -1,0 +1,57 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "1272",
+  "path": "raw/2014/1272_richards_final.pdf",
+  "page": 1,
+  "sha256": "44068b9eb9f79c24e8c6ac14da27aa879c2fed3b5a5021936aa2b43e3d63208a",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/1272/richards_final",
+  "index_text_quality": "high",
+  "index_format": "text"
+ },
+ "form_variant": "split50",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "last_report",
+   "cumulative_totals"
+  ],
+  "candidate_as_printed": "Vicki Sue Richards",
+  "office_verbatim": "Recorder/Surveyor",
+  "party_verbatim": "Republican",
+  "signature_date_as_printed": "12/4/2014",
+  "rows": {
+   "contrib_gt50": {
+    "current_report": "$0.00",
+    "last_report": "$5,430.61",
+    "cumulative_totals": "$5,430.61"
+   },
+   "contrib_le50": {
+    "current_report": "$0.00",
+    "last_report": "$20.00",
+    "cumulative_totals": "$20.00"
+   },
+   "total_expenditures": {
+    "current_report": "$0.00",
+    "last_report": "$5,430.61",
+    "cumulative_totals": "$5,450.61"
+   },
+   "campaign_balance": {
+    "current_report": "$0.00",
+    "last_report": "$0.00",
+    "cumulative_totals": "$0.00"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "high"
+ },
+ "itemized_transcribed": false,
+ "notes": "Born-digital typed cover, all three columns printed. Column-order cross-check: Last Report reproduces doc 1093's Current contributions; the Last-Report expenditure cell ($5,430.61) differs from doc 1093's $5,450.61 — a filer transcription slip, retained verbatim."
+}

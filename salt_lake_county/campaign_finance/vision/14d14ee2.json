@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$7,036.48",
+ "total_expenditures": "$8,160.78",
+ "beginning_balance": "$1,124.30",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$2,975.43",
+  "total_expenditures_to_date": "$3,035.92",
+  "line5_subtotal": "$8,160.78"
+ },
+ "cover": {
+  "candidate": "David M Muir",
+  "party": "UUP",
+  "office_sought": "_Auditor",
+  "district_number": "SLCo",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/05/23",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Muir-David__EB6333D9.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Muir, David",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Muir-David__EB6333D9.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Final/Dissolution report, closing balance $0.00 as the dissolution rule requires. Column B (Aggregate Total) carries the same stale $2,975.43/$3,035.92 pair this filer printed on every report - as printed, not reconciled. Form title reads 2020 (template reuse)."
+ }
+}

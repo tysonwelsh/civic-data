@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "5,346.08",
+ "total_expenditures": "591.47",
+ "beginning_balance": "11,413.10",
+ "ending_balance": "16,167.71",
+ "aggregate": {
+  "total_contributions_to_date": "17,346.08",
+  "total_expenditures_to_date": "1,178.37",
+  "line5_subtotal": "16,759.18"
+ },
+ "cover": {
+  "candidate": "Lee Gardner",
+  "party": "Republican",
+  "office_sought": "S.L. Co. Assessor",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "Yes",
+  "amendment_of": "June 20, 2006",
+  "report_date": "7-21-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lgardner_june202006amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lee Gardner",
+  "office": "Assessor",
+  "election_year": "2020",
+  "source_pdf": "raw/clerk_legacy/lgardner_june202006amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Every figure writes its cents as a raised superscript over a rule (e.g. 5,346 with a superscript 08); transcribed with a decimal point. The form checks the June 20 interim box AND the amendment 'Yes' box with date of report 'June 20, 2006' - i.e. this amends the June 20 report, consistent with the clerk label. The manifest's election_year of 2020 is wrong: the form is the 2006 Financial Disclosure Report, signed 7-21-06 and clerk-stamped JUL 21 2006. Lines 3+4=5 and 5-6=7 both reconcile exactly, and Line 3 (11,413.10) matches Line 7 of this candidate's April 5 report."
+ }
+}

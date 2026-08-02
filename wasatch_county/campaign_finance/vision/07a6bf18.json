@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "index_path": "raw/2020/2020_OctDBurgener.pdf",
+    "cache_key": "07a6bf18",
+    "entity": "wasatch_county",
+    "election_year": "2020",
+    "reporting_period_index": "October 2020 (7 days before General)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_fcr_3line",
+    "form_statute_verbatim": "17-15-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Diane G Burgener",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Treasurer",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "WASATCH COUNTY CLERK",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "10-27-20",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": [
+      "7 Days preceding the General Election"
+    ]
+  },
+  "stated": {
+    "total_contributions": {
+      "last_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "442.15",
+        "confidence": "high"
+      },
+      "this_report": {
+        "value": "0",
+        "confidence": "high"
+      },
+      "cumulative": {
+        "value": "442.15",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "",
+        "confidence": ""
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "Balance line blank in all three columns."
+}

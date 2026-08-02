@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$8575.00",
+ "total_expenditures": "$218.19",
+ "beginning_balance": "$475.20",
+ "ending_balance": "$8832.01",
+ "aggregate": {
+  "total_contributions_to_date": "$16035",
+  "total_expenditures_to_date": "$7202.94",
+  "line5_subtotal": "$9050.20"
+ },
+ "cover": {
+  "candidate": "GARY W. OTT",
+  "party": "REPUBLICAN",
+  "office_sought": "RECORDER",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "20 June 06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_ott_gary06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Recorder",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_ott_gary06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "This filer writes cents as a SUPERSCRIPT over a short rule (e.g. $8575 with a raised 00); transcribed with a decimal point inserted - the dollar figures and the $ sign are verbatim. Line 1 Column B: the cents superscript runs off the right edge of the cell and cannot be read, so only the dollars ('$16035') are transcribed - the cents are unknown, hence low confidence. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 1 of 3, Ott, '20 Jun'. Arithmetic is internally consistent (475.20 + 8575.00 = 9050.20; 9050.20 - 218.19 = 8832.01)."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "AARON D. KENNARD",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": "1-4-06",
+  "form_year": null
+ },
+ "confidence": {
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/akennard_dissolutionreport07.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Aaron D. Kennard",
+  "office": "Sheriff",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/akennard_dissolutionreport07.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Single-page 'Dissolution of a Candidate Campaign' notice form (k://election/candidateinfo/financialdisclosures/04pccdissolution.doc), NOT the Financial Disclosure Report; it has no Type-of-Report checkboxes, no party/office/district boxes and no Summary Page, so those fields are null (field does not exist). Handwritten entries: Name of Committee 'KENNARD FOR SHERIFF'; Name of County Office Candidate 'AARON D. KENNARD' (middle initial is ambiguous between D and O); Committee Secretary 'SANDRA KENNARD'; Date Committee Was Established 'JAN - 1990'. Signature date reads 1-4-06 but the clerk RECEIVED stamp is JAN 05 2007 - the filer most likely meant 1-4-07; transcribed verbatim as written. Stamped COPY."
+ }
+}

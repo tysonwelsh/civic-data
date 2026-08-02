@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Renee_Tribe__2.pdf",
+ "key": "686cd963",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 2, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Renee Tribe",
+   "party_printed": "",
+   "office_printed": "County Commissioner Seat A",
+   "residence_city": "Lindon",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "",
+   "report_date": "08/04/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "400.00",
+    "contrib_cumulative": "28,390.00",
+    "expend_this_period": "98.66",
+    "expend_cumulative": "24,205.56",
+    "balance_beginning": "2,136.64",
+    "subtotal_before_expend": "2536.64",
+    "balance_close": "2437.98"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "2,136.64",
+    "boxB_contributions_received_this_period": "400.00",
+    "boxC_contributions_received_year_to_date": "28,390.00",
+    "boxD_expenditures_made_this_period": "98.66",
+    "boxE_expenditures_made_year_to_date": "24,205.56",
+    "boxF_subtotal_before_expenditures": "2536.64",
+    "boxG_balance_at_close": "2437.98"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten; photographed pages, cropped at the head and foot (page 1 loses the 'Name of Candidate' label band and the Date of Filing value; page 4 loses the 'Summary Page' heading). NEITHER amendment checkbox is marked - both 'No' and 'Yes' are empty - so is_amendment is '' (left blank by the filer), NOT 'No'. The signature-line Date reads 08/04/2022; the month's first glyph is a heavy loop and is transcribed at medium confidence. Office is written 'County Commissioner Seat A' (the filer's earlier 2022 filing wrote 'Utah County Commissioner Seat A'); it agrees with index.csv's 'County Commission Seat A'."
+  }
+ ],
+ "notes": "The locator listed pages 1 and 2 as cover pages and found no summary page; in fact page 2 is a SCHEDULE A contributions sheet (two itemized entries dated 6/23/22, 'Subtotal for this page $400.00' / 'Total Contributions Received $400.00'), and page 4 IS the Box A-G Summary Page, from which the totals above are taken. Schedule A line items are not transcribed (out of scope for this tranche)."
+}

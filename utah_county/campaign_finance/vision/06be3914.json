@@ -1,0 +1,58 @@
+{
+ "path": "raw/2020/2020_Sakievich_06.29.30_Revised_Redacted_Redacted.pdf",
+ "key": "06be3914",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:12:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Thomas V. Sakievich",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commission",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "Yes",
+   "report_date": "JUNE 23, 2020",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "28,413.88",
+    "contrib_cumulative": "",
+    "expend_this_period": "21,410.78",
+    "expend_cumulative": "",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "28,413.88",
+    "balance_close": "7,003.10"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "28,413.88",
+    "line1_total_contributions_colB": "",
+    "line2_total_expenditures_colA": "21,410.78",
+    "line2_total_expenditures_colB": "",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "",
+    "line5_subtotal_lines3plus4": "28,413.88",
+    "line6_total_expenditures_from_line2A": "",
+    "line7_balance_at_close": "7,003.10"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "medium",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "",
+    "expend_this_period": "high",
+    "expend_cumulative": "",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "The AMENDED / revised Primary filing: the amendment question is checked 'Yes, Date of Report' with a handwritten 'Jun 23 2020'. FOUR summary cells are LEFT BLANK BY THE FILER and are '' not zero: line 1 Column B, line 2 Column B, line 4 and line 6. Line 3 is a typed '0'. The filer hand-wrote 'UTAH COUNTY COMMISSION' on the Office: line and left District: blank; the typed Office Seeking box also reads 'Utah County Commission'. OFFICE DISAGREEMENT: the page states no SEAT; office_index says 'County Commission Seat C'. Verification block partly redacted upstream by the county (black bar); handwritten Date 'JUNE 23, 2020' (medium confidence). Summary page hand-numbered 'Page 6 of 6'."
+  }
+ ],
+ "notes": "This filing is content-identical to key 0b284ae6 (same revised Primary report, same figures, same handwriting) - the county published the same revised document twice under different filenames and different index reporting_period labels ('Primary' here, 'Tom Sakievich - Revised - 06.29.20' there)."
+}

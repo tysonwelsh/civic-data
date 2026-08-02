@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "index_path": "raw/2024/202406_JamiSmithHewlett.pdf",
+    "cache_key": "e44e279c",
+    "entity": "wasatch_county",
+    "election_year": "2024",
+    "reporting_period_index": "June 2024 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "wasatch_disclosure_tableab",
+    "form_statute_verbatim": "",
+    "filing_regime": "period",
+    "is_incremental": true,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Jami Hewlett",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "",
+      "confidence": ""
+    },
+    "party_verbatim": {
+      "value": "",
+      "confidence": ""
+    },
+    "addressee": {
+      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6/12/24",
+      "confidence": "medium"
+    },
+    "signed": true,
+    "report_periods_checked": []
+  },
+  "stated": {
+    "total_contributions": {
+      "period": {
+        "value": "N/A",
+        "confidence": "high"
+      }
+    },
+    "total_expenditures": {
+      "period": {
+        "value": "N/A",
+        "confidence": "high"
+      }
+    },
+    "balance_end": {
+      "period": {
+        "value": "N/A",
+        "confidence": "high"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "All three TOTALS cells read 'N/A' rather than a figure \u2014 the stated totals are therefore BLANK, not zero. No period box marked; 'Name of Office' and party left blank."
+}

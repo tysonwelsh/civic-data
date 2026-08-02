@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$84,284.53",
+ "total_expenditures": "$89,951.83",
+ "beginning_balance": "$39,431.50",
+ "ending_balance": "$33,764.20",
+ "aggregate": {
+  "total_contributions_to_date": "$135,631.53",
+  "total_expenditures_to_date": "$101,894.33",
+  "line5_subtotal": "$123,716.03"
+ },
+ "cover": {
+  "candidate": "Ben McAdams",
+  "party": "D",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5th",
+  "report_date": "4-19-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/McAdams_B_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ben McAdams",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/McAdams_B_12_April_Interim_Amend_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, escalated to -r 250 for page 2",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDMENT to the April 5 interim: the 'April 5' interim box is checked AND the amendment 'Yes' box is checked with 'April 5th' written on the date-of-report line. Signed 4-19-12, clerk-stamped APR 19 2012. Top-row Office 'Mayor' and Office Sought 'Mayor' agree; District Number holds a hand-drawn dash (recorded as blank). The Summary Page's own header box is left entirely blank. What the amendment CHANGED: Column A is IDENTICAL to the original April filing (McAdams_B_12_April_Interim_Mayor_Redacted.pdf) line for line, while Column B - blank on the original - is now filled in ($135,631.53 and $101,894.33). Column A arithmetic checks out (39,431.50 + 84,284.53 = 123,716.03; minus 89,951.83 = 33,764.20). The Column B figures are the hardest cells on the page: the thousands digit of Line 1 Col B was ambiguous (0 vs 6) at 110 and 250 dpi, so it was re-rendered as a 400 dpi crop where it resolves as a 6, and both Col B figures are independently corroborated by the June filing's Year-to-Date (294,258.33 - 158,626.80 = 135,631.53; 197,404.87 - 95,510.54 = 101,894.33). Both are still flagged medium as a reading confidence."
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "1a71c3e7505009c48c591e22a003b5fdfd1f201ec98ef475ffb25518b7dca2d5",
+ "canonical_path": "raw/2020/2020_cc_Adam_K_S_Tripp_pdf.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Adam_K_S_Tripp_pdf.pdf",
+  "raw/2020/2020_st_tripp_summary.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "Adam KS Tripp",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Logan 1",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "Democratic",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Logan",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "Jess Bradfield",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "11/18/2020",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK-NOV 23 '20 PM 3:15:23",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "2,350.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "25.00",
+     "c": "medium"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "697.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "",
+     "c": "high"
+    },
+    "this": {
+     "v": "1,678.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Logan 1",
+  "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'Logan 1'; 'Political Party' reads 'Democratic'",
+  "confidence": "high"
+ },
+ "notes": "Addressed to 'Jess Bradfield' \u2014 the successor County Clerk/Auditor. Only the THIS-REPORT column is filled; LAST-REPORT and CUMULATIVE are blank on every line. Line 2 reads '25.00' or '26.00' (the digit is ambiguous) \u2014 recorded 25.00 at medium confidence."
+}

@@ -1,0 +1,46 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": null,
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": null,
+  "is_amendment": null,
+  "amendment_of": null,
+  "report_date": null,
+  "form_year": null
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/clerk_legacy/dwilde_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/dwilde_apr52006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (all 4 pages also re-rendered at -r 150 and contrast-stretched)",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DAMAGED/BLANK SCAN \u2014 the PDF holds four 1274x1667 JPEG scans that are entirely blank. Pixel range on every page is 251-255 (pure scanner noise); contrast-stretching reveals no rules, no letterhead, no handwriting anywhere. pdftotext returns nothing. Nothing is recoverable from this file; the April 5 2006 Wilde report would need re-acquisition from the clerk. Worth a human's attention."
+ }
+}

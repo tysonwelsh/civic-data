@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountySurveyor-RatcliffeGary-102610.pdf",
+ "key": "36982384",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:18:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "GARY RATCLIFFE",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "COUNTY SURVEYOR",
+   "residence_city": "SPRINGVILLE",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/26/10",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "-0-",
+    "contrib_cumulative": "2,700.00",
+    "expend_this_period": "-0-",
+    "expend_cumulative": "6,361.05",
+    "balance_beginning": "-3,661.05",
+    "subtotal_before_expend": "-3,661.05",
+    "balance_close": "-3,661.05"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "-0-",
+    "line1_total_contributions_colB": "2,700.00",
+    "line2_total_expenditures_colA": "-0-",
+    "line2_total_expenditures_colB": "6,361.05",
+    "line3_balance_beginning": "-3,661.05",
+    "line4_total_contributions_from_line1A": "-0-",
+    "line5_subtotal_lines3plus4": "-3,661.05",
+    "line6_total_expenditures_from_line2A": "-0-",
+    "line7_balance_at_close": "-3,661.05"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; fax scan (header 'Oct.26. 2010 10:18PM Ut Co Public Works'). Zeros are written as the dash-zero-dash glyph '-0-' and transcribed verbatim. Lines 3, 5 and 7 are written as NEGATIVE amounts ('$ -3,661' with a raised '05') - the minus sign is clearly present and is transcribed; it is the filer's own figure and no arithmetic was performed to check or correct it. Medium confidence on those three only because the handwritten thousands digit sits against the dollar sign. NOTE for a downstream reader: this filer's PRIOR report (key 9442c520, 6/14/10) closed at '-0-', so the beginning balance here does not carry that forward - the discrepancy is the filer's, recorded as printed, not reconciled. Cents are raised superscripts throughout. office_index 'County Surveyor' agrees with the page. candidate_index was blank; the page names GARY RATCLIFFE."
+  }
+ ],
+ "notes": ""
+}

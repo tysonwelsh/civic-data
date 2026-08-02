@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "35,400",
+ "total_expenditures": "36,454",
+ "beginning_balance": "1054",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "36,454"
+ },
+ "cover": {
+  "candidate": "RANDY HORIUCHI",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNCIL",
+  "district_number": "AT LARGE A",
+  "report_type": "Year-End Report: January 31 of each year; Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-31-07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/rhoriuchi_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/rhoriuchi_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BOTH the Year-End and the Final Report boxes are checked; amendment = No. Clerk-stamped RECEIVED JAN 31 2007; Summary Page header 'HORIUCHI, 1-31-07, page 2 of 4'. No cents anywhere - whole dollars only, kept verbatim. Column B blank on both lines. Line 7 is a hand-drawn slashed zero (a closing balance of zero, consistent with a final report accompanied by the dissolution notice, key d7068972). Arithmetic exact: 1054 + 35,400 = 36,454; less 36,454 = 0. This is the un-amended companion of key 439b7a50, whose figures differ completely (1000 / 1054 / 2054) - the amendment appears to restate the year on a much smaller basis."
+ }
+}

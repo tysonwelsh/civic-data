@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$13,000.00",
+ "total_expenditures": "$10,027.73",
+ "beginning_balance": "$1,586.00",
+ "ending_balance": "$4,558.27",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$14,586.00"
+ },
+ "cover": {
+  "candidate": "Nicholas Roberts",
+  "party": "Republican",
+  "office_sought": "_Sheriff",
+  "district_number": "Sheriff",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "10/31/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Roberts-Nicholas__C287543B.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Roberts, Nicholas",
+  "office": "Sheriff",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Roberts-Nicholas__C287543B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Opening balance $1,586.00 does not continue any of the three September closing balances this filer printed - as printed, not reconciled. Form title reads 2020 (template reuse)."
+ }
+}

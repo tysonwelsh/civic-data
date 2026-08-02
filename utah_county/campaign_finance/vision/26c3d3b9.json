@@ -1,0 +1,59 @@
+{
+ "path": "raw/2010/2010_CountyTreasurer-KirkRobert-102610.pdf",
+ "key": "26c3d3b9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:45:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Robert Kirk",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Treasurer",
+   "residence_city": "Lehi",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/26/2010",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "3.46",
+    "contrib_cumulative": "503.46",
+    "expend_this_period": "0",
+    "expend_cumulative": "503.46",
+    "balance_beginning": "(3.46)",
+    "subtotal_before_expend": "0",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "3.46",
+    "line1_total_contributions_colB": "503.46",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "503.46",
+    "line3_balance_beginning": "(3.46)",
+    "line4_total_contributions_from_line1A": "3.46",
+    "line5_subtotal_lines3plus4": "0",
+    "line6_total_expenditures_from_line2A": "0",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten cursive, crisp; no dollar signs written on this summary page. LINE 3 is written inside hand-drawn parentheses/angle brackets, '(3.46)' - the accountant's negative convention, carried forward from this filer's previous report (key d1bd54d2, which closed at '($3.46)'). Transcribed VERBATIM with the parentheses rather than converted to '-3.46'. Lines 2 Column A, 5, 6 and 7 are the filer's slashed-zero glyph, transcribed as '0' at medium confidence. Cover page Office Seeking reads 'Utah County Treasurer' here, where the same filer's June report (d1bd54d2) wrote only 'Treasurer' - both are transcribed as printed. office_index said 'County Treasurer'; the page says 'Utah County Treasurer' (naming-convention difference, not a conflict). candidate_index was blank; the page names Robert Kirk. Cover signature date is '10/26/2010'; the summary page's own Date of Report box writes it '10-26-10'. Page box reads 'Page 2 of 4'."
+  }
+ ],
+ "notes": ""
+}

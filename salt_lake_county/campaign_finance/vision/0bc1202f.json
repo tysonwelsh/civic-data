@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "11,419.52",
+ "total_expenditures": "5999.80",
+ "beginning_balance": "2674.30",
+ "ending_balance": "8094.02",
+ "aggregate": {
+  "total_contributions_to_date": "35,786.12",
+  "total_expenditures_to_date": "27,692.10",
+  "line5_subtotal": "14,093.82"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "County Council At Large C",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-14-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jauger_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten; most cents are raised superscripts over a rule and are transcribed with a decimal point. Signature date 9-14-06 while the Summary Page 'Date of Report' box reads 9-15-06. Neither the amendment Yes nor No box is checked. Arithmetic closes and Line 7 (8094.02) matches the October report's Line 3."
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "filing_key": "wayback_financialreports|2014-06-17|CORY C PULSIPHER",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/6 17 2014 Summary - Cory C Pulsipher_06-17-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Summary - Cory C Pulsipher_06-17-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "65fe9576c0646b39c323f7ae4e7cf16d4ed8ce107071a3d6112082e25603969e",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Contributions - Cory C Pulsipher_06-17-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "b666e6be58eb5dff30e5d8233a760798a34b935b8b18602984b80eea872e2049",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Expenditures - Cory C Pulsipher_06-17-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "526530197296b0618107314c595e2a8aad1ceff5bb05029615a9432ff02eed13",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Cory C Pulsipher",
+  "office": "SHERIFF",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Sheriff",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Cory C Pulsipher",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-03",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "5559.42",
+   "contrib_le50": "0.0",
+   "expenses": "2159.87",
+   "balance": "3399.55"
+  },
+  {
+   "submitted": "2014-06-17",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "2450.0",
+   "contrib_le50": "0.0",
+   "expenses": "2201.37",
+   "balance": "3648.18"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-06-17",
+   "date_due": "2014-06-17",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "2450.0",
+   "contrib_gt50_this": "2450",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "0.0",
+   "contrib_le50_this": "0",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "2201.37",
+   "expenses_this": "2201.37",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "3648.18",
+   "balance_end": "3648.18",
+   "balance_last_printed": "3399.55",
+   "balance_last": "3399.55",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

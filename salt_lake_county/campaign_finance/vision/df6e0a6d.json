@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$66,448.",
+ "total_expenditures": "$75,414.78",
+ "beginning_balance": "16,535.97",
+ "ending_balance": "$7,569.19",
+ "aggregate": {
+  "total_contributions_to_date": "$98,862.",
+  "total_expenditures_to_date": "$91,668.33",
+  "line5_subtotal": "82,983.97"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large \"C\"",
+  "report_type": "Interim Report: October 30 (for the period ending October 29, 2012)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-30-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_Oct_CouncilC_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_Oct_CouncilC_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110, page 2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The clerk listing calls this the 'October' report and the FORM agrees (October 30 box checked). Line 1 Column A ends in a raised dash for zero cents and Line 1 Column B in a bare trailing period - recorded without the dash. Summary-page header box is blank. Neither amendment box is checked. Arithmetic consistent (16,535.97 + 66,448 = 82,983.97; less 75,414.78 = 7,569.19), and the closing balance matches Line 3 of the year-end filing (key 622005c3)."
+ }
+}

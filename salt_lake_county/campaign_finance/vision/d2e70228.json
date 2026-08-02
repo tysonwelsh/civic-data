@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7525.00",
+ "total_expenditures": "250.00",
+ "beginning_balance": "42.01",
+ "ending_balance": "7317.01",
+ "aggregate": {
+  "total_contributions_to_date": "7606.26",
+  "total_expenditures_to_date": "403.23",
+  "line5_subtotal": "7567.01"
+ },
+ "cover": {
+  "candidate": "DAVID A. WILDE",
+  "party": "REPUBLICAN",
+  "office_sought": "CO. COUNCIL",
+  "district_number": "3",
+  "report_type": "June 20",
+  "is_amendment": "Yes",
+  "amendment_of": "6/19/06",
+  "report_date": "6-20-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_wilde_david06amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "David Wilde",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_wilde_david06amendment.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Amendment to the 6/19/06 June 20 report (key 086e8df6). Line 1 Column A is written with superscript cents ('7525' with a raised '00'). No '$' signs on this copy. Summary header: page 2 of 4, WILDE, 6-20-06. Received stamp JUN 20 2006."
+ }
+}

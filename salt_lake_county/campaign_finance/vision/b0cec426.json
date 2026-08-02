@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$25,407",
+ "total_expenditures": "$51,648.40",
+ "beginning_balance": "$41,932.49",
+ "ending_balance": "$15,691.09",
+ "aggregate": {
+  "total_contributions_to_date": "$467,101.46",
+  "total_expenditures_to_date": "$451,420.37",
+  "line5_subtotal": "$67,339.49"
+ },
+ "cover": {
+  "candidate": "Suzanne Harrison",
+  "party": "Dem",
+  "office_sought": "County Council",
+  "district_number": "At-Large E",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "7/17/2023",
+  "report_date": "1/31/23",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Harrison-Suzanne__FBE429BE.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Harrison, Suzanne",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Harrison-Suzanne__FBE429BE.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "AMENDED year-end report: the amendment Yes box is checked with date 7/17/2023, but the signature/report Date line and the Summary Page 'Date of Report' both read 1/31/23 (the date of the report being amended). It restates the year-end figures filed under key 6f820442 ($33,587.00 contributions / $48,457.49 opening / $32,385.28 closing) as $25,407 / $41,932.49 / $15,691.09; the opening balance now matches the 'effective cash-on-hand' annotation on the Nov 1 report. Line 1 Column A is printed '$25,407' with no cents - verbatim. District Number typed 'At-Large E'."
+ }
+}

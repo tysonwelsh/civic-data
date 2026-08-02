@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "f81e028c0eb2169e6ee6ba9f156dcf61b96203a6d00c224ae07bd82fb9eb6a03",
+ "canonical_path": "raw/2024/2024_cc_2024_David_Erickson.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_David_Erickson.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "David Erickson", "c": "high"},
+  "office_verbatim":   {"v": "", "c": "high"},
+  "office_district":   {"v": "", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Smithfield", "c": "high"},
+  "addressee":         {"v": "Cache County CLERK/AUDITOR (preprinted 'Where to File': Email elections@cachecounty.gov; Mail: 179 North Main St. Suite 102, Logan, Utah 84321)", "c": "high"},
+  "report_type_marked":{"v": "Financial Report for Primary election (handwritten line with a marked circle; none of the three preprinted options -- '30 Days after elimination', 'Seven days preceding the General Election', '30 Days after the General Election' -- is marked)", "c": "high"},
+  "date_signed":       {"v": "6-18-24", "c": "high"},
+  "received_stamp":    {"v": "Received 4:55pm", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "0", "c": "medium"},
+   "B_contrib_this_period":    {"v": "$2,983.08", "c": "high"},
+   "C_contrib_ytd":            {"v": "$380.00", "c": "high"},
+   "D_expend_this_period":     {"v": "3,363.08", "c": "high"},
+   "E_expend_ytd":             {"v": "$3,363.08", "c": "medium"},
+   "F_subtotal_before_expend": {"v": "$3,363.08", "c": "high"},
+   "closing_balance":          {"v": "0", "c": "medium"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "$2,983.08", "c": "high"},
+   "total_expenditures_made":      {"v": "$3,363.08", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "undetermined",
+  "office_std": "",
+  "seat": "",
+  "evidence": "page 1 'Office' box is completely BLANK -- the filer wrote nothing on the office line. No district/seat text anywhere on the cover. Supporting-only (NOT determinative per the protocol scope rule): the form is the Cache County Clerk/Auditor instrument, and Schedule B (page 4) itemizes '1-2-2024 / Cache County Gov. / County Filing Fee / 170.00', which is consistent with a county candidacy but does not name an office.",
+  "confidence": "high"
+ },
+ "notes": "PDF page order is cover(1), Schedule A(2), Summary(3), Schedule B(4) -- the Summary is NOT the last physical page in this filing; Schedule B carries the filer's handwritten 'Page 3'. LEDGER CONFLICT: the ledger records scope_status=county_confirmed, but the page evidence cannot support that -- the Office box is blank, so scope is recorded here as 'undetermined' per the protocol rule that scope is decided by the office the filer wrote, never by the instrument. Candidate name matches the ledger ('David Erickson'). OVERWRITES: Box B has a heavily scribbled-out figure (illegible under the scribble) overwritten in the same green ink with '$2,983.08'; on Schedule A (page 2) both the 'Subtotal for this page' and the 'Total Contributions Received' lines show '380.00' struck through with '$2,983.08' written above/below in green ink -- the value recorded here is the surviving overwrite in each case. ARITHMETIC DISAGREEMENT NOTED, NOT RESOLVED: Box C (contributions year-to-date, $380.00) is smaller than Box B (contributions this period, $2,983.08), and the Schedule A total ($2,983.08) does not agree with Box F ($3,363.08); nothing was computed or reconciled here -- all figures are as printed. ZERO GLYPHS: Box A and 'Balance at Close' each contain a hand-drawn slashed/open O glyph used as a zero -- transcribed '0' at confidence medium per protocol. Box E is written as '$3,3?3.08' with the third digit overwritten/retraced; it reads as 3,363.08 and matches Box D and Box F, but confidence is medium on that one digit. Box C cents are written as a superscript flourish read as '00'. The Summary page's own 'Name of Candidate' / 'Date of Report' / 'Page' footer boxes are blank. The received stamp is red handwriting reading 'Received 4:55pm' followed by initials that are not legible; no date appears in the stamp. Form prints no statutory citation line."
+}

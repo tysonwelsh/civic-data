@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "48dde135",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p125",
+ "page_start": 125,
+ "page_end": 127,
+ "summary_page": 125,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:11:00Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Brian Rowley",
+ "office_stated": "County Commission Seat C",
+ "report_type_stated": "December 5 (final report)",
+ "filing_date_stated": "2024-12-05",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "15.00",
+   "this": "0",
+   "cum": "15.00"
+  },
+  "expenditures": {
+   "last": "0",
+   "this": "0",
+   "cum": "0"
+  },
+  "ending_balance": {
+   "last": "15.00",
+   "this": "0",
+   "cum": "15.00"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN final report. County-redacted address."
+}

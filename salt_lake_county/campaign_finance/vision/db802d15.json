@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4490.75",
+ "total_expenditures": "2257.17",
+ "beginning_balance": "0",
+ "ending_balance": "2233 58",
+ "aggregate": {
+  "total_contributions_to_date": "4490.75",
+  "total_expenditures_to_date": "2257.17",
+  "line5_subtotal": "4490.75"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council - At Large C",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "4-3-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jauger_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 to inspect Line 7)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 3 Column A is a hand-drawn slashed \u00d8 (zero). Line 7 is written WITHOUT a visible decimal point \u2014 '2233 58' with a gap where the point would be \u2014 and is recorded exactly that way rather than converted; the value is consistent with 2,233.58 (4,490.75 - 2,257.17). The candidate wrote the office across the Office Sought / District Number cells as 'Council - At Large C', so district_number is empty."
+ }
+}

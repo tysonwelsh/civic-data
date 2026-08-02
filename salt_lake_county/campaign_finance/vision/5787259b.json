@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Jimmy Cadman",
+  "party": "PC",
+  "office_sought": "at Large",
+  "district_number": "",
+  "report_type": "Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/07",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "medium",
+  "party": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jcadman_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jimmy L. Cadman",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jcadman_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "The FINAL REPORT box is checked; the 'January 31 of each year' box is NOT (despite the file name). Political Party box holds two letters read as 'PC' (low confidence). Office Sought reads 'at Large'; District Number blank. All seven Column A cells hold hand-drawn ovals read as 0 (medium); both Column B cells are BLANK. Summary Page header carries the name 'Jimmy Cadman' and date 1/31/07."
+ }
+}

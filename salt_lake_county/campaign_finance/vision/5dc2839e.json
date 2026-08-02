@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "7,738.00",
+ "total_expenditures": "7,133.88",
+ "beginning_balance": "0",
+ "ending_balance": "604.12",
+ "aggregate": {
+  "total_contributions_to_date": "7,738.00",
+  "total_expenditures_to_date": "7,133.88",
+  "line5_subtotal": "7,738.00"
+ },
+ "cover": {
+  "candidate": "Merrill Cook",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "April 5, 2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Cook_M_12_April_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Merrill Cook",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Cook_M_12_April_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Two-office-box form; the top-row 'Office' and 'Office Sought' both read 'Salt Lake County Mayor'. Cents are written as raised superscripts after a comma-shaped separator ('7,738,' + superscript 00) and are transcribed with a decimal point. Line 3 is a hand-drawn plain zero (open circle, not slashed), recorded as 0. Neither amendment box is checked. The header block reads 'Page 2 of 4'. Arithmetic is internally consistent."
+ }
+}

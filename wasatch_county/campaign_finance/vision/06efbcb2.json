@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "index_path": "raw/2010/2010_Holly-Yergensen-6-14-10.pdf",
+    "cache_key": "06efbcb2",
+    "entity": "wasatch_county",
+    "election_year": "2010",
+    "reporting_period_index": "June 2010 (pre-primary)",
+    "form_family_index": "utah_county_fcr_formab",
+    "form_variant_vision": "carr_5_5_pg_4line",
+    "form_statute_verbatim": "17-16-6.5",
+    "filing_regime": "cumulative",
+    "is_incremental": false,
+    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+    "pages_read": [
+      1
+    ],
+    "text_layer_corroborated_lines": [],
+    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+    "transcribed_utc": "2026-08-01T22:30:00Z"
+  },
+  "cover": {
+    "candidate_verbatim": {
+      "value": "Holly Marie Yergensen",
+      "confidence": "high"
+    },
+    "office_verbatim": {
+      "value": "Treasurer",
+      "confidence": "high"
+    },
+    "party_verbatim": {
+      "value": "Republican",
+      "confidence": "high"
+    },
+    "residence_city": {
+      "value": "Heber",
+      "confidence": "high"
+    },
+    "addressee": {
+      "value": "Brent Titcomb, Wasatch County Clerk",
+      "confidence": "high"
+    },
+    "signature_date_verbatim": {
+      "value": "6.14.10",
+      "confidence": "high"
+    },
+    "signed": true,
+    "report_periods_checked": null
+  },
+  "stated": {
+    "contrib_gt50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "contrib_le50": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "0",
+        "confidence": "high"
+      }
+    },
+    "total_expenses": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "830.36",
+        "confidence": "medium"
+      }
+    },
+    "balance_end": {
+      "last_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "this_report": {
+        "value": "",
+        "confidence": ""
+      },
+      "cumulative": {
+        "value": "830.36",
+        "confidence": "medium"
+      }
+    }
+  },
+  "itemized_transcribed": false,
+  "notes": "The CUMULATIVE expense and balance figures are written over a struck-out '535.36'; the later values are transcribed. The LAST REPORT and THIS REPORT columns were left blank."
+}

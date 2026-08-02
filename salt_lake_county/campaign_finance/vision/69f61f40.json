@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$282.63",
+ "total_expenditures": "$282.63",
+ "beginning_balance": "$0.00",
+ "ending_balance": "$0.00",
+ "aggregate": {
+  "total_contributions_to_date": "$0.00",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$282.63"
+ },
+ "cover": {
+  "candidate": "Ashley R Liewer",
+  "party": "Democrat",
+  "office_sought": "_Council - District",
+  "district_number": "3",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "04/04/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Liewer-Ashley__0A317581.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Liewer, Ashley",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Liewer-Ashley__0A317581.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Stale '2020' form template. Column B is $0.00 on both lines although Column A is $282.63; recorded verbatim. Line 7 is $0.00 while the NEXT filing (key f1f3f32d) opens at $282.63 - an internal inconsistency in the filer's series, not corrected here. Office Sought typed with the leading-underscore artifact. Digital signature stamp 04/04/22 - 5:33 PM."
+ }
+}

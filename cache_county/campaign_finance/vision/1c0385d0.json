@@ -1,0 +1,106 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "6435043a6ca349b0b6733885fedfe792398a0b827fc11c7eb9dd8d2fb5023a74",
+ "canonical_path": "raw/2022/2022_cc_D_Chad_Jensen_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_D_Chad_Jensen_22G.pdf",
+  "raw/2022/2022_wb_D_Chad_Jensen_22G.pdf"
+ ],
+ "pages_read": [
+  1,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "D. CHAD JENSEN",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "SHERIFF",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Paradise",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "30 Days after the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "12/8/22",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 DEC 8 PM 4:02",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "0",
+    "c": "medium"
+   },
+   "B_contrib_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "C_contrib_ytd": {
+    "v": "$618.20",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "0",
+    "c": "medium"
+   },
+   "E_expend_ytd": {
+    "v": "$618.20",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "0",
+    "c": "medium"
+   },
+   "closing_balance": {
+    "v": "",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "Sheriff",
+  "seat": "",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'SHERIFF'",
+  "confidence": "high"
+ },
+ "notes": "\u26a0 THIS FILING IS THE OTHER WAY ROUND FROM THE FILER'S OWN NOVEMBER ONE: boxes B (contributions this period), D (expenditures this period), A and F carry a hand-drawn slashed-O zero glyph (transcribed '0' at medium confidence), while ONLY the Year-to-Date boxes C and E carry $618.20. The 'Balance at Close of Reporting Period' box is left entirely EMPTY \u2014 recorded blank, not zero. Report type: '30 Days after the General Election'."
+}

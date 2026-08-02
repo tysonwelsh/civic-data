@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council - At Large C",
+  "district_number": "",
+  "report_type": "June 20",
+  "is_amendment": "Yes",
+  "amendment_of": "6-19-06",
+  "report_date": "8-2-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "report_type": "high",
+  "office_sought": "high",
+  "is_amendment": "high",
+  "amendment_of": "high",
+  "report_date": "high",
+  "form_year": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_61906amendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/jauger_61906amendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "NO SUMMARY PAGE IN THIS FILING. The PDF has a damaged cross-reference table (poppler: 'Couldn't find trailer dictionary / Invalid XRef entry 1040'). Page 1 is the cover (amendment to the June 20 report). Page 2 renders completely blank both from the original and after a ghostscript repair (the repaired file drops to 2 pages). Pages 3 and 4 both render as the SAME typed Schedule B attachment ('SCHEDULE B Itemized Expenditures Made, Page 3 of 3, Auger, June 20, 2006') whose printed footers are TOTAL $19,435.13, then $2,257.17, then $21,692.30 - those are attachment totals, not the Summary Page, so they are not reported in the totals block. Cover checkbox reading is unaffected."
+ }
+}

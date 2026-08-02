@@ -1,0 +1,51 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "171.36",
+ "total_expenditures": "171.36",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "GORDON LUND GURR",
+  "party": "Republican",
+  "office_sought": "County Council Dist 1",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ggurr_10_Apr_Inerim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gordon Gurr",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/ggurr_10_Apr_Inerim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Office Sought and District Number cells are BLANK; office_sought is taken from the top-row Office cell ('County Council Dist 1') per contract. The Report Verification Date line is blank (no signature date printed) and the Summary Page header box (page/name/date) is blank too, so report_date is empty; the clerk stamp reads APR 23 2010. Column B is blank on Lines 1 and 2 and Line 5 (Subtotal) is left blank \u2014 recorded as empty strings, not zeros. Line 3 is a hand-drawn open oval (zero); Line 7 is written '\u00d8\u00d8 \u2013' (two zeros and a dash) and is recorded as 0. The clerk listing calls this 'April/Dissolution' but only the April 5 interim box is checked \u2014 no Final/Dissolution box."
+ }
+}

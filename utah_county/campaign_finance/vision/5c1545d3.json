@@ -1,0 +1,67 @@
+{
+ "path": "raw/2014/2014_10-14WriteIn-Riding.pdf",
+ "key": "5c1545d3",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:50:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "ROB RIDING",
+   "party_printed": "",
+   "office_printed": "SHERIFF",
+   "residence_city": "PAYSON",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "",
+   "report_date": "10-27-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "",
+    "contrib_cumulative": "0",
+    "expend_this_period": "",
+    "expend_cumulative": "0",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "",
+    "line1_total_contributions_colB": "0",
+    "line2_total_expenditures_colA": "",
+    "line2_total_expenditures_colB": "0",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "",
+    "line5_subtotal_lines3plus4": "",
+    "line6_total_expenditures_from_line2A": "",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "low",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "low",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "low",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "low",
+    "balance_close": "medium"
+   },
+   "unreadable": [
+    "party_printed",
+    "is_amendment",
+    "line1_total_contributions_colA",
+    "line2_total_expenditures_colA",
+    "line4_total_contributions_from_line1A",
+    "line5_subtotal_lines3plus4",
+    "line6_total_expenditures_from_line2A"
+   ],
+   "notes": "A FAXED filing - both pages carry the transmission header '10/27/2014 3:18/3:19 PM FAX 8014651166 HANBY AND ASSOCIATES 0001/0002' - so the image is low-contrast and the pen strokes are broken. The Political Party cell holds only a short stray dash/stroke with no party word: transcribed '' and flagged unreadable, NOT inferred. The amendment question is ambiguous - a faint mark sits beside 'No' but it cannot be told from a scan artifact, so is_amendment is '' and flagged rather than assumed. On the summary page the filer entered slashed-zero glyphs ONLY at line 1 Column B, line 2 Column B, line 3 and line 7; lines 1 Column A, 2 Column A, 4, 5 and 6 are LEFT BLANK by the filer (blank, not zero) and are '' . A faint unidentifiable pen mark sits at the right edge of line 1 Column A; it is not a legible figure. The summary page's own header boxes (Page / of, Last Name, Date of Report) were left entirely blank, so report_date comes from the cover signature date 10-27-14. Index office 'County Sheriff' vs the page's 'SHERIFF' is a naming convention, not a conflict."
+  }
+ ],
+ "notes": ""
+}

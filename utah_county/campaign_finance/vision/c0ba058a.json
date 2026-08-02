@@ -1,0 +1,59 @@
+{
+ "path": "raw/2012/2012_Grierson072012.pdf",
+ "key": "c0ba058a",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:43:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Lorne W. Grierson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Commissioner",
+   "residence_city": "Orem",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "No",
+   "report_date": "July 19, 2012",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0.00",
+    "contrib_cumulative": "13,212.30",
+    "expend_this_period": "5,360.11",
+    "expend_cumulative": "11,044.17",
+    "balance_beginning": "7,528.24",
+    "subtotal_before_expend": "7,528.24",
+    "balance_close": "2,168.13"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0.00",
+    "line1_total_contributions_colB": "13,212.30",
+    "line2_total_expenditures_colA": "5,360.11",
+    "line2_total_expenditures_colB": "11,044.17",
+    "line3_balance_beginning": "7,528.24",
+    "line4_total_contributions_from_line1A": "0.00",
+    "line5_subtotal_lines3plus4": "7,528.24",
+    "line6_total_expenditures_from_line2A": "5,360.11",
+    "line7_balance_at_close": "2,168.13"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "TYPED (machine-filled) form - the only non-handwritten filing among this filer's two in the chunk, and the figures are crisp; all values high confidence. OFFICE: the page's Office Seeking field reads 'Utah County Commissioner' with NO SEAT LETTER. office_index carries the more specific 'County Commission Seat C'. Per the corpus rule against inferring an unprinted seat, office_printed is exactly what the page says; the seat is not transcribed. (This filer's OTHER 2012 filing, key 9cceca7c, left Office Seeking entirely blank.) The summary page's own header boxes - Page/of, Candidate Last Name, Date of Report - were left EMPTY on this filing; report_date therefore comes from the cover's signature Date, 'July 19, 2012'. Line 3 (7,528.24) equals line 7 of this filer's 6-19-12 report, correctly carried forward. Clerk Date received is hand-written '7/20/12' with a note 'Express Mail'. AMENDMENT: 'No' is checked. candidate_index was blank; the page names Lorne W. Grierson."
+  }
+ ],
+ "notes": ""
+}

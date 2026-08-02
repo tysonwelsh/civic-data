@@ -1,0 +1,58 @@
+{
+ "path": "raw/2018/2018_TAinge.pdf",
+ "key": "0fcc92b9",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:02:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Tanner Ainge",
+   "party_printed": "Republican",
+   "office_printed": "County Commission, Seat A",
+   "residence_city": "Alpine",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/29/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "4,585.77",
+    "contrib_cumulative": "51,983.16",
+    "expend_this_period": "7,845.74",
+    "expend_cumulative": "50,047.72",
+    "balance_beginning": "5204.61",
+    "subtotal_before_expend": "9790.38",
+    "balance_close": "1,944.64"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "4,585.77",
+    "line1_total_contributions_colB": "51,983.16",
+    "line2_total_expenditures_colA": "7,845.74",
+    "line2_total_expenditures_colB": "50,047.72",
+    "line3_balance_beginning": "5204.61",
+    "line4_total_contributions_from_line1A": "4585.77",
+    "line5_subtotal_lines3plus4": "9790.38",
+    "line6_total_expenditures_from_line2A": "7845.74",
+    "line7_balance_at_close": "1,944.64"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed form - every figure is machine text. The filer's thousands separators are inconsistent and are preserved verbatim: lines 1, 2 and 7 carry commas (4,585.77 / 1,944.64) while lines 3-6 do not (5204.61 / 4585.77 / 9790.38 / 7845.74). Leading '$' dropped per schema. The summary page's Page / Last Name / Date of Report boxes were left blank; report_date is the cover signature date. Fax field reads 'N/A'."
+  }
+ ],
+ "notes": ""
+}

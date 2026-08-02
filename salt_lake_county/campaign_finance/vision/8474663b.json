@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$193.92",
+ "total_expenditures": "$93.85",
+ "beginning_balance": "$551.00",
+ "ending_balance": "$651.07",
+ "aggregate": {
+  "total_contributions_to_date": "$744.92",
+  "total_expenditures_to_date": "$1,278.64",
+  "line5_subtotal": "$744.92"
+ },
+ "cover": {
+  "candidate": "David M Muir",
+  "party": "United Utah",
+  "office_sought": "_Auditor",
+  "district_number": "SLCo",
+  "report_type": "Interim Report: Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/20/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Muir-David__1D4C7563.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Muir, David",
+  "office": "Auditor",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Muir-David__1D4C7563.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed / e-filed form; TITLE reads '2020 Financial Disclosure Report' on this 2022-cycle filing. E-signature stamp 06/20/22 - 3:45 PM; the signature Date cell is blank; Summary Page header 'Date of Report 06/20/22'; page 2 of 4. Column B aggregate EXPENDITURES ($1,278.64) exceed Column B aggregate CONTRIBUTIONS ($744.92) - the form's own figures, recorded verbatim and not reconciled."
+ }
+}

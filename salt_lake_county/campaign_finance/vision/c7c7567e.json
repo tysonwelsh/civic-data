@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,000",
+ "total_expenditures": "0",
+ "beginning_balance": "3,875.42",
+ "ending_balance": "6,875.42",
+ "aggregate": {
+  "total_contributions_to_date": "6,500",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "6,875.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large C",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Bradley_J_12_April_Interim_CntyCncl_AtLrgC_Redacte.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Bradley_J_12_April_Interim_CntyCncl_AtLrgC_Redacte.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL April 2012 filing (signed 4-4-12); neither amendment box is checked. Line 2 Columns A and B and Line 6 are hand-drawn slashed zeros - recorded as 0. Line 4 is written '3,000.' with a raised dash for zero cents; Line 1 carries no cents. Superseded the next day by the amendment, key e2a072a4."
+ }
+}

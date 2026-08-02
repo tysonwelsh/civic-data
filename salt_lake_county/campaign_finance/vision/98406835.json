@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "459.14",
+ "total_expenditures": "335.86",
+ "beginning_balance": "0",
+ "ending_balance": "123.28",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "459.14"
+ },
+ "cover": {
+  "candidate": "Brett Helsten",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Council At Large",
+  "district_number": "",
+  "report_type": "Interim Report: April 7",
+  "is_amendment": "Yes",
+  "amendment_of": "4/24/14",
+  "report_date": "4/24/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/HelstenB-2014-AprilAmendment.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brett Helsten",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/HelstenB-2014-AprilAmendment.pdf",
+  "pages_read": [
+   1,
+   2,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110 (pages 3-4 rendered at -r 150)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "'Amended' is hand-written across the top of the cover. The April 7 interim box is checked and the amendment 'Yes' box is checked with date of report 4/24/14 (same as the signature date). Summary Page is page 4 of 4 (page 2 is Schedule A, page 3 Schedule B). Column B (Aggregate Total) is left BLANK on both lines 1 and 2 - recorded as empty strings, not zeros. Line 3 beginning balance is a hand-drawn slashed zero. The filer's decimal separator is written comma-like throughout (a reader may see '459,14'); transcribed with decimal points. Arithmetic checks: 459.14 - 335.86 = 123.28."
+ }
+}

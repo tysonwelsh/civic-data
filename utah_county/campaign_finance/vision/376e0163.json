@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_CA.Thompson.pdf",
+ "key": "376e0163",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:44:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
+ "reports": [
+  {
+   "candidate_printed": "Bryan E. Thompson",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Clerk/Auditor",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "30 Days after withdraw or elimination",
+   "is_amendment": "",
+   "report_date": "4/20/18",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "1,142.07",
+    "contrib_cumulative": "1,142.07",
+    "expend_this_period": "1,182.36",
+    "expend_cumulative": "1,182.36",
+    "balance_beginning": "40.29",
+    "subtotal_before_expend": "1,182.36",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "1,142.07",
+    "line1_total_contributions_colB": "1,142.07",
+    "line2_total_expenditures_colA": "1,182.36",
+    "line2_total_expenditures_colB": "1,182.36",
+    "line3_balance_beginning": "40.29",
+    "line4_total_contributions_from_line1A": "1,142.07",
+    "line5_subtotal_lines3plus4": "1,182.36",
+    "line6_total_expenditures_from_line2A": "1,182.36",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten; cents written as a raised underlined superscript, transcribed in decimal form. Amounts carry a handwritten leading '$' (dropped per spec). Line 3 reads '40.29' at medium confidence (small hand). Line 7 is a slashed-zero glyph, transcribed as '0'. NEITHER amendment box (Yes/No) is checked, so is_amendment is ''. The cover carries a handwritten 'Page 1 of 4' at the top right; the summary page's own header reads 'Page 2 of 4, Thompson, Date of Report 4/20/18'. Summary sheet is the 2016 form year reused in a 2018 filing. Office field 'Utah County Clerk/Auditor' agrees with office_index."
+  }
+ ],
+ "notes": ""
+}

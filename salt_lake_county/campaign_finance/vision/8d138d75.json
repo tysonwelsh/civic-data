@@ -1,0 +1,47 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Mark Crockett",
+  "party": "",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Dissolution of a Candidate Campaign Committee (email notice)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "January 14, 2013",
+  "form_year": ""
+ },
+ "confidence": {
+  "candidate": "high",
+  "office_sought": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Crockett_M_12_Mayor_Dissolution_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mark Crockett",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Crockett_M_12_Mayor_Dissolution_Redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "THIS IS NOT A FORM AT ALL - the document is a one-page printed EMAIL (born-digital text PDF) from Randy J. O'Hara to Pam Tueller, sent Monday, January 14, 2013 2:12 PM, subject 'Dissolution of a Candidate Campaign Committee', giving notice of dissolution of the Elect Mark Crockett Campaign Committee for County Mayor and stating the campaign account has a zero balance and the final report was filed the same day. There is no Summary Page and no figures, so all totals are null. The candidate name and office are taken from the body text; there is no party field, no checkbox block and no signature block."
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "(11,487.42)",
+ "ending_balance": "(11,487.42)",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "(11,487.42)"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At-Large Seat A",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_12_Final_CouncilA_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_12_Final_CouncilA_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "DUPLICATE PAIR: this document is page-for-page identical in content to key 20bbcbc2 (Horiuchi_R_12_Final_Amended_CouncilA_Redacted.pdf) - same cover, same signature date 1/31/13, same Summary Page figures - although the two PDFs have different md5s. Only the Year-End box is checked; neither amendment box is checked (so is_amendment is blank). Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of (11,487.42) - kept verbatim. Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B (Aggregate Total) is blank on lines 1 and 2. Top-row 'Office' reads 'County Council'; the 'Office Sought' box reads 'Council At-Large Seat A'."
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "bc70d022",
+ "source_filing": "raw/wayback/wb20160824045455_16July_Gochnour_Commission.pdf",
+ "document_id": "wb20160824045455_16July_Gochnour_Commission",
+ "page_start": 1,
+ "page_end": 3,
+ "summary_page": 1,
+ "election_cycle": "2016",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:06:59Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Caitlin K. Gochnour",
+ "office_stated": "Weber County Commissioner Seat C",
+ "report_type_stated": "July 28th (eliminated in the Primary Election)",
+ "filing_date_stated": "",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "32,162.25",
+   "this": "3,500.00",
+   "cum": "35,662.25"
+  },
+  "expenditures": {
+   "last": "32,769.16",
+   "this": "1,551.00",
+   "cum": "34,320.16"
+  },
+  "ending_balance": {
+   "last": "(606.91)",
+   "this": "1,949.00",
+   "cum": "1,342.09"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2016 3-line form variant. UNSIGNED and UNDATED on its face (index.csv date 2016-07-15 comes from the channel, not the form)."
+}

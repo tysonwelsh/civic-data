@@ -1,0 +1,59 @@
+{
+ "path": "raw/2018/2018_CA.Grunander.pdf",
+ "key": "1a802679",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:24:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "Chad Grunander",
+   "party_printed": "Republican",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Provo",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/19/2018",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "55,901.89",
+    "contrib_cumulative": "55,901.89",
+    "expend_this_period": "37,523.22",
+    "expend_cumulative": "37,523.22",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "55,901.89",
+    "balance_close": "18,378.67"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "55,901.89",
+    "line1_total_contributions_colB": "55,901.89",
+    "line2_total_expenditures_colA": "37,523.22",
+    "line2_total_expenditures_colB": "37,523.22",
+    "line3_balance_beginning": "0",
+    "line4_total_contributions_from_line1A": "55,901.89",
+    "line5_subtotal_lines3plus4": "55,901.89",
+    "line6_total_expenditures_from_line2A": "37,523.22",
+    "line7_balance_at_close": "18,378.67"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Handwritten, crisp. Amounts carry a handwritten leading '$' (dropped per spec) and underlined cents. Line 3 is a slashed-zero glyph, transcribed as '0' at medium confidence. The form's own printed title on this filing is the COUNTY-ONLY variant ('FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5), though the page's left sidebar still reads 'County & Local School Board Candidates'. Office field 'Utah County Attorney' agrees with office_index."
+  }
+ ],
+ "notes": ""
+}

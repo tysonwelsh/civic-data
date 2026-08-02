@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1106.86",
+ "total_expenditures": "1106.86",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "4780.30",
+  "total_expenditures_to_date": "4780.30",
+  "line5_subtotal": "1106.86"
+ },
+ "cover": {
+  "candidate": "Ott, Gary",
+  "party": "Republican",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": null,
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ott_G_12_Final_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ott_G_12_Final_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 1 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked - despite the clerk filename 'Final', the Final/Dissolution box is NOT checked and neither amendment box is checked. The handwritten signature date is illegible (it overlaps the signature flourish; only something like '1?-13' is visible), so report_date is null; the clerk RECEIVED stamp reads JAN 31 2013. Lines 3 and 7 Column A are written as a slashed zero (\u00d8). The Column B cents on lines 1 and 2 ('4780.30') are written as a raised superscript '30'. Column B is headed 'Year to Date' on this form vintage."
+ }
+}

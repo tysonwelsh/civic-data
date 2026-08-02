@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1106.86",
+ "total_expenditures": "1106.86",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "4780.30",
+  "total_expenditures_to_date": "4780.30",
+  "line5_subtotal": "1106.86"
+ },
+ "cover": {
+  "candidate": "Ott, Gary",
+  "party": "Republican",
+  "office_sought": "Mayor",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year; Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": null,
+  "form_year": "2012"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Ott_G_Mayor_Dissolution.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gary Ott",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Ott_G_Mayor_Dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BUNDLE: this 5-page PDF is the same Ott/Mayor Year-End report already filed as Ott_G_12_Final_Mayor_Redacted (identical Summary Page figures and identical JAN 31 2013 clerk stamp), re-submitted in April 2014 with the Final/Dissolution box now ALSO checked (both Year-End and Final are checked here) and a second RECEIVED APR 07 2014 stamp added; page 5 is a separate 'Dissolution of a Candidate Campaign Committee' notice for Gary W. Ott, County Office 'Mayor', no committee name, no secretary, signed April 4, 2014. The handwritten signature date on page 1 remains illegible, so report_date is null. Lines 3 and 7 Column A are slashed zeros (\u00d8); Column B cents are raised superscripts."
+ }
+}

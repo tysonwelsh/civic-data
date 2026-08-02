@@ -1,0 +1,122 @@
+{
+ "filing_key": "wayback_financialreports|2014-10-28|PAUL VAN DAM",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/10 28 2014 Summary - Paul Van Dam_10-28-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Summary - Paul Van Dam_10-28-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "aef7d7b14f2466fe56b3ffe3cbb0c71c6d4151e354ef4dea71e1e1debc28d397",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Contributions - Paul Van Dam_10-28-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "1757076ab762b2f982e70cdca1e97f83de4a4b95c14c2f71578e0e05d6516451",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/10 28 2014 Expenditures - Paul Van Dam_10-28-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "57b1c1e4802eed3e06cbbea86eab27741011f2823c7b027ab20d29c27f87b2ec",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Paul Van Dam",
+  "office": "COMMISSION SEAT B",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Commission Seat B",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Paul Van Dam",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "0.0",
+   "contrib_le50": "0.0",
+   "expenses": "378.0",
+   "balance": "-378.0"
+  },
+  {
+   "submitted": "2014-06-11",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "3451.95",
+   "contrib_le50": "224.99",
+   "expenses": "500.13",
+   "balance": "2798.81"
+  },
+  {
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "contrib_gt50": "8185.0",
+   "contrib_le50": "1925.0",
+   "expenses": "13932.15",
+   "balance": "373.12"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-10-28",
+   "date_due": "2014-10-28",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 2,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "8185.0",
+   "contrib_gt50_this": "8185",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "1925.0",
+   "contrib_le50_this": "1925",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "13932.15",
+   "expenses_this": "13932.15",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "373.12",
+   "balance_end": "373.12",
+   "balance_last_printed": "2798.81",
+   "balance_last": "2798.81",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

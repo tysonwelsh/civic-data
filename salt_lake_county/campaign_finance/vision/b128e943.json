@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "41,952.53",
+ "total_expenditures": "17,278.12",
+ "beginning_balance": "9,021.97",
+ "ending_balance": "33,696.38",
+ "aggregate": {
+  "total_contributions_to_date": "52,177.53",
+  "total_expenditures_to_date": "18,481.15",
+  "line5_subtotal": "50,974.50"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Interim Report: June 17 (for the period ending June 16, 2014)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/17/14",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Wilson_J_CouncilA_June14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Wilson_J_CouncilA_June14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This copy uses the SHORT cover variant headed '[Officeholders - Year-End]' that carries ONLY the Type-of-Report and Report-Verification blocks \u2014 there are no candidate/party/office/district fields on the sheet at all, so those are null (field absent), not blank. The candidate name comes from the printed verification line ('Jennifer Wilson') and the Summary Page header ('Wilson'). June 17 interim checked; neither amendment box checked; signed 6/17/14, received JUN 17 2014. Line 3 (9,021.97) carries forward from the AMENDED April report (key 5cfe4be1), not the original."
+ }
+}

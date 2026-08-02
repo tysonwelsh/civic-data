@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "3,500",
+ "total_expenditures": "500",
+ "beginning_balance": "876.42",
+ "ending_balance": "3,876.42",
+ "aggregate": {
+  "total_contributions_to_date": "3,500",
+  "total_expenditures_to_date": "500",
+  "line5_subtotal": "4,376.42"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large \"C\"",
+  "district_number": "",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/JBradley_11_YearEnd_AtLrgC_Redacted1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/JBradley_11_YearEnd_AtLrgC_Redacted1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crops)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signed 1-30-12, clerk stamp JAN 31 2012. Lines 1 and 2 are written without cents ('3,500' / '500'); lines 4 and 6 write the same amounts with a DASH in the cents position ('3500.-' and '500.-', the accounting shorthand for .00) - those two lines are not captured by this schema but the convention is noted here. Line 3 (876.42) and line 7 (3,876.42) are written plainly. Arithmetic checks: 876.42 + 3,500 = 4,376.42 and 4,376.42 - 500 = 3,876.42."
+ }
+}

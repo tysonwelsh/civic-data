@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "b2031c19",
+ "source_filing": "raw/y2026/2026_ugd_92078f_a7965ee7.pdf",
+ "document_id": "2026_ugd_92078f_a7965ee7",
+ "page_start": 1,
+ "page_end": 4,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Sharon Arrington Bolos",
+ "office_stated": "County Commission- Seat B",
+ "report_type_stated": "",
+ "filing_date_stated": "2026-06-15",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "39405.39",
+   "this": "8000.00",
+   "cum": "47405.39"
+  },
+  "expenditures": {
+   "last": "33532.74",
+   "this": "9630.41",
+   "cum": "43163.15"
+  },
+  "ending_balance": {
+   "last": "5872.65",
+   "this": "-1630.41",
+   "cum": "4242.24"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, HANDWRITTEN, no thousands separators. NO report-type box marked (checkboxes dropped by the scan). All columns reconcile. City/zip 'West Haven UT 84401' is printed unredacted on this copy while the street address is blacked out. OFFICE IS WRITTEN ON THE FORM though index.csv leaves office_stated blank."
+}

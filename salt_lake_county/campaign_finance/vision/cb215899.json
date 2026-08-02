@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$8,140.29",
+ "total_expenditures": "$7,452.97",
+ "beginning_balance": "$4,722.45",
+ "ending_balance": "$5,409.77",
+ "aggregate": {
+  "total_contributions_to_date": "$8,140.29",
+  "total_expenditures_to_date": "$7,452.97",
+  "line5_subtotal": "$12,862.74"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Rep",
+  "office_sought": "Council",
+  "district_number": "2",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_mjensen_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Michael Jensen",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_mjensen_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Typed form on the OLDER template (04pccfindisc.doc), which carries a top-row 'Office' box \u2014 filled here with 'Council District 2' \u2014 in addition to the 'Office Sought' box ('Council') used for this record. Column B is headed 'Aggregate Total'. The clerk listing calls this the '2007 Summary Report'; the FORM checks the Year-End Report box ('January 31 of each year'), signed 1/31/08 and received JAN 31 2008. Line 4 is typed without a thousands comma ('$8140.29') while line 1 has it ('$8,140.29'). The 'No' amendment box is checked. All lines reconcile."
+ }
+}

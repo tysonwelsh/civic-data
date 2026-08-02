@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Chuck Tripp",
+  "party": "Desert Greens",
+  "office_sought": "Salt Lake County Council at-large",
+  "district_number": "",
+  "report_type": "January 31 of each year + Final Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "Feb. 13, 2007",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ctripp_jan3107report.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Chuck Tripp",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/ctripp_jan3107report.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "TWO type-of-report boxes checked (January 31 of each year AND Final Report) - joined with ' + '. Every cell in both columns is a lightly-pencilled slashed-zero glyph -> '0'; the pencil is faint but all seven lines plus both Column B cells are marked. 'at-large' is underlined in the District Number area. Summary header: page 1 of 3, TRIPP, Feb. 13, 2007. RECEIVED stamp FEB 13 2007."
+ }
+}

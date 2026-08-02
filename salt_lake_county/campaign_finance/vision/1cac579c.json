@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$5,656.00",
+ "total_expenditures": "$17,248.46",
+ "beginning_balance": "$13,156.43",
+ "ending_balance": "$1,563.97",
+ "aggregate": {
+  "total_contributions_to_date": "$13,156.43",
+  "total_expenditures_to_date": "$0.00",
+  "line5_subtotal": "$18,812.43"
+ },
+ "cover": {
+  "candidate": "Nicholas Roberts",
+  "party": "Republican",
+  "office_sought": "_Sheriff",
+  "district_number": "Sheriff",
+  "report_type": "September 15",
+  "is_amendment": "Yes",
+  "amendment_of": "2022-09-22",
+  "report_date": "09/22/22",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Roberts-Nicholas__3BD6B7CD.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Roberts, Nicholas",
+  "office": "Sheriff",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Roberts-Nicholas__3BD6B7CD.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "'District Number' box holds the word 'Sheriff' (filer put the office there). Column B contributions-to-date ($13,156.43) equals the OPENING balance, and Column B expenditures-to-date is $0.00 - internally inconsistent as printed; not reconciled. Form title reads 2020 (template reuse)."
+ }
+}

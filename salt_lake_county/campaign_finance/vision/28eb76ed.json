@@ -1,0 +1,55 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "62970",
+ "total_expenditures": "35,604.55",
+ "beginning_balance": "0",
+ "ending_balance": "27,365.45",
+ "aggregate": {
+  "total_contributions_to_date": "62970",
+  "total_expenditures_to_date": "35604.55",
+  "line5_subtotal": "62970"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council At Large",
+  "district_number": "A",
+  "report_type": "Interim Report: April 7 (for the period ending March 31, 2008)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-4/08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "report_type": "high",
+  "office_sought": "high",
+  "report_date": "low"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_rhoriuchi_april7.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/08_rhoriuchi_april7.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; page 2 totals column re-rendered at -r 260",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The ORIGINAL April 7 report (its amendment is key f5fdffdf, whose Summary Page carries identical figures). Neither amendment box is checked here; clerk RECEIVED stamp APR 07 2008. Office is written as one string 'Council At Large A' \u2014 split into office_sought 'Council At Large' and district_number 'A'. Line 1 (both columns) is written with NO separators at all ('62970' \u2014 sixty-two thousand nine hundred seventy dollars, no cents); lines 4 and 5 add a trailing period ('62970.') and line 5 has a heavily scribbled-out entry beside it, so line5_subtotal is medium confidence. Confirmed at 260 dpi: the decimal separator in lines 2 Col A, 6 and 7 is a comma-shaped tick while Column B line 2 uses a clear point; the values are unambiguous (35,604.55 and 27,365.45) and recorded with a point. Line 3 is a drawn zero, recorded '0'. 62,970 \u2212 35,604.55 = 27,365.45 reconciles."
+ }
+}

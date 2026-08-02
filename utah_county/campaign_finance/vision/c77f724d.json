@@ -1,0 +1,62 @@
+{
+ "path": "raw/2014/2014_12-14Hemingway.pdf",
+ "key": "c77f724d",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:10:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "STEPHEN \"HEMI\" HEMINGWAY",
+   "party_printed": "UNAFFILIATED",
+   "office_printed": "UTAH COUNTY COMMISSION - B SEAT",
+   "residence_city": "PROVO",
+   "report_type_printed": "30 Days after the General Election",
+   "is_amendment": "No",
+   "report_date": "11/26/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "63.26",
+    "expend_this_period": "0",
+    "expend_cumulative": "48.11",
+    "balance_beginning": "15.15",
+    "subtotal_before_expend": "15.15",
+    "balance_close": "15.15"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "63.26",
+    "line2_total_expenditures_colA": "0",
+    "line2_total_expenditures_colB": "48.11",
+    "line3_balance_beginning": "15.15",
+    "line4_total_contributions_from_line1A": "",
+    "line5_subtotal_lines3plus4": "15.15",
+    "line6_total_expenditures_from_line2A": "",
+    "line7_balance_at_close": "15.15"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "medium",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "subtotal_before_expend": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [
+    "line4_total_contributions_from_line1A",
+    "line6_total_expenditures_from_line2A"
+   ],
+   "notes": "Same filer as key fa00ee08, the post-election report. Handwritten in black ink, block capitals; the Name field prints the nickname inline: STEPHEN \"HEMI\" HEMINGWAY (surname spelled with one m, as on the summary header), while the Report Verification print-name line reads only 'HEMI'. The Office Seeking line runs into the printed 'Area Code & Phone Number' label and its last token is cramped; it is read as 'UTAH COUNTY COMMISSION - B SEAT' at medium confidence. LINES 4 AND 6 carry a horizontal DASH, not a figure - transcribed '' (a dash is not a digit and is not read as zero). Lines 1A and 2A are written as plain open-circle zeros. TWO DIFFERENT DATES appear: the summary page's own 'Date of Report' box reads 11/26/2014 (used as report_date) while the cover signature date reads as 11/9/2014 and is less cleanly formed - the disagreement is recorded, not resolved. A faint struck/erased mark sits just beneath line 1 Column B; the surviving figure there is 63.26. A handwritten '1/4' page mark appears at the top right of the cover."
+  }
+ ],
+ "notes": ""
+}

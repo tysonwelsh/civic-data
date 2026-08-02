@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$3,220.00",
+ "total_expenditures": "$2,535.45",
+ "beginning_balance": "0.00",
+ "ending_balance": "$709.55",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$3,245.00"
+ },
+ "cover": {
+  "candidate": "Danielle Ahn",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "04/05/2022",
+  "form_year": "2022"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ahn-Danielle__3D92860F.pdf",
+  "era": "easyvote_2022",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ahn, Danielle",
+  "office": "District Attorney",
+  "election_year": "2022",
+  "source_pdf": "raw/easyvote/Ahn-Danielle__3D92860F.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Machine-filled EasyVote PDF; address/phone/email and the signature are redacted with black boxes. Both Column B cells are EMPTY (recorded \"\"), and unlike the other Ahn filings there is NO stray figure on the section-header rows. INCONSISTENCY KEPT VERBATIM: Line 1 Column A reads $3,220.00 but Line 4 ('from Line 1 Column A') reads $3,245.00, a $25 difference; the balance summary is self-consistent with $3,245.00 ($3,245.00 - $2,535.45 = $709.55 = Line 7). Neither amendment box is checked. Clerk listing's reporting_period is a stray email address ('campaign@da4da.com'); the form checks April 5."
+ }
+}

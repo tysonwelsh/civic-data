@@ -1,0 +1,59 @@
+{
+ "path": "raw/2024/2024_Anthony_Canto.pdf",
+ "key": "52270376",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:05:00Z",
+ "pages_read": [
+  1,
+  4
+ ],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Anthony Canto",
+   "party_printed": "",
+   "office_printed": "SURVEYOR",
+   "residence_city": "BENJAMIN",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/24/24",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "1081.12",
+    "contrib_cumulative": "1081.12",
+    "expend_this_period": "1081.12",
+    "expend_cumulative": "1081.12",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "1081.12",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "1081.12",
+    "boxC_contributions_received_year_to_date": "1081.12",
+    "boxD_expenditures_made_this_period": "1081.12",
+    "boxE_expenditures_made_year_to_date": "1081.12",
+    "boxF_subtotal_before_expenditures": "1081.12",
+    "balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten on the printed v. 12.23 form; the radio buttons are digital (filled dots), the rest is ink. The Office field is hand-printed in capitals as 'SURVEYOR' - no 'County' prefix (index.csv says 'County Surveyor'). The Name of Candidate is hand-printed 'Anthony Canto' with no middle initial (index.csv for the sibling redacted copy says 'Anthony D Canto'). index.csv carries reporting_period='' for this filing; the page resolves it - the marked radio is 'Seven days preceding the General Election'. In Box D the decimal separator is written as a comma-shaped stroke ('1081,12') while Boxes B/C/E/F use a clear period; the digits are unambiguous, so the value is recorded as 1081.12 at medium confidence. Boxes A and Balance at Close are a hand-drawn open loop read as the filer's zero (medium confidence). PRIVACY NOTE: this copy is UNREDACTED - the county published the filer's full street address and phone number in the clear (the sibling filing c7820527 is the same document with those blacked out). Only the residence city is recorded here; the street address and phone are deliberately NOT transcribed into this cache."
+  }
+ ],
+ "notes": "Same underlying report as key c7820527 (identical candidate, office, report type, date 10/24/24 and all seven boxes). The two differ only in redaction state: this file is the unredacted copy, c7820527 is the redacted one. One report."
+}

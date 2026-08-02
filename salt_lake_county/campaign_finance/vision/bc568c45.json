@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Chuck Tripp",
+  "party": "Desert Greens",
+  "office_sought": "Salt Lake County Council - at Large",
+  "district_number": "",
+  "report_type": "Interim Report: September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "09/15/2006",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ctripp_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Chuck Tripp",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/ctripp_sept152006.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150 (pages 3-4 rendered after page 2 turned out to be Schedule A)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "PAGES ARE BOUND OUT OF ORDER in this 4-page PDF: p1 cover, p2 Schedule A, p3 Schedule B, p4 the Summary Page (its own header box says 'Page 3 of 3'). Another all-zero filing \u2014 every Summary Page cell is a hand-drawn slashed zero, and the blank Schedules A and B are struck through with a long S-curve and zeroed at the subtotal lines. Neither amendment box is checked. 'Salt Lake County Council - at Large' is written across the Office Sought / District Number fields. Stamped COPY / RECEIVED SEP 15 2006."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "783.60",
+ "total_expenditures": "783.60",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "783.60",
+  "total_expenditures_to_date": "783.60",
+  "line5_subtotal": "783.60"
+ },
+ "cover": {
+  "candidate": "Christian Burridge",
+  "party": "Democratic",
+  "office_sought": "County Council",
+  "district_number": "At Large B",
+  "report_type": "Year-End Report: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/1/2010",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/cburridge_09_YearEnd.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Christian Burridge",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/cburridge_09_YearEnd.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "The Year-End box is the only Type-of-Report box checked; neither amendment box is checked. The signature Date line is blank, so report_date comes from the Summary Page header ('Date of Report 2/1/2010'), consistent with the RECEIVED FEB 01 2010 stamp \u2014 this is the year-end report covering 2009, matching the clerk listing's '2009 Summary Report'. District Number is written 'At Large' followed by a struck-through mark and a 'B' (read as At Large B, medium). The top-row Office field is blank; 'County Council' comes from Office Sought. Lines 3 and 7 Column A are drawn zeros."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "83,204.50",
+ "total_expenditures": "86,115.04",
+ "beginning_balance": "6,845.39",
+ "ending_balance": "3,934.85",
+ "aggregate": {
+  "total_contributions_to_date": "140,157.67",
+  "total_expenditures_to_date": "136,222.82",
+  "line5_subtotal": "90,049.89"
+ },
+ "cover": {
+  "candidate": "Mike Winder",
+  "party": "R",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Interim Report: June 17 (for the period ending June 18, 2008 as printed)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/19/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Winder_M12_June_Interim_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mike Winder",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Winder_M12_June_Interim_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Neither amendment box is checked; only the June 17 interim box. Filed on a 2008-vintage form (footer '08_FinancialDisclosureform.doc') whose printed period labels all say 2008; the filer hand-corrected 'ending June 16' to '18'. Signed 6/19/2012; Summary Page 'Date of Report' reads 6/18/2012; Column B is headed 'Sum Total to Date'. The cover and Summary Page are identical to those of the file the clerk labels the June amendment (key 13bf3106) \u2014 worth a human's eye, since one of the two is a duplicate rather than a correction."
+ }
+}

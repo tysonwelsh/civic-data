@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "840dd696637513b36177636b16b0851f163c8b89e7f6a58679e091719b03503c",
+ "canonical_path": "raw/2024/2024_cc_2024_Devron_Anderson_Final_Disclosure.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_Devron_Anderson_Final_Disclosure.pdf"],
+ "pages_read": [1, 2, 3, 4],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated":  {"v": "Devron Andersen", "c": "high"},
+  "office_verbatim":   {"v": "county Council South", "c": "high"},
+  "office_district":   {"v": "South", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Mendon", "c": "high"},
+  "addressee":         {"v": "Email: elections@cachecounty.gov  Mail: 179 North Main St. Suite 102 Logan, Utah 84321", "c": "high"},
+  "report_type_marked":{"v": "30 Days after elimination", "c": "high"},
+  "date_signed":       {"v": "8/6/2024", "c": "high"},
+  "received_stamp":    {"v": "", "c": "high"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$0.00", "c": "high"},
+   "B_contrib_this_period":    {"v": "$0.00", "c": "high"},
+   "C_contrib_ytd":            {"v": "", "c": "high"},
+   "D_expend_this_period":     {"v": "$0.00", "c": "high"},
+   "E_expend_ytd":             {"v": "", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$0.00", "c": "high"},
+   "closing_balance":          {"v": "$0.00", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "", "c": "high"},
+   "total_expenditures_made":      {"v": "", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "South",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'county Council South' (written on two lines: 'county Council' / 'South')",
+  "confidence": "high"
+ },
+ "notes": "Handwritten entries on a scanned Cache County Candidate Financial Disclosure (cache_cfd), 4 pages: cover p1, Schedule A p2 (blank), Schedule B p3 (blank), Summary p4.\n\nCOVER (p1): Name of Candidate 'Devron Andersen' - NOTE THE SPELLING: the filer writes 'Andersen' with an E, on the header line, on the Affirmation line, and in every page footer (four independent instances, all legible and all -SEN). Address '6635 W. 1000 S.', City 'Mendon', State 'UT', Zip '84375'. Office 'county Council South' (lowercase c on 'county'; 'South' on a second line). Phone '435-760-7642'. Email 'devron.andersen@gmail.com' (the final characters run into the box edge; read as '.com'). Type of Report: an X mark over the bullet for '30 Days after elimination'; the other two options unmarked. Is this report an amendment? NEITHER 'No' nor 'Yes' is marked. A handwritten line sits inside the Type of Report box below the options: 'No change since last report.' Affirmation printed name 'Devron Andersen'. Signature present. Date '8/6/2024'. Date of Report '8/6/2024'. Page '1 of 4'. Office Use Only: neither 'Logged' nor 'Transmitted' filled; NO received stamp.\n\nSCHEDULE A (p2): COMPLETELY EMPTY - no itemized rows, and BOTH the 'Subtotal for this page $' and 'Total Contributions Received $' lines are BLANK (nothing written after the preprinted '$', not even a zero). Recorded as empty strings, not as zero. Footer 'Devron Andersen', '8/6/2024', Page '2 of 4'.\n\nSCHEDULE B (p3): COMPLETELY EMPTY - no itemized rows; 'Subtotal for this page $' and 'Total Expenditures Made $' both BLANK. Recorded as empty strings, not as zero. Footer 'Devron Andersen', '8/6/2024', Page '3 of 4'.\n\nSUMMARY (p4): Box A '$0.00'. Box B '$0.00'. Box C is BLANK (nothing written). Box D '$0.00'. Box E is BLANK (nothing written). Box F '$0.00'. Balance at Close of Reporting Period '$0.00'. All the written zeros here are ordinary digit zeros with decimals ('0.00'), not the ambiguous open-O glyph, so they are recorded at high confidence. Footer 'Devron Andersen', '8/6/2024', Page '4 of 4'.\n\nThe two year-to-date boxes (C and E) being left blank while the this-period boxes read $0.00 is an honest gap in the filing: this is a 'no change since last report' final disclosure and the filer did not carry the cycle totals forward. Nothing was inferred or filled in for them.\n\nLEDGER CHECK - NAME DISCREPANCY TO FLAG: the ledger's candidate value is 'Devron Anderson' (-SON) and the canonical filename is '2024_cc_2024_Devron_Anderson_Final_Disclosure.pdf' (-SON), but the FILING ITSELF spells the surname 'Andersen' (-SEN) in all four hand-written instances. The document is the primary source; recorded as 'Devron Andersen'. The ledger/filename spelling appears to be the error. Also, the ledger's scope_status='undetermined' is CONTRADICTED by the page evidence: the Office box reads 'county Council South', so scope is county, office_std 'County Council', seat 'South'."
+}

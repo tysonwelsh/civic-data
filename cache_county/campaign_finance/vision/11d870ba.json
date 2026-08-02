@@ -1,0 +1,122 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "3a9ff74df69fd3ceb8c38919e7125d7c1b933bf051904196804b4211523186cd",
+ "canonical_path": "raw/2016/2016_cc_Casey_Saxton_Campaign_Finance_Report.pdf",
+ "applies_to": [
+  "raw/2016/2016_cc_Casey_Saxton_Campaign_Finance_Report.pdf"
+ ],
+ "pages_read": [
+  1
+ ],
+ "form_read": "carr_5_5_pg",
+ "statutory_citation_printed": "The financial campaign law is in the Cache County Code 2.21",
+ "cover": {
+  "candidate_stated": {
+   "v": "MIKEL CASEY SAXTON",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "CACHE COUNTY COUNCIL - LOGAN DISTRICT 1",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "LOGAN DISTRICT #1",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "REPUBLICAN PARTY",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "LOGAN",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "JILL ZOLLINGER, CACHE",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "6/29/2016",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "carr_three_column",
+  "lines": {
+   "contrib_over_50": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "3,113.26",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "3113.26",
+     "c": "high"
+    }
+   },
+   "contrib_50_or_less": {
+    "last": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "this": {
+     "v": "N/A",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "N/A",
+     "c": "high"
+    }
+   },
+   "total_expenses": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "3,113.26",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "3113.26",
+     "c": "high"
+    }
+   },
+   "ending_balance": {
+    "last": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "this": {
+     "v": "0.00",
+     "c": "high"
+    },
+    "cumulative": {
+     "v": "0.00",
+     "c": "high"
+    }
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "LOGAN DISTRICT #1",
+  "evidence": "page 1 'Name of Office' reads 'CACHE COUNTY COUNCIL - LOGAN DISTRICT 1'; 'Office District' reads 'LOGAN DISTRICT #1'; 'Political Party' reads 'REPUBLICAN PARTY'",
+  "confidence": "high"
+ },
+ "notes": "The filer struck out the printed qualifiers on lines 1 and 2 ('who gave more than $50.00' and the whole 'Aggregate total of contributions of $50.00 or less' label) and wrote N/A across line 2 \u2014 so line 1 as filed is ALL contributions, not only those over $50. Line 4's CUMULATIVE box is circled by hand."
+}

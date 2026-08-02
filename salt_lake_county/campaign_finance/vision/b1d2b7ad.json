@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$14,818.82",
+ "total_expenditures": "$20,462.41",
+ "beginning_balance": "$11,518.99",
+ "ending_balance": "$5,875.40",
+ "aggregate": {
+  "total_contributions_to_date": "$45,204.43",
+  "total_expenditures_to_date": "$39,329.03",
+  "line5_subtotal": "$26,337.81"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "Interim Report: Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/25/14",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Nelson_Steve_DA_Oct14.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2014",
+  "source_pdf": "raw/clerk_legacy/Nelson_Steve_DA_Oct14.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "LABEL DISAGREEMENT: the clerk listing says 'October'; the FORM checks 'Seven days before a general election' (older blank, no October-dated option). Neither amendment box is marked. Signature handwritten 10/25/14, Summary Page header 'Nelson / 10/28/2014', clerk-stamped OCT 28 2014 - three dates, all recorded here (report_date takes the signature). A handwritten '8 pages' is noted at the top of the cover, matching the PDF's page count. Column A arithmetic checks out (11,518.99 + 14,818.82 = 26,337.81; minus 20,462.41 = 5,875.40). Line 3's $11,518.99 does NOT continue the June filing's Line 7 of $10,803.76 - a September 15 interim would sit between them and is not in this chunk, so this is a chain gap to note rather than an error on the face of the form."
+ }
+}

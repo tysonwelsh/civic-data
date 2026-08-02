@@ -1,0 +1,114 @@
+{
+ "filing_key": "wayback_financialreports|2014-06-17|TOM DURRANT",
+ "channel": "wayback_financialreports",
+ "sheet_type": "summary_sheet",
+ "is_incremental": true,
+ "regime_note": "County Candidate Summary sheet: the Contributions / Expenditures columns are PER-PERIOD increments; the Balance column is the running cumulative balance. The companion Contributions / Expenditures ledgers restate the whole cycle to date.",
+ "primary_path": "raw/wayback_financialreports/6 17 2014 Summary - Tom Durrant_06-10-2014.xls",
+ "primary_doc_kind": "summary",
+ "files": [
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Summary - Tom Durrant_06-10-2014.xls",
+   "doc_kind": "summary",
+   "sha256": "d011151e3b630641656e55e7be84bc38ff4593cbfaa9afd630ae2d7adb0fb68f",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Contributions - Tom Durrant_06-10-2014.xls",
+   "doc_kind": "contributions",
+   "sha256": "e955ecb5c000af66309f903ee081b4dcb2ed3d5bca9661f928ed0a23ecdfd029",
+   "format": "spreadsheet"
+  },
+  {
+   "path": "raw/wayback_financialreports/6 17 2014 Expenditures - Tom Durrant_06-10-2014.xls",
+   "doc_kind": "expenditures",
+   "sha256": "1f4f358f81c5e2b19fc6f16af178ad54ca936365aa399355f0d5a96eef5b6f48",
+   "format": "spreadsheet"
+  }
+ ],
+ "transcribed_by": "born-digital-read(pdftotext -layout / xlrd cell read; 2026-08-01 totals tranche)",
+ "extract_method": "xls_cells(xlrd)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Tom Durant",
+  "office": "ASSESSOR",
+  "district": "COUNTY",
+  "election_year": "2014"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "high"
+ },
+ "index_office": "Assessor",
+ "index_office_source": "document",
+ "index_office_confidence": "high",
+ "index_candidate": "Tom Durant",
+ "index_reporting_year": "2014",
+ "index_cycle_year": "2014",
+ "index_filing_type": "",
+ "printed_rows": [
+  {
+   "submitted": "2014-04-04",
+   "date_due": "2014-04-04",
+   "contrib_gt50": "4500.0",
+   "contrib_le50": "106.0",
+   "expenses": "3594.81",
+   "balance": "1011.19"
+  },
+  {
+   "submitted": "2014-06-10",
+   "date_due": "2014-06-17",
+   "contrib_gt50": "1000.0",
+   "contrib_le50": "22.0",
+   "expenses": "1778.1",
+   "balance": "255.09"
+  }
+ ],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "",
+   "submitted": "2014-06-10",
+   "date_due": "2014-06-17",
+   "period_start": "",
+   "period_end": "",
+   "row_index": 1,
+   "row_basis": "date_due matches the deadline stamped on the filename",
+   "contrib_gt50_this_printed": "1000.0",
+   "contrib_gt50_this": "1000",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_cum_printed": "",
+   "contrib_gt50_cum": "",
+   "contrib_le50_this_printed": "22.0",
+   "contrib_le50_this": "22",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_this_printed": "1778.1",
+   "expenses_this": "1778.10",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_cum_printed": "",
+   "expenses_cum": "",
+   "balance_end_printed": "255.09",
+   "balance_end": "255.09",
+   "balance_last_printed": "1011.19",
+   "balance_last": "1011.19",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "high",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T15:08:12Z"
+}

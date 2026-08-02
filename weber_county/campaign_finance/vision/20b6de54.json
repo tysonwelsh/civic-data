@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "20b6de54",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p91",
+ "page_start": 91,
+ "page_end": 93,
+ "summary_page": 91,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "JAMES H. \"Jim\" HARVEY",
+ "office_stated": "WEBER County Commission - SEAT C",
+ "report_type_stated": "October 29",
+ "filing_date_stated": "2024-10-28",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "55,610.05",
+   "this": "13,100.",
+   "cum": "68,710.05"
+  },
+  "expenditures": {
+   "last": "38,692.46",
+   "this": "8,477.55",
+   "cum": "47,170.01"
+  },
+  "ending_balance": {
+   "last": "17,217.59",
+   "this": "4,622.42",
+   "cum": "21,840.01"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN. Each column adds internally. Contributions minus expenditures (21,540.04) does not equal the printed ending balance (21,840.01) - filer arithmetic, retained."
+}

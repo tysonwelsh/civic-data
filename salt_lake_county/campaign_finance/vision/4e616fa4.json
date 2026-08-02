@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$4,446.00",
+ "total_expenditures": "$5,050.12",
+ "beginning_balance": "$604.12",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "$12,184.00",
+  "total_expenditures_to_date": "$12,184.00",
+  "line5_subtotal": "$5050.12"
+ },
+ "cover": {
+  "candidate": "Merrill Cook",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Mayor",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "5/10/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Cook_M_12_Final_Mayor_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Merrill Cook",
+  "office": "Mayor",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Cook_M_12_Final_Mayor_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Two-office-box form; both office fields read 'Salt Lake County Mayor'. Column B (Aggregate Total) carries the SAME figure - $12,184.00 - on line 1 (contributions to date) and line 2 (expenditures to date); recorded exactly as written, not reconciled. Lines 5 and 6 are written '5050.12' without a thousands comma. Line 7 is a hand-drawn plain zero (open circle), recorded as 0. Cents are raised superscripts. Neither amendment box is checked. Line 3 ($604.12) matches line 7 of the April interim report; 604.12 + 4,446.00 = 5,050.12, consistent."
+ }
+}

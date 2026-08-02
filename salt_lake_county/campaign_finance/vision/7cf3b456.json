@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Lawrence Rey Topham",
+  "party": "Personal Choice",
+  "office_sought": "Clerk",
+  "district_number": "",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/31/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/ltopham_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lawrence Rey Topham",
+  "office": "Clerk",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/ltopham_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110; pages 1-2 re-rendered at -r 250",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Lines 1 and 2 (both columns), 3 and 7 are hand-drawn slashed zeros. Lines 4, 5 and 6 Column A carry NO figure - instead a single long vertical pen stroke runs down through all three cells, which is a 'nothing entered' mark rather than a digit, so line5_subtotal is recorded as \"\" (blank) and NOT as 0. Re-rendered at 250 dpi to confirm both this and the signature date, which reads 10/31/06 (the '1' of 31 is crowded by the signature). Neither amendment box is checked."
+ }
+}

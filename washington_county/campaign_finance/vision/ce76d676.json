@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/live_wp/Gil-Almquist-Financial-012026.pdf",
+ "channel": "live_wp",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/live_wp/Gil-Almquist-Financial-012026.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/live_wp/Gil-Almquist-Financial-012026.pdf",
+   "doc_kind": "statement",
+   "sha256": "bf0deb10fa26d70ada068d1d105b580a40096d9c949b4795f8b2238d965eba4a",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "GILBERT M. ALMQUIST",
+  "office": "WASHINGTON COUNTY COMMISSIONER SEAT A",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "",
+  "filed_to": ""
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "portal_listing",
+ "index_office_confidence": "medium",
+ "index_candidate": "GIL ALMQUIST",
+ "index_reporting_year": "2025",
+ "index_cycle_year": "",
+ "index_filing_type": "annual",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "1-10-2026",
+   "period_start": "JAN 1, 2025",
+   "period_end": "DEC. 31 - 2025",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "-0-",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "5,000.00",
+   "contrib_gt50_this": "5000",
+   "contrib_gt50_cum_printed": "-",
+   "contrib_gt50_cum": "",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "-0-",
+   "expenses_last": "",
+   "expenses_this_printed": "-0-",
+   "expenses_this": "",
+   "expenses_cum_printed": "-0-",
+   "expenses_cum": "",
+   "balance_last_printed": "-",
+   "balance_last": "",
+   "balance_this_printed": "5,000",
+   "balance_this": "5000",
+   "balance_end_printed": "5,000",
+   "balance_end": "5000",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "3-LINE variant. The CUMULATIVE contribution cell is left blank (only the form's printed '-' mark) even though the THIS column states 5,000.00 - retained as filed, not reconciled."
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:38:19Z"
+}

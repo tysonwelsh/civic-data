@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/wayback_forms2018/Oct 30_Gil Almquist_FCR_10-31-2018.pdf",
+ "channel": "wayback_forms2018",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/wayback_forms2018/Oct 30_Gil Almquist_FCR_10-31-2018.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/wayback_forms2018/Oct 30_Gil Almquist_FCR_10-31-2018.pdf",
+   "doc_kind": "statement",
+   "sha256": "bb52d4019c4f6e97c3f77ab7e6272391dddb4c0d361c5d462c778a51be078497",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Gilbert Michael Almquist",
+  "office": "Washington County Commissioner",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "St. George",
+  "filed_to": "Washington County Offices, Kim Hafen"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "",
+  "election_year": "",
+  "party": "",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Commission Seat A",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Gilbert Michael Almquist",
+ "index_reporting_year": "2018",
+ "index_cycle_year": "2018",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "",
+   "period_start": "6/29/2018",
+   "period_end": "10/30/2018",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "29728.39",
+   "contrib_gt50_last": "29728.39",
+   "contrib_gt50_this_printed": "12300",
+   "contrib_gt50_this": "12300",
+   "contrib_gt50_cum_printed": "42028.39",
+   "contrib_gt50_cum": "42028.39",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "27236.46",
+   "expenses_last": "27236.46",
+   "expenses_this_printed": "5920.21",
+   "expenses_this": "5920.21",
+   "expenses_cum_printed": "33156.67",
+   "expenses_cum": "33156.67",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "8871.72",
+   "balance_end": "8871.72",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": "typed form; same report as pages 7-10 of the live-page bundle (cache 34d8c67d)"
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:50:43Z"
+}

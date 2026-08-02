@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "983e0137",
+ "source_filing": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+ "document_id": "2024_combined_92078f_26b6bacd#p98",
+ "page_start": 98,
+ "page_end": 101,
+ "summary_page": 98,
+ "election_cycle": "2024",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:27:57Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "John Ulibarri",
+ "office_stated": "Assessor",
+ "report_type_stated": "October 29",
+ "filing_date_stated": "2024-10-25",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "0",
+   "this": "0",
+   "cum": "0"
+  },
+  "expenditures": {
+   "last": "0",
+   "this": "0",
+   "cum": "0"
+  },
+  "ending_balance": {
+   "last": "0",
+   "this": "0",
+   "cum": "0"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN over a typed form, and the summary block SPANS TWO PAGES (p98 line 1, p99 lines 2-3 - both read). On lines 1 and 2 the typed 742.76 in the 'last report' and 'cumulative' cells is STRUCK THROUGH and a handwritten 0 written above it; the transcribed value is the filer's own correction (0), with the struck 742.76 recorded here in the note rather than dropped. County-redacted address."
+}

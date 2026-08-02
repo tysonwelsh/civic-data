@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "de32aa18",
+ "source_filing": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+ "document_id": "2022_combined_7e3a53_78d55edd#p50",
+ "page_start": 50,
+ "page_end": 52,
+ "summary_page": 50,
+ "election_cycle": "2022",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:09:26Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Brian Keith Rowley",
+ "office_stated": "County Commissioner Seat B",
+ "report_type_stated": "",
+ "filing_date_stated": "2022-11-01",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "",
+   "this": "459.65",
+   "cum": "459.65"
+  },
+  "expenditures": {
+   "last": "",
+   "this": "425.36",
+   "cum": "425.36"
+  },
+  "ending_balance": {
+   "last": "-",
+   "this": "34.29",
+   "cum": "34.29"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "HANDWRITTEN 2022 3-line form (p50 of the 2022 archive). NO report-type box is checked (honest blank)."
+}

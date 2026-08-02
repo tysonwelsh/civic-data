@@ -1,0 +1,59 @@
+{
+ "path": "raw/2014/2014_10-14Smith.pdf",
+ "key": "a0202d15",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:25:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JEFFERY DEAN SMITH",
+   "party_printed": "RED",
+   "office_printed": "COUNTY RECORDER",
+   "residence_city": "OREM",
+   "report_type_printed": "Seven days preceding the General Election",
+   "is_amendment": "No",
+   "report_date": "10/27/2014",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "1465.54",
+    "contrib_cumulative": "7065.54",
+    "expend_this_period": "1500.00",
+    "expend_cumulative": "7065.54",
+    "balance_beginning": "3446",
+    "subtotal_before_expend": "1500.00",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "1465.54",
+    "line1_total_contributions_colB": "7065.54",
+    "line2_total_expenditures_colA": "1500.00",
+    "line2_total_expenditures_colB": "7065.54",
+    "line3_balance_beginning": "3446",
+    "line4_total_contributions_from_line1A": "1465.54",
+    "line5_subtotal_lines3plus4": "1500.00",
+    "line6_total_expenditures_from_line2A": "1500.00",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "low",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "high",
+    "balance_beginning": "low",
+    "subtotal_before_expend": "high",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in black ink, block capitals. Political Party glyph reads 'RED' (three block letters R-E-D); it may be the filer's abbreviation for Republican but the third letter is written as a D, so it is transcribed exactly as it appears at LOW confidence - not normalized. Line 3 'Balance at Beginning' is written '$3446' with NO decimal point legible and the form's printed black arrow graphic overlapping its right edge; the four digits 3446 are transcribed verbatim at low confidence (the filer's own lines 4 and 5 would be consistent with 34.46, but no decimal is printed and nothing was arithmetic-derived here). Line 2 Column A is written as '1500' with a raised superscript '00' for cents (transcribed 1500.00); the dollar sign there is overwritten/struck. Line 7 is a single slashed-zero glyph, transcribed 0 at medium confidence. County date stamp OCT 27 PM12:31."
+  }
+ ],
+ "notes": ""
+}

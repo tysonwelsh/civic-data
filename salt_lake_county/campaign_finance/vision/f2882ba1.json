@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,905.50",
+ "total_expenditures": "2,374.43",
+ "beginning_balance": "767.96",
+ "ending_balance": "1,299.03",
+ "aggregate": {
+  "total_contributions_to_date": "4,305.50",
+  "total_expenditures_to_date": "3,006.47",
+  "line5_subtotal": "3,673.46"
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "Democrat",
+  "office_sought": "Auditor",
+  "district_number": "Countywide",
+  "report_type": "June 20",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/20/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/20_june_hatch_jeff06.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "Auditor",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/20_june_hatch_jeff06.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Faxed copy (banner '06/20/2006 15:59 FAX 8014850623 HATCH'). District Number box holds the word 'Countywide'. NEITHER amendment box is checked. Summary Page header reads 'Page 1 of 4, HATCH, 6/20/04' - the year in the Date of Report appears to be a filer slip (cover signature 6/20/06, clerk stamp JUN 20 2006); retained verbatim in this note, report_date taken from the signature. Column A internally consistent."
+ }
+}

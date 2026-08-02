@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "68,592.76",
+ "total_expenditures": "59,359.82",
+ "beginning_balance": "20,866.20",
+ "ending_balance": "30,099.14",
+ "aggregate": {
+  "total_contributions_to_date": "116,612.86",
+  "total_expenditures_to_date": "86,513.72",
+  "line5_subtotal": "89,458.96"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat.",
+  "office_sought": "Dist Atty",
+  "district_number": "Countywide",
+  "report_type": "Interim Report: September 15 (for the period ending September 10, 2006)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/sgill_sept152006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/sgill_sept152006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten; 16-page PDF (summary page header says 'Page 1 of 5' - the filer numbered only the report proper, the rest are schedule pages). Neither amendment box is checked. No dollar signs written. Balance summary is internally consistent."
+ }
+}

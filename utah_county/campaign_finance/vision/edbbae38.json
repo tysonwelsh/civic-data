@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_David_O_Leavitt.pdf",
+ "key": "edbbae38",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:18:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "David O Leavitt",
+   "party_printed": "",
+   "office_printed": "Utah County Attorney",
+   "residence_city": "Orem",
+   "report_type_printed": "30 Days after withdrawal or elimination",
+   "is_amendment": "No",
+   "report_date": "8/1/2022",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "33,786.18",
+    "contrib_cumulative": "435,619.54",
+    "expend_this_period": "165,189.35",
+    "expend_cumulative": "435,480.39",
+    "balance_beginning": "131,646.76",
+    "subtotal_before_expend": "165,432.94",
+    "balance_close": "243.59"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "131,646.76",
+    "boxB_contributions_received_this_period": "33,786.18",
+    "boxC_contributions_received_year_to_date": "435,619.54",
+    "boxD_expenditures_made_this_period": "165,189.35",
+    "boxE_expenditures_made_year_to_date": "435,480.39",
+    "boxF_subtotal_before_expenditures": "165,432.94",
+    "balance_at_close": "243.59"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, crisp scan. No '$' prefixes on this filing's boxes. Not redacted - street address (869 S 1100 E, Orem, UT 84097) and wet signature are visible; only residence_city recorded. Email field blank on the form. Box A (131,646.76) carries forward exactly from the Box G close of the same filer's 6/20/2022 primary report (key 94690c69). Close box is labeled 'G'; key kept as 'balance_at_close' to match the reference cache shape."
+  }
+ ],
+ "notes": "index.csv variant_guess was legacy_colAB; the filing is the modern Box A-F form. No version string in the footer."
+}

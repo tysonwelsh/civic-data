@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2,081.56",
+ "total_expenditures": "3,171.84",
+ "beginning_balance": "2,000",
+ "ending_balance": "909.72",
+ "aggregate": {
+  "total_contributions_to_date": "2,081.56",
+  "total_expenditures_to_date": "3,171.84",
+  "line5_subtotal": "4,081.56"
+ },
+ "cover": {
+  "candidate": "Brent Cardall",
+  "party": "Republican",
+  "office_sought": "Sheriff office",
+  "district_number": "",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/3/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/bcardall_apr52006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brent Cardall",
+  "office": "Sheriff",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/bcardall_apr52006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250 to confirm decimal separators)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Decimal points on lines 1 and 5 Column A are very faint at 110 dpi and were confirmed at 250 dpi (they are decimal points, not commas). Neither amendment box is checked. 'Sheriff office' is written across the Office Sought / District Number fields. Stamped COPY / RECEIVED APR 03 2006. Form arithmetic checks out (2,000 + 2,081.56 = 4,081.56; minus 3,171.84 = 909.72)."
+ }
+}

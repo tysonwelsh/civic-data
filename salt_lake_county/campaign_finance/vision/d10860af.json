@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "2900 -",
+ "total_expenditures": "3351.92",
+ "beginning_balance": "451.92",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "16,647.85",
+  "total_expenditures_to_date": "16,647.85",
+  "line5_subtotal": "3,351.92"
+ },
+ "cover": {
+  "candidate": "JOE HATCH",
+  "party": "DEMOCRATIC",
+  "office_sought": "COUNCIL",
+  "district_number": "1",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "12/2/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jhatch_10_FinalDissolution_CntyCncl_1.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Joe Hatch",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/jhatch_10_FinalDissolution_CntyCncl_1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This IS a full multi-page report (not a bare dissolution notice) - the Final/Dissolution box is checked and the Summary Page is complete. Signed 12/2/10, clerk-stamped DEC 03 2010. Line 1 Column A cents are a trailing dash ('2900 -'); Column B cents are raised superscripts (16,647 with a superscript 85 on both lines) - transcribed with a decimal point. Line 7 is a slashed zero. Beginning balance 451.92 matches the prior year-end report's closing balance exactly, and contributions-to-date equals expenditures-to-date at 16,647.85, consistent with a zeroed-out dissolved account."
+ }
+}

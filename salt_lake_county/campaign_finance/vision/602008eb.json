@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "42,100",
+ "total_expenditures": "54,843.51",
+ "beginning_balance": "18,503.86",
+ "ending_balance": "5760.35",
+ "aggregate": {
+  "total_contributions_to_date": "146,270",
+  "total_expenditures_to_date": "140,509.65",
+  "line5_subtotal": "60,603.86"
+ },
+ "cover": {
+  "candidate": "Randy Horiuchi",
+  "party": "Democrat",
+  "office_sought": "Council at Large A",
+  "district_number": "",
+  "report_type": "Amendment (no Type-of-Report box checked); hand-written header 'September 2008 2nd Amendment'",
+  "is_amendment": "Yes",
+  "amendment_of": "2/14/13",
+  "report_date": "2/14/13",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "medium",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Horiuchi_R_08_Sept_Amended_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Randy Horiuchi",
+  "office": "County Council",
+  "election_year": "2008",
+  "source_pdf": "raw/clerk_legacy/Horiuchi_R_08_Sept_Amended_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 300 with crop)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "2012-vintage blank hand-titled 'September 2008 2nd Amendment' on the cover and 'September 2008' on the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Line 2 Column B writes the cents crammed at the cell edge ('140,509' then '65'), read at 300 dpi as 140,509.65. Line 7 is written '5760.35' without a thousands comma - recorded as seen. Line 3 chains from the June amendment's line 7. Arithmetic checks: 18,503.86 + 42,100 = 60,603.86 and 60,603.86 - 54,843.51 = 5,760.35."
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,000",
+ "total_expenditures": "686.05",
+ "beginning_balance": "1,657.17",
+ "ending_balance": "4,971.12",
+ "aggregate": {
+  "total_contributions_to_date": "4,000.00",
+  "total_expenditures_to_date": "686.05",
+  "line5_subtotal": "5,657.17"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Interim Report: April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/2012",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/Burdicik_M_12_April_Interim_CntyCncl6_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2012",
+  "source_pdf": "raw/clerk_legacy/Burdicik_M_12_April_Interim_CntyCncl6_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "This filer writes the cents as a raised superscript over a rule throughout - transcribed with a decimal point. Line 1 Column A carries no cents at all ('4,000'); Column B on the same line adds a superscript 00. The source filename misspells the surname ('Burdicik'); the form reads Max Burdick. The top-row Office box reads 'Council'. Neither amendment box is checked. Arithmetic consistent (1,657.17 + 4,000 = 5,657.17; less 686.05 = 4,971.12). Superseded three weeks later by the amendment, key c10eb166."
+ }
+}

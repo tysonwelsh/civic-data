@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_VoeksBrian_Redacted.pdf",
+ "key": "e5b86de6",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:18:00Z",
+ "pages_read": [1, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Brian Voeks",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "Provo",
+   "report_type_printed": "30 Days after the Primary Election",
+   "is_amendment": "No",
+   "report_date": "July 9, 2020",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "6,544.68",
+    "contrib_cumulative": "17,166.06",
+    "expend_this_period": "6,544.68",
+    "expend_cumulative": "17,166.06",
+    "balance_beginning": "0.00",
+    "subtotal_before_expend": "6,544.68",
+    "balance_close": "0.00"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0.00",
+    "boxB_contributions_received_this_period": "6,544.68",
+    "boxC_contributions_received_year_to_date": "17,166.06",
+    "boxD_expenditures_made_this_period": "6,544.68",
+    "boxE_expenditures_made_year_to_date": "17,166.06",
+    "boxF_subtotal_before_expenditures": "6,544.68",
+    "balance_at_close": "0.00"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Born-digital typed fillable form, scanned; crisp. The form prints no political-party field. Every summary box is printed with a leading '$'; the '$' is dropped per the transcription convention, the comma grouping is kept as printed. Signature redacted upstream by the county (black bar); the Date box and Date of Report both read 'July 9, 2020'. Page face agrees with candidate_index and office_index."
+  }
+ ],
+ "notes": ""
+}

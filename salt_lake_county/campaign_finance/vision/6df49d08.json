@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "1,372.71",
+ "beginning_balance": "1,372.71",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1,372.71"
+ },
+ "cover": {
+  "candidate": "Larry Richardson",
+  "party": "R",
+  "office_sought": "County Treasurer",
+  "district_number": "NA",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/5/2011",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/lrichardson_10_FinalDis_Treasurer.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Larry W. Richardson",
+  "office": "Treasurer",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/lrichardson_10_FinalDis_Treasurer.pdf",
+  "pages_read": [
+   1,
+   2,
+   4,
+   12
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "BUNDLE: an 18-page packet. Pages 1-4 are the report itself (a later form variant whose Type of Report block reads 'FINAL / DISSOLUTION REPORT' and whose Column B is headed 'Aggregate Total'); pages 5-18 are attached Wells Fargo Free Checking statements for 'RICHARDSON FOR TREASURER' account 511005266, evidencing the zero closing balance. This form ALSO has two office fields: a top-row 'Office' (County Treasurer) and a separate 'Office Sought' (County Treasurer) - both read the same, so no ambiguity. BOTH Column B cells (Lines 1 and 2) were left BLANK by the filer, recorded as \"\" not 0. Neither amendment box is checked. Signature date 1/5/2011, clerk-stamped JAN 05 2011, though the clerk listing files it under 2010. Schedule B (page 4) shows the single expenditure: 12/31/2010, Rescue Mission of Salt Lake, 'Charitable Contribution (see 2-72A-201)', 1,372.71."
+ }
+}

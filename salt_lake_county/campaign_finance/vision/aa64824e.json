@@ -1,0 +1,52 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "520.00",
+ "total_expenditures": "461.17",
+ "beginning_balance": "-58.83",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "461.17"
+ },
+ "cover": {
+  "candidate": "Cal Noyce",
+  "party": "Democrat",
+  "office_sought": "SL Cty Council",
+  "district_number": "1",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/21/12",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/CNoyce_12_Final_CntyCncl1_Redacted.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Calvin J. Noyce",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/CNoyce_12_Final_CntyCncl1_Redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110 (page 2 re-rendered at -r 250)",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Faxed copy. Older two-office-box form: top-row 'Office' reads 'SL County Council 1'; 'Office Sought' reads 'SL Cty Council' with District Number 1 - Office Sought used. Line 3 is a NEGATIVE balance written with a leading minus sign (-58.83), not accounting parentheses. Line 7 is written '0 00' with no visible decimal point; transcribed 0.00 at medium confidence. Column B (Aggregate Total) is blank on lines 1 and 2. Neither amendment box is checked. The Summary Page header block gives a 'Date of Report' of 1-23-11 while the cover signature is dated 1/21/12 - the two disagree; the cover date is recorded. The page block reads 'Page 2 of 5' (the full filing continues with Schedules A/B, not transcribed)."
+ }
+}

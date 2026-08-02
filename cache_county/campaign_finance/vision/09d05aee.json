@@ -1,0 +1,107 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "method": "pdftoppm -jpeg -r 150 -scale-to 1400 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "4b13dc9072e79b8ec23467aacbbf8c72023a27bebd69a91a0097983fe28dc89d",
+ "canonical_path": "raw/2022/2022_cc_Mark_R_Hurd_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_Mark_R_Hurd_22G.pdf",
+  "raw/2022/2022_cc_Mark_R_Hurd_d27c4a.pdf",
+  "raw/2022/2022_wb_Mark_R_Hurd_22G.pdf"
+ ],
+ "pages_read": [
+  1,
+  4
+ ],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "",
+ "cover": {
+  "candidate_stated": {
+   "v": "Mark Randy Hurd",
+   "c": "high"
+  },
+  "office_verbatim": {
+   "v": "Cache County Council  Northeast District",
+   "c": "high"
+  },
+  "office_district": {
+   "v": "Northeast District",
+   "c": "high"
+  },
+  "party_verbatim": {
+   "v": "",
+   "c": "high"
+  },
+  "residence_city": {
+   "v": "Hyde Park",
+   "c": "high"
+  },
+  "addressee": {
+   "v": "",
+   "c": "high"
+  },
+  "report_type_marked": {
+   "v": "30 Days after the General Election",
+   "c": "high"
+  },
+  "date_signed": {
+   "v": "Dec. 8th, 2022",
+   "c": "high"
+  },
+  "received_stamp": {
+   "v": "CLERK/AUDITOR RCVD 2022 DEC 8 PM 2:24",
+   "c": "high"
+  }
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin": {
+    "v": "$0.00",
+    "c": "high"
+   },
+   "B_contrib_this_period": {
+    "v": "$2861.35",
+    "c": "high"
+   },
+   "C_contrib_ytd": {
+    "v": "$2861.35",
+    "c": "high"
+   },
+   "D_expend_this_period": {
+    "v": "$2170.25",
+    "c": "high"
+   },
+   "E_expend_ytd": {
+    "v": "$2170.25",
+    "c": "high"
+   },
+   "F_subtotal_before_expend": {
+    "v": "$2861.35",
+    "c": "high"
+   },
+   "closing_balance": {
+    "v": "$691.10",
+    "c": "high"
+   }
+  },
+  "schedule_totals": {
+   "total_contributions_received": {
+    "v": "",
+    "c": "high"
+   },
+   "total_expenditures_made": {
+    "v": "",
+    "c": "high"
+   }
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "Northeast District",
+  "evidence": "page 1 'Office' box reads, in the filer's hand, 'Cache County Council  Northeast District'",
+  "confidence": "high"
+ },
+ "notes": "This vintage of the form offers FIVE report-type boxes (adding the two primary-election ones). '30 Days after the General Election' is marked. The 'Date of Report' box reads 'Nov. 1, 2022' with the year struck through, while the signature is dated Dec. 8th 2022 \u2014 both retained. Figures are identical to this filer's Nov. 1 report."
+}

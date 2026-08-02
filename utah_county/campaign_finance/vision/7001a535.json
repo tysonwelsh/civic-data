@@ -1,0 +1,58 @@
+{
+ "path": "raw/2014/2014_6-14Sheriff-Tracy_Redacted.pdf",
+ "key": "7001a535",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:25:00Z",
+ "pages_read": [1, 2],
+ "form_variant": "legacy_colAB",
+ "form_version": "",
+ "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
+ "reports": [
+  {
+   "candidate_printed": "JAMES O. TRACY",
+   "party_printed": "REPUBLICAN",
+   "office_printed": "SHERIFF",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "",
+   "report_date": "06-17-14",
+   "summary_page": 2,
+   "totals": {
+    "contrib_this_period": "0",
+    "contrib_cumulative": "0",
+    "expend_this_period": "65.00",
+    "expend_cumulative": "65.00",
+    "balance_beginning": "(65.00)",
+    "subtotal_before_expend": "(65.00)",
+    "balance_close": "0"
+   },
+   "totals_verbatim": {
+    "line1_total_contributions_colA": "0",
+    "line1_total_contributions_colB": "0",
+    "line2_total_expenditures_colA": "65.00",
+    "line2_total_expenditures_colB": "65.00",
+    "line3_balance_beginning": "(65.00)",
+    "line4_total_contributions_from_line1A": "(65.00)",
+    "line5_subtotal_lines3plus4": "(65.00)",
+    "line6_total_expenditures_from_line2A": "(65.00)",
+    "line7_balance_at_close": "0"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "high",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten. The entire street-address block and the phone number are redacted upstream by the county (solid black bars), so residence_city could not be read; the fax field reads 'NONE'. Lines 1 and 7 are slashed-zero glyphs (the filer's zero), transcribed as 0 at medium confidence. Lines 3, 4, 5 and 6 are each written in PARENTHESES as (65.00) - the filer's own notation, reproduced verbatim rather than interpreted; note the filer's figures are internally inconsistent with the form's instructions (line 4 is directed to carry line 1 Column A, which he wrote as zero). Cents are written as a raised superscript '00'. Neither amendment box is marked, so is_amendment is left empty. Page 2 carries the printed header '2014 County Candidate' and a clerk received stamp JUN 17 PM 5:35 appears on the cover."
+  }
+ ],
+ "notes": ""
+}

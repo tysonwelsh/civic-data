@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "25147.90",
+ "total_expenditures": "29,551.49",
+ "beginning_balance": "8094.02",
+ "ending_balance": "3690.43",
+ "aggregate": {
+  "total_contributions_to_date": "60 934.02",
+  "total_expenditures_to_date": "57,243.59",
+  "line5_subtotal": "33241.92"
+ },
+ "cover": {
+  "candidate": "Janice Auger",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "At-Large C",
+  "report_type": "October 31",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10-30-06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/jauger_oct312006.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Janice Auger",
+  "office": "County Council",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/jauger_oct312006.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten. Line 1 Column B is written '60 934.02' \u2014 a SPACE where the thousands comma belongs \u2014 recorded verbatim rather than normalized. district_number holds 'At-Large C' because that is what the filer wrote in the District Number cell. Signature date 10-30-06; the Summary Page 'Date of Report' box reads 10-30-06 too. Neither the amendment Yes nor No box is checked. Arithmetic closes."
+ }
+}

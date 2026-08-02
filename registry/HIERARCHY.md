@@ -48,7 +48,7 @@ Geography lives in the relationship edges, not the folder tree (SCHEMA_SPEC §0)
     - **St. George** (`st_george`, fed 10, built (db))
   - **Juab County** (`juab_county`, fed 107, built (modules, db-less))
     - **Nephi** (`nephi`, fed 3, built (db))
-  - **Wasatch County** (`wasatch_county`, fed 108, registered only)
+  - **Wasatch County** (`wasatch_county`, fed 108, built (modules, db-less))
     - **Park City** (`park_city`, fed 6, built (db)) — straddle/secondary (high)
 
 Totals: 31 cities/towns · 8 counties · 2 regional · 3 state = 44 entities.

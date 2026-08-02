@@ -1,0 +1,56 @@
+{
+ "path": "raw/2022/2022_Renee_Tribe.pdf",
+ "key": "5afd8850",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-01T23:35:00Z",
+ "pages_read": [1, 6],
+ "form_variant": "modern_boxAF",
+ "form_version": "",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Renée Tribe",
+   "party_printed": "",
+   "office_printed": "Utah County Commissioner Seat A",
+   "residence_city": "Lindon",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "06/21/2022",
+   "summary_page": 6,
+   "totals": {
+    "contrib_this_period": "24,800.00",
+    "contrib_cumulative": "27,990.00",
+    "expend_this_period": "22,360.44",
+    "expend_cumulative": "24,106.90",
+    "balance_beginning": "1443.54",
+    "subtotal_before_expend": "26,243.54",
+    "balance_close": "2,136.64"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "1443.54",
+    "boxB_contributions_received_this_period": "24,800.00",
+    "boxC_contributions_received_year_to_date": "27,990.00",
+    "boxD_expenditures_made_this_period": "22,360.44",
+    "boxE_expenditures_made_year_to_date": "24,106.90",
+    "boxF_subtotal_before_expenditures": "26,243.54",
+    "boxG_balance_at_close": "2,136.64"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "medium",
+    "expend_cumulative": "medium",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Entirely handwritten, in ink, on a photographed (not flat-scanned) page; legible throughout. The candidate signs the Name field 'Renée Tribe' with an acute accent; the summary page's own Name box is written 'Renee Tribe' without it - both transcribed as printed in their own place (candidate_printed keeps the cover page's accented form). Box A's decimal point is written as a comma-like stroke ('1443,54'); transcribed as 1443.54 at medium confidence. FILER ARITHMETIC NOTE, NOT CORRECTED: Box G (2,136.64) equals Box F minus Box E, not Box F minus Box D as the printed label directs (F - D would be 3,883.10). Both boxes are transcribed exactly as written and neither is adjudicated. Office is written 'Utah County Commissioner Seat A', agreeing with index.csv."
+  }
+ ],
+ "notes": ""
+}

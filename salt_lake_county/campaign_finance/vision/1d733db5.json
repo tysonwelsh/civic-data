@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "4,052.39",
+ "total_expenditures": "6,838.20",
+ "beginning_balance": "2,826.23",
+ "ending_balance": "$40.42",
+ "aggregate": {
+  "total_contributions_to_date": "4,052.39",
+  "total_expenditures_to_date": "6,838.20",
+  "line5_subtotal": "6,878.62"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large \"C\"",
+  "report_type": "January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-08",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/08_jbradley_jan31.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/08_jbradley_jan31.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "2008-era form variant (no year in title). The top-row 'Office' box reads 'County Council' and the separate 'Office Sought' box is BLANK - the Office value is reported here as office_sought; the District Number box holds 'At-Large \"C\"'. NEITHER amendment box is checked. Summary Page header box is entirely BLANK; Column B header 'Aggregate Total'. Line 7 is written with a leading dollar-sign-like glyph ('$40.42') - kept verbatim. Line 3 (2,826.23) matches Line 7 of Bradley's 1-31-07 report (key 42fcb1df); arithmetic consistent."
+ }
+}

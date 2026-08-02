@@ -1,0 +1,96 @@
+{
+ "filing_key": "FILE|raw/state_disclosures/washington_2010 Elections_Cory Pulsipher 4-6-10.pdf",
+ "channel": "state_disclosures",
+ "sheet_type": "cover_form",
+ "is_incremental": false,
+ "regime_note": "County FINANCIAL CAMPAIGN REPORT cover form: the three money columns are 'Totals from LAST Report' + 'Totals from THIS report' = 'Cumulative report'. The CUMULATIVE column is the cycle-to-date figure; a cycle total is the LATEST report, never the sum of reports.",
+ "primary_path": "raw/state_disclosures/washington_2010 Elections_Cory Pulsipher 4-6-10.pdf",
+ "primary_doc_kind": "statement",
+ "files": [
+  {
+   "path": "raw/state_disclosures/washington_2010 Elections_Cory Pulsipher 4-6-10.pdf",
+   "doc_kind": "statement",
+   "sha256": "0cde4d05066520a42f066c45b6e76446311b1947fc7e22e5f8b6be021feb23ec",
+   "format": "scanned"
+  }
+ ],
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "extract_method": "vision_read(pdftoppm 170dpi page image + Read tool)",
+ "contrib_columns_split": true,
+ "cover": {
+  "candidate": "Cory Clarke Pulsipher",
+  "office": "Washington County Sheriff",
+  "district": "Washington",
+  "election_year": "",
+  "party": "Republican",
+  "residence_city": "St. George",
+  "filed_to": "Washington"
+ },
+ "cover_conf": {
+  "candidate": "high",
+  "office": "high",
+  "district": "high",
+  "election_year": "",
+  "party": "high",
+  "residence_city": "high",
+  "filed_to": "high"
+ },
+ "index_office": "Sheriff",
+ "index_office_source": "person_roster",
+ "index_office_confidence": "medium",
+ "index_candidate": "Cosy Cocke Oulsiaher —",
+ "index_reporting_year": "2010",
+ "index_cycle_year": "2010",
+ "index_filing_type": "",
+ "printed_rows": [],
+ "reports": [
+  {
+   "report_no": 1,
+   "pages": "1",
+   "submitted": "",
+   "date_due": "",
+   "report_date": "4-5-2010",
+   "period_start": "",
+   "period_end": "",
+   "row_index": "",
+   "row_basis": "cover-form totals block, read from the page image",
+   "contrib_gt50_last_printed": "",
+   "contrib_gt50_last": "",
+   "contrib_gt50_this_printed": "5300.00",
+   "contrib_gt50_this": "5300",
+   "contrib_gt50_cum_printed": "5300.00",
+   "contrib_gt50_cum": "5300",
+   "contrib_le50_last_printed": "",
+   "contrib_le50_last": "",
+   "contrib_le50_this_printed": "",
+   "contrib_le50_this": "",
+   "contrib_le50_cum_printed": "",
+   "contrib_le50_cum": "",
+   "expenses_last_printed": "",
+   "expenses_last": "",
+   "expenses_this_printed": "2493.77",
+   "expenses_this": "2493.77",
+   "expenses_cum_printed": "2493.77",
+   "expenses_cum": "2493.77",
+   "balance_last_printed": "",
+   "balance_last": "",
+   "balance_this_printed": "",
+   "balance_this": "",
+   "balance_end_printed": "2806.23",
+   "balance_end": "2806.23",
+   "conf": {
+    "contrib_gt50": "high",
+    "contrib_le50": "",
+    "expenses": "high",
+    "balance": "high"
+   },
+   "blank_fields": [
+    "contrib_le50_cum"
+   ],
+   "notes": ""
+  }
+ ],
+ "unreadable": [],
+ "notes": "",
+ "generated_utc": "2026-08-02T03:42:30Z"
+}

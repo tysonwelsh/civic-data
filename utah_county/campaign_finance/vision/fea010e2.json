@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Carolina_Herrin_Redacted.pdf",
+ "key": "fea010e2",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:30:00Z",
+ "pages_read": [1, 8],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Carolina Herrin",
+   "party_printed": "",
+   "office_printed": "UTAH COUNTY COMMISSION SEAT B",
+   "residence_city": "Spanish Fork",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/16/26",
+   "summary_page": 8,
+   "totals": {
+    "contrib_this_period": "52799.96",
+    "contrib_cumulative": "52799.96",
+    "expend_this_period": "13170.43",
+    "expend_cumulative": "13170.43",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "52799.96",
+    "balance_close": "39629.53"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "52799.96",
+    "boxC_contributions_received_year_to_date": "52799.96",
+    "boxD_expenditures_made_this_period": "13170.43",
+    "boxE_expenditures_made_year_to_date": "13170.43",
+    "boxF_subtotal_before_expenditures": "52799.96",
+    "balance_at_close": "39629.53"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form, printed and scanned via CamScanner (a 'Scanned with CamScanner' watermark sits in the bottom-right of both pages). The Office field is the one HANDWRITTEN field on the cover, in block capitals: 'UTAH COUNTY COMMISSION SEAT B' (index.csv 'County Commission Seat B' - agrees). Street address, phone number and signature are redacted upstream by the county; the printed city 'Spanish Fork, UT 84660' and the email survive. Summary figures are typed without dollar signs and without thousands separators. PAGE-COUNT INCONSISTENCY inside the filing: the cover's Page box reads '1 of 7' while the summary page's reads '8 of 8' (the PDF has 8 pages) - the filer's own numbering, recorded not corrected. Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

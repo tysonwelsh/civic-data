@@ -1,0 +1,56 @@
+{
+ "path": "raw/2020/2020_andrea-4-15-22-Primary_Redacted.pdf",
+ "key": "1e98a167",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:45:00Z",
+ "pages_read": [1, 4],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 4.20",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Andrea Allen",
+   "party_printed": "",
+   "office_printed": "Utah County Recorder",
+   "residence_city": "",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/23/20",
+   "summary_page": 4,
+   "totals": {
+    "contrib_this_period": "9396.50",
+    "contrib_cumulative": "9396.50",
+    "expend_this_period": "9266.96",
+    "expend_cumulative": "9266.96",
+    "balance_beginning": "0",
+    "subtotal_before_expend": "9396.50",
+    "balance_close": "129.54"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "0",
+    "boxB_contributions_received_this_period": "9396.50",
+    "boxC_contributions_received_year_to_date": "9396.50",
+    "boxD_expenditures_made_this_period": "9266.96",
+    "boxE_expenditures_made_year_to_date": "9266.96",
+    "boxF_subtotal_before_expenditures": "9396.50",
+    "balance_at_close": "129.54"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "high",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "high",
+    "contrib_cumulative": "high",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "high",
+    "balance_close": "high"
+   },
+   "unreadable": [],
+   "notes": "Typed fillable form; the Office field alone is HANDWRITTEN in blue ink and reads 'Utah County Recorder' (legible, high confidence). The entire Address/City/State/Zip row, the phone number and the signature are redacted upstream by the county (black bars) - residence_city is therefore '' and is NOT recoverable from this page. Box A is a bare '0'. Amounts print without comma grouping (9396.50) - kept as printed. The cover Date box and Date of Report both read '6/23/20'; the summary page's own footer prints the same date long-form as 'June 23, 2020'; a clerk received-stamp reads '20 JUN 23 PM 3:47'. REPORTING-PERIOD DISAGREEMENT with the index: index reporting_period says 'Andrea Allen - 10/27/2020', but the page is the 6/23/20 'Seven days preceding the Primary Election' report. Candidate and office agree with candidate_index / office_index."
+  }
+ ],
+ "notes": ""
+}

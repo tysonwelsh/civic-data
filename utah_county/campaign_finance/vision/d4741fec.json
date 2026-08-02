@@ -1,0 +1,56 @@
+{
+ "path": "raw/2026/2026_Brent_V._Bowles_Redacted.pdf",
+ "key": "d4741fec",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T00:15:00Z",
+ "pages_read": [1, 5],
+ "form_variant": "modern_boxAF",
+ "form_version": "v. 12.23",
+ "form_title": "Financial Campaign Report for County and Local School Board Candidates",
+ "reports": [
+  {
+   "candidate_printed": "Brent Bowles",
+   "party_printed": "",
+   "office_printed": "",
+   "residence_city": "Springville",
+   "report_type_printed": "Seven days preceding the Primary Election",
+   "is_amendment": "No",
+   "report_date": "6/15/26",
+   "summary_page": 5,
+   "totals": {
+    "contrib_this_period": "51667.96",
+    "contrib_cumulative": "51667.96",
+    "expend_this_period": "43061.32",
+    "expend_cumulative": "43061.32",
+    "balance_beginning": "51,667.96",
+    "subtotal_before_expend": "51667.96",
+    "balance_close": "8606.44"
+   },
+   "totals_verbatim": {
+    "boxA_balance_at_beginning": "51,667.96",
+    "boxB_contributions_received_this_period": "51667.96",
+    "boxC_contributions_received_year_to_date": "51667.96",
+    "boxD_expenditures_made_this_period": "43061.32",
+    "boxE_expenditures_made_year_to_date": "43061.32",
+    "boxF_subtotal_before_expenditures": "51667.96",
+    "balance_at_close": "8606.44"
+   },
+   "confidence": {
+    "candidate_printed": "high",
+    "party_printed": "",
+    "office_printed": "low",
+    "report_type_printed": "high",
+    "report_date": "high",
+    "contrib_this_period": "medium",
+    "contrib_cumulative": "medium",
+    "expend_this_period": "high",
+    "expend_cumulative": "high",
+    "balance_beginning": "medium",
+    "balance_close": "medium"
+   },
+   "unreadable": [],
+   "notes": "Handwritten in blue ink on the printed v. 12.23 form. THE OFFICE FIELD IS COMPLETELY BLANK - the filer left it empty, so office_printed is '' (index.csv carries 'County Commission Seat A'; the page makes no office claim - DISAGREEMENT by omission). The page name reads 'Brent Bowles' (index.csv 'Brent V. Bowles' - no middle initial on the page). Street address, phone and signature redacted upstream by the county; the printed city 'Springville, Ut 84663' survives. CENTS NOTATION: boxes A, B, C and F are written with the cents as a FRACTION over 100 (e.g. A reads '51,667. 96/100'); recorded here as 51,667.96 / 51667.96 at medium confidence - the dollars are unambiguous, the fraction form is the filer's own. Box A also carries a comma thousands separator that B, C and F do not. FILER ARITHMETIC NOTE, no correction applied: the form's formula Box F - Box D would give 8,606.64, but the Balance at Close is written as $8606.44 - the final cents digit is a 4-shaped glyph; transcribed as read at medium confidence, NOT recomputed. Boxes A and B being equal while the close is non-zero is likewise the filer's own accounting, transcribed as printed. Cover prints the filing address as 'disclosures@utahcounty.gov'."
+  }
+ ],
+ "notes": ""
+}

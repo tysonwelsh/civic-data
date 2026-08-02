@@ -1,0 +1,52 @@
+{
+ "_schema": "summit_county/campaign_finance vision cache v1 — COVER-PAGE STATED TOTALS ONLY (no donor itemization)",
+ "_column_contract": "Summit's cover box runs Current | Last(=Previous, 2024 sheet) | Cumulative — the REVERSE of the parsed cities' sheet. All three columns are captured VERBATIM and LABELLED here; the builder promotes one per the rule documented in CLAUDE.md. \"\" = the cell was EMPTY (or a slashed-zero / dash nil mark) on the form; null = a value is present but ILLEGIBLE and was never guessed.",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T03:23:09Z",
+ "method": "vision via the Read tool on a pdftoppm -jpeg -r 200 render of page 1 cropped to the top 80% ($0 API; Claude Code allotment)",
+ "source": {
+  "document_id": "23015",
+  "path": "raw/2024/23015_Richardson-Final-2024-Financial-Disclosure.pdf",
+  "page": 1,
+  "sha256": "0eab87b799d61cc374010e4b34f0de2e5fc92670e21add5652347a3db81a2efb",
+  "source_url": "https://www.summitcountyutah.gov/DocumentCenter/View/23015/Richardson-Final-2024-Financial-Disclosure",
+  "index_text_quality": "medium",
+  "index_format": "scanned"
+ },
+ "form_variant": "single_total_2024",
+ "cover": {
+  "column_order": [
+   "current_report",
+   "previous_report",
+   "cumulative_total"
+  ],
+  "candidate_as_printed": "THOMAS (CAMI) RICHARDSON",
+  "office_verbatim": "SUMMIT COUNTY COUNCIL - SEAT A",
+  "party_verbatim": "DEMOCRATIC",
+  "signature_date_as_printed": "4/18/24",
+  "rows": {
+   "contrib_total": {
+    "current_report": "1064.46",
+    "previous_report": "0",
+    "cumulative_total": "1064.46"
+   },
+   "total_expenditures": {
+    "current_report": "904.15",
+    "previous_report": "0",
+    "cumulative_total": "904.15"
+   },
+   "campaign_balance": {
+    "current_report": "160.31",
+    "previous_report": "0",
+    "cumulative_total": "160.31"
+   }
+  }
+ },
+ "field_confidence": {
+  "candidate": "high",
+  "office": "high",
+  "stated_totals": "medium"
+ },
+ "itemized_transcribed": false,
+ "notes": "2024 sheet, handwritten. The Current and Cumulative contributions cells both read 1064.46 (the Cumulative was first transcribed 1044.46; see the correction below), and the filer's own balance row agrees: 160.31 = 1064.46 - 904.15. Signature date read from the certification block. CORRECTION 2026-08-02 (verification pass): the cumulative contribution was transcribed 1044.46; re-read at 600 dpi it is 1064.46 - the third glyph is the same 6 form the filer writes in the trailing .46, and the Current cell is 1064.46 against a Previous of 0. stated_total_contributions changes 1044.46 -> 1064.46. CORRECTION 2026-08-02 (independent verification, agent 3): the signature date was transcribed 4/10/24; re-read at 400 dpi it is 4/18/24 (the second digit is an 8, closed at top and bottom). filing_date changes 2024-04-10 -> 2024-04-18. No money cell changes."
+}

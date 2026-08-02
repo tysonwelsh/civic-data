@@ -1,0 +1,48 @@
+{
+ "cache_version": 1,
+ "cache_key": "a0efc661",
+ "source_filing": "raw/y2026/2026_ugd_92078f_f36d6ca9.pdf",
+ "document_id": "2026_ugd_92078f_f36d6ca9",
+ "page_start": 1,
+ "page_end": 4,
+ "summary_page": 1,
+ "election_cycle": "2026",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+ "transcribed_utc": "2026-08-02T02:51:39Z",
+ "read_method": "vision (rendered summary page @200dpi)",
+ "itemized_transcribed": false,
+ "candidate_stated": "Sharon Arrington Bolos",
+ "office_stated": "County Commissioner - Seat B",
+ "report_type_stated": "",
+ "filing_date_stated": "2026-07-19",
+ "form_variant": "3line",
+ "stated": {
+  "contrib_all": {
+   "last": "47,405.39",
+   "this": "11,120.00",
+   "cum": "58,525.39"
+  },
+  "expenditures": {
+   "last": "43,163.15",
+   "this": "10,338.94",
+   "cum": "53,502.09"
+  },
+  "ending_balance": {
+   "last": "4,242.24",
+   "this": "781.06",
+   "cum": "5,023.30"
+  }
+ },
+ "confidence": {
+  "candidate": "high",
+  "office": "high",
+  "report_type": "high",
+  "filing_date": "high",
+  "contrib_gt50": "high",
+  "contrib_le50": "high",
+  "contrib_all": "high",
+  "expenditures": "high",
+  "ending_balance": "high"
+ },
+ "notes": "2026 form variant, HANDWRITTEN. NO report-type box marked (checkboxes dropped by the scan). All three columns reconcile. This is the filer's latest 2026 report in the retained set."
+}

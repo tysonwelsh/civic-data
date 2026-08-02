@@ -1,0 +1,53 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "1920,00",
+ "total_expenditures": "4043.07",
+ "beginning_balance": "2134.50",
+ "ending_balance": "11.43",
+ "aggregate": {
+  "total_contributions_to_date": "2510.00",
+  "total_expenditures_to_date": "375.50",
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "B. Kent Morgan",
+  "party": "Republican",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "Yes",
+  "amendment_of": "April 5",
+  "report_date": "4/24/06",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/kmorgan_apr2406amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "B. Kent Morgan",
+  "office": "District Attorney",
+  "election_year": "",
+  "source_pdf": "raw/clerk_legacy/kmorgan_apr2406amend.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_date": "2026-08-01",
+  "notes": "Line 1 Column A is written with a comma where the decimal point belongs ('1920,00') - kept verbatim. Line 5 (Subtotal) is overwritten/struck: it reads roughly '4?35.00' with the second digit written over another digit; not confidently readable, recorded null. INTERNAL INCONSISTENCY as printed: Line 2 Column B (Sum Total to Date, 375.50) is far SMALLER than Line 2 Column A (this period, 4043.07) - transcribed as printed, not reconciled. Column B cents on lines 1 and 2 are written in the superscript-over-line style ('2510.00', '375.50'). Summary Page header box (page N of M / last name / date of report) left blank. Received stamp APR 24 2006."
+ }
+}

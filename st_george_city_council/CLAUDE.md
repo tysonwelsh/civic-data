@@ -161,10 +161,17 @@ is headed with the caveat). **10 transcripts / ~106k words; 37 uncaptioned** (`u
 
 ## Campaign finance (`campaign_finance/`) — additive, as-of 2026-07-02
 Built by `expand-city-sources` (Source 6). Completes **elections → members → votes**: who
-funded the candidates. **104 rows / 14 scanned packet PDFs**, cycles **2021, 2023, 2025**;
+funded the candidates. **106 rows / 16 raw PDFs** (14 scanned city packets + 2 state-channel
+amended 2023 filings, added 2026-08-01), cycles **2021, 2023, 2025**;
 `validate_dataset.py` PASS.
 - Municipal campaign-finance reports are filed with the **City Recorder** (Utah Code
-  10-3-208), NOT `disclosures.utah.gov` (state-only) or the county (verified empty). The
+  10-3-208). The county channel is empty, and the state `disclosures.utah.gov` Municipal tree
+  is *mostly* not a St. George channel — with one proven exception (found 2026-08-01): its
+  `washington_2024_St. George` folder holds **two AMENDED 2023 filings the city never
+  posted** (Larkin's restates the pre-primary $24,690→$22,555; Kemp's re-files unchanged
+  figures). Both are ingested (`source_archive=state_disclosures`, `filing_type=amended`);
+  the originals stay verbatim, marked superseded — Larkin's 2023 cycle total is **$33,610
+  raised / $31,491.92 spent** (was 35,745/34,665.24 before the amendment was found). The
   city posts **combined per-deadline packets** (all candidates in one scanned PDF); each is
   split into one `index.csv` row per candidate.
 - **2023 + 2025 live** on `sgcityutah.gov` (Revize root-relative quirk: 2025 files resolve

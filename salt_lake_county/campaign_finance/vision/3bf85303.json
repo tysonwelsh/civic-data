@@ -1,0 +1,56 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "11,247.86",
+ "total_expenditures": "9,841.84",
+ "beginning_balance": "1,835.48",
+ "ending_balance": "3,241.15",
+ "aggregate": {
+  "total_contributions_to_date": "13,083.34",
+  "total_expenditures_to_date": "9,841.84",
+  "line5_subtotal": "13,083.34"
+ },
+ "cover": {
+  "candidate": "LESLIE REBERG",
+  "party": "DEMOCrat",
+  "office_sought": "RECORDER",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "Yes",
+  "amendment_of": "6-20-06",
+  "report_date": "",
+  "form_year": "2006"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/RebergL_Recorder_June2006Amend.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Leslie Reberg",
+  "office": "Recorder",
+  "election_year": "2006",
+  "source_pdf": "raw/clerk_legacy/RebergL_Recorder_June2006Amend.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Amendment to the June 2006 interim. NO interim/year-end/final box is checked at all - only the amendment 'Yes' box, with '6-20-06' written as the date of the report being amended, so report_type is an honest empty string. The Report Verification block is entirely BLANK (no printed name, no signature, no date), hence report_date is an empty string. Clerk RECEIVED stamp JUN 21 2006. Summary Page is PDF page 2 here (contributions schedule page 3, expenditures page 4). ARITHMETIC INCONSISTENCY kept verbatim: Line 5 (13,083.34) minus Line 6 (9,841.84) is 3,241.50, but Line 7 reads 3,241.15 (digits transposed on the face). Versus the original June filing, expenditures were restated 7,493.98 -> 9,841.84 (the expenditure schedule now also lists the candidate's loan/in-kind items)."
+ }
+}

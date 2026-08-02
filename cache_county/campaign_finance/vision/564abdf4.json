@@ -1,0 +1,46 @@
+{
+ "schema": "cache_cf_totals_v1",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, resumed)",
+ "method": "pdftoppm -jpeg -r 200 -scale-to 1800 + Read tool (Claude Code allotment; no Anthropic API)",
+ "sha256": "c6fe0dac2aeacc2ec711afd5323f6284f5220519bb20834bb2ec0f496a06b442",
+ "canonical_path": "raw/2024/2024_cc_2024_Devron_Andersen.pdf",
+ "applies_to": ["raw/2024/2024_cc_2024_Devron_Andersen.pdf"],
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "form_read": "cache_cfd",
+ "statutory_citation_printed": "Aggregate for all single donations of $50 or less. Cache County Code 2.21.050.C.1.",
+ "cover": {
+  "candidate_stated":  {"v": "Devron Andersen", "c": "high"},
+  "office_verbatim":   {"v": "Cache County Council", "c": "high"},
+  "office_district":   {"v": "South Seat #6", "c": "high"},
+  "party_verbatim":    {"v": "", "c": "high"},
+  "residence_city":    {"v": "Mendon,", "c": "high"},
+  "addressee":         {"v": "Cache County CLERK/AUDITOR (preprinted 'Where to File': Email elections@cachecounty.gov; Mail: 179 North Main St. Suite 102, Logan, Utah 84321)", "c": "high"},
+  "report_type_marked":{"v": "Seven days preceding the General Election", "c": "high"},
+  "date_signed":       {"v": "6/18/2024", "c": "high"},
+  "received_stamp":    {"v": "CLERK/AUDITOR RC'VD 2024 JUN 18 PM 4:41", "c": "medium"}
+ },
+ "stated": {
+  "basis": "cfd_period_ytd",
+  "boxes": {
+   "A_balance_begin":          {"v": "$0.00", "c": "high"},
+   "B_contrib_this_period":    {"v": "$10,132.30", "c": "high"},
+   "C_contrib_ytd":            {"v": "$10,132.30", "c": "high"},
+   "D_expend_this_period":     {"v": "$10,132.30", "c": "high"},
+   "E_expend_ytd":             {"v": "$10,132.30", "c": "high"},
+   "F_subtotal_before_expend": {"v": "$10,132.30", "c": "high"},
+   "closing_balance":          {"v": "$0.00", "c": "high"}
+  },
+  "schedule_totals": {
+   "total_contributions_received": {"v": "10,132.30", "c": "high"},
+   "total_expenditures_made":      {"v": "10,132.30", "c": "high"}
+  }
+ },
+ "office_determination": {
+  "scope": "county",
+  "office_std": "County Council",
+  "seat": "South Seat #6",
+  "evidence": "page 1 'Office' box reads, in typed text, 'Cache County Council' on the first line and 'South Seat #6' on the second",
+  "confidence": "high"
+ },
+ "notes": "Fully typed (word-processed) filing, 6 pages, self-numbered '1 of 6' ... '6 of 6'; the Summary Page IS the last page (page 6). Layout: cover(1), Schedule A(2), Schedule B(3,4,5), Summary(6). Schedule A prints its 'Total Contributions Received $ 10,132.30' on page 2 (its only Schedule A page); Schedule B prints 'Total Expenditures Made $ 10,132.30' on page 5 (the last Schedule B page); the intermediate Schedule B pages 3 and 4 print only per-page subtotals (6,417.93 and 1,524.24) and no grand total. Values recorded verbatim: the schedule TOTAL lines omit the leading '$' glyph after the printed dollar sign, the Summary boxes include it. Schedule A carries the printed statutory/code line 'Aggregate for all single donations of $50 or less. Cache County Code 2.21.050.C.1.' with $82.30 as the aggregate row -- recorded in statutory_citation_printed as the only code citation the instrument prints. The Schedule B page-4 row '5/13/2024 IFA T-Posts 114.92' is printed WITHOUT a dollar sign (all other amounts carry one) -- noted only as an observation; no itemization is transcribed in this tranche. Nothing unreadable. Candidate name matches the ledger ('Devron Andersen'); note the surname is spelled 'Andersen' (with an e) on the page, consistent with this filing's ledger row -- a companion 2024 filing in the same tranche (cache_key 7cbce92c) is ledgered as 'Devron Anderson' (with an o). The received stamp is a faint vertical office stamp along the right edge of the 'Office Use Only' box; read as 'CLERK/AUDITOR RC'VD 2024 JUN 18 PM 4:41' at medium confidence -- the minute digits are the least certain characters. Neither 'Logged' nor 'Transmitted' is marked. Amendment question marked 'No'."
+}

@@ -1,0 +1,54 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "$12,526.19",
+ "total_expenditures": "$12,574.31",
+ "beginning_balance": "$5438.20",
+ "ending_balance": "$5390.08",
+ "aggregate": {
+  "total_contributions_to_date": "$53,721.19",
+  "total_expenditures_to_date": "$48,331.11",
+  "line5_subtotal": "$17,964.39"
+ },
+ "cover": {
+  "candidate": "Holly Mullen",
+  "party": "Democrat",
+  "office_sought": "County Council At-Large B",
+  "district_number": "",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "report_type": "high",
+  "office_sought": "high"
+ },
+ "_meta": {
+  "index_path": "raw/clerk_legacy/hmullen_10_Sept_Interim.pdf",
+  "era": "clerk_legacy",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Holly Mullen",
+  "office": "County Council",
+  "election_year": "2010",
+  "source_pdf": "raw/clerk_legacy/hmullen_10_Sept_Interim.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 110",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
+  "transcribed_date": "2026-08-02",
+  "notes": "Handwritten, heavy pen. Summary Page header box is blank. Neither the amendment Yes nor No box is checked. Arithmetic closes."
+ }
+}

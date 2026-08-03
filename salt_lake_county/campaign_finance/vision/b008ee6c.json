@@ -1,6 +1,322 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "L Gene Mortense",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,22.12,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-17' - not parseable, left blank (never filled from the report date). NAME CLIPPED: the surname's last letter runs into the column rule; legible glyphs are 'L Gene Mortense' plus one partial letter (read at 600 dpi) - NOT completed here. Amount written '25-' (trailing dash = no cents). Occupation 'UDC'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Ann Cardon",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,26.12,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-17' - not parseable, left blank (never filled from the report date). amount written '25-'; occupation 'UDC'"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "John Minichino",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,30.12,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-17' - not parseable, left blank (never filled from the report date). amount written '200-'; occupation 'SLCC'"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Todd Carter.",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,34.12,84.78,3.94@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-17' - not parseable, left blank (never filled from the report date). amount written '30-'; occupation 'UDC/APP'"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "Brian Haslem",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,38.06,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-18' - not parseable, left blank (never filled from the report date). amount written '500.-'; occupation 'Azteca Systems inc'"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "Richard Henriksen",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,42.06,84.78,3.94@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-19' - not parseable, left blank (never filled from the report date). amount written '100-'; occupation 'Lawyer/Attorney Henriksen & Henriksen PC'"
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "Bryson Garbett",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,46.00,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-24' - not parseable, left blank (never filled from the report date). amount written '250.-'; occupation 'Developer'"
+  },
+  {
+   "line_no": 8,
+   "donor_raw": "Clifford Harmon",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,50.00,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '6-28' - not parseable, left blank (never filled from the report date). amount written '25-'; occupation 'Retired Dr.'"
+  },
+  {
+   "line_no": 9,
+   "donor_raw": "John Winder",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,54.00,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '8-20' - not parseable, left blank (never filled from the report date). amount written '50-'; occupation 'Retired'"
+  },
+  {
+   "line_no": 10,
+   "donor_raw": "Rick Votaw",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,58.00,84.78,4.00@p3",
+   "note": "DATE HAS NO YEAR: cell reads '8-23' - not parseable, left blank (never filled from the report date). amount written '250-'; occupation cell blank"
+  },
+  {
+   "line_no": 11,
+   "donor_raw": "Sherron Sheen",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,62.00,84.78,3.94@p3",
+   "note": "DATE HAS NO YEAR: cell reads '9-8' - not parseable, left blank (never filled from the report date). written as one run 'SherronSheen'; amount written '50-'; occupation 'Retired'"
+  },
+  {
+   "line_no": 12,
+   "date": "2008-07-31",
+   "donor_raw": "America First",
+   "amount": "0.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.65,69.94,84.78,4.00@p3",
+   "note": "printed '.02'; purpose/occupation cell reads 'INTEREST PAY' - a bank interest credit"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Contemporary Image",
+   "purpose": "Shirts",
+   "amount": "280.37",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,24.79,78.59,4.00@p4",
+   "note": "DATE HAS NO YEAR: cell reads '6-18' - not parseable, left blank (never filled from the report date). "
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Njecia Renckert",
+   "purpose": "reimburse for Fundraising equipment",
+   "amount": "88.97",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,28.79,78.59,3.94@p4",
+   "note": "DATE HAS NO YEAR: cell reads '6-18' - not parseable, left blank (never filled from the report date). first name read at 600 dpi as 'Njecia'; 'Niecia' is a possible alternative reading of the same glyphs"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Sweet Candy Co",
+   "purpose": "Candy, Parades",
+   "amount": "172.42",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,32.73,78.59,4.00@p4",
+   "note": "DATE HAS NO YEAR: cell reads '6-20' - not parseable, left blank (never filled from the report date). "
+  },
+  {
+   "line_no": 4,
+   "date": "2008-06-20",
+   "vendor_raw": "Home Depot",
+   "purpose": "Parade Float",
+   "amount": "56.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,36.73,78.59,4.00@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-06-17",
+   "vendor_raw": "SL Co. Clerk",
+   "purpose": "map",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,40.73,78.59,3.94@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2008-06-17",
+   "vendor_raw": "Paper Factory",
+   "purpose": "PARADE FLOAT STUF",
+   "amount": "8.54",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,44.67,78.59,4.00@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2008-06-27",
+   "vendor_raw": "WAL-MART",
+   "purpose": "PARADE STUF",
+   "amount": "7.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,48.67,78.59,3.94@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2008-07-03",
+   "vendor_raw": "Home Depot",
+   "purpose": "PARADE STUF",
+   "amount": "5.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,52.61,78.59,4.00@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2008-07-03",
+   "vendor_raw": "WAL-MART",
+   "purpose": "PARADE STUF",
+   "amount": "58.32",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,56.61,78.59,4.00@p4"
+  },
+  {
+   "line_no": 10,
+   "date": "2008-07-04",
+   "vendor_raw": "WAL-MART",
+   "purpose": "PARADE CANDY",
+   "amount": "25.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,60.61,78.59,4.00@p4"
+  },
+  {
+   "line_no": 11,
+   "date": "2008-08-20",
+   "vendor_raw": "WAL-MART",
+   "purpose": "OFFICE/FLYERS",
+   "amount": "13.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,64.61,78.59,4.00@p4"
+  },
+  {
+   "line_no": 12,
+   "date": "2008-08-23",
+   "vendor_raw": "Costco",
+   "purpose": "FLYER INK",
+   "amount": "133.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,68.61,78.59,4.00@p4"
+  },
+  {
+   "line_no": 13,
+   "date": "2008-08-24",
+   "vendor_raw": "Office Depot",
+   "purpose": "FLYER PAPER",
+   "amount": "31.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,72.61,78.59,4.00@p4"
+  }
+ ],
  "total_contributions": "1,505.02",
  "total_expenditures": "902,40",
  "beginning_balance": "2,255.08",
@@ -50,6 +366,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The ORIGINAL September report (its amendment is key 832c79a9, which restates lines 1, 5 and 7 upward by 1.65 and blanks Column B line 2). Neither amendment box is checked here. Page box reads 'Page 2 of 4', date of report '09.15.2008'. Line 2 is written with a DECIMAL COMMA ('902,40'), recorded exactly as written; line 6 repeats the same figure the same way. Both Column B figures chain off the AMENDED June report (7,308.78 + 1,505.02 = 8,813.80; 5,053.70 + 902.40 = 5,956.10), not the original June figures."
+  "notes": "The ORIGINAL September report (its amendment is key 832c79a9, which restates lines 1, 5 and 7 upward by 1.65 and blanks Column B line 2). Neither amendment box is checked here. Page box reads 'Page 2 of 4', date of report '09.15.2008'. Line 2 is written with a DECIMAL COMMA ('902,40'), recorded exactly as written; line 6 repeats the same figure the same way. Both Column B figures chain off the AMENDED June report (7,308.78 + 1,505.02 = 8,813.80; 5,053.70 + 902.40 = 5,956.10), not the original June figures.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1,505.02",
+     "itemized": "1505.02",
+     "result": "exact",
+     "detail": "exact (1505.02 = 1,505.02); the page's own SUBTOTAL is written with a decimal COMMA, '1505,02'"
+    },
+    "expenditures": {
+     "stated": "902,40",
+     "itemized": "902.40",
+     "result": "exact",
+     "detail": "exact: the itemized rows sum to 902.40 and Schedule B prints subtotal AND total as '902.40'. The chunk's stated_e '902,40' is the SUMMARY PAGE's decimal-comma rendering of the same figure - the two agree once the comma is read as the decimal point"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1505.02 = printed subtotal '1505,02'; p4 rows 902.40 = printed subtotal 902.40 - both gate exactly",
+   "escalations": 4,
+   "escalation_note": "250 dpi date+name / amount composite strips for p3 and p4; 600 dpi cell crops for the clipped contributor name on p3 row 1 and the recipient name on p4 row 2",
+   "n_contrib_rows": 12,
+   "n_expend_rows": 13,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten 2008 form, 4 pages: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. Both sides gate and reconcile exactly. DATES: this filer wrote most dates WITHOUT A YEAR ('6-17', '8-20', '9-8') - 11 of 12 Schedule A rows and 3 of 13 Schedule B rows. Those dates are left BLANK with the verbatim in the row note per contract; the year was never inferred from the report date. The Complete Mailing Address column is empty on every Schedule A row, so donor_city/donor_state are blank (filer omission). AMOUNT CONVENTION: this filer writes whole dollars with a trailing dash ('25-', '500.-'); those are transcribed as .00 per contract and each is noted. The last Schedule A line is a $0.02 America First bank INTEREST payment, not a donor - kept as printed."
+  }
  }
 }

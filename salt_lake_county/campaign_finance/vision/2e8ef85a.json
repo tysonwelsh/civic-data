@@ -1,6 +1,94 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Dana Dickson",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.91,24.17,82.71,4.01@p3",
+   "note": "date printed '5/13' with NO YEAR - left blank per contract; address column empty on the form; occupation 'Engineer'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Don + Barbara Ostler",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.91,28.18,82.71,3.87@p3",
+   "note": "date printed as a smudged month glyph over '/18' (reads 5/18 or 3/18) with NO YEAR - left blank; address column empty; occupation 'Retired'"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "Ramie Votaw",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.91,32.06,82.71,3.88@p3",
+   "note": "ESCALATED to 600 dpi: given name reads as the glyph string 'Ramie' but could equally be 'Rannie' or 'Ronnie' - NOT resolved, glyph string kept rather than a plausible name; shares the candidate's surname (Votaw). Date cell is faded to near-nothing ('~/4') and carries no year - left blank. Address column empty; occupation 'Student'"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "$50 and under",
+   "amount": "954.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.91,35.93,82.71,4.06@p3",
+   "note": "AGGREGATE unitemized line, not a named donor - the name cell literally reads '$50 and under'. Date printed '6/14' with NO YEAR - left blank. Occupation cell empty"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "JV2",
+   "amount": "4500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.91,39.99,82.71,3.92@p3",
+   "note": "date printed '5/10' with NO YEAR - left blank; '(website)' is written above the amount in the amount cell; occupation 'Design Agency'; no in-kind marker on the form despite the mirrored Schedule B row"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "JV2",
+   "purpose": "Adwords",
+   "amount": "342.68",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.34,23.99,74.97,3.35@p4",
+   "note": "date printed '5/10' with NO YEAR - left blank per contract; amount written '342.68' with a trailing tick"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "JV2",
+   "purpose": "website",
+   "amount": "4500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.34,27.34,74.97,3.92@p4",
+   "note": "date printed as a smudged month glyph over '/10' with NO YEAR - left blank; mirrors Schedule A row 5"
+  }
+ ],
  "total_contributions": "6804",
  "total_expenditures": "4842.68",
  "beginning_balance": "0",
@@ -49,6 +137,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1, 4 and 5 Column A are written as a bare '6804' with no cents at all - recorded exactly as printed, not padded to 6804.00. Line 3 is a slashed zero. District Number holds a single dash (recorded '-'). The manifest calls this the June report; the form actually checks 'Seven days before a primary election' (Utah's 2010 primary was June 22) and the Summary Page's Date-of-Report box reads 6-15-2010. The signature-date rule is faint but reads '6-15-2010'. This filer writes the party as 'GOP' here and 'REP' on his other 2010 filings. Line 7 (1,961.32) matches the September report's opening balance."
+  "notes": "Lines 1, 4 and 5 Column A are written as a bare '6804' with no cents at all - recorded exactly as printed, not padded to 6804.00. Line 3 is a slashed zero. District Number holds a single dash (recorded '-'). The manifest calls this the June report; the form actually checks 'Seven days before a primary election' (Utah's 2010 primary was June 22) and the Summary Page's Date-of-Report box reads 6-15-2010. The signature-date rule is faint but reads '6-15-2010'. This filer writes the party as 'GOP' here and 'REP' on his other 2010 filings. Line 7 (1,961.32) matches the September report's opening balance.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "6804",
+     "itemized": "6804.00",
+     "result": "exact",
+     "detail": "exact (rows 6804.00 = printed subtotal/TOTAL 6804 = stated 6804)"
+    },
+    "expenditures": {
+     "stated": "4842.68",
+     "itemized": "4842.68",
+     "result": "exact",
+     "detail": "exact (rows 4842.68 = printed subtotal/TOTAL 4842.68 = stated 4842.68)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 6804.00 = printed subtotal 6804 = TOTAL 6804; p4 rows 4842.68 = printed subtotal 4842.68 = TOTAL 4842.68. Both gates fired exactly. Balance chain on p2 also closes: line3 0 + line4 6804 = line5 6804; 6804 - 4842.68 = line7 1,961.32.",
+   "escalations": 1,
+   "escalation_note": "p3 date+name columns rows 1-5 re-rendered at 600 dpi (3x base) - resolved the names, did NOT resolve the row-2 and row-3 date glyphs",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page standard form: p1 cover (Seven days before a primary election checked, not an amendment, signed 6-15-2010), p2 Summary Page, p3 Schedule A (5 rows), p4 Schedule B (2 rows). EVERY date on both schedules is written month/day with NO YEAR PRINTED, so per contract all dates are BLANK + needs_review with the verbatim kept in the row note - no year was filled in from the 2010 report date. Schedule A row 4 is an AGGREGATE line ('$50 and under', 954.00), not a named donor. No mailing address was written for ANY contributor - the address column is entirely empty on the form (filer left it blank), so no city/state exists to record. Schedule A row 5 (JV2, 4500.00, occupation 'Design Agency', with '(website)' written above the amount) is mirrored by Schedule B row 2 (JV2, 'website', 4500.00); the form carries NO in-kind marker on either, so in_kind is left false and the parallel is only noted."
+  }
  }
 }

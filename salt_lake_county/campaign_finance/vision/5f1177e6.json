@@ -1,6 +1,74 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-21",
+   "donor_raw": "SAM GRANATO (LOAN)",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,22.50,86.90,4.10@p3",
+   "note": "candidate self-LOAN, marked '(LOAN)' in the name cell; occupation 'Self'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-21",
+   "donor_raw": "Paul Loupakos",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,26.60,86.90,4.65@p3",
+   "note": "occupation/employer 'Director / The Grove Fresh Mkt.'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-03",
+   "donor_raw": "Russel Pack",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,31.25,86.90,4.00@p3",
+   "note": "occupation 'RETIRED'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-09",
+   "donor_raw": "SAM GRANATO (LOAN)",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,35.25,86.90,4.25@p3",
+   "note": "candidate self-LOAN; occupation cell reads 'See Above'; this is the money that pays the 173.16 filing fee on Schedule B; address redacted (county black bar)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-09",
+   "vendor_raw": "SL County Clerk",
+   "purpose": "FILING FEE",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,26.00,79.40,3.75@p4",
+   "note": "the recipient cell also carries a small struck-through mark before the name"
+  }
+ ],
  "total_contributions": "6,273.16",
  "total_expenditures": "173.16",
  "beginning_balance": "",
@@ -48,6 +116,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Line 3 (Balance at Beginning) is left BLANK, as is Column B on lines 1 and 2 \u2014 recorded as empty strings, not zeros. The top-row Office box reads 'Salt Lake County Council District 4'; the separate Office Sought box reads 'County Council' with '4' in the District Number column (used, per contract preference for Office Sought). Party abbreviated 'DEM'. Neither amendment box checked. The Summary Page header box is entirely blank. Arithmetic self-consistent (6,273.16 - 173.16 = 6,100.00)."
+  "notes": "Handwritten. Line 3 (Balance at Beginning) is left BLANK, as is Column B on lines 1 and 2 \u2014 recorded as empty strings, not zeros. The top-row Office box reads 'Salt Lake County Council District 4'; the separate Office Sought box reads 'County Council' with '4' in the District Number column (used, per contract preference for Office Sought). Party abbreviated 'DEM'. Neither amendment box checked. The Summary Page header box is entirely blank. Arithmetic self-consistent (6,273.16 - 173.16 = 6,100.00).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "6,273.16",
+     "itemized": "6273.16",
+     "result": "exact",
+     "detail": "exact (6273.16 = 6,273.16) on the FOUR legible rows; p3 SUBTOTAL and TOTAL both print 6273.16 (written over an earlier figure). The gate confirms the erased 5th row contributes nothing"
+    },
+    "expenditures": {
+     "stated": "173.16",
+     "itemized": "173.16",
+     "result": "exact",
+     "detail": "exact (173.16 = 173.16); p4's SUBTOTAL box is EMPTY but its TOTAL EXPENDITURES MADE box prints 173.16"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 6273.16 = printed SUBTOTAL 6273.16 (gate PASS - and it is what establishes that the faint 5th row carries no countable amount); p4 prints NO subtotal (box left empty), so that page cannot gate on a subtotal - its single row 173.16 matches the printed TOTAL and the Summary Page instead",
+   "escalations": 2,
+   "escalation_note": "p3 row-5 band at 600dpi (established it is an erased/ghost entry, not a readable row); p3 amount column rows 2-4 at 600dpi (confirmed 1,000 / 100 / 173.16)",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Sam Granato, County Council District 4, April 5 2012 interim. COUNTY REDACTION: the Complete Mailing Address column is covered by a solid black bar, so donor_city/donor_state are blank ('redacted'). ERASED ROW: Schedule A's 5th line carries faint residual pencil strokes in the Date, Name and Amount cells - an ERASED entry. At 600dpi nothing in it is legible (only disconnected fragments), so NO row is emitted for it; the four legible rows already sum exactly to the printed subtotal, which is independent evidence that the erased line carries no live amount. It is flagged here so a human can look. Two of the four contributions are CANDIDATE LOANS, marked '(LOAN)' in the name cell by the filer. Amounts for rows 1-2 are written without cents ('5,000', '1,000') and are kept verbatim. The 173.16 loan on Schedule A and the 173.16 filing fee on Schedule B are the same money passing through."
+  }
  }
 }

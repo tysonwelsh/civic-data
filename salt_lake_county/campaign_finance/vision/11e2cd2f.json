@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-03-17",
+   "donor_raw": "Robert Warnick",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.28,21.90,86.40,5.37@p4",
+   "note": "amount written '154.' with raised '47' over a rule = 154.47; address column left blank by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-03-17",
+   "vendor_raw": "S.L. COUNTY ELECTIONS",
+   "purpose": "FILING FEE",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.34,24.55,80.20,4.79@p3",
+   "note": "amount written '$154' with raised '47' over a rule = 154.47"
+  }
+ ],
  "total_contributions": "$154.47",
  "total_expenditures": "154.47",
  "beginning_balance": "0",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NAME DISCREPANCY: the clerk listing calls him 'Robert L. Warnick' but the form is signed and printed 'Robert W. Warnick' in both the name box and the verification block. Neither amendment box is checked. Cents throughout are raised superscripts over a rule (154 with a raised 47). Lines 3 and 7 are written as a dash-zero-dash ('- 0 -'), recorded as 0. Line 1 Column A carries a '$' glyph; the other cells do not."
+  "notes": "NAME DISCREPANCY: the clerk listing calls him 'Robert L. Warnick' but the form is signed and printed 'Robert W. Warnick' in both the name box and the verification block. Neither amendment box is checked. Cents throughout are raised superscripts over a rule (154 with a raised 47). Lines 3 and 7 are written as a dash-zero-dash ('- 0 -'), recorded as 0. Line 1 Column A carries a '$' glyph; the other cells do not.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$154.47",
+     "itemized": "154.47",
+     "result": "exact",
+     "detail": "exact (single row 154.47 = page subtotal 154.47 = printed TOTAL 154.47 = stated_c)"
+    },
+    "expenditures": {
+     "stated": "154.47",
+     "itemized": "154.47",
+     "result": "exact",
+     "detail": "exact (single row 154.47 = printed TOTAL 154.47 = stated_e; the SUBTOTAL FOR THIS PAGE cell on the B page was left blank by the filer)"
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule A) rows 154.47 = printed subtotal 154.47 - GATED. p3 (Schedule B) prints a SUBTOTAL FOR THIS PAGE row but the filer left the cell EMPTY, so that page cannot gate; its single row equals the printed TOTAL 154.47.",
+   "escalations": 4,
+   "escalation_note": "600dpi tight cell crops on both amount cells and both subtotal/total blocks to resolve the superscript-cents notation (154 over-ruled 47).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES ARE OUT OF ORDER: PDF page 3 is Schedule B (form footer '4') and PDF page 4 is Schedule A (form footer '3'). Both schedules carry exactly one line. Amounts are written in the superscript-cents-over-a-rule convention ('154.' + raised '47') and are transcribed with a decimal point. The Complete Mailing Address column is blank on the contribution row; the Occupation AND Employer cell reads 'FREELANCE WRITER / COTTONWOOD HEIGHTS CITY / + SELF EMPLOYED' - that is employer text, NOT a donor address, so donor_city/donor_state stay blank. The single contributor is the candidate himself ('Robert Warnick'); the clerk index lists the candidate as Robert L. Warnick (repo note: this filer's signature elsewhere reads Robert W. Warnick)."
+  }
  }
 }

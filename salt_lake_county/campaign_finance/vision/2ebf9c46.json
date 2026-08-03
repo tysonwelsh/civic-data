@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-11-17",
+   "vendor_raw": "UTAH STATE DEMOCRATIC PARTY",
+   "purpose": "MAILINGS",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.10,25.00,76.20,3.50@p4",
+   "note": "date written with periods as '11.17.12'"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "1000.00",
  "beginning_balance": "3136.34",
@@ -51,6 +66,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "FORM FACE vs FILENAME: file is named '..._12_Final_...' and the clerk listing calls it a Summary Report, but only the YEAR-END box is checked; the Final / Dissolution box is NOT. Lines 1 and 4 Column A are written as a dash-struck zero (a drawn dash through/around the zero) \u2014 recorded as '0'. The Summary Page header box (page/last name/date) is entirely BLANK on this filing. Column B is labelled 'Year to Date'. Arithmetic self-consistent (3136.34 - 1000.00 = 2136.34)."
+  "notes": "FORM FACE vs FILENAME: file is named '..._12_Final_...' and the clerk listing calls it a Summary Report, but only the YEAR-END box is checked; the Final / Dissolution box is NOT. Lines 1 and 4 Column A are written as a dash-struck zero (a drawn dash through/around the zero) \u2014 recorded as '0'. The Summary Page header box (page/last name/date) is entirely BLANK on this filing. Column B is labelled 'Year to Date'. Arithmetic self-consistent (3136.34 - 1000.00 = 2136.34).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - page 3 ('Itemized Contributions Received') has every line row EMPTY, its SUBTOTAL cell blank, and its TOTAL CONTRIBUTIONS RECEIVED cell filled with a hand-drawn slashed-zero glyph, which per the repo ZERO-GLYPH RULING is 0. The Summary Page's stated total is 0. A real zero, looked at on the page."
+    },
+    "expenditures": {
+     "stated": "1000.00",
+     "itemized": "1000.00",
+     "result": "exact",
+     "detail": "exact (1000.00 = printed TOTAL EXPENDITURES MADE $1000.00 = stated 1000.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 prints no subtotal figure (blank schedule; only the TOTAL cell carries the zero glyph). p4's SUBTOTAL FOR THIS PAGE cell was left BLANK by the filer, so the page-subtotal gate cannot fire there; the single row 1000.00 does equal the printed TOTAL EXPENDITURES MADE $1000.00 - gate fires at the schedule level.",
+   "escalations": 0,
+   "escalation_note": "none needed - one legible row and two legible total cells at 200 dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "The 2012-vintage form heads its schedules 'Itemized Contributions Received' / 'Itemized Expenditures Made' rather than 'Schedule A' / 'Schedule B'; they are the same tables. FORM FACE vs FILENAME (already noted at the totals tranche and confirmed here): the file is named '..._12_Final_...' but only the Year-End box is checked. Page 3 carries a faint SHOW-THROUGH of handwriting from the reverse of the sheet (a ghost line across one empty row) - it is bleed-through, not an entry, and nothing was transcribed from it. The single expenditure's recipient text runs the full width of the Name of Recipient cell and slightly into the Purpose column; the columns are still unambiguous."
+  }
  }
 }

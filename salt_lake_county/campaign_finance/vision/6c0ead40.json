@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-10-06",
+   "donor_raw": "Mary Stokes",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:3.50,24.07,89.90,4.50@p3",
+   "note": "Complete Mailing Address is BLACK-BOX REDACTED by the county, so donor_city/donor_state are blank: redacted (not a filer omission). Occupation/Employer: 'Education'. Date printed '10-6-14' with dashes and a 2-digit year. Amount written with the cents as a raised superscript over a rule ('500.' with '00' raised); transcribed with a decimal point."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$500.00",
  "total_expenditures": "0",
@@ -49,6 +63,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Clerk listing says 'October'; the FORM checks 'Seven days before a general election'. Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. A handwritten '4 pages' note appears at the top right. Clerk RECEIVED stamp OCT 28 2014, signed Oct. 26, 2014. Line 3 matches the September report's line 7; 20,797.20 + 500.00 = 21,297.20, consistent."
+  "notes": "Clerk listing says 'October'; the FORM checks 'Seven days before a general election'. Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. A handwritten '4 pages' note appears at the top right. Clerk RECEIVED stamp OCT 28 2014, signed Oct. 26, 2014. Line 3 matches the September report's line 7; 20,797.20 + 500.00 = 21,297.20, consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$500.00",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (500.00 = $500.00); equals the page's printed SUBTOTAL FOR THIS PAGE $500.00. NOTE the page's TOTAL CONTRIBUTIONS RECEIVED cell prints $39,103.50 - a CYCLE-TO-DATE figure, not the sum of this report's subtotals; it is NOT the reconciliation anchor and is recorded here only as an observation"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule B has no lines at all and its printed SUBTOTAL FOR THIS PAGE is a plain hand-written zero. Its TOTAL EXPENDITUTRES MADE cell prints $17,806.30, again a CYCLE-TO-DATE figure, not this period's"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 500.00 = printed SUBTOTAL $500.00 - GATES (confirmed at an 800dpi tight cell crop). p4 rows sum 0.00 = printed SUBTOTAL 0 - GATES. Neither page's TOTAL cell was used as a gate because on this filing both TOTAL cells hold cumulative to-date figures ($39,103.50 / $17,806.30) rather than the sum of this report's page subtotals.",
+   "escalations": 3,
+   "escalation_note": "p3 row-1 amount cell 800dpi tight crop x1 (superscript cents); p3 SUBTOTAL+TOTAL cells 800dpi tight crop x1; p4 SUBTOTAL+TOTAL cells 800dpi tight crop x1 (confirmed the subtotal is a hand-written zero DIGIT, not a dash and not an empty cell)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4 pages: p1 cover, p2 Summary Page, p3 Schedule A (one line), p4 Schedule B (no lines). Header blocks: DeBry, Oct. 26, 2014, Page 3 of 4 / 4 of 4. The single contributor row's Complete Mailing Address cell is covered by a solid BLACK REDACTION BOX applied by the county. Cents are written as raised superscripts over a rule throughout. The two TOTAL cells carry running CYCLE-TO-DATE figures rather than the sum of this report's subtotals - a per-filer semantic, recorded verbatim, not normalized and not used for reconciliation."
+  }
  }
 }

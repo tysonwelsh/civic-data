@@ -1,6 +1,50 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-02-25",
+   "donor_raw": "Mary Carolyn Stoy",
+   "donor_city": "American Fork",
+   "donor_state": "UT",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.28,75.40,71.75,2.25@p1",
+   "note": "Type column prints 'Individual'; In-Kind? column blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-03-15",
+   "vendor_raw": "Lyon Printing",
+   "purpose": "Printing",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.28,86.35,51.71,1.15@p1"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-01",
+   "vendor_raw": "Paul Pugmire",
+   "purpose": "partial payment of personal loan",
+   "amount": "$45.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.28,87.50,51.71,1.15@p1",
+   "note": "recipient is the candidate himself (loan repayment)"
+  }
+ ],
  "total_contributions": "$500.00",
  "total_expenditures": "$545.31",
  "beginning_balance": "$45.31",
@@ -48,6 +92,47 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NOT the paper form: this is a one-page printout of the clerk's online disclosure record (footer URL http://slcintranet/financialDisclosure/clerk/summary_printer.cfm?ID=351, printed 1/26/2012), headed 'Pugmire, Paul - April 5, 2010 Interim Report'. It carries the same 7-line Summary block (Column B headed 'YTD' with the footnote '* YTD totals may reflect activity from past years'), so the totals are captured. There is no Type-of-Report checkbox block, no District Number field, no amendment question and no Report Verification signature/date on this printout, hence those cover fields are null rather than blank. Line 7 is printed in accounting parentheses as ($0.00) and is kept verbatim. The page also prints Schedule A (one $500.00 contribution from Mary Carolyn Stoy, 02/25/2010) and Schedule B (two items totalling $545.31), which are not transcribed per contract. Clerk stamp JAN 26 2012."
+  "notes": "NOT the paper form: this is a one-page printout of the clerk's online disclosure record (footer URL http://slcintranet/financialDisclosure/clerk/summary_printer.cfm?ID=351, printed 1/26/2012), headed 'Pugmire, Paul - April 5, 2010 Interim Report'. It carries the same 7-line Summary block (Column B headed 'YTD' with the footnote '* YTD totals may reflect activity from past years'), so the totals are captured. There is no Type-of-Report checkbox block, no District Number field, no amendment question and no Report Verification signature/date on this printout, hence those cover fields are null rather than blank. Line 7 is printed in accounting parentheses as ($0.00) and is kept verbatim. The page also prints Schedule A (one $500.00 contribution from Mary Carolyn Stoy, 02/25/2010) and Schedule B (two items totalling $545.31), which are not transcribed per contract. Clerk stamp JAN 26 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "1",
+   "itemized_pages_B": "1",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$500.00",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (500.00 = 500.00); also equals the form's own printed 'Total Contributions $500.00'"
+    },
+    "expenditures": {
+     "stated": "$545.31",
+     "itemized": "545.31",
+     "result": "exact",
+     "detail": "exact (545.31 = 545.31); also equals the form's own printed 'Total Expenditures $545.31'"
+    }
+   },
+   "page_subtotal_gates": "p1 Schedule A rows 500.00 = printed 'Total Contributions' 500.00; p1 Schedule B rows 545.31 = printed 'Total Expenditures' 545.31",
+   "escalations": 2,
+   "escalation_note": "p1 Schedule A + Schedule B tables re-rendered as 600dpi cell crops (2 crops) to re-read dates/names/amounts; both read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "This is the web-printed slco.org 'summary_printer.cfm?ID=351' variant: cover, Summary, Schedule A and Schedule B all on ONE typed page (Page 1 of 1). Not the handwritten form. Column B header is 'YTD'. Line 7 printed as ($0.00) in accounting parentheses. Candidate address block is county-redacted (black bar) on the cover; the SCHEDULE A contributor address is NOT redacted, so city/state are recorded (street address discarded at read time per privacy rule)."
+  }
  }
 }

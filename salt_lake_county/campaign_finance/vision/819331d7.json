@@ -50,6 +50,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Every summary cell is a hand-written zero; the filer's decimal separator is inconsistent (sometimes a dot, sometimes a comma-like tick), but the value is unambiguously zero in all seven cells, so all are recorded as 0.00. The District Number cell holds an illegible hand-drawn mark (a '#' with a slash, apparently a not-applicable scribble), not a number, so it is recorded null rather than blank. Neither the amendment Yes nor the No box is checked. No year appears in the form title; the template is 08_FinancialDisclosureform.doc. Clerk RECEIVED stamp APR 08 2008."
+  "notes": "Every summary cell is a hand-written zero; the filer's decimal separator is inconsistent (sometimes a dot, sometimes a comma-like tick), but the value is unambiguously zero in all seven cells, so all are recorded as 0.00. The District Number cell holds an illegible hand-drawn mark (a '#' with a slash, apparently a not-applicable scribble), not a number, so it is recorded null rather than blank. Neither the amendment Yes nor the No box is checked. No year appears in the form title; the template is 08_FinancialDisclosureform.doc. Clerk RECEIVED stamp APR 08 2008.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0.00); Schedule A page 3 is a completely blank pre-printed grid"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0.00); Schedule B page 4 is a completely blank pre-printed grid"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell is EMPTY (no printed subtotal) and no rows are filled; p4 same. No page prints a subtotal, so no gate could fire; both blank schedules are consistent with the stated 0.00/0.00.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Blank schedules, not missing ones: PDF page 3 is the pre-printed Schedule A grid and page 4 the Schedule B grid, both entirely unfilled (no rows, no subtotal, no total, and even the Page/Last Name/Date-of-Report header box is blank). Stated totals on the Summary Page are 0.00/0.00, so this is a real zero. Pages 1-2 (cover + Summary Page) not re-read - already transcribed in the totals tranche."
+  }
  }
 }

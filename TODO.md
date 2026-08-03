@@ -184,6 +184,33 @@ New entries require a primary-source citation (see the rules above). The last th
 
 ## [GATED] — owner decisions (do not start unprompted)
 
+- [ ] **TRANCHE 3 PHASE B — remaining county itemization waves (per-wave approval).**
+  SLCo legacy is DONE (2026-08-03). Remaining scanned corpora, largest first: utah 245 ·
+  summit 116 · weber 93 · wasatch ~40 · juab 18 · cache pre-2022 · washington scan
+  generations. Each wave runs the B2 production contract (calibration pre-flight incl.
+  the corrected Rhodes specimen; arithmetic-first; pct: geometry; checkpoint discipline)
+  and closes with a federation. Owner picks order + timing; specs live in each county's
+  AVAILABILITY.md + the LEADS tranche-3 block.
+
+- [ ] **RETRO-ANCHOR + BLIND-REVERIFY the scanned-source CF transcriptions (owner-amended
+  2026-08-02: "eventually want to run it — snippet coordinates are essential; all the
+  better if done independently so it verifies the data").** One program, two corpora,
+  run under the calibration suite + the B2 production contract (tight-crop escalation,
+  pct: geometry, crop-verify, page-subtotal gates, zero-glyph ruling):
+  (a) **the scanned-city CF layer** — measured 2026-08-02: 13,358 vision-read contribution
+  rows + 9,907 expenditure rows across the vision-cache cities (~68% of the city itemized
+  layer; the 5,865+5,103 text-parsed rows get anchors ~FREE via deterministic re-parse
+  with the geometry-emitting engine — do that tier first, no gate needed; the 558+771 API
+  rows have no page origin, honest n/a);
+  (b) **the tranche 1–2 county cover transcriptions** (~2,600 covers) — the original
+  calibration-rerun question.
+  DESIGN REQUIREMENT (owner): the re-read is **BLIND** — the transcriber never sees the
+  existing values; anchors + values are produced independently, then DIFFED against the
+  live layer. Agreement = the strongest independent verification these rows can get
+  (correlated-error caveat noted — the calibration suite's Rhodes/field-shift specimens
+  are the guard); every disagreement is adjudicated AT THE PAGE (make_snippet.py) before
+  any value changes, through each module's documented correction path. Scale honestly:
+  roughly 10× the county pilot; cost-decision remains the owner's per corpus/tranche.
 - [ ] **Calibration-sample stage for any transcription-pipeline RERUN (owner note
   2026-08-02).** If the CF vision pipeline is ever rerun, build in a "select sample pages"
   calibration step (the Green Book enriched-pipeline pattern): a curated set of known
@@ -227,5 +254,9 @@ New entries require a primary-source citation (see the rules above). The last th
 | 2026-08-01 | DEBT-clearance wave: 12 of 14 items closed (10 Opus agents + solo; 5 premise-failures, 2 collateral recoveries, bluffdale referrals 269→62); 2 NEW evidence-cited items filed (2021 RCV mislabel class; bluffdale motion-window) | `TODO_ARCHIVE.md` anchor 2026-08-01 |
 | 2026-07-31 | holladay Layton [DEBT] closed — the requested `person-ambiguity` caveat row shipped with the G2 back-fill (verified live in gov.db) | caveat: holladay/planning_commission/person-ambiguity |
 | 2026-08-01 | COUNTY DATA ACQUISITION package DONE (9-agent wave + solo): SLCo even-year elections 2002–2026 (election_race 810 / election_result 5,820) + 8 county CF datasets (~2,270 filings); st_george Larkin [DEBT] found+fixed+closed same session; federation gates 44/44, doc checks 13/13, marquee 5/5 | `TODO_ARCHIVE.md` anchor 2026-08-01-COUNTY-ACQUISITION; per-county RECON/AVAILABILITY files |
+| 2026-08-03 | WAVE B2 QUEUE CLOSED + CONSOLIDATED FEDERATION: 496/496 clerk-legacy filings itemized (22,871 rows; 855 sides exact / 80 filer-arithmetic deltas verbatim / 8 documented no-schedule gaps ~$121k+$120k; survived 2 session-limit + 3 network kills on checkpoint discipline; the closer overturned an inherited 'no gate available' claim and closed both withheld sides EXACT on the attachments' own last-page totals). Federated with the Rhodes correction + SLC city's first 8 filings: cf_contribution 40,115 / cf_expenditure 28,274 / cf_filing 3,810 — 44/44, integrity ok, doc checks PASS, marquee 5/5 | closer report; salt_lake AVAILABILITY.md final state |
+| 2026-08-02 | WAVE B2 (SLCo legacy itemization) CHECKPOINT-CLOSED: 238/496 filings → 10,561 donor/vendor rows (208+204 sides exact, 35 deltas all filer-traced, 0 withheld, 3 illegible cells), pilot's 24 promoted, EasyVote block byte-unchanged, validator PASS; 258-filing residue enumerated + resumable; county redaction imperfections documented in PRIVACY.md; 2 Romero filings missing schedule pages at the SOURCE (~$119k floor, GRAMA lead) | `_backups/2026-08-02-tranche3/slco-b2/`; docs synced |
+| 2026-08-02 | RHODES GLYPH REVERSED (found by B2's pre-flight arithmetic gate; coordinator-adjudicated with 3 independent proofs incl. Form A's own sum 1,694.09): the 600dpi sibling "settlement" on '4' was the eagerness failure INSIDE the escalation path — published cache totals corrected 4,799.09→1,799.09 (both Rhodes rows), calibration specimen + README + GOTCHAS + cache CLAUDE all rewritten to the sharpened rule: ARITHMETIC CLOSURE OUTRANKS GLYPH READING AT ANY RESOLUTION | cache vision caches 00b019d3/bc7ce2f3 (adjudication notes); corrected values federate with the B2-residue close-out |
+| 2026-08-02 | SLC CITY CF FALSIFIED-NEGATIVE + FIRST ROWS (owner-directed hunt): the "no PDFs exist / portal is sole source" determination overturned — 8 born-digital 2003 Recorder filings recovered via Wayback (Anderson mayoral $127k incl. itemized donors) + STRUCTURED same-day (222 contributions + 162 expenditures, 8/8 + 6/8-with-2-honest-unknowns reconciled, geometry-anchored, validate PASS 0/0); state-tree/county/PMN negatives now EARNED (667 files classified); portal DB proven ALIVE behind an app-level 503 → 2005–2025 = GRAMA-shaped + twice-daily API watcher armed; cf-honest-zero caveat rewritten (federates with the B2 close-out build) | `slc_city_council/campaign_finance/RECON_2026-08-02.md`; rows enter gov.db at next federation |
 | 2026-08-02 | TRANCHE 3 PHASE A DONE (owner-approved): calibration suite built (`_audits/cf-calibration-suite/`, 14 specimens incl. negative controls + the field-shift lesson); 6 shared county form families + 2 driver capabilities (48/48 tests; 90/90 city CSVs byte-identical, manifest digest proven); born-digital itemization sweep — 1,311 reconciliation-gated geometry-anchored rows over 82 filings in 6 counties (cf_contribution 25,147 / cf_expenditure 19,987), 3 family bugs documented+gated for Phase B; caveats + docs synced; federation 44/44, doc checks PASS | family tests `scripts/campaign_finance/tests/`; per-county module docs; LEADS Phase-B residuals |
 | 2026-08-02 | VISION-TOTALS TRANCHE DONE (owner-approved 7-agent wave, survived a session-limit kill + a network outage on checkpoint discipline): every county CF cover read — cf_filing now carries 1,911 county stated-totals rows (slco 834 · utah 265 · cache 239 · washington 206 · summit 131 · wasatch 111 · weber 98 · juab 27); offices resolved (cache 128→0, washington 48→7-county, utah 19→8+4+7); juab conformance 37-fails→PASS; wasatch form_family reclassified at builder (6 misfiles); summit anti-transposition audit 17/17 exact + crop-defect date recovery (+45); cf_cycle kept CITY-ONLY by design; caveats rewritten (104 rows); federation 44/44, doc checks 13/13, marquee 5/5, city cf rows byte-identical | per-county AVAILABILITY.md verification sections; LEADS.md wave-leads block |

@@ -1,6 +1,261 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-04-04",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "$23.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,23.90,85.00,4.05@p3",
+   "note": "candidate self-loan itemized as a contribution; occupation cell reads 'ATTORNEY / CRAMER & CRAMER'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-24",
+   "donor_raw": "DOUG REYNOLDS",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,27.95,85.00,4.05@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-30",
+   "donor_raw": "CRAMER & CRAMER, L.L.C.",
+   "donor_city": "Bountiful",
+   "donor_state": "UT",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,32.00,85.00,4.05@p3",
+   "note": "address block printed a street address - PRIVACY: only city/state retained (printed 'BOUNTIFUL, UTAH 84010')"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-05-11",
+   "donor_raw": "JAMES & CAROLYN LATHAM",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,36.05,85.00,4.05@p3",
+   "note": "contributors share the candidate's surname"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-05-11",
+   "donor_raw": "AGGREGATE CONTRIBUTIONS $50 OR LESS",
+   "amount": "$50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,40.10,85.00,4.05@p3",
+   "note": "NOT a named donor - the filer's own aggregate line, verbatim 'AGGREGATE CONTRIBUTIONS [one struck-out word] $50 OR LESS'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-05-13",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "$78.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,44.15,85.00,4.05@p3",
+   "note": "second candidate self-loan"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-05-25",
+   "donor_raw": "DR. GREGG & KIM LUNDEEN",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,48.20,85.00,4.05@p3",
+   "note": "SURNAME GLYPHS UNCERTAIN - reads LUNDEEN (LUNDEBN/LUNDBERG are alternatives); re-read in a 500dpi band and still not crisp"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-03",
+   "donor_raw": "ANDY McCULLOUGH",
+   "amount": "$60.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,52.25,85.00,4.05@p3"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-06-16",
+   "donor_raw": "NORML PAC",
+   "donor_city": "Washington",
+   "donor_state": "DC",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,56.30,85.00,4.05@p3",
+   "note": "address block printed a street address - PRIVACY: only city/state retained (printed 'WASHINGTON, D.C. 20006')"
+  },
+  {
+   "line_no": 10,
+   "date": "2006-05-31",
+   "donor_raw": "CRAMER & CRAMER, L.L.C.",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,60.35,85.00,4.05@p3",
+   "note": "date is OUT OF ORDER on the page (5/31/06 printed after 6/16/06) - kept in printed order"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-04",
+   "vendor_raw": "CAFEPRESS.com",
+   "purpose": "BUTTONS",
+   "amount": "$23.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,26.50,85.00,3.95@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-11",
+   "vendor_raw": "LOU BASTIAN",
+   "purpose": "GRAPHIC DESIGN",
+   "amount": "$225.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,30.45,85.00,3.95@p4",
+   "note": "first name written 'LOV' - this writer forms U as a v (cf. 'BVTTONS' for BUTTONS in the same column), so read LOU"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-12",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "$40.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,34.40,85.00,3.95@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-30",
+   "vendor_raw": "CRAMER & CRAMER - IN KIND",
+   "purpose": "OFFICE SERVICES",
+   "amount": "$100.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,38.35,85.00,3.95@p4",
+   "note": "recipient cell itself carries the marker '- IN KIND'; matches the Cramer & Cramer contribution on Schedule A"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-05-13",
+   "vendor_raw": "CAFEPRESS.com",
+   "purpose": "BUTTONS",
+   "amount": "$78.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,42.30,85.00,3.95@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-05-25",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "$53.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,46.25,85.00,3.95@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-05-31",
+   "vendor_raw": "CRAMER & CRAMER - IN KIND",
+   "purpose": "OFFICE SERVICES",
+   "amount": "$100.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,50.20,85.00,3.95@p4",
+   "note": "recipient cell itself carries the marker '- IN KIND'"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-03",
+   "vendor_raw": "KINKO'S",
+   "purpose": "PRINTING",
+   "amount": "$10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,54.15,85.00,3.95@p4",
+   "note": "faint pencil; amount reads $10.00 and the page subtotal gate confirms it"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-06-15",
+   "vendor_raw": "DIANA CHAMBERLAIN",
+   "purpose": "VOTER CALLS",
+   "amount": "$300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,58.10,85.00,3.95@p4"
+  }
+ ],
  "total_contributions": "$811.95",
  "total_expenditures": "$931.40",
  "beginning_balance": "$1276.54",
@@ -49,6 +304,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cramped handwriting; page 2 re-rendered at 250 dpi. Figures are written with a dollar sign and no thousands comma - kept verbatim. Line 2 Column A's leading digit is ambiguous between 7 and 9 on its face; the form's own arithmetic settles it at 931.40 (2088.49 - 931.40 = 1157.09), and Line 3 likewise reads 1276.54 (1276.54 + 811.95 = 2088.49). The summary page's 'Date of Report' box reads JUNE 16, 2006, matching the cover signature date."
+  "notes": "Cramped handwriting; page 2 re-rendered at 250 dpi. Figures are written with a dollar sign and no thousands comma - kept verbatim. Line 2 Column A's leading digit is ambiguous between 7 and 9 on its face; the form's own arithmetic settles it at 931.40 (2088.49 - 931.40 = 1157.09), and Line 3 likewise reads 1276.54 (1276.54 + 811.95 = 2088.49). The summary page's 'Date of Report' box reads JUNE 16, 2006, matching the cover signature date.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$811.95",
+     "itemized": "811.95",
+     "result": "exact",
+     "detail": "exact (811.95 = $811.95); form's own SUBTOTAL and TOTAL both print $811.95"
+    },
+    "expenditures": {
+     "stated": "$931.40",
+     "itemized": "931.40",
+     "result": "exact",
+     "detail": "exact (931.40 = $931.40); form's own SUBTOTAL and TOTAL both print $931.40"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 811.95 = printed subtotal $811.95 (exact); p4 rows 931.40 = printed subtotal $931.40 (exact)",
+   "escalations": 3,
+   "escalation_note": "p3 contributor-name column 500dpi bands x2 (rows 1-5, 6-10); p4 recipient-name column 500dpi band (all 9 rows)",
+   "n_contrib_rows": 10,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Pages 1-2 = cover + Summary Page (already transcribed upstream, not re-read). Whole filing is written in light PENCIL/fine ballpoint - legible but low-contrast, so both name columns were re-read in 500dpi band crops. Two mailing addresses exist (Cramer & Cramer, NORML PAC); per PRIVACY only city/state were retained and no street line was written anywhere. Schedule A line 5 is the filer's own 'AGGREGATE CONTRIBUTIONS $50 OR LESS' line, flagged needs_review. Two IN-KIND items appear on Schedule B with the marker written INSIDE the recipient cell ('CRAMER & CRAMER - IN KIND'); both printed totals include them. Schedule A line 10 is out of date order on the page (5/31/06 after 6/16/06) - kept in printed order per contract. The 'Page __ of __' box is blank on both schedule pages. Field-shift screen passed on both sides: name count = amount count, no date-shaped content in name cells."
+  }
  }
 }

@@ -1,6 +1,174 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-06-15",
+   "donor_raw": "V. Hunter",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.95,22.90,81.79,3.76@p3",
+   "note": "date written '15 June 2006'. occupation 'Salt Lake County'; address cell blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-06-15",
+   "donor_raw": "Mary whitlack",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.95,26.65,81.79,3.82@p3",
+   "note": "date written '15 June 2006'. name written in a lower-case hand as 'Mary whitlack' - kept verbatim (600 dpi crop); 'Whitlock' is a possible alternative reading; occupation 'Retired'; address cell blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-19",
+   "donor_raw": "Salt Lake County Republican Party",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.95,30.47,81.79,3.82@p3",
+   "note": "date written '19 June 2006'. address printed on the form; only city/state retained per PRIVACY. Occupation 'Political Party'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-27",
+   "vendor_raw": "Yahoo",
+   "purpose": "Web site",
+   "amount": "12.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,25.42,76.14,3.82@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-27",
+   "vendor_raw": "U. of U.",
+   "purpose": "Parking",
+   "amount": "1.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,29.24,76.14,3.76@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-05-15",
+   "vendor_raw": "S.L. Co. Clerk",
+   "purpose": "Map",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,33.00,76.14,3.76@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-05-22",
+   "vendor_raw": "Yahoo",
+   "purpose": "Web site",
+   "amount": "12.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,36.75,76.14,3.82@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-05-26",
+   "vendor_raw": "Supply Link",
+   "purpose": "Office Supplies",
+   "amount": "18.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,40.57,76.14,3.76@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-05-26",
+   "vendor_raw": "CostCo",
+   "purpose": "Office Supplies",
+   "amount": "6.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,44.33,76.14,3.76@p4",
+   "note": "year glyph: this filer's '6' is a loop with a rising stroke that reads like '4' at low resolution; compared at 1200 dpi against the unambiguous '/06' rows further down the same column - all are 06"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-06-09",
+   "vendor_raw": "Office Depot",
+   "purpose": "Office Supplies",
+   "amount": "12.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,48.09,76.14,3.76@p4",
+   "note": "date's month digit is overwritten/retraced but reads 6; amount written '1280' with no visible decimal point - the page subtotal 129.61 closes only at 12.80"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-13",
+   "vendor_raw": "Little Ceasar's",
+   "purpose": "Food for Volunteers",
+   "amount": "5.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,51.85,76.14,3.76@p4",
+   "note": "recipient spelled 'Ceasar's' on the form"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-06-19",
+   "vendor_raw": "Salt Lake City",
+   "purpose": "Rent on Bowery for fundraiser",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,55.61,76.14,3.76@p4"
+  }
+ ],
  "total_contributions": "2300.00",
  "total_expenditures": "129.61",
  "beginning_balance": "153.23",
@@ -49,6 +217,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Verified lines 1-2 at 400 dpi crop. Line 6 is written sloppily ('129.6/') but matches Line 2 Col A 129.61. Summary header: page 2 of 4, KENDRICK, 20 June 2006. Received stamp JUN 20 2006."
+  "notes": "Verified lines 1-2 at 400 dpi crop. Line 6 is written sloppily ('129.6/') but matches Line 2 Col A 129.61. Summary header: page 2 of 4, KENDRICK, 20 June 2006. Received stamp JUN 20 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2300.00",
+     "itemized": "2300.00",
+     "result": "exact",
+     "detail": "exact (2300.00 = 2300.00); page subtotal and total both print 2300.00"
+    },
+    "expenditures": {
+     "stated": "129.61",
+     "itemized": "129.61",
+     "result": "exact",
+     "detail": "exact (129.61 = 129.61); page subtotal and total both print 129.61"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2300.00 = printed subtotal 2300.00; p4 rows 129.61 = printed subtotal 129.61 - both gate exactly",
+   "escalations": 5,
+   "escalation_note": "600 dpi column crops of p4 dates and p4 amounts and of the p3 contributor names; 1200 dpi crops of two p4 YEAR glyphs (rows 1 and 8) to settle 04-vs-06",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2006-vintage form, 4 pages: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A (3 rows), p4 Schedule B (9 rows). Both sides gate and reconcile exactly. YEAR GLYPH: on Schedule B this filer's '6' looks like a '4' at ordinary resolution, so the first six dates read '/04' on a first pass; 1200 dpi comparison against the unambiguous June '/06' rows in the same column shows one and the same glyph, so all nine are 2006 - recorded at date=medium with the reasoning in each row note. Only ONE of the three contributors printed an address (the county Republican Party); per PRIVACY only its city and state are kept and the street line was discarded at read time. The other two address cells are blank."
+  }
  }
 }

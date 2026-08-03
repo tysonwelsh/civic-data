@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-01-23",
+   "vendor_raw": "Brett Helsten",
+   "purpose": "Loan Repayment",
+   "amount": "123.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.40,24.00,78.90,3.20@p3",
+   "note": "recipient is the CANDIDATE himself (loan repayment). Cents printed as a superscript '78' over the dollars, transcribed with a decimal point."
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "123.78",
  "beginning_balance": "123.78",
@@ -48,6 +63,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "'2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Line 1 Column A and Line 4 are left BLANK by the filer (empty strings, not zeros); Line 7 is a hand-drawn slashed zero. Cents on the Column B figures are written as a raised superscript over a rule ('959' with superscript '14'). Line 2 Column B has a struck-through / scribbled-out character immediately before the surviving '959.14' - the surviving value is recorded and the strike-out is noted, hence medium confidence. Arithmetic checks: 123.78 - 123.78 = 0."
+  "notes": "'2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Line 1 Column A and Line 4 are left BLANK by the filer (empty strings, not zeros); Line 7 is a hand-drawn slashed zero. Cents on the Column B figures are written as a raised superscript over a rule ('959' with superscript '14'). Line 2 Column B has a struck-through / scribbled-out character immediately before the surviving '959.14' - the surviving value is recorded and the strike-out is noted, hence medium confidence. Arithmetic checks: 123.78 - 123.78 = 0.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "NO Itemized Contributions Received page exists in this 4-page document (p1 cover, p2 Summary Page, p3 Itemized Expenditures Made, p4 Dissolution notice), and the Summary Page leaves line 1 Column A EMPTY (Column B prints 959 14). Nothing to reconcile - this is honest non-existence, NOT a zero."
+    },
+    "expenditures": {
+     "stated": "123.78",
+     "itemized": "123.78",
+     "result": "exact",
+     "detail": "exact (123.78 = 123.78); the page's TOTAL EXPENDITURES MADE cell also prints 123.78, as do Summary lines 2 and 6"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 123.78 = the page's printed TOTAL EXPENDITURES MADE 123.78 (exact). The page's SUBTOTAL FOR THIS PAGE cell was left BLANK by the filer, so the per-page subtotal gate is unavailable and the page TOTAL was used instead.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Verified p1 and p2 directly (cover + Summary Page) to establish that NO Schedule A / 'Itemized Contributions Received' page exists in this document - contributions are therefore 'none', not zero. The cover checks BOTH 'YEAR-END REPORT: January 31 of each year' and 'FINAL / DISSOLUTION REPORT', and answers neither Yes nor No to the amendment question. p4 is the clerk's 'Dissolution of a Candidate Campaign Committee' notice for 'H. Brett Helsten for Salt Lake County Council At Large A', signed 1/23/15 (committee-secretary line left blank). The candidate signs the cover as 'H. Brett Helsten' where the clerk listing indexes him as 'Brett Helsten'. The cover's street-address and phone/email blocks are redacted with black bars; no donor addresses exist anywhere since there is no Schedule A. Summary Page line 7 (closing balance) is a slashed-zero glyph = 0. Field-shift screen: 1 name, 1 amount, date cell holds a date."
+  }
  }
 }

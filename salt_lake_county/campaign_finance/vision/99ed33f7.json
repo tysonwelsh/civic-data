@@ -1,6 +1,196 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-11",
+   "donor_raw": "Russ Wall",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,16.36,72.75,1.55@p3",
+   "note": "occupation/employer 'Mayor/City of Taylorsville'; address block redacted"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-15",
+   "donor_raw": "Janice Auger",
+   "amount": "229.85",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,18.31,72.75,1.55@p3",
+   "note": "'*' in-kind marker; occupation 'Retired'; candidate self-contribution; address block redacted"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-20",
+   "donor_raw": "Janice Auger",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,20.24,72.75,1.55@p3",
+   "note": "occupation/employer column reads 'LOAN' - a candidate loan; address block redacted"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-22",
+   "donor_raw": "Janice Auger",
+   "amount": "40.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,22.19,72.75,1.55@p3",
+   "note": "'*' in-kind marker; occupation 'Retired'; address block redacted"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-23",
+   "donor_raw": "Ken Cook",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,24.13,72.75,1.55@p3",
+   "note": "occupation 'Retired'; address block redacted"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-24",
+   "donor_raw": "Ryan Perry",
+   "amount": "20.90",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,26.07,72.75,1.55@p3",
+   "note": "'*' in-kind marker; occupation 'Adm. Asst.'; address block redacted"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-03-29",
+   "donor_raw": "Tom Dolan",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,28.01,72.75,1.55@p3",
+   "note": "occupation/employer 'Mayor/Sandy City'; address block redacted"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-03-31",
+   "donor_raw": "M. Waddoups Campaign",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,29.95,72.75,1.55@p3",
+   "note": "occupation/employer 'Senator, Dist 6, State of Ut'; address block redacted"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-03-31",
+   "donor_raw": "Knight Construction",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.25,31.89,72.75,1.55@p3",
+   "note": "the ONLY unredacted address on the page; city printed verbatim as 'SLC'; street discarded at read time. Occupation 'Contractor'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-15",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "229.85",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.46,14.60,83.93,0.90@p4",
+   "note": "'*' in-kind marker"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-22",
+   "vendor_raw": "Janice Auger",
+   "purpose": "Use of personal office supplies",
+   "amount": "40.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.46,16.10,83.93,0.90@p4",
+   "note": "'*' in-kind marker"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-24",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Disclosure Statemnts from prior elections",
+   "amount": "20.90",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.46,17.60,83.93,0.90@p4",
+   "note": "'*' in-kind marker; 'Statemnts' is the filer's spelling, kept verbatim"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-28",
+   "vendor_raw": "Post Office",
+   "purpose": "Stamps",
+   "amount": "78.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.46,19.10,83.93,0.90@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-29",
+   "vendor_raw": "Imagino's",
+   "purpose": "Signs",
+   "amount": "1,888.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.46,20.60,83.93,0.90@p4",
+   "note": "vendor printed \"Imagino's\" (typed); kept verbatim"
+  }
+ ],
  "total_contributions": "4490.75",
  "total_expenditures": "225717",
  "beginning_balance": "0",
@@ -49,6 +239,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Amendment to the April 5, 2006 report (amendment Yes box checked, date of report '4-5-06'), signed 8-2-06, clerk stamp AUG 04 2006. Line 2 in BOTH columns is written WITHOUT a decimal point - '225717' - and is transcribed that way; Line 6 (not a captured field) prints the same figure as '2257.17', and Line 5 minus that value gives Line 7 (4490.75 - 2257.17 = 2233.58). Line 3 zero is a slashed zero. Summary Page header: Page 1 of 3, 'Janice Auger', 8-2-06."
+  "notes": "Amendment to the April 5, 2006 report (amendment Yes box checked, date of report '4-5-06'), signed 8-2-06, clerk stamp AUG 04 2006. Line 2 in BOTH columns is written WITHOUT a decimal point - '225717' - and is transcribed that way; Line 6 (not a captured field) prints the same figure as '2257.17', and Line 5 minus that value gives Line 7 (4490.75 - 2257.17 = 2233.58). Line 3 zero is a slashed zero. Summary Page header: Page 1 of 3, 'Janice Auger', 8-2-06.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4490.75",
+     "itemized": "4490.75",
+     "result": "exact",
+     "detail": "exact (4490.75 = 4490.75); Schedule A printed TOTAL $4,490.75 also equals the rows"
+    },
+    "expenditures": {
+     "stated": "225717",
+     "itemized": "2257.17",
+     "result": "delta",
+     "detail": "Summary Page line 2 is printed WITHOUT a decimal point ('225717'); the Schedule B printed TOTAL on p4 reads $2,257.17 and the five rows sum to exactly 2257.17. The stated figure is retained verbatim and NOT repaired here; the delta is a printed-decimal-point omission on the Summary Page, not a transcription difference."
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 4490.75 = printed TOTAL 4,490.75 (single Schedule A page; the form prints TOTAL, not SUBTOTAL); p4 rows sum 2257.17 = printed TOTAL 2,257.17",
+   "escalations": 1,
+   "escalation_note": "p3 Complete Mailing Address column re-rendered as a 600 dpi cell crop (+ -normalize) to determine whether the blanked address boxes were county redactions or a faded scan - they are white redaction rectangles with faint ghost text beneath; not read through, left blank per the privacy rule",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TYPED (word-processed) Schedule A/B on a landscape Schedule A sheet - poppler renders p3 landscape and the geometry percentages are of that landscape page. This is an AMENDMENT to the April 5, 2006 report. The '*' column between Name and Address is the in-kind marker, legend '* In Kind' printed at the foot of both schedules; rows 2/4/6 on Schedule A and rows 1/2/3 on Schedule B carry it, and the three in-kind amounts match across the two schedules (229.85 / 40.00 / 20.90) - candidate in-kind items booked on both sides. Contributor addresses on Schedule A rows 1-8 are COUNTY-REDACTED (white boxes with ghost text); row 9 (Knight Construction) was not redacted and prints a city/state. No Page __ of __ numbers were filled in on either schedule."
+  }
  }
 }

@@ -1,6 +1,34 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-02-08",
+   "vendor_raw": "Salt Lake Lincoln Dinner",
+   "purpose": "Cont. to Republic party",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.65,25.73,76.05,3.77@p4",
+   "note": "amount written '200.' with raised superscript cents '00'; the purpose text is written small and crowded against the amount column, read at 700 dpi as 'Cont. to Republic party'"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-02-08",
+   "vendor_raw": "Bank Service fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.65,29.50,76.05,3.50@p4",
+   "note": "the description 'Bank Service fee' is written in the Name of Recipient column; the Purpose column is empty on this row - kept as printed, not re-columned"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "203.50",
  "beginning_balance": "869.71",
@@ -46,6 +74,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The Office Sought box is blank; neither amendment box is checked. LINE 2 IS WRITTEN ACROSS THE COLUMN DIVIDER: the digits '203' sit in Column A and '50' sit in Column B, with no decimal point - they are one figure whose cents overran the rule, as the form itself confirms on Line 6, which prints '203.50' for 'Total Expenditures Made (From Line 2 Column A)'. total_expenditures is therefore recorded as 203.50 at medium confidence, and total_expenditures_to_date is left NULL because no aggregate figure exists in that cell (the ink there is the cents of the Column A figure), not blank and not zero. Lines 1 and 4 are slashed zeros. Arithmetic consistent: 869.71 - 203.50 = 666.21."
+  "notes": "The Office Sought box is blank; neither amendment box is checked. LINE 2 IS WRITTEN ACROSS THE COLUMN DIVIDER: the digits '203' sit in Column A and '50' sit in Column B, with no decimal point - they are one figure whose cents overran the rule, as the form itself confirms on Line 6, which prints '203.50' for 'Total Expenditures Made (From Line 2 Column A)'. total_expenditures is therefore recorded as 203.50 at medium confidence, and total_expenditures_to_date is left NULL because no aggregate figure exists in that cell (the ink there is the cents of the Column A figure), not blank and not zero. Lines 1 and 4 are slashed zeros. Arithmetic consistent: 869.71 - 203.50 = 666.21.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - page 3 is the pre-printed Schedule A with every line row EMPTY and its SUBTOTAL and TOTAL cells blank; the Summary Page's stated total is 0. A real zero, looked at on the page."
+    },
+    "expenditures": {
+     "stated": "203.50",
+     "itemized": "203.50",
+     "result": "exact",
+     "detail": "exact (200.00 + 3.50 = 203.50 = stated 203.50)"
+    }
+   },
+   "page_subtotal_gates": "p3 prints no subtotal figure (blank schedule, nothing to gate); p4 rows 200.00 + 3.50 = 203.50 = printed SUBTOTAL 203.50 - gate fires exactly. The TOTAL EXPENDITURES MADE cell beneath it was left BLANK by the filer.",
+   "escalations": 2,
+   "escalation_note": "p4 rows 1-2 full-width band at 700 dpi; p4 subtotal cell at 900 dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Page 3 is a BLANK Schedule A (honest zero, matching the Summary Page). Page 4 has two expenditures and its page header box (Page / Last Name / Date of Report) is entirely BLANK on both schedule pages. FIELD NOTE ON LINE 2: the filer wrote 'Bank Service fee' in the NAME OF RECIPIENT column and left the Purpose column empty - that is what the form says and it is kept verbatim rather than being moved to purpose. The field-shift screen was run: 2 dates, 2 recipient entries, 2 amounts, and only line 1 has a purpose; no column is displaced. Line 1's recipient text runs onto a second line ('Salt Lake Lincoln / Dinner') and its purpose text is cramped against the amount column edge. Amount 200 uses raised superscript cents."
+  }
  }
 }

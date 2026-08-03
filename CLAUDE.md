@@ -145,11 +145,14 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   summit 131 · wasatch 111 · weber 98 · juab 27 — every cover vision-read; offices
   Commission/Council, Mayor, Sheriff, Clerk, Auditor, Attorney, Assessor, Recorder,
   Treasurer, Surveyor, back to 2006). County ITEMIZED rows come from salt_lake's EasyVote
-  2024/2026 API data (the "largest county donor" query answers there), juab's 3 transcribed
-  2020 filings, and the **2026-08-02 born-digital parser sweep** (1,311 reconciliation-gated,
-  geometry-anchored rows over 82 machine-readable filings in weber/cache/summit/wasatch/
-  utah/washington) — the scanned majority is NOT itemized (Phase B vision work): empty
-  itemized = NOT TRANSCRIBED, never "no donors". Read
+  2024/2026 API data, juab's 3 transcribed 2020 filings, the **born-digital parser sweep**
+  (1,311 geometry-anchored rows over 82 machine-readable filings, 2026-08-02), and the
+  **wave-B2 vision itemization of SLCo's handwritten legacy era — QUEUE CLOSED 2026-08-03**
+  (22,871 rows over 496 of 496 clerk-legacy filings, double-gated + geometry-anchored;
+  855 sides exact-reconciled, 80 filer-arithmetic deltas verbatim, 8 sides across 5
+  filings are documented no-schedule-page gaps ~$121k/$120k) — the other counties'
+  scanned majorities are NOT itemized (Phase B continues): empty itemized = NOT TRANSCRIBED, never "no donors". Salt Lake CITY's first
+  CF rows also exist (2003 cycle, 222+162 rows — see slc's caveat). Read
   each county's `cf-*` caveat row + `campaign_finance/AVAILABILITY.md` before comparing
   across counties: regimes differ (cumulative vs per-period, sometimes per candidate).
 - **Adopted ordinances** (what did Ordinance X do; who voted for it): `gov.db`

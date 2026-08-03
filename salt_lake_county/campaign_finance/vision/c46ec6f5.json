@@ -1,5 +1,18 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "GARY W. OTT",
+   "amount": "939.71",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:12.09,23.94,80.27,4.06@p3",
+   "note": "the candidate himself. The Date Received cell was left EMPTY by the filer - blank per contract, no date inferred from the report. Address cell also empty. Amount written '$939' with a superscript '71' over a rule = 939.71 (ESCALATED to a 600 dpi cell crop to rule out 1139); flagged needs_review because the side does not reconcile to the stated total"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$1139.71",
  "total_expenditures": "$1,379.04",
@@ -47,6 +60,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older form face: the title has no year and Column B is headed 'Year-to-Date Total'. Every Column A figure writes the cents as a raised superscript over a rule ($1139 with superscript 71), transcribed here with a decimal point. Column B is blank on both lines 1 and 2. Line 3's leading digits are cramped; read as $439.33 at 250 dpi and consistent with the form's own arithmetic (439.33 + 1139.71 = 1579.04; 1579.04 - 1379.04 = 200.00). Year-End checked, amendment = No. Clerk-stamped RECEIVED JAN 31 2005."
+  "notes": "Older form face: the title has no year and Column B is headed 'Year-to-Date Total'. Every Column A figure writes the cents as a raised superscript over a rule ($1139 with superscript 71), transcribed here with a decimal point. Column B is blank on both lines 1 and 2. Line 3's leading digits are cramped; read as $439.33 at 250 dpi and consistent with the form's own arithmetic (439.33 + 1139.71 = 1579.04; 1579.04 - 1379.04 = 200.00). Year-End checked, amendment = No. Clerk-stamped RECEIVED JAN 31 2005.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4 (printed but left entirely blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$1139.71",
+     "itemized": "939.71",
+     "result": "delta",
+     "detail": "delta 200.00 - Schedule A carries exactly ONE row, $939 with superscript 71 over a rule (= 939.71), re-read at 600 dpi and unambiguous, while the Summary Page line 1 Column A states $1139 71. The Schedule A SUBTOTAL and TOTAL cells were both left BLANK, so there is no page figure to adjudicate between them. Observation only, not a reconciliation: the 200.00 difference equals both the Summary Page line 7 closing balance ($200 00) and the $200.00 balance on the attached KeyBank statement. Nothing was adjusted."
+    },
+    "expenditures": {
+     "stated": "$1,379.04",
+     "itemized": "0.00",
+     "result": "delta",
+     "detail": "delta 1379.04 - Schedule B (p4) EXISTS but the filer left it COMPLETELY blank: no rows, no subtotal, no total, not even a 'None'. The Summary Page nonetheless states $1,379 04 of expenditures this period (and its balance chain closes around that figure: 439.33 + 1139.71 = 1579.04; 1579.04 - 1379.04 = 200.00). So the expenditure itemization is MISSING AT SOURCE - zero rows is what the document contains, and the whole stated amount is unitemized. This is a filer omission, not a transcription gap, and NOT a real zero."
+    }
+   },
+   "page_subtotal_gates": "No page-subtotal gate is available on either schedule: p3's SUBTOTAL and TOTAL cells are blank and p4's are blank. The only cross-check possible was against the Summary Page, and it fails on both sides (see recon). The Summary Page's own internal balance chain does close.",
+   "escalations": 2,
+   "escalation_note": "p3 amount cell re-rendered at 600 dpi (confirmed '$939' with a superscript '71' over a rule, NOT 1139) and p3 name cell at 500 dpi (confirmed GARY W. OTT)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "5 pages: p1 cover (YEAR-END January 31 box checked, marked NOT an amendment; Gary W. Ott, Office Sought 'Salt Lake County Recorder'; signed 31 Jan 05, clerk-stamped JAN 31 2005), p2 Summary Page, p3 Schedule A with a single row, p4 an ENTIRELY BLANK Schedule B, p5 a KeyBank 'Key Express Checking' statement dated December 8, 2004 for account title GARY OTT (balance Nov 8 2004 $200.00, additions none, deductions none, balance Dec 8 2004 $200.00) - the statement's footer says 'Page 1 of 2' and the second statement page is NOT in the PDF. The bank statement is an attachment, not a schedule, and nothing was transcribed from it. TWO THINGS A HUMAN SHOULD LOOK AT: (1) Schedule A itemizes 939.71 against a stated 1139.71, and (2) Schedule B is blank against a stated 1,379.04 - so this filing's donor/vendor detail is materially incomplete on its face. This filer writes cents as a superscript over a rule throughout ('939 71', '1,379 04'); those are transcribed with a decimal point. The account number and mailing address on the bank statement were not recorded (privacy)."
+  }
  }
 }

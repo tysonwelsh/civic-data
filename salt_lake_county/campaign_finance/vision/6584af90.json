@@ -1,6 +1,49 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "DAVID NICPONSKI",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.14,26.25,75.89,4.00@p3",
+   "note": "date cell prints MONTH AND YEAR ONLY, verbatim '7/2005' (a '7' written above the rule and '2005' below) - no day, so no ISO date is claimed. Amount written '1000' (whole dollars, no cents, no $ sign). Address street discarded at read time; city printed verbatim as 'SLC'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "RANDY HORIUCHI",
+   "donor_city": "SANDY",
+   "donor_state": "UT",
+   "amount": "2300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.14,33.60,75.89,4.15@p3",
+   "note": "date cell prints MONTH AND YEAR ONLY, verbatim '1/2005' - no day. Amount written '2300' (whole dollars). This is the CANDIDATE's own contribution to his campaign. Address street discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "KEY BANK",
+   "purpose": "LOAN PAYMENTS",
+   "amount": "2300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.48,29.40,76.21,3.10@p4",
+   "note": "date cell prints MONTH AND YEAR ONLY, verbatim '9/2005' - no day. Amount written '2300' (whole dollars). The filer also wrote a street address under the recipient name (Schedule B has no address column) - street discarded at read time per the privacy rule"
+  }
+ ],
  "total_contributions": "$3300",
  "total_expenditures": "$2300",
  "beginning_balance": "$54",
@@ -48,6 +91,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Year-End box checked; NEITHER amendment box is checked. Clerk-stamped RECEIVED JAN 31 2006; Summary Page header 'HORIUCHI, 1-31-06, page 2 of 4'. No cents are written anywhere on this Summary Page - every figure is whole dollars with a dollar sign, kept verbatim. Column B is blank on both lines 1 and 2. Arithmetic is exact (54 + 3300 = 3354; 3354 - 2300 = 1054). The District Number box is scrawled 'AT-LGA' (an abbreviation of At-Large; the trailing letters are ambiguous) - recorded verbatim at low confidence. The beginning balance of $54 matches the '$54 ON HAND CASH' annotation on the filer's amended 2004 year-end report (key e4726db4)."
+  "notes": "Year-End box checked; NEITHER amendment box is checked. Clerk-stamped RECEIVED JAN 31 2006; Summary Page header 'HORIUCHI, 1-31-06, page 2 of 4'. No cents are written anywhere on this Summary Page - every figure is whole dollars with a dollar sign, kept verbatim. Column B is blank on both lines 1 and 2. Arithmetic is exact (54 + 3300 = 3354; 3354 - 2300 = 1054). The District Number box is scrawled 'AT-LGA' (an abbreviation of At-Large; the trailing letters are ambiguous) - recorded verbatim at low confidence. The beginning balance of $54 matches the '$54 ON HAND CASH' annotation on the filer's amended 2004 year-end report (key e4726db4).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3300",
+     "itemized": "3300.00",
+     "result": "exact",
+     "detail": "exact (3300.00 = 3300.00); 1000 + 2300 = the printed TOTAL 3300 and Summary Page line 1 Column A $3300"
+    },
+    "expenditures": {
+     "stated": "$2300",
+     "itemized": "2300.00",
+     "result": "exact",
+     "detail": "exact (2300.00 = 2300.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell was left BLANK by the filer, so no page gate exists there - rows sum 3300.00 = printed TOTAL CONTRIBUTIONS RECEIVED 3300; p4 rows sum 2300.00 = printed SUBTOTAL 2300 = printed TOTAL 2300, gate fired and passed",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten block capitals. NO CENTS AND NO DOLLAR SIGNS anywhere on either schedule - every figure is whole dollars, matching the Summary Page. DATES ARE MONTH-AND-YEAR ONLY on all three rows ('7/2005', '1/2005', '9/2005' - the month written above a slash and the year below); no day is printed anywhere, so every date is left BLANK with the verbatim in the row note and needs_review=1, never completed from the report period. Row 2 of Schedule A is the CANDIDATE's own contribution (Randy Horiuchi); the single Schedule B row is a loan repayment of the same 2300 to Key Bank. Schedule A header box 'Page 3 of 4 / HORIUCHI / 1-31-06'; Schedule B 'Page 4 of 4 / HORIUCHI / 01-31-06'. This 2006-form filing uses the older 4-column Schedule A (no Occupation/Employer column)."
+  }
  }
 }

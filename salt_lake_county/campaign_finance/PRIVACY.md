@@ -20,3 +20,31 @@ addresses.**
   stricter than the SCHEMA floor (city/state allowed) purely because the source omits them.
 - No donor identity is fabricated: a filing that named no donor yields a **blank `donor_raw`** row
   flagged `needs_review=1` (donor_type `unknown`) — never a promoted geography or guessed name.
+
+## The vision-itemized clerk-legacy rows (wave B2, 2026-08-02)
+
+Unlike the EasyVote API rows, these are read off a page that **does** print a "Complete Mailing
+Address" column. The rule applied at READ TIME, by every transcriber, was: **city and state only;
+the street line and any PO box are discarded as they are read and are never written into a
+record, a note, a cache or a CSV.** Three different blanks are distinguished in the row note,
+because they are three different facts: the county **redacted** the block, the **filer left it
+empty**, or the form has **no address column at all** (the clerk's system printouts and several
+spreadsheet attachments).
+
+**⚠ The county's own redaction is imperfect on some published legacy PDFs, and that is a finding
+about `slco.org`, not about this dataset.** Wave B2 encountered, and deliberately did not
+transcribe, at least these classes:
+- a filing whose Schedule A address column is white-boxed, but whose **same scanned page carries
+  an unredacted highlighted photocopy of the same table lower down**, with every street address
+  legible (`08_joehatch_jan31.pdf`, June 2006 Hatch filing);
+- files named `*_Redacted.pdf` that are **not redacted at all** — full street addresses in the
+  clear (`SGill_11_YearEnd_DistAttny_Redacted.pdf`; the `_Redacted` suffix is a portal label, and
+  GOTCHAS' "portal labels lie" applies to redaction status too);
+- **white boxes that under-cover**, leaving a street address or a sliver of one visible
+  (`Recanzone_P_12_…_Redacted.pdf` p5 row 1; `Petersen_S_…` p3 row 20).
+
+In every case the structured layer carries city/state or an honest blank. **Nothing was
+extracted from an imperfectly-redacted block.** The raw PDFs still ship verbatim — they are the
+copies the County Clerk published, and re-redacting a public record is not this repo's call —
+but a consumer republishing `raw/clerk_legacy/` should know the county's redaction is not
+uniform.

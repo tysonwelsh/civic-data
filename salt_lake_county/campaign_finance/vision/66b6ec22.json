@@ -1,6 +1,212 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-11-10",
+   "donor_raw": "FRATERNAL ORDER OF POLICE",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,24.77,90.88,3.86@p3",
+   "note": "occupation/employer cell reads 'UT STATE FOP ORGANIZATION'; the Complete Mailing Address column is EMPTY on every line (filer-omitted), so no donor city/state exists in this filing. amount written '500.' with a superscript '00' over a rule - transcribed 500.00 per the superscript-cents convention (confirmed in a 600 dpi cell crop)."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-12-03",
+   "donor_raw": "SLC GOP",
+   "amount": "1903.15",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,28.64,90.88,4.55@p3",
+   "note": "occupation/employer cell reads '(IN KIND) ORGANIZATION'; the Complete Mailing Address column is EMPTY on every line (filer-omitted), so no donor city/state exists in this filing. amount cell reads '1903.15 (In Kind' - the parenthetical runs past the cell edge into the margin; IN-KIND, and it DOES count toward the printed total."
+  },
+  {
+   "line_no": 3,
+   "date": "2009-01-31",
+   "donor_raw": "AMERICA FIRST CU",
+   "amount": "1.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,33.18,90.88,4.00@p3",
+   "note": "occupation/employer cell reads 'ORGANIZATION / INTEREST (OCT-JAN09)'; the Complete Mailing Address column is EMPTY on every line (filer-omitted), so no donor city/state exists in this filing. credit-union interest posting; the occupation cell reads 'ORGANIZATION' over 'INTEREST (OCT - JAN09)'. Date 01/31/09 is the report date itself and falls after the 2008 calendar year the report covers - kept verbatim, never adjusted."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-06-17",
+   "vendor_raw": "WALMART",
+   "purpose": "OFFICE SUPPLIES",
+   "amount": "11.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,28.00,90.88,4.27@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-06-17",
+   "vendor_raw": "JOANN'S FABRIC",
+   "purpose": "PARADE SUPPLIES",
+   "amount": "2.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,32.27,90.88,4.09@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-06-17",
+   "vendor_raw": "SL CO. CLERK'S OF.",
+   "purpose": "SLCO. DIST MAP",
+   "amount": "20.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:4.41,36.36,90.88,3.91@p4",
+   "note": "amount is '20.' plus a superscript cents group over a rule; read as 50 in a 1200 dpi crop of the cell (glyphs '5''0'). Recipient abbreviated 'SL Co. Clerk's Of.' = Salt Lake County Clerk's Office."
+  },
+  {
+   "line_no": 4,
+   "date": "2008-08-16",
+   "vendor_raw": "COSTCO",
+   "purpose": "OFFICE SUPPLIES",
+   "amount": "53.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,40.27,90.88,3.86@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-08-16",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "YARD SIGNS SCREWS",
+   "amount": "14.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,44.14,90.88,3.95@p4",
+   "note": "purpose's first word is a cramped all-caps glyph string read as 'YARD' (Y-A-R-D) at 400 dpi; 'HARD'/'MARD' cannot be fully excluded, so purpose is medium confidence."
+  },
+  {
+   "line_no": 6,
+   "date": "2008-10-28",
+   "vendor_raw": "COSTCO",
+   "purpose": "FUEL - SIGN INSTALL",
+   "amount": "108.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:4.41,48.09,90.88,3.91@p4",
+   "note": "amount is '108.' plus a superscript cents group over a rule, read as 00 in a 1200 dpi cell crop; the hundreds digit group reads '1','0','8' with the 0 and 8 partly overlapping."
+  },
+  {
+   "line_no": 7,
+   "date": "2008-10-28",
+   "vendor_raw": "BIG LOTS",
+   "purpose": "OFFICE SUPPLIES CDS",
+   "amount": "5.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,52.00,90.88,3.91@p4",
+   "note": "date written with periods, '10.28.08', unlike the slashes used elsewhere."
+  },
+  {
+   "line_no": 8,
+   "date": "2008-11-03",
+   "vendor_raw": "COSTCO",
+   "purpose": "VOLUNTEER PARTY Sppl's",
+   "amount": "139.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,55.91,90.88,3.91@p4",
+   "note": "purpose abbreviated on the page as \"Sppl's\" (supplies); the word runs into the amount column."
+  },
+  {
+   "line_no": 9,
+   "date": "2008-11-03",
+   "vendor_raw": "WALMART",
+   "purpose": "VOLUNTEER PARTY Supp",
+   "amount": "113.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,59.82,90.88,3.82@p4",
+   "note": "amount is '113.' plus superscript '30' over a rule."
+  },
+  {
+   "line_no": 10,
+   "date": "2008-12-03",
+   "vendor_raw": "SLCO. GOP",
+   "purpose": "RADIO ADS (IN KIND)",
+   "amount": "1903.15",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,63.64,90.88,3.91@p4",
+   "note": "IN-KIND, marked by the filer inside the Purpose cell; matches the 1903.15 in-kind SLC GOP line on Schedule A. Counts toward the printed total."
+  },
+  {
+   "line_no": 11,
+   "date": "2008-12-03",
+   "vendor_raw": "VERIZON WIRELESS",
+   "purpose": "CELL PHONE MAR-NOV",
+   "amount": "216.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=low",
+   "verified": 1,
+   "geometry": "pct:4.41,67.55,90.88,3.86@p4",
+   "note": "amount is '216.' plus a superscript cents group over a rule. At 1200 dpi the two glyphs read '2''0' -> .20, but '30' cannot be excluded; left at low confidence and needs_review because this side does not gate."
+  },
+  {
+   "line_no": 12,
+   "date": "2008-12-03",
+   "vendor_raw": "ACN",
+   "purpose": "INTERNET / WEBSITE",
+   "amount": "207.50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.41,71.41,90.88,3.91@p4",
+   "note": "the final digit of the year in the date cell is an ambiguous 8/9 glyph; read as 08 to match the two rows above and the reporting period, but flagged - cell_confidence date=low."
+  }
+ ],
  "total_contributions": "2,404,17",
  "total_expenditures": "3043.29",
  "beginning_balance": "1,135.30",
@@ -49,6 +255,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "MIXED DECIMAL SEPARATORS - the filer uses a COMMA for the cents on some lines and a period on others, and this is recorded exactly as written: Line 1 Column A '2,404,17', Line 2 Column B '17484,50' and Line 7 '496,18' all use a decimal COMMA, while Lines 2A ('3043.29'), 3 ('1,135.30'), 5 ('3,539.47') and 1B ('18,903.46') use a period. Line 4 restates Line 1 as '2,404.17' with a period. Thousands commas are omitted on Lines 2 Column A and 2 Column B. Neither amendment box is checked; the older form variant's top-row 'Office' box is blank. Arithmetic consistent once the commas are read as decimal points (1,135.30 + 2,404.17 = 3,539.47; minus 3,043.29 = 496.18)."
+  "notes": "MIXED DECIMAL SEPARATORS - the filer uses a COMMA for the cents on some lines and a period on others, and this is recorded exactly as written: Line 1 Column A '2,404,17', Line 2 Column B '17484,50' and Line 7 '496,18' all use a decimal COMMA, while Lines 2A ('3043.29'), 3 ('1,135.30'), 5 ('3,539.47') and 1B ('18,903.46') use a period. Line 4 restates Line 1 as '2,404.17' with a period. Thousands commas are omitted on Lines 2 Column A and 2 Column B. Neither amendment box is checked; the older form variant's top-row 'Office' box is blank. Arithmetic consistent once the commas are read as decimal points (1,135.30 + 2,404.17 = 3,539.47; minus 3,043.29 = 496.18).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2,404,17",
+     "itemized": "2404.17",
+     "result": "exact",
+     "detail": "exact (2404.17 = 2404.17). 3 lines (500.00 + 1903.15 + 1.02) sum to 2404.17, equal to the page's printed SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED (both hand-written '2404.17') and to Summary Page line 1 Column A. NOTE the chunk file's stated string '2,404,17' is the Summary Page's decimal-comma rendering of the same figure; the Schedule A page itself writes it with a period."
+    },
+    "expenditures": {
+     "stated": "3043.29",
+     "itemized": "2794.29",
+     "result": "delta",
+     "detail": "delta 249.00 (rows sum 2794.29 vs stated 3043.29 - the printed figure is LARGER than the itemized lines by exactly $249.00). The shortfall is NOT cents-level and cannot be explained by the three superscript cents groups (their maximum combined swing is under $3). It is the FILER's arithmetic or an omitted line: the 12 lines were re-read at 400 dpi (name/purpose/date) and 600-1200 dpi (amount column, three individual cells), and the two table rows above SUBTOTAL were contrast-stretched and confirmed genuinely EMPTY, so there is no 13th line on the page and the form is 'Page 4 of 4' (no continuation sheet). Both figures retained verbatim; no row was adjusted to close the gap."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): rows 2404.17 = printed SUBTOTAL FOR THIS PAGE 2404.17 = printed TOTAL 2404.17 - GATE PASSES. p4 (Schedule B): rows 2794.29 vs printed SUBTOTAL FOR THIS PAGE 3043.29 (and an identical printed TOTAL 3043.29) - GATE DOES NOT FIRE, short by exactly 249.00. Both figures are named here; nothing was adjusted. THIS IS THE PAGE A HUMAN SHOULD LOOK AT.",
+   "escalations": 7,
+   "escalation_note": "Handwritten filing, base read at 200 dpi. Escalations, all tight crops via pdftoppm -x/-y/-W/-H: p4 amount column rows 1-6 and 7-12 at 600 dpi (2 crops); p4 individual amount cells for rows 3, 6 and 11 at 1200 dpi, then their superscript cents groups cropped again and upscaled 4x with -normalize (1 montage) - this is what settled 20.50 / 108.00 / 216.20; p4 rows 8-10 at 1200 dpi to re-verify 139.51 / 113.30 / 1903.15 against the unexplained gap; p4 rows 1-4, 5-8 and 9-12 at 400 dpi to verify dates, recipients and purposes (3 crops); p3 amount column at 600 dpi to resolve the '500.' superscript. A contrast-stretched crop of the two rows above the p4 SUBTOTAL confirmed they are blank.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 12,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "MICHAEL RENCKERT, Office Sought 'COUNTY MAYOR', Republican; YEAR-END (January 31) box checked. NEITHER amendment box (Yes/No) is ticked. Signed 01/31/09; clerk RECEIVED stamp FEB 2 2009 (stamped twice, overlapping). All handwritten. Schedule A carries 3 lines and gates exactly; the Complete Mailing Address column is empty throughout, so this filing yields NO donor geography. One matched IN-KIND pair appears on both sides: SLC GOP radio ads, 1903.15 received in kind and 1903.15 spent in kind. SCHEDULE B DOES NOT GATE - its 12 lines fall exactly $249.00 short of the printed subtotal/total of 3043.29, with no 13th row on the page and no continuation sheet; flagged for human review."
+  }
  }
 }

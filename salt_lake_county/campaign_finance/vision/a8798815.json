@@ -1,6 +1,36 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "SALT LAKE CO. DEMOCRATIC PARTY",
+   "donor_city": "SLC",
+   "donor_state": "UTAH",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.45,24.50,81.16,3.50@p3",
+   "note": "occupation/employer cell reads 'ORGANIZATION'; street portion of the address discarded at read time per privacy rule; cents printed as superscript '92' over a rule"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SALT LAKE CO. CLERK",
+   "purpose": "FILING FEE",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.71,27.50,74.32,3.50@p4"
+  }
+ ],
  "total_contributions": "574.92",
  "total_expenditures": "574.92",
  "beginning_balance": "0",
@@ -47,6 +77,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cents are written as a raised superscript over a rule (574 with a superscript 92) throughout; transcribed with a decimal point. Column B is left entirely BLANK on both lines 1 and 2 (empty strings, not zeros). Lines 3 and 7 Column A are drawn zeros (Line 7 is a zero with a dash through/beside it). The District Number field carries 'SALT LAKE CO.' rather than a number. Neither amendment box is checked. Stamped COPY / RECEIVED APR 04 2006."
+  "notes": "Cents are written as a raised superscript over a rule (574 with a superscript 92) throughout; transcribed with a decimal point. Column B is left entirely BLANK on both lines 1 and 2 (empty strings, not zeros). Lines 3 and 7 Column A are drawn zeros (Line 7 is a zero with a dash through/beside it). The District Number field carries 'SALT LAKE CO.' rather than a number. Neither amendment box is checked. Stamped COPY / RECEIVED APR 04 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92); Schedule A TOTAL cell also prints 574.92"
+    },
+    "expenditures": {
+     "stated": "574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92)"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL cell left BLANK by filer (no gate available); rows 574.92 = printed TOTAL 574.92. p4 rows 574.92 = printed subtotal 574.92 = printed total.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Single row on each side. Both sides are the same figure: a 574.92 contribution from the Salt Lake Co Democratic Party and a 574.92 filing-fee expenditure to the SL County Clerk \u2014 no in-kind marker on either, so in_kind left false. Cents are written as a raised superscript over a rule on the Schedule A row and on both totals."
+  }
  }
 }

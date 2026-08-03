@@ -1,6 +1,80 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2009-09-03",
+   "donor_raw": "R & R UTAH",
+   "donor_city": "Las Vegas",
+   "donor_state": "NV",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,24.03,72.00,3.96@p3",
+   "note": "amount written with a trailing dash after whole dollars ('250 -'), i.e. no cents -> recorded as .00 per the currency convention; the Complete Mailing Address cell holds a full street address - the street line was discarded at read time and only city/state kept"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-09-16",
+   "donor_raw": "NATL. LAND INV.",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,27.99,72.00,4.01@p3",
+   "note": "amount written with a trailing dash after whole dollars ('750 -'), i.e. no cents -> recorded as .00 per the currency convention; the Complete Mailing Address cell holds a full street address - the street line was discarded at read time and only city/state kept"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-09-28",
+   "donor_raw": "ARBOR PARK ASSOC.",
+   "donor_city": "Sandy",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,32.00,72.00,4.01@p3",
+   "note": "amount written with a trailing dash after whole dollars ('1000 -'), i.e. no cents -> recorded as .00 per the currency convention; the Complete Mailing Address cell holds a full street address - the street line was discarded at read time and only city/state kept"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2009-02-08",
+   "vendor_raw": "SL CO REP PARTY",
+   "purpose": "LINCOLN DAY DINNER",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,26.99,72.00,3.96@p4",
+   "note": "amount written '200 -' (trailing dash after whole dollars, no cents) -> recorded as .00"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-12-31",
+   "vendor_raw": "AMER FIRST C.U.",
+   "purpose": "BANK FEES",
+   "amount": "6.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,30.95,72.00,4.01@p4"
+  }
+ ],
  "total_contributions": "2000",
  "total_expenditures": "206.77",
  "beginning_balance": "208.53",
@@ -49,6 +123,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Line 1 Columns A and B are written '2000 \u2013' (a dash in place of the cents); transcribed as 2000. Neither the amendment Yes nor No box is checked. Signature date is 1/27/10 while the Summary Page 'Date of Report' box reads 1-30-10; report_date records the signature date. Cover top-row Office reads 'COUNTY COUNCIL'. Arithmetic closes."
+  "notes": "Handwritten. Line 1 Columns A and B are written '2000 \u2013' (a dash in place of the cents); transcribed as 2000. Neither the amendment Yes nor No box is checked. Signature date is 1/27/10 while the Summary Page 'Date of Report' box reads 1-30-10; report_date records the signature date. Cover top-row Office reads 'COUNTY COUNCIL'. Arithmetic closes.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2000",
+     "itemized": "2000.00",
+     "result": "exact",
+     "detail": "exact (2000.00 = 2000). 250 + 750 + 1000 equals the form's own printed TOTAL CONTRIBUTIONS RECEIVED '2000 -'."
+    },
+    "expenditures": {
+     "stated": "206.77",
+     "itemized": "206.77",
+     "result": "exact",
+     "detail": "exact (206.77 = 206.77). 200.00 + 6.77 equals the form's own printed TOTAL EXPENDITUTRES MADE 206.77."
+    }
+   },
+   "page_subtotal_gates": "'SUBTOTAL FOR THIS PAGE' is EMPTY on both p3 and p4 (the filer filled only the grand TOTAL row), so no page-subtotal gate exists; both TOTAL rows gate exactly (2000, 206.77).",
+   "escalations": 0,
+   "escalation_note": "none needed - five rows of large clear block capitals, all legible at the 200 dpi base read, and both totals closed on the first pass.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Small handwritten 2009 year-end form: three contributions on p3, two expenditures on p4, all in block capitals. This filer writes whole dollars with a trailing dash ('250 -', '750 -', '1000 -', '200 -', and the total '2000 -'); those are read as .00 per the currency convention and the printed form is named in each row note. All three contributors are ORGANISATIONS with a full street address written in the Complete Mailing Address cell - the street lines were discarded at read time and only city/state recorded. 'SLC' is kept verbatim as the filer wrote it rather than expanded."
+  }
  }
 }

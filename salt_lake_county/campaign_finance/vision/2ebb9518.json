@@ -1,6 +1,191 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-09-08",
+   "donor_raw": "S.L. Co. Republican Party",
+   "amount": "6,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,22.64,85.56,3.96@p3",
+   "note": "occupation cell reads 'political party'"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-08-18",
+   "donor_raw": "Justin Allen",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,26.60,85.56,3.96@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-08-15",
+   "donor_raw": "Mark Crockett",
+   "amount": "7,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,30.56,85.56,3.96@p3",
+   "note": "the candidate himself"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-08-13",
+   "donor_raw": "Mark Crockett",
+   "amount": "5,125",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,34.52,85.56,3.96@p3",
+   "note": "the candidate himself; same date and figure as the Schedule B 8/13/08 Modern Display signs 5,125.00"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-09-03",
+   "donor_raw": "Mark Crockett",
+   "amount": "1,400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,38.48,85.56,3.96@p3",
+   "note": "the candidate himself; same date and figure as the Schedule B 9/3/08 Valley Journal advertising 1,400.00"
+  },
+  {
+   "line_no": 6,
+   "date": "2008-07-14",
+   "donor_raw": "Vasilios Priskos",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,42.44,85.56,3.96@p3",
+   "note": "occupation cell reads 'Pres., Internet Properties'"
+  },
+  {
+   "line_no": 7,
+   "date": "2008-04-30",
+   "donor_raw": "Rick Votaw",
+   "amount": "1,100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,46.40,85.56,3.96@p3",
+   "note": "occupation cell reads 'Retired'; date is before the reporting period opens, kept verbatim"
+  },
+  {
+   "line_no": 8,
+   "date": "2008-07-15",
+   "donor_raw": "Jeff Silvestrini",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,50.36,85.56,3.96@p3",
+   "note": "occupation cell reads 'attorney, Cohne, Rappaport, Segal'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-08-13",
+   "vendor_raw": "Modern Display",
+   "purpose": "signs",
+   "amount": "5,125.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,25.45,79.14,3.96@p4",
+   "note": "the Date cell carries a struck-out earlier date to the left of 8/13/08; the struck text is not legible and is not transcribed"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-07-15",
+   "vendor_raw": "Reagon Outdoor",
+   "purpose": "billboard advertising",
+   "amount": "7,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,29.41,79.14,3.96@p4",
+   "note": "hundreds digit escalated at 600 dpi: the glyph is a 5 written with a filled bowl and reads 8 at page resolution; the printed page TOTAL 14,504.68 gates only on 7,500.00"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-09-03",
+   "vendor_raw": "Valley Journal",
+   "purpose": "advertising",
+   "amount": "1,400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,33.37,79.14,3.96@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-07-10",
+   "vendor_raw": "Home Depot",
+   "purpose": "supplies",
+   "amount": "323.56",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,37.33,79.14,3.96@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-07-15",
+   "vendor_raw": "Ace Hardware",
+   "purpose": "supplies",
+   "amount": "108.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,41.29,79.14,3.96@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2008-08-08",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Fees",
+   "amount": "48.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,45.25,79.14,3.96@p4"
+  }
+ ],
  "total_contributions": "22,725.00",
  "total_expenditures": "14504.68",
  "beginning_balance": "12,885",
@@ -48,6 +233,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1 and 5 use the RAISED-SUPERSCRIPT CENTS convention (22,725 with a small raised '00'; 35,610 with a small raised '00'), transcribed here with a decimal point as 22,725.00 and 35,610.00. Line 2 Column A is written with a space instead of a thousands comma ('14 504.68'), recorded as 14504.68; line 6 writes the same figure with the comma (14,504.68). Both Column B cells are BLANK ('' , not 0). Line 3 (12,885) carries forward the June amendment's line 7 exactly and every line reconciles. Page box reads 'Page 1 of 3'. Neither amendment box is checked."
+  "notes": "Lines 1 and 5 use the RAISED-SUPERSCRIPT CENTS convention (22,725 with a small raised '00'; 35,610 with a small raised '00'), transcribed here with a decimal point as 22,725.00 and 35,610.00. Line 2 Column A is written with a space instead of a thousands comma ('14 504.68'), recorded as 14504.68; line 6 writes the same figure with the comma (14,504.68). Both Column B cells are BLANK ('' , not 0). Line 3 (12,885) carries forward the June amendment's line 7 exactly and every line reconciles. Page box reads 'Page 1 of 3'. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (form header 'Page 2 of 3')",
+   "itemized_pages_B": "4 (form header 'Page 3 of 3')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "22,725.00",
+     "itemized": "22725.00",
+     "result": "exact",
+     "detail": "exact (22725.00 = 22,725.00)"
+    },
+    "expenditures": {
+     "stated": "14504.68",
+     "itemized": "14504.68",
+     "result": "exact",
+     "detail": "exact (14504.68 = 14,504.68)"
+    }
+   },
+   "page_subtotal_gates": "On BOTH pages the SUBTOTAL FOR THIS PAGE cell is EMPTY - this is a single-page-per-schedule filing and the filer wrote the figure only in the grand-total row. p3 rows 22,725.00 = printed TOTAL CONTRIBUTIONS RECEIVED 22,725.00 (superscript cents). p4 rows 14,504.68 = printed TOTAL EXPENDITURES MADE 14,504.68 (verified at a 600 dpi crop of that cell). Both gate EXACT.",
+   "escalations": 3,
+   "escalation_note": "600 dpi tight crops on p4: amount column (x3700 y1690 W800 H1700), the TOTAL cell (x3650 y5480 W1000 H400) and the date column (x380 y1690 W900 H1700). The amount crop resolved row 2 as 7,500.00 (it reads 7,800.00 at page resolution); the TOTAL crop confirmed 14,504.68 (not 14,564.68); the date crop confirmed the struck-out entry preceding 8/13/08 in row 1.",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten form, photocopy ('COPY' stamp). The Complete Mailing Address column is EMPTY on every Schedule A row (filer left it blank), so donor_city/donor_state are blank throughout. Three of the eight Schedule A rows are contributions from the candidate MARK CROCKETT himself; two of them pair date-for-date and figure-for-figure with Schedule B vendor payments (8/13 Modern Display 5,125.00 and 9/3 Valley Journal 1,400.00), a self-funding/reimbursement pattern - recorded, not interpreted. Contribution amounts are written without cents (6,000 / 100 / 7,500 ...) and are kept verbatim; expenditure amounts carry cents, two of them as a superscript over a rule (5,125.00 and 7,500.00). The Occupation AND Employer column is filled on four Schedule A rows; the row contract has no field for it so it is recorded in those rows' notes. FIELD-SHIFT SCREEN: name count equals amount count on both pages (8 and 6), every date cell holds a date and every name cell a name, the four occupation annotations land on the four rows whose contributors plausibly carry them, and both pages gate exactly on their printed totals. No shift found."
+  }
  }
 }

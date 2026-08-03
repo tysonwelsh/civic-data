@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Every Summary Page cell (Lines 1-7, both columns) is written as a hand-drawn slashed zero; recorded as 0 throughout. The District Number '1' is written in the box to the right of 'District Number'."
+  "notes": "Every Summary Page cell (Lines 1-7, both columns) is written as a hand-drawn slashed zero; recorded as 0 throughout. The District Number '1' is written in the box to the right of 'District Number'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule A carries no contribution lines; the filer drew a slashed zero in each of the five columns of the FIRST data row and in both the SUBTOTAL and TOTAL cells. Per the zero-glyph ruling a slashed circle IS zero, so the page total is 0, matching Summary Page line 1 Column A (0). A real zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule B carries no expenditure lines; a large freehand 'N/A' is written diagonally across the middle of the table and the SUBTOTAL / TOTAL cells were left EMPTY. Per the zero-glyph ruling 'N/A' is NOT a numeral, so no figure is read from the page - but the schedule is genuinely empty and Summary Page line 2 Column A is 0. A real zero."
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 0 = printed SUBTOTAL FOR THIS PAGE (slashed zero) = printed TOTAL (slashed zero) - gate fired and passed; p4 has NO gate (both the SUBTOTAL and TOTAL cells are empty; the page carries only an 'N/A' mark)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, both sides, marked two different ways by the same filer. Schedule A header box 'Page 2 of 2 / De Cair / 9-14-06'; Schedule B's header box was left blank. NO itemized row is emitted for the row of slashed zeros on Schedule A - it is a 'nothing to report' mark written across the columns, not a contribution line; treating it as a row would fabricate a donor."
+  }
  }
 }

@@ -49,6 +49,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The candidate's name is typewritten on the cover; everything else is hand-filled. April 5 interim box checked, amendment = No, signed 4/5/06, clerk-stamped RECEIVED APR 13 2006 (faxed 'Apr 05 06 08:45a Russell Cannon'). The Summary Page header box (page/name/date) was left entirely blank. Lines 1 (both columns), 3, 4 and 5 are hand-drawn slashed zeros, recorded as '0'. Line 7 is a NEGATIVE balance written inside hand-drawn ANGLE brackets with a diagonal stroke across the cell; recorded as (153.20) in the conventional accounting-parenthesis form. The digits of Line 7 are more angular than lines 2 and 6, but 3x crops of all three cells show the same figure 153.20."
+  "notes": "The candidate's name is typewritten on the cover; everything else is hand-filled. April 5 interim box checked, amendment = No, signed 4/5/06, clerk-stamped RECEIVED APR 13 2006 (faxed 'Apr 05 06 08:45a Russell Cannon'). The Summary Page header box (page/name/date) was left entirely blank. Lines 1 (both columns), 3, 4 and 5 are hand-drawn slashed zeros, recorded as '0'. Line 7 is a NEGATIVE balance written inside hand-drawn ANGLE brackets with a diagonal stroke across the cell; recorded as (153.20) in the conventional accounting-parenthesis form. The digits of Line 7 are more angular than lines 2 and 6, but 3x crops of all three cells show the same figure 153.20.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "No Schedule A page exists in this document. The PDF is 2 pages only - p1 the cover and p2 the Summary Page - and the filer transmitted it by fax (the fax banner on p2 reads 'Apr 05 06 08:45a  Russell Cannon  8015681853  p.2', i.e. the fax itself was 2 pages). There is no itemization page to read. This is honest non-existence, NOT a zero, even though the stated contributions figure is a slashed zero.",
+    "expenditures": "No Schedule B page exists in this document (2-page fax: cover + Summary Page only). The Summary Page states 153.20 of expenditures this period but the itemizing schedule was never filed/transmitted, so there is nothing to transcribe. Honest non-existence, not a zero."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; no itemized sum is claimed"
+    },
+    "expenditures": {
+     "stated": "153.20",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; no itemized sum is claimed. The stated 153.20 is unitemized at source"
+    }
+   },
+   "page_subtotal_gates": "None available - the document contains no schedule page and therefore no printed subtotal or total to gate against.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO-PAGE FAX, NO SCHEDULES. p1 cover: April 5 box checked, marked NOT an amendment; Russell A. Cannon, Office Sought 'County Council 5'; signed 4/5/06; clerk-stamped received APR 13 2006. p2 Summary Page. Both pages carry a fax banner ('Apr 05 06 08:45a  Russell Cannon  8015681853'), and p2 is marked 'p.2' - so the transmission was only two pages and the Schedule A / Schedule B sheets were never sent. Observed on the Summary Page but not part of this tranche: lines 1, 3, 4 and 5 are hand-drawn zero glyphs, line 2 and line 6 read 153.20, and line 7 is written in ANGLE BRACKETS as <153.20> - an accounting-negative marker, i.e. a NEGATIVE closing balance of 153.20 (a campaign that spent 153.20 with no contributions and no beginning balance). A human should note that this filing has a stated expenditure total with no itemization anywhere in the document."
+  }
  }
 }

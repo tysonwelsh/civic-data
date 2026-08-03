@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "LABEL MISMATCH: the file is catalogued as a 'final report' but the FINAL REPORT box is NOT checked - the checked box is 'January 31 of each year'. Title carries no year - form_year ''. Interim list is the 'Seven days before a primary/general election' variant; Column B header 'Year-to-Date Total'. Zeros written as slashed \u00d8. Summary Page header: Page 2 of 4, Richardson, 01/24/05. Clerk stamp RECEIVED JAN 24 2005."
+  "notes": "LABEL MISMATCH: the file is catalogued as a 'final report' but the FINAL REPORT box is NOT checked - the checked box is 'January 31 of each year'. Title carries no year - form_year ''. Interim list is the 'Seven days before a primary/general election' variant; Column B header 'Year-to-Date Total'. Zeros written as slashed \u00d8. Summary Page header: Page 2 of 4, Richardson, 01/24/05. Clerk stamp RECEIVED JAN 24 2005.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "THE SCHEDULE A PAGE IS MISSING FROM THE DOCUMENT. The form paginates itself 'x of 4' and the PDF has 4 pages, but they are: p1 cover, p2 Summary Page ('Page 2 of 4'), p3 SCHEDULE B ('Page 4 of 4'), p4 a Wells Fargo account statement. The form's own page 3 - Schedule A - was never scanned or never filed. Summary Page line 1 is a slashed zero in both columns, but a stated zero is not the same fact as a blank schedule that was inspected, so this side is 'none', not a transcribed zero"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B EXISTS (p3) and carries NO itemized lines - only a handwritten explanatory note - and both its SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITUTRES MADE cells hold a SLASHED-ZERO glyph. Per the zero-glyph ruling a slashed zero IS 0, so this is a real zero with zero rows, matching Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule B): no rows, printed SUBTOTAL and TOTAL both a slashed zero - consistent. No Schedule A page exists, so no contribution gate is available. The Summary Page balance chain does close: line 3 4,629.05 + line 4 (slashed zero) = line 5 4,629.05, and 4,629.05 - line 6 (slashed zero) = line 7 4,629.05, which also matches the attached bank statement's 'Balance on 01/12  $4,629.05'.",
+   "escalations": 0,
+   "escalation_note": "none - all four pages were rendered at 200 dpi and read in full; the classification is unambiguous and there are no rows to escalate on.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Larry W. Richardson, Treasurer; report hand-dated 01/24/05). THE DOCUMENT IS INCOMPLETE: the form's own Schedule A page (its 'page 3 of 4') is absent - the PDF runs cover, Summary Page, SCHEDULE B, then a Wells Fargo 'RICHARDSON FOR TREASURER' account statement. So the contributions side is 'none' (no such schedule in the document), NOT a transcribed zero, even though the stated total is zero. Schedule B is present and honestly EMPTY of line items: instead of rows the filer wrote an explanation across the table - 'Note: The bank charges monthly service fees, and reverses those fees in each month that shows no activity. For example, the January 12, 2005 statement shows a charge of $2.50 and a credit of $2.50. The net effect is [slashed zero] each month since December 2002.' - initialled. That is prose, not an itemized line, so it is NOT transcribed as a row; the bank statement on p4 corroborates it (deposits 2.50, withdrawals -2.50, balance unchanged at $4,629.05). Nothing from the bank statement's account detail is transcribed. For the record, and consistent with the known repo note on this file: the FINAL REPORT box is NOT checked on the cover - the January-31 year-end box is - so the filename is not the report type."
+  }
  }
 }

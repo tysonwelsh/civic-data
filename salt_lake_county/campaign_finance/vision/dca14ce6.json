@@ -1,6 +1,292 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-06-18",
+   "donor_raw": "Chris Stavros",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,23.50,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-06-18",
+   "donor_raw": "Lois Little",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,29.50,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-06-18",
+   "donor_raw": "Jedd Bogenschutz",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,34.00,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-06-18",
+   "donor_raw": "Sue Laymon",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,38.80,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 5,
+   "date": "2014-06-18",
+   "donor_raw": "Dennis Polanshek",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,43.30,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 6,
+   "date": "2014-06-18",
+   "donor_raw": "Colleen Robertson",
+   "amount": "110.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,50.00,83.20,3.30@p3",
+   "note": "date printed in full form '6/18/2014' (the rest of the column is mm/dd/yy); address block county-redacted (black box)"
+  },
+  {
+   "line_no": 7,
+   "date": "2014-08-15",
+   "donor_raw": "Beverly Jo Martin",
+   "amount": "120.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,54.50,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 8,
+   "date": "2014-08-29",
+   "donor_raw": "Don Skaggs",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,59.50,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 9,
+   "date": "2014-08-22",
+   "donor_raw": "Judy Stevens",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,64.30,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 10,
+   "date": "2014-09-08",
+   "donor_raw": "SL Board of Realtors",
+   "amount": "1,250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,68.80,83.20,3.30@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 11,
+   "donor_raw": "Contributions of $50.00 and under",
+   "amount": "720.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,75.00,83.20,3.30@p3",
+   "note": "AGGREGATE line, not a named donor; date cell left blank by the filer; address block county-redacted (black box)"
+  },
+  {
+   "line_no": 12,
+   "donor_raw": "Kevin Jacobs (Loan)",
+   "amount": "1,610.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,79.80,83.20,3.30@p3",
+   "note": "candidate self-loan as labelled; date cell left blank by the filer; address block county-redacted (black box)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-06-17",
+   "vendor_raw": "SL County Clerk",
+   "purpose": "Voted by mail list",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,25.00,78.60,2.00@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-06-19",
+   "vendor_raw": "Beautiful Wedding Announcements",
+   "purpose": "Flyers",
+   "amount": "315.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,28.10,78.60,2.00@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-06-20",
+   "vendor_raw": "Peterson's Fresh Market",
+   "purpose": "Taffy",
+   "amount": "307.76",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,31.30,78.60,2.00@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-06-24",
+   "vendor_raw": "Peterson's Fresh Market",
+   "purpose": "Taffy",
+   "amount": "325.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,34.50,78.60,2.00@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2014-07-03",
+   "vendor_raw": "Peterson's Fresh Market",
+   "purpose": "Taffy",
+   "amount": "1,326.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,37.80,78.60,2.00@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2014-07-07",
+   "vendor_raw": "Dave Smith",
+   "purpose": "Phone calls",
+   "amount": "445.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,40.90,78.60,2.00@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2014-07-10",
+   "vendor_raw": "Beautiful Wedding Announcements",
+   "purpose": "Flyers",
+   "amount": "48.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,44.10,78.60,2.00@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2014-07-23",
+   "vendor_raw": "Peterson's Fresh Market",
+   "purpose": "Taffy",
+   "amount": "922.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,47.40,78.60,2.00@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2014-07-29",
+   "vendor_raw": "Imaginos",
+   "purpose": "Signs",
+   "amount": "599.43",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,50.50,78.60,2.00@p4"
+  },
+  {
+   "line_no": 10,
+   "date": "2014-07-31",
+   "vendor_raw": "Beautiful Wedding Announcements",
+   "purpose": "Flyers",
+   "amount": "128.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,53.90,78.60,2.00@p4"
+  }
+ ],
  "total_contributions": "5,710.00",
  "total_expenditures": "4,454.51",
  "beginning_balance": "379.50",
@@ -49,6 +335,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NEITHER the amendment Yes nor the No box is checked, so is_amendment is left as an empty string. Signature date on the cover is 9/14/14 but the Summary Page header carries 9/15/14 (the filing deadline); the clerk received-stamp reads SEP 15 2014. All Column A arithmetic checks out (379.50 + 5,710.00 = 6,089.50; 6,089.50 - 4,454.51 = 1,634.99), and beginning balance 379.50 chains exactly to the June filing's Line 7."
+  "notes": "NEITHER the amendment Yes nor the No box is checked, so is_amendment is left as an empty string. Signature date on the cover is 9/14/14 but the Summary Page header carries 9/15/14 (the filing deadline); the clerk received-stamp reads SEP 15 2014. All Column A arithmetic checks out (379.50 + 5,710.00 = 6,089.50; 6,089.50 - 4,454.51 = 1,634.99), and beginning balance 379.50 chains exactly to the June filing's Line 7.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,710.00",
+     "itemized": "5710.00",
+     "result": "exact",
+     "detail": "exact (5710.00 = 5710.00)"
+    },
+    "expenditures": {
+     "stated": "4,454.51",
+     "itemized": "4454.51",
+     "result": "exact",
+     "detail": "exact (4454.51 = 4454.51)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5710.00 = printed SUBTOTAL 5,710.00 = printed TOTAL 5,710.00; p4 rows 4454.51 = printed SUBTOTAL 4,454.51 = printed TOTAL 4,454.51",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 12,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TYPED (word-processed) schedules, not handwriting; both sides gate exactly at first read, no escalation needed. Mailing-address column is a solid county redaction block, so no donor city/state exists. Schedule A carries two unnamed lines that ARE labelled fields on the form: an aggregate 'Contributions of $50.00 and under' 720.00 and a 'Kevin Jacobs (Loan)' 1,610.00 - both kept with needs_review=1 and blank dates (filer left the date cells empty)."
+  }
  }
 }

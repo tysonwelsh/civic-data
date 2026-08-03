@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-09-01",
+   "vendor_raw": "BEN DEMKE",
+   "purpose": "POSTAGE/SIGNS, ETC",
+   "amount": "396.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:13.10,28.00,74.60,3.10@p4",
+   "note": "amount printed as '396' with '71' raised above a double rule (superscript-cents convention) -> transcribed 396.71; matches Summary-Page lines 2 and 6"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "396.71",
  "beginning_balance": "396.71",
@@ -47,6 +62,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Cover name is written 'BRUCE KENT MORGAN' (the verification line prints 'B. KENT MORGAN'). Neither the Yes nor the No amendment box is checked -> is_amendment ''. Zeros are written as a slashed-zero glyph; transcribed '0'. Dollar amounts on this form are written in the old superscript-cents style ('396' with '71' raised over a rule) - transcribed as 396.71. Column B is left entirely blank on both lines. Summary header: page '2 of 6' (the PDF has 5 pages), last name MORGAN, date of report 9/12/06. Received stamp SEP 12 2006."
+  "notes": "Cover name is written 'BRUCE KENT MORGAN' (the verification line prints 'B. KENT MORGAN'). Neither the Yes nor the No amendment box is checked -> is_amendment ''. Zeros are written as a slashed-zero glyph; transcribed '0'. Dollar amounts on this form are written in the old superscript-cents style ('396' with '71' raised over a rule) - transcribed as 396.71. Column B is left entirely blank on both lines. Summary header: page '2 of 6' (the PDF has 5 pages), last name MORGAN, date of report 9/12/06. Received stamp SEP 12 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is present and entirely BLANK, struck through corner-to-corner with a single diagonal pen line; its SUBTOTAL and TOTAL cells are empty; Summary Page line 1 Column A is a slashed-zero glyph. Zero rows, real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "396.71",
+     "itemized": "396.71",
+     "result": "exact",
+     "detail": "exact (1 row 396.71 = stated 396.71)"
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule B) prints NO subtotal and NO total - both cells were left blank by the filer - so no page-subtotal gate exists on this filing; the single row 396.71 was gated against Summary-Page lines 2 and 6 (both '396 71' with the cents raised over a rule) instead. p3 (Schedule A) subtotal/total also blank.",
+   "escalations": 2,
+   "escalation_note": "p4 recipient-name cell at 600 dpi (settled 'BEN DEMKE', not 'DEMIKE'); p4 amount cell read for the raised-cents convention",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Five-page bundle: p1 cover, p2 Summary Page, p3 Schedule A (blank, diagonally struck out), p4 Schedule B (one row), p5 'Dissolution of a Candidate Campaign' notice for the Committee to Elect Kent Morgan (secretary Bud Ellett, committee established Dec 15 2005). The form's Type-of-Report box checked is FINAL REPORT, consistent with the listing label. Cover names the candidate BRUCE KENT MORGAN, Office Sought DISTRICT ATTORNEY. Both schedule amounts use the raised-cents-over-a-rule convention (396 with 71 written small above a double rule) and are transcribed with a decimal point."
+  }
  }
 }

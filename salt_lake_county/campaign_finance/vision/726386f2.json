@@ -49,6 +49,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Faxed copy - banner 'FEB.-06'07(TUE) 10:24  TEL:801 521+4181  P.002/P.003'. The FINAL REPORT box is checked and the 'January 31 of each year' box is NOT, even though the chunk metadata calls this a '2006 Summary Report'. The Summary Page header box (page N of M / last name / date of report) is entirely BLANK. Line 2 Column B is a heavy scrawl read as '50.00' (verified on a 400 dpi crop; the cents are a merged blot) - flagged low. Line 5 is written '1,012.3 0' with the final zero raised. NOTE for a later reader: this is a Final Report but Line 7 (balance at close) is 1,012.30, not zero, which the dissolution rule requires. RECEIVED stamp FEB 06 2007."
+  "notes": "Faxed copy - banner 'FEB.-06'07(TUE) 10:24  TEL:801 521+4181  P.002/P.003'. The FINAL REPORT box is checked and the 'January 31 of each year' box is NOT, even though the chunk metadata calls this a '2006 Summary Report'. The Summary Page header box (page N of M / last name / date of report) is entirely BLANK. Line 2 Column B is a heavy scrawl read as '50.00' (verified on a 400 dpi crop; the cents are a merged blot) - flagged low. Line 5 is written '1,012.3 0' with the final zero raised. NOTE for a later reader: this is a Final Report but Line 7 (balance at close) is 1,012.30, not zero, which the dissolution rule requires. RECEIVED stamp FEB 06 2007.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in this 3-page document, so there is no itemized side to sum. Summary Page line 1 Column A is a written '0' and Column B '995.00', but a stated zero is NOT evidence of a blank schedule that was looked at - the schedule page simply is not here."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in this 3-page document. Summary Page line 2 Column A is a written '0', Column B '50.00' (or '50.??' - not my field this tranche)."
+    }
+   },
+   "page_subtotal_gates": "none available - the document contains no schedule page and therefore no 'SUBTOTAL FOR THIS PAGE' cell of any kind.",
+   "escalations": 0,
+   "escalation_note": "none - all three pages rendered at 150 dpi and read in full; the classification is unambiguous.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "3-page FINAL REPORT, and it contains NO itemized schedule at all. p1 = cover (fax header 'FEB.-06'07(TUE) 10:24 TEL:801 521+4181 P.002'; Deanna L. Taylor, party 'Desert Greens', Office Sought 'S.L.Co. Council #5', the FINAL REPORT box is checked and the amendment answer is 'No', signed 02-06-07, clerk RECEIVED FEB 06 2007, stamped COPY). p2 = Summary Page, Column A lines 1/2 both a written '0'. p3 = a Cyprus Federal Credit Union online account statement for 'DEANNA TAYLOR FOR SALT LAKE' showing both share accounts closed to a 0.00 balance on FEB 6 - i.e. the statement of dissolution the Final Report requires, NOT a Schedule A or B. Both sides are therefore 'none' (no such schedule in the document), NOT a transcribed zero: the stated totals are 0, but no schedule page was ever filed, and per the contract a stated zero is not the same fact as a blank schedule that was inspected. NOTHING from p3's account/member detail is transcribed. This filing is a genuine Deanna L. Taylor document - it is NOT the known mislabelled 'dtaylor' filing that turns out to be Diane Turner's dissolution."
+  }
  }
 }

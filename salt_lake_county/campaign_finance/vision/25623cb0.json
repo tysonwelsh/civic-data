@@ -1,6 +1,88 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-03-17",
+   "donor_raw": "Leonard Olds",
+   "amount": "597.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,25.00,85.40,3.55@p3",
+   "note": "occupation/employer 'Retired'; mailing address cell left blank by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-08-19",
+   "donor_raw": "Leonard Olds",
+   "amount": "170.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,28.50,85.40,4.30@p3",
+   "note": "occupation/employer is a ditto mark resolving to 'Retired' from row 1; mailing address blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-09-11",
+   "donor_raw": "Leonard Olds",
+   "amount": "77.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.70,33.00,85.40,3.50@p3",
+   "note": "occupation/employer is a ditto mark resolving to 'Retired'; a stray ink tick sits left of the amount in the cell; final digit read as 7 at 1200 dpi and confirmed by the page subtotal"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-03-17",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "597.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:12.30,27.50,78.30,3.80@p4",
+   "note": "middle digit ambiguous 9-vs-8 at 200 dpi; 1200 dpi cell crop plus the page subtotal (597.36+170.40+77.57=845.33) both give 9"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-08-19",
+   "vendor_raw": "DMT Publishing",
+   "purpose": "Printing Brochures",
+   "amount": "170.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,31.20,78.30,4.30@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-09-11",
+   "vendor_raw": "Staples Business Supply",
+   "purpose": "Envelopes + INK",
+   "amount": "77.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,35.50,78.30,3.80@p4",
+   "note": "vendor written in a cramped hand ('Staples Business Supply'); purpose reads 'Envelopes + INK'"
+  }
+ ],
  "total_contributions": "845.23",
  "total_expenditures": "845.23",
  "beginning_balance": "0",
@@ -50,6 +132,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older template (04pccfindisc.doc); the clerk listing says 'October' and the form checks 'Seven days before a general election'. The top-row 'Office' box holds 'Salt Lake County Mayor' STRUCK THROUGH with a pen line; the separate 'Office Sought' box reads 'COUNTY MAYOR' and is used here. Party is written cramped and runs off the cell edge, read as CONSTITUTION (medium confidence). The filer's '5' has an unusual crossed top stroke; a 260-dpi re-render confirms every money cell as 845.23, but the two Column B cells are the least clean, so they are medium confidence. Lines 3 and 7 are written as a zero flanked by dashes ('\u20140\u2014'), recorded as '0'. Page box reads 'Page 1 of 3'. Neither amendment box is checked."
+  "notes": "Older template (04pccfindisc.doc); the clerk listing says 'October' and the form checks 'Seven days before a general election'. The top-row 'Office' box holds 'Salt Lake County Mayor' STRUCK THROUGH with a pen line; the separate 'Office Sought' box reads 'COUNTY MAYOR' and is used here. Party is written cramped and runs off the cell edge, read as CONSTITUTION (medium confidence). The filer's '5' has an unusual crossed top stroke; a 260-dpi re-render confirms every money cell as 845.23, but the two Column B cells are the least clean, so they are medium confidence. Lines 3 and 7 are written as a zero flanked by dashes ('\u20140\u2014'), recorded as '0'. Page box reads 'Page 1 of 3'. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "845.23",
+     "itemized": "845.33",
+     "result": "delta",
+     "detail": "delta 0.10 - FILER discrepancy, not a transcription gap: the Summary Page line 1 Column A cell re-read at a 1200 dpi tight crop unambiguously prints 845.23, while Schedule A's own printed SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED both print 845.33 and the three itemized rows sum to 845.33 exactly. Both figures retained verbatim; nothing adjusted."
+    },
+    "expenditures": {
+     "stated": "845.23",
+     "itemized": "845.33",
+     "result": "delta",
+     "detail": "delta 0.10 - same FILER discrepancy on the B side: Summary Page line 2 Column A prints 845.23, Schedule B's printed subtotal and total both print 845.33, and the three rows sum to 845.33 exactly."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 597.36+170.40+77.57 = 845.33 = printed SUBTOTAL FOR THIS PAGE 845.33 (GATE PASS); p4 rows 597.36+170.40+77.57 = 845.33 = printed subtotal 845.33 (GATE PASS). The p4 row-1 amount was ambiguous 9-vs-8 at 200 dpi and the gate is what settled it at 597.36; a 1200 dpi cell crop then confirmed the 9.",
+   "escalations": 3,
+   "escalation_note": "p3 amount column rows 1-2 at 1200 dpi cell crop; p3 rows 3 + subtotal/total band at 1200 dpi; p4 row-1 amount cell at 1200 dpi; plus a 1200 dpi crop of the p2 Summary Page line-1 Column A cell to establish that the 845.23/845.33 split is the filer's, not a misread.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Leonard Olds, Salt Lake County Mayor (Constitution party), interim 'Seven days before a general election', signed 27 Oct 2008. All three contributions are the candidate self-funding (donor = Leonard Olds, occupation 'Retired' with ditto marks on rows 2-3). The Complete Mailing Address column is EMPTY on every row - the filer left it blank (not a county redaction), so donor_city/donor_state are blank. Schedule A row amounts equal Schedule B row amounts one-for-one (he deposited exactly what he spent, each time)."
+  }
  }
 }

@@ -1,6 +1,33 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Richter 7",
+   "purpose": "Advertising",
+   "amount": "2,837.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,27.40,85.00,3.85@p4",
+   "note": "DATE PRINTED WITHOUT A YEAR - verbatim '11/2'; left blank per contract, never filled from the report date. Cents printed as a superscript '00' over the dollars, transcribed with a decimal point. Date+name re-read at 700dpi."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Dan Burton",
+   "purpose": "Support",
+   "amount": "1,300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,31.25,85.00,3.85@p4",
+   "note": "DATE PRINTED WITHOUT A YEAR - verbatim '11/4'; left blank per contract. Cents printed as a superscript '00'. Date+name re-read at 700dpi."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "4,137.00",
  "beginning_balance": "7,657.87",
@@ -49,6 +76,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older form variant with a top-row 'Office' box reading 'County Council'. Lines 1 and 4 Column A are a single short DIAGONAL STROKE through the cell (not a figure and not blank) - the filer's nil mark - recorded as 0 at medium confidence per the corpus convention that a drawn stroke means zero; Line 5 repeating Line 3 unchanged is consistent with that reading. Line 1 Column B (76,768.50) is written in a crossed-seven hand and is recorded at medium confidence. Arithmetic consistent (7,657.87 - 4,137.00 = 3,520.87)."
+  "notes": "Older form variant with a top-row 'Office' box reading 'County Council'. Lines 1 and 4 Column A are a single short DIAGONAL STROKE through the cell (not a figure and not blank) - the filer's nil mark - recorded as 0 at medium confidence per the corpus convention that a drawn stroke means zero; Line 5 repeating Line 3 unchanged is consistent with that reading. Line 1 Column B (76,768.50) is written in a crossed-seven hand and is recorded at medium confidence. Arithmetic consistent (7,657.87 - 4,137.00 = 3,520.87).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is a printed-but-empty grid struck through with one diagonal stroke; zero itemized lines. The SUBTOTAL cell holds only a short diagonal slash and the TOTAL cell is empty - per the ZERO-GLYPH RULING a bare slash is NOT a numeral, so no printed page figure is claimed here; the zero comes from the Summary Page."
+    },
+    "expenditures": {
+     "stated": "4,137.00",
+     "itemized": "4137.00",
+     "result": "exact",
+     "detail": "exact (4137.00 = 4,137.00)"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 4137.00 = printed subtotal '4,137' (exact). p3 prints no numeric subtotal (slash only), so that page cannot be gated - it also carries zero rows.",
+   "escalations": 1,
+   "escalation_note": "p4 date+recipient columns, 700dpi band crop over both rows (confirmed no year is printed in either date cell)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Pages 1-2 = cover + Summary Page (already transcribed upstream, not re-read). Schedule A is a BLANK schedule - real zero, matching the stated 0. Schedule B carries exactly two lines and BOTH date cells are printed WITHOUT A YEAR ('11/2', '11/4'), so both dates are left blank with the verbatim kept in the row note; the report itself is dated 1/31/09 but a year is never inferred from the report date. The Schedule B 'TOTAL EXPENDITUTRES MADE' cell was left EMPTY by the filer (only the page SUBTOTAL is filled) - the 4,137.00 reconciliation anchor comes from the Summary Page. Field-shift screen: 2 names, 2 amounts, 2 purposes, no date-shaped content in name cells."
+  }
  }
 }

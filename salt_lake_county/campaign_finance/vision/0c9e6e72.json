@@ -1,6 +1,32 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=medium",
+   "verified": 0,
+   "geometry": "pct:4.13,22.50,84.55,3.20@p3",
+   "note": "NAME NOT RESOLVED. The cell holds a degraded-fax cursive scrawl of two words; at 700 dpi with contrast normalisation the first word begins 'St' and the second contains a run reading 'rms' with a terminal 'n'. The occupation cell reads 'SLC' over a second word reading 'same'. The 175 equals the county filing fee that is the sole Schedule B row, so the entry is most likely the candidate's own self-contribution - but that completion is an INFERENCE and was deliberately NOT written into donor_raw. Date cell prints 'Mar/10' (month and year, no day). Address cell empty. Amount written '175', whole dollars, no cents or $ sign"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "SL County",
+   "purpose": "Fee",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.50,24.60,84.55,3.20@p4",
+   "note": "date cell prints 'Mar/10' (month and year, no day) - left blank, never completed. Recipient written in cursive as 'SL County'; purpose resolved at 900 dpi to 'Fee'. Amount written '175', whole dollars"
+  }
+ ],
  "total_contributions": "175",
  "total_expenditures": "175",
  "beginning_balance": "0",
@@ -49,6 +75,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Faxed handwritten form (fax header 09/10/2010). Same 175/175/0 figures as the April and June interims. Neither amendment box is checked."
+  "notes": "Faxed handwritten form (fax header 09/10/2010). Same 175/175/0 figures as the April and June interims. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (175 = 175); the single row, the SUBTOTAL and the TOTAL all print 175"
+    },
+    "expenditures": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (175 = 175)"
+    }
+   },
+   "page_subtotal_gates": "p3 row sum 175 = printed SUBTOTAL FOR THIS PAGE 175 = printed TOTAL 175; p4 row sum 175 = printed SUBTOTAL 175 = printed TOTAL 175. Both gates fired and passed (the subtotal/total figures are smudged at the page foot but read consistently at 200 dpi and agree with the Summary Page).",
+   "escalations": 4,
+   "escalation_note": "p3 date+name cells and p3 occupation cell each re-rendered at 700 dpi with -normalize; p4 date+recipient cells at 700 dpi and p4 purpose cell at 900 dpi with -normalize. The Schedule A contributor NAME remained unresolved even at 700 dpi and was NOT completed; the p4 purpose resolved to 'Fee'.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DEGRADED FAX COPY - fax header '09/10/2010 00:19  18015329125  WAFCO  PAGE 03/04 / 04/04', heavy black corner smear, skewed rules, and a shredded right margin. Both schedule header boxes (Page / Last Name / Date of Report) were left blank. Amounts are whole dollars with no cents and no dollar sign. THE DATES ARE MONTH-AND-YEAR ONLY on both rows ('Mar/10' in cursive) - no day is printed, so both dates are left BLANK with the verbatim in the row note, never completed from the report period. The Schedule A contributor name is a degraded cursive scrawl that did not resolve at 700 dpi and is left BLANK rather than completed to a plausible name - see that row's note for what IS legible. The vision totals pass recorded the same 175/175/0 figures on this filer's April and June interims."
+  }
  }
 }

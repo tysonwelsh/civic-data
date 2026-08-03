@@ -1,6 +1,127 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-03-12",
+   "donor_raw": "Steve DeBry",
+   "amount": "$171.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.79,23.90,87.70,3.65@p3",
+   "note": "candidate self-contribution; mailing-address cell redacted (white block); Occupation/Employer='UPD-captain'"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-03-15",
+   "donor_raw": "Steve DeBry",
+   "amount": "$497.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.79,27.55,87.70,3.70@p3",
+   "note": "candidate self-contribution; mailing-address cell redacted (white block); Occupation/Employer='UPD-captain'"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-03-26",
+   "donor_raw": "Jack Nielson",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.79,31.25,87.70,3.75@p3",
+   "note": "amount printed '$500.' with '00' raised after the point; mailing-address cell redacted (white block); Occupation/Employer='Machine shop'. Note this filing spells two different donors 'Nielson' (row 3) and 'Nielsen' (row 5) - both kept as written"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-03-26",
+   "donor_raw": "Don Skaggs",
+   "amount": "$2,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.79,35.00,87.70,4.15@p3",
+   "note": "amount printed '$2,500.' with '00' raised after the point; mailing-address cell redacted (white block); Occupation/Employer='Skaggs Public Safety Uniforms & Equip' (written over two lines)"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-03-26",
+   "donor_raw": "George Nielsen",
+   "amount": "$300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.79,39.15,87.70,3.75@p3",
+   "note": "amount glyph is ambiguous 3-vs-8 by eye ('$300.00' vs '$800.00'); resolved by the page-subtotal identity 5068.61 - (other six rows 4768.61) = 300.00, so $300.00. Mailing-address cell redacted (white block); Occupation/Employer='Retired'"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-03-26",
+   "donor_raw": "Michael Walton",
+   "amount": "$100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.79,42.90,87.70,4.10@p3",
+   "note": "mailing-address cell redacted (white block); Occupation/Employer='Walton Marine' (written over two lines)"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-03-29",
+   "donor_raw": "Kasey Enterprises",
+   "amount": "$1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,47.00,87.70,5.15@p3",
+   "note": "donor name written over two lines ('Kasey' / 'Enterprises'); mailing-address cell redacted (white block); Occupation/Employer='Self-employed'; row 7 fell outside the 500 dpi verification band"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "S.L. Co. Clerk",
+   "purpose": "filing fee",
+   "amount": "$171.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.59,26.70,82.60,2.73@p4",
+   "note": "the recipient cell also carries a street address, discarded at read time per the privacy rule; city as written 'SLC, Utah'"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-03-15",
+   "vendor_raw": "Renaissance Signs Inc.",
+   "purpose": "Signs",
+   "amount": "$497.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.59,29.43,82.60,2.96@p4",
+   "note": "the recipient cell also carries a street address, discarded at read time per the privacy rule; city as written 'SLC, Utah'"
+  }
+ ],
  "total_contributions": "$5,068.61",
  "total_expenditures": "$668.61",
  "beginning_balance": "N/A",
@@ -47,6 +168,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Later form face carrying BOTH a top-row 'Office' box ('County Council') and an 'Office Sought' box ('County Council', district '#5'); Column B is headed 'Aggregate Total' and is blank on both lines. April 5 interim checked; neither amendment box checked; signed 4-4-10, clerk-stamped RECEIVED APR 2010. IMPORTANT: Line 3, Balance at Beginning of Reporting Period, is written as the letters 'N/A' - not a number and not blank - so it is recorded verbatim as 'N/A'. Arithmetic on the rest is exact (5,068.61 - 668.61 = 4,400.00)."
+  "notes": "Later form face carrying BOTH a top-row 'Office' box ('County Council') and an 'Office Sought' box ('County Council', district '#5'); Column B is headed 'Aggregate Total' and is blank on both lines. April 5 interim checked; neither amendment box checked; signed 4-4-10, clerk-stamped RECEIVED APR 2010. IMPORTANT: Line 3, Balance at Beginning of Reporting Period, is written as the letters 'N/A' - not a number and not blank - so it is recorded verbatim as 'N/A'. Arithmetic on the rest is exact (5,068.61 - 668.61 = 4,400.00).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$5,068.61",
+     "itemized": "5068.61",
+     "result": "exact",
+     "detail": "exact (7 rows sum 5068.61 = printed SUBTOTAL FOR THIS PAGE $5,068.61 = printed TOTAL CONTRIBUTIONS RECEIVED $5,068.61 = stated $5,068.61)"
+    },
+    "expenditures": {
+     "stated": "$668.61",
+     "itemized": "668.61",
+     "result": "exact",
+     "detail": "exact (2 rows 171.36 + 497.25 = 668.61 = printed SUBTOTAL FOR THIS PAGE $668.61 = printed TOTAL EXPENDITURES MADE $668.61 = stated $668.61)"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A) 7 rows sum 5068.61 = printed subtotal $5,068.61 GATE PASS - and the gate ADJUDICATED row 5, whose amount glyph read '$800.00' on the 100 dpi contact sheet and '$300.00' at 200 dpi: the other six rows sum 4768.61, so 5068.61 - 4768.61 = 300.00 settles it as $300.00. p4 (Schedule B) 2 rows sum 668.61 = printed subtotal $668.61 GATE PASS.",
+   "escalations": 2,
+   "escalation_note": "p3 date+name columns re-rendered as one 500 dpi band (rows 1-6, all identical on re-read); p4 both expenditure rows at 400 dpi",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Steven L. DeBry, County Council District 5, April 5 2010 interim (form checks April 5). The Complete Mailing Address column on Schedule A is covered edge-to-edge by a solid WHITE county REDACTION block over all seven rows - donor_city/donor_state are therefore blank on every contribution row, and the stray marks visible at the left edge of the Occupation/Employer column ('t', 't', 'r,', 'b. Id. 17') are fragments of the redacted address text protruding past the block, not occupation data. Schedule A carries an Occupation/Employer column with no schema field here, so each value is preserved verbatim in the row note. On Schedule B the Name-of-Recipient cell also contains a street address for both vendors; per the privacy rule the street lines were discarded at read time and only the vendor name is written to vendor_raw (both recipients' city as written was 'SLC, Utah'). Summary line 3 is 'N/A' rather than a figure, so the balance chain cannot be run; lines 5 - 6 = 5,068.61 - 668.61 = 4,400.00 = line 7, which does close."
+  }
  }
 }

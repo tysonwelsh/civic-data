@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-11-01",
+   "donor_raw": "CANDIDATE",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,21.40,75.40,3.40@p3",
+   "note": "donor written simply 'CANDIDATE' in the Name of Contributor cell - the filer's own label for a self-funding transfer, kept verbatim and NOT resolved to the candidate's name; the Complete Mailing Address and Occupation AND Employer cells were left EMPTY by the filer (not redacted - the county's black bar on this document covers only the cover page's address block); date verbatim '11/1/12', escalated twice (1200 dpi cell crop, then a contrast-normalised re-crop) to rule out '11/11/12'"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "5,000",
  "total_expenditures": "0",
@@ -49,6 +63,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report/Dissolution' and the file name says 'Final', but the FORM checks only the YEAR-END REPORT box - the Final/Dissolution box is NOT checked (and the closing balance is $9,226.60, not zero, so it could not be a dissolution). Recorded as the form shows. The 'No' amendment box IS checked. This 2013-vintage form has a single office line: 'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is left blank. Party is written 'GOP'. Lines 2 and 6 Column A are a hand-drawn slashed zero, recorded as 0. Line 2 Column B is written with NO comma and NO decimal point - the digits read '31 19840' with a gap after the 31 - recorded verbatim at low confidence (for the human reader: this candidate's October 2012 report prints the same aggregate clearly as $31,198.40). Line 5 is written '9 226.60' with a space where the thousands comma belongs; recorded as 9226.60. The Summary Page header block was left BLANK. Clerk RECEIVED stamp FEB 27 2013."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report/Dissolution' and the file name says 'Final', but the FORM checks only the YEAR-END REPORT box - the Final/Dissolution box is NOT checked (and the closing balance is $9,226.60, not zero, so it could not be a dissolution). Recorded as the form shows. The 'No' amendment box IS checked. This 2013-vintage form has a single office line: 'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is left blank. Party is written 'GOP'. Lines 2 and 6 Column A are a hand-drawn slashed zero, recorded as 0. Line 2 Column B is written with NO comma and NO decimal point - the digits read '31 19840' with a gap after the 31 - recorded verbatim at low confidence (for the human reader: this candidate's October 2012 report prints the same aggregate clearly as $31,198.40). Line 5 is written '9 226.60' with a space where the thousands comma belongs; recorded as 9226.60. The Summary Page header block was left BLANK. Clerk RECEIVED stamp FEB 27 2013.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,000",
+     "itemized": "5,000",
+     "result": "exact",
+     "detail": "exact (5,000 = 5,000). One row; the page's SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED both print 5,000, matching Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact (0 = 0). The Itemized Expenditures Made page exists and is wholly UNFILLED - no rows, and its SUBTOTAL / TOTAL cells are EMPTY, not zero glyphs. The zero comes from Summary Page line 2 Column A, which carries a slashed-zero glyph (=0 under the repo zero-glyph ruling), repeated at line 6. Zero rows is therefore a real zero, not a gap"
+    }
+   },
+   "page_subtotal_gates": "p3 gates EXACTLY: single row 5,000 = printed SUBTOTAL FOR THIS PAGE 5,000 = printed TOTAL CONTRIBUTIONS RECEIVED 5,000. p4 prints a SUBTOTAL FOR THIS PAGE row but leaves the cell BLANK, so that page has no figure to gate against; it is empty on its face and the Summary Page's slashed zero is the only stated figure.",
+   "escalations": 3,
+   "escalation_note": "p3 date cell at 1200 dpi, then a contrast-normalised 2.2x re-crop of the same cell to count strokes and settle 11/1/12 vs 11/11/12 (resolved to 11/1/12: two short strokes, slash, one short stroke, slash, '12'); p3 amount cell at 1200 dpi.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing: p1 cover, p2 Summary Page, p3 Itemized Contributions Received, p4 Itemized Expenditures Made (blank). LISTING LABEL DISAGREES WITH THE FORM: the filename says 'Final' but the form checks ONLY the January-31 YEAR-END box - the FINAL / DISSOLUTION box is UNCHECKED, and the amendment question is ticked 'No'. Transcribed as what the form says. The cover's street-address block is covered by a solid black county REDACTION bar; the contributor row's own mailing-address cell was simply left EMPTY by the filer (no bar over it), which is a different state and is noted on the row. The single contribution names the contributor as 'CANDIDATE' - the filer's own label for a self-funding transfer, kept verbatim rather than resolved to Joseph M. Demma. Report signed 2/25/13 and stamped received FEB 27 2013 for the 2012 cycle."
+  }
  }
 }

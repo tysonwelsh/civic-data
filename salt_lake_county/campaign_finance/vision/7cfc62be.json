@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Summary Page is page 4 of 4. Lines 1, 2 and 4 Column A and Line 6 are hand-drawn zeros (open circles) \u2014 recorded as \"0\"; Line 6's zero is smudged/overwritten. Neither amendment box is checked. Party written 'Democrate'."
+  "notes": "Handwritten. Summary Page is page 4 of 4. Lines 1, 2 and 4 Column A and Line 6 are hand-drawn zeros (open circles) \u2014 recorded as \"0\"; Line 6's zero is smudged/overwritten. Neither amendment box is checked. Party written 'Democrate'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact (0 = 0): Schedule A (p2) is printed but entirely BLANK; its SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells both carry a handwritten zero glyph"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact (0 = 0): Schedule B (p3) is printed but entirely BLANK; its SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITURES MADE cells both carry a handwritten zero glyph"
+    }
+   },
+   "page_subtotal_gates": "p2 rows 0 = printed subtotal 0 (blank schedule); p3 rows 0 = printed subtotal 0 (blank schedule)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES ARE OUT OF ORDER: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page (the form's own 'Page _ of 4' boxes read 2, 3 and 4 respectively). BOTH schedules exist and are entirely BLANK - a real zero, not a gap (verified by reading the full table bodies of pp.2-3; every cell is empty and the subtotal/total cells carry a zero glyph). Cover: Daniel C. Snarr, Office '3rd District County Council', Democrat, Office Sought 'County Council #3'; the JUNE 17 interim box is checked; signed 6/17/14; RECEIVED IN OFFICE JUN 17 2014. Summary Page Column A: line1 0, line2 0, line3 375.00, line4 0, line5 375.00, line6 zero glyph, line7 375.00 - the balance chain closes (375.00+0=375.00; 375.00-0=375.00). Column B carries 598.46 (contributions to date) and 883.46 (expenditures to date), preserved here because there is no schema column for them."
+  }
  }
 }

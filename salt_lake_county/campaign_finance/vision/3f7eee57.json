@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-11-01",
+   "donor_raw": "David Brems",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,25.40,84.00,3.20@p3",
+   "note": "amount written '500.-' - a trailing dash after whole dollars, i.e. no cents, so recorded as 500.00 per the currency convention with the verbatim glyph string kept here. The 'Complete Mailing Address' cell is empty apart from one illegible stray mark on the rule above it (escalated to 600 dpi contrast-stretched and still unreadable), so no city/state exists and none was inferred"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "500.-",
  "total_expenditures": "0",
@@ -49,6 +63,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Form title has no year ('Financial Disclosure Report For a Candidate'); clerk stamp reads JAN 28 2011, signature date 1-28-11, so this is the year-end report for calendar 2010 (manifest calls it the 2010 Summary Report - consistent). This form has BOTH a top-row 'Office' box and an 'Office Sought' box; both are filled with 'County Council At-Large \"C\"'. Line 1 Columns A and B are written '500.' followed by a dash for the cents (a written-out zero-cents convention), recorded verbatim as '500.-'. Line 2 Columns A and B and Line 6 are a slashed zero (0). NEITHER the amendment Yes nor the No box is checked, so is_amendment is left blank."
+  "notes": "Form title has no year ('Financial Disclosure Report For a Candidate'); clerk stamp reads JAN 28 2011, signature date 1-28-11, so this is the year-end report for calendar 2010 (manifest calls it the 2010 Summary Report - consistent). This form has BOTH a top-row 'Office' box and an 'Office Sought' box; both are filled with 'County Council At-Large \"C\"'. Line 1 Columns A and B are written '500.' followed by a dash for the cents (a written-out zero-cents convention), recorded verbatim as '500.-'. Line 2 Columns A and B and Line 6 are a slashed zero (0). NEITHER the amendment Yes nor the No box is checked, so is_amendment is left blank.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "500.-",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact; the single row's amount is written '500.-' and the printed SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED are both written '500.-' as well, matching Summary Page line 1 Column A verbatim. Per the currency convention a trailing dash after whole dollars means no cents, i.e. 500.00; the verbatim glyph string is retained in the amount field"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B (p4) EXISTS and is BLANK - 'None' is written in the first Date cell and the TOTAL EXPENDITUTRES MADE cell carries a slashed-zero glyph. Per the zero-glyph ruling a slashed zero IS 0, so this is a real zero with zero rows, not a gap"
+    }
+   },
+   "page_subtotal_gates": "p3: one row 500.- = printed SUBTOTAL 500.- = printed TOTAL 500.-. Fires. p4: no rows and no subtotal figure; the schedule-level TOTAL is a slashed zero.",
+   "escalations": 1,
+   "escalation_note": "600 dpi contrast-stretched crop of the p3 Complete Mailing Address cell, to test whether a city was written there. It is NOT: the only ink is an unreadable stray mark straddling the header/first-row rule (bleed-through or a scanner artifact), and the address cell body is empty. No city/state was inferred from it.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Jim Bradley, County Council At-Large C, 2010 Year-End). p1 cover, p2 Summary Page, p3 Schedule A with exactly ONE row, p4 Schedule B explicitly marked 'None'. Note this filing uses the OLDER form variant ('Attach additional pages if needed', footer 04pccfindisc.doc) whose Schedule A header box is left entirely blank - no page number, no last name, no report date on either schedule page. The one contribution's address cell is empty apart from an illegible stray mark (see escalation), so donor_city/donor_state are blank. The amount uses the trailing-dash convention ('500.-') on the row, the subtotal AND the total - retained verbatim on all three."
+  }
  }
 }

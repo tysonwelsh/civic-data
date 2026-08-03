@@ -1,6 +1,133 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Linda Hamilton",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,11.50,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Public Administration' / 'Salt Lake County'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Stephanie Peterson",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,12.63,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Policy Analyst' / ''"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "Lee Brennan",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,13.76,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Retired' / ''"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Brenda Hancock",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,14.89,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Retired' / ''"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "David Salazar",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,16.02,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Public Administration' / 'State of Utah'"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "Jani Iwamoto",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,17.15,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Attorney' / 'Self Employed'"
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "Kerri Nakamura",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:3.60,18.28,81.40,1.05@p4",
+   "note": "NO DATE EXISTS FOR THIS ROW: the 'April 5 Donations Amend' attachment prints columns LastName, FirstName, FullAddress, City, Zip, Amount, Occupation, Employer and has NO date column at all. The date is left blank with needs_review rather than filled from the report period.; the attachment prints FullAddress, City and Zip columns and all three are EMPTY on every row (there is no State column at all), so no city or state exists to record; name printed in two columns (LastName / FirstName), joined here as printed; Occupation/Employer cells: 'Public Administration' / 'Salt Lake County'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-09",
+   "vendor_raw": "Presto Print",
+   "purpose": "Letterhead",
+   "amount": "270.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.50,28.20,72.80,3.70@p5",
+   "note": "handwritten; date printed '3/9/06'"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Sherrie Swenson Co Clrk",
+   "purpose": "Filing Fee",
+   "amount": "229.85",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.50,31.95,72.80,3.70@p5",
+   "note": "DATE LEFT BLANK: the DAY digit is written directly over an earlier digit and stays an unresolvable blot at 900 dpi; only '3/' and '/06' are legible, so the date is not recorded rather than guessed. Verbatim '3/[illegible]/06'. Recipient is the Salt Lake County Clerk written as the officeholder's name ('Sherrie Swenson Co Clrk'); the amount 229.85 is the standard county filing fee of that cycle and is confirmed by the page subtotal (579.11 - 270.85 - 78.41 = 229.85)."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-13",
+   "vendor_raw": "Presto Print",
+   "purpose": "Envelopes",
+   "amount": "78.41",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.50,35.70,72.80,3.70@p5",
+   "note": "handwritten; date printed '3/13/06'"
+  }
+ ],
  "total_contributions": "650.-",
  "total_expenditures": "579.11",
  "beginning_balance": "584.97",
@@ -48,6 +175,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NO reporting-period box is checked at all on this form - the only mark in the Type of Report block is the amendment 'Yes' box, with 'April 5' written on the date-of-report rule; report_type is therefore left blank ('') and the period is carried only by amendment_of. Signed 'Oct. 3, 2006' and clerk-stamped OCT 03 2006, i.e. an April report amended six months later. The Summary Page figures are IDENTICAL to the original April 5 filing (jbradley_apr52006.pdf) - the amendment did not change the stated totals. Line 1 cents are written as a trailing dash ('650.-', '1,750.-')."
+  "notes": "NO reporting-period box is checked at all on this form - the only mark in the Type of Report block is the amendment 'Yes' box, with 'April 5' written on the date-of-report rule; report_type is therefore left blank ('') and the period is carried only by amendment_of. Signed 'Oct. 3, 2006' and clerk-stamped OCT 03 2006, i.e. an April report amended six months later. The Summary Page figures are IDENTICAL to the original April 5 filing (jbradley_apr52006.pdf) - the amendment did not change the stated totals. Line 1 cents are written as a trailing dash ('650.-', '1,750.-').",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3 (form, 'See Attached') + 4 (the attached 'April 5 Donations Amend' sheet)",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "650.-",
+     "itemized": "650.00",
+     "result": "exact",
+     "detail": "exact (650.00 = 650); the 7 rows equal the attachment's own printed total $650 and Summary line 1, which is written '650.-' (a trailing dash for no cents)"
+    },
+    "expenditures": {
+     "stated": "579.11",
+     "itemized": "579.11",
+     "result": "exact",
+     "detail": "exact (579.11 = 579.11); the 3 rows equal the printed SUBTOTAL FOR THIS PAGE 579.11, the printed TOTAL 579.11 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A form) carries only 'See Attached' and leaves both total cells blank - nothing to gate. p4 (attachment) prints one unlabelled total, $650, directly under the Amount column; rows sum 650 - GATE FIRED. p5 (Schedule B, filled on the form itself) prints SUBTOTAL FOR THIS PAGE 579.11 and TOTAL 579.11; rows sum 579.11 - GATE FIRED, and it is that subtotal which pins the middle row's amount at 229.85.",
+   "escalations": 1,
+   "escalation_note": "p5 row 2 DATE cell at 900 dpi - the day digit is overwritten and remains unresolvable at that resolution, so the date is left blank rather than guessed.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "5-page AMENDMENT to the April 5, 2006 interim: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A form ('See Attached' only), p4 the attached typed sheet headed 'April 5 Donations Amend / Page 1' (7 rows + a $650 total), p5 Schedule B filled in by hand on the county form (3 rows). NOTE ON THE FORM ITSELF: no reporting-period box is checked anywhere on this filing - only the amendment 'Yes' box is ticked - which is why the manifest shows no report_type. THE ATTACHMENT HAS NO DATE COLUMN AT ALL, so all 7 contribution rows carry a blank date with needs_review; none was inferred from the April 5 period. Its FullAddress, City and Zip columns are empty on every row and there is no State column, so no donor geography exists. Schedule B's second row records the county filing fee under the Clerk's personal name ('Sherrie Swenson Co Clrk') and its day digit is overwritten beyond recovery. Summary line 1 is written '650.-' - a trailing dash for no cents."
+  }
  }
 }

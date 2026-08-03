@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TWO boxes checked: the June 20 interim AND the Final Report box. Every Column A cell (lines 1-7) is a hand-drawn slashed zero (\u00d8) - recorded as 0. The candidate wrote the district into the Office Sought box ('COUNTY COUNCIL #3'), leaving the District Number box itself empty. Summary-page header box is blank. Neither amendment box is checked. Filed together with a separate Dissolution of a Candidate Campaign notice (key 7466a510)."
+  "notes": "TWO boxes checked: the June 20 interim AND the Final Report box. Every Column A cell (lines 1-7) is a hand-drawn slashed zero (\u00d8) - recorded as 0. The candidate wrote the district into the Office Sought box ('COUNTY COUNCIL #3'), leaving the District Number box itself empty. Summary-page header box is blank. Neither amendment box is checked. Filed together with a separate Dissolution of a Candidate Campaign notice (key 7466a510).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (page 3) is printed and entirely BLANK, and its TOTAL CONTRIBUTIONS RECEIVED cell carries a slashed-zero glyph; a real reported zero"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule B (page 4) is printed and entirely BLANK, and its TOTAL EXPENDITURES MADE cell carries a slashed-zero glyph; a real reported zero"
+    }
+   },
+   "page_subtotal_gates": "p3: zero rows; the SUBTOTAL FOR THIS PAGE cell is EMPTY but the TOTAL line below it carries a slashed zero - gates at 0. p4: identical. Page 3 was re-rendered at 200 dpi on its own because the scan seam blacks out the left margin and clips the column-header row; every data row underneath is visibly empty, so the clipping hides no lines.",
+   "escalations": 1,
+   "escalation_note": "p3 re-rendered full-page at 200 dpi to confirm that the scan-seam damage across the header row does not conceal any filled data rows.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, both sides - looked at page 3 (Schedule A) and page 4 (Schedule B); the printed form has all its row lines and none is filled. Zero rows is the honest reading. Per the ZERO-GLYPH RULING the slashed zeros on the schedule TOTAL lines and in Summary Page Column A lines 1-7 denote 0. SCAN DEFECT: page 3 is skewed and a black seam covers the left margin and the column-header row (the header text 'Date Received / Name of Contributor / Complete Mailing Address / Occupation' is half cut) - the data rows themselves are clean and empty. Summary Page Column B reads 153.23 on BOTH the contributions and the expenditures line - identical on both sides, retained verbatim. Cover: Steven F. Shamy Sr., Democratic, Office Sought 'County Council #3'; BOTH the June 20 interim box AND the FINAL REPORT box are checked (the chunk manifest's report_type reflects both); amendment question unanswered; signed 6-20-06, received JUN 20 2006. PRIVACY: the cover's street-address block is on the page and was deliberately not transcribed."
+  }
  }
 }

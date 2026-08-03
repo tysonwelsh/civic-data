@@ -1,6 +1,137 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2009-04-24",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "donor_city": "Sandy",
+   "donor_state": "UT",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.11,9.22,1.69,88.83@p4",
+   "note": "typed attachment row (rotated page; geometry is the converted portrait band); Occupation/Employer cell empty; street address discarded (privacy)"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-05-06",
+   "donor_raw": "Utah Restaurant Association",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.11,9.22,1.69,88.83@p4",
+   "note": "typed attachment row; Occupation/Employer cell empty; street address discarded (privacy)"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-05-29",
+   "donor_raw": "Gaylord Scott",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.11,9.22,1.81,88.83@p4",
+   "note": "typed attachment row; Occupation/Employer printed 'UFA/ Deputy Chief'; the street-address cell is degraded to illegibility on the scan and was discarded either way (privacy)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2009-02-12",
+   "vendor_raw": "Letter23 Communications",
+   "purpose": "Advertisement/ mailings",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.40,25.85,1.96,68.17@p6",
+   "note": "typed attachment row (rotated page; geometry is the converted portrait band); printed '$750.00'; purpose spacing verbatim"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-02-12",
+   "vendor_raw": "Wells Fargo Bank",
+   "purpose": "Copy Fee",
+   "amount": "2.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:16.88,25.85,1.96,68.17@p6",
+   "note": "typed attachment row; printed '$2.00'"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-03-04",
+   "vendor_raw": "Letter23 Communications",
+   "purpose": "Advertisement/ mailings",
+   "amount": "166.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:19.35,25.85,1.96,68.17@p6",
+   "note": "typed attachment row; printed '$166.97'"
+  },
+  {
+   "line_no": 4,
+   "date": "2009-05-08",
+   "vendor_raw": "Letter23 Communications",
+   "purpose": "Advertisement/ mailings",
+   "amount": "431.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:21.59,25.85,1.96,68.17@p6",
+   "note": "typed attachment row; printed '$431.53'"
+  },
+  {
+   "line_no": 5,
+   "date": "2009-05-24",
+   "vendor_raw": "Magna Arts Council",
+   "purpose": "T-Shirts",
+   "amount": "70.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:24.06,25.85,1.92,68.17@p6",
+   "note": "typed attachment row; printed '$70.00'"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-01-25",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Website",
+   "amount": "34.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:26.53,25.85,1.77,68.17@p6",
+   "note": "typed attachment row; printed '$34.99'; date falls in January 2010, after the 2009 year-end period the report is filed for - kept verbatim"
+  }
+ ],
  "total_contributions": "$800.00",
  "total_expenditures": "$1,445.49",
  "beginning_balance": "$1,080.85",
@@ -49,6 +180,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TYPEWRITTEN form (not handwritten) - clean read throughout. Later form variant with two office fields: top-row 'Office' = 'Council, District 2' and 'Office Sought' = 'County Council, District 2'; the separate District Number box is blank because the district is typed into the office text. Neither amendment box is checked. Signed 1/28/10, clerk-stamped JAN 29 2010 - the year-end report covering calendar 2009. Lines 3+4=5 and 5-6=7 reconcile exactly."
+  "notes": "TYPEWRITTEN form (not handwritten) - clean read throughout. Later form variant with two office fields: top-row 'Office' = 'Council, District 2' and 'Office Sought' = 'County Council, District 2'; the separate District Number box is blank because the district is typed into the office text. Neither amendment box is checked. Signed 1/28/10, clerk-stamped JAN 29 2010 - the year-end report covering calendar 2009. Lines 3+4=5 and 5-6=7 reconcile exactly.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "4 (typed attachment; the printed Schedule A on p3 says 'See Attachment')",
+   "itemized_pages_B": "6 (typed attachment; the printed Schedule B on p5 says 'See Attachment')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$800.00",
+     "itemized": "800.00",
+     "result": "exact",
+     "detail": "exact (3 attachment rows sum 800.00 = the attachment's printed 'Total Contribution 800.00' = Schedule A TOTAL $800.00 = Summary line 1)"
+    },
+    "expenditures": {
+     "stated": "$1,445.49",
+     "itemized": "1455.49",
+     "result": "delta",
+     "detail": "delta 10.00 - THE FILER'S OWN TWO FIGURES DISAGREE. The p6 attachment's 6 rows sum to 1455.49 and equal the attachment's own printed 'Total Expenditures $1,455.49' (that gate fires exactly). But the printed Schedule B TOTAL on p5 and Summary Page line 2 Column A both read $1,445.49. Both figures re-read in high-dpi rotated crops and both are unambiguous: 1,455.49 on the attachment, 1,445.49 on the form. Neither was adjusted; stated is retained verbatim."
+    }
+   },
+   "page_subtotal_gates": "The printed schedule pages (p3 Schedule A, p5 Schedule B) carry an EMPTY 'SUBTOTAL FOR THIS PAGE' cell and only a TOTAL ($800.00 / $1,445.49), so there is no page-subtotal gate on them. The attachments carry no such label either but each prints its own column total: p4 'Total Contribution 800.00' (rows sum 800.00, GATE FIRES) and p6 'Total Expenditures $1,455.49' (rows sum 1455.49, GATE FIRES). The p6 gate fires against the attachment but NOT against the form's TOTAL - that is the 10.00 delta above.",
+   "escalations": 3,
+   "escalation_note": "p4 and p6 (rotated attachments) re-rendered at 300 dpi and rotated 90 deg clockwise for reading; p6's total line separately cropped to confirm $1,455.49 against p5's $1,445.49",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGE ORDER IS INTERLEAVED, not form-then-attachments: p1 cover, p2 Summary Page, p3 printed Schedule A ('See Attachment'), p4 the CONTRIBUTIONS attachment, p5 printed Schedule B ('See Attachment'), p6 the EXPENDITURES attachment. Both attachments are stored ROTATED 90 degrees inside the PDF (poppler renders them portrait with the text running up the page); they were rotated clockwise to read, and the geometry percentages below are converted back to the portrait page as poppler renders it, so each row's band is a VERTICAL strip. Cover: YEAR-END January 31 box checked; NEITHER amendment box is ticked; typed form, signed 1/28/10, clerk-stamped JAN 29 2010. The filing is labelled a 2009 year-end but expenditure line 6 is dated 1/25/2010 - kept verbatim. PRIVACY: the p4 attachment prints full street addresses; they were discarded at read time and only city/state are recorded (row 3's street line is illegible/degraded anyway). The p2 Summary Page balance chain closes on its own terms: 1,080.85 + 800.00 = 1,880.85; 1,880.85 - 1,445.49 = 435.36 - i.e. the form is internally consistent around the 1,445.49 figure, and it is the ATTACHMENT that carries 1,455.49. A human may want to look at that 10.00."
+  }
  }
 }

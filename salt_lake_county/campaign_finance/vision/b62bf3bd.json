@@ -1,6 +1,49 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-11-02",
+   "donor_raw": "Joe Hatch",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.26,23.30,83.40,2.05@p3",
+   "note": "amount printed '500' with '00' raised above a rule (superscript-cents convention) -> 500.00; mailing-address cell left empty by the filer; Occupation AND Employer='Attorney'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2007-01-15",
+   "vendor_raw": "Yesco Sign Company",
+   "purpose": "Bill Board Sign Balance",
+   "amount": "3,400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.82,25.18,82.60,2.20@p4",
+   "note": "amount printed '3,400' with '00' raised above a rule -> 3,400.00"
+  },
+  {
+   "line_no": 2,
+   "date": "2007-01-15",
+   "vendor_raw": "Salt Lake County Democrats",
+   "purpose": "Contribution",
+   "amount": "18.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.82,27.39,82.60,2.84@p4",
+   "note": "recipient name written on two lines ('Salt Lake County' / 'Democrats')"
+  }
+ ],
  "total_contributions": "500.00",
  "total_expenditures": "3,418.58",
  "beginning_balance": "2,918.58",
@@ -48,6 +91,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Only the FINAL REPORT box is checked (the clerk listing calls it the '2006 Summary Report'); neither amendment box (Yes/No) is checked. The cover's signature Date line is blank, so report_date is taken from the Summary Page header 'Date of Report 1/15/07'. Lines 1 and 4 Column A are written with the cents as a raised superscript over a rule (500 with superscript 00) - transcribed as 500.00. Line 7 Column A is a hand-drawn slashed zero, recorded as '0'. Line 2 Column B is blank on the form. Line 3 Column A's cents are overwritten/re-inked but read 2,918.58, which matches the ending balance of this filer's Oct 31 2006 report."
+  "notes": "Only the FINAL REPORT box is checked (the clerk listing calls it the '2006 Summary Report'); neither amendment box (Yes/No) is checked. The cover's signature Date line is blank, so report_date is taken from the Summary Page header 'Date of Report 1/15/07'. Lines 1 and 4 Column A are written with the cents as a raised superscript over a rule (500 with superscript 00) - transcribed as 500.00. Line 7 Column A is a hand-drawn slashed zero, recorded as '0'. Line 2 Column B is blank on the form. Line 3 Column A's cents are overwritten/re-inked but read 2,918.58, which matches the ending balance of this filer's Oct 31 2006 report.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "500.00",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (1 row 500.00 = printed SUBTOTAL FOR THIS PAGE '500' = printed TOTAL CONTRIBUTIONS RECEIVED '500' = stated 500.00)"
+    },
+    "expenditures": {
+     "stated": "3,418.58",
+     "itemized": "3418.58",
+     "result": "exact",
+     "detail": "exact (2 rows 3400.00 + 18.58 = 3418.58 = printed SUBTOTAL FOR THIS PAGE 3,418.58 = printed TOTAL EXPENDITURES MADE 3,418.58 = stated 3,418.58)"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A) 1 row 500.00 = printed subtotal 500 GATE PASS; p4 (Schedule B) 2 rows sum 3418.58 = printed subtotal 3,418.58 GATE PASS",
+   "escalations": 3,
+   "escalation_note": "p4 both expenditure rows re-rendered as one 400 dpi band (vendor + purpose + amount); p3 contribution row band at 400 dpi twice (first crop landed below the row)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Nate Hendricks, County Council District 5, FINAL REPORT box checked (consistent with the listing label 'Final Report'); the whole document arrived as a FAX from SIEGFRIED & JENSEN dated FEB-26-2007, so every page carries a fax header line (PDF pages 1-4 = fax pages P.02-P.05). Schedule A's mailing-address cell was left EMPTY by the filer (not redacted), so no donor city/state exists to record. Schedule A's column is headed 'Occupation AND Employer'; the single value 'Attorney' is kept in the row note. Both schedules use the raised-cents-over-a-rule convention on the whole-dollar figures ('500' with a small '00' above, '3,400' with '00' above). Balance chain closes: line 3 2,918.58 + line 4 500.00 = line 5 3,418.58; line 5 - line 6 3,418.58 = line 7 slashed zero."
+  }
  }
 }

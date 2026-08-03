@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Poor-quality fax copy (fax header 'APR-05-06 03:41 PM WENDYKUNZ 8017823792'), heavily blackened at the page edges; re-rendered at 260 dpi and the signature Date is still illegible, so report_date is null (the clerk RECEIVED stamp reads APR 05 2006 and the fax header APR-05-06, but neither is the signature date). Every Summary Page cell (Lines 1-7, both columns) carries a small hand-drawn zero, so all totals are 0."
+  "notes": "Poor-quality fax copy (fax header 'APR-05-06 03:41 PM WENDYKUNZ 8017823792'), heavily blackened at the page edges; re-rendered at 260 dpi and the signature Date is still illegible, so report_date is null (the clerk RECEIVED stamp reads APR 05 2006 and the fax header APR-05-06, but neither is the signature date). Every Summary Page cell (Lines 1-7, both columns) carries a small hand-drawn zero, so all totals are 0.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule A (p3) EXISTS and is BLANK - the filer wrote a '0' in EVERY column of the first row (Date, Name, Address, Occupation, Amount) and '0' in both the SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells. Zero rows is the true value and it matches Summary Page line 1 Column A = 0"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B (p4) EXISTS and is BLANK the same way - '0' in every column of the first row and '0' in SUBTOTAL FOR THIS PAGE. Matches Summary Page line 2 Column A = 0"
+    }
+   },
+   "page_subtotal_gates": "p3: no rows; printed SUBTOTAL and TOTAL are both '0' - consistent. p4: no rows; printed SUBTOTAL is '0'. p4's TOTAL EXPENDITUTRES MADE row is NOT readable - the bottom of that page is overprinted by the leading edge of the next fax page (the clerk's 'SHERRIE SWENSEN' letterhead bleeds in), so that one cell could not be gated. With zero rows there is nothing to reconcile against it.",
+   "escalations": 0,
+   "escalation_note": "none - the page is a badly degraded fax (heavy black banding down both margins from the fax header 'APR-05-06 03:46 PM WENDYKUNZ 8017823792'), but the cells that matter are in the clear centre of the page and the zeros are unambiguous at 200 dpi. There are no rows to escalate on.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Lilli Decair, County Council, April 5 2006 interim; schedule pages hand-dated '4.5.6' and paginated 'Page 2 of 3' / 'Page 3 of 3'). Received as a FAX and heavily degraded: both margins are solid black banding and the left edge of the form is partly eaten (the words 'SUBTOTAL' and 'TOTAL' print as 'BTOTAL' / 'TAL'). Despite that, both schedules are legible where it counts and both are honestly EMPTY - the filer wrote a '0' in every column of the first row of each schedule and '0' in the subtotal/total cells, which is an explicit declaration of nothing to report rather than an unfilled form. Sides are therefore 'transcribed' with zero rows (a real zero), not 'none'. One cell is genuinely unreadable: p4's TOTAL EXPENDITUTRES MADE row is overprinted by the next fax page's letterhead."
+  }
  }
 }

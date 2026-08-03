@@ -1,6 +1,264 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-20",
+   "donor_raw": "Michael J Jensen",
+   "amount": "250.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,22.72,79.90,4.49@p3",
+   "note": "date printed '20 Sept '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Title Agent / Legacy Land Title'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('250.')"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-20",
+   "donor_raw": "Legacy Land Title Co",
+   "amount": "250.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,27.21,79.90,3.40@p3",
+   "note": "date printed '20 Sept '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Title Company'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('250.')"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-20",
+   "donor_raw": "Vanna Hunter",
+   "amount": "100.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,30.61,79.90,3.49@p3",
+   "note": "date printed '20 Sept '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Legislative Analyst / SL. Co. Recorder'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('100.')"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Tom & Junko Shimizu",
+   "amount": "50.",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,34.10,79.90,3.84@p3",
+   "note": "DATE NOT PARSEABLE: the day is '2' followed by a digit written over another digit, reading as either 5 or 8; escalated to a 1000 dpi cell crop and still unresolved, and no arithmetic constrains a date. Month 'Sept' and year '06 are legible; the ISO date is left blank rather than guessed. Verbatim: \"2? Sept '06\"; occupation/employer 'Retired'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('50.')"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-16",
+   "donor_raw": "Home Builders Assn for Greater Salt Lake",
+   "amount": "500.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,37.94,79.90,4.24@p3",
+   "note": "date printed '16 Oct '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Trade Association'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('500.')"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-20",
+   "donor_raw": "Kristine Williams",
+   "amount": "300.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,42.19,79.90,3.89@p3",
+   "note": "date printed '20 Oct '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Housewife'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('300.')"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-24",
+   "donor_raw": "Marvin Hendrickson",
+   "amount": "200.",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,46.08,79.90,3.84@p3",
+   "note": "date printed '24 Oct '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Land Developer / Self-Employed'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; amount written as whole dollars with a trailing period and no cents ('200.')"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-30",
+   "donor_raw": "Jeanne Redding",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,49.93,79.90,3.89@p3",
+   "note": "date printed '30 Oct '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Deputy Recorder / SLCo Recorder'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-10-25",
+   "donor_raw": "Salt Lake County Republican Party",
+   "amount": "2625",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.24,53.82,79.90,3.69@p3",
+   "note": "date printed '25 Oct '06' (day + abbreviated month + apostrophe-year); occupation/employer 'Political Party'; Complete Mailing Address column is entirely EMPTY on this page - the filer wrote no addresses at all (not a county redaction); no city or state exists to record; '(in-Kind donation)' is hand-written in the right margin beside this row's amount; the matching 2,625.00 appears on Schedule B under the heading 'Expenditures from in-kind donations'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-08-19",
+   "vendor_raw": "Home Depot",
+   "purpose": "campaign supplies",
+   "amount": "103.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,25.96,75.30,3.84@p4",
+   "note": "date printed '19 Aug '06'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-08-20",
+   "vendor_raw": "Home Depot",
+   "purpose": "campaign supplies",
+   "amount": "50.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,29.81,75.30,3.64@p4",
+   "note": "date printed '20 Aug '06'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-04",
+   "vendor_raw": "Home Depot",
+   "purpose": "campaign supplies",
+   "amount": "97.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,33.45,75.30,3.59@p4",
+   "note": "date printed '4 Sept '06'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-09-15",
+   "vendor_raw": "Home Depot",
+   "purpose": "campaign supplies",
+   "amount": "56.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,37.05,75.30,3.89@p4",
+   "note": "date printed '15 Sept '06'"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-22",
+   "vendor_raw": "Valley Journals",
+   "purpose": "newspaper advertising",
+   "amount": "1560.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,40.94,75.30,3.99@p4",
+   "note": "date printed '22 Sept '06'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-29",
+   "vendor_raw": "Home Depot",
+   "purpose": "campaign supplies",
+   "amount": "63.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,44.93,75.30,3.74@p4",
+   "note": "date printed '29 Sept '06'; cents glyph is ambiguous between 80 and 90; the labelled '(subtotal 2,242.99' below the block leaves exactly 63.80, and the document's own arithmetic outranks the glyph read"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-19",
+   "vendor_raw": "Paramount Press",
+   "purpose": "election brochures",
+   "amount": "311.86",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,48.68,75.30,3.84@p4",
+   "note": "date printed '19 Oct '06'"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-08-23",
+   "vendor_raw": "Imaginos Quick Sign",
+   "purpose": "Brochures",
+   "amount": "2,139.04",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,61.41,75.30,3.99@p4",
+   "note": "date printed '23 Aug 06'; this row sits under the hand-written heading 'Expenditures from in-kind donations:' (its own full-width row, not transcribed as a line), so it is flagged in_kind"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-08-23",
+   "vendor_raw": "Imaginos Quick Sign",
+   "purpose": "Flyers",
+   "amount": "1,344.23",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,65.40,75.30,3.74@p4",
+   "note": "date printed '23 Aug 06'; this row sits under the hand-written heading 'Expenditures from in-kind donations:' (its own full-width row, not transcribed as a line), so it is flagged in_kind"
+  },
+  {
+   "line_no": 10,
+   "date": "2006-10-17",
+   "vendor_raw": "Newspaper Agency",
+   "purpose": "Election Guide Write-up",
+   "amount": "2,625.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,69.15,75.30,3.84@p4",
+   "note": "date printed '17. Oct 06'; this row sits under the hand-written heading 'Expenditures from in-kind donations:' (its own full-width row, not transcribed as a line), so it is flagged in_kind; a stray period follows the day ('17.')"
+  }
+ ],
  "total_contributions": "4,775.00",
  "total_expenditures": "8,351.26",
  "beginning_balance": "9,828.96",
@@ -49,6 +307,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten, legible; arithmetic closes. Neither the amendment Yes nor No box is checked. Received stamp is hand-written 'Received Salt Lake County Clerk OCT 31 2006'."
+  "notes": "Handwritten, legible; arithmetic closes. Neither the amendment Yes nor No box is checked. Received stamp is hand-written 'Received Salt Lake County Clerk OCT 31 2006'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,775.00",
+     "itemized": "4775.00",
+     "result": "exact",
+     "detail": "exact (9 rows sum to 4775.00 = printed TOTAL CONTRIBUTIONS RECEIVED '4775.' = Summary line 1 Col A 4,775.00 = Summary line 4)"
+    },
+    "expenditures": {
+     "stated": "8,351.26",
+     "itemized": "8351.26",
+     "result": "exact",
+     "detail": "exact (10 rows sum to 8351.26 = printed TOTAL EXPENDITUTRES MADE 8,351.26 = Summary line 2 Col A 8,351.26)"
+    }
+   },
+   "page_subtotal_gates": "the pre-printed 'SUBTOTAL FOR THIS PAGE' cell is BLANK on BOTH schedule pages, so the form's own per-page gate does not exist here. p3 gates on its TOTAL: 9 rows = 4775.00 = printed '4775.' (FIRED, exact). p4 carries TWO hand-written LABELLED subtotals inside the table instead, and both fire exact: the seven cash rows = 2242.99 = '(subtotal 2,242.99', and the three in-kind rows = 6108.27 = '(subtotal 6,108.27'; 2242.99 + 6108.27 = 8351.26 = the printed TOTAL. Because those two are explicitly LABELLED 'subtotal' they are gates, not unlabelled figures, and they are not transcribed as expenditure lines. The Summary balance chain closes too: 9,828.96 + 4,775.00 = 14,603.96 (printed line 5); 14,603.96 - 8,351.26 = 6,252.70 (printed line 7).",
+   "escalations": 1,
+   "escalation_note": "p3 row 4 date cell at 1000 dpi (x=420,y=3700,W=1000,H=500) - the day digit is an overwrite and did NOT resolve; the date is left blank with needs_review rather than guessed",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Interim Report: October 31 (box checked, period ending October 30 2006), matching the clerk listing label. Cover is a clerk COPY stamped 'Received Salt Lake County Clerk OCT 31 2006'. THE COMPLETE MAILING ADDRESS COLUMN IS ENTIRELY EMPTY on Schedule A - the filer wrote no addresses at all. That is a filer omission, NOT a county redaction (this filing carries no redaction blocks), and it is why every donor_city/donor_state is blank. Contribution amounts are written as whole dollars with a trailing period and no cents ('250.', '4775.') on most rows - transcribed verbatim, and unambiguous because the schedule total closes to the cent against the Summary Page. THE IN-KIND STRUCTURE IS EXPLICIT AND UNUSUAL: Schedule A's last row (Salt Lake County Republican Party, 2625) is annotated '(in-Kind donation)' in the right margin, and Schedule B is split by a hand-written heading 'Expenditures from in-kind donations:' into a cash block of seven rows and an in-kind block of three rows. Note the filer's own asymmetry, retained and not reconciled: the in-kind EXPENDITURE block totals 6,108.27 while only 2,625.00 of in-kind CONTRIBUTION is itemized on Schedule A - the two Imaginos Quick Sign items (2,139.04 and 1,344.23) have no matching itemized in-kind contribution on this report. Both hand-written '(subtotal' lines and the in-kind heading occupy their own table rows and are treated as structure, not as itemized lines. One Schedule A date is an unresolved overwrite (see escalation)."
+  }
  }
 }

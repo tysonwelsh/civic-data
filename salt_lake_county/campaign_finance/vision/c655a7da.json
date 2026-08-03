@@ -1,6 +1,119 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-05-17",
+   "donor_raw": "Ken + Anne Bowar",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,18.34,85.90,4.14@p3",
+   "note": "date printed '5/17/12' -> ISO, confirmed at source resolution. AMOUNT '$3,000' with a raised superscript '00' -> 3000.00; confirmed by the printed page subtotal and schedule total, both $3,000. DONOR NAME IS A LOW-CONFIDENCE GLYPH READ AND IS FLAGGED: the cell is a fast cursive signature-like hand on a 1-BIT 200-ppi scan, and the surname's third letter is ambiguous between 'n' and 'w' while its final letter is cut at the cell border. 'Ken + Anne Bowar' is the legible-glyph string, NOT a real name substituted in to make it plausible; treat the surname as unresolved. ESCALATION IS EXHAUSTED HERE - pdfimages reports the embedded page image is 1698x2197 at 200 ppi 1-bit, so 200 dpi IS the source resolution and re-rendering at 1200 dpi only upsamples; no further detail exists in the file. ADDRESS IS BLACK-BOX REDACTED at the county (a solid black bar over the whole Complete Mailing Address cell), so donor_city and donor_state are blank: redacted, not filer-omitted. Occupation/Employer cell is a cursive string read as approximately 'Manager/Snowbird' at low confidence; it is not a contract field and is recorded here only as observation."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-06",
+   "vendor_raw": "Office Depot",
+   "purpose": "Supplies",
+   "amount": "14.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,19.71,80.70,4.14@p4",
+   "note": "date printed '4/6/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-09",
+   "vendor_raw": "Smiths Fuel",
+   "purpose": "Fuel",
+   "amount": "21.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,23.85,80.70,4.14@p4",
+   "note": "date printed '4/9/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-10",
+   "vendor_raw": "Office Depot",
+   "purpose": "Supplies",
+   "amount": "15.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,27.99,80.70,4.10@p4",
+   "note": "date printed '4/10/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-16",
+   "vendor_raw": "Salt City Burgers",
+   "purpose": "Campaign Lunch",
+   "amount": "24.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,32.09,80.70,4.14@p4",
+   "note": "date printed '4/16/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-14",
+   "vendor_raw": "7-11",
+   "purpose": "Fuel",
+   "amount": "41.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,36.23,80.70,4.14@p4",
+   "note": "date printed '5/14/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 6,
+   "date": "2012-05-24",
+   "vendor_raw": "Papyrus",
+   "purpose": "Notebook",
+   "amount": "16.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,40.37,80.70,4.14@p4",
+   "note": "date printed '5/24/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  },
+  {
+   "line_no": 7,
+   "date": "2012-06-15",
+   "vendor_raw": "Smiths Fuel",
+   "purpose": "Fuel",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.10,44.52,80.70,4.10@p4",
+   "note": "date printed '6/15/12' (M/D/YY, year present) -> ISO. Cents written as a small raised group over a rule on most rows -> decimal point inserted. Amount independently pinned by the page-subtotal gate, which closes to the cent."
+  }
+ ],
  "total_contributions": "$3,000.00",
  "total_expenditures": "$189.75",
  "beginning_balance": "$4,999.08",
@@ -49,6 +162,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the source filename says 'June_Interim_Amend', but the form's amendment question is checked NO - this is not an amendment. The June 19 interim box is checked, matching the clerk listing's 'June'. Cover signature date is 6-18-12 while the summary page's Date of Report box says 6/19/12. Cents are raised superscripts over a rule. Line 2 Column B's superscript is faint (read as 97) but the form's own chain confirms it: 859.22 (April amendment) + 189.75 = 1,048.97. Column A consistent (4,999.08 + 3,000.00 = 7,999.08; less 189.75 = 7,809.33)."
+  "notes": "LABEL DISAGREEMENT: the source filename says 'June_Interim_Amend', but the form's amendment question is checked NO - this is not an amendment. The June 19 interim box is checked, matching the clerk listing's 'June'. Cover signature date is 6-18-12 while the summary page's Date of Report box says 6/19/12. Cents are raised superscripts over a rule. Line 2 Column B's superscript is faint (read as 97) but the form's own chain confirms it: 859.22 (April amendment) + 189.75 = 1,048.97. Column A consistent (4,999.08 + 3,000.00 = 7,999.08; less 189.75 = 7,809.33).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3,000.00",
+     "itemized": "3000.00",
+     "result": "exact",
+     "detail": "exact (1 row 3,000.00 = printed SUBTOTAL FOR THIS PAGE $3,000. = printed TOTAL CONTRIBUTIONS RECEIVED $3,000. = stated $3,000.00). The single row's AMOUNT is therefore certain even though its donor NAME is not."
+    },
+    "expenditures": {
+     "stated": "$189.75",
+     "itemized": "189.75",
+     "result": "exact",
+     "detail": "exact (7 rows sum 189.75 = printed SUBTOTAL FOR THIS PAGE $189.75 = printed TOTAL EXPENDITURES MADE $189.75 = stated $189.75)"
+    }
+   },
+   "page_subtotal_gates": "p3: 1 row 3,000.00 = printed SUBTOTAL $3,000. - PASSES. p4: 7 rows sum 189.75 = printed SUBTOTAL $189.75 - PASSES to the cent (this is what fixes p4 row 5 at 41.00, whose leading digits are cramped: the other six rows leave exactly 41.00 of the 189.75). p6 (Itemized Contributions from Other Campaign Accounts) and p7 (Itemized Expenditures from Other Campaign Accounts): both grids entirely EMPTY with a slashed-zero glyph in the TOTAL cell - trivially 0.00, nothing to gate and nothing to transcribe.",
+   "escalations": 3,
+   "escalation_note": "p3 date+name cell at 1200dpi (pct:7,17,32,4.5 then a tighter pct:16,17.5,26,4) and p3 occupation+amount at 1000dpi (pct:59,17,38,4.5). The name did NOT resolve, and pdfimages then established WHY: the embedded page image is 1-bit at 200 ppi, so 200 dpi is the source ceiling and higher -r values only upsample. That is recorded rather than worked around - the surname stays low-confidence with needs_review. No escalation was needed on p4: every amount there is pinned by a subtotal that closes to the cent.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "7-page filing. p1 cover, p2 Summary Page (already transcribed), p3 'Itemized Contributions Received' (this vintage of the form drops the words 'Schedule A' from the title but it is the same table), p4 'Itemized Expenditures Made', p5 'Summary Page - Other Campaign Accounts', p6 'Itemized Contributions from Other Campaign Accounts', p7 'Itemized Expenditures from Other Campaign Accounts'. THE THREE 'OTHER CAMPAIGN ACCOUNTS' PAGES ARE ENTIRELY BLANK, each carrying only a hand-drawn SLASHED-ZERO glyph in its total cells - the candidate is declaring no non-County campaign account. Per the repo ZERO-GLYPH RULING those glyphs denote 0; no rows exist on those pages to transcribe, and they are not part of the Schedule A/B sides. LABEL DISAGREEMENT (already noted at the totals tranche and confirmed here): the source filename says 'June_Interim_Amend' but the form's amendment question is checked NO. The single contribution is $3,000 from a couple whose surname could not be resolved even at source resolution - see the row note; the amount is certain, the payer is not. Its address is a solid BLACK-BOX county redaction, unlike the white-block redactions seen elsewhere in this chunk. Expenditures are seven small campaign errands (office supplies, fuel, a campaign lunch, a notebook) totalling $189.75."
+  }
  }
 }

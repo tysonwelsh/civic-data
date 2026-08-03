@@ -48,6 +48,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "TWO Type-of-Report boxes checked: 'June 20' AND 'Final Report'. Summary Page header box is entirely blank (no page/name/date). Line 5 (Subtotal) left BLANK by the filer. Line 6 shows '154.00' heavily struck through with a slashed zero written above it - the value that stands is 0 (Line 6 is not a captured field; noted for context). Zeros are written as slashed ovals with a long tail. Line 1 Column B leading glyph is a cursive 2 - read as 200.00 (medium)."
+  "notes": "TWO Type-of-Report boxes checked: 'June 20' AND 'Final Report'. Summary Page header box is entirely blank (no page/name/date). Line 5 (Subtotal) left BLANK by the filer. Line 6 shows '154.00' heavily struck through with a slashed zero written above it - the value that stands is 0 (Line 6 is not a captured field; noted for context). Zeros are written as slashed ovals with a long tail. Line 1 Column B leading glyph is a cursive 2 - read as 200.00 (medium).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4 (blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact: Schedule A (p3) is printed and entirely UNFILLED; the SUBTOTAL cell is left blank and the TOTAL cell holds a hand-drawn slashed oval with a long tail - a written zero (600 dpi crop). ZERO-GLYPH RULING: that glyph is 0, matching the Summary Page's stated 0"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact: Schedule B (p4) likewise unfilled, SUBTOTAL blank, TOTAL a slashed-zero glyph (600 dpi crop)"
+    }
+   },
+   "page_subtotal_gates": "neither page prints a filled SUBTOTAL (both blank); the TOTAL cells carry slashed zeros. No rows to gate - a real zero on both sides",
+   "escalations": 2,
+   "escalation_note": "600 dpi cell crops of the p3 and p4 TOTAL cells to distinguish a written zero from a bare dash (they are slashed ovals = zero, not dashes)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2006-vintage form (06FinancialDisclosureform.doc), 4 pages: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B - BOTH SCHEDULES ARE EMPTY BY THE FILER, which is a real zero, not a gap. Both schedule pages are hand-numbered 'page 1 of 1' and dated 6/12/06 while the cover checks BOTH the 'June 20' and 'Final Report' boxes (per the already-transcribed cover). Nothing itemized exists in this document to transcribe."
+  }
  }
 }

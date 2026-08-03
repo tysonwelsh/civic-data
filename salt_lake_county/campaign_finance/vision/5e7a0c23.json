@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-13",
+   "donor_raw": "Steve F. Shamy Sr. loan",
+   "amount": "$ 153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.56,23.50,87.90,4.30@p3",
+   "note": "candidate self-loan - the contributor cell holds 'Steve F. Shamy Sr.' on line 1 and 'loan' on line 2; mailing-address cell left empty by the filer; Occupation/Employer='Bus Driver / Utah Trailways' (two lines)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-13",
+   "vendor_raw": "salt Lake County clerk",
+   "purpose": "Candidate registration",
+   "amount": "$ 153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.52,24.80,86.30,4.03@p4",
+   "note": "recipient written in lower case as 'salt Lake County clerk' - kept verbatim"
+  }
+ ],
  "total_contributions": "$ 153.23",
  "total_expenditures": "$ 153.23",
  "beginning_balance": "$ 153.23",
@@ -47,6 +76,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. 'COUNTY COUNCIL # 3' is written across both the Office Sought and District Number boxes, so the district is captured inside office_sought and district_number is left blank. Column B (Sum Total to Date) is BLANK on both Lines 1 and 2, and LINE 5 (Subtotal) IS ALSO BLANK - recorded as \"\", not 0. Line 6 is written '153.23' without a clear decimal point. Line 7 is a slashed zero, recorded as '0'."
+  "notes": "Handwritten. 'COUNTY COUNCIL # 3' is written across both the Office Sought and District Number boxes, so the district is captured inside office_sought and district_number is left blank. Column B (Sum Total to Date) is BLANK on both Lines 1 and 2, and LINE 5 (Subtotal) IS ALSO BLANK - recorded as \"\", not 0. Line 6 is written '153.23' without a clear decimal point. Line 7 is a slashed zero, recorded as '0'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$ 153.23",
+     "itemized": "153.23",
+     "result": "exact",
+     "detail": "exact (1 row 153.23 = printed TOTAL CONTRIBUTIONS RECEIVED $153.23 = stated $153.23)"
+    },
+    "expenditures": {
+     "stated": "$ 153.23",
+     "itemized": "153.23",
+     "result": "exact",
+     "detail": "exact (1 row 153.23 = printed TOTAL EXPENDITURES MADE $153.23 = stated $153.23)"
+    }
+   },
+   "page_subtotal_gates": "Both schedules leave 'SUBTOTAL FOR THIS PAGE' BLANK - the filer filled only the TOTAL line - so no page-subtotal gate exists on this filing; the gates used are the printed schedule TOTALS, and each single row equals its schedule total exactly.",
+   "escalations": 3,
+   "escalation_note": "p3 contribution row band at 500 dpi (twice - the first crop landed a row low); p4 expenditure row band at 500 dpi",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Steven F. Shamy Sr., County Council District 3, April 5 2006 interim (form checks April 5, period ending March 31 2006). The single contribution is a candidate self-LOAN (the contributor cell reads 'Steve F. Shamy Sr.' with 'loan' written on the line below) and the single expenditure is the matching candidate filing fee to the county clerk - the two are the same 153.23. The Complete Mailing Address cell was left EMPTY by the filer on Schedule A (not redacted), so no donor city/state exists to record. FILER ARITHMETIC ODDITY, retained verbatim: Summary line 3 (Balance at Beginning of Reporting Period) is 153.23 rather than zero, line 5 (Subtotal) is left BLANK, and line 7 is a slashed zero - so the line 3 + line 4 = line 5 identity cannot be run on this form. Nothing was recomputed."
+  }
  }
 }

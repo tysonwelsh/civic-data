@@ -1,6 +1,150 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-01-30",
+   "donor_raw": "Eric Gilzean",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,22.84,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-11",
+   "donor_raw": "Rick Votaw",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,26.56,71.00,3.68@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-13",
+   "donor_raw": "Rick Votaw",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,30.24,71.00,3.77@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record; Occupation/Employer cell prints 'Retired'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-13",
+   "donor_raw": "Carrie Dickson",
+   "amount": "733.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,34.01,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record; Occupation/Employer cell prints 'Retired'; the candidate's own contribution; note its amount 733.80 is identical to the filing's total expenditures, a coincidence retained verbatim"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-24",
+   "donor_raw": "Patti Florence",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,37.74,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-25",
+   "donor_raw": "Cindy Stayner",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,41.46,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record; Occupation/Employer cell prints 'SLCo Health'"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-03-27",
+   "donor_raw": "Katie Dixon",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,45.19,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-03-30",
+   "donor_raw": "Dana Dickson",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:8.00,48.91,71.00,3.73@p3",
+   "note": "mailing-address cell left EMPTY by the filer on this row (three rows carry only a yellow highlighter smear over the empty address cell, no text); no city/state exists to record; Occupation/Employer cell prints 'L-3 Comm.'"
+  },
+  {
+   "line_no": 9,
+   "donor_raw": "Contributions of $50 and under",
+   "amount": "290.60",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=absent;donor=aggregate-label;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,56.36,71.00,3.73@p3",
+   "note": "AGGREGATE line, not a named donor: handwritten across the Name/Address/Occupation cells as 'Contributions of $50 and under', no date. Amount re-read in a 600 dpi cell crop and is unambiguously 290.60 (the .60 is what makes the page overshoot the printed total by exactly $0.60). One grid row above it is left blank."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-13",
+   "vendor_raw": "S. L. County",
+   "purpose": "Filing Fee",
+   "amount": "580.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,25.23,71.00,3.68@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-15",
+   "vendor_raw": "U.S. Post Office",
+   "purpose": "Stamps",
+   "amount": "153.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,28.91,71.00,3.73@p4"
+  }
+ ],
  "total_contributions": "3,283.80",
  "total_expenditures": "733.80",
  "beginning_balance": "0",
@@ -49,6 +193,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Line 3 Column A is a slashed zero. Neither amendment box is checked. Signature date 3/31/06 (the period-ending date) rather than the April 5 due date. Form arithmetic checks out (3,283.80 - 733.80 = 2,550.00). Stamped RECEIVED APR 05 2006."
+  "notes": "Line 3 Column A is a slashed zero. Neither amendment box is checked. Signature date 3/31/06 (the period-ending date) rather than the April 5 due date. Form arithmetic checks out (3,283.80 - 733.80 = 2,550.00). Stamped RECEIVED APR 05 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,283.80",
+     "itemized": "3284.40",
+     "result": "delta",
+     "detail": "delta +0.60 (9 rows sum to 3284.40 vs the form's own printed TOTAL CONTRIBUTIONS RECEIVED 3,283.80, which is also Summary Page line 1). The eight named rows sum to 2,993.80; the handwritten aggregate line 'Contributions of $50 and under' reads 290.60 - re-read at 600 dpi and unambiguous - and 2,993.80 + 290.60 = 3,284.40. The 60-cent gap is the FILER's arithmetic; neither figure was adjusted."
+    },
+    "expenditures": {
+     "stated": "733.80",
+     "itemized": "733.80",
+     "result": "exact",
+     "detail": "exact (733.80 = 733.80). 580.20 + 153.60 = the form's own printed TOTAL EXPENDITUTRES MADE 733.80."
+    }
+   },
+   "page_subtotal_gates": "NO page-subtotal gate is available on either schedule: the filer left the 'SUBTOTAL FOR THIS PAGE' cell EMPTY on both p3 and p4 and wrote only the grand TOTAL row. Those TOTAL rows were used instead - Schedule B gates exactly (733.80), Schedule A does not (rows 3,284.40 vs printed 3,283.80).",
+   "escalations": 3,
+   "escalation_note": "600 dpi cell crops on p3 of the aggregate amount (confirmed 290.60, so the 0.60 delta is the filer's), of Dana Dickson's 1,000.00, and of Eric Gilzean's 100.00.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten 2006 form, one Schedule A page and one Schedule B page, both single-page. The 'Complete Mailing Address' column is EMPTY on every row - the filer never filled it (three rows carry a yellow highlighter smear over the empty cell, which is a reviewer mark, not text and not a county redaction), so donor_city/donor_state are blank for a different reason than in the redacted 2012 filings. Occupation/Employer is filled on 4 rows and is preserved in those rows' notes. Dates print as M/D/06 with a two-digit year that IS printed on the page. The Schedule A grid has one blank row between the last named donor and the aggregate line."
+  }
  }
 }

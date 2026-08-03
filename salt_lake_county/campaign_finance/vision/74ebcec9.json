@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2011-12-01",
+   "vendor_raw": "Mark Crockett",
+   "purpose": "Loan Repayment",
+   "amount": "3520.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,24.50,78.00,2.60@p4",
+   "note": "repayment to the candidate himself. Amount printed '3520' with a raised superscript '87' over a rule -> 3520.87"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "3520.87",
  "beginning_balance": "3520.87",
@@ -49,6 +64,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; the amendment 'No' box is checked. Line 1 Column A, Line 4 and Line 7 are written as a hand-drawn slashed zero - recorded as '0'. All money cells use the raised-superscript cents convention ('3520' with a small '87' over a rule; '76,768' with a small '50'), transcribed with a decimal point; the thousands group in 3520.87 has no comma as written. Column A arithmetic checks out (3,520.87 - 3,520.87 = 0, consistent with a dissolution requiring a zero closing balance). Received by fax (header '(TUE) JAN 31 2012 17:21'), clerk-stamped JAN 31 2012. Summary Page header: Page 2 of 4, Crockett, 1-31-12."
+  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; the amendment 'No' box is checked. Line 1 Column A, Line 4 and Line 7 are written as a hand-drawn slashed zero - recorded as '0'. All money cells use the raised-superscript cents convention ('3520' with a small '87' over a rule; '76,768' with a small '50'), transcribed with a decimal point; the thousands group in 3520.87 has no comma as written. Column A arithmetic checks out (3,520.87 - 3,520.87 = 0, consistent with a dissolution requiring a zero closing balance). Received by fax (header '(TUE) JAN 31 2012 17:21'), clerk-stamped JAN 31 2012. Summary Page header: Page 2 of 4, Crockett, 1-31-12.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact (0 = 0): the Schedule A page exists and is BLANK - struck through corner-to-corner with a single diagonal pen line, and both its SUBTOTAL and TOTAL cells hold a hand-drawn slashed zero. A real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "3520.87",
+     "itemized": "3520.87",
+     "result": "exact",
+     "detail": "exact (3,520.87 = 3,520.87); the single row equals the printed subtotal and total"
+    }
+   },
+   "page_subtotal_gates": "p3 zero rows = printed subtotal (slashed zero) (PASS); p4 single row 3,520.87 = printed subtotal 3520 with superscript 87 (PASS)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A FAXED filing (fax header 'JAN 31 2012 17:22 ... No.7500000324' across the top of both pages). Schedule A is a genuine BLANK SCHEDULE: the grid is printed, no lines are filled, a diagonal pen stroke crosses the whole table, and the subtotal/total cells carry hand-drawn slashed zeros - transcribed as zero rows with the totals read as 0 under the zero-glyph ruling. Schedule B carries a single line: the candidate repaying his own campaign loan. Amounts use the raised-superscript cents convention ('3520' with a small '87' over a rule) - transcribed with a decimal point. Field-shift screen: p4 1 date / 1 recipient / 1 purpose / 1 amount - PASS."
+  }
  }
 }

@@ -1,6 +1,63 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-11-03",
+   "vendor_raw": "Holiday Oil",
+   "purpose": "Gas for sign truck",
+   "amount": "$75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.88,87.16,45.70,1.48@p1",
+   "note": "born-digital printed row"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-09",
+   "vendor_raw": "Hardy's Tesoro",
+   "purpose": "Gas for sign truck",
+   "amount": "$75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.88,88.64,45.70,1.59@p1",
+   "note": "a handwritten scribble is drawn over the printed word 'for' in the purpose cell; the printed purpose is retained verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-09",
+   "vendor_raw": "Jeff Richardson",
+   "purpose": "Sign collection",
+   "amount": "$250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.88,90.23,45.70,1.70@p1",
+   "note": "born-digital printed row"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-11-29",
+   "vendor_raw": "WHITMORE 66",
+   "purpose": "Gas for sign truck",
+   "amount": "$121.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,6.25,46.00,1.48@p2",
+   "note": "the Schedule B table continues onto p2; this row and the printed 'Total Expenditures $521.00' are the only content on that page"
+  }
+ ],
  "total_contributions": "$0.00",
  "total_expenditures": "$521.00",
  "beginning_balance": "$3,393.71",
@@ -49,6 +106,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "DIFFERENT FORM VARIANT: a web-printed 'Salt Lake County Clerk / Election Division / Financial Disclosure Report' (browser print from secure.slco.org, printed 1/27/2007), header 'Richardson, Larry W - Year-End Report December 31, 2006, Page 1 of 2'. Org Type: Personal Campaign Committee. It has NO Type-of-Report checkbox block, NO amendment field, NO District Number field and NO signature date - hence those are null; report_type is taken from the printed 'Report:' line. Column B header reads 'YTD'. HAND CORRECTION: the printed Column B cells on lines 1 and 2 both read '$0.00' and are STRUCK THROUGH by hand, with '$17,951.97' and '$15,079.26' written in beside them, each initialled and dated 1/29/07 - the handwritten values are the ones that stand and are transcribed here. All Column A values are machine-printed. Clerk stamp RECEIVED JAN 30 2007. Page 2 shows the tail of Schedule B ('Total Expenditures $521.00')."
+  "notes": "DIFFERENT FORM VARIANT: a web-printed 'Salt Lake County Clerk / Election Division / Financial Disclosure Report' (browser print from secure.slco.org, printed 1/27/2007), header 'Richardson, Larry W - Year-End Report December 31, 2006, Page 1 of 2'. Org Type: Personal Campaign Committee. It has NO Type-of-Report checkbox block, NO amendment field, NO District Number field and NO signature date - hence those are null; report_type is taken from the printed 'Report:' line. Column B header reads 'YTD'. HAND CORRECTION: the printed Column B cells on lines 1 and 2 both read '$0.00' and are STRUCK THROUGH by hand, with '$17,951.97' and '$15,079.26' written in beside them, each initialled and dated 1/29/07 - the handwritten values are the ones that stand and are transcribed here. All Column A values are machine-printed. Clerk stamp RECEIVED JAN 30 2007. Page 2 shows the tail of Schedule B ('Total Expenditures $521.00').",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "1-2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - this web-printed variant prints the sentence 'No Schedule A contributions reported for this period.' in place of a Schedule A table, and Summary line 1 Column A is $0.00. Zero rows, real zero"
+    },
+    "expenditures": {
+     "stated": "$521.00",
+     "itemized": "521.00",
+     "result": "exact",
+     "detail": "exact (4 rows sum 521.00 = the table's own printed 'Total Expenditures $521.00' on p2 = stated $521.00 = Summary lines 2 and 6)"
+    }
+   },
+   "page_subtotal_gates": "This variant prints no per-page SUBTOTAL; the gate used is the table's own printed 'Total Expenditures $521.00' at the foot of the continued table on p2. p1 rows 75.00+75.00+250.00 = 400.00, p2 row 121.00, together 521.00 = printed total GATE PASS.",
+   "escalations": 2,
+   "escalation_note": "p1 Schedule B table band at 400 dpi and p2 continuation row + total at 400 dpi (born-digital print, so 400 dpi was already unambiguous)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "NOT the handwritten county form: this is the web-printed slco.org 'secure.slco.org/financialDisclosure/candidate/summary_printer_filed.cfm' variant (2 pages) plus, as p3, a January 29 2007 signed ADDENDUM LETTER from Larry W. Richardson. The letter explains that the online application lost the carry-forward Year-To-Date data and asks that Line 1 Column B read $17,951.97 and Line 2 Column B read $15,079.26; the corresponding printed $0.00 Column-B cells on p1 are struck through by hand and those figures written in, initialled 1/29/07. That correction affects Column B only and does not touch the itemized side. The Schedule B table has an 'In-Kind?' column, blank on all four rows. Row 2's printed purpose 'Gas for sign truck' has a handwritten scribble over the word 'for' - the printed text is retained. The listing/filename says 'amendment' but the form's report line reads 'Year-End Report December 31, 2006'."
+  }
  }
 }

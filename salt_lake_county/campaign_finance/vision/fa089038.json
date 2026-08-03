@@ -1,6 +1,113 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-03-19",
+   "donor_raw": "my self",
+   "amount": "257.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.86,25.40,83.90,3.60@p2",
+   "note": "filer wrote the donor as 'my self' (self-funding); occupation/employer col 'H&R Block / tax professional'; mailing-address column left EMPTY by the filer (not redacted)"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-09",
+   "donor_raw": "my self",
+   "amount": "9.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.86,29.15,83.90,3.60@p2",
+   "note": "occupation col is a ditto mark (\") resolving to 'H&R Block / tax professional'; address col left EMPTY by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-21",
+   "donor_raw": "my self",
+   "amount": "8.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.86,32.90,83.90,3.60@p2",
+   "note": "occupation col is a ditto mark (\"); address col left EMPTY by the filer"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Individual Contributions",
+   "amount": "20.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.86,36.75,83.90,4.25@p2",
+   "note": "IN-KIND aggregate line: amount printed '20.00 worth'; the Complete Mailing Address cell contains the words 'In kind fliers' rather than an address, so no city/state exists; date cell left blank by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-03-19",
+   "vendor_raw": "Salt Lake County",
+   "purpose": "filing fee",
+   "amount": "257.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,28.15,77.20,3.85@p3",
+   "note": "recipient cell first read 'mydomain.com' STRUCK THROUGH with 'Salt Lake County' written under it; the surviving (unstruck) name is transcribed"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-09",
+   "vendor_raw": "my domain.com",
+   "purpose": "website URL",
+   "amount": "9.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,32.15,77.20,3.85@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-21",
+   "vendor_raw": "my domain.com",
+   "purpose": "second URL aimed at same website",
+   "amount": "8.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,35.90,77.20,4.10@p3"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-09-22",
+   "vendor_raw": "offset",
+   "purpose": "in kind contributions",
+   "amount": "20.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,40.25,77.20,3.85@p3",
+   "note": "recipient literally reads 'offset'; this is the offsetting entry for the Schedule A in-kind flier line"
+  }
+ ],
  "total_contributions": "295.98",
  "total_expenditures": "295.98",
  "beginning_balance": "0",
@@ -52,6 +159,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Filed LATE and retroactively: the candidate hand-wrote across the top of page 1 'Applies to 2010 County Council At Large B race', but signed and filed it 5-2-12 (clerk stamp MAY 04 2012). The 'Seven days before a general election' interim box is checked; neither amendment box is checked. Page order: page 2 Schedule A, page 3 Schedule B, and the Summary Page is PDF page 4. All 295.98 figures are written with the cents as a raised superscript over a rule (295 with a small 98 above), transcribed with a decimal point; Lines 3 and 7 are hand-drawn zeros. Face arithmetic is consistent."
+  "notes": "Filed LATE and retroactively: the candidate hand-wrote across the top of page 1 'Applies to 2010 County Council At Large B race', but signed and filed it 5-2-12 (clerk stamp MAY 04 2012). The 'Seven days before a general election' interim box is checked; neither amendment box is checked. Page order: page 2 Schedule A, page 3 Schedule B, and the Summary Page is PDF page 4. All 295.98 figures are written with the cents as a raised superscript over a rule (295 with a small 98 above), transcribed with a decimal point; Lines 3 and 7 are hand-drawn zeros. Face arithmetic is consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "295.98",
+     "itemized": "295.98",
+     "result": "exact",
+     "detail": "exact (295.98 = 295.98)"
+    },
+    "expenditures": {
+     "stated": "295.98",
+     "itemized": "295.98",
+     "result": "exact",
+     "detail": "exact (295.98 = 295.98)"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) rows 295.98 = printed SUBTOTAL 295.98 = printed TOTAL 295.98; p3 (Schedule B) rows 295.98 = printed SUBTOTAL 295.98 = printed TOTAL 295.98. Schedule A row 1 first read as '757.04'; the subtotal gate forces 257.04, which is corroborated by the matching 257.04 filing-fee expenditure on Schedule B.",
+   "escalations": 0,
+   "escalation_note": "row-1 amount resolved by the page-subtotal identity + the cross-schedule match, not by a crop",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES ARE OUT OF ORDER: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page (the Summary is LAST, not p2). Cover carries a handwritten annotation 'Applies to 2010 County Council At Large B race' and the report is signed/dated 5-2-12 and clerk-stamped MAY 04 2012 - a 2010-cycle report filed in 2012; the checked box is 'Seven days before a general election'. Contributions are entirely self-funded ('my self') plus one in-kind flier line; the mailing-address column was left empty by the filer on every row, so there is no donor geography to redact or read."
+  }
  }
 }

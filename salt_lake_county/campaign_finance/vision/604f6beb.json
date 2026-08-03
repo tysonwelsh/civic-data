@@ -1,6 +1,33 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Sted Harmsen",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=none;donor=low;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.00,27.00,84.00,3.80@p4",
+   "note": "the 'Complete Mailing Address' cell holds an illegible scrawl on this degraded fax - nothing readable, so no city/state is recorded. DATE NOT PARSEABLE: printed 'Mar/10' - month and year only, NO DAY - so it is left BLANK per the contract with the verbatim kept here. NAME BARELY LEGIBLE: a scrawled cursive hand, escalated twice to 700 dpi tight cell crops. The legible glyph skeleton is 'St--l/-d' followed by an 'H'-initial scrawl; read tentatively as 'Sted Harmsen' at LOW confidence, with 'Steel'/'Steve' not excludable and the surname essentially a squiggle. It was NOT completed to the candidate's own name (Steve Harmsen) - that is exactly the plausible-name substitution the contract forbids. The Occupation cell is an equally illegible scrawl (reads like 'SRC ...')"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "SL County",
+   "purpose": "fee",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.00,27.00,80.00,3.80@p3",
+   "note": "DATE NOT PARSEABLE: printed 'Mar/10' - month and year only, NO DAY - left BLANK per the contract, verbatim kept here. Recipient reads 'SL County' and purpose 'fee' in a fast cursive on a degraded fax; amount '175' with no cents"
+  }
+ ],
  "total_contributions": "175",
  "total_expenditures": "175",
  "beginning_balance": "0",
@@ -49,6 +76,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Faxed handwritten form (fax header 06/10/2010). Identical figures to the April and September interims (175 in / 175 out, zero balance). Lines 3 and 7 written as a plain '0'. Neither amendment box is checked."
+  "notes": "Faxed handwritten form (fax header 06/10/2010). Identical figures to the April and September interims (175 in / 175 out, zero balance). Lines 3 and 7 written as a plain '0'. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (175 = 175); the single row equals the printed TOTAL CONTRIBUTIONS RECEIVED 175 (the SUBTOTAL cell is left blank and a second '175' is written on the line below the total), matching Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (175 = 175); the single row equals the printed SUBTOTAL 175 and TOTAL 175, matching Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "Schedule B (PDF p3) fires: one row 175 = printed SUBTOTAL 175 = printed TOTAL 175. Schedule A (PDF p4) has an EMPTY SUBTOTAL cell, so the gate is taken at the TOTAL: one row 175 = printed TOTAL 175. Both close, which is what makes the two barely-legible amounts safe to read as 175.",
+   "escalations": 2,
+   "escalation_note": "two 700 dpi tight cell crops of the Schedule A NAME cell (the second widened after the first clipped the descenders). The name is STILL not resolved - it is a scrawled cursive hand on a heavily degraded fax - so it is emitted as a low-confidence glyph reading with needs_review=1 rather than completed.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Steve Harmsen, County Council District 1, 'seven days before a primary election' interim). Received as a FAX (header '06/10/2010 22:42 18015329125 WAFCO PAGE 03/04 | 04/04') and badly degraded, with a black scanner band down the right margin and a vertical fold line through the middle of both pages. THE SCHEDULE PAGES ARE OUT OF ORDER: PDF page 3 is SCHEDULE B and PDF page 4 is SCHEDULE A. Neither schedule's header box (Page / Last Name / Date of Report) was filled in. ONE row on each side, both for $175, and the two mirror each other: the contribution is from a person whose name could not be read, and the expenditure is 'SL County / fee' - i.e. this filing records the candidate funding his own $175 county filing fee. THE DATE ON BOTH ROWS IS 'Mar/10' - a MONTH AND YEAR ONLY, with no day - so per the contract both dates are left BLANK with needs_review=1 and the verbatim kept in the row note. The contributor name survived two 700 dpi escalations unresolved and is recorded as a low-confidence glyph reading; it was deliberately NOT completed to the candidate's own name even though that is the obvious guess."
+  }
  }
 }

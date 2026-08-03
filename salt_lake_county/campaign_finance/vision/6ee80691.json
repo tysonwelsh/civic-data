@@ -1,5 +1,20 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "GARY OTT",
+   "donor_city": "SALT LAKE CITY",
+   "donor_state": "UT",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=no-year-printed;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,23.07,73.00,4.00@p3",
+   "note": "date cell prints only '8 APR' - NO YEAR on the page, so the date is left blank per the contract and the verbatim kept here; amount written '$60' with a superscript '00' over a rule -> 60.00; Occupation/Employer cell reads 'Recorder'; the street line of the address was discarded at read time, city/state kept"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$60.00",
  "total_expenditures": "-0-",
@@ -49,6 +64,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Cents written as a superscript over a rule; transcribed with a decimal point (dollar figures and $ verbatim). Expenditure zeros are written '-0-' and are transcribed verbatim in that form. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 2 of 3, Ott, 30 Jan 06. Arithmetic internally consistent."
+  "notes": "Cents written as a superscript over a rule; transcribed with a decimal point (dollar figures and $ verbatim). Expenditure zeros are written '-0-' and are transcribed verbatim in that form. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 2 of 3, Ott, 30 Jan 06. Arithmetic internally consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4 (blank schedule)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$60.00",
+     "itemized": "60.00",
+     "result": "exact",
+     "detail": "exact (60.00 = $60.00). The single row equals the form's own printed TOTAL CONTRIBUTIONS RECEIVED, both written as '$60' with a superscript '00' over a rule."
+    },
+    "expenditures": {
+     "stated": "-0-",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact. Schedule B on p4 is a BLANK schedule - every row cell empty - and its TOTAL EXPENDITUTRES MADE cell holds the nil glyph '- 0 -'. Per the zero-glyph ruling that written zero is 0, so the side is a real zero with zero rows, not a gap."
+    }
+   },
+   "page_subtotal_gates": "'SUBTOTAL FOR THIS PAGE' is EMPTY on p3 (only the grand TOTAL row is filled), so no page-subtotal gate exists; the p3 TOTAL gates exactly on 60.00. Schedule B has no rows to gate.",
+   "escalations": 0,
+   "escalation_note": "none needed - one row, large handwriting, legible at the 200 dpi base read.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Tiny 2006 year-end filing: ONE contribution, and a completely blank Schedule B whose total cell holds the nil glyph '- 0 -'. The single contributor is the CANDIDATE HIMSELF (Gary Ott, occupation 'Recorder' - the office he holds). The DATE CELL READS ONLY '8 APR' WITH NO YEAR, so the date field is left BLANK and flagged rather than back-filled from the 30 Jan 06 report date (which would in any case be inconsistent - an April date on a report signed the previous January). Schedule B's own header box (Page/of, Last Name, Date of Report) is entirely unfilled."
+  }
  }
 }

@@ -1,6 +1,196 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-01-15",
+   "donor_raw": "silverbullet group inc",
+   "donor_city": "Las Vegas",
+   "donor_state": "NV",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:88.41,2.50,2.35,92.50@p4",
+   "note": "typed attachment page (landscape, read rotated 90 CCW); address block county-redacted (black box); no occupation printed; needs_review=1 for the p3-vs-p4 donor-identity conflict described in notes"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-01-15",
+   "donor_raw": "Cline                Michele",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:86.00,2.50,2.35,92.50@p4",
+   "note": "printed last-name/first-name in two columns: 'Cline' | 'Michele'; occupation column prints 'investment advisor'; address block county-redacted; needs_review=1 for the p3-vs-p4 donor-identity conflict"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-01-15",
+   "donor_raw": "Johnson              Lonnie",
+   "donor_city": "Sandy",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:83.65,2.50,2.35,92.50@p4",
+   "note": "last/first in two columns; occupation column prints 'aide/slco'; address block county-redacted; needs_review=1 for the p3-vs-p4 donor-identity conflict"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-01-15",
+   "donor_raw": "Davis                Scott",
+   "donor_city": "Bountiful",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:81.24,2.50,2.35,92.50@p4",
+   "note": "last/first in two columns; occupation column prints 'partner/mountain west'; address block county-redacted; needs_review=1 for the p3-vs-p4 donor-identity conflict"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-01-15",
+   "donor_raw": "Suite                Steven",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:78.65,2.50,2.35,92.50@p4",
+   "note": "last/first in two columns; occupation column prints 'mountain west small b' and is CLIPPED at the cell edge by the following amount column; address block county-redacted; needs_review=1 for the p3-vs-p4 donor-identity conflict"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-04-08",
+   "donor_raw": "Studsvik, Inc.",
+   "donor_city": "Atlanta",
+   "donor_state": "GA",
+   "amount": "4,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:76.12,2.50,2.35,92.50@p4",
+   "note": "this row also appears verbatim on the handwritten Schedule A p3 ('4/8/10 | Studsvik, Inc | Atlanta GA | 4,000.00'), so the two itemizations agree on it; address block county-redacted; no occupation printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-01-14",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,26.10,76.00,3.50@p5",
+   "note": "amount written '600.' with superscript '00' over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-01-19",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,29.90,76.00,3.50@p5",
+   "note": "amount written '500.' with superscript '00'; leading glyph read as 5 not 3 - confirmed by the page subtotal gate (a 300 here would leave the page 200 short of the printed 6400.00)"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-03-01",
+   "vendor_raw": "Target Group",
+   "purpose": "Consulting",
+   "amount": "1200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,33.60,76.00,3.50@p5",
+   "note": "amount written '1200.' with superscript '00'; no thousands separator printed"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-04-07",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,37.70,76.00,3.50@p5",
+   "note": "amount written '3,000.' with superscript '00'"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-04-07",
+   "vendor_raw": "Target Group",
+   "purpose": "Consulting",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,41.60,76.00,3.50@p5",
+   "note": "amount written '500.' with superscript '00'; confirmed by the page subtotal gate"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-04-13",
+   "vendor_raw": "Committee To Elect Christian Burridge",
+   "purpose": "Campaign Contribution",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,45.20,76.00,3.50@p5",
+   "note": "vendor written on two lines; the purpose cell has an overstrike/scribble over the middle of 'Campaign' - the word is still legible"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-05-01",
+   "vendor_raw": "Target Group",
+   "purpose": "Consulting",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,49.00,76.00,3.50@p5",
+   "note": "amount written in full as '300.00' (no superscript on this row)"
+  }
+ ],
  "total_contributions": "5500",
  "total_expenditures": "6400",
  "beginning_balance": "921.06",
@@ -49,6 +239,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2012-vintage blank hand-titled '2010 amendment', signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Lines 1 and 2 write the figures without cents ('5500', '6400'); lines 4 and 6 write the same amounts with cents ('5500.00', '6400.00') - both recorded as printed on their own lines. Line 3 chains from the 2009 amendment's line 7 (921.06). Arithmetic checks: 921.06 + 5,500 = 6,421.06 and 6,421.06 - 6,400 = 21.06."
+  "notes": "2012-vintage blank hand-titled '2010 amendment', signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Lines 1 and 2 write the figures without cents ('5500', '6400'); lines 4 and 6 write the same amounts with cents ('5500.00', '6400.00') - both recorded as printed on their own lines. Line 3 chains from the 2009 amendment's line 7 (921.06). Arithmetic checks: 921.06 + 5,500 = 6,421.06 and 6,421.06 - 6,400 = 21.06.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3-4",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5500",
+     "itemized": "5500.00",
+     "result": "exact",
+     "detail": "exact (5500.00 = 5500); attachment p4 prints its own total $5,500.00 and the handwritten Schedule A p3 prints SUBTOTAL 5500.00"
+    },
+    "expenditures": {
+     "stated": "6400",
+     "itemized": "6400.00",
+     "result": "exact",
+     "detail": "exact (6400.00 = 6400 = printed p5 subtotal 6400.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 handwritten Schedule A rows (1500.00 + 4000.00) = printed subtotal 5500.00; p4 attachment rows (250+250+500+250+250+4000) = printed total 5,500.00; p5 rows (600+500+1200+3000+500+300+300) = printed subtotal 6400.00",
+   "escalations": 1,
+   "escalation_note": "p4 is a LANDSCAPE spreadsheet attachment: re-rendered at 200 dpi and rotated 90 CCW (PIL) to read; at 100 dpi the amount column appeared shifted one row against the names, the rotated 200 dpi read resolved the alignment and the total gated exactly",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO CONTRADICTORY ITEMIZATIONS OF THE SAME $5,500 - A HUMAN SHOULD LOOK. The handwritten Schedule A (p3) lists only TWO lines - '1/15/10 | Randy Horiuchi | SLC UT | Candidate | 1,500.00' and '4/8/10 | Studsvik, Inc | Atlanta GA | 4,000.00' - plus the words 'See attached' written in the name column of a lower row; its printed SUBTOTAL is 5500.00. The attached typed spreadsheet (p4, titled 'Schedule A - Itemized Contributions Received') lists SIX lines totalling $5,500.00, in which the p3 Studsvik 4,000.00 line recurs verbatim but the p3 'Randy Horiuchi / Candidate / 1,500.00' line is instead broken into FIVE separate 1/15/2010 donors (silverbullet group inc 250, Cline Michele 250, Johnson Lonnie 500, Davis Scott 250, Suite Steven 250) summing to exactly 1,500.00. The attachment is transcribed here as the itemization (it is the finer grain, it is what 'See attached' points to, and it carries city/state); the p3 handwritten Horiuchi line is NOT emitted, because emitting both would double the side to 11,000 against a stated 5,500. The five 1/15/2010 rows carry needs_review=1 for the donor-identity conflict. Street-address column on the attachment is a solid black COUNTY REDACTION box; city/state/zip printed to the right of it. Filing header on both schedule pages is hand-dated 2/14/13 over a struck-through 'Jan 31 11' date of report; the chunk listing calls this a 2010 Final Amended report."
+  }
  }
 }

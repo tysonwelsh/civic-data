@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2013 Summary Report/Dissolution', but on the form face only the YEAR-END box is checked - the Final/Dissolution box is NOT checked, and neither amendment box is checked. The signature date is written '1-28-014' (an evident slip for 2014); the Summary Page header block gives the date of report as 1/28/14. Every cell on the Summary Page (both columns, lines 1-7) is a hand-drawn slashed zero (\u00d8), recorded as '0'. WORTH A HUMAN'S EYE: the immediately preceding 2012 year-end report (keys 20bbcbc2 / 509f34ed) closed at a NEGATIVE (11,487.42), but this 2013 report opens at zero on line 3 - the chain does not reconcile. Figures kept verbatim; nothing computed."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2013 Summary Report/Dissolution', but on the form face only the YEAR-END box is checked - the Final/Dissolution box is NOT checked, and neither amendment box is checked. The signature date is written '1-28-014' (an evident slip for 2014); the Summary Page header block gives the date of report as 1/28/14. Every cell on the Summary Page (both columns, lines 1-7) is a hand-drawn slashed zero (\u00d8), recorded as '0'. WORTH A HUMAN'S EYE: the immediately preceding 2012 year-end report (keys 20bbcbc2 / 509f34ed) closed at a NEGATIVE (11,487.42), but this 2013 report opens at zero on line 3 - the chain does not reconcile. Figures kept verbatim; nothing computed.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (blank schedule, printed TOTAL is a slashed-zero glyph; stated 0)"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (blank schedule, printed TOTAL is a slashed-zero glyph; stated 0)"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell left empty; printed TOTAL CONTRIBUTIONS RECEIVED = slashed-zero glyph, 0 transcribed rows. p4 same (SUBTOTAL empty, TOTAL EXPENDITURES = slashed-zero glyph, 0 rows). Both gate trivially at zero.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, real zero (not a gap): p3 Itemized Contributions Received and p4 Itemized Expenditures Made are the printed form grids with the single word 'none' handwritten in the first Name cell and every other cell empty; each page's TOTAL line carries a slashed-zero glyph. Read both pages full-page at 200 dpi. Matches stated_c=0 / stated_e=0. Form is the 2012 template; cover checks YEAR-END January 31."
+  }
  }
 }

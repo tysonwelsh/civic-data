@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "NEITHER amendment box is checked. Summary Page header box is entirely BLANK. Every Column A cell holds a hand-drawn oval or slashed zero read as 0 (medium). Both Column B cells read '574.92' - the leading digit is written like an 'S' but reads as 5. INTERNAL ODDITY retained as printed: Column B carries 574.92 on both lines while every Column A cell, including the beginning and ending balances, is zero."
+  "notes": "NEITHER amendment box is checked. Summary Page header box is entirely BLANK. Every Column A cell holds a hand-drawn oval or slashed zero read as 0 (medium). Both Column B cells read '574.92' - the leading digit is written like an 'S' but reads as 5. INTERNAL ODDITY retained as printed: Column B carries 574.92 on both lines while every Column A cell, including the beginning and ending balances, is zero.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (page 3) is printed and entirely BLANK; a real reported zero, matching the stated 0"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule B (page 4) is printed and entirely BLANK; a real reported zero, matching the stated 0"
+    }
+   },
+   "page_subtotal_gates": "p3: no rows and the SUBTOTAL FOR THIS PAGE cell is EMPTY (so nothing to gate against); the only mark in the amount column is a slashed-zero glyph in the first cell. p4: identical - no rows, empty SUBTOTAL cell, one slashed-zero glyph in the first amount cell. Both pages gate trivially at zero.",
+   "escalations": 0,
+   "escalation_note": "none - a blank schedule needs no cell adjudication",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, both sides - I looked at page 3 (Schedule A) and page 4 (Schedule B); the county form is printed with all its row lines and NOT ONE line is filled in. Zero rows is the honest reading, not a gap. Per the ZERO-GLYPH RULING, the slashed-zero (O with a stroke) written in the first amount cell of each schedule and in Summary Page Column A lines 1-7 denotes 0. Summary Page Column B (Sum Total to Date) reads $74.92 on BOTH the contributions and the expenditures line - a to-date figure, not a period figure, and identical on both sides (retained verbatim, not reconciled). Cover: Kim W. Lundeberg, Dem, Office Sought 'Salt Lake County Surveyor' (the chunk manifest carries no office for this filing - the form does); June 20 interim box checked; the amendment question is left entirely unanswered; signed 06-19-06, received JUN 20 2006. PRIVACY: the cover's street-address block is on the page and was deliberately not transcribed."
+  }
  }
 }

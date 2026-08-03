@@ -1,6 +1,6 @@
 # Salt Lake County COUNTY-office campaign finance — availability & sources
 
-**As-of: 2026-08-02** (vision totals tranche; acquisition recon 2026-08-01). Entity: **Salt Lake County** (county tier). Scope: the 10 elected
+**As-of: 2026-08-03** (vision totals tranche COMPLETE + **clerk-legacy itemization COMPLETE — queue closed**; acquisition recon 2026-08-01). Entity: **Salt Lake County** (county tier). Scope: the 10 elected
 **county offices** — Mayor, County Council (Districts 1–6 + At-Large A/B/C), Sheriff, District
 Attorney, Clerk, Assessor, Recorder, Treasurer, Auditor, Surveyor. Utah county candidates file
 their Contribution & Expenditure reports with the **County Clerk** (not `disclosures.utah.gov`,
@@ -17,7 +17,19 @@ their filings** — cover-page identity plus the Summary Page's printed totals a
 by Read-tool vision (114 filings on 2026-08-01, the remaining **556 on 2026-08-02**). **618
 carry printed totals; 52 documents have no Summary Page at all** (dissolution notices, Small
 Budget Campaign Certificates, letters/emails, cover-only scans, six damaged/blank PDFs).
-Itemized donor lines for those eras remain untranscribed — that is now the sole remaining gap
+**Update 2026-08-03 (ITEMIZATION — the clerk-legacy queue is CLOSED):** the Schedule A/B donor and
+vendor lines of the CLERK-LEGACY era are transcribed into the same caches.
+**All 496 clerk-legacy filings that have a Summary Page are itemized** (214 wave-B2 + 24 promoted
+from the calibration pilot + 256 residue + 2 residue-close), yielding **14,746 contribution +
+8,125 expenditure rows**; **0 filings remain queued**, and the queue is DERIVED from the caches so
+it is exact at any moment (`python3 vision_coverage.py`). Per side: 427/428 exact, 39/41
+delta-with-cause (every delta traced to the filing itself), 204/201 unknown, **0 withheld**.
+"Unknown" = the form states no total for that side, or the side is `none`.
+The honest gaps INSIDE this layer are **8 sides across 5 filings** that state a non-zero total but
+contain no schedule page at all ($121,789.32 contributions + $120,455.49 expenditures; 4 of the 8
+are exactly reproduced by an itemized sibling filing — table in `CLAUDE.md`). The 2022 EasyVote
+cycle and the 2016–2021 WAF gap still have **no** itemized layer.
+Itemized donor lines for the 2022 cycle remain untranscribed
 in these two eras. See "Stated-totals coverage" below; method and cache contract in `CLAUDE.md`.
 
 ## Where county campaign-finance filings live — three eras
@@ -98,10 +110,13 @@ two xref-broken 2006 files were **re-fetched from `slco.org` and returned byte-i
 the defect is upstream in the Clerk's own copies and re-acquisition by URL is exhausted. A GRAMA
 request is the only remaining route. Recorded, not worked around.
 
-**What is still missing for these two eras is ITEMIZATION, not totals:** the Schedule A/B donor
-and vendor lines for 2006–2015 and 2022 remain untranscribed, so "who gave to whom" is still a
-2024/2026-only question. The vision caches already carry empty `contributions`/`expenditures`
-lists, so that tranche drops in without a schema change.
+**Itemization status for these two eras (updated 2026-08-03):** the Schedule A/B donor and vendor
+lines for **2006–2015 are now COMPLETE** — all 496 filings with a Summary Page, 22,871 rows — so
+"who gave to whom" is answerable for that era as well as 2024/2026. **2022 remains
+untranscribed** (its EasyVote PDFs are flattened redacted images with the schedules redacted), and
+2016–2021 remains the WAF gap. The vision caches carry the rows in the
+`contributions`/`expenditures` lists the totals tranche shipped empty — no schema change was
+needed, exactly as designed.
 
 **Structured totals (2024 + 2026, county offices):** 4,956 itemized contributions
 (**$1,905,741**) + 3,278 expenditures (**$1,633,769**) across 164 filings. Largest single

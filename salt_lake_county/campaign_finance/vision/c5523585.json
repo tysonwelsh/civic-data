@@ -1,6 +1,286 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-04-05",
+   "donor_raw": "Bob Gallagher",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,24.00,89.80,4.00@p3",
+   "note": "Occupation/Employer 'retired'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-06",
+   "donor_raw": "James Piani",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,27.90,89.80,4.00@p3",
+   "note": "Occupation/Employer 'unknown'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2010-04-07",
+   "donor_raw": "Michael N. Katsanvas",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.50,32.00,89.80,4.00@p3",
+   "note": "SURNAME CLIPPED: the name runs into the county redaction block at the right edge of the Name cell; escalated to 800 dpi and the visible glyphs read 'Michael N. Katsanvas' with the final letter touching the block, so the surname may continue - transcribed as read, NOT completed. Occupation/Employer 'self employed'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 4,
+   "date": "2010-04-09",
+   "donor_raw": "Steve DeBry",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,36.00,89.80,4.00@p3",
+   "note": "Occupation/Employer 'UPD captain'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 5,
+   "date": "2010-04-16",
+   "donor_raw": "Baron J. Brooks",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,40.00,89.80,4.00@p3",
+   "note": "Occupation/Employer 'nutrition shop'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 6,
+   "date": "2010-04-16",
+   "donor_raw": "Steve DeBry",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,44.00,89.80,4.00@p3",
+   "note": "Occupation/Employer 'UPD captain'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 7,
+   "date": "2010-04-20",
+   "donor_raw": "Michael P. Chabries",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,48.10,89.80,4.00@p3",
+   "note": "Occupation/Employer 'assistant'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 8,
+   "date": "2010-04-20",
+   "donor_raw": "Steve DeBry",
+   "amount": "23.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,52.10,89.80,4.00@p3",
+   "note": "Occupation/Employer 'UPD captain'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 9,
+   "date": "2010-04-22",
+   "donor_raw": "Zoe Roberts",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,56.40,89.80,4.00@p3",
+   "note": "Occupation/Employer 'counseling'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 10,
+   "date": "2010-04-22",
+   "donor_raw": "George Nielsen",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,60.50,89.80,4.00@p3",
+   "note": "Occupation/Employer 'retired'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 11,
+   "date": "2010-04-22",
+   "donor_raw": "Allen Lammert",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,64.50,89.80,4.00@p3",
+   "note": "Occupation/Employer 'unknown'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 12,
+   "date": "2010-04-23",
+   "donor_raw": "SL Board of Realtors",
+   "amount": "825.38",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,68.50,89.80,4.00@p3",
+   "note": "Marked 'in-kind' above the amount -> in_kind true; the same 825.38 appears on Schedule B as a printing expenditure to SL Board of Realtors. In-kind counts toward the printed total, which is how the page subtotal closes. Occupation/Employer 'Realtors'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 13,
+   "date": "2010-04-23",
+   "donor_raw": "Steve DeBry",
+   "amount": "46.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.50,72.75,89.80,4.00@p3",
+   "note": "Occupation/Employer 'UPD captain'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 14,
+   "date": "2010-05-12",
+   "donor_raw": "Brent Van Roosenda",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.50,76.75,89.80,4.00@p3",
+   "note": "SURNAME TRUNCATED: escalated to 800 dpi; the visible glyphs end '...Roosenda' with a further partial letter cut off by the county redaction block. Left incomplete rather than guessed. Occupation/Employer 'retired'. Address column is COUNTY-REDACTED (white block over the whole column) - donor_city/donor_state left blank, 'redacted'. Cents written as a superscript over a rule."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-04-09",
+   "vendor_raw": "SL Co. Republican Party",
+   "purpose": "Booth - for convention",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,26.85,80.50,3.90@p4",
+   "note": "Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-16",
+   "vendor_raw": "Postmaster",
+   "purpose": "P.O. Box",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,30.75,80.50,3.90@p4",
+   "note": "Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2010-04-20",
+   "vendor_raw": "Sam's Club",
+   "purpose": "Candy - for convention",
+   "amount": "23.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,34.25,80.50,3.90@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-04-22",
+   "vendor_raw": "SL Co. Republican Party",
+   "purpose": "Table - for convention dinner",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,38.10,80.50,3.90@p4",
+   "note": "Cents written as a superscript over a rule."
+  },
+  {
+   "line_no": 5,
+   "date": "2010-04-23",
+   "vendor_raw": "Postmaster",
+   "purpose": "100 stamps",
+   "amount": "44.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,42.75,80.50,3.90@p4",
+   "note": "Cents written as a superscript over a rule. A hand-drawn brace groups this row with the adjacent 4-23-10 row in the left margin; no legend explains it."
+  },
+  {
+   "line_no": 6,
+   "date": "2010-04-23",
+   "vendor_raw": "Walmart",
+   "purpose": "envelopes",
+   "amount": "2.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,46.75,80.50,3.90@p4",
+   "note": "A hand-drawn brace groups this row with the adjacent 4-23-10 row in the left margin; no legend explains it."
+  },
+  {
+   "line_no": 7,
+   "date": "2010-04-23",
+   "vendor_raw": "SL Board of Realtors",
+   "purpose": "printing",
+   "amount": "825.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.00,50.75,80.50,3.90@p4"
+  }
+ ],
  "total_contributions": "$2,384.85",
  "total_expenditures": "$1,674.85",
  "beginning_balance": "$4,400.00",
@@ -49,6 +329,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The FORM checks 'Seven days before a primary election'; the clerk listing calls this the June interim. Neither amendment box is checked. Signed 6-14-10, clerk-stamped RECEIVED JUN 15 2010; Summary Page header 'DeBry, 6-14-10, page 2 of 4'. Both columns reconcile exactly (4,400.00 + 2,384.85 = 6,784.85; less 1,674.85 = 5,110.00 = 7,453.46 - 2,343.46), and Line 3 chains from the April interim's 'N/A'-opening report."
+  "notes": "The FORM checks 'Seven days before a primary election'; the clerk listing calls this the June interim. Neither amendment box is checked. Signed 6-14-10, clerk-stamped RECEIVED JUN 15 2010; Summary Page header 'DeBry, 6-14-10, page 2 of 4'. Both columns reconcile exactly (4,400.00 + 2,384.85 = 6,784.85; less 1,674.85 = 5,110.00 = 7,453.46 - 2,343.46), and Line 3 chains from the April interim's 'N/A'-opening report.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2,384.85",
+     "itemized": "2384.85",
+     "result": "exact",
+     "detail": "exact (2,384.85 = 2,384.85): the 14 rows sum to 2,384.85, matching both the printed page SUBTOTAL and the stated Summary-Page figure. NOTE the schedule's own 'TOTAL CONTRIBUTIONS RECEIVED (sum of subtotals from all Schedule A pages)' line prints $7,453.46 on this single-page schedule - a cumulative/campaign-to-date figure, not the sum of this filing's pages; retained verbatim, never reconciled"
+    },
+    "expenditures": {
+     "stated": "$1,674.85",
+     "itemized": "1674.85",
+     "result": "exact",
+     "detail": "exact (1,674.85 = 1,674.85): the 7 rows sum to 1,674.85, matching the printed page SUBTOTAL and the stated figure. The schedule's TOTAL EXPENDITURES MADE line prints $2,343.46 - again a cumulative figure on a single-page schedule, kept verbatim"
+    }
+   },
+   "page_subtotal_gates": "p3 14 rows sum 2,384.85 = printed SUBTOTAL FOR THIS PAGE $2,384.85 - GATE FIRED, exact; p4 7 rows sum 1,674.85 = printed SUBTOTAL $1,674.85 - GATE FIRED, exact. Both pages' TOTAL lines (7,453.46 / 2,343.46) DO NOT equal their subtotals - they are cumulative figures and were deliberately NOT used as gates.",
+   "escalations": 2,
+   "escalation_note": "p3 Name cells for rows 3 and 14 cropped at 800 dpi - both surnames run into the county redaction block and remain clipped; neither was completed",
+   "n_contrib_rows": 14,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "ADDRESS COLUMN IS COUNTY-REDACTED on Schedule A: a white block covers the entire Complete Mailing Address column (a few stray digits bleed at its edges). All donor_city/donor_state are therefore blank with 'redacted' stated - distinct from a filer leaving the column empty. The redaction block also clips the right end of the two longest names (rows 3 and 14), which are left incomplete rather than guessed. This filer is one of the known DeBry cases where a TOTAL line carries a CUMULATIVE figure: on both schedules the 'sum of subtotals from all pages' line is much larger than the single page's subtotal ($7,453.46 vs $2,384.85; $2,343.46 vs $1,674.85), so only the page subtotals were used as gates and both closed exactly. Schedule A row 12 and Schedule B row 7 are the two halves of the same $825.38 in-kind printing from the SL Board of Realtors. A hand-drawn brace sits in the left margin of Schedule B beside the two 4-23-10 rows, with no legend. Cents are written as superscripts over a rule throughout."
+  }
  }
 }

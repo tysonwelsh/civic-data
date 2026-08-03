@@ -51,6 +51,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "PAGES ARE BOUND OUT OF ORDER in this 4-page PDF: p1 cover, p2 Schedule A, p3 Schedule B, p4 the Summary Page (its own header box says 'Page 3 of 3'). Another all-zero filing \u2014 every Summary Page cell is a hand-drawn slashed zero, and the blank Schedules A and B are struck through with a long S-curve and zeroed at the subtotal lines. Neither amendment box is checked. 'Salt Lake County Council - at Large' is written across the Office Sought / District Number fields. Stamped COPY / RECEIVED SEP 15 2006."
+  "notes": "PAGES ARE BOUND OUT OF ORDER in this 4-page PDF: p1 cover, p2 Schedule A, p3 Schedule B, p4 the Summary Page (its own header box says 'Page 3 of 3'). Another all-zero filing \u2014 every Summary Page cell is a hand-drawn slashed zero, and the blank Schedules A and B are struck through with a long S-curve and zeroed at the subtotal lines. Neither amendment box is checked. 'Salt Lake County Council - at Large' is written across the Office Sought / District Number fields. Stamped COPY / RECEIVED SEP 15 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (PDF p2) is the county grid with no lines filled; its SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells both carry a slashed-zero glyph, matching the stated 0"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B (PDF p3) is the county grid with no lines filled; its SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITUTRES MADE cells both carry a slashed-zero glyph, matching the stated 0"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) rows 0.00 = printed subtotal (slashed-zero) 0; p3 (Schedule B) rows 0.00 = printed subtotal (slashed-zero) 0. Both gates fire trivially on an empty schedule.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THE PAGES ARE OUT OF ORDER in the PDF: p1 cover, p2 Schedule A (hand-numbered 'Page 1 of 3'), p3 Schedule B ('Page 2 of 3'), p4 Summary Page ('Page 3 of 3') - the Summary Page is NOT on PDF page 2 here. Both schedules are genuinely EMPTY, not unread: the filer drew a single long vertical squiggle down the whole Amount column of each grid to void it and wrote a slashed-zero in the SUBTOTAL and TOTAL cells (and in every Column A and Column B cell of the Summary Page). Per the repo zero-glyph ruling the slashed zero IS 0, so this is a real zero-activity filing, not a gap. Zero rows on both sides is the honest transcription."
+  }
  }
 }

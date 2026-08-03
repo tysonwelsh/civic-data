@@ -1,6 +1,142 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2005-04-20",
+   "donor_raw": "Jim Bradley",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.84,24.75,82.30,3.25@p3",
+   "note": "amount written '$100.' (trailing period, no cents); occupation 'Self' - candidate self-contribution; address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2005-09-16",
+   "donor_raw": "Doug Willmore",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.84,28.60,82.30,3.30@p3",
+   "note": "amount written '$500' (whole dollars, no cents); occupation/employer 'S.L. County'; address cell holds a street line only - discarded at read time, no city/state printed"
+  },
+  {
+   "line_no": 3,
+   "date": "2005-11-14",
+   "donor_raw": "David Brems",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.84,32.50,82.30,3.25@p3",
+   "note": "amount written '$500' (whole dollars, no cents); occupation 'Architect'; address cell holds a street line only - discarded at read time, no city/state printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2005-01-03",
+   "vendor_raw": "Key Bank",
+   "purpose": "Interest Pymt.",
+   "amount": "95.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,27.40,75.77,3.20@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2005-01-07",
+   "vendor_raw": "Jim Bradley",
+   "purpose": "Reimbursement",
+   "amount": "109.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,30.75,75.77,3.20@p4",
+   "note": "payment to the candidate himself"
+  },
+  {
+   "line_no": 3,
+   "date": "2005-02-02",
+   "vendor_raw": "Key Bank",
+   "purpose": "Interest Pymt.",
+   "amount": "70.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,34.10,75.77,3.20@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2005-02-08",
+   "vendor_raw": "U of U C.U.",
+   "purpose": "Fee",
+   "amount": "19.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,37.50,75.77,3.20@p4",
+   "note": "written 'UofU C.U.' (University of Utah Credit Union), kept close to verbatim"
+  },
+  {
+   "line_no": 5,
+   "date": "2005-03-09",
+   "vendor_raw": "Key Bank",
+   "purpose": "Interest Pymt.",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,40.75,75.77,3.20@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2005-04-20",
+   "vendor_raw": "Julie Smith",
+   "purpose": "Flowers for Corroon fund",
+   "amount": "173.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,44.10,75.77,3.20@p4",
+   "note": "purpose written cramped as 'Flowers for Corroonfund'; resolved at 550 dpi to 'Flowers for Corroon fund'"
+  },
+  {
+   "line_no": 7,
+   "date": "2005-11-29",
+   "vendor_raw": "Video Prod. Svcs.",
+   "purpose": "Video Production",
+   "amount": "280.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.78,47.50,75.77,3.20@p4",
+   "note": "amount written '280.00' with a cramped decimal"
+  }
+ ],
  "total_contributions": "$1,100.-",
  "total_expenditures": "822.65",
  "beginning_balance": "307.62",
@@ -46,6 +182,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Office Sought and District Number boxes both BLANK on this filing. NEITHER amendment box is checked. As on the Wilson 1/31/06 copy, the 'June 20' checkbox prints as a filled bullet - a scan artifact, not a check. Summary Page header carries only the last name ('Bradley'); page number and date of report blank; both Column B cells BLANK. Line 1 Column A is written '$1,100.' followed by a dash for the cents - transcribed '$1,100.-'. Arithmetic consistent (307.62 + 1,100 = 1,407.62; minus 822.65 = 584.97)."
+  "notes": "Office Sought and District Number boxes both BLANK on this filing. NEITHER amendment box is checked. As on the Wilson 1/31/06 copy, the 'June 20' checkbox prints as a filled bullet - a scan artifact, not a check. Summary Page header carries only the last name ('Bradley'); page number and date of report blank; both Column B cells BLANK. Line 1 Column A is written '$1,100.' followed by a dash for the cents - transcribed '$1,100.-'. Arithmetic consistent (307.62 + 1,100 = 1,407.62; minus 822.65 = 584.97).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$1,100.-",
+     "itemized": "1100.00",
+     "result": "exact",
+     "detail": "exact (1100.00 = 1100.00); the Summary Page figure is written '$1,100.-' (trailing dash = no cents) and the Schedule A SUBTOTAL and TOTAL both print '$1,100.-'"
+    },
+    "expenditures": {
+     "stated": "822.65",
+     "itemized": "822.65",
+     "result": "exact",
+     "detail": "exact (822.65 = 822.65)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 1100.00 = printed SUBTOTAL FOR THIS PAGE $1,100.- (and TOTAL $1,100.-); p4 SUBTOTAL FOR THIS PAGE was left BLANK by the filer, so no page gate exists there - rows sum 822.65 = printed TOTAL EXPENDITURES MADE 822.65",
+   "escalations": 2,
+   "escalation_note": "p4 purpose+amount columns re-rendered as a 550 dpi band crop over all 7 rows (amounts and purposes read identically; row 6 purpose resolved as 'Flowers for Corroon fund', written cramped as 'Corroonfund'); p3 name+address columns re-rendered at 550 dpi (names read identically)",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten. Two-digit years throughout ('4-20-05'), all within the 2005 calendar year covered by this January 31 year-end report. The Complete Mailing Address column carries STREET ONLY on rows 2 and 3 and is EMPTY on row 1 (filer left it blank) - no city or state is printed anywhere on the page, so donor_city/donor_state are blank for every row and that is the filer's omission, not a redaction. Schedule B's SUBTOTAL FOR THIS PAGE cell is blank; only the TOTAL line is filled."
+  }
  }
 }

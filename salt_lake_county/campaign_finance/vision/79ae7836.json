@@ -1,6 +1,119 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Paul Pugmire",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.05,21.00,85.60,3.60@p3",
+   "note": "date printed '3/10' with NO YEAR -> blank per contract. Occupation/Employer 'Corporate Communications / Sector 10'. Address column empty (filer left blank). Candidate self-contribution. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Paul Pugmire",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.05,24.60,85.60,4.40@p3",
+   "note": "date printed '3/12' with NO YEAR -> blank per contract. Amount written '2,500' with raised superscript cents '00' -> 2500.00. Right-margin annotation beside this row reads 'personal loan'. Occupation/Employer 'Corporate Communications / Sector 10'. Address column empty."
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "LeeAnn Samsel",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.05,29.00,85.60,4.40@p3",
+   "note": "date printed '3/7' with NO YEAR -> blank per contract. Name written as one word 'LeeAnn' here (the Schedule B row for the same person is written 'Lee Ann Samsel'); kept verbatim per side. Occupation/Employer 'photographer / self'. Amount '100' + superscript '00' -> 100.00. Address column empty."
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Mary C. Stoy",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.05,33.40,85.60,4.20@p3",
+   "note": "date printed '3/13' with NO YEAR -> blank per contract. Given name written with a lowercase-form initial ('mary'); normalized case only, spelling verbatim. Surname read 'Stoy' at 600dpi. Occupation 'retired'. Amount '500' + superscript '00' -> 500.00. Address column empty."
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "Scott Leckman",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.05,37.60,85.60,4.30@p3",
+   "note": "date printed '3/28' with NO YEAR -> blank per contract. Occupation/Employer 'physician / self'. Amount '250' + superscript '00' -> 250.00. Address column empty."
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "James H. Pugmire",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.05,41.90,85.60,3.70@p3",
+   "note": "date printed '3/28' with NO YEAR -> blank per contract. Occupation 'retired'. Amount '500' + superscript '00' -> 500.00. This row fell just below the 600dpi verification band, so verified=0; the value is independently corroborated by the exact reconciliation (the other five rows leave exactly 500.00 of the printed 4,004.47 total). Address column empty."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Lee Ann Samsel",
+   "purpose": "photography",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.90,24.50,80.10,3.90@p4",
+   "note": "date printed '3/7' with NO YEAR -> blank per contract. Amount '100' + raised superscript cents '00' -> 100.00."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "SL Co Clerk",
+   "purpose": "candidacy filing",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.90,28.40,80.10,3.85@p4",
+   "note": "date printed '3/10' with NO YEAR -> blank per contract. Vendor abbreviated on the form as 'SL Co Clerk' (Salt Lake County Clerk); kept verbatim. Amount '154' + raised superscript '47' -> 154.47."
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Target Group",
+   "purpose": "consulting",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.90,32.25,80.10,3.85@p4",
+   "note": "date printed '3/12' with NO YEAR -> blank per contract. Amount '1,000' + raised superscript '00' -> 1000.00."
+  }
+ ],
  "total_contributions": "4,004.47",
  "total_expenditures": "1,254.47",
  "beginning_balance": "0",
@@ -50,6 +163,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Every money cell uses the RAISED-SUPERSCRIPT CENTS convention (e.g. 4,004 with a small raised '47'; 2,750 with a small raised '00'), transcribed with a decimal point per the contract. Line 3 is a plain drawn zero ('O'), recorded '0'. Both Column B cells ARE filled and equal Column A, consistent with a first report. Page box reads 'Page 1 of 3'. Neither amendment box is checked. Every line reconciles."
+  "notes": "Every money cell uses the RAISED-SUPERSCRIPT CENTS convention (e.g. 4,004 with a small raised '47'; 2,750 with a small raised '00'), transcribed with a decimal point per the contract. Line 3 is a plain drawn zero ('O'), recorded '0'. Both Column B cells ARE filled and equal Column A, consistent with a first report. Page box reads 'Page 1 of 3'. Neither amendment box is checked. Every line reconciles.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,004.47",
+     "itemized": "4004.47",
+     "result": "exact",
+     "detail": "exact (6 rows sum 4004.47 = stated 4,004.47 = the form's own printed TOTAL CONTRIBUTIONS RECEIVED '4,004.47')"
+    },
+    "expenditures": {
+     "stated": "1,254.47",
+     "itemized": "1254.47",
+     "result": "exact",
+     "detail": "exact (3 rows sum 1254.47 = stated 1,254.47 = the form's own printed TOTAL EXPENDITURES MADE '1,254 47')"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): the SUBTOTAL FOR THIS PAGE cell is EMPTY (filer skipped it) - no page-subtotal gate available; gated instead on the printed TOTAL CONTRIBUTIONS RECEIVED, rows 4004.47 = 4,004.47. p4 (Schedule B): SUBTOTAL FOR THIS PAGE cell likewise EMPTY; gated on printed TOTAL EXPENDITURES MADE, rows 1254.47 = 1,254.47. Both are single-page schedules so the total IS the page subtotal.",
+   "escalations": 4,
+   "escalation_note": "p3 date+name columns 600dpi crop (pct:2,18.5,50,24) x1; p3 amount column 600dpi crop (pct:76,18.5,20,24) x1; p4 amount column 600dpi crop x1; p4 date+name+purpose 500dpi crop x1. All four re-reads agreed with the 200dpi read.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard shape: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. NO CONTRIBUTOR ADDRESSES AT ALL - the 'Complete Mailing Address' column is entirely empty on p3 (filer left it blank), so donor_city/donor_state are blank throughout by filer omission, not redaction. EVERY date cell on both schedules is month/day with NO YEAR ('3/10', '3/7'...), so per contract all 12 dates are BLANK + needs_review with the verbatim kept in note - the year is NOT filled from the 4/7/08 report date. Amounts use the raised-superscript-cents convention (e.g. 2,500 with a small raised '00'); transcribed with a decimal point. Row 2 of Schedule A carries a margin annotation 'personal loan' beside the 2,500.00 - a candidate self-loan, recorded in the note (the form has no in-kind or loan checkbox, and it is NOT an in-kind item, so in_kind stays false). The form's page box reads 'Page 2 of 3' on the Schedule A sheet and 'Page 3 of 3' on Schedule B, i.e. the form counts the cover separately from the PDF pagination. Note the mirrored pair: the 154.47 candidacy-filing fee paid to the SL Co Clerk on 3/10 is matched by a 154.47 contribution from Paul Pugmire the same day, and the 100.00 photography payment to Lee Ann Samsel is matched by her 100.00 contribution - retained exactly as printed on both sides, not netted."
+  }
  }
 }

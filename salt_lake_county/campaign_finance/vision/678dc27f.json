@@ -1,6 +1,128 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-10-19",
+   "donor_raw": "Equality Utah",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.41,24.25,81.70,3.00@p3",
+   "note": "occupation cell reads 'PAC'; superscript cents; address column empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-10-19",
+   "donor_raw": "Kris Davis",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.41,28.00,81.70,3.00@p3",
+   "note": "occupation 'Self Employed Chiropractor'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-10-20",
+   "donor_raw": "Nate Hendricks Campaign Loan",
+   "amount": "4,411.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.41,31.75,81.70,3.00@p3",
+   "note": "candidate self-loan; name cell written on two lines 'Nate Hendricks' / 'Campaign Loan'; occupation 'Marketing/Candidate'; superscript cents '35'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-23",
+   "donor_raw": "Kathryn Casoll",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.41,35.50,81.70,3.00@p3",
+   "note": "SURNAME UNCERTAIN: glyphs read 'Casoll'; the fourth letter is ambiguous between o and u ('Casull'), re-read in a 600 dpi cell crop and still not resolvable. Kept as the legible glyph string, never completed to a plausible real name. Occupation cell left blank by the filer."
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-25",
+   "donor_raw": "Summit Spinal Rehab",
+   "amount": "1,873.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.41,39.25,81.70,3.00@p3",
+   "note": "name on two lines 'Summit Spinal' / 'Rehab'; occupation 'medical Clinic'. This is the counterpart of the Schedule B in-kind row (Signature Press, door hangers)."
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-30",
+   "donor_raw": "Kris Davis",
+   "amount": "1,300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.41,43.00,81.70,3.00@p3",
+   "note": "occupation 'Self Employed Chiropractor'; same donor as line 1"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-10-20",
+   "vendor_raw": "Interform Graphics",
+   "purpose": "Balance Mailer / T shirts / Promotions",
+   "amount": "4,411.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.26,27.00,75.60,3.00@p4",
+   "note": "purpose written on two lines"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-10-23",
+   "vendor_raw": "Nate Hendricks",
+   "purpose": "Campaign Loan Repayment",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.26,30.70,75.60,3.00@p4",
+   "note": "repayment to the candidate"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-10-25",
+   "vendor_raw": "Signature Press",
+   "purpose": "Door Hangers",
+   "amount": "1,873.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.26,34.40,75.60,3.00@p4",
+   "note": "filer wrote '(In kind from Summit Spinal)' above the recipient name \u2014 in_kind true; the amount is inside the printed page subtotal"
+  }
+ ],
  "total_contributions": "8,784.35",
  "total_expenditures": "7,284.35",
  "beginning_balance": "1,418.58",
@@ -49,6 +171,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cover prints the name as 'Nathan Hendricks' (the manifest and the filer's other reports say 'Nate'). Only the October 31 interim box is checked; neither amendment box is checked. The form's arithmetic is internally consistent (1,418.58 + 8,784.35 = 10,202.93; 10,202.93 - 7,284.35 = 2,918.58). This writer's '2' looks like an 'a'; Line 1 Column B was confirmed at 250 dpi as 15,429.14, which is exactly 500.00 less than the same field on the filer's 1/15/07 final report."
+  "notes": "Cover prints the name as 'Nathan Hendricks' (the manifest and the filer's other reports say 'Nate'). Only the October 31 interim box is checked; neither amendment box is checked. The form's arithmetic is internally consistent (1,418.58 + 8,784.35 = 10,202.93; 10,202.93 - 7,284.35 = 2,918.58). This writer's '2' looks like an 'a'; Line 1 Column B was confirmed at 250 dpi as 15,429.14, which is exactly 500.00 less than the same field on the filer's 1/15/07 final report.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "8,784.35",
+     "itemized": "8784.35",
+     "result": "exact",
+     "detail": "exact (8784.35 = 8,784.35)"
+    },
+    "expenditures": {
+     "stated": "7,284.35",
+     "itemized": "7284.35",
+     "result": "exact",
+     "detail": "exact (7284.35 = 7,284.35)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 8,784.35 = printed subtotal 8,784.35 = printed total \u2014 GATE PASSES. p4 rows 7,284.35 = printed subtotal 7,284.35 = printed total \u2014 GATE PASSES.",
+   "escalations": 1,
+   "escalation_note": "p3 row 4 contributor name re-rendered as a 600 dpi cell crop; surname vowel still ambiguous, left at low confidence",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Faxed copy (OCT-31-2006, Siegfried & Jensen fax header). The 'Complete Mailing Address' column was left entirely EMPTY by the filer on Schedule A (filer omission, not redaction) \u2014 no donor city/state exists in this document. Schedule B row 3 carries the filer's own in-kind annotation, so the in-kind item is inside the printed subtotal on BOTH sides."
+  }
  }
 }

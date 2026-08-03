@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-01-31",
+   "donor_raw": "AMERICA FIRST CU",
+   "amount": ".19",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.11,24.15,87.91,3.50@p3",
+   "note": "date written '1/31/12'. The filer wrote no ADDRESS: the Complete Mailing Address / Occupation cells carry the description 'INTEREST ON ACCOUNT' instead, so donor_city/donor_state are blank because the filer left the address empty (NOT redacted). Amount cell carries a small illegible mark to the LEFT of the '.19' glyphs (possibly a stray pen mark or a cent sign); the value itself reads '.19' and matches both the printed page subtotal and the schedule total."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-01-31",
+   "vendor_raw": "DATA RECOVERY",
+   "purpose": "CRASHED HARDRIVE",
+   "amount": "498.73",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.99,27.25,80.80,3.15@p4",
+   "note": "date written '01/31/2012'. Amount printed '498,' with a SUPERSCRIPT '73' over a rule; transcribed with a decimal point per the superscript-cents convention. Recipient/purpose are scrawled block capitals read at 400 dpi as 'DATA RECOVERY' / 'CRASHED HARDRIVE' (the final word could also be 'HARDDRIVE'); kept verbatim at medium confidence."
+  }
+ ],
  "total_contributions": ".19",
  "total_expenditures": "498.73",
  "beginning_balance": "498.54",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; neither amendment box is checked. The top-row 'Office' cell is blank - Office Sought reads 'County Mayor'. Line 1 Column A is written using the raised-superscript cents convention with NOTHING in the dollars place (a comma/decimal mark followed by a small raised '19'), i.e. nineteen cents - transcribed as '.19'; Line 4 restates it the same way. Line 7 is a hand-drawn slashed zero - recorded as '0', consistent with a dissolution requiring a zero closing balance. COLUMN B on Lines 1 and 2 is genuinely BLANK (empty string, not zero). Column A arithmetic checks out: 498.54 + 0.19 = 498.73, minus 498.73 = 0. Cover signature date 01/31/2012 but the Summary Page header box is dated 01/30/2012 (Page 2 of 4, RENCKERT)."
+  "notes": "BOTH the Year-End and the Final / Dissolution boxes are checked; neither amendment box is checked. The top-row 'Office' cell is blank - Office Sought reads 'County Mayor'. Line 1 Column A is written using the raised-superscript cents convention with NOTHING in the dollars place (a comma/decimal mark followed by a small raised '19'), i.e. nineteen cents - transcribed as '.19'; Line 4 restates it the same way. Line 7 is a hand-drawn slashed zero - recorded as '0', consistent with a dissolution requiring a zero closing balance. COLUMN B on Lines 1 and 2 is genuinely BLANK (empty string, not zero). Column A arithmetic checks out: 498.54 + 0.19 = 498.73, minus 498.73 = 0. Cover signature date 01/31/2012 but the Summary Page header box is dated 01/30/2012 (Page 2 of 4, RENCKERT).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": ".19",
+     "itemized": ".19",
+     "result": "exact",
+     "detail": "exact (.19 = .19); the single p3 row equals the printed SUBTOTAL FOR THIS PAGE '.19' and TOTAL CONTRIBUTIONS RECEIVED '.19'"
+    },
+    "expenditures": {
+     "stated": "498.73",
+     "itemized": "498.73",
+     "result": "exact",
+     "detail": "exact (498.73 = 498.73); the single p4 row equals the printed SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITURES MADE (both written '498,' with superscript 73 over a rule)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows .19 = printed subtotal .19 (GATE FIRED, exact); p4 rows 498.73 = printed subtotal 498.73 (GATE FIRED, exact)",
+   "escalations": 4,
+   "escalation_note": "p3 amount cell at 1200 dpi + p3 date/name row at 900 dpi; p4 recipient/purpose band at 400 dpi + p4 amount cell at 1200 dpi (x2 attempts, first crop clipped the cents)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4 pages, handwritten: p1 cover (Michael Renckert, Office Sought 'County Mayor', Republican; BOTH the YEAR-END Jan-31 box and the FINAL/DISSOLUTION box are checked; signed 01/31/2012; RECEIVED JAN 31 2012), p2 Summary Page (line1 .19, line2 498.73, line3 498.54, line4 .19, line5 498.73, line6 498.73, line7 a slashed-zero glyph = 0). Balance chain CLOSES: 498.54+.19=498.73 and 498.73-498.73=0. p3 Schedule A (1 row), p4 Schedule B (1 row). Column B is entirely blank on the Summary Page. This is a 2011 cycle report filed 2012-01-31; index election_year is 2010."
+  }
  }
 }

@@ -1,6 +1,148 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2005-06-01",
+   "donor_raw": "ATK Thiokol",
+   "donor_city": "Magna",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;donor=high",
+   "verified": 1,
+   "geometry": "pct:8.70,24.86,84.64,3.99@p3",
+   "geometry_px": "p3:x150,y560,w1460,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "date written '6/1/5' - single-digit year 5 read as 2005 (report dated 1/31/6); street/PO box discarded per PRIVACY"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Wells-Fargo",
+   "purpose": "Bank service fee monthly $3.00",
+   "amount": "36.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,27.98,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y630,w1300,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "date printed as a RANGE '1/5 - 12/5' (Jan-Dec 2005) - not a single date, left BLANK"
+  },
+  {
+   "line_no": 2,
+   "date": "2005-08-15",
+   "vendor_raw": "Demo Hispanic Caucus",
+   "purpose": "Contribution",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,31.97,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y720,w1300,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "single-digit year"
+  },
+  {
+   "line_no": 3,
+   "date": "2005-10-11",
+   "vendor_raw": "Benns for City Council",
+   "purpose": "Contribution",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;vendor=medium",
+   "verified": 1,
+   "geometry": "pct:13.33,35.97,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y810,w1300,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "hand renders N as W: glyphs 'BEWWS' read as BENNS - medium confidence on the surname"
+  },
+  {
+   "line_no": 4,
+   "date": "2005-10-17",
+   "vendor_raw": "Remington for City Council",
+   "purpose": "Contribution",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,39.96,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y900,w1300,h90@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 5,
+   "date": "2005-10-19",
+   "vendor_raw": "Flo Winerter",
+   "purpose": "Contribution for Cetrell funeral",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;amount=high;vendor=low",
+   "verified": 1,
+   "geometry": "pct:13.33,43.96,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y990,w1300,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "surname not confidently resolvable at 450 dpi (the hand uses one glyph for both N and W); LOW confidence, needs_review=1"
+  },
+  {
+   "line_no": 6,
+   "date": "2005-10-13",
+   "vendor_raw": "Wilde for Mayor",
+   "purpose": "Contribution",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,47.96,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y1080,w1300,h90@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 7,
+   "date": "2005-10-30",
+   "vendor_raw": "House for City Council",
+   "purpose": "Contribution",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,51.95,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y1170,w1300,h90@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "Key Bank",
+   "purpose": "Interest on loan to Demo. Party",
+   "amount": "100.24",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "amount=high;vendor=high",
+   "verified": 1,
+   "geometry": "pct:13.33,55.95,75.36,4.00@p4",
+   "geometry_px": "p4:x230,y1260,w1300,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "date printed as a RANGE '1/5 | 4/5' - left BLANK"
+  }
+ ],
  "total_contributions": "$500 -",
  "total_expenditures": "566.24",
  "beginning_balance": "159.17",
@@ -49,6 +191,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Title carries NO year ('Financial Disclosure Report For a Candidate') even though the clerk stamp is JAN 31 2006 - form_year ''. Interim list is the 'Seven days before a primary/general election' variant. Column B header on this variant reads 'Year-to-Date Total'. Contributions written with a dash for the cents ('$500 -'), transcribed verbatim. Summary Page header: Page 2 of 4, HATCH, 1/31/6. Arithmetic consistent (159.17 + 500 = 659.17; minus 566.24 = 92.93)."
+  "notes": "Title carries NO year ('Financial Disclosure Report For a Candidate') even though the clerk stamp is JAN 31 2006 - form_year ''. Interim list is the 'Seven days before a primary/general election' variant. Column B header on this variant reads 'Year-to-Date Total'. Contributions written with a dash for the cents ('$500 -'), transcribed verbatim. Summary Page header: Page 2 of 4, HATCH, 1/31/6. Arithmetic consistent (159.17 + 500 = 659.17; minus 566.24 = 92.93).",
+  "itemized": {
+   "wave": "opus pilot 2026-08-02 (calibration-suite pilot-opus/), PROMOTED into wave B2",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "500.00",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (500.00 = 500.00)"
+    },
+    "expenditures": {
+     "stated": "566.24",
+     "itemized": "566.24",
+     "result": "exact",
+     "detail": "exact (566.24 = 566.24)"
+    }
+   },
+   "page_subtotal_gates": "",
+   "escalations": 2,
+   "escalation_note": "p3 band 500dpi; p4 band 450dpi",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 9,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": "PILOT ESTIMATE (opus pilot bboxes, converted): render-back spot-checks 2026-08-02 found portrait boxes row-exact (3/3 sampled) and one rotated page (08_jwinder_jan31 p3) off by 8 row-pitches; treat pilot rows' geometry as a page/section pointer, not a row-exact box. Wave-B2 bulk rows carry transcriber-verified pct boxes."
+   },
+   "notes": "pilot 2026-08-02, promoted; Same hand as filing 1 (Joe Hatch): N is written as W, E as Z. Dates use a SINGLE-DIGIT year ('8/15/5'); read as 2005 from the printed report date 1/31/6, marked in each row's note."
+  }
  }
 }

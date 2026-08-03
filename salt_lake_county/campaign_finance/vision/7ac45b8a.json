@@ -46,6 +46,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The newer 2-page form, titled '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' (form_year 2014). A no-activity year: lines 1 and 2 are BLANK in BOTH columns and line 4 is blank (recorded as empty strings, never zeros); only the balance carry-forward is filled (line 3 = line 5 = line 7 = 1736.34, line 6 written as a zero). Political Party, Office Sought and District Number are all left blank on the cover. Neither amendment box checked. Line 3 matches the prior year-end's line 7."
+  "notes": "The newer 2-page form, titled '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' (form_year 2014). A no-activity year: lines 1 and 2 are BLANK in BOTH columns and line 4 is blank (recorded as empty strings, never zeros); only the balance carry-forward is filled (line 3 = line 5 = line 7 = 1736.34, line 6 written as a zero). Political Party, Office Sought and District Number are all left blank on the cover. Neither amendment box checked. Line 3 matches the prior year-end's line 7.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "NOT withheld - the schedule does not exist in this document. The PDF is 2 pages and the form itself is a 2-page instrument: p1 is the cover of the '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]' and p2 is the Summary Page, which its own header numbers 'Page 2 of 2'. No 'Itemized Contributions Received' page was filed or exists to read.",
+    "expenditures": "NOT withheld - same reason: there is no 'Itemized Expenditures Made' page in the 2-page document (p2 is Page 2 of 2)."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "unknown by non-existence, not by failure. Summary Page line 1 Column A is LEFT BLANK by the filer (matching the chunk's empty stated_c), and there is no Schedule A page in the document to itemize against. Nothing is claimed. Note line 4 ('Total Contributions Received, From Line 1 Column A') is blank too, and lines 3/5/7 all read 1736.34 - i.e. the filer reported no activity by leaving the contribution lines empty rather than writing 0."
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "unknown by non-existence. Summary Page line 2 Column A is LEFT BLANK (matching the chunk's empty stated_e) and no Schedule B page exists. Line 6 ('Total Expenditures Made') does carry a written oval ZERO, but line 2 - the field stated_e comes from - is blank, so no total is asserted here and none is inferred."
+    }
+   },
+   "page_subtotal_gates": "No page in this document prints a SUBTOTAL FOR THIS PAGE - there are no schedule pages. No gate exists and none was fired.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Brent H. Goodfellow, County Council District 2. Year-End report: the 'January 31 of each year' box is checked; NEITHER amendment box (Yes or No) is ticked. Signed and dated 1-6-15, clerk-stamped RECEIVED JAN 06 2015. This is a TWO-PAGE filing with NO Schedule A and NO Schedule B - honest non-existence of the itemized pages, which is a different thing from a blank schedule (compare 0897996b and e09ed3f0 in this chunk, where the schedule pages exist and are empty). Summary Page Column A: lines 1, 2 and 4 blank; line 3 1736.34; line 5 1736.34; line 6 a written oval zero; line 7 1736.34. Column B (Year to Date) is entirely blank. The cover's street address, city, state, ZIP, phone and email are blacked out by the county."
+  }
  }
 }

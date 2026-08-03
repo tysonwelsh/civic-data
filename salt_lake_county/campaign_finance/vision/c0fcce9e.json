@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-02-19",
+   "vendor_raw": "Sandy City Honorary Colonels",
+   "purpose": "Donation to Support Police Officers",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,22.25,81.60,4.00@p4",
+   "note": "Amount printed '$250.-' (trailing dash after the point = no cents) -> 250.00. Recipient name written on two lines, 'Sandy City' / 'Honorary Colonels'."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "250",
  "beginning_balance": "5,671.62",
@@ -49,6 +64,53 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Form title reads '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]'. Line 1 in both columns and line 4 are a hand-drawn slashed zero, recorded as 0. Line 2 amounts are written with a trailing dash denoting no cents. Signed 2-2-2015, two days after the January 31 deadline. Neither amendment box is checked. Line 3 (5,671.62) matches line 7 of the prior (2013) year-end report."
+  "notes": "Form title reads '2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]'. Line 1 in both columns and line 4 are a hand-drawn slashed zero, recorded as 0. Line 2 amounts are written with a trailing dash denoting no cents. Signed 2-2-2015, two days after the January 31 deadline. Neither amendment box is checked. Line 3 (5,671.62) matches line 7 of the prior (2013) year-end report.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); the Itemized Contributions page is blank with a slashed-zero subtotal and total"
+    },
+    "expenditures": {
+     "stated": "250",
+     "itemized": "250.00",
+     "result": "exact",
+     "detail": "exact (250.00 = 250)"
+    }
+   },
+   "page_subtotal_gates": "p3 has no filled rows and its SUBTOTAL/TOTAL cells both carry a slashed-zero '\u00d8' = 0 (zero-glyph ruling) - consistent with zero rows; p4 single row 250.00 = printed SUBTOTAL '250.-' and printed TOTAL '250.-' PASS.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "SEVEN pages: p1 cover ('2014 Financial Disclosure Report ... [County Officeholders - Year-End]'), p2 Summary Page, p3 Itemized Contributions Received (BLANK, struck through with a single diagonal line; subtotal and total are both a slashed zero), p4 Itemized Expenditures Made (one row), p5-p7 the 'Other Campaign Accounts' set (Summary Page, Itemized Contributions, Itemized Expenditures) all struck through with a large X, declared not applicable and NOT transcribed. Cover: Max Burdick, Council 6, Republican; Year-End box checked; signed 2-2-2015; street address and phone/email blocks county-redacted. This 2014 form uses the 'Itemized Contributions Received' / 'Itemized Expenditures Made' titles rather than 'Schedule A' / 'Schedule B'."
+  }
  }
 }

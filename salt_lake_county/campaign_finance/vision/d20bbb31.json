@@ -1,6 +1,33 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Steve Harmsen",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.78,25.89,85.00,3.02@p4",
+   "note": "DATE printed as 'Mar/10' - a month and year with NO DAY, so no ISO date is parseable; left blank per contract, verbatim kept here. Donor name is a cursive scrawl read as 'Steve Harmsen' (matches the candidate's own printed cover name - this is a self-contribution) but the glyphs alone are not conclusive, hence confidence low. The Complete Mailing Address cell is effectively EMPTY on this fax copy (a stray dot and one faint illegible mark at its right edge) - no city or state is legible, so none is asserted. The Occupation/Employer cell reads roughly 'S?C same' and was not resolved at 700 dpi"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "SL County",
+   "purpose": "Ffee",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,28.00,78.50,3.00@p3",
+   "note": "DATE printed as 'Mar/10' - month and year with NO DAY, no ISO date parseable; left blank, verbatim kept here. PURPOSE is a two-stroke flourish followed by 'fee' and a trailing rule; read as 'Ffee' and most likely intended as a filing fee, but the leading glyphs were NOT resolved at 700 dpi - do not treat 'Ffee' as a confident reading"
+  }
+ ],
  "total_contributions": "175",
  "total_expenditures": "175",
  "beginning_balance": "0",
@@ -49,6 +76,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Faxed handwritten form (fax header 04/05/2010, PAGE 01/05). The top-row 'Office' box and 'Office Sought' both read 'CC #1' (County Council District 1). Lines 3 and 7 are written as a plain '0'. No dollar signs or cents are written anywhere. Neither amendment box is checked."
+  "notes": "Faxed handwritten form (fax header 04/05/2010, PAGE 01/05). The top-row 'Office' box and 'Office Sought' both read 'CC #1' (County Council District 1). Lines 3 and 7 are written as a plain '0'. No dollar signs or cents are written anywhere. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (1 row 175 = printed SUBTOTAL FOR THIS PAGE 175 = printed TOTAL CONTRIBUTIONS RECEIVED 175 = stated 175; no cents are printed anywhere on this filing)"
+    },
+    "expenditures": {
+     "stated": "175",
+     "itemized": "175",
+     "result": "exact",
+     "detail": "exact (1 row 175 = printed SUBTOTAL FOR THIS PAGE 175 = printed TOTAL EXPENDITURES MADE 175 = stated 175)"
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule A) 1 row 175 = printed subtotal 175 GATE PASS; p3 (Schedule B) 1 row 175 = printed subtotal 175 GATE PASS",
+   "escalations": 5,
+   "escalation_note": "p4 date+name cells at 700 dpi normalized; p4 address cell at 700 dpi normalized (nothing legible); p4 occupation cell at 700 dpi normalized (still not confidently legible); p3 date+recipient at 700 dpi normalized; p3 purpose+amount at 700 dpi normalized (purpose still not confidently legible)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Steve Harmsen, County Council District 1, April 5 2010 interim. SCHEDULE A AND B ARE SWAPPED IN THE PDF: PDF page 3 is Schedule B (form footer page 4) and PDF page 4 is Schedule A (form footer page 3). The whole document is a low-quality FAX (header '04/05/2010 04:45 18015329125 WAFCO', pages marked PAGE 01/05 .. 04/05 - the PDF holds only 4 of the 5 faxed pages, and the missing fifth page is beyond both schedules, which each carry their own printed subtotal and total). Every hand-written entry on both schedules is a fast cursive scrawl; several cells resisted 700 dpi normalized crops and are flagged individually. No cents are printed anywhere - all money figures are the bare '175'. Neither schedule page has its header box (Page _ of _, last name, date of report) filled in."
+  }
  }
 }

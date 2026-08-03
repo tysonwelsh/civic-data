@@ -1,4 +1,17 @@
-# HANDOFF — resume point (2026-08-02: COUNTY ACQUISITION + VISION-TOTALS both COMPLETE)
+# HANDOFF — resume point (2026-08-03: TRANCHE 3 COMPLETE THROUGH WAVE B2)
+
+> **2026-08-03 addendum — SLCo legacy itemization QUEUE CLOSED + consolidated federation.**
+> gov.db (built 2026-08-03T12:30) carries cf_contribution **40,115** / cf_expenditure
+> **28,274** / cf_filing **3,810**: the full 496-filing SLCo clerk-legacy donor layer
+> (22,871 rows), the RHODES CORRECTION (arithmetic-closure reversal — see GOTCHAS),
+> Salt Lake CITY's first CF rows (2003 cycle, 8 filings recovered from Wayback after an
+> adversarial hunt falsified the "no PDFs exist" claim), and the tranche-3 Phase-A
+> born-digital sweep. All gates green (44/44 · doc checks PASS · marquee 5/5 · council
+> 193/31 · every CF validator PASS). Phase B remaining: the OTHER counties' scanned
+> itemization (summit 116 / cache pre-2022 / washington scans / utah 245 / weber 93 /
+> wasatch ~40 / juab 18 — per-wave owner approval), the SLC GRAMA letter (drafted on
+> request), the [GATED] retro-anchor/blind-reverify program, and COMMIT (work since
+> `4e5dd3b74` uncommitted).
 
 > **2026-08-02 addendum — the vision-totals tranche is DONE on top of the state below.**
 > Every county CF cover was vision-read (7-agent owner-approved wave; survived a

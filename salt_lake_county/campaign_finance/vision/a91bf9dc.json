@@ -1,6 +1,49 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-06-30",
+   "vendor_raw": "Key Bank",
+   "purpose": "Paper Statement Fee",
+   "amount": "3.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.68,19.45,60.97,1.48@p4",
+   "note": "born-digital web-printed row; In-Kind? cell empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-07-28",
+   "vendor_raw": "Gregory P. Hawkins",
+   "purpose": "Partial Loan Repayment",
+   "amount": "3255.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.68,21.09,60.97,1.39@p4",
+   "note": "repayment to the CANDIDATE himself; printed '$3,255.35'; In-Kind? cell empty"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-07-29",
+   "vendor_raw": "Key Bank",
+   "purpose": "Fee to close account",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.68,22.64,60.97,1.48@p4",
+   "note": "born-digital web-printed row; In-Kind? cell empty"
+  }
+ ],
  "total_contributions": "$0.00",
  "total_expenditures": "$3,283.35",
  "beginning_balance": "$3,283.35",
@@ -51,6 +94,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BUNDLE: page 1 is the handwritten 'Dissolution of a Candidate Campaign Committee' notice (committee 'Committee to Elect Hawkins', office 'SALT LAKE COUNTY AUDITOR', signed 9/15/2014, clerk stamp OCT 21 2014); page 2 is blank (faint bleed-through only); pages 3-4 are the attached final summary - a machine-printed slco.org electronic 'Financial Disclosure Report' with a 'Summary' table, NOT the handwritten Summary Page form. That electronic table has FOUR money columns (Total this Period / YTD / Total this Period Other Campaign Accounts / YTD Other Campaign Accounts); Column A is mapped from 'Total this Period' and Column B from 'YTD'. Both 'Other Campaign Accounts' columns print $0.00 on lines 1 and 2 and are not captured. The form prints 'Report: Interim Report' even though the bundle is a dissolution - the FORM FACE is recorded. This electronic form has no district-number and no amendment field, hence null. Page 4 itemizes three expenditures totalling $3,283.35 and states 'No Contributions Received for this period.' Note that the printed YTD figures on lines 1 and 2 are both $10,045.00 while Total-this-Period contributions are $0.00 and expenditures $3,283.35; kept verbatim."
+  "notes": "BUNDLE: page 1 is the handwritten 'Dissolution of a Candidate Campaign Committee' notice (committee 'Committee to Elect Hawkins', office 'SALT LAKE COUNTY AUDITOR', signed 9/15/2014, clerk stamp OCT 21 2014); page 2 is blank (faint bleed-through only); pages 3-4 are the attached final summary - a machine-printed slco.org electronic 'Financial Disclosure Report' with a 'Summary' table, NOT the handwritten Summary Page form. That electronic table has FOUR money columns (Total this Period / YTD / Total this Period Other Campaign Accounts / YTD Other Campaign Accounts); Column A is mapped from 'Total this Period' and Column B from 'YTD'. Both 'Other Campaign Accounts' columns print $0.00 on lines 1 and 2 and are not captured. The form prints 'Report: Interim Report' even though the bundle is a dissolution - the FORM FACE is recorded. This electronic form has no district-number and no amendment field, hence null. Page 4 itemizes three expenditures totalling $3,283.35 and states 'No Contributions Received for this period.' Note that the printed YTD figures on lines 1 and 2 are both $10,045.00 while Total-this-Period contributions are $0.00 and expenditures $3,283.35; kept verbatim.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - page 4 prints the sentence 'No Contributions Received for this period.' in place of a contributions table; a real reported zero matching the stated $0.00"
+    },
+    "expenditures": {
+     "stated": "$3,283.35",
+     "itemized": "3283.35",
+     "result": "exact",
+     "detail": "exact (3 rows 3.00 + 3,255.35 + 25.00 = 3,283.35 = stated $3,283.35 = the printed 'Total Expenditures $3,283.35')"
+    }
+   },
+   "page_subtotal_gates": "This is the 2014 WEB-PRINTED slco.org form, not the paper Schedule A/B - it prints no 'SUBTOTAL FOR THIS PAGE' line at all, only a single 'Total Expenditures' row at the foot of the one-page table. p4 rows 3283.35 = printed Total Expenditures 3,283.35 - GATE PASSED on that total. There is NO page that would not gate.",
+   "escalations": 1,
+   "escalation_note": "p4 expenditure table re-rendered as a 400 dpi band crop to confirm the three amounts and the In-Kind column state.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DIFFERENT FORM: this is the county's WEB-PRINTED 'Financial Disclosure Report' generated from secure.slco.org (born-digital typeface, printed 10/17/2014, header 'Hawkins, Gregory- Interim Report'), not the handwritten paper Schedule A/B used by the rest of this chunk. Page 1 is the 'Dissolution of a Candidate Campaign Committee' notice (Committee to Elect Hawkins, Gregory P. Hawkins, Salt Lake County Auditor, signed 9/15/2014); PAGE 2 IS ENTIRELY BLANK; pages 3-4 are the report (3 = cover + Summary, 4 = the itemized side). CONTRIBUTIONS ARE AN EXPLICIT PRINTED ZERO - the form prints 'No Contributions Received for this period.' where the table would be; that is a real zero, not a missing schedule. The form also prints 'No Contributions Received from other Campaign Accounts reported for this period.' and 'No Expenditures of other Campaign Accounts reported for this period.' - both honest zeros for the other-accounts columns. The expenditure table HAS an 'In-Kind?' column and every cell in it is empty, so in_kind=false is affirmative here rather than assumed. This form carries NO donor/recipient address column at all, so donor geography does not exist for it. NOTE the internal oddity, retained verbatim: Summary line 1 YTD contributions and line 2 YTD expenditures BOTH read $10,045.00. PRIVACY: the candidate's own street address and phone are printed on page 3 and were deliberately not transcribed."
+  }
  }
 }

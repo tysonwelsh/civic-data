@@ -50,6 +50,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Year-End box AND amendment 'Yes' are both checked; the 'date of report' blank beside Yes was left empty. Despite the clerk listing calling this 'Amendment to 2012 Summary Report/Dissolution', the Final/Dissolution box is NOT checked. Signed 2/4/13, clerk stamp FEB 04 2013. A handwritten note under the table reads 'Schedules A + B were unchanged from report filed 1/29/13.' Cents on Lines 1B, 2A, 2B, 5, 6 and 7 are raised superscripts, transcribed with a decimal point; Line 1 Column A ('23,055') carries no cents at all. LOW-CONFIDENCE FIGURE: Line 3 is transcribed verbatim as 44,722.93, but the penultimate digit is genuinely ambiguous between 4 and 9 even at 300 dpi - a reading of 44,722.43 would be the arithmetically consistent one (44,722.43 + 23,055 = 67,777.43 = Line 5) and matches Line 7 of the amended April interim. Recorded as read; do not silently 'correct' it."
+  "notes": "Year-End box AND amendment 'Yes' are both checked; the 'date of report' blank beside Yes was left empty. Despite the clerk listing calling this 'Amendment to 2012 Summary Report/Dissolution', the Final/Dissolution box is NOT checked. Signed 2/4/13, clerk stamp FEB 04 2013. A handwritten note under the table reads 'Schedules A + B were unchanged from report filed 1/29/13.' Cents on Lines 1B, 2A, 2B, 5, 6 and 7 are raised superscripts, transcribed with a decimal point; Line 1 Column A ('23,055') carries no cents at all. LOW-CONFIDENCE FIGURE: Line 3 is transcribed verbatim as 44,722.93, but the penultimate digit is genuinely ambiguous between 4 and 9 even at 300 dpi - a reading of 44,722.43 would be the arithmetically consistent one (44,722.43 + 23,055 = 67,777.43 = Line 5) and matches Line 7 of the amended April interim. Recorded as read; do not silently 'correct' it.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "23,055",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in this document - there is nothing to reconcile against. NOT a zero: the Summary Page asserts 23,055 received this period, and the filer wrote by hand under the Summary Page that 'Schedules A + B were unchanged from report filed 1/29/13', i.e. the itemization lives in the EARLIER filing"
+    },
+    "expenditures": {
+     "stated": "64,174.00",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in this document - nothing to reconcile against. NOT a zero; same hand-written incorporation-by-reference to the 1/29/13 report"
+    }
+   },
+   "page_subtotal_gates": "n/a - no schedule page exists, so no page prints a subtotal",
+   "escalations": 2,
+   "escalation_note": "the hand-written annotation under the Summary Page table was cropped and enlarged twice from the 200 dpi render to read it in full.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Ross Romero, Salt Lake County Mayor (Democratic). The PDF is only TWO pages: page 1 cover, page 2 Summary Page. There is NO Schedule A and NO Schedule B - honest non-existence, not a blank schedule and not a zero. LABEL vs FORM: the filename says 'Final_Amended' and index.csv says Year-End; the form checks the January-31 YEAR-END box and separately ticks 'Yes, this is an amendment' with the amendment-of date line left blank. Signed 2/4/13, clerk-stamped FEB 04 2013. THE KEY FINDING: a hand-written note below the Summary Page table reads 'Schedules A + B were unchanged from report filed 1/29/13.' - the filer is incorporating the itemization of the earlier filing by reference. That earlier 1/29/13 report is almost certainly the OTHER Romero filing in this same chunk, key 25bd8dab (Romero_R_12_Final_Mayor_Redacted.pdf, 11 pages), whose Summary Page carries the same Column-A figures (23,055 / 64,174). A human joining these two filings should treat 25bd8dab as the source of Romero's itemized rows and this record as a totals-only amendment; DO NOT double-count them. Summary Page as printed: line 1 Col A 23,055 / Col B 154,067.65; line 2 Col A 64,174.00 / Col B 149,867.82; line 3 44,722.43; line 5 67,777.43; line 6 64,174.00; line 7 3,603.43. PRIVACY: the cover's street-address block and phone/fax/email block are county-redacted."
+  }
  }
 }

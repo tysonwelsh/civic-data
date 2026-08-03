@@ -1,6 +1,117 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-11-06",
+   "donor_raw": "NATE CHANDLER",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.00,25.20,82.00,3.90@p3",
+   "note": "amount printed '100,-' (trailing dash after whole dollars = no cents); Occupation cell holds only a dash; Complete Mailing Address cell left EMPTY by the filer, so no donor city/state exists"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-15",
+   "donor_raw": "Marv Hendrickson",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.00,33.00,82.00,4.20@p3",
+   "note": "amount printed '200,-'; Occupation cell reads 'SLCo Councilman #6'. NAME IS CRAMPED AND OVERWRITTEN - escalated to an 800 dpi cell crop and still uncertain; the legible glyph string is 'M-a-r-v H-e-n-d-r-i-c-k-s-o-n' (first name could also read Maev/Marc); Complete Mailing Address cell left EMPTY by the filer, so no donor city/state exists"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-11-06",
+   "vendor_raw": "ADAM OSTHED",
+   "purpose": "RETURN OF CAMPAIGN CONTRIBUTION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,26.75,78.00,3.85@p4",
+   "note": "amount printed '$ 500,-'. RECIPIENT NAME uncertain: escalated to an 800 dpi crop; the glyph string reads 'ADAM OSTHED' with the T/H sharing a crossbar - the surname could not be settled"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-03",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "47.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,30.65,78.00,3.85@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-06",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "73.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,34.50,78.00,3.85@p4",
+   "note": "recipient and purpose are both DITTO marks resolving to the row above (HOME DEPOT / SIGN SUPPLIES)"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-11-08",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "67.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,38.35,78.00,3.85@p4",
+   "note": "recipient and purpose are both DITTO marks resolving to HOME DEPOT / SIGN SUPPLIES"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-11-09",
+   "vendor_raw": "BRANDI HARRIS",
+   "purpose": "CATERING - ELECTION NIGHT",
+   "amount": "170.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,42.30,78.00,3.85@p4",
+   "note": "amount printed '170,-'; the surname was written, struck through, and rewritten above the strike - the surviving reading is HARRIS both times"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-12-16",
+   "vendor_raw": "JEFF ALLEN",
+   "purpose": "PARTIAL LOAN REPAYMENT",
+   "amount": "3,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.80,46.60,78.00,3.85@p4",
+   "note": "amount printed '3,500,-'; recipient is the candidate himself"
+  }
+ ],
  "total_contributions": "300",
  "total_expenditures": "4,358.75",
  "beginning_balance": "11,852.61",
@@ -49,6 +160,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "OVERWRITE on Line 1 Column B (verified at 300dpi): the filer wrote a figure, struck it through heavily, and wrote '32,295.' above it. The value that stands ('32,295.', trailing period as printed) is transcribed; the struck figure underneath is illegible. Line 3's fourth digit is ambiguous between 6 and 8; read as 8 (11,852.61) - lines 4 and 5 as printed (300 and 12,152.61) and Line 7 (7,793.86 = 12,152.61 - 4,358.75) support that reading. Line 4 is written '300.-'. Line 2 Column B reads '24,501.19' with comma/period separators used interchangeably by this hand (low confidence). Summary Page header: Page 1 of 3, ALLEN, 1-30-07."
+  "notes": "OVERWRITE on Line 1 Column B (verified at 300dpi): the filer wrote a figure, struck it through heavily, and wrote '32,295.' above it. The value that stands ('32,295.', trailing period as printed) is transcribed; the struck figure underneath is illegible. Line 3's fourth digit is ambiguous between 6 and 8; read as 8 (11,852.61) - lines 4 and 5 as printed (300 and 12,152.61) and Line 7 (7,793.86 = 12,152.61 - 4,358.75) support that reading. Line 4 is written '300.-'. Line 2 Column B reads '24,501.19' with comma/period separators used interchangeably by this hand (low confidence). Summary Page header: Page 1 of 3, ALLEN, 1-30-07.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "300",
+     "itemized": "300.00",
+     "result": "exact",
+     "detail": "exact (300.00 = 300,-)"
+    },
+    "expenditures": {
+     "stated": "4,358.75",
+     "itemized": "4358.75",
+     "result": "exact",
+     "detail": "exact (4358.75 = 4,358.75)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 300.00 = printed SUBTOTAL '300,-' = printed TOTAL '300,-'; p4 rows 4358.75 = printed SUBTOTAL 4,358.75 = printed TOTAL 4,358.75",
+   "escalations": 2,
+   "escalation_note": "800 dpi cell crops of two hard names: Schedule A row 2 contributor and Schedule B row 1 recipient. Both remain uncertain and are carried at low confidence with the glyph string in the note, not resolved to a plausible name.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten block capitals. THIS FILER USES THE '<amount>,-' CONVENTION for whole dollars (100,- / 200,- / 500,- / 170,- / 3,500,-) - transcribed as .00 per the currency contract with the printed form named in each row note. Schedule A has a SECOND row whose only content is a struck-through date '11/6/06' with every other cell empty; it is NOT emitted as a row (a struck-out line with no name and no amount is not a transaction) and is recorded here instead. Schedule B row 6 is a partial loan repayment to the candidate."
+  }
  }
 }

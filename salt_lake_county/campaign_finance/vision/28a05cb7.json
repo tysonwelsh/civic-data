@@ -50,6 +50,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Identical retroactive batch filing to Rogers_W_10_YearEnd but for the 2011 year: 'Applies to 2010 County Council At Large B race' across the top, the Year-End box checked with '2011' hand-written next to the heading and the block circled, signed 5-2-12, clerk stamp MAY 04 2012. Summary Page is PDF page 4. All Column A cells are hand-drawn zeros; Column B carries the unchanged 295.98 aggregates with raised-superscript cents."
+  "notes": "Identical retroactive batch filing to Rogers_W_10_YearEnd but for the 2011 year: 'Applies to 2010 County Council At Large B race' across the top, the Year-End box checked with '2011' hand-written next to the heading and the block circled, signed 5-2-12, clerk stamp MAY 04 2012. Summary Page is PDF page 4. All Column A cells are hand-drawn zeros; Column B carries the unchanged 295.98 aggregates with raised-superscript cents.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact: Schedule A (PDF p2) carries no itemized lines - the filer wrote 'None' in the first Name-of-Contributor cell - and its SUBTOTAL FOR THIS PAGE is a zero glyph; stated Column A line 1 is likewise 0. A real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact: Schedule B (PDF p3) carries no itemized lines - 'None' written in the first Purpose cell - and its SUBTOTAL FOR THIS PAGE is a zero glyph; stated Column A line 2 is likewise 0."
+    }
+   },
+   "page_subtotal_gates": "p2 (Sch A) rows 0 = printed SUBTOTAL zero glyph 'O'; p3 (Sch B) rows 0 = printed SUBTOTAL zero glyph 'O'. Both gates fire. NOTE the schedules' TOTAL lines do NOT equal their own subtotals: both print '295.98' (superscript cents) against a zero subtotal - the filer put the Column-B AGGREGATE on the schedule TOTAL line. Retained verbatim, not reconciled.",
+   "escalations": 1,
+   "escalation_note": "p2 and p3 re-rendered at 200 dpi with -normalize to screen for faint pencil entries in the empty grid; none present",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK-SCHEDULE filing, honestly zero on both sides: Schedule A (PDF p2) and Schedule B (PDF p3) each print the full empty grid with the word 'None' hand-written in the first data row. Page order is NON-STANDARD - PDF p1 cover (form page 1), p2 Schedule A (form page 3), p3 Schedule B (form page 4), p4 Summary Page (form page 2). Cover carries a hand-written annotation across the top: 'Applies to 2010 County Council At Large B race', and the YEAR-END REPORT box is checked with '2011' hand-written and circled beside it - i.e. the 2011 year-end report for the 2010 race, consistent with the index. Summary Page Column A is a zero glyph on all seven lines; Column B lines 1 and 2 both read 295.98."
+  }
  }
 }

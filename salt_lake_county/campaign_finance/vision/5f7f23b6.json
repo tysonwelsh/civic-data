@@ -1,6 +1,62 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-02-14",
+   "donor_raw": "Paul J. Lund",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.50,26.20,80.00,3.60@p3",
+   "note": "A LOAN: the word 'Loan' is written in the left margin outside the grid and is clipped by the scan to 'oan'. Occupation/Employer cell: 'Chief Deputy Assessor'. Address cell left EMPTY by the filer."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-31",
+   "donor_raw": "Lee Gardner",
+   "amount": "10000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.50,29.90,80.00,3.60@p3",
+   "note": "THE CANDIDATE HIMSELF, and A LOAN: 'Loan' is written in the left margin outside the grid, clipped by the scan to '.oan'. Occupation/Employer cell: 'County Assessor'. Address cell left EMPTY by the filer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-02-28",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Checks + Fees",
+   "amount": "11.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.90,28.20,72.90,4.00@p4",
+   "note": "date printed '2-28-06'; cents written as a raised superscript ('11' with a superscript 98) and transcribed with a decimal point; confirmed by the page subtotal"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-07",
+   "vendor_raw": "SL County Clerk Sherrie Swenson",
+   "purpose": "Filing Fee",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.90,32.50,72.90,4.00@p4",
+   "note": "date printed '3-7-06'; the recipient is the county office written under the officeholder's name, on two lines ('SL County Clerk' / 'Sherrie Swenson'); cents written as a raised superscript over a rule ('574' with a superscript 92) and transcribed with a decimal point; confirmed by the page subtotal"
+  }
+ ],
  "total_contributions": "12,000.00",
  "total_expenditures": "586.90",
  "beginning_balance": "0",
@@ -49,6 +105,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Line 3 is a hand-drawn slashed zero, recorded as 0. Neither amendment box is checked. The Summary Page header box (page/last name/date) was left blank by the filer. Lines 5-6=7 reconciles exactly (12,000.00 - 586.90 = 11,413.10)."
+  "notes": "Line 3 is a hand-drawn slashed zero, recorded as 0. Neither amendment box is checked. The Summary Page header box (page/last name/date) was left blank by the filer. Lines 5-6=7 reconciles exactly (12,000.00 - 586.90 = 11,413.10).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "12,000.00",
+     "itemized": "12000.00",
+     "result": "exact",
+     "detail": "exact (12000.00 = 12,000.00); the 2 rows equal the printed SUBTOTAL FOR THIS PAGE 12000.00, the printed TOTAL CONTRIBUTIONS RECEIVED 12000.00 and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "586.90",
+     "itemized": "586.90",
+     "result": "exact",
+     "detail": "exact (586.90 = 586.90); the 2 rows (11.98 + 574.92) equal the printed SUBTOTAL 586.90, the printed TOTAL 586.90 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 12,000.00 = printed SUBTOTAL = printed TOTAL - GATE FIRED. p4 rows 586.90 = printed SUBTOTAL = printed TOTAL - GATE FIRED, and it is that subtotal which pins the two raised-superscript cent groups (11 with a superscript 98, and 574 with a superscript 92 over a rule).",
+   "escalations": 0,
+   "escalation_note": "None needed - four legible rows, both page gates closing to the cent.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (2 rows), p4 Schedule B (2 rows). BOTH CONTRIBUTIONS ARE LOANS: the word 'Loan' is hand-written in the left MARGIN beside each row, outside the table grid, and the scan clips it so only 'oan' / '.oan' survives - recorded as an observation, with the row amounts unchanged. Both contributors are officers of the office being sought (the Chief Deputy Assessor and the candidate himself, the sitting County Assessor), and the candidate's own $10,000 loan is the bulk of the filing. Cents on Schedule B are written as raised superscripts over a rule and are transcribed with a decimal point; the page subtotal confirms them. PRIVACY: the Complete Mailing Address column was left entirely EMPTY by the filer on both contribution rows (not a redaction), so no city or state exists. The expenditure to the county records the office under the officeholder's name ('SL County Clerk Sherrie Swenson')."
+  }
  }
 }

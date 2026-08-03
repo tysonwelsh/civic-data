@@ -1,6 +1,62 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2009-09-20",
+   "donor_raw": "Equality Utah",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,23.80,84.00,3.20@p3",
+   "note": "the Complete Mailing Address cell IS filled on this row; per PRIVACY only the city and state are recorded and the street line and zip were discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2009-01-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.00,26.10,78.00,3.20@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-03-02",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.00,30.10,78.00,3.20@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-12-31",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bank Fees",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.00,33.95,78.00,3.20@p4"
+  }
+ ],
  "total_contributions": "100.00",
  "total_expenditures": "68.00",
  "beginning_balance": "12.49",
@@ -49,6 +105,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Clean, fully legible filing. Neither amendment box is checked. The form has both an 'Office' box ('County Council') and an 'Office Sought' box ('Council'); the At-Large seat letter sits in the District Number box ('At Large B'). Signed 2/1/10 and clerk-stamped FEB 01 2010, so this is the year-end report for calendar 2009. Form arithmetic checks out (12.49 + 100.00 = 112.49; 112.49 - 68.00 = 44.49)."
+  "notes": "Clean, fully legible filing. Neither amendment box is checked. The form has both an 'Office' box ('County Council') and an 'Office Sought' box ('Council'); the At-Large seat letter sits in the District Number box ('At Large B'). Signed 2/1/10 and clerk-stamped FEB 01 2010, so this is the year-end report for calendar 2009. Form arithmetic checks out (12.49 + 100.00 = 112.49; 112.49 - 68.00 = 44.49).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "100.00",
+     "itemized": "100.00",
+     "result": "exact",
+     "detail": "exact (100.00 = 100.00); the single row equals the printed SUBTOTAL FOR THIS PAGE 100.00 and TOTAL CONTRIBUTIONS RECEIVED 100.00, matching Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "68.00",
+     "itemized": "68.00",
+     "result": "exact",
+     "detail": "exact (68.00 = 68.00); 3 rows (4.00 + 4.00 + 60.00) equal the printed SUBTOTAL 68.00 and TOTAL 68.00, matching Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 100.00 = printed SUBTOTAL 100.00 (fires); p4 rows 68.00 = printed SUBTOTAL 68.00 (fires). On both pages the schedule TOTAL equals the single page subtotal.",
+   "escalations": 0,
+   "escalation_note": "none - a clean, well-spaced cursive hand with only four rows in the whole filing; every value read unambiguously at 200 dpi and both page gates closed on the first read.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Jennifer Wilson, County Council, Year-End; the schedule pages are self-dated 'Feb 1, 2010' and paginated 'Page 2 of 3' / 'Page 3 of 3' by the filer, while the PDF has 4 pages - the filer did not count the cover). Older form variant (footer 04pccfindisc.doc). ONE contribution and THREE expenditures. This is the only filing so far in this chunk where the Complete Mailing Address column is actually FILLED IN: it reads '175 W. 200 S. / SLC, UT 84111'. Per the privacy rule the street line and zip were discarded at read time and only city='SLC' and state='UT' are recorded - the street was never written into any field, note or file. All three expenditure dates fall inside 2009 while the report is signed Feb 2010, which is correct for a year-end report."
+  }
  }
 }

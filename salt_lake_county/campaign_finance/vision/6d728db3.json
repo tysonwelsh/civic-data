@@ -1,6 +1,206 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-11",
+   "donor_raw": "CANDIDATE",
+   "amount": "3,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,22.00,83.40,3.50@p3",
+   "note": "candidate loan - the Address cell reads 'LOAN' with an arrow drawn across the occupation column; this row is NOT redacted (the black bar starts at row 2)"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-11",
+   "donor_raw": "Foley & Assoc.",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,25.25,83.40,3.75@p3",
+   "note": "occupation/employer 'ATTORNEYS'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-11",
+   "donor_raw": "JEFF KING",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,29.00,83.40,4.25@p3",
+   "note": "occupation/employer 'STAFF ASSISTANT / CROSSROADS MEDIA' (employer word partly overwritten); address redacted (county black bar)"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-05-08",
+   "donor_raw": "DOLAN 2010",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,33.25,83.40,4.25@p3",
+   "note": "a candidate committee; occupation/employer cell reads 'MAYOR OF SANDY'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-08",
+   "donor_raw": "MEGAN DUBOIS",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,37.50,83.40,4.00@p3",
+   "note": "occupation 'HOMEMAKER'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-06-04",
+   "donor_raw": "REAGAN & ASSOC.",
+   "amount": "2,330",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,41.50,83.40,4.00@p3",
+   "note": "occupation 'ADVERTISING'; the same vendor takes an equal 2,330 expenditure on p4 line 6; address redacted (county black bar)"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-06-04",
+   "donor_raw": "SALT LAKE BOARD OF REALTORS",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,45.50,83.40,4.00@p3",
+   "note": "name written on two lines; occupation 'REALTORS'; address redacted (county black bar)"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-06-11",
+   "donor_raw": "GORDON WALKER",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,49.50,83.40,3.75@p3",
+   "note": "occupation 'DIRECTOR D.C.C.'; address redacted (county black bar)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-05",
+   "vendor_raw": "STARLIGHT TECH.",
+   "purpose": "WEB",
+   "amount": "79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,23.25,77.20,3.75@p4",
+   "note": "vendor written over a struck-through word"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-05",
+   "vendor_raw": "SLCO GOP",
+   "purpose": "CONVENTION BOOTH",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,27.00,77.20,3.75@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-13",
+   "vendor_raw": "EAGLE DIRECT",
+   "purpose": "MAIL",
+   "amount": "1,036.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,30.75,77.20,4.00@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-13",
+   "vendor_raw": "FAST SIGNS",
+   "purpose": "BANNER",
+   "amount": "221.18",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,34.75,77.20,4.00@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-11",
+   "vendor_raw": "SPEAK BY DESIGN",
+   "purpose": "PRINTING",
+   "amount": "514.10",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,38.75,77.20,4.25@p4",
+   "note": "vendor's fourth letter is ambiguous: SPEAK BY DESIGN / SPEAR BY DESIGN"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-06-04",
+   "vendor_raw": "REAGAN",
+   "purpose": "ADVERTISING",
+   "amount": "2,330",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,43.00,77.20,4.00@p4",
+   "note": "matches the 2,330 Reagan & Assoc. contribution on p3 line 6 - the filer recorded the advertising both as received and as spent"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-06-18",
+   "vendor_raw": "FACEBOOK.COM",
+   "purpose": "ADVERTISING",
+   "amount": "242.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,47.00,77.20,3.75@p4"
+  }
+ ],
  "total_contributions": "7,380",
  "total_expenditures": "4,923.01",
  "beginning_balance": "1,288.40",
@@ -49,6 +249,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Single office line on this 2012 form: 'COUNCIL' in Office Sought and 'AT-LARGE' in District Number, recorded verbatim. Contribution amounts are written without cents (7,380 / 9,460). Neither amendment box is checked. Clerk RECEIVED stamp JUN 19 2012. Line 3 ($1,288.40) carries forward from the AMENDED April report's line 7, not the original April report's $1,548.14 - the filer used the amended figure. Arithmetic is internally consistent and Column B equals the April amendment's aggregates plus this period."
+  "notes": "Single office line on this 2012 form: 'COUNCIL' in Office Sought and 'AT-LARGE' in District Number, recorded verbatim. Contribution amounts are written without cents (7,380 / 9,460). Neither amendment box is checked. Clerk RECEIVED stamp JUN 19 2012. Line 3 ($1,288.40) carries forward from the AMENDED April report's line 7, not the original April report's $1,548.14 - the filer used the amended figure. Arithmetic is internally consistent and Column B equals the April amendment's aggregates plus this period.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,380",
+     "itemized": "7380",
+     "result": "exact",
+     "detail": "exact (7380 = 7,380); p3 SUBTOTAL and TOTAL both print 7380"
+    },
+    "expenditures": {
+     "stated": "4,923.01",
+     "itemized": "4923.01",
+     "result": "exact",
+     "detail": "exact (4923.01 = 4,923.01); p4 SUBTOTAL and TOTAL both print 4,923.01"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 7380 = printed SUBTOTAL 7380 (gate PASS); p4 rows sum 4923.01 = printed SUBTOTAL 4,923.01 (gate PASS)",
+   "escalations": 0,
+   "escalation_note": "no cell was in doubt on the amount side; both pages gated exactly at 200dpi",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Joe Demma, County Council At-Large C, June 2012 interim; block-capital hand, clean scan. The 2012 form titles the schedules 'Itemized Contributions Received' / 'Itemized Expenditures Made' (no 'Schedule A/B' heading) - same table. COUNTY REDACTION: the Complete Mailing Address column is covered by a solid BLACK BAR for contribution rows 2-8, so donor_city/donor_state are blank and each row says 'redacted' (this is the county's redaction, not a filer omission). Contribution row 1 is a CANDIDATE LOAN: the name cell reads 'CANDIDATE' and the address cell reads 'LOAN' with an arrow drawn across to the occupation column. Contribution amounts are written without cents (e.g. '3,000') and are transcribed verbatim."
+  }
  }
 }

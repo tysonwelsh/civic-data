@@ -1,6 +1,248 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-20",
+   "donor_raw": "Alliant Tech Systems",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:84.08,6.75,2.07,85.25@p4",
+   "note": "the attachment has SEPARATE Address / City / ST / Zip columns; the Address and CITY cells were left EMPTY by the filer while ST ('UT') and Zip were filled, so donor_state is recorded and donor_city is honestly blank. The zip is outside the permitted geography and is not recorded. Occupation/Employer cell also left blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-10-10",
+   "donor_raw": "Alliant Tech Systems",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:81.69,6.75,2.07,85.25@p4",
+   "note": "the attachment has SEPARATE Address / City / ST / Zip columns; the Address and CITY cells were left EMPTY by the filer while ST ('UT') and Zip were filled, so donor_state is recorded and donor_city is honestly blank. The zip is outside the permitted geography and is not recorded. Occupation/Employer cell also left blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-02-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:83.63,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:81.17,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-09",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Precinct Schedule",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:78.71,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-03",
+   "vendor_raw": "Best of State",
+   "purpose": "Nomination Fee",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:76.25,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-04-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:73.79,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-04-27",
+   "vendor_raw": "Janice Auger Campaign",
+   "purpose": "Donation",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:71.34,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-05-04",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:68.88,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-05",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:66.42,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-06-12",
+   "vendor_raw": "Best of State",
+   "purpose": "Award Banquet",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:63.96,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 10,
+   "date": "2006-06-20",
+   "vendor_raw": "Hunter Cyprus Baseball",
+   "purpose": "Donation",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:61.50,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 11,
+   "date": "2006-07-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:59.04,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 12,
+   "date": "2006-07-03",
+   "vendor_raw": "Costco",
+   "purpose": "Storage Shed",
+   "amount": "639.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:56.58,6.50,2.07,60.75@p6"
+  },
+  {
+   "line_no": 13,
+   "date": "2006-07-06",
+   "vendor_raw": "Emergency Responders of Ut",
+   "purpose": "Donation",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:54.12,6.50,2.07,60.75@p6",
+   "note": "recipient name 'Emergency Responders of Ut' runs into the Purpose column and is clipped at the cell edge as printed"
+  },
+  {
+   "line_no": 14,
+   "date": "2006-10-12",
+   "vendor_raw": "Brookstone",
+   "purpose": "Campaign Materials",
+   "amount": "42.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:51.66,6.50,2.07,60.75@p6",
+   "note": "purpose 'Campaign Materials' is clipped at the cell edge as printed"
+  },
+  {
+   "line_no": 15,
+   "date": "2006-10-13",
+   "vendor_raw": "Colonial Flag",
+   "purpose": "Campaign Materials",
+   "amount": "53.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:49.21,6.50,2.07,60.75@p6",
+   "note": "purpose 'Campaign Materials' is clipped at the cell edge as printed"
+  },
+  {
+   "line_no": 16,
+   "date": "2006-10-27",
+   "vendor_raw": "Emergency Responders of Ut",
+   "purpose": "Donation",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:46.75,6.50,2.07,60.75@p6",
+   "note": "recipient name 'Emergency Responders of Ut' runs into the Purpose column and is clipped at the cell edge as printed"
+  }
+ ],
  "total_contributions": "$1,000.00",
  "total_expenditures": "$2,615.83",
  "beginning_balance": "$6,338.28",
@@ -49,6 +291,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TYPEWRITTEN on the 2006 form; Year-End (January 31) checked and the amendment 'No' box checked. Signed 1/30/07, clerk-stamped JAN 30 2007 - the year-end report covering calendar 2006. Line 3 (6,338.28) matches Line 7 of this candidate's prior year-end report; Lines 3+4=5 and 5-6=7 reconcile exactly."
+  "notes": "TYPEWRITTEN on the 2006 form; Year-End (January 31) checked and the amendment 'No' box checked. Signed 1/30/07, clerk-stamped JAN 30 2007 - the year-end report covering calendar 2006. Line 3 (6,338.28) matches Line 7 of this candidate's prior year-end report; Lines 3+4=5 and 5-6=7 reconcile exactly.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$1,000.00",
+     "itemized": "1000.00",
+     "result": "exact",
+     "detail": "exact (1000.00 = 1000.00). The 2 attachment rows sum to 1000.00 = the attachment's printed 'Total Contributions' $1,000.00 = the Schedule A form's printed TOTAL CONTRIBUTIONS RECEIVED $1,000.00 = Summary Page line 1 Column A. Three printed figures agree."
+    },
+    "expenditures": {
+     "stated": "$2,615.83",
+     "itemized": "2615.83",
+     "result": "exact",
+     "detail": "exact (2615.83 = 2615.83). The 16 attachment rows sum to 2615.83 = the attachment's printed 'Total Expenditures' $2,615.83 = the Schedule B form's printed TOTAL EXPENDITURES MADE $2,615.83 = Summary Page line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "Both SUBTOTAL FOR THIS PAGE cells were left blank on the printed forms, but each form's TOTAL cell IS filled and each attachment prints its own Total line, so there are two independent gates per side and all four fired and passed: contributions rows 1000.00 = attachment Total 1,000.00 = form TOTAL 1,000.00; expenditures rows 2615.83 = attachment Total 2,615.83 = form TOTAL 2,615.83.",
+   "escalations": 1,
+   "escalation_note": "pages 4 and 6 re-rendered at 300 dpi and rotated 90 deg counter-clockwise with PIL (clockwise came out upside down); geometry percentages converted back to the portrait page as poppler renders it",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 16,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TYPEWRITTEN 2006 form. p3 is Schedule A and p5 is Schedule B, each carrying the single typed line 'See Attachment' in the first data row and a filled TOTAL cell; both header boxes (Page / Last Name / Date of Report) were left BLANK on both schedule pages. The itemization is on two LANDSCAPE typed attachments - p4 (contributions) and p6 (expenditures) - so their geometry percentages were converted back to the portrait page as poppler renders it. Both attachments print their own Total line and both agree with the form and with the Summary Page. The contributions attachment carries dedicated Address / City / ST / Zip columns of which only ST and Zip were filled, which is why donor_state is populated but donor_city is blank. The whole contribution side is TWO $500 payments from one corporate donor. Several expenditures are DONATIONS OUT to other campaigns and charities (Janice Auger Campaign, Hunter Cyprus Baseball, Emergency Responders of Ut) - recorded as expenditures because that is where the form puts them."
+  }
  }
 }

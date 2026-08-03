@@ -50,6 +50,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BUNDLE: 5-page packet = the older (pre-2006) 'Financial Disclosure Report For a Candidate' whose title carries no year (interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general), with the separate one-page 'Dissolution of a Candidate Campaign' notice as page 5 (committee 'Lee Gardner Campaign', secretary Pete Lund, committee established March 1994, signed 3-21-05). The FINAL REPORT box is checked AND the amendment 'Yes' box is checked with date of report 1-29-05. All Summary Page cells are slashed zeros; Column B is headed 'Year-to-Date Total' on this older form. A handwritten note under the table reads: 'The <$413.85> reflected on Report dated Dec. 3, 2002 represents a loan from Lee Gardner to the Lee Gardner Campaign.'"
+  "notes": "BUNDLE: 5-page packet = the older (pre-2006) 'Financial Disclosure Report For a Candidate' whose title carries no year (interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general), with the separate one-page 'Dissolution of a Candidate Campaign' notice as page 5 (committee 'Lee Gardner Campaign', secretary Pete Lund, committee established March 1994, signed 3-21-05). The FINAL REPORT box is checked AND the amendment 'Yes' box is checked with date of report 1-29-05. All Summary Page cells are slashed zeros; Column B is headed 'Year-to-Date Total' on this older form. A handwritten note under the table reads: 'The <$413.85> reflected on Report dated Dec. 3, 2002 represents a loan from Lee Gardner to the Lee Gardner Campaign.'",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) has no line items; the filer wrote the word 'None' in the first Name of Contributor cell and left SUBTOTAL and TOTAL blank. Zero rows against the Summary Page's slashed-zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B (p4) likewise carries only the word 'None' in the first Name of Recipient cell, SUBTOTAL and TOTAL blank. Zero rows against the Summary Page's slashed-zero."
+    }
+   },
+   "page_subtotal_gates": "Neither schedule prints a subtotal or a total (both cells empty), so no page-subtotal gate exists here; the schedules are voided with the word 'None' instead. That is the one gate that could not fire and the reason is an empty schedule.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FINAL / dissolution filing for Lee Gardner (Assessor), signed 3-21-05 and stamped RECEIVED MAR 21 2005; p5 is the separate 'Dissolution of a Candidate Campaign' notice (committee established March 1994, secretary Pete Lund). BOTH schedules are empty and voided with the handwritten word 'None'; every Summary Page cell carries a slashed zero. This is a real zero-activity closing report, not a gap. The Summary Page also carries a handwritten explanatory note - 'The ($413.85) reflected on Report dated Dec. 3, 2002 represents a loan from Lee Gardner to the Lee Gardner Campaign' - which refers to a PRIOR report and is NOT a line item of this filing, so it is not transcribed as a row."
+  }
  }
 }

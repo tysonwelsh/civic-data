@@ -1,6 +1,139 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2009-08-12",
+   "donor_raw": "Jani Iwamoto",
+   "amount": "142.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.92,24.85,84.80,3.83@p4",
+   "note": "candidate self-contribution; amount written with a raised '$' before the figure; Occupation/Employer='Council'; mailing-address cell redacted (white block)"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-09-12",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.92,28.65,84.80,3.83@p4",
+   "note": "Occupation/Employer='County Council'; mailing-address cell redacted (white block)"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-10-12",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.92,32.50,84.80,3.83@p4",
+   "note": "Occupation/Employer='County Council'; mailing-address cell redacted (white block)"
+  },
+  {
+   "line_no": 4,
+   "date": "2009-11-12",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.92,36.35,84.80,3.83@p4",
+   "note": "Occupation/Employer='County Council'; mailing-address cell redacted (white block)"
+  },
+  {
+   "line_no": 5,
+   "date": "2009-12-12",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.92,40.15,84.80,3.83@p4",
+   "note": "Occupation/Employer='County Council'; mailing-address cell redacted (white block); row 5 fell outside the 600 dpi verification band"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2009-08-12",
+   "vendor_raw": "Network Solution",
+   "purpose": "Website",
+   "amount": "30.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.80,27.85,76.70,3.90@p3",
+   "note": "amount written with a raised '$' before the figure"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-09-12",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Website",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.80,31.75,76.70,3.90@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-10-12",
+   "vendor_raw": "Network Solution",
+   "purpose": "Website",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.80,35.60,76.70,3.90@p3"
+  },
+  {
+   "line_no": 4,
+   "date": "2009-11-12",
+   "vendor_raw": "Network Solution",
+   "purpose": "Website",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.80,39.50,76.70,3.90@p3"
+  },
+  {
+   "line_no": 5,
+   "date": "2009-12-12",
+   "vendor_raw": "Network Solution",
+   "purpose": "Website",
+   "amount": "11.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.80,43.30,76.70,3.90@p3"
+  }
+ ],
  "total_contributions": "190.50",
  "total_expenditures": "78.70",
  "beginning_balance": "0",
@@ -49,6 +182,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 78.70 but Column B reads 78.78 - re-rendered at 600 dpi to confirm the final digit really differs (a clean '0' in A, a knotted '8' in B). Since this is the campaign's first period (Line 3 beginning balance is a slashed zero) the two columns should agree; the form's own figures are recorded, not reconciled. The cover's signature Date rule is BLANK; the Summary Page's Date-of-Report box reads 'Jan 31 '10' and the clerk stamp is FEB 01 2010, so this is the year-end report for calendar 2009. The form has both an 'Office' box ('County Council #4') and an 'Office Sought' box ('Council'); Office Sought is used per contract. Line 7 (111.80) = 190.50 - 78.70."
+  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 78.70 but Column B reads 78.78 - re-rendered at 600 dpi to confirm the final digit really differs (a clean '0' in A, a knotted '8' in B). Since this is the campaign's first period (Line 3 beginning balance is a slashed zero) the two columns should agree; the form's own figures are recorded, not reconciled. The cover's signature Date rule is BLANK; the Summary Page's Date-of-Report box reads 'Jan 31 '10' and the clerk stamp is FEB 01 2010, so this is the year-end report for calendar 2009. The form has both an 'Office' box ('County Council #4') and an 'Office Sought' box ('Council'); Office Sought is used per contract. Line 7 (111.80) = 190.50 - 78.70.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "190.50",
+     "itemized": "190.50",
+     "result": "exact",
+     "detail": "exact (5 rows sum 190.50 = printed SUBTOTAL FOR THIS PAGE 190.50 = printed TOTAL CONTRIBUTIONS RECEIVED 190.50 = stated 190.50)"
+    },
+    "expenditures": {
+     "stated": "78.70",
+     "itemized": "78.70",
+     "result": "exact",
+     "detail": "exact (5 rows sum 78.70 = printed SUBTOTAL FOR THIS PAGE 78.70 = printed TOTAL EXPENDITURES MADE 78.70 = stated 78.70)"
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule A) rows sum 190.50 = printed subtotal 190.50 GATE PASS; p3 (Schedule B) rows sum 78.70 = printed subtotal 78.70 GATE PASS",
+   "escalations": 1,
+   "escalation_note": "p4 Date Received column re-rendered as a 600 dpi tight crop (rows 1-4) to settle whether the middle group was '10' or '12' - this filer writes 2 as a script 'a'; every row reads 12",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "SCHEDULE A AND B ARE SWAPPED IN THE PDF: PDF page 3 is Schedule B (the filer's own page header reads 'Page 2 of 3') and PDF page 4 is Schedule A ('Page 3 of 3'). The Complete Mailing Address column on Schedule A is covered by a solid WHITE redaction block applied by the county over all five rows - a redacted block, not an empty column - so donor_city/donor_state are blank on every contribution row. Schedule A carries an Occupation/Employer column with no schema field here, so each value is preserved verbatim in the row note. Both sides reconcile exactly."
+  }
  }
 }

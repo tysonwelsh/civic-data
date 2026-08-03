@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-02-01",
+   "vendor_raw": "JEFF ALLEN",
+   "purpose": "REPAYMENT OF LOAN TO CAMPAIGN",
+   "amount": "7,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.57,26.00,77.33,3.94@p4",
+   "note": "date cell reads '2-1-08'; amount written '$7,500' with no cents - both re-read in 600 dpi cell crops"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "$7,500",
  "beginning_balance": "7,793,86",
@@ -49,6 +64,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "DECIMAL COMMA throughout the balance section: Lines 3 and 5 are written '7,793, 86' and Line 7 is written '43, 86' - a comma, not a period, before the cents; recorded exactly as written (spacing normalised only). ARITHMETIC ERROR ON THE FORM, kept verbatim: Line 5 minus Line 6 is 7,793.86 - 7,500.00 = 293.86, but the filer wrote 43,86 on Line 7 (the leading digits appear to have been dropped). Lines 1 and 4 Column A and Line 1 Column B are slashed zeros. Line 2 is '$7,500' with no cents in both columns; Line 6 restates it as '7,500.' with a raised '00'."
+  "notes": "DECIMAL COMMA throughout the balance section: Lines 3 and 5 are written '7,793, 86' and Line 7 is written '43, 86' - a comma, not a period, before the cents; recorded exactly as written (spacing normalised only). ARITHMETIC ERROR ON THE FORM, kept verbatim: Line 5 minus Line 6 is 7,793.86 - 7,500.00 = 293.86, but the filer wrote 43,86 on Line 7 (the leading digits appear to have been dropped). Lines 1 and 4 Column A and Line 1 Column B are slashed zeros. Line 2 is '$7,500' with no cents in both columns; Line 6 restates it as '7,500.' with a raised '00'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact: Schedule A (p3) carries NO itemized lines - the whole grid is struck through with one diagonal pen line and both the SUBTOTAL and TOTAL cells hold a hand-drawn slashed zero (verified in a 600 dpi crop). Per the repo ZERO-GLYPH RULING that glyph is 0, and it agrees with the Summary Page's stated 0"
+    },
+    "expenditures": {
+     "stated": "$7,500",
+     "itemized": "7,500",
+     "result": "exact",
+     "detail": "exact (7,500 = $7,500); the single row, the page SUBTOTAL and the TOTAL all read 7,500"
+    }
+   },
+   "page_subtotal_gates": "p3 rows (none) = printed subtotal \u00d8 (=0); p4 rows 7,500 = printed subtotal 7,500 - both gate",
+   "escalations": 3,
+   "escalation_note": "600 dpi cell crops: p4 date+recipient, p4 amount, p3 subtotal/total slashed-zero cells",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page year-end filing (form dated 1-31-09, covering 2008): p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. SCHEDULE A IS A REAL ZERO, NOT A GAP: the printed grid is empty, crossed out with a single diagonal line, and its subtotal/total cells hold slashed zeros. Schedule B carries exactly ONE line - a $7,500 repayment of the candidate's own loan to himself. The amount is written '$7,500' with no cents. The Schedule B page numbering box reads 'page 3 of 3' while the PDF has 4 pages (the cover is unnumbered)."
+  }
  }
 }

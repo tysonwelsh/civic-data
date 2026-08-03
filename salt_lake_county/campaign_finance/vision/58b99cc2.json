@@ -1,6 +1,203 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Guardian Title Co",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,23.80,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; DATE NOT PARSEABLE: printed '2? Jul '06' - the second digit of the day is overwritten in a second ink. Escalated to a 1200 dpi tight cell crop and still unresolvable (8 / 0 / 4 all plausible). Month and year are clearly July 2006 but the DAY is not, so the whole date is left BLANK rather than partly invented; no arithmetic identity constrains a date"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-07-25",
+   "donor_raw": "Landmark Title Co",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,27.60,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-20",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,31.10,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; name is written across two lines, 'Salt Lake' above 'Board of Realtors'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-08-15",
+   "donor_raw": "Mike Montgomery",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,35.20,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-08",
+   "donor_raw": "Z. Johanson",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,39.20,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; Occupation cell has a struck-through 'Deputy Recorder' above the surviving 'SL County' - the strike is retained as an observation only (occupation is not a transcribed field)"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-02",
+   "donor_raw": "Gary Ott",
+   "amount": "28.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,43.10,83.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; the candidate's own contribution. Occupation cell has a struck-through 'County Recorder' above the surviving 'SL County'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-07-11",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,25.10,80.00,3.60@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-08-08",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,29.10,80.00,3.60@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-10",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,32.80,80.00,3.60@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-24",
+   "vendor_raw": "Harmons",
+   "purpose": "Candy",
+   "amount": "191.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,37.00,80.00,3.60@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-07-16",
+   "vendor_raw": "Harmons",
+   "purpose": "Stamps",
+   "amount": "39.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,41.00,80.00,3.60@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-08-19",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & supplies",
+   "amount": "103.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,44.90,80.00,3.60@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-08-20",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & wire ties",
+   "amount": "50.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,48.70,80.00,3.60@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-09-04",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & supplies",
+   "amount": "97.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,52.30,80.00,3.60@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-09-06",
+   "vendor_raw": "Imagino's Signs",
+   "purpose": "signs (expenditure from in-kind donation)",
+   "amount": "1,439.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,60.50,80.00,3.60@p4",
+   "note": "Purpose cell reads 'signs' with '(expenditure from in-kind donation)' written above it in the same hand; the parenthetical describes the FUNDING SOURCE of this expenditure, so in_kind is NOT set on the expenditure row - the document does not mark this row itself as an in-kind expenditure, and it DOES count toward the printed expenditure total"
+  }
+ ],
  "total_contributions": "2928.70",
  "total_expenditures": "1931.75",
  "beginning_balance": "8932.01",
@@ -49,6 +246,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Amendment: the September 15 interim box AND the amendment 'Yes' box are both checked, but the 'date of report' blank next to Yes was left empty. Cover is signed 22 Sept 06 while the Summary Page 'Date of Report' box still reads 15 Sept '06. This is the undated-title form ('Financial Disclosure Report', no year), so form_year is empty. The Summary Page figures are IDENTICAL to the original September filing (gott_sept152006.pdf) including the same $100 Line 5 discrepancy (8932.01 + 2928.70 = 11,860.71 but Line 5 reads 11,760.71) \u2014 the amendment evidently changed the schedules, not the totals."
+  "notes": "Amendment: the September 15 interim box AND the amendment 'Yes' box are both checked, but the 'date of report' blank next to Yes was left empty. Cover is signed 22 Sept 06 while the Summary Page 'Date of Report' box still reads 15 Sept '06. This is the undated-title form ('Financial Disclosure Report', no year), so form_year is empty. The Summary Page figures are IDENTICAL to the original September filing (gott_sept152006.pdf) including the same $100 Line 5 discrepancy (8932.01 + 2928.70 = 11,860.71 but Line 5 reads 11,760.71) \u2014 the amendment evidently changed the schedules, not the totals.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2928.70",
+     "itemized": "2,928.70",
+     "result": "exact",
+     "detail": "exact (2,928.70 = 2,928.70); 6 rows sum to the handwritten TOTAL CONTRIBUTIONS RECEIVED 2,928.70, which equals Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "1931.75",
+     "itemized": "1,931.75",
+     "result": "exact",
+     "detail": "exact (1,931.75 = 1,931.75); 9 rows sum to the handwritten TOTAL EXPENDITUTRES MADE $1,931.75"
+    }
+   },
+   "page_subtotal_gates": "Both pages leave 'SUBTOTAL FOR THIS PAGE' EMPTY and fill only the TOTAL row; both pages are hand-marked 'Page 1 of 1' so the TOTAL is the page gate. p3 rows 2,928.70 = printed TOTAL 2,928.70; p4 rows 1,931.75 = printed TOTAL 1,931.75. Both close to the cent, and that is what settled several handwritten digits: it confirms Guardian Title Co = 100.00 (not 400/700), Gary Ott = 28.70, Home Depot = 103.89 (not 103.99), Harmons = 191.88 and Imagino's Signs = 1,439.10.",
+   "escalations": 2,
+   "escalation_note": "600 dpi tight crop of the p3 Date+Name columns (to settle 'Z. Johanson' and the row-1 day-of-month), then a 1200 dpi crop of the single row-1 date cell. The name resolved ('Johanson', with an a); the DAY DID NOT - it is overwritten in a second ink and stays unresolved, so that date is blank + needs_review rather than guessed.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page handwritten filing (Gary Ott, Recorder, report dated 15 Sept '06; the listing calls it an amendment). p1 cover, p2 Summary Page, p3 Schedule A (6 rows), p4 Schedule B (9 rows). Entirely handwritten in ink on the county form and both sides reconcile to the cent, which is the strongest evidence available for the individual digits. The 'Complete Mailing Address' column is blank on every row - the FILER left it empty, this is not a county redaction, so no donor city/state exists here and none was invented. Two Schedule A occupation cells carry a struck-through job title over a surviving employer ('Deputy Recorder' -> 'SL County'; 'County Recorder' -> 'SL County'); occupation is not a transcribed field but the strikes are recorded as observations. Schedule B's last row (Imagino's Signs, $1,439.10) has '(expenditure from in-kind donation)' written above the purpose - that annotates where the money came from, not that the expenditure itself is in-kind, and the row is required for the total to close, so in_kind is left FALSE and the annotation is carried verbatim in the row note. ONE date could not be read: Schedule A row 1 prints '2? Jul '06' with the day's second digit overwritten in a second ink; it survived a 1200 dpi cell crop unresolved and is left BLANK with needs_review=1."
+  }
  }
 }

@@ -1,6 +1,169 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-08-14",
+   "donor_raw": "In-kind Ad expenditure, Libertarian Party",
+   "amount": "257.14",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.85,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; Occupation & Employer cell: 'Political Party'; IN-KIND: the marker is written into the NAME cell itself ('In-kind ...'), and the matching outgoing side is the Schedule B row of the same date and amount, also marked '(in-kind)'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-09",
+   "donor_raw": "In-kind Internet, Kelton Baker",
+   "amount": "12.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.80,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; Occupation & Employer cell: 'Real Estate Agent/ Insight Realty'; IN-KIND: the marker is written into the NAME cell itself ('In-kind ...'), and the matching outgoing side is the Schedule B row of the same date and amount, also marked '(in-kind)'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-10-17",
+   "donor_raw": "In-kind Ad expenditure, Libertarian Party",
+   "amount": "157.69",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:16.75,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; Occupation & Employer cell: 'Political Party'; IN-KIND: the marker is written into the NAME cell itself ('In-kind ...'), and the matching outgoing side is the Schedule B row of the same date and amount, also marked '(in-kind)'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-17",
+   "donor_raw": "In-kind mailing campaign, Kelton Baker",
+   "amount": "151.39",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:18.70,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; Occupation & Employer cell: 'Real Estate Agent/ Insight Realty'; IN-KIND: the marker is written into the NAME cell itself ('In-kind ...'), and the matching outgoing side is the Schedule B row of the same date and amount, also marked '(in-kind)'"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-30",
+   "donor_raw": "In-kind travel expenses, Kelton Baker",
+   "amount": "117.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:20.65,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; Occupation & Employer cell: 'Real Estate Agent/ Insight Realty'; IN-KIND: the marker is written into the NAME cell itself ('In-kind ...'), and the matching outgoing side is the Schedule B row of the same date and amount, also marked '(in-kind)'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-30",
+   "amount": "109.97",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=n/a;amount=high",
+   "verified": 0,
+   "geometry": "pct:22.61,29.60,1.95,57.10@p3",
+   "note": "the attachment's Complete Mailing Address column is present but EMPTY on every row, so no city or state exists to record; AGGREGATE / UNNAMED row: the name cell reads 'Contributions, $50 & under'. donor_raw left blank per the blank-donor convention"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-08-14",
+   "vendor_raw": "Newspaper Agency Corp.",
+   "purpose": "Ad in newspaper",
+   "amount": "257.14",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,23.70,75.00,3.80@p4",
+   "note": "date printed '8/14/06'; IN-KIND: '(in-Kind)' is written above the recipient name in the same cell; mirrors the Schedule A in-kind row of the same date and amount"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-09",
+   "vendor_raw": "www.Purimblog.org",
+   "purpose": "Webspace publicity",
+   "amount": "12.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,27.60,75.00,3.80@p4",
+   "note": "date printed '9/09/06'; IN-KIND: '(in-Kind)' is written above the recipient name in the same cell; mirrors the Schedule A in-kind row of the same date and amount"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-10-17",
+   "vendor_raw": "Newspaper Agency Corp",
+   "purpose": "Ad in newspaper",
+   "amount": "157.69",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,31.50,75.00,3.80@p4",
+   "note": "date printed '10/17/06'; IN-KIND: '(in-Kind)' is written above the recipient name in the same cell; mirrors the Schedule A in-kind row of the same date and amount"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-17",
+   "vendor_raw": "Staples office supply",
+   "purpose": "Mailing materials",
+   "amount": "151.39",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,35.40,75.00,3.80@p4",
+   "note": "date printed '10/17/06'; IN-KIND: '(in-Kind)' is written above the recipient name in the same cell; mirrors the Schedule A in-kind row of the same date and amount"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-30",
+   "vendor_raw": "Various; principally gas stations",
+   "purpose": "travel expenses, April-Oct.",
+   "amount": "117.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,39.30,75.00,3.80@p4",
+   "note": "date printed '10/30/06'; IN-KIND: '(in-Kind)' is written above the recipient name in the same cell; mirrors the Schedule A in-kind row of the same date and amount"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-04-01",
+   "vendor_raw": "KELTON BAKER",
+   "purpose": "Payment of loan",
+   "amount": "570.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.80,43.20,75.00,3.80@p4",
+   "note": "date printed '4/1/06'; recipient is the CANDIDATE HIMSELF (block capitals) - repayment of a campaign loan, printed out of date order at the foot of the page. This is the row the filer's own correction adds in below"
+  }
+ ],
  "total_contributions": "805.19",
  "total_expenditures": "1265.22",
  "beginning_balance": "570.00",
@@ -51,6 +214,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Scanned 5-page filing; the Summary Page is page 5 (page 2 is Schedule A, page 4 Schedule B). Line 2 Column A is heavily overwritten in bold pen (an earlier figure written over to read 1265.22, matching Line 6's clearly written 1,265.22) - recorded at medium confidence. Schedule B (page 4) shows the same rewrite: 895.22 struck and re-added to 1,265.22 with +570.00. Lines 3+4=5 and 5-6=7 reconcile exactly."
+  "notes": "Scanned 5-page filing; the Summary Page is page 5 (page 2 is Schedule A, page 4 Schedule B). Line 2 Column A is heavily overwritten in bold pen (an earlier figure written over to read 1265.22, matching Line 6's clearly written 1,265.22) - recorded at medium confidence. Schedule B (page 4) shows the same rewrite: 895.22 struck and re-added to 1,265.22 with +570.00. Lines 3+4=5 and 5-6=7 reconcile exactly.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "2 (form, 'See attached list for itemized list') + 3 (the attached 'schedule A itemized list', LANDSCAPE)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "805.19",
+     "itemized": "805.19",
+     "result": "exact",
+     "detail": "exact (805.19 = 805.19); the 6 attachment rows equal the Schedule A form's printed TOTAL CONTRIBUTIONS RECEIVED 805.19 and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "1265.22",
+     "itemized": "1265.22",
+     "result": "exact",
+     "detail": "exact (1265.22 = 1,265.22); the 6 Schedule B rows equal the CORRECTED total. The printed TOTAL cell originally read 805.19, was STRUCK THROUGH on the page, and the filer worked the correction in the right margin - '695.22 + 570.00 = 1,265.22' - circling $1,265.22 below the table. Both the marginal working and the row sum agree, and 1,265.22 is what Summary line 2 carries."
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A form): SUBTOTAL FOR THIS PAGE left BLANK; the printed TOTAL 805.19 gated instead and closed EXACTLY against the 6 attachment rows. p3 (the attachment) prints no total of its own. p4 (Schedule B): SUBTOTAL FOR THIS PAGE left BLANK and the printed TOTAL was struck through; the gate that fired is the filer's own corrected figure 1,265.22, which the 6 rows meet EXACTLY and which the filer's marginal arithmetic (695.22 for the five in-kind rows, plus the 570.00 loan repayment) reproduces line for line.",
+   "escalations": 0,
+   "escalation_note": "None needed - the in-kind rows are legible and every figure is pinned by an arithmetic identity (the Schedule A total, the filer's own marginal 695.22 + 570.00 = 1,265.22, and both Summary lines).",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "5-page filing in NON-STANDARD PAGE ORDER: p1 cover, p2 Schedule A form, p3 the attached 'schedule A itemized list' (a LANDSCAPE typed table, hand-labelled 'Page 2'), p4 Schedule B, and THE SUMMARY PAGE IS PAGE 5, not page 2. FIVE of the six contributions are IN-KIND and each has a matching in-kind expenditure of the same date and amount, so the same five transactions sit on both sides and inside both totals; three of the five in-kind contributions are from the candidate himself. A CLERK/FILER CORRECTION IS VISIBLE ON THE PAGE: Schedule B's printed TOTAL 805.19 is struck through and replaced, in the right margin, by '695.22 + 570.00 = 1,265.22' with $1,265.22 circled - the corrected figure is the one that matches the rows and the Summary Page, and the strike-through is recorded rather than hidden. PRIVACY: the attachment's Complete Mailing Address column is empty on every row, so no donor geography exists. The Schedule A aggregate row ('Contributions, $50 & under', 109.97) has no donor name."
+  }
  }
 }

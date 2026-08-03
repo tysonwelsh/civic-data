@@ -1,6 +1,99 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "KATHY DEVIEW / Do's By DEVIEW",
+   "amount": "100 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,24.75,84.04,4.00@p3",
+   "note": "date printed '6/27/9' - a SINGLE-DIGIT year, re-read in a 1200 dpi cell crop and confirmed as one glyph; left BLANK rather than completed to 2009. Amount written '100 -' (trailing dash after whole dollars = no cents) -> 100.00. Mailing-address cell is clipped by a county redaction: the first line is partly legible as a street address (discarded at read time per privacy) and the city/state line survives only as bottom-of-glyph fragments, so donor_city/donor_state are blank. Occupation/Employer='HAIR STYLIST'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "NICPONSKI & ASSOC.",
+   "donor_city": "MURRAY",
+   "donor_state": "UT",
+   "amount": "1000 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;city=high;state=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.70,28.49,84.04,4.00@p3",
+   "note": "date printed '10/9' - only two parts, NO YEAR; left BLANK. Amount written '1000 -' (trailing dash = no cents) -> 1000.00. This row's address was NOT redacted and prints city/state in full; the street line was discarded at read time per privacy. Occupation/Employer='GOVERNMENT CONSULT.'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "WELLS FARGO BANK",
+   "purpose": "BANK CHARGES",
+   "amount": "36.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.25,27.99,76.28,3.20@p4",
+   "note": "date printed as a RANGE '1/9 - 1/10'; left BLANK"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "CORROON LEADERSHIP PAC",
+   "purpose": "CONTRIBUTION",
+   "amount": "200 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.25,31.79,76.28,3.20@p4",
+   "note": "date printed '12/31/9' - single-digit year; left BLANK. Amount '200 -' (trailing dash = no cents) -> 200.00"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "SALT LAKE COUNTY DEMO. PARTY",
+   "purpose": "DINNER",
+   "amount": "50 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.25,35.89,76.28,3.20@p4",
+   "note": "date printed '4/9' - two parts only, NO YEAR; left BLANK. Amount '50 -' -> 50.00"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "TURNER FOR COUNCIL",
+   "purpose": "CONTRIBUTION",
+   "amount": "200 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.25,40.29,76.28,3.20@p4",
+   "note": "date printed '12/31/9' - single-digit year; left BLANK. Amount '200 -' -> 200.00"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "JOSEPH HATCH",
+   "purpose": "REIMBURSEMENT FOR CONTRIBUTION TO SIMMONS CAMPAIGN & SUPPLIES",
+   "amount": "250 -",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.25,44.29,76.28,3.20@p4",
+   "note": "date printed '10/9' - two parts only, NO YEAR; left BLANK. Amount '250 -' -> 250.00. The purpose cell is overwritten - a second line 'CAMPAIGN & SUPPLIES' runs through the first - so the wording is read at medium confidence"
+  }
+ ],
  "total_contributions": "1100 -",
  "total_expenditures": "736 -",
  "beginning_balance": "87.92",
@@ -49,6 +142,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Signed 2/1/10 and clerk-stamped FEB 01 2010, so this is the year-end report covering calendar 2009 (manifest calls it the 2009 Summary Report - consistent). Lines 1 and 2 Column A write the cents as a trailing dash ('1100 -', '736 -'); Line 4 spells the same figure out as '1100.00'. Column B cents are written as raised superscripts (13,747 with a superscript 85; 13,295 with a superscript 93) - transcribed with a decimal point. The form has both an 'Office' box ('COUNTY COUNCIL') and an 'Office Sought' box ('COUNCIL'); Office Sought is used per contract. Form arithmetic checks out."
+  "notes": "Signed 2/1/10 and clerk-stamped FEB 01 2010, so this is the year-end report covering calendar 2009 (manifest calls it the 2009 Summary Report - consistent). Lines 1 and 2 Column A write the cents as a trailing dash ('1100 -', '736 -'); Line 4 spells the same figure out as '1100.00'. Column B cents are written as raised superscripts (13,747 with a superscript 85; 13,295 with a superscript 93) - transcribed with a decimal point. The form has both an 'Office' box ('COUNTY COUNCIL') and an 'Office Sought' box ('COUNCIL'); Office Sought is used per contract. Form arithmetic checks out.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1100 -",
+     "itemized": "1100.00",
+     "result": "exact",
+     "detail": "exact (2 rows 100 + 1000 = 1100 = the page's own handwritten SUBTOTAL '1100 -' and TOTAL '1100 -', and the stated Summary figure '1100 -')"
+    },
+    "expenditures": {
+     "stated": "736 -",
+     "itemized": "736.00",
+     "result": "exact",
+     "detail": "exact (5 rows 36 + 200 + 50 + 200 + 250 = 736 = the page's own handwritten SUBTOTAL '736 -' and TOTAL '736 -', and the stated Summary figure '736 -')"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1100.00 = printed SUBTOTAL FOR THIS PAGE '1100 -' (gate fires); p4 rows 736.00 = printed SUBTOTAL FOR THIS PAGE '736 -' (gate fires). Both pages also repeat the figure on the TOTAL line.",
+   "escalations": 2,
+   "escalation_note": "p3 row-1 date cell and row-1 address cell each cropped and re-rendered at 1200 dpi; the date is confirmed to be a single-digit year '6/27/9' and the address line is confirmed to be redaction-clipped beyond reading",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Small handwritten Year-End report (HATCH, Date of Report 2/1/10). EVERY DATE IN THIS FILING IS UNUSABLE AS PRINTED and all 7 rows carry needs_review: the filer writes single-digit years ('6/27/9', '12/31/9'), two-part dates with no year at all ('10/9', '4/9'), and one date RANGE ('1/9 - 1/10'). None were completed from the report period - the 2009 year they almost certainly denote is an inference, not a printed value. Amounts use the trailing-dash convention for whole dollars ('100 -', '1000 -', '200 -', '50 -', '250 -') and are read as .00 with the glyph kept in the note. One contributor row (NICPONSKI & ASSOC.) escaped the county redaction and prints a full address, so its CITY and STATE are recorded (street line discarded at read time); the other contributor row is redaction-clipped and has no recoverable city/state. Both sides gate exactly on the page's own subtotal."
+  }
  }
 }

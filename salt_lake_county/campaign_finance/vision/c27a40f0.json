@@ -1,6 +1,213 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-02-01",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.30,24.80,85.60,3.90@p3",
+   "note": "amount written '100.-'; occupation/employer 'Public Admin/SLCo.'; address cell blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-05-09",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "80.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.30,28.30,85.60,3.90@p3",
+   "note": "amount written '80.-'; occupation/employer 'Public Admin/SLCO'; address cell blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-06-05",
+   "donor_raw": "Jim Bradley",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.30,32.30,85.60,3.90@p3",
+   "note": "candidate self-contribution; occupation/employer 'self'; amount written '300.-'; address cell blank"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-07-11",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.30,36.30,85.60,3.90@p3",
+   "note": "amount written '150.-'; occupation/employer 'Public Admin/SLCo.'; address cell blank"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-10-01",
+   "donor_raw": "Equality Utah",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.30,40.20,85.60,3.90@p3",
+   "note": "occupation/employer cell reads 'PAC'; amount written '100.-'; address cell blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-01-04",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank Charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,27.30,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-02-04",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank Charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,30.80,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-03-03",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank Charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,35.20,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-04-02",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,39.10,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-05-02",
+   "vendor_raw": "University Credit Union",
+   "purpose": "Bank charge",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,43.10,76.40,3.90@p4",
+   "note": "amount written '20.-'"
+  },
+  {
+   "line_no": 6,
+   "date": "2008-05-10",
+   "vendor_raw": "University Credit Union",
+   "purpose": "Bank Charge",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,47.10,76.40,3.90@p4",
+   "note": "amount written '20.-'"
+  },
+  {
+   "line_no": 7,
+   "date": "2008-06-03",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank Charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,51.00,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 8,
+   "date": "2008-06-06",
+   "vendor_raw": "Young Democrats",
+   "purpose": "Donation",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,55.10,76.40,3.90@p4",
+   "note": "amount written '150.-'"
+  },
+  {
+   "line_no": 9,
+   "date": "2008-07-03",
+   "vendor_raw": "Paypal",
+   "purpose": "Bank Charge",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,59.00,76.40,3.90@p4",
+   "note": "amount written '30.-'"
+  },
+  {
+   "line_no": 10,
+   "date": "2008-08-27",
+   "vendor_raw": "Young Democrats",
+   "purpose": "Donation",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.65,63.10,76.40,3.90@p4",
+   "note": "amount written '250.-'"
+  }
+ ],
  "total_contributions": "730.00",
  "total_expenditures": "620.00",
  "beginning_balance": "40.42",
@@ -49,6 +256,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older form variant with a separate top-row 'Office' box, which reads 'County Council' and matches the Office Sought entry; the District Number box holds 'At-Large C'. Neither amendment box is checked. On Lines 1, 2, 4 and 6 the cents are written as a raised DASH ('730.-', '620.-'), the accounting shorthand for .00; recorded as .00 per the corpus dash-equals-zero convention, at medium confidence. Arithmetic consistent (40.42 + 730.00 = 770.42; minus 620.00 = 150.42). The Summary Page header boxes are blank."
+  "notes": "Older form variant with a separate top-row 'Office' box, which reads 'County Council' and matches the Office Sought entry; the District Number box holds 'At-Large C'. Neither amendment box is checked. On Lines 1, 2, 4 and 6 the cents are written as a raised DASH ('730.-', '620.-'), the accounting shorthand for .00; recorded as .00 per the corpus dash-equals-zero convention, at medium confidence. Arithmetic consistent (40.42 + 730.00 = 770.42; minus 620.00 = 150.42). The Summary Page header boxes are blank.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "730.00",
+     "itemized": "730.00",
+     "result": "exact",
+     "detail": "exact (730.00 = 730.00); page 3 also prints TOTAL CONTRIBUTIONS RECEIVED 730.-"
+    },
+    "expenditures": {
+     "stated": "620.00",
+     "itemized": "620.00",
+     "result": "exact",
+     "detail": "exact (620.00 = 620.00); page 4 also prints TOTAL EXPENDITURES MADE 620.-"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 730.00 = printed SUBTOTAL 730.- (gate PASS); p4 rows sum 620.00 = printed SUBTOTAL 620.- (gate PASS)",
+   "escalations": 3,
+   "escalation_note": "p3 date+name column band 600dpi crop; p3 amount column 600dpi crop; p4 date+name band rows 5-10 600dpi crop (confirmed the filer's '6' glyph, which reads like 'lo' at 200dpi)",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten 2008 year-end (Jim Bradley, County Council). All amounts written as whole dollars with a trailing em-dash (e.g. '100.-') = no cents, transcribed as .00 per brief 4(e). Mailing Address column left entirely BLANK by the filer on Schedule A (not redacted) - donor_city/donor_state therefore blank. Both schedules fit on one page each and their SUBTOTAL and TOTAL lines print the same figure."
+  }
  }
 }

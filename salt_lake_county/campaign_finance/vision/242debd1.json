@@ -1,6 +1,188 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2007-01-02",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.65,25.73,80.25,4.12@p3"
+  },
+  {
+   "line_no": 2,
+   "date": "2007-01-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,29.85,80.25,4.12@p3",
+   "note": "recipient, purpose and amount are all ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 3,
+   "date": "2007-03-02",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,33.97,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 4,
+   "date": "2007-03-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,38.09,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 5,
+   "date": "2007-04-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,42.21,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 6,
+   "date": "2007-05-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,46.33,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 7,
+   "date": "2007-07-02",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,50.45,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 8,
+   "date": "2007-07-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,54.57,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 9,
+   "date": "2007-08-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,58.69,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 10,
+   "date": "2007-10-01",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,62.81,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 11,
+   "date": "2007-10-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,66.93,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 12,
+   "date": "2007-11-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,71.05,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  },
+  {
+   "line_no": 13,
+   "date": "2007-12-31",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.65,75.17,80.25,4.12@p3",
+   "note": "ditto marks resolved to line 1"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "52.00",
  "beginning_balance": "77.49",
@@ -49,6 +231,47 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "2008-era form variant (no year in title). The top-row 'Office' box also reads 'Council'. Summary Page header: Page 1 of 2, Wilson, 1/27/08; Column B header 'Aggregate Total'. Arithmetic consistent (77.49 - 52.00 = 25.49)."
+  "notes": "2008-era form variant (no year in title). The top-row 'Office' box also reads 'Council'. Summary Page header: Page 1 of 2, Wilson, 1/27/08; Column B header 'Aggregate Total'. Arithmetic consistent (77.49 - 52.00 = 25.49).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in this 3-page document (p1 cover, p2 Summary Page 'Page 1 of 2', p3 Schedule B 'Page 2 of 2'); the stated total is 0 but the schedule itself is absent, so this is non-existence, not a transcribed zero"
+    },
+    "expenditures": {
+     "stated": "52.00",
+     "itemized": "52.00",
+     "result": "exact",
+     "detail": "exact (52.00 = 52.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 13 x 4.00 = 52.00 = printed SUBTOTAL FOR THIS PAGE 52.00 and printed TOTAL EXPENDITURES MADE 52.00 - gate fires exactly",
+   "escalations": 3,
+   "escalation_note": "p3 date column rows 1-7 and rows 7-13 at 800 dpi tight crops; p3 amount column rows 1-8 at 700 dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 13,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Schedule B is a single ditto block: only row 1 carries written text (Network Solutions / Web Fee / 4.00); rows 2-13 are ditto marks in the recipient, purpose AND amount cells, resolved to the row above per contract. The filer's own page numbering ('Page 2 of 2' on Schedule B, 'Page 1 of 2' on the Summary Page) confirms no Schedule A was ever filed."
+  }
  }
 }

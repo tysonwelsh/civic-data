@@ -47,6 +47,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1, 2 and 4 Column A are hand-drawn slashed zeros (0). Column B is blank on both Lines 1 and 2. A dormant committee: 50.00 in, 50.00 out, no activity. Clerk stamp APR 27 2009, well after the January 31 year-end due date."
+  "notes": "Lines 1, 2 and 4 Column A are hand-drawn slashed zeros (0). Column B is blank on both Lines 1 and 2. A dormant committee: 50.00 in, 50.00 out, no activity. Clerk stamp APR 27 2009, well after the January 31 year-end due date.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "No Schedule A page exists in the document.",
+    "expenditures": "No Schedule B page exists in the document."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists to itemize; the Summary Page's own Line 1 Column A is a hand-drawn slashed zero, so zero activity is asserted by the form, but there is no itemized side to sum"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists to itemize; Line 2 Column A is a hand-drawn slashed zero"
+    }
+   },
+   "page_subtotal_gates": "n/a - no schedule page in the document, so no page prints a SUBTOTAL line",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "The whole PDF is 2 pages: p1 cover, p2 the Summary Page (which numbers itself 'Page 1 of 1'). The filer submitted no Schedule A and no Schedule B page at all - honest NON-EXISTENCE, recorded as sides='none', NOT as a transcribed zero. Corroborating context only: Lines 1, 2 and 4 Column A are hand-drawn slashed zeros (0 under the zero-glyph ruling) and Lines 3/5/7 all read 50.00 - a dormant committee holding $50 with no activity in the period."
+  }
  }
 }

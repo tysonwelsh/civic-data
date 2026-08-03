@@ -47,6 +47,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "This filing uses the OLDER form (title carries no year; interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general; Column B headed 'Year-to-Date Total') even though it was filed for the 2006 cycle - clerk stamp SEP 15 2006. All seven Column A cells are hand-drawn zeros; BOTH Column B cells (Lines 1 and 2) were left BLANK, recorded as \"\" not 0. The signature date is written '9/15 2006 AD'. Name spelled 'LAURENCE' here."
+  "notes": "This filing uses the OLDER form (title carries no year; interim options are April 5 / Seven days before a primary / September 15 / Seven days before a general; Column B headed 'Year-to-Date Total') even though it was filed for the 2006 cycle - clerk stamp SEP 15 2006. All seven Column A cells are hand-drawn zeros; BOTH Column B cells (Lines 1 and 2) were left BLANK, recorded as \"\" not 0. The signature date is written '9/15 2006 AD'. Name spelled 'LAURENCE' here.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (present and entirely blank)",
+   "itemized_pages_B": "4 (present and entirely blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A exists and is completely empty - no rows, and the SUBTOTAL and TOTAL cells are themselves left blank. Summary line 1 reads 0, so a true zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule B exists and is completely empty - no rows, and the SUBTOTAL and TOTAL cells are themselves left blank. Summary line 2 reads 0."
+    }
+   },
+   "page_subtotal_gates": "No gate is available and none is needed: both schedule pages print SUBTOTAL FOR THIS PAGE and TOTAL lines with EMPTY cells, and there are no rows on either page. Zero rows against a stated 0 on both Summary lines.",
+   "escalations": 0,
+   "escalation_note": "None - there is nothing on either schedule page to read.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "ZERO-SCOPE FILING, and an honest zero rather than a gap: 4 pages - p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A and p4 Schedule B, BOTH PRINTED AND BOTH COMPLETELY UNFILLED. Not a single cell of either grid is written in; even the header boxes (Page / Candidate's Last Name / Date of Report) are blank on both schedule pages. Summary lines 1 and 2 both read 0, consistent with a candidate who raised and spent nothing in the period. This filing uses the OLDER form variant (no year in the title; Column B headed 'Year-to-Date Total') even though it was filed for September 15, 2006."
+  }
  }
 }

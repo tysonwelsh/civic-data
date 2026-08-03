@@ -1,5 +1,32 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2013-04-16",
+   "donor_raw": "Committee to Elect Tom Dolan",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.35,22.75,81.60,4.00@p3",
+   "note": "Occupation/Employer cell reads 'Sandy Mayor'. Amount printed '$1,500.-' (trailing dash after the point = no cents) -> 1500.00. The Complete Mailing Address cell is COUNTY-REDACTED (a solid black box covering both filled rows), so no donor city/state is recoverable: redacted."
+  },
+  {
+   "line_no": 2,
+   "date": "2013-07-03",
+   "donor_raw": "Salt Lake Board of Realtors BoRPAC",
+   "amount": "4000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.35,26.75,81.60,3.85@p3",
+   "note": "Occupation/Employer cell reads 'Political Org.'. Name written across two lines, 'Salt Lake Board' / 'of Realtors BoRPAC'. Amount printed '$4,000.-' -> 4000.00. Complete Mailing Address cell is COUNTY-REDACTED: redacted."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "5,500",
  "total_expenditures": "0",
@@ -49,6 +76,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Faxed copy. The blank form used is the 2012-vintage form (its interim deadlines all read 2012) but the Year-End box is checked and the report is signed 1-31-14, matching the clerk listing's '2013 Summary Report'. Lines 2 (both columns) and 6 are a hand-drawn slashed zero, recorded as 0. Amounts on lines 1 and 4 are written with a trailing dash denoting no cents. Line 3 is written '171.62' with no thousands digit; line 5 reads '5671.62' with the leading 5 overwriting the dollar sign, both read at medium confidence. 171.62 + 5,500 = 5,671.62, consistent."
+  "notes": "Faxed copy. The blank form used is the 2012-vintage form (its interim deadlines all read 2012) but the Year-End box is checked and the report is signed 1-31-14, matching the clerk listing's '2013 Summary Report'. Lines 2 (both columns) and 6 are a hand-drawn slashed zero, recorded as 0. Amounts on lines 1 and 4 are written with a trailing dash denoting no cents. Line 3 is written '171.62' with no thousands digit; line 5 reads '5671.62' with the leading 5 overwriting the dollar sign, both read at medium confidence. 171.62 + 5,500 = 5,671.62, consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4 (and its duplicate scan, 5)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,500",
+     "itemized": "5500.00",
+     "result": "exact",
+     "detail": "exact (5500.00 = 5,500)"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); the Itemized Expenditures page is blank with a slashed-zero subtotal"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 5500.00 = printed SUBTOTAL '$5,500.-' (and printed TOTAL '5,500.-') PASS; p4 has no filled rows and its SUBTOTAL/TOTAL cells both carry a slashed-zero glyph, read as 0 per the repo zero-glyph ruling - consistent with zero rows. p5 is a duplicate scan of the same blank page, same \u00d8.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2012-era form VARIANT: the schedules are titled 'Itemized Contributions Received' / 'Itemized Expenditures Made' rather than 'Schedule A' / 'Schedule B'. EIGHT pages: p1 cover, p2 Summary Page, p3 Itemized Contributions (2 filled rows), p4 Itemized Expenditures (BLANK, struck through with a single diagonal pen line, subtotal and total both a slashed zero '\u00d8' = 0 per the zero-glyph ruling), p5 a DUPLICATE SCAN of that same blank expenditures page, and p6-p8 the 'Other Campaign Accounts' set (Summary Page - Other Campaign Accounts, Itemized Contributions from Other Campaign Accounts, Itemized Expenditures from Other Campaign Accounts) - all three struck through with a large X, i.e. declared not applicable, and NOT transcribed (they are a different table from the county-account schedules). The donor address column on p3 is COUNTY-REDACTED (solid black box), so no donor city/state exists for either row. Cover: Max Burdick, Council 6, Republican; Year-End box ('January 31 of each year') checked, signed 1-31-14, faxed by 'Burdick & Associates'; the interim boxes on this form print 2012 period dates."
+  }
  }
 }

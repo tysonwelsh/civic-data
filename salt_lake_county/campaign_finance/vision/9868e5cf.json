@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-04-12",
+   "vendor_raw": "Jennifer Wilson",
+   "purpose": "gas mileage and expense reimbursement",
+   "amount": "44.49",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.22,26.15,75.63,3.60@p3",
+   "note": "purpose written on two cramped lines; recipient is the candidate (self-reimbursement)"
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "",
  "beginning_balance": "44.49",
@@ -47,6 +62,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "COLUMN A OF LINES 1 AND 2 IS BLANK - the filer entered only the Column B aggregates (0 and 44.49) on those two lines, so total_contributions and total_expenditures are recorded as '' (cell exists, left blank), never copied across from Column B. Lines 4 and 7 are written as an unslashed '0'. This IS a full report (Final/Dissolution box checked), not a bare dissolution notice; the account is zeroed out by spending the 44.49 carried over from the 2009 year-end report. Signed 4/23/10, clerk-stamped APR 30 2010. Page-of box reads 'Page 1 of 2'."
+  "notes": "COLUMN A OF LINES 1 AND 2 IS BLANK - the filer entered only the Column B aggregates (0 and 44.49) on those two lines, so total_contributions and total_expenditures are recorded as '' (cell exists, left blank), never copied across from Column B. Lines 4 and 7 are written as an unslashed '0'. This IS a full report (Final/Dissolution box checked), not a bare dissolution notice; the account is zeroed out by spending the 44.49 carried over from the 2009 year-end report. Signed 4/23/10, clerk-stamped APR 30 2010. Page-of box reads 'Page 1 of 2'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {
+    "contributions": "There is NO Schedule A page in this document. The PDF is 3 pages: p1 cover, p2 Summary Page, p3 Schedule B. The Schedule B sheet's own header box reads 'Page 2 of 2' and its printed footer reads '4', so the form's Schedule A sheet (form page 3) was never scanned/filed. Honest non-existence, not a zero - although the Summary Page independently shows no contributions."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "Summary Page line 1 Column A was left BLANK by the filer (only the Column B aggregate, 0, was entered), and no Schedule A page exists in the document. Nothing to compare; no sum claimed."
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "44.49",
+     "result": "unknown",
+     "detail": "Summary Page line 2 Column A was left BLANK by the filer, so there is no stated period total to reconcile against. Cross-check only: the filer's Column B expenditure aggregate (44.49) equals the Schedule B TOTAL of 44.49 and the single transcribed row. Result recorded as unknown because the Column A anchor does not exist."
+    }
+   },
+   "page_subtotal_gates": "p3 row sum 44.49 = printed SUBTOTAL FOR THIS PAGE 44.49 = printed TOTAL EXPENDITURES MADE 44.49 - gate fired and passed",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Schedule B header box is filled: 'Page 2 of 2 / Wilson / 4/23/10'. The single expenditure is a reimbursement to the CANDIDATE herself. Listed by the clerk as a Final / Dissolution report."
+  }
  }
 }

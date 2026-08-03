@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-15",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing fee",
+   "amount": "656.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.50,26.26,75.80,3.78@p3",
+   "note": "date printed '3/15/12' (M/D/YY, year present) -> ISO. Amount 656.40, re-read at 700dpi: the filer's 6 is an open-topped form that reads like a capital G at 200dpi, and the identical glyph string appears in the page's SUBTOTAL cell, which the row matches to the cent. needs_review is set NOT because the row is doubtful but because THIS ROW IS ONE PAGE OF A LONGER SCHEDULE B that is not in the document - the same page's printed schedule TOTAL is 50,828.01. Treat this row as a floor, never as the filing's expenditure set."
+  }
+ ],
  "total_contributions": "45,042.12",
  "total_expenditures": "50,828.01",
  "beginning_balance": "50,508.32",
@@ -49,6 +64,47 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NO interim / year-end / final box is checked - only the amendment 'Yes' box, annotated in full as '4/9/12 (Amendment to April 5 Report)', so report_type is an honest empty string. Signed 4/9/12; clerk RECEIVED stamp APR 09 2012. Summary Page header reads 'Page 2 of 3, Romero, Date of Report 4/9/12'. Face arithmetic is consistent. Against the un-amended April interim (Romero_R_12_April_Interim), expenditures were restated 50,171.61 -> 50,828.01 (a +656.40 change carried through Column B, 85,693.82 -> 86,350.22) and the closing balance 45,378.83 -> 44,722.43."
+  "notes": "NO interim / year-end / final box is checked - only the amendment 'Yes' box, annotated in full as '4/9/12 (Amendment to April 5 Report)', so report_type is an honest empty string. Signed 4/9/12; clerk RECEIVED stamp APR 09 2012. Summary Page header reads 'Page 2 of 3, Romero, Date of Report 4/9/12'. Face arithmetic is consistent. Against the un-amended April interim (Romero_R_12_April_Interim), expenditures were restated 50,171.61 -> 50,828.01 (a +656.40 change carried through Column B, 85,693.82 -> 86,350.22) and the closing balance 45,378.83 -> 44,722.43.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3 (this is ONE page of a multi-page Schedule B; the rest are not in the document)",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "45,042.12",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "NO SCHEDULE A PAGE EXISTS IN THIS DOCUMENT. The PDF is exactly 3 pages (verified with pdfinfo): p1 cover, p2 Summary Page, p3 Schedule B. There is no Itemized Contributions Received sheet at all, so this is honest NON-EXISTENCE, not a zero and not an unread page. No sum is claimed for this side and no rows are emitted. The stated 45,042.12 comes from the Summary Page and is retained untouched."
+    },
+    "expenditures": {
+     "stated": "50,828.01",
+     "itemized": "656.40",
+     "result": "unknown",
+     "detail": "THE ITEMIZED FIGURE IS A ONE-PAGE FLOOR, NOT THE SIDE TOTAL - DO NOT SUBTRACT IT FROM THE STATED FIGURE. The single Schedule B page in this document is numbered 'Page 3 of 3' and carries one row of 656.40; its own printed SUBTOTAL FOR THIS PAGE is 656.40, which the row matches exactly. But the same page's printed TOTAL EXPENDITURES MADE (Sum of subtotals from ALL Schedule B pages) reads 50,828.01 - so the form itself declares that other Schedule B pages exist, and they are not in the PDF. The remaining 50,171.61 is therefore UNSEEN, not absent, and any difference computed here would be a fabricated delta. Result is unknown by construction: the page gates, the filing cannot."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule B): 1 transcribed row 656.40 = the printed SUBTOTAL FOR THIS PAGE 656.40 - PASSES to the cent (re-read at 700dpi; this filer's 6 has an open top that reads like a G at base resolution, and the row amount and the subtotal are the same glyph string). THE PAGE THAT WOULD NOT GATE IS THE FILING, NOT THIS PAGE: the printed TOTAL EXPENDITURES MADE of 50,828.01 cannot be reached from the one Schedule B page present, because the other pages of that schedule are not in the document. No Schedule A page exists to gate at all.",
+   "escalations": 3,
+   "escalation_note": "p3 row 1 as an 800dpi full-width band (pct:10,24,80,4.5) - confirmed date, recipient and purpose; p3 total block at 800dpi (pct:66,73,25,10) which landed high and was re-cropped at 700dpi (pct:66,76,26,9) - confirmed the SUBTOTAL glyph string is 656.40 and matches the row.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THIS IS THE ONE STRUCTURALLY INCOMPLETE FILING IN THE CHUNK AND IT NEEDS A HUMAN LOOK. It is a 3-page AMENDMENT (verified: pdfinfo reports 3 pages) - p1 cover, p2 Summary Page (already transcribed), p3 Schedule B numbered 'Page 3 of 3' on the form's own page box. Consistent with the totals pass: no interim/year-end/final box is checked on the cover, only the amendment 'Yes' box annotated '4/9/12 (Amendment to April 5 Report)', and the clerk stamped it RECEIVED APR 09 2012. What the filer submitted as the amendment is evidently the corrected sheets only, not the whole report. TWO CONSEQUENCES, both honest gaps rather than transcription failures: (1) there is NO Schedule A page anywhere in the document, so the contributions side is 'none' - the Summary Page states 45,042.12 raised and not one itemized contributor line exists to read; (2) the single Schedule B page carries one $656.40 filing-fee row that matches its own page subtotal exactly, while the same page's TOTAL EXPENDITURES MADE - explicitly labelled 'Sum of subtotals from all Schedule B pages' - reads 50,828.01, proving the schedule ran to further pages that are not in this PDF. So the one transcribed expenditure row is a FLOOR for a single page, and the ~$50,171.61 balance is unseen. No delta was computed on either side; both are recorded as 'unknown'. RECOVERY WOULD REQUIRE the underlying April 5 report or a fresh clerk request - the missing pages are not recoverable from this file. The one row that is here is solid: 3/15/12, Salt Lake County Clerk, filing fee, 656.40, gated against the page subtotal at 700dpi."
+  }
  }
 }

@@ -1,6 +1,20 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Carrie Dickson",
+   "purpose": "Payment on Loan",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.93,28.90,75.60,2.50@p4",
+   "note": "Date cell printed '2/-15/07' - re-rendered as a 1200 dpi cell crop and the glyph string carries a DOUBLE separator ('2', '/', '-', '15', '/', '07'), so it is not a clean ISO parse; left blank with the verbatim here. Read literally it would be 15 Feb 2007 on a report dated 1/31/2012, which would itself be kept verbatim as a filer date, but the malformed separator is the reason for the blank. Amount printed '50.00'; the page subtotal and total are printed '50,00' with a decimal comma - same value."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "$50,00",
  "beginning_balance": "50.00",
@@ -47,6 +61,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older two-office-box form: the top-row 'Office' reads 'Clerk' and the separate 'Office Sought' reads 'County Clerk'; Office Sought is used. Political Party is blank. Line 2 Column A is written with a DECIMAL COMMA ($50,00) - recorded exactly as written for the downstream repair. Lines 3, 5 and 6 use a raised mid-dot separator, transcribed as 50.00. Lines 1, 4 and 7 Column A are a hand-drawn slashed zero, recorded as 0. Column B (Aggregate Total) is blank on lines 1 and 2. The 'No' amendment box is checked. Clerk RECEIVED stamp JAN 31 2012."
+  "notes": "Older two-office-box form: the top-row 'Office' reads 'Clerk' and the separate 'Office Sought' reads 'County Clerk'; Office Sought is used. Political Party is blank. Line 2 Column A is written with a DECIMAL COMMA ($50,00) - recorded exactly as written for the downstream repair. Lines 3, 5 and 6 use a raised mid-dot separator, transcribed as 50.00. Lines 1, 4 and 7 Column A are a hand-drawn slashed zero, recorded as 0. Column B (Aggregate Total) is blank on lines 1 and 2. The 'No' amendment box is checked. Clerk RECEIVED stamp JAN 31 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A carries no contributor rows and its TOTAL cell holds a slashed zero"
+    },
+    "expenditures": {
+     "stated": "$50,00",
+     "itemized": "50.00",
+     "result": "exact",
+     "detail": "exact (50.00 = $50,00 - the stated total is printed with a decimal comma; same value)"
+    }
+   },
+   "page_subtotal_gates": "p3 (Sch A): no filled rows; the SUBTOTAL cell is EMPTY and the TOTAL cell holds a slashed zero '\u00d8' = 0 (zero-glyph ruling) - consistent with zero rows; a second slashed zero sits in the Amount cell of the first (otherwise empty) data row. p4 (Sch B): single row 50.00 = printed SUBTOTAL 50,00 and printed TOTAL 50,00 PASS.",
+   "escalations": 1,
+   "escalation_note": "1200 dpi crop of the p4 date cell (resolved the glyph string as '2/-15/07', a double separator).",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FOUR pages: p1 cover, p2 Summary Page, p3 Schedule A (blank), p4 Schedule B (one row). Cover: Carrie Dickson, County Clerk; the FINAL / DISSOLUTION box is checked and 'No' is ticked for amendment; signed 1/31/2012, clerk-stamped JAN 31 2012. Street address block county-redacted (black bar); the phone number is printed in the clear on the cover but is not a donor field and is not carried here. Schedule A prints a slashed zero in the first row's Amount cell and in the TOTAL cell - a nil mark, read as 0 per the repo zero-glyph ruling, so this is a real zero rather than a missing schedule. The single Schedule B row is a repayment to the candidate herself."
+  }
  }
 }

@@ -1,6 +1,34 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2013-04-11",
+   "vendor_raw": "Jani Iwamoto",
+   "purpose": "Partial repayment of loan to cover continuing costs for web domain for Jani Iwamoto Campaign",
+   "amount": "61.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,21.60,78.25,3.90@p3",
+   "note": "the final digit of the date is smudged where the fax fold crosses it; read as '4/11/13'. Payment to the candidate herself, repaying her own loan to the committee"
+  },
+  {
+   "line_no": 2,
+   "date": "2013-09-20",
+   "vendor_raw": "Jani for Senate",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=n/a;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.65,41.50,78.25,4.00@p3",
+   "note": "the Purpose cell is EMPTY on this row (a band of erased/whited-out writing sits in the purpose column just above it, nothing legible); recipient is the candidate's own separate state-senate committee"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "111.80",
  "beginning_balance": "111.80",
@@ -47,6 +75,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Only the Final/Dissolution box is checked; neither amendment box is checked. Signed 1/15/14, clerk stamp JAN 21 2014; a hand-written fax cover note at the top reads 'ckuhn@slco.org / Fax: 385-468-7401 / attn: Dahnelle Burtonlee'. Column B is blank on lines 1 and 2 (empty strings) and Line 4 Column A is also left BLANK by the filer, even though lines 3 and 5 both read 111.80. Line 7 is a hand-drawn slashed zero. IMPORTANT FILER ANNOTATION in the right margin of the Summary Page, transcribed verbatim: 'Please note that 1/25/13 received report had the beginning balance of $111.08. The numbers were accidentally transposed - the beginning balance in the report filed 1/1/12 was $111.80.' That annotation reconciles this chunk's two conflicting Iwamoto figures: key 1ce31a59 (received JAN 25 2013) prints $111.08 and key 42f6908b (2011 year-end) prints $111.80. Both are transcribed as printed; the annotation says $111.80 is the correct one."
+  "notes": "Only the Final/Dissolution box is checked; neither amendment box is checked. Signed 1/15/14, clerk stamp JAN 21 2014; a hand-written fax cover note at the top reads 'ckuhn@slco.org / Fax: 385-468-7401 / attn: Dahnelle Burtonlee'. Column B is blank on lines 1 and 2 (empty strings) and Line 4 Column A is also left BLANK by the filer, even though lines 3 and 5 both read 111.80. Line 7 is a hand-drawn slashed zero. IMPORTANT FILER ANNOTATION in the right margin of the Summary Page, transcribed verbatim: 'Please note that 1/25/13 received report had the beginning balance of $111.08. The numbers were accidentally transposed - the beginning balance in the report filed 1/1/12 was $111.80.' That annotation reconciles this chunk's two conflicting Iwamoto figures: key 1ce31a59 (received JAN 25 2013) prints $111.08 and key 42f6908b (2011 year-end) prints $111.80. Both are transcribed as printed; the annotation says $111.80 is the correct one.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "there is NO Itemized Contributions Received page anywhere in this 4-page document - p1 is the cover, p2 the Summary Page, p3 the Itemized Expenditures Made table and p4 the clerk's 'Dissolution of a Candidate Campaign Committee' notice. The Summary Page states 0 contributions, but the schedule page itself does not exist, so this is non-existence rather than a transcribed blank schedule."
+    },
+    "expenditures": {
+     "stated": "111.80",
+     "itemized": "111.80",
+     "result": "exact",
+     "detail": "exact (61.80 + 50.00 = 111.80 = stated 111.80)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 61.80 + 50.00 = 111.80 = printed SUBTOTAL FOR THIS PAGE $111.80 = printed TOTAL EXPENDITURES MADE $111.80 - gate fires exactly.",
+   "escalations": 0,
+   "escalation_note": "none needed - both rows and both total cells are legible at 200 dpi and the gate closes at first read",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGE ORDER IS NOT THE STANDARD ONE: the itemized-expenditures table is PDF page 3 and page 4 is the clerk's separate 'Dissolution of a Candidate Campaign Committee' notice (committee 'Jani Iwamoto Campaign', established March 2008, signed 1/15/14, clerk-stamped JAN 21 2014). There is no contributions schedule at all. The first expenditure is a PARTIAL REPAYMENT OF THE CANDIDATE'S OWN LOAN, paid to herself - the purpose cell spells that out over four handwritten lines and is transcribed in full. The second expenditure's Purpose cell is EMPTY, and immediately above it there is a band of faint erased/whited-out handwriting spanning the purpose column; nothing legible survives there and nothing was inferred from it. The page header box (Page / Last Name / Date of Report) is blank on this schedule page. The margin annotation about a transposed beginning balance ($111.08 vs $111.80) sits on the Summary Page, not here."
+  }
  }
 }

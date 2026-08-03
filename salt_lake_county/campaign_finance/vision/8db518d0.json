@@ -1,6 +1,75 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2011-10-17",
+   "donor_raw": "Corroon Leadership PAC",
+   "amount": "2000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,24.50,85.50,3.90@p3",
+   "note": "address block redacted; occupation/employer: 'Political Action Com.'"
+  },
+  {
+   "line_no": 2,
+   "date": "2011-11-04",
+   "donor_raw": "Holly Yocom / Jason Yocom",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,28.50,85.50,3.85@p3",
+   "note": "TWO names on two lines in one cell ('Holly Yocom' over 'Jason Yocom'), kept as one row as printed; address block redacted; occupation/employer: 'Public Admin / SL County'"
+  },
+  {
+   "line_no": 3,
+   "date": "2011-11-29",
+   "donor_raw": "SL Co. Dep. Sheriff Fed.",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,32.50,85.50,3.70@p3",
+   "note": "address block redacted; occupation/employer: 'Political Action Com.'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2011-10-11",
+   "vendor_raw": "Christy Overson",
+   "purpose": "Campaign Donation",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,27.75,78.20,3.25@p4",
+   "note": "printed '200.-' (trailing dash after whole dollars = no cents)"
+  },
+  {
+   "line_no": 2,
+   "date": "2011-11-14",
+   "vendor_raw": "Kim Folsom",
+   "purpose": "Web Design",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.60,31.25,78.20,3.75@p4",
+   "note": "printed '300.-' (trailing dash after whole dollars = no cents)"
+  }
+ ],
  "total_contributions": "3,500",
  "total_expenditures": "500",
  "beginning_balance": "876.42",
@@ -49,6 +118,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signed 1-30-12, clerk stamp JAN 31 2012. Lines 1 and 2 are written without cents ('3,500' / '500'); lines 4 and 6 write the same amounts with a DASH in the cents position ('3500.-' and '500.-', the accounting shorthand for .00) - those two lines are not captured by this schema but the convention is noted here. Line 3 (876.42) and line 7 (3,876.42) are written plainly. Arithmetic checks: 876.42 + 3,500 = 4,376.42 and 4,376.42 - 500 = 3,876.42."
+  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signed 1-30-12, clerk stamp JAN 31 2012. Lines 1 and 2 are written without cents ('3,500' / '500'); lines 4 and 6 write the same amounts with a DASH in the cents position ('3500.-' and '500.-', the accounting shorthand for .00) - those two lines are not captured by this schema but the convention is noted here. Line 3 (876.42) and line 7 (3,876.42) are written plainly. Arithmetic checks: 876.42 + 3,500 = 4,376.42 and 4,376.42 - 500 = 3,876.42.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,500",
+     "itemized": "3500.00",
+     "result": "exact",
+     "detail": "exact (2000+500+1000 = 3500.00 = stated 3,500 = printed Schedule A TOTAL '3500.-')"
+    },
+    "expenditures": {
+     "stated": "500",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (200+300 = 500.00 = printed page subtotal and TOTAL '500.-' = stated 500)"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE left BLANK by filer (no gate); p3 rows 3500.00 = printed TOTAL CONTRIBUTIONS RECEIVED 3500.-; p4 rows 500.00 = printed subtotal 500.- = TOTAL 500.-",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Standard 4-page form, pages in order (1 cover / 2 Summary / 3 Schedule A / 4 Schedule B). All three Schedule A mailing-address cells are COUNTY-REDACTED (solid black box) - donor_city/donor_state blank, 'redacted' noted per row. Occupation/Employer column values recorded in each row note (no schema field). Amounts on Schedule B written with a trailing dash for 'no cents'."
+  }
  }
 }

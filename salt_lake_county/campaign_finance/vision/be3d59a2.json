@@ -1,6 +1,270 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-01-30",
+   "donor_raw": "Jennifer Wilson (adjustment to match bank balance of 329.07 on 12/31/05)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "1730.67",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.20,23.50,82.00,10.50@p3",
+   "note": "The Name of Contributor cell runs over four handwritten lines: 'Jennifer Wilson' then '(adjustment to match bank balance of 329.07 on 12/31/05)'. This is a book-balancing entry the filer recorded as a contribution, kept verbatim and not reinterpreted. Occupation/Employer 'County Council'. Street address discarded per privacy rule; the filer wrote the city as 'SLC'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bankcard Fees",
+   "amount": "31.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,18.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '10-Feb' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "19.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,19.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '4-Mar' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bankcard Fees",
+   "amount": "31.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,21.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '10-Mar' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "19.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,22.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '31-Mar' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bankcard Fees",
+   "amount": "31.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,24.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '12-Apr' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "19.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,25.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '18-Apr' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Human Rights Council",
+   "purpose": "Donation",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,27.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '10-May' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,28.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '31-May' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 9,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,30.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '6-Jun' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 10,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,31.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '7-Jul' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 11,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,33.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '31-Aug' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 12,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,34.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '3-Sep' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 13,
+   "vendor_raw": "Shout Sign",
+   "purpose": "Lawn Signs",
+   "amount": "946.98",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,36.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '28-Sep' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 14,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,37.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '4-Oct' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 15,
+   "vendor_raw": "Red Rock Brewing",
+   "purpose": "Lunch",
+   "amount": "27.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,39.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '14-Nov' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 16,
+   "vendor_raw": "Rumbi Grill",
+   "purpose": "Lunch",
+   "amount": "14.81",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,40.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '30-Nov' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 17,
+   "vendor_raw": "Network Solutions",
+   "purpose": "Internet Fee",
+   "amount": "3.88",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,42.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '1-Dec' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 18,
+   "vendor_raw": "American Express",
+   "purpose": "Fee",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,43.90,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '5-Dec' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 19,
+   "vendor_raw": "American Express",
+   "purpose": "Fee",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,45.40,73.30,1.50@p4",
+   "note": "date printed WITHOUT A YEAR as '30-Dec' - left blank per the no-year rule; verbatim kept here, never filled from the report date"
+  }
+ ],
  "total_contributions": "1730.67",
  "total_expenditures": "1477.30",
  "beginning_balance": "75.70",
@@ -49,6 +313,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "The Date box beside the signature is BLANK; report_date is taken from the Summary Page 'Date of Report' (1/31/06) per the instruction fallback. On this copy the 'June 20' checkbox prints as a small filled bullet rather than an empty square - a reproduction artifact of this scan, not a check mark (the X is clearly in the 'January 31 of each year' box). Summary Page header: Page 1 of 1, Wilson, 1/31/06. Column A internally consistent (75.70 + 1730.67 = 1806.37; minus 1477.30 = 329.07)."
+  "notes": "The Date box beside the signature is BLANK; report_date is taken from the Summary Page 'Date of Report' (1/31/06) per the instruction fallback. On this copy the 'June 20' checkbox prints as a small filled bullet rather than an empty square - a reproduction artifact of this scan, not a check mark (the X is clearly in the 'January 31 of each year' box). Summary Page header: Page 1 of 1, Wilson, 1/31/06. Column A internally consistent (75.70 + 1730.67 = 1806.37; minus 1477.30 = 329.07).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1730.67",
+     "itemized": "1730.67",
+     "result": "exact",
+     "detail": "exact (1730.67 = 1730.67), single row"
+    },
+    "expenditures": {
+     "stated": "1477.30",
+     "itemized": "1477.30",
+     "result": "exact",
+     "detail": "exact (1477.30 = 1477.30): the 19 typed rows sum to 1,477.30, matching the attachment's own printed TOTAL and the stated Summary-Page figure"
+    }
+   },
+   "page_subtotal_gates": "p3 row 1730.67 = printed SUBTOTAL FOR THIS PAGE 1730.67 (= printed TOTAL 1730.67) - GATE FIRED, exact; p4 is a typed spreadsheet attachment with no 'SUBTOTAL FOR THIS PAGE' line, only a TOTAL of 1,477.30 - the 19 rows sum to exactly 1,477.30, so the schedule-total gate FIRED, exact",
+   "escalations": 2,
+   "escalation_note": "p4 rows 1-8 and rows 9-19+TOTAL re-read as two 480 dpi bands; every row read identically, so all 19 expenditure rows are marked verified",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 19,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO source properties here. (1) Schedule A's single 'contribution' is an ACCOUNTING ADJUSTMENT, not a donation: the Name cell reads 'Jennifer Wilson' followed by a parenthetical '(adjustment to match bank balance of 329.07 on 12/31/05)', with the candidate's own occupation 'County Council' - transcribed verbatim, not interpreted. (2) Schedule B is a typed spreadsheet attachment, not the pre-printed grid, and its own header is mislabeled 'SCHEDULE B / Itemized Contributions Received' although its columns are Name of Recipient / Purpose and its figures reconcile to the stated EXPENDITURE total - treated as Schedule B, and the mislabel recorded here. EVERY expenditure date on the attachment is printed WITHOUT A YEAR ('10-Feb', '4-Mar', ...), so all 19 dates are left BLANK with needs_review=1 and the verbatim string in each row note; the report is dated 1/31/2006 but no year is ever filled in from it. Donor street address on Schedule A discarded at read time; city/state retained."
+  }
  }
 }

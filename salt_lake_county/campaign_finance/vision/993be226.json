@@ -1,6 +1,165 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-06-16",
+   "donor_raw": "Joye Ray",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,24.10,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-06-17",
+   "donor_raw": "Angelo & Mike Vardakis",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,28.35,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-06-25",
+   "donor_raw": "George Nielsen",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,32.35,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-07-17",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,36.85,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-08-05",
+   "donor_raw": "George Nielsen",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,41.10,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-08-30",
+   "donor_raw": "Reagan Signs",
+   "amount": "1540.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,45.10,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted; the words 'in kind' are written beneath the amount, so in_kind=true. Amount printed without a thousands separator - kept verbatim. The matching outgoing item appears on Schedule B as Reagan Signs / Outdoor Advertising / $1,540.00"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-08-30",
+   "donor_raw": "Jason Chaffetz",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,49.35,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 8,
+   "date": "2010-09-13",
+   "donor_raw": "Nathan Ricks",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,53.35,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  },
+  {
+   "line_no": 9,
+   "date": "2010-09-13",
+   "donor_raw": "UPEA",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,57.60,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column has been BLANKED on this scan (a county redaction) - a few stray character fragments survive at the column's right edge and nothing legible remains: redacted"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-08-30",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Outdoor Advertising",
+   "amount": "1,540.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,27.45,80.00,3.60@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-09-07",
+   "vendor_raw": "Home Depot",
+   "purpose": "screws, stakes, and ties",
+   "amount": "123.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,31.45,80.00,3.60@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-14",
+   "vendor_raw": "Renaissance Signs Inc",
+   "purpose": "Signs",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,35.60,80.00,3.60@p4",
+   "note": "'Inc' is written small under 'Signs' in the name cell"
+  }
+ ],
  "total_contributions": "$5,690.00",
  "total_expenditures": "$4,663.01",
  "beginning_balance": "$5,110.00",
@@ -49,6 +208,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "September 15 interim box checked; neither amendment box is checked. Signed 9-14-10, clerk-stamped RECEIVED SEP 14 2010; Summary Page header 'DeBry, 9-14-10, page 2 of 4'. Both columns reconcile exactly (5,110.00 + 5,690.00 = 10,800.00; less 4,663.01 = 6,136.99 = 13,143.46 - 7,006.47)."
+  "notes": "September 15 interim box checked; neither amendment box is checked. Signed 9-14-10, clerk-stamped RECEIVED SEP 14 2010; Summary Page header 'DeBry, 9-14-10, page 2 of 4'. Both columns reconcile exactly (5,110.00 + 5,690.00 = 10,800.00; less 4,663.01 = 6,136.99 = 13,143.46 - 7,006.47).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$5,690.00",
+     "itemized": "5,690.00",
+     "result": "exact",
+     "detail": "exact (5,690.00 = 5,690.00); 9 rows sum to the printed SUBTOTAL FOR THIS PAGE $5,690.00, which equals Summary Page line 1 Column A. NOTE the schedule's own TOTAL CONTRIBUTIONS RECEIVED cell reads $13,143.46 - a CUMULATIVE figure that does not equal its own single page subtotal; the period figure is the one that reconciles"
+    },
+    "expenditures": {
+     "stated": "$4,663.01",
+     "itemized": "4,663.01",
+     "result": "exact",
+     "detail": "exact (4,663.01 = 4,663.01); 3 rows sum to the printed SUBTOTAL $4,663.01, matching Summary Page line 2 Column A. Again the schedule TOTAL cell reads a larger cumulative $7,006.47"
+    }
+   },
+   "page_subtotal_gates": "BOTH page subtotals fire: p3 rows 5,690.00 = printed SUBTOTAL 5,690.00; p4 rows 4,663.01 = printed SUBTOTAL 4,663.01. NEITHER schedule TOTAL gates against its own single page subtotal - p3 TOTAL prints $13,143.46 against a $5,690.00 subtotal and p4 TOTAL prints $7,006.47 against a $4,663.01 subtotal. That is not an arithmetic slip: this filer uses the SUBTOTAL row for the reporting period and the TOTAL row for the cycle to date, and the Summary Page Column A carries the period figures. Both figures retained verbatim; nothing adjusted.",
+   "escalations": 0,
+   "escalation_note": "none needed - a large, clear print hand; both page-subtotal gates closed to the cent on the first 200 dpi read.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page handwritten filing (Steven L. DeBry, County Council, September 15 2010 interim; schedules hand-dated 9-14-10). The address column has been REDACTED on the contributions page - it is blanked with only stray character fragments surviving at its right edge - so donor_city/donor_state are blank on every row and marked 'redacted'. IN-KIND: one contribution (Reagan Signs, $1540.00, 8-30-10) has 'in kind' written under the amount, and the same item appears on Schedule B as an outdoor-advertising expenditure of $1,540.00 - the same economic event on both sides by the filer's design, and both page subtotals require it. THE IMPORTANT PROPERTY OF THIS FILING is that the SUBTOTAL and TOTAL rows mean different things: subtotal = this reporting period (and reconciles to the Summary Page), total = cycle to date ($13,143.46 contributions / $7,006.47 expenditures). Do not read either schedule TOTAL as a page sum."
+  }
  }
 }

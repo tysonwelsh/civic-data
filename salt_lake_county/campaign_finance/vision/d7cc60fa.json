@@ -1,6 +1,135 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-05-01",
+   "donor_raw": "DEREK SMITH",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,23.00,85.70,3.50@p3",
+   "note": "date printed '1 MAY 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Self/Technology'. Amount written '$300' with the cents as a raised superscript over a rule -> decimal point inserted. Address cell covered by a solid white REDACTION block (the block covers only the first three rows of this page - the four organisation rows below it are left legible), so no city or state exists to record: redacted, not filer-omitted."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-05-01",
+   "donor_raw": "TAFT E. PRICE",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,26.50,85.70,3.90@p3",
+   "note": "date printed '1 MAY 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Self/Technology'. Amount written '$1000' with the cents as a raised superscript over a rule -> decimal point inserted. Address cell covered by a solid white REDACTION block (the block covers only the first three rows of this page - the four organisation rows below it are left legible), so no city or state exists to record: redacted, not filer-omitted."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-02",
+   "donor_raw": "FAYE O. POLLOCK",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,30.40,85.70,4.00@p3",
+   "note": "date printed '2 JUN 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Mother'. Amount written '$75' with the cents as a raised superscript over a rule -> decimal point inserted. Address cell covered by a solid white REDACTION block (the block covers only the first three rows of this page - the four organisation rows below it are left legible), so no city or state exists to record: redacted, not filer-omitted."
+  },
+  {
+   "line_no": 4,
+   "date": "2006-05-31",
+   "donor_raw": "BACKMAN TITLE",
+   "donor_city": "Murray",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,34.40,85.70,4.35@p3",
+   "note": "date printed '31 MAY 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Title Co'. Amount written '$100' with the cents as a raised superscript over a rule -> decimal point inserted. Address cell IS legible on this row; only the city and state are taken from it per the privacy rule - the street line is discarded at read time and written nowhere."
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-01",
+   "donor_raw": "DEWEYS BAIL BONDS",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,38.75,85.70,4.00@p3",
+   "note": "date printed '1 JUN 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Bail Bonds'. Amount written '$100' with the cents as a raised superscript over a rule -> decimal point inserted. City recorded verbatim as the filer abbreviated it ('SLC'); the street line is discarded per the privacy rule. The recipient name runs past the right edge of the name cell into the address column."
+  },
+  {
+   "line_no": 6,
+   "date": "2006-06-19",
+   "donor_raw": "SALT LAKE COUNTY REPUBLICAN PARTY",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,42.75,85.70,4.00@p3",
+   "note": "date printed '19 JUN 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Political Party'. Amount written '$2000' with the cents as a raised superscript over a rule -> decimal point inserted. City written 'Salt Lake City' (the filer's hand compresses it to 'SaltLakeCity'); street line discarded per the privacy rule."
+  },
+  {
+   "line_no": 7,
+   "date": "2006-06-19",
+   "donor_raw": "SALT LAKE COUNTY REPUBLICAN PARTY IN-KIND DONATION",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "5000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,46.75,85.70,4.75@p3",
+   "note": "date printed '19 JUN 06' (day-month-2-digit-year; the year IS printed) -> ISO. Occupation/Employer cell: 'Political Party'. Amount written '$5000' with the cents as a raised superscript over a rule -> decimal point inserted. IN-KIND: the amount cell itself is labelled 'IN-Kind' above the figure and 'SIGNS - PRINTING' below it, and the donor cell repeats 'IN-KIND DONATION' - three independent marks on the page, so in_kind is certain. The in-kind amount DOES count toward the printed total (the gate closes only with it included). Street line discarded per the privacy rule."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-07",
+   "vendor_raw": "Eric Kellee",
+   "purpose": "INSPECT + SETUP LICENSE CAMPAIGN VAN",
+   "amount": "136.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.90,26.10,79.60,3.90@p4",
+   "note": "date printed 'APR. 7 06' -> ISO. Amount written '$136' with the cents as a raised superscript over a rule -> decimal point inserted. Recipient surname re-read at 700dpi: the terminal glyphs are clearly 'ee', not 'er' - recorded 'Kellee' as written rather than normalised to the commoner 'Keller'. Purpose spans two written lines ('INSPECT + Setup Licen__' / 'CAMPAIGN VAN'); the last word of the first line trails off in a flourish and is read as 'LICENSE' at medium confidence."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-06-02",
+   "vendor_raw": "OFFICE DEPOT",
+   "purpose": "INK + PAPER",
+   "amount": "82.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.90,30.00,79.60,3.75@p4",
+   "note": "date printed 'JUNE 2, 06' -> ISO. Amount written '$82' with the cents as a raised superscript over a rule -> decimal point inserted. "
+  }
+ ],
  "total_contributions": "$8575.00",
  "total_expenditures": "$218.19",
  "beginning_balance": "$475.20",
@@ -49,6 +178,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "This filer writes cents as a SUPERSCRIPT over a short rule (e.g. $8575 with a raised 00); transcribed with a decimal point inserted - the dollar figures and the $ sign are verbatim. Line 1 Column B: the cents superscript runs off the right edge of the cell and cannot be read, so only the dollars ('$16035') are transcribed - the cents are unknown, hence low confidence. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 1 of 3, Ott, '20 Jun'. Arithmetic is internally consistent (475.20 + 8575.00 = 9050.20; 9050.20 - 218.19 = 8832.01)."
+  "notes": "This filer writes cents as a SUPERSCRIPT over a short rule (e.g. $8575 with a raised 00); transcribed with a decimal point inserted - the dollar figures and the $ sign are verbatim. Line 1 Column B: the cents superscript runs off the right edge of the cell and cannot be read, so only the dollars ('$16035') are transcribed - the cents are unknown, hence low confidence. NEITHER amendment box (Yes/No) is checked. Summary Page header: Page 1 of 3, Ott, '20 Jun'. Arithmetic is internally consistent (475.20 + 8575.00 = 9050.20; 9050.20 - 218.19 = 8832.01).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$8575.00",
+     "itemized": "8575.00",
+     "result": "exact",
+     "detail": "exact (7 rows sum 8,575.00 = the printed TOTAL CONTRIBUTIONS RECEIVED '$8,575.00' on p3 = stated $8575.00). The $5,000 in-kind row is included, as the form's own total requires."
+    },
+    "expenditures": {
+     "stated": "$218.19",
+     "itemized": "218.19",
+     "result": "exact",
+     "detail": "exact (2 rows sum 218.19 = the printed TOTAL EXPENDITURES MADE '$218.19' on p4 = stated $218.19)"
+    }
+   },
+   "page_subtotal_gates": "p3: the SUBTOTAL FOR THIS PAGE cell is EMPTY (filer skipped it) - gated instead on the printed TOTAL CONTRIBUTIONS RECEIVED, 7 rows = 8,575.00 = $8,575.00 - PASSES. p4: SUBTOTAL cell likewise EMPTY - gated on the printed TOTAL EXPENDITURES MADE, 2 rows = 218.19 = $218.19 - PASSES. Both schedules are single-page ('Page 2 of 3' and 'Page 3 of 3'), so the printed schedule total is the page subtotal.",
+   "escalations": 4,
+   "escalation_note": "p3 date column 600dpi crop (pct:5,22,13,30) - resolved row 3 as '2 JUN 06' by matching its month glyph against the unambiguous 'Jun' of rows 5-7, so it is NOT a January date; p3 amount column 600dpi crop (pct:78,22,20,30) - all seven superscript-cents figures and the IN-Kind / SIGNS-PRINTING annotations re-read identically; p3 name+address 600dpi crop (pct:15,34,45,18) - confirmed the four legible city/state values; p4 both rows as one 700dpi band (pct:8,25.5,82,7.5) - resolved the recipient surname's terminal glyphs as 'ee'.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard shape: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. Handwritten throughout in a mixed upper/lower-case hand; every money cell uses the raised-superscript-cents convention. THE REDACTION ON THIS FILING IS PARTIAL AND THAT IS ITSELF THE FINDING: a white block covers the mailing-address cells of the first THREE rows (the three individual donors - Smith, Price, Pollock) while the four organisation rows below (Backman Title, Deweys Bail Bonds, and two Salt Lake County Republican Party rows) are left fully legible. So three rows are blank-because-redacted and four carry a real city/state. Street lines were discarded at read time and appear nowhere in this record. IN-KIND IS EXPLICIT: the final contribution row is marked in-kind THREE times over - 'IN-KIND DONATION' in the donor cell, 'IN-Kind' written above the figure in the amount cell, and 'SIGNS - PRINTING' written below it. At $5,000 it is the single largest line on the filing and it does count toward the printed $8,575.00 total. Dates are written day-month-year with a two-digit year ('1 MAY 06', '19 JUN 06'), so unlike several other filings in this chunk the year IS printed and every date parses. The filer's row order is not chronological (a 2 June row sits above a 31 May row) - kept in printed order. The recipient on Schedule B row 1 reads 'Eric Kellee' at 700dpi; the surname was NOT normalised to 'Keller'."
+  }
  }
 }

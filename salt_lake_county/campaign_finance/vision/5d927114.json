@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "CHARLES A. BONSALL",
+   "amount": "580.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.90,23.99,85.60,4.10@p3",
+   "note": "Complete Mailing Address cell left EMPTY by the filer (no redaction applied to this filing), so donor_city/donor_state are blank by source absence. Occupation/Employer: 'RETIRED/SELF'. Name is hand-printed in mixed capitals; the contributor is the candidate himself. Date printed '3/17/06' with a 2-digit year."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SL COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "580.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.40,27.54,81.00,4.10@p4",
+   "note": "recipient written 'SL COUNTY' (Salt Lake County) - transcribed verbatim, not expanded. Date printed '3/17/06' with a 2-digit year. Same-day counterpart of the Schedule A self-contribution."
+  }
+ ],
  "total_contributions": "$580.20",
  "total_expenditures": "$580.20",
  "beginning_balance": "0",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The filer draws the second digit as a slashed/open 8, so at 110 dpi several cells could be misread as 570.20; at 300 dpi they are all the same glyph, and Bonsall's own October filing (key f5a0b3e5) carries a Column B aggregate of 1,543.11 against a period figure of 962.91, which reconciles only if this filing is 580.20 \u2014 so 580.20 it is. Line 1 Column B is the least legible cell (medium). A '$' is written above each figure. Lines 3 and 7 Column A are written '-0-'. The District Number field carries a dash. Neither amendment box is checked. Stamped COPY / RECEIVED APR 03 2006."
+  "notes": "The filer draws the second digit as a slashed/open 8, so at 110 dpi several cells could be misread as 570.20; at 300 dpi they are all the same glyph, and Bonsall's own October filing (key f5a0b3e5) carries a Column B aggregate of 1,543.11 against a period figure of 962.91, which reconciles only if this filing is 580.20 \u2014 so 580.20 it is. Line 1 Column B is the least legible cell (medium). A '$' is written above each figure. Lines 3 and 7 Column A are written '-0-'. The District Number field carries a dash. Neither amendment box is checked. Stamped COPY / RECEIVED APR 03 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$580.20",
+     "itemized": "580.20",
+     "result": "exact",
+     "detail": "exact (580.20 = $580.20); equals the page's printed SUBTOTAL FOR THIS PAGE 580.20 and TOTAL CONTRIBUTIONS RECEIVED 580.20"
+    },
+    "expenditures": {
+     "stated": "$580.20",
+     "itemized": "580.20",
+     "result": "exact",
+     "detail": "exact (580.20 = $580.20); equals the page's printed SUBTOTAL 580.20 and TOTAL EXPENDITUTRES MADE 580.20"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 580.20 = printed SUBTOTAL FOR THIS PAGE 580.20 - GATES (both the subtotal and total cells re-read at a 700dpi tight crop). p4 rows sum 580.20 = printed SUBTOTAL 580.20 - GATES.",
+   "escalations": 3,
+   "escalation_note": "p3 row-1 band 260dpi tight crop x1 (name/occupation/amount); p3 SUBTOTAL+TOTAL cells 700dpi tight crop x1; p4 row-1 band 260dpi tight crop x1",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4 pages: p1 cover, p2 Summary Page, p3 Schedule A (one line), p4 Schedule B (one line). Header blocks: BONSALL, 4/3/06, Page 3 of 4 / 4 of 4 - note the report-date box says 4/3/06 while the report is the April 5 interim. The whole filing is a single transaction: the candidate contributed 580.20 to his own campaign on 3/17/06 and paid exactly 580.20 to Salt Lake County as the candidate filing fee the same day, so BOTH sides of the Summary Page read $580.20. The Complete Mailing Address cell was left EMPTY by the filer (there is no redaction box on this filing), so donor_city/donor_state are blank by source absence."
+  }
  }
 }

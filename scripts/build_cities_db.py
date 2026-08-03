@@ -982,8 +982,12 @@ CAVEATS = [
      "CLAUDE.md; date-grammar fix queued Phase B); 5 of 12 2024 general reports unrecoverable on any "
      "channel; county publication begins 2018."),
     ("slc", "campaign_finance", "cf-honest-zero",
-     "Salt Lake City — the repo's flagship entity — has NO campaign-finance rows: "
-     "the city's disclosure portal (dotnet.slcgov.com) has been down/blocked "
+     "Salt Lake City's CF layer holds ONLY the 2003 cycle (8 Wayback-recovered Recorder "
+     "filings, structured 2026-08-02: 222 contributions + 162 expenditures, all sides "
+     "reconciled or honestly unknown, geometry-anchored). Everything after 2003 is "
+     "absent: 2005–2017 was published in a POST-only app never archived (GRAMA-"
+     "recoverable — the city's DB is provably alive), and the 2019+ JSON portal "
+     "(dotnet.slcgov.com) has been down/blocked "
      "since acquisition (2026-07). Any cross-city money-vs-votes design that "
      "assumes SLC coverage will silently return nothing. Re-harvest is a WATCH "
      "in LEADS.md."),

@@ -1,6 +1,158 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-03",
+   "donor_raw": "Larry Decker",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,23.00,86.00,4.10@p3",
+   "note": "self-contribution (the candidate). Address block REDACTED (black bar) - no city/state recoverable. Occupation 'Auditor / Salt Lake County'. Amount printed '$100-' (trailing dash = no cents) -> 100.00"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-04",
+   "donor_raw": "Larry Decker",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,27.10,86.00,4.10@p3",
+   "note": "self-contribution. Address block REDACTED. Amount printed '$400-' (trailing dash) -> 400.00"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-13",
+   "donor_raw": "Don Lee Decker",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,31.20,86.00,4.10@p3",
+   "note": "date re-read at 600dpi: the '1' of '13' carries a flag serif that can read as 7; 4/13/12 taken (4/73/12 is impossible). Address block REDACTED. Occupation 'Retired'. Amount printed '$1,000-' (trailing dash) -> 1,000.00"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-23",
+   "donor_raw": "Larry Decker",
+   "amount": "98.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.80,35.30,86.00,4.30@p3",
+   "note": "self-contribution. Address block REDACTED. Amount printed '$98' with a raised superscript '63' -> 98.63 (confirmed in a 600dpi crop)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-12",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "656.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,26.00,80.00,4.00@p4",
+   "note": "date written longhand 'Mar 12, 2012'"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-27",
+   "vendor_raw": "Todd Hooper",
+   "purpose": "Web Hosting Fee",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,30.00,80.00,4.00@p4",
+   "note": "date written longhand 'Mar 27, 2012'"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-03-28",
+   "vendor_raw": "Imaginos",
+   "purpose": "Banner and Lawn Signs",
+   "amount": "192.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,34.00,80.00,4.00@p4",
+   "note": "date written longhand 'Mar 28, 2012'"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-04",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "Convention Booth Fee",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,38.00,80.00,4.20@p4",
+   "note": "date written longhand 'Apr 4, 2012'; recipient wraps two lines"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-04-09",
+   "vendor_raw": "Imaginos",
+   "purpose": "Campaign Flyers",
+   "amount": "195.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,42.20,80.00,4.00@p4",
+   "note": "date written longhand 'Apr 9, 2012'"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-04-09",
+   "vendor_raw": "Harmon's",
+   "purpose": "Candy for Booth",
+   "amount": "18.41",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,46.20,80.00,4.00@p4",
+   "note": "date written longhand 'Apr 9, 2012'"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-04-13",
+   "vendor_raw": "Skyline Flower Gardens",
+   "purpose": "Flowers for Booth",
+   "amount": "10.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.50,50.20,80.00,4.20@p4",
+   "note": "date written longhand 'Apr 13, 2012'; recipient wraps two lines"
+  }
+ ],
  "total_contributions": "$1,598.63",
  "total_expenditures": "$1,598.63",
  "beginning_balance": "0",
@@ -49,6 +201,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Two-office-box form; top-row 'Office' and 'Office Sought' both read 'Mayor'. Lines 3 and 7 Column A are a hand-drawn slashed zero with a dash through the cell, recorded as 0. The 'No' amendment box is checked. Every non-zero cell carries the same figure ($1,598.63) - a single-period campaign that raised and spent the same amount, ending at zero as a dissolution requires. Clerk RECEIVED stamp APR 30 2012, signed 4/26/2012. Header block reads 'Page 1 of 3'."
+  "notes": "Two-office-box form; top-row 'Office' and 'Office Sought' both read 'Mayor'. Lines 3 and 7 Column A are a hand-drawn slashed zero with a dash through the cell, recorded as 0. The 'No' amendment box is checked. Every non-zero cell carries the same figure ($1,598.63) - a single-period campaign that raised and spent the same amount, ending at zero as a dissolution requires. Clerk RECEIVED stamp APR 30 2012, signed 4/26/2012. Header block reads 'Page 1 of 3'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$1,598.63",
+     "itemized": "1598.63",
+     "result": "exact",
+     "detail": "exact (1,598.63 = 1,598.63); the page's printed TOTAL CONTRIBUTIONS RECEIVED is $1,598.63"
+    },
+    "expenditures": {
+     "stated": "$1,598.63",
+     "itemized": "1598.63",
+     "result": "exact",
+     "detail": "exact (1,598.63 = 1,598.63); the page's printed TOTAL EXPENDITURES MADE is $1,598.63"
+    }
+   },
+   "page_subtotal_gates": "BOTH schedule pages leave the 'SUBTOTAL FOR THIS PAGE' cell EMPTY - the filer skipped it - so the page-subtotal gate CANNOT fire on p3 or p4. The gate applied instead is each page's printed TOTAL line: p3 rows sum 1,598.63 = printed TOTAL $1,598.63 (PASS); p4 rows sum 1,598.63 = printed TOTAL $1,598.63 (PASS). A single-page schedule makes the two lines equivalent.",
+   "escalations": 2,
+   "escalation_note": "p3 date column 600dpi crop x1 (to settle 4/13/12 vs 4/73/12) and p3 amount column 600dpi crop x1 (to settle the trailing-dash and superscript-cents forms) - both re-read identically",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Pages are internally numbered 2 of 3 and 3 of 3, i.e. the filer numbered only the report proper; the PDF's p3/p4 are those pages. The Schedule A mailing-address block is COUNTY-REDACTED (one solid black bar spanning all four rows), so donor_city/donor_state are blank with 'redacted' in each row note. Three of the four contribution amounts are written as whole dollars with a TRAILING DASH ('$100-') = no cents, transcribed as .00 and noted; the fourth uses raised-superscript cents. Schedule B dates are written out longhand ('Mar 12, 2012'). Field-shift screen: p3 4 dates / 4 names / 4 occupations / 4 amounts; p4 7 dates / 7 recipients / 7 purposes / 7 amounts - PASS. Every contribution is from the candidate or a family member (Larry Decker x3, Don Lee Decker x1) - a self-funded campaign, which is why both sides total identically."
+  }
  }
 }

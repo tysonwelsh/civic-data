@@ -1,6 +1,88 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2009-02-02",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,25.20,82.00,3.80@p3",
+   "note": "amount printed '250.-' (trailing dash after whole dollars); Occupation 'Public Admin./SLCo.'; the Complete Mailing Address column has been REDACTED with a white block on every row (stray characters survive at the column edges), so no donor city/state is readable"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-08-21",
+   "donor_raw": "Jason Yocom",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,29.10,82.00,3.80@p3",
+   "note": "amount printed '100.-' (trailing dash after whole dollars); Occupation 'Public Admin./SLCo'; the Complete Mailing Address column has been REDACTED with a white block on every row (stray characters survive at the column edges), so no donor city/state is readable"
+  },
+  {
+   "line_no": 3,
+   "date": "2009-09-21",
+   "donor_raw": "Equality Utah",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,32.90,82.00,3.80@p3",
+   "note": "amount printed '100.-' (trailing dash after whole dollars); Occupation 'PAC'; the Complete Mailing Address column has been REDACTED with a white block on every row (stray characters survive at the column edges), so no donor city/state is readable"
+  },
+  {
+   "line_no": 4,
+   "date": "2009-11-19",
+   "donor_raw": "Kerri Nakamura",
+   "amount": "175.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,36.75,82.00,3.80@p3",
+   "note": "amount printed '175.-' (trailing dash after whole dollars); Occupation 'Public Admin/SLCo.'; the Complete Mailing Address column has been REDACTED with a white block on every row (stray characters survive at the column edges), so no donor city/state is readable"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2009-01-23",
+   "vendor_raw": "Utah Democratic Party",
+   "purpose": "Legislative Gala",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,26.90,78.00,3.85@p4",
+   "note": "amount printed '250.-'"
+  },
+  {
+   "line_no": 2,
+   "date": "2009-11-19",
+   "vendor_raw": "Randy Horiuchi Campaign",
+   "purpose": "Donation",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,30.80,78.00,3.85@p4",
+   "note": "amount printed '150.-'"
+  }
+ ],
  "total_contributions": "625",
  "total_expenditures": "400",
  "beginning_balance": "150.42",
@@ -49,6 +131,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Lines 1 and 2 (both columns) and Line 6 are written '625.\u2013' and '400.\u2013' \u2014 a dash in place of the cents; transcribed as 625 and 400. district_number holds 'At-Large \"C\"' because that is what the filer wrote in the District Number cell. Summary Page header box is blank. Neither the amendment Yes nor No box is checked. Filed stamp FEB 01 2010; signed 2-1-10. Arithmetic closes."
+  "notes": "Handwritten. Lines 1 and 2 (both columns) and Line 6 are written '625.\u2013' and '400.\u2013' \u2014 a dash in place of the cents; transcribed as 625 and 400. district_number holds 'At-Large \"C\"' because that is what the filer wrote in the District Number cell. Summary Page header box is blank. Neither the amendment Yes nor No box is checked. Filed stamp FEB 01 2010; signed 2-1-10. Arithmetic closes.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "625",
+     "itemized": "625.00",
+     "result": "exact",
+     "detail": "exact (625.00 = 625.-)"
+    },
+    "expenditures": {
+     "stated": "400",
+     "itemized": "400.00",
+     "result": "exact",
+     "detail": "exact (400.00 = 400.-)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 625.00 = printed SUBTOTAL '625.-' = printed TOTAL '625.-'; p4 rows 400.00 = printed SUBTOTAL '400.-' = printed TOTAL '400.-'",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten, small and clean; both sides gate exactly. This filer also uses the '<amount>.-' whole-dollar convention. The address column was redacted with a WHITE block (not the usual black bar) - only stray edge characters remain, so donor geography is unreadable rather than absent. The two Schedule A rows for Kerri Nakamura are two separate contributions (Feb and Nov 2009), not a duplicate. Neither schedule page has its Page/Last Name/Date of Report header box filled in."
+  }
  }
 }

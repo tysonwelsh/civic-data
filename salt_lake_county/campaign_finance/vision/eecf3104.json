@@ -1,6 +1,170 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Jordan Clements",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,22.09,77.35,3.96@p3",
+   "note": "date printed '4/18' with NO YEAR - not parseable, left blank per contract"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Rick Vo",
+   "amount": "1,040",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high(verbatim, no year);donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,26.05,77.35,3.96@p3",
+   "note": "date printed '5/2' with NO YEAR - not parseable, left blank per contract; surname ILLEGIBLE beyond the legible glyphs 'Vo' (3-4 cursive glyphs, could be -gau/-jan/-fan); legible-glyph string only, never completed"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "Salt Lake County RepPa",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high(verbatim, no year);donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,30.01,77.35,3.96@p3",
+   "note": "date printed '5/3' with NO YEAR - not parseable, left blank per contract; contributor name RUNS OFF the cell's right edge and is CLIPPED by the column rule; transcribed to the last visible glyph ('RepPa'), not completed"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Barbara Allen",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,33.97,77.35,3.96@p3",
+   "note": "date printed '6/14' with NO YEAR - not parseable, left blank per contract"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "Mark Crockett",
+   "amount": "4,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,37.93,77.35,3.96@p3",
+   "note": "date printed '6/14' with NO YEAR - not parseable, left blank per contract; the word 'loan' is handwritten to the RIGHT of the amount, outside the Amount cell; contributor is the candidate himself"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "Judy Crockett",
+   "amount": "375",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,41.89,77.35,3.96@p3",
+   "note": "date printed '6/7' with NO YEAR - not parseable, left blank per contract"
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "Reid Denman Campaign",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,45.85,77.35,3.96@p3",
+   "note": "date printed '5/3' with NO YEAR - not parseable, left blank per contract"
+  },
+  {
+   "line_no": 8,
+   "donor_raw": "Karalee Trevino",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,49.80,77.35,3.96@p3",
+   "note": "date printed '5/3' with NO YEAR - not parseable, left blank per contract"
+  },
+  {
+   "line_no": 9,
+   "donor_raw": "Tom Guinney",
+   "amount": "450",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,53.76,77.35,3.96@p3",
+   "note": "date printed '5/3' with NO YEAR - not parseable, left blank per contract"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-05-03",
+   "vendor_raw": "GASTRONOMY",
+   "purpose": "CAMPAIGN LUNCH",
+   "amount": "450",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,25.73,77.35,4.13@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-04-12",
+   "vendor_raw": "OFFICE DEPO",
+   "purpose": "Stationery, supplies",
+   "amount": "325",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,29.86,77.35,4.13@p4",
+   "note": "recipient written 'OFFICE DEPO' (final T not formed); purpose's first word is overwritten/retraced by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-06-07",
+   "vendor_raw": "COSTCO",
+   "purpose": "Candy, other pops...",
+   "amount": "168",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,33.99,77.35,4.13@p4",
+   "note": "purpose printed with a trailing ellipsis"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-04-12",
+   "vendor_raw": "US POSTAL",
+   "purpose": "STAMPS",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,38.12,77.35,4.13@p4"
+  }
+ ],
  "total_contributions": "13,465",
  "total_expenditures": "1,143",
  "beginning_balance": "563",
@@ -48,6 +212,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older template (04pccfindisc.doc). The clerk listing says 'Amendment to June'; the FORM checks 'Seven days before a primary election' (the older template has no 'June 17' box) and marks the amendment 'Yes' \u2014 a 250-dpi re-render confirms the Yes box carries a check while the 'No' box is heavily SCRATCHED OUT, so is_amendment is 'Yes'; the 'date of report' line next to Yes was left blank. A handwritten margin note on page 1 reads 'Correct version of Schedule attached'. Column B is headed 'Year-to-Date Total' and BOTH B cells are BLANK ('' , not 0). All figures are whole dollars with no cents. Two RECEIVED stamps appear: JUN 20 2008 (clear) and an X'd-out JUN 17 2008. Page box reads 'Page 1 of 3'."
+  "notes": "Older template (04pccfindisc.doc). The clerk listing says 'Amendment to June'; the FORM checks 'Seven days before a primary election' (the older template has no 'June 17' box) and marks the amendment 'Yes' \u2014 a 250-dpi re-render confirms the Yes box carries a check while the 'No' box is heavily SCRATCHED OUT, so is_amendment is 'Yes'; the 'date of report' line next to Yes was left blank. A handwritten margin note on page 1 reads 'Correct version of Schedule attached'. Column B is headed 'Year-to-Date Total' and BOTH B cells are BLANK ('' , not 0). All figures are whole dollars with no cents. Two RECEIVED stamps appear: JUN 20 2008 (clear) and an X'd-out JUN 17 2008. Page box reads 'Page 1 of 3'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "13,465",
+     "itemized": "13565",
+     "result": "delta",
+     "detail": "delta +100: the 9 Schedule A rows sum to 13,565, which EQUALS the page's own printed SUBTOTAL FOR THIS PAGE (13,565) and its printed TOTAL CONTRIBUTIONS RECEIVED (13,565); the Summary Page line 1 Column A instead prints 13,465. FILER's own inconsistency between his Schedule A and his Summary Page - both figures retained verbatim, neither adjusted."
+    },
+    "expenditures": {
+     "stated": "1,143",
+     "itemized": "1143",
+     "result": "exact",
+     "detail": "exact (4 rows sum 1143 = printed page subtotal 1,143 = printed TOTAL 1,143 = stated_e 1,143)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 13565 = printed SUBTOTAL FOR THIS PAGE 13,565 (GATE PASSES); p4 rows sum 1143 = printed SUBTOTAL FOR THIS PAGE 1,143 (GATE PASSES). Both schedules are single-page.",
+   "escalations": 2,
+   "escalation_note": "p3 name+amount columns re-rendered at 400 dpi as a tight 9-row band crop; then the two doubtful contributor cells (rows 2 and 3) re-rendered as a 1000 dpi two-row cell crop. Row 2's surname stayed illegible after escalation and row 3's name is clipped by the cell edge - both left at the legible-glyph string, low confidence, needs_review.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "AMENDMENT: p1 carries the handwritten margin note 'Correct version of Schedule A attached', the amendment box is ticked Yes, and the checked report type is 'Seven days before a primary election'. EVERY Schedule A date is written WITHOUT A YEAR (4/18, 5/2, 5/3, 6/14, 6/7) so all 9 contribution dates are left BLANK with the verbatim kept in the row note, per contract; Schedule B dates DO carry the year and are parsed. The Complete Mailing Address column is EMPTY on every Schedule A row (filer left it blank - not redacted), so donor_city/donor_state are blank throughout. Row 5 is a self-loan from the candidate: amount 4,000 with the word 'loan' handwritten outside the cell to its right."
+  }
  }
 }

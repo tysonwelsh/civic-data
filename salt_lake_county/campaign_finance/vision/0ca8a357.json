@@ -1,6 +1,269 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-04-09",
+   "donor_raw": "Kenneth Bonar",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:12.99,9.47,0.98,87.31@p4",
+   "note": "occupation/employer printed as 'Snowbird Ski Resort'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-04-18",
+   "donor_raw": "Arbor Park Associates, LC",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.25,9.47,0.88,87.99@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 3,
+   "date": "2008-04-18",
+   "donor_raw": "Draper Peaks, LLC",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:17.21,9.47,0.88,87.99@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 4,
+   "date": "2008-04-18",
+   "donor_raw": "Gaylord Scott",
+   "amount": "350.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:19.17,5.61,1.18,91.86@p4",
+   "note": "the word 'Inkind' is printed to the RIGHT of this amount on the attachment - in-kind contribution, and it DOES count toward the form's printed total; occupation/employer printed as 'Unified Fire Authority/Asst Chief'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 5,
+   "date": "2008-04-20",
+   "donor_raw": "Lewis Young Robertson and Burningham, Inc.",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:21.23,9.47,0.98,87.99@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 6,
+   "date": "2008-04-18",
+   "donor_raw": "Energy Solutions",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:23.28,9.51,0.83,87.99@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 7,
+   "date": "2008-04-25",
+   "donor_raw": "Gary Palmer",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:25.25,9.47,1.13,88.03@p4",
+   "note": "occupation/employer printed as 'Central Utah Water/ Board Memb'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 8,
+   "date": "2008-04-28",
+   "donor_raw": "Kelvyn Cullimore, Jr",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:27.30,9.51,1.03,88.03@p4",
+   "note": "occupation/employer printed as 'Cottonwood Heights/Mayor'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 9,
+   "date": "2008-05-01",
+   "donor_raw": "Louis Cononelos",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:29.26,9.51,1.13,87.27@p4",
+   "note": "occupation/employer printed as 'Rio Tinto/Chief Advisor of Gov.'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 10,
+   "date": "2008-05-02",
+   "donor_raw": "S. L. County Republican Party",
+   "amount": "6,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:31.42,9.51,0.88,87.27@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 11,
+   "date": "2008-05-03",
+   "donor_raw": "Reid Demman Campaign",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:33.38,9.51,1.08,87.31@p4",
+   "note": "occupation/employer printed as 'Salt Lake County/ Surveyor'; attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  },
+  {
+   "line_no": 12,
+   "date": "2008-05-27",
+   "donor_raw": "Chick Paris Insurance Agency",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:35.49,9.51,0.88,87.99@p4",
+   "note": "attachment prints Address/City/ST/Zip column headers; only line 1 (Kenneth Bonar) has anything in them and it is REDACTED - the county's white-out bar clips the address and City cells so only the tops of the glyphs survive; not confidently legible, so donor_city/donor_state are left blank and marked redacted. Every other line's Address/City/ST/Zip cells were left EMPTY by the filer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-04-18",
+   "vendor_raw": "Riverton High Baseball",
+   "purpose": "Advertising",
+   "amount": "350.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.58,25.68,1.76,67.73@p6",
+   "note": "the word 'Inkind' is printed to the RIGHT of this amount - in-kind expenditure, included in the printed total."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-04-21",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Advertising",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:16.37,30.80,1.32,62.65@p6"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-04-22",
+   "vendor_raw": "S.L. County Republican Party",
+   "purpose": "Convention",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:18.53,30.80,1.67,62.65@p6"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-05-02",
+   "vendor_raw": "Zurchers Party Supply",
+   "purpose": "Novelties",
+   "amount": "95.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:21.37,30.76,1.23,62.61@p6"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-05-02",
+   "vendor_raw": "Arvey Paper",
+   "purpose": "Printing supplies",
+   "amount": "46.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:23.87,30.80,1.27,62.58@p6"
+  },
+  {
+   "line_no": 6,
+   "date": "2008-05-05",
+   "vendor_raw": "Office Max",
+   "purpose": "Printing supplies",
+   "amount": "74.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:26.27,30.76,1.32,62.61@p6"
+  },
+  {
+   "line_no": 7,
+   "date": "2008-05-05",
+   "vendor_raw": "Petersons Food Town",
+   "purpose": "Booth Supplies",
+   "amount": "15.43",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:28.82,30.80,1.23,62.58@p6"
+  },
+  {
+   "line_no": 8,
+   "date": "2008-05-23",
+   "vendor_raw": "Reagan Outdoor Advertizing",
+   "purpose": "Advertising",
+   "amount": "17,567.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:31.27,31.02,1.32,62.39@p6"
+  }
+ ],
  "total_contributions": "$13,200.00",
  "total_expenditures": "$18,749.05",
  "beginning_balance": "$16,495.58",
@@ -50,6 +313,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed form. The office line is typed as one string spanning two boxes, 'County Council   District 2' \u2014 split here into office_sought 'County Council' and district_number 'District 2' (verbatim as typed in the District Number column). The 'No' amendment box is checked. The signature date is 6/16/08 while the clerk RECEIVED stamp is JUN 17 2008. All lines reconcile against the April report."
+  "notes": "Typed form. The office line is typed as one string spanning two boxes, 'County Council   District 2' \u2014 split here into office_sought 'County Council' and district_number 'District 2' (verbatim as typed in the District Number column). The 'No' amendment box is checked. The signature date is 6/16/08 while the clerk RECEIVED stamp is JUN 17 2008. All lines reconcile against the April report.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "4 (landscape attachment; the Schedule A form on p3 says 'See Attachment')",
+   "itemized_pages_B": "6 (landscape attachment; the Schedule B form on p5 says 'See Attachment')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$13,200.00",
+     "itemized": "13,200.00",
+     "result": "exact",
+     "detail": "exact (13,200.00 = 13,200.00). 12 attachment lines sum to 13200.00, equal to the attachment's printed 'Total Contributions', the Schedule A form TOTAL on p3, and Summary Page line 1 Column A. The 12 amounts were additionally re-read in a 720 dpi TIGHT CROP of the amount column alone (1,000.00 / 1,500.00 / 1,500.00 / 350.00 / 100.00 / 250.00 / 2,000.00 / 100.00 / 200.00 / 6,000.00 / 100.00 / 100.00) and read identically; the projection profile shows exactly 12 text bands between the header and the Total rule, so there is no 13th line."
+    },
+    "expenditures": {
+     "stated": "$18,749.05",
+     "itemized": "18,749.05",
+     "result": "exact",
+     "detail": "exact (18,749.05 = 18,749.05). 8 attachment lines sum to 18749.05, equal to the attachment's printed Total Expenditures, the Schedule B form TOTAL on p5, and Summary Page line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A form): SUBTOTAL FOR THIS PAGE cell EMPTY, TOTAL cell prints $13,200.00 - the itemization is on the p4 attachment, whose own printed 'Total Contributions' is $13,200.00 and whose 12 rows sum to 13,200.00 - GATE PASSES (confirmed against a 720 dpi amount-column crop). p5 (Schedule B form): SUBTOTAL cell EMPTY, TOTAL $18,749.05; p6 attachment rows 18,749.05 = printed Total Expenditures 18,749.05 - GATE PASSES.",
+   "escalations": 3,
+   "escalation_note": "p4 and p6 are LANDSCAPE attachments: re-rendered at 240 dpi and rotated 90 deg CW (PIL rotate(-90) - the OPPOSITE sign from this same filer's January report, confirming the sign is per file) and cropped to the table. Then two 720 dpi tight cell crops on p4 via pdftoppm -x/-y/-W/-H: (1) the Amount column alone, to adjudicate an apparent shortfall against the printed total - it confirmed every row and the shortfall proved to be my own arithmetic, not the page; (2) the City/ST columns, to see whether line 1's geography was recoverable under the redaction - it is not.",
+   "n_contrib_rows": 12,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Michael H. Jensen, County Council District 2, Republican; INTERIM 'June 17 (for the period ending June 16, 2008)' box checked, amendment 'No'. Signed 6/16/08, clerk RECEIVED stamp JUN 17 2008. Both schedules delegated to typed spreadsheet attachments; the PDF has no text layer (pdftotext returns nothing), so every figure is vision-read. ONE line on each side is marked 'Inkind' (Gaylord Scott $350.00 received; Riverton High Baseball $350.00 spent) - both counted in the form's printed totals. The Schedule A attachment carries Address/City/ST/Zip columns but only line 1 has any content and it is county-REDACTED (glyph tops only), so this filing yields no donor geography. Both sides reconcile to the cent against the form's own printed totals."
+  }
  }
 }

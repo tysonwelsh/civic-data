@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cover is the '[County Officeholders - Year-End]' 2014 form but the SEPTEMBER 15 interim box is checked and the Year-End box is not - the form face is recorded. Neither amendment box is checked. Clerk stamp SEP 15 2014. Summary Page is page 2; Lines 1, 2, 4 and 6 Column A are hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 and Line 7 both read 123.78 - no activity in the period. Column B carries the same year-to-date figures as the October report (959.14 / 835.36)."
+  "notes": "Cover is the '[County Officeholders - Year-End]' 2014 form but the SEPTEMBER 15 interim box is checked and the Year-End box is not - the form face is recorded. Neither amendment box is checked. Clerk stamp SEP 15 2014. Summary Page is page 2; Lines 1, 2, 4 and 6 Column A are hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 and Line 7 both read 123.78 - no activity in the period. Column B carries the same year-to-date figures as the October report (959.14 / 835.36).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "The document is only TWO pages - cover (p1) and Summary Page (p2). NO 'Itemized Contributions Received' page exists at all, so there is no itemized side to sum. The Summary Page's line 1 Column A is a slashed-zero glyph (= 0 per the ZERO-GLYPH RULING) and Column B prints 959.14, but a zero on the summary is not an itemized zero: this is honest NON-EXISTENCE of the schedule page, not a blank schedule."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "Same - no 'Itemized Expenditures Made' page exists in the document. Summary line 2 Column A is a slashed-zero glyph (= 0), Column B prints 835.36."
+    }
+   },
+   "page_subtotal_gates": "NOT APPLICABLE - the filing contains no schedule page and therefore prints no page subtotal anywhere.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO-PAGE FILING: cover + Summary Page only; the filer submitted no itemized schedules, so BOTH sides are 'none' (page does not exist), never 'transcribed with zero rows'. The cover checks the INTERIM 'September 15' box (period ending September 10, 2014) even though the printed form header reads '[County Officeholders - Year-End]' and the clerk listing calls it a September report; the checked box is the authority. The amendment question is answered neither Yes nor No. Signed and dated 9/15/14 with a clerk RECEIVED stamp SEP 15 2014. Summary Column A lines 1, 2, 4 and 6 are all slashed-zero glyphs (0); Column B carries 959.14 contributions / 835.36 expenditures to date; lines 3, 5 and 7 all print 123.78. Cover street-address and phone/email blocks are redacted with black bars. Candidate signs as 'H. Brett Helsten'; the clerk listing indexes him as 'Brett Helsten'."
+  }
  }
 }

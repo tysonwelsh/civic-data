@@ -1,6 +1,260 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2005-10-03",
+   "donor_raw": "Alliant Tech Systems",
+   "donor_city": "Magna",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,15.80,71.00,2.20@p4",
+   "note": "the attachment has Address / City / ST / Zip columns; per PRIVACY the street line (printed clipped as '8400 West 5000 Sout') and the zip were discarded at read time and only city and state are recorded"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2005-02-01",
+   "vendor_raw": "Arvey Paper",
+   "purpose": "Supplies",
+   "amount": "13.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,15.92,62.00,2.20@p6"
+  },
+  {
+   "line_no": 2,
+   "date": "2005-02-11",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Website Domain",
+   "amount": "34.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,18.35,62.00,2.20@p6"
+  },
+  {
+   "line_no": 3,
+   "date": "2005-03-02",
+   "vendor_raw": "Chamber West",
+   "purpose": "Membership dues",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,20.78,62.00,2.20@p6"
+  },
+  {
+   "line_no": 4,
+   "date": "2005-03-21",
+   "vendor_raw": "Fedex",
+   "purpose": "Shipping",
+   "amount": "21.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,23.21,62.00,2.20@p6"
+  },
+  {
+   "line_no": 5,
+   "date": "2005-03-21",
+   "vendor_raw": "Hunter/ Cyprus Baseball",
+   "purpose": "Donation",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,25.64,62.00,2.20@p6"
+  },
+  {
+   "line_no": 6,
+   "date": "2005-05-09",
+   "vendor_raw": "Arvey Paper",
+   "purpose": "printing",
+   "amount": "11.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,28.07,62.00,2.20@p6"
+  },
+  {
+   "line_no": 7,
+   "date": "2005-05-16",
+   "vendor_raw": "Chamber West",
+   "purpose": "Contribution",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,30.50,62.00,2.20@p6"
+  },
+  {
+   "line_no": 8,
+   "date": "2005-07-06",
+   "vendor_raw": "Cheveron",
+   "purpose": "Magna Parade",
+   "amount": "15.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,32.93,62.00,2.20@p6",
+   "note": "recipient spelled 'Cheveron' - verbatim"
+  },
+  {
+   "line_no": 9,
+   "date": "2005-07-11",
+   "vendor_raw": "Staples",
+   "purpose": "Printing",
+   "amount": "138.56",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,35.36,62.00,2.20@p6"
+  },
+  {
+   "line_no": 10,
+   "date": "2005-07-21",
+   "vendor_raw": "Ryan Perry",
+   "purpose": "Reimbursement",
+   "amount": "84.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,37.79,62.00,2.20@p6"
+  },
+  {
+   "line_no": 11,
+   "date": "2021-07-26",
+   "vendor_raw": "Fed Express",
+   "purpose": "Shipping",
+   "amount": "21.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,40.22,62.00,2.20@p6",
+   "note": "FILER DATE TYPO kept VERBATIM: printed '7/26/2021' on a report covering 2005 and filed 1/31/06. It is a well-formed, parseable date, so per the contract it is transcribed as written rather than blanked or silently corrected to 2005. Confirmed in a 250 dpi crop"
+  },
+  {
+   "line_no": 12,
+   "date": "2005-09-06",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage",
+   "amount": "26.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,42.65,62.00,2.20@p6"
+  },
+  {
+   "line_no": 13,
+   "date": "2005-09-26",
+   "vendor_raw": "Flower Patch",
+   "purpose": "Flowers",
+   "amount": "54.37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,45.08,62.00,2.20@p6"
+  },
+  {
+   "line_no": 14,
+   "date": "2005-10-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage",
+   "amount": "23.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,47.51,62.00,2.20@p6"
+  },
+  {
+   "line_no": 15,
+   "date": "2005-11-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,49.94,62.00,2.20@p6"
+  },
+  {
+   "line_no": 16,
+   "date": "2005-11-04",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Website domain",
+   "amount": "34.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,52.37,62.00,2.20@p6"
+  },
+  {
+   "line_no": 17,
+   "date": "2005-12-05",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,54.80,62.00,2.20@p6"
+  },
+  {
+   "line_no": 18,
+   "date": "2005-01-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage",
+   "amount": "27.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,57.23,62.00,2.20@p6",
+   "note": "printed '1/3/2005'. It sits LAST, after 12/5/2005, in an otherwise strictly date-ordered list, so the year looks like a filer slip for 2006 - but it is well-formed and parseable, so it is kept VERBATIM and not corrected"
+  }
+ ],
  "total_contributions": "$ 500.00",
  "total_expenditures": "$ 1,218.26",
  "beginning_balance": "$ 7056.54",
@@ -49,6 +303,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TYPEWRITTEN on the 2006 form; the Year-End (January 31) box is checked and the amendment 'No' box is marked with an x. Signed 1/30/06, clerk-stamped JAN 31 2006 - the year-end report covering calendar 2005, matching the clerk's '2005 Summary Report' label. A stray bullet character sits where the June 20 checkbox should print; it is a form-printing artifact, NOT a check mark. Line 3 is typed without a thousands comma ('$ 7056.54') while Lines 5 and 7 have one - kept verbatim. Lines 3+4=5 and 5-6=7 reconcile exactly."
+  "notes": "TYPEWRITTEN on the 2006 form; the Year-End (January 31) box is checked and the amendment 'No' box is marked with an x. Signed 1/30/06, clerk-stamped JAN 31 2006 - the year-end report covering calendar 2005, matching the clerk's '2005 Summary Report' label. A stray bullet character sits where the June 20 checkbox should print; it is a form-printing artifact, NOT a check mark. Line 3 is typed without a thousands comma ('$ 7056.54') while Lines 5 and 7 have one - kept verbatim. Lines 3+4=5 and 5-6=7 reconcile exactly.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3,4",
+   "itemized_pages_B": "5,6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$ 500.00",
+     "itemized": "500.00",
+     "result": "exact",
+     "detail": "exact (500.00 = 500.00); the single attachment row equals the attachment's own printed 'Total Contributions $500.00' and the '$ 500.00' typed into the on-form TOTAL CONTRIBUTIONS RECEIVED cell on p3, which equals Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "$ 1,218.26",
+     "itemized": "1,218.26",
+     "result": "exact",
+     "detail": "exact (1,218.26 = 1,218.26); 18 attachment rows sum to the attachment's own printed 'Total Expenditures $1,218.26' and to the '$ 1,218.26' typed into the on-form SUBTOTAL cell on p5"
+    }
+   },
+   "page_subtotal_gates": "The on-form schedules carry only 'See Attachment' plus a typed total: p3's TOTAL CONTRIBUTIONS RECEIVED cell = $500.00 (its SUBTOTAL cell is empty) and p5's SUBTOTAL FOR THIS PAGE cell = $1,218.26 (its TOTAL cell is empty - the filer used the two cells inconsistently between the two pages). Both gate: attachment rows 500.00 = 500.00 and 1,218.26 = 1,218.26, and each attachment also prints its own Total which agrees.",
+   "escalations": 1,
+   "escalation_note": "the attachments (pp.4 and 6) are landscape but poppler renders them landscape natively, so no rotation was needed. p6 was re-rendered at 250 dpi and tight-cropped to the row block to confirm the dates and payee names - which is how the '7/26/2021' typo was verified as genuinely printed rather than a 150 dpi misread (hence verified=1 on the expenditure rows).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 18,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "6-page filing (Michael Jensen, County Council, Year-End January 31 2006 - the period covered is calendar 2005). p1 cover, p2 Summary Page, p3 on-form Schedule A ('See Attachment', total typed in), p4 the contributions attachment, p5 on-form Schedule B ('See Attachment', subtotal typed in), p6 the expenditures attachment. ONE contribution only: Alliant Tech Systems, 10/3/2005, $500.00. Its attachment DOES carry Address / City / ST / Zip columns - per PRIVACY the street line (printed clipped as '8400 West 5000 Sout') and the zip were discarded at read time and only city='Magna', state='UT' are recorded. TWO DATE ODDITIES on the expenditure attachment, both kept VERBATIM per the filer-typo rule: a row dated '7/26/2021' on a 2005-period report, and a final row dated '1/3/2005' that sits after 12/5/2005 in an otherwise date-ordered list (it reads like a slip for 1/3/2006). Neither was corrected and neither was blanked - they are well-formed parseable dates, which is the opposite case from an unparseable one."
+  }
  }
 }

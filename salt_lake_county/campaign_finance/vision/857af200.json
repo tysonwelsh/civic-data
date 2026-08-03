@@ -51,6 +51,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Same retroactive batch as the other two Rogers filings: 'Applies to 2010 County Council At Large B race' hand-written across the top, signed 5-2-12, clerk stamp MAY 04 2012. The Year-End box is checked and the year '2010' is hand-written next to the YEAR-END REPORT heading with a large hand-drawn circle around the whole block; neither amendment box is checked. Summary Page is PDF page 4 (page 3 is a Schedule A on which the contributor line reads 'None' and the page subtotal is a hand-drawn zero while 'TOTAL CONTRIBUTIONS RECEIVED' still shows 295.98). Every Column A cell on the Summary Page is a hand-drawn zero; the Column B cents are raised superscripts."
+  "notes": "Same retroactive batch as the other two Rogers filings: 'Applies to 2010 County Council At Large B race' hand-written across the top, signed 5-2-12, clerk stamp MAY 04 2012. The Year-End box is checked and the year '2010' is hand-written next to the YEAR-END REPORT heading with a large hand-drawn circle around the whole block; neither amendment box is checked. Summary Page is PDF page 4 (page 3 is a Schedule A on which the contributor line reads 'None' and the page subtotal is a hand-drawn zero while 'TOTAL CONTRIBUTIONS RECEIVED' still shows 295.98). Every Column A cell on the Summary Page is a hand-drawn zero; the Column B cents are raised superscripts.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2 (Schedule A, 'Page 1 of 1')",
+   "itemized_pages_B": "3 (Schedule B, 'Page 1 of 1')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A EXISTS and is printed with NO lines filled; the filer wrote the word 'None' across the Name of Contributor cell of row 1 and a written zero in the SUBTOTAL cell. Zero rows is the correct transcription and this is a real zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B likewise: 'None' written in the Purpose cell of row 1, a written zero in the SUBTOTAL cell, no lines filled."
+    }
+   },
+   "page_subtotal_gates": "p2 SUBTOTAL = a hand-written zero against an empty grid; p3 the same. Nothing to gate and zero rows is correct on both. BUT NOTE what the grand-total cells hold: p2's TOTAL CONTRIBUTIONS RECEIVED reads 295.98 and p3's TOTAL EXPENDITURES MADE reads 295.98, against page subtotals of zero. Those are CUMULATIVE figures - they equal the Summary Page's Column B (Aggregate Total) on both lines, while Column A is a written zero on all five of its lines. The grand-total cells on this filing are therefore not sums of subtotals and must not be read as this period's money.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten form, Warren T. Rogers, County Council At-Large B, year-end, form's own Date of Report 5-2-12 (the filing is manifested as the 2010 cycle). PDF page order: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page - the Summary Page comes LAST here, not second. An entirely inactive period: both schedules carry the word 'None' and a zero subtotal, and the Summary Page's Column A is a hand-written zero glyph on every line (lines 1-7). Under the repo's zero-glyph ruling those glyphs are 0, so both sides are honest REAL ZEROS with zero rows - not gaps, and not 'schedule missing' (the schedule pages are present and printed). The 295.98 appearing in both grand-total cells is the aggregate-to-date figure, matching Summary Page Column B."
+  }
  }
 }

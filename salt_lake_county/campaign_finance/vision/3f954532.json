@@ -1,5 +1,32 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2013-03-01",
+   "donor_raw": "GARY OTT",
+   "amount": "$20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.30,14.40,75.10,2.50@p3",
+   "note": "candidate self-contribution; occupation/employer 'SALT LAKE COUNTY RECORDER'; address block REDACTED (solid black box covering both rows) - no street content was read or retained"
+  },
+  {
+   "line_no": 2,
+   "date": "2013-03-06",
+   "donor_raw": "GARY OTT",
+   "amount": "$214.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.30,18.25,75.10,2.25@p3",
+   "note": "candidate self-contribution; occupation/employer 'SALT LAKE COUNTY RECORDER'; address block REDACTED"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "234.06",
  "total_expenditures": "123.00",
@@ -50,6 +77,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "A 2013 year-end filed on a stale form whose printed interim dates all read 2012; the Year-End box is checked and neither amendment box is. Signature date '1-31-14'; clerk RECEIVED stamp JAN 31 2014. Column B is headed 'Year to Date'. Arithmetic on the face is internally consistent (141.00 + 234.06 = 375.06; 375.06 - 123.00 = 252.06)."
+  "notes": "A 2013 year-end filed on a stale form whose printed interim dates all read 2012; the Year-End box is checked and neither amendment box is. Signature date '1-31-14'; clerk RECEIVED stamp JAN 31 2014. Column B is headed 'Year to Date'. Arithmetic on the face is internally consistent (141.00 + 234.06 = 375.06; 375.06 - 123.00 = 252.06).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "234.06",
+     "itemized": "234.06",
+     "result": "exact",
+     "detail": "exact (20.00 + 214.06 = 234.06 = printed TOTAL CONTRIBUTIONS RECEIVED 234.06)"
+    },
+    "expenditures": {
+     "stated": "123.00",
+     "itemized": "123.00",
+     "result": "exact",
+     "detail": "exact (123.00 = 123.00)"
+    }
+   },
+   "page_subtotal_gates": "This filing uses the TYPED variant of the form, which prints only a TOTAL line per schedule (no per-page SUBTOTAL row). p3 rows 234.06 = printed TOTAL 234.06 - GATE PASSES. p4 rows 123.00 = printed TOTAL 123.00 - GATE PASSES (23 rows).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BORN-DIGITAL TYPED filing (not handwritten) - the only one of its kind in this chunk, so every value is crisp. The contributor MAILING ADDRESS block is covered by a solid BLACK REDACTION BOX applied before scanning: county-redacted, not a filer omission. Both contributions are the candidate's own money. Every expenditure is a Key Bank account fee. Page layout is unusual: p4 carries the expenditures table and then the heading 'ITEMIZED CONTRIBUTIONS RECEIVED' at the foot with nothing under it, while the contributions rows sit on p3 - a document-assembly artifact, noted, nothing inferred from it. Clerk RECEIVED stamp JAN 31 2014."
+  }
  }
 }

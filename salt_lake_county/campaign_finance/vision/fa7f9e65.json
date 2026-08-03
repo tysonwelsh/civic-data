@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "A dormant-year report: Lines 1, 2, 4 and 6 (both columns where they exist) are hand-drawn slashed zeros, recorded as '0'; the balance simply carries 111.80 through from the prior year-end report. NEITHER amendment box is checked, so is_amendment is blank. Signed 1/27/11 and clerk-stamped JAN 28 2011; the Summary Page's Date-of-Report box reads 'January 26, 2011' (one day earlier than the signature). This is the year-end report for calendar 2010. Only 2 pages - the Summary Page's own page box reads 'Page 1 of 1'."
+  "notes": "A dormant-year report: Lines 1, 2, 4 and 6 (both columns where they exist) are hand-drawn slashed zeros, recorded as '0'; the balance simply carries 111.80 through from the prior year-end report. NEITHER amendment box is checked, so is_amendment is blank. Signed 1/27/11 and clerk-stamped JAN 28 2011; the Summary Page's Date-of-Report box reads 'January 26, 2011' (one day earlier than the signature). This is the year-end report for calendar 2010. Only 2 pages - the Summary Page's own page box reads 'Page 1 of 1'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "the document is only 2 pages (cover + Summary Page) - no Schedule A page was filed, so there is no itemized side to sum. Summary Page line 1 is a slashed-zero in BOTH columns, but a stated zero is not the same fact as a blank schedule that was inspected"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists either. Summary Page line 2 is a slashed-zero in both columns"
+    }
+   },
+   "page_subtotal_gates": "none available - the document contains no schedule page at all.",
+   "escalations": 0,
+   "escalation_note": "none - the whole 2-page document was rendered and read.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2-page filing (Jani Iwamoto, County Council District 4, Summary Page self-dated 'January 26, 2011', marked 'Page 1 of 1'). It consists of the cover and the Summary Page ONLY - neither Schedule A nor Schedule B was filed, so both sides are 'none' (no such schedule in the document) rather than a transcribed zero. For the record, the Summary Page reports slashed-zero glyphs on lines 1, 2, 4 and 6 in both columns with a carried balance of 111.80 on lines 3, 5 and 7; the balance chain closes (111.80 + 0 = 111.80; 111.80 - 0 = 111.80). Those are totals-tranche fields, not mine, and are noted only as context for why no schedule was needed."
+  }
  }
 }

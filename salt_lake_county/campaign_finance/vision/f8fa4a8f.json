@@ -1,6 +1,47 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-15",
+   "donor_raw": "Self - LOAN",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.63,24.50,86.12,2.90@p3",
+   "note": "candidate self-loan; Occupation/Employer cell reads 'LOAN'; address cell left EMPTY by the filer (not redacted)"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-08-31",
+   "donor_raw": "Self - LOAN",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.63,27.65,86.12,3.20@p3",
+   "note": "date printed '8/31/12' - AFTER the report's own period (April 5, 2012 interim, period ending 3/31/2012) and after the 4/5/12 signature; kept verbatim as a filer typo, never back-filled from the report date. Leading digit escalated to 1200 dpi and compared against row 1's '3': it is an 8. Occupation/Employer cell reads 'LOAN'; address cell left EMPTY by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-31",
+   "vendor_raw": "Alphagraphics",
+   "purpose": "Printing",
+   "amount": "20.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.99,27.00,79.53,3.00@p4"
+  }
+ ],
  "total_contributions": "273.16",
  "total_expenditures": "20.84",
  "beginning_balance": "0",
@@ -49,6 +90,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Neither amendment box is checked \u2014 this is the original April 5 interim. Line 3 is written as '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'S.L. County Council #4'. Received stamp APR 05 2012."
+  "notes": "Handwritten. Neither amendment box is checked \u2014 this is the original April 5 interim. Line 3 is written as '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'S.L. County Council #4'. Received stamp APR 05 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "273.16",
+     "itemized": "273.16",
+     "result": "exact",
+     "detail": "exact - 2 rows (173.16 + 100.00) sum to 273.16 = printed SUBTOTAL FOR THIS PAGE 273.16 = printed TOTAL CONTRIBUTIONS RECEIVED 273.16 = Summary Page line 1 stated 273.16"
+    },
+    "expenditures": {
+     "stated": "20.84",
+     "itemized": "20.84",
+     "result": "exact",
+     "detail": "exact - 1 row 20.84 = printed SUBTOTAL FOR THIS PAGE 20.84 = printed TOTAL EXPENDITURES MADE 20.84 = Summary Page line 2 stated 20.84"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 273.16 = printed subtotal 273.16 (FIRED, passed); p4 rows 20.84 = printed subtotal 20.84 (FIRED, passed).",
+   "escalations": 2,
+   "escalation_note": "p3 Date-Received column, rows 1 and 2, cropped and re-rendered at 1200 dpi. Row 2's leading digit is a 3-vs-8 ambiguity on an April-5 report; side by side with row 1's unmistakable open-bowed '3', row 2's glyph is a closed double loop = 8. Read as printed: 8/31/12, a filer date typo (see notes), NOT silently corrected to 3/31/12.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page form, pages in order and self-numbered by the filer (Page 3 of 4, Page 4 of 4). Both contributions are the candidate's OWN 'Self - LOAN' entries with 'LOAN' written in the Occupation/Employer column - transcribed verbatim; there is no in-kind marker on this form and none is inferred. The Complete Mailing Address cells are EMPTY - the filer left them blank (this is NOT a county redaction; the redaction on this filing is confined to the cover page's address/phone block), so donor_city/donor_state are blank because nothing was written. DATE ANOMALY, retained verbatim: contribution row 2 is dated 8/31/12 on an April 5, 2012 interim report signed 4/5/12 for the period ending 3/31/2012 - a well-formed filer typo (almost certainly meant 3/31/12, which is the date of the sole expenditure). Kept as printed per the verbatim-typo rule; confirmed at 1200 dpi. Column A and Column B on the Summary Page are identical (273.16 / 20.84)."
+  }
  }
 }

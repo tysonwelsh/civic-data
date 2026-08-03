@@ -1,6 +1,195 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-11",
+   "donor_raw": "Russ Wall",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,13.90,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Mayor'; the mailing-address cell holds a faint ghost of erased/whited-out text ('...ille, UT 84...' is all that survives) - no city or state could be read"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-15",
+   "donor_raw": "Janice Auger",
+   "amount": "229.85",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,15.41,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Mayor'; marked with the form's '*' IN KIND flag (legend '* In Kind' printed at the foot of the page); the candidate herself, matching the same-day $229.85 Schedule B filing-fee row"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-20",
+   "donor_raw": "Janice Auger",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,16.92,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Retired'; the candidate herself; NOT starred, so not in-kind"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-22",
+   "donor_raw": "Janice Auger",
+   "amount": "40.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,18.43,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Retired'; marked '*' IN KIND; matches the same-day $40.00 Schedule B 'Use of personal office supplies' row"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-23",
+   "donor_raw": "Ken Cook",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,19.94,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Retired'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-24",
+   "donor_raw": "Ryan Perry",
+   "amount": "20.90",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,21.45,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Adm. Asst.'; marked '*' IN KIND; matches the same-day $20.90 Schedule B row"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-03-29",
+   "donor_raw": "Tom Dolan",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,22.96,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Mayor'"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-03-31",
+   "donor_raw": "Michael Waddoups",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,24.47,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Prop. Mgr.'"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-03-31",
+   "donor_raw": "Knight Construction",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.50,25.98,84.40,1.40@p3",
+   "note": "Occupation/Employer cell: 'Contractor'; the ONLY row whose address survives on the page: it printed a street address plus 'SLC, UT 84106'; the street was discarded at read time and only city/state recorded"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-15",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "229.85",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,13.90,83.30,1.40@p4",
+   "note": "marked with the form's '*' IN KIND flag (legend '* In Kind' printed at the foot of the page); mirrors a starred Schedule A row of the same date and amount"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-22",
+   "vendor_raw": "Janice Auger",
+   "purpose": "Use of personal office supplies",
+   "amount": "40.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,15.43,83.30,1.40@p4",
+   "note": "marked with the form's '*' IN KIND flag (legend '* In Kind' printed at the foot of the page); mirrors a starred Schedule A row of the same date and amount"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-24",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Disclosure Statemnts from prior elections",
+   "amount": "20.90",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,16.96,83.30,1.40@p4",
+   "note": "marked with the form's '*' IN KIND flag (legend '* In Kind' printed at the foot of the page); mirrors a starred Schedule A row of the same date and amount; purpose printed 'Disclosure Statemnts' (sic)"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-28",
+   "vendor_raw": "Post Office",
+   "purpose": "Stamps",
+   "amount": "78.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,18.49,83.30,1.40@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-29",
+   "vendor_raw": "Imagino's",
+   "purpose": "Signs",
+   "amount": "1,888.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.30,20.02,83.30,1.40@p4"
+  }
+ ],
  "total_contributions": "4490.75",
  "total_expenditures": "2257.17",
  "beginning_balance": "0",
@@ -49,6 +238,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Line 3 Column A is a hand-drawn slashed \u00d8 (zero). Line 7 is written WITHOUT a visible decimal point \u2014 '2233 58' with a gap where the point would be \u2014 and is recorded exactly that way rather than converted; the value is consistent with 2,233.58 (4,490.75 - 2,257.17). The candidate wrote the office across the Office Sought / District Number cells as 'Council - At Large C', so district_number is empty."
+  "notes": "Handwritten. Line 3 Column A is a hand-drawn slashed \u00d8 (zero). Line 7 is written WITHOUT a visible decimal point \u2014 '2233 58' with a gap where the point would be \u2014 and is recorded exactly that way rather than converted; the value is consistent with 2,233.58 (4,490.75 - 2,257.17). The candidate wrote the office across the Office Sought / District Number cells as 'Council - At Large C', so district_number is empty.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4490.75",
+     "itemized": "4490.75",
+     "result": "exact",
+     "detail": "exact (4490.75 = 4,490.75); the 9 rows equal the page's own printed TOTAL $4,490.75 and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "2257.17",
+     "itemized": "2257.17",
+     "result": "exact",
+     "detail": "exact (2257.17 = 2,257.17); the 5 rows equal the page's own printed TOTAL $2,257.17 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "This filer replaced the county's pre-printed Schedule A/B grids with her OWN typed one-page schedules, so there is no SUBTOTAL FOR THIS PAGE line at all; each page prints a single TOTAL instead. Both fired EXACTLY: p3 rows 4,490.75 = printed TOTAL $4,490.75; p4 rows 2,257.17 = printed TOTAL $2,257.17. In-kind rows are inside both printed totals.",
+   "escalations": 0,
+   "escalation_note": "None needed - typed schedules, both totals closed to the cent on the first read.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing: p1 cover, p2 Summary Page (totals tranche, not redone), p3 the filer's own typed 'SCHEDULE A - Itemized Contributions Received' (9 rows, hand-numbered 'Page 2 of 3'), p4 her typed 'SCHEDULE B' (5 rows, 'Page 3 of 3'). Note the page numbering runs 2-of-3/3-of-3 while the PDF has 4 pages - the filer did not count the cover. Both pages are headed 'Janice Auger / April 5, 2006'. IN-KIND is marked by a dedicated '*' COLUMN with the legend '* In Kind' at the foot of each page: three contributions (3/15 $229.85, 3/22 $40.00, 3/24 $20.90) and the three matching expenditures are starred, and each in-kind pair appears on both sides for the same date and amount. Three of the nine contributions are from the candidate herself. PRIVACY: the mailing-address column is blank or erased on eight of the nine rows; the one surviving address (Knight Construction) printed a street plus 'SLC, UT 84106' and only the city/state were recorded. The form's own typo 'Disclosure Statemnts' is kept verbatim."
+  }
  }
 }

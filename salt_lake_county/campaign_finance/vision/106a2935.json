@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "TWO type-of-report boxes checked (January 31 of each year AND Final Report) - joined with ' + '. Every Column A cell is a slashed-zero / small-circle glyph -> '0'. Column B cents are in the superscript style ('962' with '91' raised); transcribed 962.91. Summary header: page 2 of 4, BONSALL, 1/22/07. RECEIVED stamp JAN 23 2007."
+  "notes": "TWO type-of-report boxes checked (January 31 of each year AND Final Report) - joined with ' + '. Every Column A cell is a slashed-zero / small-circle glyph -> '0'. Column B cents are in the superscript style ('962' with '91' raised); transcribed 962.91. Summary header: page 2 of 4, BONSALL, 1/22/07. RECEIVED stamp JAN 23 2007.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A page 3 is a wholly empty grid and both its SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells print a written '0.00'; Summary Page line 1 Column A carries a slashed-zero glyph (ZERO-GLYPH RULING => 0). A real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B page 4 is a wholly empty grid and both its SUBTOTAL and TOTAL cells print a written '0.00'; Summary Page line 2 Column A carries a slashed-zero glyph"
+    }
+   },
+   "page_subtotal_gates": "p3 rows (none) = printed SUBTOTAL FOR THIS PAGE 0.00 (GATE PASS); p4 rows (none) = printed subtotal 0.00 (GATE PASS). Both subtotal cells were re-cropped at 200 dpi to confirm they read '0.00' rather than being empty.",
+   "escalations": 1,
+   "escalation_note": "p3 and p4 subtotal/total bands cropped from the 200 dpi renders to confirm the printed 0.00 values.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Charles A. Bonsall, Salt Lake County Clerk (Libertarian), '2006 Financial Disclosure Report', signed 1/22/07, clerk-stamped JAN 23 2007. TWO report-type boxes are checked: the January-31 YEAR-END box AND the FINAL REPORT box (consistent with index.csv's 'January 31 of each year + Final Report'). Both schedules are BLANK - empty grids with a printed 0.00 in each subtotal and total - so this final report closes a campaign with no activity in the period. Column B (Sum Total to Date) does carry activity: 1,543.11 raised and 962.91 spent across the whole campaign, but Column A (this period) is zero on both sides and no itemized line exists anywhere in the document. Summary Page lines 3-7 Column A are all slashed-zero glyphs. The cover's address/phone/email fields were left EMPTY by the filer (not redacted)."
+  }
  }
 }

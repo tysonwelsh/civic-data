@@ -1,6 +1,235 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-06-30",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,22.38,85.54,4.00@p3",
+   "note": "ampersand written as a semicolon-like glyph throughout this filing; address and occupation cells empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-07-13",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "53.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,26.38,85.54,4.00@p3",
+   "note": "the NAME cell itself reads 'LOAN FROM ROB LATHAM' - a candidate loan, recorded verbatim; occupation cell 'ATTORNEY/CRAMER & CRAMER'; address cell empty"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-07-28",
+   "donor_raw": "WILLIAM REDPATH & MELINDA MOORE",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,30.37,85.54,4.00@p3",
+   "note": "two names in one cell, written across two lines; address and occupation cells empty"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-07-31",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,34.37,85.54,4.00@p3",
+   "note": "address and occupation cells empty"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-08-09",
+   "donor_raw": "JON TITUS",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,38.37,85.54,4.00@p3",
+   "note": "written 'JON TITVS'; this hand writes U as V (proven by 'OF VTAH' two rows down); address and occupation cells empty"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-08-10",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "52.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,42.36,85.54,4.00@p3",
+   "note": "second candidate loan; address and occupation cells empty"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-08-14",
+   "donor_raw": "LIBERTARIAN PARTY OF UTAH - IN-KIND",
+   "amount": "257.14",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,46.36,85.54,4.00@p3",
+   "note": "IN-KIND is written into the NAME cell itself ('LIBERTARIAN PARTY OF VTAH - IN-KIND'), which is the only in-kind marker on this form; 'VTAH' = UTAH per this hand's U-as-V convention; the word PARTY is overwritten/corrected. Address and occupation cells empty"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-08-31",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.69,50.36,85.54,4.00@p3",
+   "note": "address and occupation cells empty"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-06-27",
+   "vendor_raw": "DIANA CHAMBERLAIN",
+   "purpose": "VOTER CALLS",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,25.09,79.78,4.05@p4",
+   "note": "amount printed with a dollar sign '$100.00'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-06-28",
+   "vendor_raw": "CLARKE AMBRICAN",
+   "purpose": "CHECKS",
+   "amount": "10.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,29.14,79.78,3.96@p4",
+   "note": "the glyph string is kept as written: the third letter of the second word is formed like a B, giving 'AMBRICAN'. In context (purpose 'CHECKS') this is very likely the check printer CLARKE AMERICAN, but that reading is NOT asserted here and the hand offers no in-context proof of the letter, so the verbatim glyphs stand at low confidence"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-30",
+   "vendor_raw": "CRAMER & CRAMER",
+   "purpose": "OFFICE SERVICES",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,33.10,79.78,4.00@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-07-13",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "53.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,37.10,79.78,4.00@p4",
+   "note": "same amount and date as Schedule A row 2 (a candidate loan)"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-07-31",
+   "vendor_raw": "CRAMER & CRAMER",
+   "purpose": "OFFICE SERVICES",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,41.10,79.78,4.00@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-08-08",
+   "vendor_raw": "MILLENNIUM SIGN CO.",
+   "purpose": "ADVERTISING",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,45.11,79.78,4.00@p4",
+   "note": "amount printed '1000.00'; confirmed by the page-subtotal identity"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-08-10",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "52.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,49.11,79.78,4.00@p4",
+   "note": "same amount and date as Schedule A row 6 (a candidate loan)"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-08-14",
+   "vendor_raw": "NEWSPAPER AGENCY CO.",
+   "purpose": "ADVERTISING",
+   "amount": "257.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,53.11,79.78,4.00@p4",
+   "note": "same amount and date as the Schedule A IN-KIND row 7; no in-kind marker on this side, so in_kind is left false as printed"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-08-31",
+   "vendor_raw": "CRAMER & CRAMER",
+   "purpose": "OFFICE SERVICES",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,57.12,79.78,4.05@p4"
+  }
+ ],
  "total_contributions": "863.85",
  "total_expenditures": "1774.00",
  "beginning_balance": "1157.09",
@@ -49,6 +278,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "September 15 interim box checked; amendment = No; signed 9/14/06, clerk-stamped RECEIVED SEP 14 2006; Summary Page header 'LATHAM, SEPTEMBER 14, 2006'. Column A reconciles exactly (1157.09 + 863.85 = 2020.94; less 1774.00 = 246.94), and Line 3 equals the closing balance on the June-20 AMENDMENT (key 6edc810e) rather than any un-amended June figure. Column B does not reconcile: 4787.27 - 4140.33 = 646.94 versus the Line 7 balance of 246.94 (a 400.00 gap, kept verbatim). Line 1 Column B was confirmed at 250 dpi with a 3x crop."
+  "notes": "September 15 interim box checked; amendment = No; signed 9/14/06, clerk-stamped RECEIVED SEP 14 2006; Summary Page header 'LATHAM, SEPTEMBER 14, 2006'. Column A reconciles exactly (1157.09 + 863.85 = 2020.94; less 1774.00 = 246.94), and Line 3 equals the closing balance on the June-20 AMENDMENT (key 6edc810e) rather than any un-amended June figure. Column B does not reconcile: 4787.27 - 4140.33 = 646.94 versus the Line 7 balance of 246.94 (a 400.00 gap, kept verbatim). Line 1 Column B was confirmed at 250 dpi with a 3x crop.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "863.85",
+     "itemized": "863.85",
+     "result": "exact",
+     "detail": "exact (8 rows 100.00 + 53.87 + 100.00 + 100.00 + 100.00 + 52.84 + 257.14 + 100.00 = 863.85 = printed subtotal 863.85 = printed TOTAL 863.85 = stated 863.85). The in-kind row DOES count toward this total, as the identity shows"
+    },
+    "expenditures": {
+     "stated": "1774.00",
+     "itemized": "1774.00",
+     "result": "exact",
+     "detail": "exact (9 rows 100.00 + 10.15 + 100.00 + 53.87 + 100.00 + 1000.00 + 52.84 + 257.14 + 100.00 = 1774.00 = printed subtotal 1774.00 = printed TOTAL 1774.00 = stated 1774.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 863.85 = printed subtotal 863.85 = TOTAL; p4 rows 1774.00 = printed subtotal 1774.00 = TOTAL. Both gates fired exactly.",
+   "escalations": 2,
+   "escalation_note": "p3 contributor-name column re-rendered at 500 dpi and p4 recipient-name column at 450 dpi; both read identically to the base pass",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page standard form: p1 cover (September 15 box checked, marked NOT an amendment; Rob Latham, Libertarian, Office Sought 'District Attorney'; signed 9/14/06, clerk-stamped SEP 14 2006), p2 Summary Page, p3 Schedule A (8 rows), p4 Schedule B (9 rows). The Date of Report is written out in full on both schedule headers as 'SEPTEMBER 14, 2006'. ONE IN-KIND ROW: Schedule A row 7 is labelled in the NAME cell 'LIBERTARIAN PARTY OF UTAH - IN-KIND' (257.14) - the only in-kind marker on the filing; it counts toward the printed total, which the gate confirms. FILER HANDWRITING: this hand writes U as V - proven in-context by 'OF VTAH' (= OF UTAH), so 'JON TITVS' is read JON TITUS; the verbatim glyphs are named per row. Two Schedule A rows are self-described as 'LOAN FROM ROB LATHAM' (53.87 and 52.84) and those two amounts match the two CRICKET wireless-service expenditures exactly; likewise the 257.14 in-kind matches the NEWSPAPER AGENCY CO. advertising expenditure - recorded on both sides as printed, with no netting or inference. No mailing address was written for any contributor (address column empty throughout), so no city/state exists to record."
+  }
  }
 }

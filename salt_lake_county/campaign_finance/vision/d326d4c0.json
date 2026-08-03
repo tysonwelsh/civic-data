@@ -1,6 +1,249 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-14",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "52.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,22.70,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '9/14/06'. A LOAN from the CANDIDATE HIMSELF, written into the name cell as 'LOAN FROM ROB LATHAM'. Occupation/Employer cell: 'ATTORNEY/CRAMER & CRAMER' (the only row on the page with an occupation). Mailing-address cell left EMPTY by the filer."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-21",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "222.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,26.63,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '9/21/06'. the name cell holds a DITTO MARK, resolved to the row above ('LOAN FROM ROB LATHAM'); the ditto resolution is stated rather than silently expanded. Mailing-address cell empty."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-26",
+   "donor_raw": "ANDY McCULLOUGH",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,30.56,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '9/26/06'. mailing-address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-09-30",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,34.49,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '9/30/06'. the candidate's own law firm (see the occupation cell of line 1). Mailing-address cell empty."
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-07",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,38.42,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/7/06'. a further loan from the candidate himself. Mailing-address cell empty."
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-17",
+   "donor_raw": "LIBERTARIAN PARTY OF UTAH - IN-KIND",
+   "amount": "157.69",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,42.35,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/17/06'. IN-KIND: the marker is written into the NAME cell itself ('- IN-KIND'). The matching outgoing side is the Schedule B row of the same date and amount (Newspaper Agency Corp., advertising, 157.69). Mailing-address cell empty."
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-19",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "52.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,46.28,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/19/06'. a further loan from the candidate himself. Mailing-address cell empty."
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-23",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,50.21,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/23/06'. AGGREGATE / UNNAMED row - the name cell reads 'AGGREGATE CONTRIBUTIONS OF $50 OR LESS'. donor_raw left blank per the blank-donor convention."
+  },
+  {
+   "line_no": 9,
+   "date": "2006-10-26",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "8.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,54.14,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/26/06'. a further loan from the candidate himself. Mailing-address cell empty."
+  },
+  {
+   "line_no": 10,
+   "date": "2006-10-30",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,58.07,81.10,3.90@p3",
+   "note": "hand-printed in block capitals; date printed '10/30/06'. the candidate's own law firm. Mailing-address cell empty."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-09-14",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "52.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,25.30,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '9/14/06'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-21",
+   "vendor_raw": "IMAGINOS",
+   "purpose": "ADVERTISING",
+   "amount": "222.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,29.26,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '9/21/06'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-30",
+   "vendor_raw": "CRAMER & CRAMER, LLC",
+   "purpose": "OFFICE SERVICES",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,33.22,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '9/30/06'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-07",
+   "vendor_raw": "DIANA CHAMBERLAIN",
+   "purpose": "VOTER CALLS",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,37.18,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '10/7/06'"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-17",
+   "vendor_raw": "NEWSPAPER AGENCY CORP.",
+   "purpose": "ADVERTISING",
+   "amount": "157.69",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,41.14,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '10/17/06'; this is the outgoing side of the Schedule A in-kind row of the same date and amount (Libertarian Party of Utah - IN-KIND, 157.69); the expenditure row itself carries no in-kind marker, so in_kind is set from the matched pair and that inference is stated here rather than hidden"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-19",
+   "vendor_raw": "CRICKET",
+   "purpose": "WIRELESS SERVICE",
+   "amount": "52.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,45.10,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '10/19/06'"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-26",
+   "vendor_raw": "FEDEX/KINKO'S",
+   "purpose": "ADVERTISING",
+   "amount": "8.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,49.06,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '10/26/06'"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-30",
+   "vendor_raw": "CRAMER & CRAMER, LLC",
+   "purpose": "OFFICE SERVICES",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.00,53.02,74.90,3.90@p4",
+   "note": "hand-printed in block capitals; date printed '10/30/06'"
+  }
+ ],
  "total_contributions": "1218.86",
  "total_expenditures": "1143.86",
  "beginning_balance": "246.94",
@@ -49,6 +292,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "October 31 interim box checked; amendment = No; signed 10/30/06 and clerk-stamped OCT 30 2006; Summary Page header 'LATHAM, OCTOBER 30, 2006'. Column A reconciles exactly (246.94 + 1218.86 = 1465.80; less 1143.86 = 321.94) and Line 3 matches the September report's closing balance. Column B again does not reconcile: 6006.13 - 5284.19 = 721.94 versus the Line 7 balance of 321.94 (a 400.00 gap, kept verbatim; the same kind of Column B drift appears on this filer's June-amendment and September reports)."
+  "notes": "October 31 interim box checked; amendment = No; signed 10/30/06 and clerk-stamped OCT 30 2006; Summary Page header 'LATHAM, OCTOBER 30, 2006'. Column A reconciles exactly (246.94 + 1218.86 = 1465.80; less 1143.86 = 321.94) and Line 3 matches the September report's closing balance. Column B again does not reconcile: 6006.13 - 5284.19 = 721.94 versus the Line 7 balance of 321.94 (a 400.00 gap, kept verbatim; the same kind of Column B drift appears on this filer's June-amendment and September reports).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1218.86",
+     "itemized": "1218.86",
+     "result": "exact",
+     "detail": "exact (1218.86 = 1218.86); the 10 rows equal the printed SUBTOTAL FOR THIS PAGE 1218.86, the printed TOTAL CONTRIBUTIONS RECEIVED 1218.86 and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "1143.86",
+     "itemized": "1143.86",
+     "result": "exact",
+     "detail": "exact (1143.86 = 1143.86); the 8 rows equal the printed SUBTOTAL 1143.86, the printed TOTAL 1143.86 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1,218.86 = printed SUBTOTAL = printed TOTAL - GATE FIRED. p4 rows 1,143.86 = printed SUBTOTAL = printed TOTAL - GATE FIRED. The two sides differ by exactly 75.00, which is the sum of the two rows that have no expenditure counterpart (the 25.00 McCullough contribution and the 50.00 aggregate).",
+   "escalations": 0,
+   "escalation_note": "None needed - the hand is clean block capitals and both page gates closed to the cent on the first read.",
+   "n_contrib_rows": 10,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (10 rows), p4 Schedule B (8 rows). Both schedule pages are headed 'LATHAM / OCTOBER 30, 2006'. THIS CAMPAIGN IS ALMOST ENTIRELY SELF-FUNDED: five of the ten contributions are loans from the candidate ('LOAN FROM ROB LATHAM', 52.66 + 222.33 + 450.00 + 52.66 + 8.52) and two more come from his own law firm, Cramer & Cramer LLC, which the form itself names as his employer. Each loan amount matches an expenditure of the same date and amount, so the loans were made to cover specific bills as they fell due. ONE IN-KIND transaction appears on both sides (Libertarian Party of Utah, 10/17/06, 157.69, matched by the Newspaper Agency Corp. advertising row). Schedule A line 2 is a DITTO MARK resolved to the row above; line 8 is the filer's aggregate row for contributions of $50 or less. PRIVACY: the Complete Mailing Address column was left entirely EMPTY by the filer on every row (not a redaction), so no city or state exists anywhere in this filing."
+  }
  }
 }

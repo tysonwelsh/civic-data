@@ -1,6 +1,61 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-03-14",
+   "donor_raw": "Brett Helsten",
+   "amount": "309.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,20.51,84.40,4.10@p2",
+   "note": "Complete Mailing Address is BLACK-BOX REDACTED by the county, so donor_city/donor_state are blank: redacted. Occupation/Employer: 'DJB Gas Services' (confirmed at a 700dpi tight crop). The word 'Loan' is hand-written in the right margin OUTSIDE the Amount cell - the contributor is the candidate himself. Amount 309.14 written with cents on the line."
+  },
+  {
+   "line_no": 2,
+   "date": "2014-03-20",
+   "donor_raw": "Brett Helsten",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,24.65,84.40,4.10@p2",
+   "note": "Complete Mailing Address BLACK-BOX REDACTED by the county: redacted. Occupation/Employer: 'DJB Gas Services'. 'Loan' hand-written in the right margin outside the Amount cell. Amount written with the cents as a raised superscript over a rule ('150' with '00' raised); transcribed with a decimal point."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-03-14",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "309.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.40,24.15,76.20,4.10@p3",
+   "note": "same-day counterpart of the 309.14 candidate loan on Schedule A (the loan funded the filing fee)"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-03-29",
+   "vendor_raw": "The UPS Store #4164",
+   "purpose": "Printing Service",
+   "amount": "26.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.40,28.29,76.20,4.10@p3"
+  }
+ ],
  "total_contributions": "459.14",
  "total_expenditures": "335.86",
  "beginning_balance": "0",
@@ -48,6 +103,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "'Amended' is hand-written across the top of the cover. The April 7 interim box is checked and the amendment 'Yes' box is checked with date of report 4/24/14 (same as the signature date). Summary Page is page 4 of 4 (page 2 is Schedule A, page 3 Schedule B). Column B (Aggregate Total) is left BLANK on both lines 1 and 2 - recorded as empty strings, not zeros. Line 3 beginning balance is a hand-drawn slashed zero. The filer's decimal separator is written comma-like throughout (a reader may see '459,14'); transcribed with decimal points. Arithmetic checks: 459.14 - 335.86 = 123.28."
+  "notes": "'Amended' is hand-written across the top of the cover. The April 7 interim box is checked and the amendment 'Yes' box is checked with date of report 4/24/14 (same as the signature date). Summary Page is page 4 of 4 (page 2 is Schedule A, page 3 Schedule B). Column B (Aggregate Total) is left BLANK on both lines 1 and 2 - recorded as empty strings, not zeros. Line 3 beginning balance is a hand-drawn slashed zero. The filer's decimal separator is written comma-like throughout (a reader may see '459,14'); transcribed with decimal points. Arithmetic checks: 459.14 - 335.86 = 123.28.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "459.14",
+     "itemized": "459.14",
+     "result": "exact",
+     "detail": "exact (459.14 = 459.14); equals the page's printed TOTAL CONTRIBUTIONS RECEIVED 459.14 and Summary Page lines 1/4/5"
+    },
+    "expenditures": {
+     "stated": "335.86",
+     "itemized": "335.86",
+     "result": "exact",
+     "detail": "exact (335.86 = 335.86); equals the page's printed TOTAL EXPENDITUTRES MADE 335.86 and Summary Page lines 2/6"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) SUBTOTAL FOR THIS PAGE cell is EMPTY (a stray pen mark only) - that page CANNOT gate on a subtotal; its printed TOTAL 459.14 was used instead and equals the 2 rows. p3 (Schedule B) SUBTOTAL cell is likewise EMPTY - cannot gate; its printed TOTAL 335.86 equals the 2 rows. Both sides also agree with the Summary Page exactly.",
+   "escalations": 3,
+   "escalation_note": "p2 Occupation/Employer + Amount columns 700dpi tight crop x1 (resolved 'DJB Gas Services' and the superscript-cents 150.00); p3 date+name columns 700dpi tight crop x1; p3 purpose column 700dpi tight crop x1",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THE PAGES ARE OUT OF ORDER: p1 cover, p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE (the Summary Page is last, not second as in every other filing in this chunk). Cover: 'Amended' hand-written across the top; the INTERIM April 7 box is checked AND 'Yes, this is an amendment' is ticked with report date 4/24/14; office written 'Salt Lake County Council At Large'. The cover's address block and phone/fax/email row are BLACK-BOX REDACTED by the county, as is the Complete Mailing Address column on p2. Both Schedule A rows are the candidate's own money and carry the word 'Loan' hand-written in the right MARGIN outside the Amount cell - retained in the row notes, not folded into donor_raw. Summary Page line 3 (beginning balance) is a struck/slashed zero."
+  }
  }
 }

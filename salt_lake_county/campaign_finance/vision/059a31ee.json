@@ -1,6 +1,87 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-03-07",
+   "donor_raw": "Steve DeBry",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.90,23.00,87.00,3.40@p3",
+   "note": "self-contribution (the candidate). Occupation 'S.L.Co. Sheriff'. Cents written as a superscript over a rule. Address column left blank by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-03-12",
+   "donor_raw": "Joye Ray",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.90,26.40,87.00,4.10@p3",
+   "note": "Occupation 'retired'. Cents superscript. Address column left blank by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-03-14",
+   "donor_raw": "Robert Gallagher",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.90,30.50,87.00,4.00@p3",
+   "note": "Occupation 'retired'. Cents superscript. Address column left blank by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-03-25",
+   "donor_raw": "Doug Winder",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.90,34.50,87.00,5.00@p3",
+   "note": "Occupation 'realtor - Remax'. Cents superscript. Address column left blank by the filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2008-03-28",
+   "donor_raw": "Kasey Enterprises",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.90,39.50,87.00,3.80@p3",
+   "note": "Occupation 'self-employed'. Cents superscript. Address column left blank by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-03-07",
+   "vendor_raw": "S.L. County Clerk",
+   "purpose": "filing fee - candidacy",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,26.10,80.30,3.65@p4",
+   "note": "only line on Schedule B"
+  }
+ ],
  "total_contributions": "$2,404.47",
  "total_expenditures": "$154.47",
  "beginning_balance": "N/A",
@@ -47,6 +128,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Neither amendment box is checked. Line 3 (Balance at Beginning of Reporting Period) is written 'N/A' - a first report - and is recorded verbatim as the string N/A, not as 0. Column B is blank on both Lines 1 and 2. ARITHMETIC: Line 7 is written 2,250.00 while Line 5 minus Line 6 would be 2,250.00 only if the cents cancelled - they do (2,404.47 - 154.47 = 2,250.00), so the form is consistent. Cents are raised underlined superscripts."
+  "notes": "Neither amendment box is checked. Line 3 (Balance at Beginning of Reporting Period) is written 'N/A' - a first report - and is recorded verbatim as the string N/A, not as 0. Column B is blank on both Lines 1 and 2. ARITHMETIC: Line 7 is written 2,250.00 while Line 5 minus Line 6 would be 2,250.00 only if the cents cancelled - they do (2,404.47 - 154.47 = 2,250.00), so the form is consistent. Cents are raised underlined superscripts.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2,404.47",
+     "itemized": "2404.47",
+     "result": "exact",
+     "detail": "exact (2,404.47 = 2,404.47); page prints SUBTOTAL $2,404.47 and TOTAL $2,404.47"
+    },
+    "expenditures": {
+     "stated": "$154.47",
+     "itemized": "154.47",
+     "result": "exact",
+     "detail": "exact (154.47 = 154.47); page prints SUBTOTAL $154.47 and TOTAL $154.47"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 2,404.47 = printed subtotal $2,404.47 (GATE PASS); p4 single row 154.47 = printed subtotal $154.47 (GATE PASS)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2008 five-column form (Occupation AND Employer present). The 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (no redaction bar), so donor_city/donor_state are blank throughout. Cents are written as raised superscripts over a rule on most rows ('$100.00' as 100 with a small 00) - transcribed with a decimal point. Field-shift screen: 5 dates / 5 names / 5 occupations / 5 amounts on p3; 1/1/1/1 on p4 - PASS. Note the filing's own internal symmetry: the $154.47 filing fee appears on BOTH sides (Steve DeBry's self-contribution funds the county filing fee)."
+  }
  }
 }

@@ -1,6 +1,255 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-20",
+   "donor_raw": "Kory Holdaway",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,24.20,80.70,3.80@p3",
+   "note": "Occupation/Employer col reads 'Candidate'; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-23",
+   "donor_raw": "Maloni Hola",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,27.95,80.70,3.80@p3",
+   "note": "Occupation 'owner/Icon Consulting Group'; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-22",
+   "donor_raw": "Derek Smith",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,31.80,80.70,3.80@p3",
+   "note": "Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-09-26",
+   "donor_raw": "Michael Muir",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,35.60,80.70,3.80@p3",
+   "note": "Occupation 'Retired'; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-26",
+   "donor_raw": "Chris Buttars",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,39.40,80.70,3.80@p3",
+   "note": "Occupation 'Retired'; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-27",
+   "donor_raw": "Utah County Legislative PAC",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,43.30,80.70,3.80@p3",
+   "note": "Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-09-28",
+   "donor_raw": "Utah County Republican Party",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,46.95,80.70,3.80@p3",
+   "note": "Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-01",
+   "donor_raw": "Brian De Hann",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,50.75,80.70,3.80@p3",
+   "note": "Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-10-13",
+   "donor_raw": "H. B. Walker",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,54.50,80.70,3.80@p3",
+   "note": "Occupation 'Developer/Utah Property Development'; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 10,
+   "donor_raw": "Lohra Miller Campaign",
+   "amount": "800.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,58.50,80.70,3.80@p3",
+   "note": "date cell prints '10/28/206' - a MALFORMED 3-digit year, so the date is left BLANK per contract and kept verbatim here; Occupation col reads 'Candidate (In kind)' which is where the in-kind marking comes from; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  },
+  {
+   "line_no": 11,
+   "donor_raw": "Contributions $50 and under",
+   "amount": "332.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.55,77.35,80.70,3.80@p3",
+   "note": "AGGREGATE line: the label is printed in the Occupation/Employer column with the Date/Name/Address cells empty; not a named donor; Complete Mailing Address column left EMPTY by the filer on every row (not redacted), so no donor city/state exists"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-09-21",
+   "vendor_raw": "David Lund",
+   "purpose": "Administrative Assistant",
+   "amount": "1,295.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,26.95,74.90,3.80@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-27",
+   "vendor_raw": "Reagan Outdoor Signs",
+   "purpose": "Billboards",
+   "amount": "2,726.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,30.75,74.90,3.80@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-29",
+   "vendor_raw": "Visa",
+   "purpose": "See attached",
+   "amount": "3,581.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,34.60,74.90,3.80@p4",
+   "note": "the 'See attached' detail is the QuickBooks-style Visa export on pp.5-6"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-02",
+   "vendor_raw": "Jana Truman",
+   "purpose": "Graphic Design/Literature Design",
+   "amount": "277.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,38.35,74.90,3.80@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-11",
+   "vendor_raw": "Dave Clark",
+   "purpose": "Graphic Design/Literature Design",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,42.15,74.90,3.80@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-12",
+   "vendor_raw": "Utah State Party",
+   "purpose": "Election Night Party",
+   "amount": "402.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,45.95,74.90,3.80@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-18",
+   "vendor_raw": "Visa",
+   "purpose": "See attached",
+   "amount": "5,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,49.60,74.90,3.80@p4",
+   "note": "the 'See attached' detail is the QuickBooks-style Visa export on pp.5-6"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-16",
+   "vendor_raw": "Verizon",
+   "purpose": "Campaign Phone",
+   "amount": "190.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,53.40,74.90,3.80@p4"
+  }
+ ],
  "total_contributions": "7,632.00",
  "total_expenditures": "14,222.86",
  "beginning_balance": "13,294.20",
@@ -49,6 +298,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Fully TYPED form. NO Type-of-Report box checked -> ''; amendment Yes, of the 10/31/2006 report; signed/dated 11/28/2006. Summary header: page 1 of 1, Dickson, 11/28/2006 (PDF has 6 pages). Received stamp NOV 29 2006 plus a handwritten 'Received Salt Lake County Clerk' annotation."
+  "notes": "Fully TYPED form. NO Type-of-Report box checked -> ''; amendment Yes, of the 10/31/2006 report; signed/dated 11/28/2006. Summary header: page 1 of 1, Dickson, 11/28/2006 (PDF has 6 pages). Received stamp NOV 29 2006 plus a handwritten 'Received Salt Lake County Clerk' annotation.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,632.00",
+     "itemized": "7632.00",
+     "result": "exact",
+     "detail": "exact (7632.00 = 7632.00)"
+    },
+    "expenditures": {
+     "stated": "14,222.86",
+     "itemized": "14222.86",
+     "result": "exact",
+     "detail": "exact (14222.86 = 14222.86)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 7632.00 = printed SUBTOTAL 7,632.00 = printed TOTAL 7,632.00; p4 rows 14222.86 = printed SUBTOTAL 14,222.86 = printed TOTAL 14,222.86",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 11,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TYPED schedules; both sides gate exactly. PAGES 5 AND 6 ARE NOT SCHEDULE PAGES - they are the 'See attached' backing detail for the two Visa lines on Schedule B: a QuickBooks-style export (columns Cat/Sub | Date | Account | Description | Memo | Amount) of roughly 57 individual Visa charges 7/11/2006-10/23/2006, all printed negative except one 'Stakes: Credit' +445.55. Those lines are deliberately NOT transcribed as expenditure rows: the Schedule B fields are the two Visa lines, and transcribing the backing detail as well would double-count the 8,581.46 they represent. Row 10 of Schedule A carries the only malformed date in this filing ('10/28/206')."
+  }
  }
 }

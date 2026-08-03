@@ -1,6 +1,321 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "L Gene Mortensen",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,21.85,85.74,4.10@p3",
+   "note": "date printed '6-17' with NO YEAR -> blank; amount printed '25-' (trailing dash = no cents); Occupation/Employer 'UT Dept Corrections / Agent'; address cell empty"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Ann Cardon",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,25.35,85.74,4.10@p3",
+   "note": "date printed '6-17' NO YEAR -> blank; surname terminal glyph is this writer's u-shaped 'n' (escalated to 1200 dpi; matched against 'Harmon'/'Sheen' in the same hand); amount '25-'; Occupation 'Deputy / SLCo Sheriff'; address cell empty"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "John Minichino",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,29.45,85.74,4.10@p3",
+   "note": "date printed '6-17' NO YEAR -> blank; amount '200-'; Occupation 'Professor / SLCC'; address cell empty"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Todd Carter",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,33.85,85.74,4.10@p3",
+   "note": "date printed '6-17' NO YEAR -> blank; amount '30-'; Occupation 'Agent / UT Dept Corrections'; address cell empty"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "Brian Haslem",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,38.05,85.74,4.10@p3",
+   "note": "date printed '6-18' NO YEAR -> blank; amount '500-'; Occupation 'Owner / Aztec Systems inc'; address cell empty"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "Richard Henriksen",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,42.35,85.74,4.10@p3",
+   "note": "date printed '6-19' NO YEAR -> blank; amount '100-'; Occupation 'Attorney / Henriksen & Henriksen'; address cell empty"
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "Bryson Garbett",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,46.35,85.74,4.10@p3",
+   "note": "date printed '6-24' NO YEAR -> blank; amount '250-'; Occupation 'Developer / Garbett Homes'; address cell empty"
+  },
+  {
+   "line_no": 8,
+   "donor_raw": "Clifford Harmon",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,50.45,85.74,4.10@p3",
+   "note": "date printed '6-28' NO YEAR -> blank; amount '25-'; Occupation cell reads 'Dr. Doctor / Retired'; address cell empty"
+  },
+  {
+   "line_no": 9,
+   "donor_raw": "John Winder",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,54.70,85.74,4.10@p3",
+   "note": "date printed '8-20' NO YEAR -> blank; amount '50-'; Occupation 'Retired'; address cell empty"
+  },
+  {
+   "line_no": 10,
+   "donor_raw": "Rick Votaw",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,58.70,85.74,4.10@p3",
+   "note": "date printed '8-23' NO YEAR -> blank; amount '250-'; Occupation 'Retired' with an unexplained 5-character numeric scrawl at the left edge of the occupation cell (not a city/state, not transcribed); address cell empty"
+  },
+  {
+   "line_no": 11,
+   "donor_raw": "Sherren Sheen",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,62.70,85.74,4.10@p3",
+   "note": "date printed '9-8' NO YEAR -> blank; amount '50-'; Occupation 'Retired'; address cell empty"
+  },
+  {
+   "line_no": 12,
+   "donor_raw": "America First C.U.",
+   "amount": "1.67",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.85,66.85,85.74,4.10@p3",
+   "note": "date printed '7-31' NO YEAR -> blank; Occupation/purpose cell reads 'Account Interest' - a credit-union interest credit reported as a contribution by the filer; address cell empty"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Contemporary Image",
+   "purpose": "Tee Shirts",
+   "amount": "280.37",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,25.30,80.56,3.90@p4",
+   "note": "date printed '6-18' NO YEAR -> blank"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Niecia Renckert",
+   "purpose": "reimburse Fundraising equipment",
+   "amount": "88.97",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=low;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,29.05,80.56,3.90@p4",
+   "note": "date printed '6-18' NO YEAR -> blank; recipient first name glyphs read 'Niecia' (low confidence, shares the candidate's surname - a family reimbursement); purpose is written on two lines 'reimburse' over 'Fundraising equipment'"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Sweets Candy Co",
+   "purpose": "Parades",
+   "amount": "172.42",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,33.05,80.56,3.90@p4",
+   "note": "date printed '6-20' NO YEAR -> blank"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Home Depot",
+   "purpose": "Float materials",
+   "amount": "56.99",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,37.05,80.56,3.90@p4",
+   "note": "date printed '6-20' NO YEAR -> blank"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "SLCo. Clerk",
+   "purpose": "Map",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,40.95,80.56,3.90@p4",
+   "note": "date printed '6-17' NO YEAR -> blank"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Paper Factory",
+   "purpose": "Parade material",
+   "amount": "8.54",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,44.95,80.56,3.90@p4",
+   "note": "date printed '6-17' NO YEAR -> blank"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Wal-mart",
+   "purpose": "Parade material",
+   "amount": "7.21",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,49.05,80.56,3.90@p4",
+   "note": "date printed '6-27' NO YEAR -> blank"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "Home Depot",
+   "purpose": "Float material",
+   "amount": "5.05",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.76,53.30,80.56,3.90@p4",
+   "note": "date printed '7-03' NO YEAR -> blank"
+  },
+  {
+   "line_no": 9,
+   "vendor_raw": "Wal-mart",
+   "purpose": "Parade candy",
+   "amount": "58.32",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.76,57.30,80.56,3.90@p4",
+   "note": "date cell OVERWRITTEN - reads '7-03' with the day digits scribbled over, could be '7-08'; NO YEAR either way -> blank (escalated to 600 dpi)"
+  },
+  {
+   "line_no": 10,
+   "vendor_raw": "Wal-mart",
+   "purpose": "Flyer Supplies/candy",
+   "amount": "25.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.76,61.45,80.56,3.90@p4",
+   "note": "date printed '7-04' NO YEAR -> blank"
+  },
+  {
+   "line_no": 11,
+   "vendor_raw": "Wal-mart",
+   "purpose": "Office / Flyers",
+   "amount": "13.29",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,65.55,80.56,3.90@p4",
+   "note": "date printed '8-20' NO YEAR -> blank"
+  },
+  {
+   "line_no": 12,
+   "vendor_raw": "Costco",
+   "purpose": "Office Supplies/Flyers",
+   "amount": "133.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,69.80,80.56,3.90@p4",
+   "note": "date printed '8-23' NO YEAR -> blank"
+  },
+  {
+   "line_no": 13,
+   "vendor_raw": "Office Depot",
+   "purpose": "Flyers",
+   "amount": "31.98",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,74.05,80.56,3.90@p4",
+   "note": "date printed '8-24' NO YEAR -> blank"
+  }
+ ],
  "total_contributions": "1506.67",
  "total_expenditures": "902.40",
  "beginning_balance": "2,255.08",
@@ -48,6 +363,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NO Type-of-Report period box is checked \u2014 the only mark in that block is the amendment 'Yes' with date of report '9-15-08', so report_type is ''. The signature Date line on page 1 is BLANK (report_date ''); the page-2 header box carries '9.26.2008' and the clerk RECEIVED stamp is OCT 06 2008. Page box reads 'Page 2 of 4'. IMPORTANT: Column B line 2 (aggregate expenditures) was left BLANK on this amendment ('' , not 0) even though the original September report filled it. Against the ORIGINAL September report (key b008ee6c) this amendment RAISES line 1 from 1,505.02 to 1,506.67, line 1 Col B from 8,813.80 to 8,815.45, line 5 from 3,760.10 to 3,761.75 and line 7 from 2,857.70 to 2,859.35 \u2014 a uniform +1.65. This filing sits under a different template path (K:\\Elections\\Common_Folders\\...)."
+  "notes": "NO Type-of-Report period box is checked \u2014 the only mark in that block is the amendment 'Yes' with date of report '9-15-08', so report_type is ''. The signature Date line on page 1 is BLANK (report_date ''); the page-2 header box carries '9.26.2008' and the clerk RECEIVED stamp is OCT 06 2008. Page box reads 'Page 2 of 4'. IMPORTANT: Column B line 2 (aggregate expenditures) was left BLANK on this amendment ('' , not 0) even though the original September report filled it. Against the ORIGINAL September report (key b008ee6c) this amendment RAISES line 1 from 1,505.02 to 1,506.67, line 1 Col B from 8,813.80 to 8,815.45, line 5 from 3,760.10 to 3,761.75 and line 7 from 2,857.70 to 2,859.35 \u2014 a uniform +1.65. This filing sits under a different template path (K:\\Elections\\Common_Folders\\...).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1506.67",
+     "itemized": "1506.67",
+     "result": "exact",
+     "detail": "exact (12 rows sum 1506.67 = stated 1506.67 = printed page subtotal 1506.67 = printed TOTAL 1506.67)"
+    },
+    "expenditures": {
+     "stated": "902.40",
+     "itemized": "902.40",
+     "result": "exact",
+     "detail": "exact (13 rows sum 902.40 = stated 902.40 = printed page subtotal 902.40 = printed TOTAL 902.40)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1506.67 = printed SUBTOTAL FOR THIS PAGE 1506.67 - GATE PASSED. p4 rows 902.40 = printed SUBTOTAL FOR THIS PAGE 902.40 - GATE PASSED. Both pages are the only page of their schedule (Page 3 of 4 / 4 of 4), so subtotal = total.",
+   "escalations": 4,
+   "escalation_note": "p3 name+date column re-rendered as two tight 600 dpi bands (rows 1-6, rows 7-12) to resolve terminal-glyph shapes; p3 'Ann Cardon' cell at 1200 dpi; p4 date column rows 9-11 at 600 dpi to adjudicate an overwritten day.",
+   "n_contrib_rows": 12,
+   "n_expend_rows": 13,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten. FIELD-SHIFT SCREEN: passed - 12 names / 12 amounts on p3, 13 names / 13 amounts on p4, every date cell holds a date-shaped token and every name cell a name. DATES CARRY NO YEAR anywhere on either schedule (filer wrote '6-17', '8-20' etc.), so every date field is BLANK with needs_review=1 and the verbatim string in the row note - the year is NOT filled from the report date. The Complete Mailing Address column on Schedule A is ENTIRELY EMPTY (filer left it blank - not county-redacted), so no donor_city/donor_state exists for any row. This writer forms a terminal 'n' as a u-shaped valley with a trailing tail (confirmed internally by 'Harmon', 'Sherren Sheen', 'Bryson'), which is how 'Cardon' was resolved. Amounts on Schedule A are written as whole dollars with a trailing dash ('25-'), transcribed as .00 per the trailing-dash convention. Cover: Michael Renckert, Republican, County Mayor; NO 'Type of Report' box is checked - only 'Is this report an amendment? Yes' with date of report 9-15-08; Summary Page self-dated 9.26.2008; received OCT 06 2008. Summary Page Column B for expenditures is EMPTY while Column B contributions reads 8815.45."
+  }
  }
 }

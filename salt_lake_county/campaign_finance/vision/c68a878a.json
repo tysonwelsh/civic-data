@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-30",
+   "donor_raw": "GOODFELLOW SENATE COMMITTEE",
+   "amount": "6000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,24.00,87.60,3.50@p3",
+   "note": "Date printed '3.30-12' with a period as the first separator. Name written across two lines, 'GOODFELLOW SENATE' / 'COMMITTEE'. Complete Mailing Address cell COUNTY-REDACTED: redacted. Occupation/Employer cell left blank by the filer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-15",
+   "vendor_raw": "S.L. COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.86,27.50,79.60,3.50@p4",
+   "note": "Date printed '3 -15-12'."
+  }
+ ],
  "total_contributions": "6000.00",
  "total_expenditures": "173.16",
  "beginning_balance": "0",
@@ -51,6 +80,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten form. Party abbreviated 'DEMO' verbatim. Office Sought is written 'S.L. COUNTY COUNCIL' with the '2' falling in the District Number column, so it is recorded as district_number='2'. Neither amendment box is checked. Line 3 is written as a small open zero. Arithmetic self-consistent (6000.00 - 173.16 = 5826.84). No dollar signs on any figure."
+  "notes": "Handwritten form. Party abbreviated 'DEMO' verbatim. Office Sought is written 'S.L. COUNTY COUNCIL' with the '2' falling in the District Number column, so it is recorded as district_number='2'. Neither amendment box is checked. Line 3 is written as a small open zero. Arithmetic self-consistent (6000.00 - 173.16 = 5826.84). No dollar signs on any figure.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "6000.00",
+     "itemized": "6000.00",
+     "result": "exact",
+     "detail": "exact (6000.00 = 6000.00)"
+    },
+    "expenditures": {
+     "stated": "173.16",
+     "itemized": "173.16",
+     "result": "exact",
+     "detail": "exact (173.16 = 173.16)"
+    }
+   },
+   "page_subtotal_gates": "NEITHER page prints a SUBTOTAL FOR THIS PAGE - both subtotal cells are left EMPTY by the filer, who filled only the TOTAL line. The equivalent gate was applied against those printed totals: p3's single row 6000.00 = printed TOTAL CONTRIBUTIONS RECEIVED 6000.00; p4's single row 173.16 = printed TOTAL EXPENDITURES MADE 173.16. Both pass.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FOUR pages: p1 cover, p2 Summary Page, p3 Schedule A (one row), p4 Schedule B (one row). Cover: Brent H. Goodfellow, S.L. County Council District 2, Democrat; the APRIL 5 interim box is checked; signed 4-2-12, clerk-stamped APR 02 2012. The single contribution is a transfer from the candidate's own legislative committee ('GOODFELLOW SENATE COMMITTEE'). Its Complete Mailing Address cell is COUNTY-REDACTED (black box) and its Occupation/Employer cell was left blank by the filer. Cover street-address and phone/fax/email blocks are also redacted."
+  }
  }
 }

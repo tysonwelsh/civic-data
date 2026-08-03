@@ -1,6 +1,233 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-08-01",
+   "donor_raw": "Gaylord Scott",
+   "amount": "$300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,15.90,76.50,2.50@p2",
+   "note": "occupation 'Deputy Chief', employer 'Unified Fire Authority', type 'Individual'; form variant prints no address column so city/state do not exist here"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-08-14",
+   "donor_raw": "Ryan Perry",
+   "amount": "$200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,18.60,76.50,2.40@p2",
+   "note": "occupation 'Council Advisor', employer 'Salt Lake County', type 'Individual'; no address column on this form variant"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-08-18",
+   "donor_raw": "Bouldar Ventured Development, Inc",
+   "amount": "$6,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.90,21.20,76.50,2.50@p2",
+   "note": "name wraps to two printed lines ('Bouldar Ventured Development,' / 'Inc'); spelling confirmed verbatim in a 600 dpi cell crop - NOT normalized to 'Boulder Ventures'; type 'Organization'; occupation/employer cells empty; no address column on this form variant"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-08-18",
+   "donor_raw": "Evans Consulting",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.90,23.90,76.50,1.50@p2",
+   "note": "type 'Organization'; re-read in the same 600 dpi crop as line 3; no address column on this form variant"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-08-29",
+   "donor_raw": "Salt Lake County Republican Party",
+   "amount": "$917.27",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.90,25.50,76.50,2.50@p2",
+   "note": "the form's own 'In-Kind?' column prints 'IN-KIND' on this row; type 'Organization'; matched by an identical $917.27 IN-KIND expenditure row to the same party on the same date; name wraps to two lines; no address column on this form variant"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-09-04",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "amount": "$2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,28.10,76.50,1.50@p2",
+   "note": "type 'Organization'; no address column on this form variant"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-06-21",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "$185.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,41.85,62.90,1.50@p2",
+   "note": "typed clerk web-print table"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-06-28",
+   "vendor_raw": "Letter 23",
+   "purpose": "Printing brochures",
+   "amount": "$2,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,43.55,62.90,1.50@p2",
+   "note": "vendor printed exactly as 'Letter 23'"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-07-02",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "$152.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,45.15,62.90,1.50@p2"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-07-02",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "$61.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,46.65,62.90,1.50@p2",
+   "note": "second Costco line on the same date - a genuine duplicate-date pair, not a transcription repeat"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-07-03",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "$123.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,48.25,62.90,1.50@p2"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-07-03",
+   "vendor_raw": "Lowes",
+   "purpose": "Supplies",
+   "amount": "$26.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,49.85,62.90,1.50@p2"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-07-30",
+   "vendor_raw": "Deseret Edge",
+   "purpose": "Strategy Lunch",
+   "amount": "$75.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,51.35,62.90,1.50@p2"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-08-06",
+   "vendor_raw": "Smiths",
+   "purpose": "Event Candy",
+   "amount": "$6.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,53.05,62.90,1.50@p2"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-08-29",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "In-KInd",
+   "amount": "$917.27",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,54.65,62.90,1.50@p2",
+   "note": "the form's 'In-Kind?' column prints 'IN-KIND'; the purpose cell itself reads 'In-KInd' with that capitalization, kept verbatim; matched to contribution line 5"
+  },
+  {
+   "line_no": 10,
+   "date": "2012-09-08",
+   "vendor_raw": "Lowes",
+   "purpose": "Sign Supplies",
+   "amount": "$44.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,56.15,62.90,1.50@p2"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-09-08",
+   "vendor_raw": "Staples",
+   "purpose": "Printer",
+   "amount": "$363.27",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.90,57.65,62.90,1.50@p2"
+  }
+ ],
  "total_contributions": "$9,917.27",
  "total_expenditures": "$4,455.88",
  "beginning_balance": "$10,998.25",
@@ -48,6 +275,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Clerk 'summary_printer.cfm' online printout, Summary on page 1; no District Number field and no amendment question on the form (null). Lines 3, 5 and 7 handwritten. Report title says September 15, 2012 but the printout footer date is 9/14/2012 - report_date records the footer date. Column A arithmetic checks out (10,998.25 + 9,917.27 = 20,915.52; 20,915.52 - 4,455.88 = 16,459.64) and both ends chain to the June and October filings. The four 2012 Jensen interim filings plus the year-end reconcile as one continuous balance chain."
+  "notes": "Clerk 'summary_printer.cfm' online printout, Summary on page 1; no District Number field and no amendment question on the form (null). Lines 3, 5 and 7 handwritten. Report title says September 15, 2012 but the printout footer date is 9/14/2012 - report_date records the footer date. Column A arithmetic checks out (10,998.25 + 9,917.27 = 20,915.52; 20,915.52 - 4,455.88 = 16,459.64) and both ends chain to the June and October filings. The four 2012 Jensen interim filings plus the year-end reconcile as one continuous balance chain.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$9,917.27",
+     "itemized": "9917.27",
+     "result": "exact",
+     "detail": "exact (9917.27 = $9,917.27); the itemized table prints its own 'Total Contributions $9,917.27' which equals Summary line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "$4,455.88",
+     "itemized": "4455.88",
+     "result": "exact",
+     "detail": "exact (4455.88 = $4,455.88); the itemized table prints its own 'Total Expenditures $4,455.88' which equals Summary line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p2 contributions rows (300.00+200.00+6000.00+500.00+917.27+2000.00) = printed Total Contributions 9,917.27; p2 expenditures rows (185.15+2500.00+152.51+61.72+123.44+26.69+75.12+6.16+917.27+44.55+363.27) = printed Total Expenditures 4,455.88. Both gate exactly. Balance chain on p1 does NOT close and is not ours to fix: line 3 10,998.25 + line 4 9,917.27 = 20,915.52 and the filer hand-wrote line 5 as $20,915.52 (closes); line 5 20,915.52 - line 6 4,455.88 = 16,459.64 and line 7 is hand-written $16,459.64 (closes).",
+   "escalations": 1,
+   "escalation_note": "p2 contributor row 3 name cell re-rendered at 600 dpi as a tight crop to settle the spelling: it really is 'Bouldar Ventured Development, Inc' (filer/clerk spelling, not 'Boulder Ventures')",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "This filing is NOT the handwritten paper form - it is the clerk's web-printed 'summary_printer.cfm?ID=818' variant (printed 9/14/2012), which prints the Summary and BOTH itemized tables as typed HTML tables. Consequences: (1) the itemized tables have NO address column at all, so donor_city/donor_state are blank for every row - that is form-variant non-existence, not a redaction and not a filer omission; only the CANDIDATE's own address block on p1 is county-redacted (black bar). (2) There is an explicit 'In-Kind?' column, so in_kind is source-marked rather than inferred. (3) The tables carry their own printed totals rather than per-page SUBTOTAL lines. The $917.27 Salt Lake County Republican Party item appears on BOTH sides as a matched in-kind pair (received and expended), and both printed totals include it - consistent with the brief's rule that in-kind rows count toward this form's printed totals. Footer states 'No Contributions Received from other Campaign Accounts reported for this period' and likewise for expenditures; Summary columns C/D (Other Campaign Accounts) are $0.00."
+  }
  }
 }

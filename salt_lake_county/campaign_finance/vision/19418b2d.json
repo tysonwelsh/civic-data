@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The form is signed but the Date line next to the signature was left BLANK (recorded \"\", not null - the field exists and is empty); the clerk RECEIVED stamp reads APR 24 2006. Neither amendment box is checked. Every Summary Page cell in both columns is a hand-drawn zero (open loop), so all totals are 0. The name is spelled 'LAURENCE' on this form, against the manifest's 'Lawrence'."
+  "notes": "The form is signed but the Date line next to the signature was left BLANK (recorded \"\", not null - the field exists and is empty); the clerk RECEIVED stamp reads APR 24 2006. Neither amendment box is checked. Every Summary Page cell in both columns is a hand-drawn zero (open loop), so all totals are 0. The name is spelled 'LAURENCE' on this form, against the manifest's 'Lawrence'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule A (p3) EXISTS in the document and is entirely BLANK - no rows, and the SUBTOTAL/TOTAL cells are empty too. Summary Page line 1 Column A is 0, so zero rows is the true and consistent value"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B (p4) EXISTS and is entirely BLANK in the same way. Summary Page line 2 Column A is 0"
+    }
+   },
+   "page_subtotal_gates": "Both pages leave SUBTOTAL FOR THIS PAGE and the schedule TOTAL empty. There is no printed figure to gate against and no rows to sum - the honest state of a wholly unfilled schedule.",
+   "escalations": 0,
+   "escalation_note": "none - both schedule pages are unmarked at 200 dpi; there is nothing on them to escalate.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Lawrence Rey Topham, Clerk, April 5 2006 interim). p1 cover, p2 Summary Page, p3 Schedule A, p4 Schedule B. Both schedule pages are printed but COMPLETELY unfilled - not even the header box (Page / Last Name / Date of Report) is written in, and every cell including SUBTOTAL and TOTAL is empty. Note the distinction this chunk keeps: the schedules DO exist in the document, so both sides are 'transcribed' with zero rows against a stated 0, NOT 'none'. Unlike the Cadman and Decair filings the filer did not even write a '0' - the pages were simply submitted blank."
+  }
  }
 }

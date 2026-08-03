@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "READ THIS ONE CAREFULLY \u2014 the filer used TWO different nil marks. Confirmed at 260 dpi: lines 1 and 2 (BOTH columns), line 5 and line 6 each carry a plain hand-drawn DIAGONAL PEN STROKE across the cell; line 4 carries a slashed \u00d8; lines 3 and 7 both read '563'. Following the contract's convention (a drawn dash across a cell = a written zero) every struck cell is recorded as '0'. NOTE THE INTERNAL INCONSISTENCY: line 5 (Subtotal = line 3 + line 4) is struck rather than written as 563, so a literal reading of line 5 as 0 contradicts lines 3 and 7. line5_subtotal is therefore flagged low confidence; the substantive figures for this period are contributions 0, expenditures 0, balance unchanged at 563. Page box reads 'Page 2 of 4'. Neither amendment box is checked. The top of the scan is cropped (the clerk letterhead is cut off)."
+  "notes": "READ THIS ONE CAREFULLY \u2014 the filer used TWO different nil marks. Confirmed at 260 dpi: lines 1 and 2 (BOTH columns), line 5 and line 6 each carry a plain hand-drawn DIAGONAL PEN STROKE across the cell; line 4 carries a slashed \u00d8; lines 3 and 7 both read '563'. Following the contract's convention (a drawn dash across a cell = a written zero) every struck cell is recorded as '0'. NOTE THE INTERNAL INCONSISTENCY: line 5 (Subtotal = line 3 + line 4) is struck rather than written as 563, so a literal reading of line 5 as 0 contradicts lines 3 and 7. line5_subtotal is therefore flagged low confidence; the substantive figures for this period are contributions 0, expenditures 0, balance unchanged at 563. Page box reads 'Page 2 of 4'. Neither amendment box is checked. The top of the scan is cropped (the clerk letterhead is cut off).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A p3 filled with the word NONE and a slashed-zero in Amount/SUBTOTAL/TOTAL"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule B p4 filled with the word NONE and a slashed-zero in Amount/SUBTOTAL/TOTAL"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0.00 = printed SUBTOTAL slashed-zero (0) and TOTAL slashed-zero (0); p4 rows 0.00 = printed SUBTOTAL slashed-zero (0) and TOTAL slashed-zero (0)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Both schedules are present and deliberately NIL: p3 Schedule A carries the hand-written word 'NONE' on the first line with a diagonal strike through the whole table body, and a slashed-zero glyph in the Amount, SUBTOTAL and TOTAL cells; p4 Schedule B is identical in form. Per the ZERO-GLYPH RULING the slashed zeros denote 0, so both sides are real zeros, not gaps. The word NONE is an annotation, not a contributor/recipient, so NO itemized row is emitted for it. Header block on both pages: Page 3 of 4 / 4 of 4, last name CROCKETT, date of report 4/7/08."
+  }
  }
 }

@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-01-18",
+   "vendor_raw": "Salt Lake GOP",
+   "purpose": "Booth",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,25.81,76.70,3.70@p4",
+   "note": "date written '1-18-14' with dashes and a 2-digit year. Recipient reads 'Salt Lake GOP' with a trailing pen flourish after the P (confirmed at a 450dpi tight crop); no additional letters are present. NOTE the expenditure date (18 Jan 2014) falls AFTER the report period this filing is indexed under - the form itself is dated 1-27-14 and was received 3 Mar 2014, so the row is internal to the form's own period; kept verbatim."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "50.00",
  "beginning_balance": "0",
@@ -50,6 +65,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "PAGES ARE OUT OF ORDER IN THE SCAN: PDF page 1 is the cover, PDF page 2 is Schedule A (its header block says 'Page 3 of 4'), and the SUMMARY PAGE is PDF page 3 (header block 'Page 2 of 4'). Both the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Signed 1-27-14, clerk stamp MAR 03 2014. Top-row 'Office' reads 'Salt Lake County Council District 3'; the Office Sought box reads 'Salt Lake County Council' with District Number '3'. Lines 1 (both columns), 3, 4, 5 and 7 are hand-drawn open zeros. ARITHMETIC INCONSISTENCY ON THE FORM, kept verbatim and NOT corrected: line 5 subtotal is 0 and line 6 expenditures is 50.00, yet line 7 closing balance is written as 0 (0 - 50.00 would be -50.00). Line 2 records 50.00 in both columns."
+  "notes": "PAGES ARE OUT OF ORDER IN THE SCAN: PDF page 1 is the cover, PDF page 2 is Schedule A (its header block says 'Page 3 of 4'), and the SUMMARY PAGE is PDF page 3 (header block 'Page 2 of 4'). Both the Year-End box and the Final/Dissolution box are checked; neither amendment box is checked. Signed 1-27-14, clerk stamp MAR 03 2014. Top-row 'Office' reads 'Salt Lake County Council District 3'; the Office Sought box reads 'Salt Lake County Council' with District Number '3'. Lines 1 (both columns), 3, 4, 5 and 7 are hand-drawn open zeros. ARITHMETIC INCONSISTENCY ON THE FORM, kept verbatim and NOT corrected: line 5 subtotal is 0 and line 6 expenditures is 50.00, yet line 7 closing balance is written as 0 (0 - 50.00 would be -50.00). Line 2 records 50.00 in both columns.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0). The Schedule A page EXISTS (PDF p2, form 'Page 3 of 4') and is completely BLANK - no lines, and its SUBTOTAL and TOTAL cells are both empty. The Summary Page line 1 Column A and Column B each carry a hand-written zero glyph, so the zero is attested on the form. A real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "50.00",
+     "itemized": "50.00",
+     "result": "exact",
+     "detail": "exact (50.00 = 50.00); equals the page's printed SUBTOTAL 50.00 and TOTAL 50.00 and Summary Page lines 2/6"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) prints NO subtotal - the cell is empty, not zero - so that page CANNOT gate; the side is zero on the strength of the blank table plus the Summary Page's written zero. p4 (Schedule B) rows sum 50.00 = printed SUBTOTAL FOR THIS PAGE 50.00 (and TOTAL 50.00) - GATES.",
+   "escalations": 1,
+   "escalation_note": "p4 date+recipient+purpose columns 450dpi tight crop x1 (resolved '1-18-14' and 'Salt Lake GOP')",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "5 pages, and the PDF ORDER DOES NOT MATCH THE FORM PAGINATION: PDF p1 = cover, PDF p2 = Schedule A (form 'Page 3 of 4'), PDF p3 = Summary Page (form 'Page 2 of 4'), PDF p4 = Schedule B (form 'Page 4 of 4'), PDF p5 = the clerk's 'Dissolution of a Candidate Campaign Committee' notice. All page references in this record are PDF page numbers. Cover: Casey Jackson, Salt Lake County Council District 3, Republican; the January 31 YEAR-END box AND the Final/Dissolution box are BOTH checked; the amendment question is left entirely unticked; signed 1-27-14; clerk stamp RECEIVED MAR 03 2014. The cover's address block and phone/fax row are BLACK-BOX REDACTED by the county. On the p5 dissolution notice only the candidate's name is filled in - Name of Committee, Committee Secretary and Date Established are all left BLANK by the filer."
+  }
  }
 }

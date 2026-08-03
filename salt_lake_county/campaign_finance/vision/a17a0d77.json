@@ -1,6 +1,267 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "IVORY HOMES",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,24.10,86.30,3.00@p3",
+   "note": "date printed '4/16' with NO YEAR - left blank; occupation 'BUSINESS'; address cell empty"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "BOYER CO.",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,28.10,86.30,3.00@p3",
+   "note": "date printed '4/13' with NO YEAR - left blank; occupation 'BUSINESS'"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "STEVE STANSFIELD",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,32.15,86.30,3.00@p3",
+   "note": "date printed '4/17' with NO YEAR - left blank; occupation 'PROJECT MGR / CH2M HILL'; amount printed '100.-' (trailing dash = no cents)"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "STEVE SKANCHY",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,36.15,86.30,3.00@p3",
+   "note": "date printed '5/6' with NO YEAR - left blank; occupation 'SELF EMPLOYED PERIODONTIST'; amount '400.-'"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "EARL DORIUS",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,40.20,86.30,3.00@p3",
+   "note": "date printed '5/6' with NO YEAR - left blank; occupation 'ATTORNEY / DEPT OF ALCHO BEV CTRL'; amount '100.-'"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "JR EVANS",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;donor=low;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.13,44.20,86.30,3.00@p3",
+   "note": "date printed '5/10' with NO YEAR - left blank; occupation 'BUS OWNER / NEW CONCEPTS'; the given-name glyphs read 'JR' and are not resolvable further"
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "SLCO REPUB PARTY",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;donor=low;amount=medium",
+   "verified": 0,
+   "geometry": "pct:5.13,48.25,86.30,3.00@p3",
+   "note": "date printed '5/19' with NO YEAR - left blank; occupation cell reads 'REPUB PARTY'; amount '2,000.-'. THIS IS THE ROW THE STATED TOTAL APPEARS TO EXCLUDE (see recon) - flagged for review, not adjusted"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "amount": "73.60",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=n/a;purpose=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,26.50,80.40,3.00@p4",
+   "note": "DATE, RECIPIENT and PURPOSE cells are all EMPTY on this row - only an amount is written. Not attributed to any vendor. Re-read at 600 dpi."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "POST NET",
+   "purpose": "MAILINGS",
+   "amount": "29.30",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,30.50,80.40,3.00@p4",
+   "note": "date cell EMPTY on this row"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "SLCO REP. PARTY",
+   "purpose": "CONVENTION BOOTH",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,34.50,80.40,3.00@p4",
+   "note": "date printed '4/6' with NO YEAR - left blank"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "MIKE DOBSON",
+   "purpose": "DIRECT MAILER DB.",
+   "amount": "120.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,38.50,80.40,3.00@p4",
+   "note": "date printed '4/20' with NO YEAR - left blank"
+  },
+  {
+   "line_no": 5,
+   "amount": "485.03",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=n/a;purpose=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,42.50,80.40,3.00@p4",
+   "note": "DATE, RECIPIENT and PURPOSE cells are all EMPTY on this row - only an amount is written. Re-read at 600 dpi."
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "VILLAGE INN",
+   "purpose": "MEET & GREET",
+   "amount": "130.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,46.50,80.40,3.00@p4",
+   "note": "date printed '4/27' with NO YEAR - left blank"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "VILLAGE INN",
+   "purpose": "CITIZ- STAFF DINNER",
+   "amount": "20.52",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,50.50,80.40,3.00@p4",
+   "note": "date printed '4/27' with NO YEAR - left blank. Purpose cell has the word 'STAFF' struck through with another word written above it; the surviving legible text reads 'CITIZ...' over 'DINNER'"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "GARDEN REST.",
+   "purpose": "LUNCH W/ MAYOR APREA",
+   "amount": "19.58",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,54.50,80.40,3.00@p4",
+   "note": "date printed '4/27' with NO YEAR - left blank. The last word of the purpose is a name I cannot resolve; kept as the legible glyph string 'APREA', not completed"
+  },
+  {
+   "line_no": 9,
+   "vendor_raw": "DOMAIN NAMES",
+   "purpose": "RSRV DOMAIN",
+   "amount": "9.25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,58.50,80.40,3.00@p4",
+   "note": "date printed '5/02' with NO YEAR - left blank"
+  },
+  {
+   "line_no": 10,
+   "vendor_raw": "FED EX KINKO'S",
+   "purpose": "MAILING",
+   "amount": "79.95",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,62.50,80.40,3.00@p4",
+   "note": "date printed '5/02' with NO YEAR - left blank. Purpose cell: 'MAILING' written above a struck-through 'MAIL'"
+  },
+  {
+   "line_no": 11,
+   "purpose": "MEET & GREET",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:9.08,66.50,80.40,3.00@p4",
+   "note": "date printed '4/19' with NO YEAR - left blank. RECIPIENT NOT READABLE: the glyphs are a short cramped scrawl that I could not resolve even at 600 dpi and I will not guess a name; left empty. Amount printed '100.-'"
+  },
+  {
+   "line_no": 12,
+   "purpose": "MEET & GREET",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:9.08,70.50,80.40,3.00@p4",
+   "note": "date printed '4/12' with NO YEAR - left blank. RECIPIENT NOT READABLE (cramped scrawl, unresolved at 600 dpi) - left empty rather than guessed. Purpose is a DITTO mark resolving to the row above ('MEET & GREET'). Amount printed '100.-'"
+  },
+  {
+   "line_no": 13,
+   "vendor_raw": "COSTCO",
+   "purpose": "MEET & GREET",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=high;purpose=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:9.08,74.50,80.40,3.00@p4",
+   "note": "AMOUNT LEFT BLANK - the cell holds THREE figures: a struck-through '57.50' with '29.17' and '86.67' written below it (57.50 + 29.17 = 86.67, but which of the three the filer intended as the row amount is not stated). Unparseable per the malformed-decimal rule; excluded from the side sum, which is therefore a floor. Purpose is a DITTO mark resolving to 'MEET & GREET'."
+  },
+  {
+   "line_no": 14,
+   "vendor_raw": "ALB.",
+   "purpose": "MEET & GREET",
+   "amount": "51.37",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=low;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.08,78.50,80.40,3.00@p4",
+   "note": "date printed '4/7' with NO YEAR - left blank. Recipient is an abbreviation printed 'ALB.' - kept verbatim, NOT expanded. Purpose is a DITTO mark resolving to 'MEET & GREET'"
+  }
+ ],
  "total_contributions": "1,200",
  "total_expenditures": "2,565.55",
  "beginning_balance": "6,348.15",
@@ -48,6 +309,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "BADLY BLEACHED SCAN - the Summary Page ink is broken up and was re-read on a 300dpi crop. The Summary Page header box (page number, last name, date of report) is entirely BLANK. Line 2 Column B reads '7,8?7.40' - the middle digits could not be read with confidence, so total_expenditures_to_date is null rather than a guess. Line 3 (6,348.15) matches Line 3 of the June 20 report this amends (key f8e1c223), and Column A is internally consistent (6,348.15 + 1,200 = 7,548.15; minus 2,565.55 = 4,982.60). Note the amendment date box says '10/8/06' while the signature is dated 10-2-06 and the clerk stamp is OCT 09 2006 - both retained as printed."
+  "notes": "BADLY BLEACHED SCAN - the Summary Page ink is broken up and was re-read on a 300dpi crop. The Summary Page header box (page number, last name, date of report) is entirely BLANK. Line 2 Column B reads '7,8?7.40' - the middle digits could not be read with confidence, so total_expenditures_to_date is null rather than a guess. Line 3 (6,348.15) matches Line 3 of the June 20 report this amends (key f8e1c223), and Column A is internally consistent (6,348.15 + 1,200 = 7,548.15; minus 2,565.55 = 4,982.60). Note the amendment date box says '10/8/06' while the signature is dated 10-2-06 and the clerk stamp is OCT 09 2006 - both retained as printed.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1,200",
+     "itemized": "3200.00",
+     "result": "delta",
+     "detail": "delta 2,000.00 - the 7 Schedule A rows sum to 3,200.00 against a Summary line 1 Column A of 1,200. Both the page SUBTOTAL and TOTAL cells on Schedule A were left BLANK by the filer, so the schedule asserts no total of its own. Observation recorded, not acted on: the six rows other than the 5/19 SLCo Republican Party 2,000 sum to EXACTLY 1,200.00, so the filer's stated period total appears to exclude that one row. Nothing adjusted; both figures retained."
+    },
+    "expenditures": {
+     "stated": "2,565.55",
+     "itemized": "1418.60",
+     "result": "delta",
+     "detail": "FLOOR, not a true itemized total. Two independent problems: (1) the printed page SUBTOTAL is 1,474.27 while the printed TOTAL is 2,565.55, so at least one further Schedule B page exists that is NOT in this 4-page PDF (difference 1,091.28); (2) the 13 readable rows on the page present sum to 1,505.27 against that 1,474.27 subtotal (excess 31.00) even after 600 dpi re-reads of every amount, and one further row (COSTCO) has an unparseable three-figure cell that is excluded. The 1,418.60 quoted here is the sum of the 13 rows carrying a usable amount and is a FLOOR."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): subtotal and total cells BLANK - no gate exists. p4 (Schedule B): readable rows 1,505.27 vs printed subtotal 1,474.27 - GATE DOES NOT CLOSE (excess 31.00); escalated to 600 dpi crops covering the whole amount column, every figure re-read identically. The printed TOTAL 2,565.55 also exceeds the printed subtotal, indicating a missing continuation page.",
+   "escalations": 3,
+   "escalation_note": "p4 amount column re-rendered as three 600 dpi crops (rows 1-6, 7-10, 11-14) chasing the 31.00 subtotal gap and the COSTCO multi-figure cell",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 14,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "June-20 AMENDMENT. p1 cover, p2 Summary Page, p3 Schedule A, p4 Schedule B. Schedule A/B header boxes (page x of y, name, date) are entirely blank. EVERY date on both schedules is printed WITHOUT A YEAR ('4/16', '5/02'), so all dates are blank per contract with the verbatim in each row note. Schedule B is partly a working sheet: two rows carry an amount with NO recipient and NO purpose; four rows use ditto marks for the purpose; one row's amount cell holds a struck-through figure plus two more; several rows carry a hand tick in the right margin (a reconciling check mark, not a form field, not transcribed). Address column empty on Schedule A."
+  }
  }
 }

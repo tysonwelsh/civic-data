@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-13",
+   "donor_raw": "S Harmsen",
+   "amount": "280.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.36,23.99,85.55,4.55@p4",
+   "note": "amount written '280' with raised '00' = 280.00; address cell is a solid black redaction; Occupation/Employer 'SRE CORP'; the name is a signature-style scrawl"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-13",
+   "vendor_raw": "SL County",
+   "purpose": "Filing Fee",
+   "amount": "280.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,27.31,78.10,4.96@p3",
+   "note": "amount written '280' with raised '00' = 280.00"
+  }
+ ],
  "total_contributions": "280",
  "total_expenditures": "280",
  "beginning_balance": "0",
@@ -52,6 +81,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Fax-transmitted (banner 04/03/2012, PAGE 01/04) and written in a very loose cursive. The Office Sought cell is an abbreviation that reads 'CC #C' (County Council At-Large C) at low confidence; the top-row Office box reads 'County Council C' more legibly. Party is a scrawl read as 'Republican' (medium). Every summary figure is written without cents or a dollar sign as '280'; lines 3 and 7 are a large open zero. Neither amendment box checked. Arithmetic self-consistent (0 + 280 - 280 = 0)."
+  "notes": "Fax-transmitted (banner 04/03/2012, PAGE 01/04) and written in a very loose cursive. The Office Sought cell is an abbreviation that reads 'CC #C' (County Council At-Large C) at low confidence; the top-row Office box reads 'County Council C' more legibly. Party is a scrawl read as 'Republican' (medium). Every summary figure is written without cents or a dollar sign as '280'; lines 3 and 7 are a large open zero. Neither amendment box checked. Arithmetic self-consistent (0 + 280 - 280 = 0).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "280",
+     "itemized": "280.00",
+     "result": "exact",
+     "detail": "exact (single row 280.00 = printed page subtotal 280 = printed TOTAL 280 = stated_c)"
+    },
+    "expenditures": {
+     "stated": "280",
+     "itemized": "280.00",
+     "result": "exact",
+     "detail": "exact (single row 280.00 = printed page subtotal 280 = printed TOTAL 280 = stated_e)"
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule A) row 280.00 = printed subtotal 280 GATED; p3 (Schedule B) row 280.00 = printed subtotal 280 GATED.",
+   "escalations": 4,
+   "escalation_note": "600dpi cell crops on both data rows (two mis-aimed crops re-shot after recomputing the y offset) to read the scrawled date and the superscript-cents amounts through the fax degradation.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES ARE OUT OF ORDER and the document is a FAX (header '04/03/2012 03:58  18015329125  WAFCO', 'PAGE 03/04' and 'PAGE 04/04'): PDF page 3 is Schedule B (form footer 4) and PDF page 4 is Schedule A (form footer 3). The Complete Mailing Address cell of the single contribution row is covered by a SOLID BLACK county redaction block, so no donor_city/donor_state exists (redacted, not blank). Both amounts are written in the superscript-cents convention ('280' with a raised '00') and transcribed with a decimal point. The contributor is the candidate himself, written as a signature-like scrawl 'S Harmsen'; the Occupation/Employer cell reads 'SRE CORP'. The page/name/date-of-report box at the top right is EMPTY on both pages."
+  }
  }
 }

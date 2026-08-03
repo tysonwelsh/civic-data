@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-01-30",
+   "donor_raw": "America First CU",
+   "amount": "1.18",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,25.00,83.80,3.80@p3",
+   "note": "not a donation but interest credited on the campaign account: the description 'INTEREST ON ACCOUNT.' is hand-written across the Complete Mailing Address and Occupation/Employer cells, so no city or state exists to record. Date printed '1/30/10'. Cents written as a raised superscript over a rule ('1' with a superscript 18), transcribed with a decimal point and confirmed by the page subtotal."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "",
  "total_expenditures": "",
@@ -45,6 +59,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Same pattern as this filer's following year: Lines 1 and 2 are LEFT BLANK in both columns (recorded \"\", not 0) while Line 4 carries 1.18 and Line 6 a hand-drawn slashed zero. Cents are raised superscripts over a rule. Neither amendment box is checked. Signed 01/30/10, clerk-stamped FEB 01 2010. 496.18 + 1.18 = 497.36 reconciles. Note the manifest/file name spells the surname 'mrenkert' but the form is signed and printed RENCKERT."
+  "notes": "Same pattern as this filer's following year: Lines 1 and 2 are LEFT BLANK in both columns (recorded \"\", not 0) while Line 4 carries 1.18 and Line 6 a hand-drawn slashed zero. Cents are raised superscripts over a rule. Neither amendment box is checked. Signed 01/30/10, clerk-stamped FEB 01 2010. 496.18 + 1.18 = 497.36 reconciles. Note the manifest/file name spells the surname 'mrenkert' but the form is signed and printed RENCKERT.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "expenditures": "NOT a withholding and NOT a zero - Schedule B DOES NOT EXIST in this document. The PDF is 3 pages: cover, Summary Page, Schedule A. There is no Schedule B page to read, so the expenditure side is 'none' by non-existence. (For context only: the filer left Summary line 2 blank and drew a slashed zero on line 6.)"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "1.18",
+     "result": "unknown",
+     "detail": "unknown at the FILING level because the filer LEFT SUMMARY LINE 1 BLANK in both columns (the totals tranche recorded '' for it, not 0) - there is no stated figure to compare against. At the PAGE level the side gates exactly: the single Schedule A row 1.18 equals the printed SUBTOTAL FOR THIS PAGE 1.18 and the printed TOTAL CONTRIBUTIONS RECEIVED 1.18. The same 1.18 appears on Summary line 4, which is where this filer put the period figure."
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B exists in the document and Summary line 2 was left blank by the filer; nothing to sum and nothing to compare. No figure is claimed."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1.18 = printed SUBTOTAL FOR THIS PAGE 1.18 = printed TOTAL CONTRIBUTIONS RECEIVED 1.18 - GATE FIRED, and it is that gate which confirms the raised-superscript cents ('1' with a superscript 18). No Schedule B page exists, so no second gate is available.",
+   "escalations": 0,
+   "escalation_note": "None needed - one legible row gated by its own printed subtotal and total.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THREE-PAGE filing and the shortest in the chunk: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A. THERE IS NO SCHEDULE B PAGE AT ALL - the expenditure side is recorded as 'none' (non-existence), never as a zero. The only reported activity is $1.18 of interest credited by the campaign's credit union: the name cell reads 'AMERICA FIRST CU' and the description 'INTEREST ON ACCOUNT.' is written across the Complete Mailing Address and Occupation/Employer cells, so no address, city or state exists. Cents are a raised superscript over a rule and are transcribed with a decimal point, confirmed by the page subtotal. The Schedule A page is headed 'RENCKERT' (the clerk index spells the candidate 'Michael Renkert' in the filename and 'Michael Renckert' in the manifest; the form itself prints RENCKERT) with Date of Report 1/30/10, hand-numbered 'Page 3 of 3'."
+  }
  }
 }

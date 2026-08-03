@@ -1,6 +1,219 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-09-16",
+   "donor_raw": "Rio Tinto America",
+   "donor_city": "South Jordan",
+   "donor_state": "Utah",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,23.40,88.64,4.19@p3",
+   "note": "'America' is written below and to the right of 'Rio Tinto' in the same cell; employer 'Rio Tinto'; street address discarded (privacy); amount written with superscript cents over a rule"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-09-16",
+   "donor_raw": "Dinah Nielsen",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,27.58,88.64,4.15@p3",
+   "note": "address cell REDACTED - covered by a solid white block on the scan (county redaction of an individual's address), so no city/state exists to record; occupation 'unknown' as written by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-17",
+   "donor_raw": "Jack Nielsen",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,31.73,88.64,4.18@p3",
+   "note": "address cell REDACTED (white block); employer written 'Mechanical Repair Inc.' with 'Electrical' inserted above the line"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-09-17",
+   "donor_raw": "The Pizza Stop LLC",
+   "donor_city": "Magna",
+   "donor_state": "Utah",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,35.91,88.64,4.14@p3",
+   "note": "street address discarded (privacy); occupation 'Restaurant'"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-09-16",
+   "donor_raw": "S.L.Co. Republican Party",
+   "donor_city": "SLC",
+   "donor_state": "Utah",
+   "amount": "1250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,40.05,88.64,4.19@p3",
+   "note": "PO box discarded (privacy); city written 'SLC'; occupation cell empty; amount printed '$1,250.00' with superscript cents"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-09-22",
+   "donor_raw": "SL Home Builders Assoc.",
+   "donor_city": "West Jordan",
+   "donor_state": "Utah",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,44.24,88.64,4.10@p3",
+   "note": "street address discarded (privacy); occupation 'Home Builders'"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-09-27",
+   "donor_raw": "SL Board of Realtors",
+   "donor_city": "Sandy",
+   "donor_state": "Utah",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,48.34,88.64,4.23@p3",
+   "note": "street address and suite discarded (privacy); occupation 'Realtors'"
+  },
+  {
+   "line_no": 8,
+   "date": "2010-09-29",
+   "donor_raw": "George Nielsen",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,52.57,88.64,4.10@p3",
+   "note": "address cell REDACTED (white block); occupation 'retired'"
+  },
+  {
+   "line_no": 9,
+   "date": "2010-10-13",
+   "donor_raw": "Robert J. DeBry",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,56.67,88.64,4.19@p3",
+   "note": "address cell REDACTED (white block); occupation 'Attorney'; shares the candidate's surname (candidate is Steven L. DeBry) - noted, not interpreted"
+  },
+  {
+   "line_no": 10,
+   "date": "2010-10-21",
+   "donor_raw": "Utah Lodge FOP-PAC",
+   "donor_city": "Murray",
+   "donor_state": "Utah",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.59,60.86,88.64,4.18@p3",
+   "note": "street address discarded (privacy); occupation 'State - Fraternal Order of Police'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-09-23",
+   "vendor_raw": "The Valley Journals",
+   "purpose": "Advertisements",
+   "amount": "1100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.42,30.27,80.34,4.19@p4",
+   "note": "amount printed '$1,100.00' with superscript cents"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-09-23",
+   "vendor_raw": "Home Depot",
+   "purpose": "Quick Ties",
+   "amount": "18.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.42,34.46,80.34,4.14@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-23",
+   "vendor_raw": "College Students",
+   "purpose": "Sign Placement",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.42,38.60,80.34,4.14@p4",
+   "note": "recipient written generically as 'College Students' - no individual named by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-09-30",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertisement",
+   "amount": "1540.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.42,42.74,80.34,4.19@p4",
+   "note": "amount printed '$1,540.00' with superscript cents"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-10-05",
+   "vendor_raw": "Media One",
+   "purpose": "Election Guide / Advertisements",
+   "amount": "1410.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.42,46.93,80.34,4.14@p4",
+   "note": "purpose written on two lines 'Election Guide /' and 'Advertisements'; amount printed '$1,410.00' with superscript cents"
+  }
+ ],
  "total_contributions": "$8,575.00",
  "total_expenditures": "$4,318.69",
  "beginning_balance": "$6,136.99",
@@ -49,6 +262,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The FORM checks 'Seven days before a general election'; the clerk listing calls this the October interim - the same filing, but the form face wording is what is recorded. Neither amendment box is checked. Signed 10-25-10, clerk-stamped RECEIVED OCT 26 2010; Summary Page header 'DeBry, 10-25-10, page 2 of 4'. Both columns reconcile exactly (6,136.99 + 8,575.00 = 14,711.99; less 4,318.69 = 10,393.30 = 21,718.46 - 11,325.16). Cents are written as raised superscripts on the round figures."
+  "notes": "The FORM checks 'Seven days before a general election'; the clerk listing calls this the October interim - the same filing, but the form face wording is what is recorded. Neither amendment box is checked. Signed 10-25-10, clerk-stamped RECEIVED OCT 26 2010; Summary Page header 'DeBry, 10-25-10, page 2 of 4'. Both columns reconcile exactly (6,136.99 + 8,575.00 = 14,711.99; less 4,318.69 = 10,393.30 = 21,718.46 - 11,325.16). Cents are written as raised superscripts on the round figures.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$8,575.00",
+     "itemized": "8575.00",
+     "result": "exact",
+     "detail": "exact (10 rows sum 8575.00 = printed SUBTOTAL FOR THIS PAGE $8,575.00 = stated $8,575.00). NOTE the per-filer semantic: this filer's TOTAL CONTRIBUTIONS RECEIVED cell reads $21,718.46, which is CYCLE-TO-DATE and legitimately larger than the single page's rows - the SUBTOTAL is the this-period figure and it is what the Summary Page carries. Nothing was forced to match"
+    },
+    "expenditures": {
+     "stated": "$4,318.69",
+     "itemized": "4318.69",
+     "result": "exact",
+     "detail": "exact (5 rows 1100.00 + 18.69 + 250.00 + 1540.00 + 1410.00 = 4318.69 = printed SUBTOTAL $4,318.69 = stated $4,318.69). Same semantic: the TOTAL EXPENDITUTRES MADE cell reads $11,825.16 (cycle-to-date)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 8575.00 = printed subtotal $8,575.00 (gate fires); p4 rows 4318.69 = printed subtotal $4,318.69 (gate fires). Neither page's TOTAL row is a sum of that page - both are cycle-to-date figures ($21,718.46 and $11,825.16), so the TOTAL rows deliberately do NOT gate and were not treated as if they should.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 10,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page standard form: p1 cover ('Seven days before a general election' box checked; NEITHER amendment box ticked; Steven L. DeBry, Republican, County Council #5; signed 10-25-10, clerk-stamped OCT 26 2010), p2 Summary Page, p3 Schedule A (10 rows), p4 Schedule B (5 rows). PER-FILER SCHEDULE SEMANTIC (the DeBry pattern already known in this corpus): SUBTOTAL FOR THIS PAGE = this reporting period, TOTAL = cycle-to-date, so the two legitimately disagree on both schedules. The stated totals from the Summary Page match the SUBTOTALs exactly. REDACTION: the mailing-address cells of the four INDIVIDUAL contributors (rows 2, 3, 8, 9) are covered by solid white blocks on the scan - a county redaction of residential addresses, marked 'redacted' in those rows. The six organizational contributors' addresses are printed; their street lines were discarded at read time and only city/state recorded (privacy). Cents are written as a superscript over a rule throughout ('$400 00'); transcribed with a decimal point."
+  }
  }
 }

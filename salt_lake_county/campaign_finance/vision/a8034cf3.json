@@ -1,6 +1,32 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Chase Bank",
+   "purpose": "Bank Fee",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.23,21.49,79.68,4.02@p4",
+   "note": "Date of Expenditure cell prints a YEAR ONLY, '2011' - no month or day - so the date is left blank per contract (verbatim '2011')"
+  },
+  {
+   "line_no": 2,
+   "purpose": "Zero balance",
+   "amount": "6.06",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=none;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.23,25.50,79.68,4.02@p4",
+   "note": "BOTH the Date and the Name of Recipient cells are EMPTY on this row; only Purpose ('Zero balance') and Amount (6.06) are written. It sits directly under the Chase Bank row and may well be a continuation of it, but the payee cell is blank on the form so vendor_raw is left EMPTY rather than carried down - the ditto rule needs a ditto mark and there is none."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "21.06",
  "beginning_balance": "21.06",
@@ -49,6 +75,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2012-vintage blank hand-titled '2011 Amendment' on the cover and '2011' on the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Line 1 (both columns), line 4 and line 7 are written as hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 chains from the 2010 amendment's line 7 (21.06). Arithmetic checks: 21.06 - 21.06 = 0."
+  "notes": "2012-vintage blank hand-titled '2011 Amendment' on the cover and '2011' on the Summary Page, signed and filed 2/14/13. NO Type-of-Report box is checked; only the amendment 'Yes' box with date of report 2/14/13. Line 1 (both columns), line 4 and line 7 are written as hand-drawn slashed zeros (\u00d8), recorded as '0'. Line 3 chains from the 2010 amendment's line 7 (21.06). Arithmetic checks: 21.06 - 21.06 = 0.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (printed grid, no lines filled)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - the Itemized Contributions grid on p3 EXISTS and is printed but has NO lines filled; its TOTAL CONTRIBUTIONS RECEIVED cell holds a slashed-zero glyph, a real 0 under the zero-glyph ruling. Zero rows is the correct transcription and this is a real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "21.06",
+     "itemized": "21.06",
+     "result": "exact",
+     "detail": "exact (15.00 + 6.06 = 21.06 = 21.06)"
+    }
+   },
+   "page_subtotal_gates": "p3: SUBTOTAL cell EMPTY, TOTAL cell holds a slashed zero, grid entirely unfilled - nothing to gate, zero rows is correct. p4: BOTH the SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITURES MADE cells are EMPTY (the filer wrote neither), so THIS PAGE PRINTS NO SUBTOTAL TO GATE AGAINST. The two rows sum 21.06 and that matches the Summary Page's stated 21.06 exactly, which is the only available check and it passes. Recording it here because it is the one page in this chunk that carries itemized rows and prints no subtotal at all.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten form, Randy Horiuchi, hand-headed 'Horiuchi 2/14/13' with NO Type-of-Report box checked (the chunk manifest calls it a 2011 amendment). Tiny filing: no contributions and two small expenditures closing the account. The Itemized Contributions page (p3) is a printed but wholly unfilled grid; besides the slashed zero in the TOTAL cell there is a second slashed-zero glyph sitting in the FIRST data row's Amount cell with every other cell of that row empty - that is a nil mark, not an itemized line, and it was NOT transcribed as a row. On the expenditures page, one row prints a YEAR ONLY as its date ('2011') and the row beneath it has both its date and its payee cells empty; both dates are blank with needs_review=1 and the empty payee is left empty rather than carried down from the row above. The Complete Mailing Address column on p3 is unused (no rows)."
+  }
  }
 }

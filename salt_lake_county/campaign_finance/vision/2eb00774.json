@@ -1,6 +1,63 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-01-22",
+   "vendor_raw": "Jenny Wilso Campaign",
+   "purpose": "Campaign Donation",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.06,29.00,69.70,3.00@p4",
+   "note": "recipient written verbatim 'Jenny Wilso Campaign' - the pen lifts after 'Wilso' and no terminal letter is written; not completed by the transcriber. cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "date": "2008-02-20",
+   "vendor_raw": "Yong Democrats",
+   "purpose": "Donation.",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.06,32.09,69.70,3.82@p4",
+   "note": "recipient cursive reads 'Yong Democrats'; the first word may be a compressed 'Young' but the glyphs written are Y-o-n-g and were not completed. cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 3,
+   "date": "2008-05-10",
+   "vendor_raw": "Corroon for Mayor.",
+   "purpose": "Donation.",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.06,36.00,69.70,3.82@p4",
+   "note": "trailing period is on the page. cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 4,
+   "date": "2008-06-29",
+   "vendor_raw": "Matherson for Congress",
+   "purpose": "Donation.",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.06,39.91,69.70,3.50@p4",
+   "note": "cursive; the vowel after 'Math' is a small loop that could also read 'Mathrson'. cents written as a superscript over a rule; transcribed with a decimal point"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "700",
  "beginning_balance": "745.79",
@@ -48,6 +105,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "FAX copy (header 'JAN-30-2009 FRI 10:48 AM'). Older form variant; the top-row 'Office' box reads 'SLCo DA' and Office Sought is the same scrawled 'DA' abbreviation as his earlier filing (LOW confidence), with 'COUNTY' written in the District Number box. LINE 2 COLUMN A IS OVER-INKED into an illegible blot; it is recorded as 700 at LOW confidence solely because Line 6 ('Total Expenditures Made, From Line 2 Column A') legibly restates it as 700 with a raised 00 - the blot itself cannot be read. Line 2 Column B reads a plain '700'. Lines 1 and 4 are slashed zeros; Column B of Line 1 is blank. Cents on Lines 3/5/7 are raised underlined superscripts. Line 3 (745.79) matches Line 7 of his prior filing (key 2142e833), and 745.79 - 700 = 45.79 checks out."
+  "notes": "FAX copy (header 'JAN-30-2009 FRI 10:48 AM'). Older form variant; the top-row 'Office' box reads 'SLCo DA' and Office Sought is the same scrawled 'DA' abbreviation as his earlier filing (LOW confidence), with 'COUNTY' written in the District Number box. LINE 2 COLUMN A IS OVER-INKED into an illegible blot; it is recorded as 700 at LOW confidence solely because Line 6 ('Total Expenditures Made, From Line 2 Column A') legibly restates it as 700 with a raised 00 - the blot itself cannot be read. Line 2 Column B reads a plain '700'. Lines 1 and 4 are slashed zeros; Column B of Line 1 is blank. Cents on Lines 3/5/7 are raised underlined superscripts. Line 3 (745.79) matches Line 7 of his prior filing (key 2142e833), and 745.79 - 700 = 45.79 checks out.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is printed but every cell including SUBTOTAL and TOTAL is empty, and Summary line 1 Column A is a slashed zero glyph. A real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "700",
+     "itemized": "700.00",
+     "result": "exact",
+     "detail": "exact (700.00 = 700); the four transcribed rows sum to the printed p4 subtotal and total"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 250.00+100.00+250.00+100.00 = 700.00 = printed SUBTOTAL FOR THIS PAGE 700.00 (and the printed TOTAL EXPENDITURES MADE 700.00) - gate fires and passes. p3 prints a SUBTOTAL line but the filer left it blank along with the whole grid, so no gate is available there (honest non-gate on an empty schedule).",
+   "escalations": 3,
+   "escalation_note": "p4 recipient column rows 1-2 and rows 3-4, and the p4 date column rows 1-4, each re-rendered as an 800 dpi tight crop. 'Wilso' and 'Yong' survived the higher-resolution read as written; all four dates re-read identically (1/22/08, 2/20/08, 5/10/08, 6/29/08). verified=1 reflects the re-read date+vendor cells; the amount cells were not separately cropped but are pinned by the exact page-subtotal gate.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A 4-page FAX transmission (fax header line JAN-30-2009 FRI 10:48 AM on every page); page numbering inside the form is 1-of-3/2-of-3/3-of-3 while the PDF has 4 pages (cover is unnumbered). SCHEDULE A IS ENTIRELY BLANK - the grid, the page subtotal and the schedule total are all empty, matching Summary line 1 Column A, which is written as a SLASHED ZERO glyph; per the repo zero-glyph ruling that is 0, so contributions are an honest transcribed ZERO, not a missing schedule. Summary line 2 Column A is overwritten/blotted (Column B reads 700) but Schedule B's own subtotal and total both read 700.00, which is what the itemized side reconciles against. All four expenditures are political DONATIONS OUT to other campaigns. Office written 'DA / County'; year-end box checked; signed 1/29/09; clerk RECEIVED JAN 30 2009."
+  }
  }
 }

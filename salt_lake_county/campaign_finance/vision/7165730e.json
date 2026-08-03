@@ -1,6 +1,118 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-01-15",
+   "donor_raw": "Randy Horiuchi",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,24.25,81.80,3.00@p3",
+   "note": "candidate self-contribution (occupation cell 'Candidate'); address cell blanked/illegible on the scan \u2014 no street content was read or retained"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-04-08",
+   "donor_raw": "Studsvik, Inc",
+   "amount": "4,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.76,28.00,81.80,3.00@p3",
+   "note": "occupation/employer cell left blank by the filer; address cell blanked/illegible on the scan"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-01-14",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,27.00,75.90,3.00@p4",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-01-19",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,30.85,75.90,3.00@p4",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-03-01",
+   "vendor_raw": "Target Group",
+   "purpose": "Consulting",
+   "amount": "1200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,34.70,75.90,3.00@p4",
+   "note": "printed without a thousands comma"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-04-07",
+   "vendor_raw": "Reagan Signs",
+   "purpose": "Advertising",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,38.55,75.90,3.00@p4",
+   "note": "thousands separator is written low and reads like a period ('3.000.00'); the 6,100.00 side total requires 3,000.00"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-04-07",
+   "vendor_raw": "Target Group",
+   "purpose": "Consulting",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,42.40,75.90,3.00@p4",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-04-13",
+   "vendor_raw": "Committee To Elect Christian Burridge",
+   "purpose": "Campaign Contribution",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.64,46.25,75.90,3.00@p4",
+   "note": "recipient written on two lines; an outbound contribution to another candidate's committee"
+  }
+ ],
  "total_contributions": "5,500.00",
  "total_expenditures": "6,100.00",
  "beginning_balance": "28,112.58",
@@ -47,6 +159,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "This is the later (2010-11 era) form face: it carries BOTH a top-row 'Office' box and a separate 'Office Sought' box, and the Final block is titled 'FINAL / DISSOLUTION REPORT'. The top-row Office box is blank, so office_sought is taken from the 'Office Sought' box ('Council', district 'At Large'). Column B is headed 'Aggregate Total' and is blank on both lines. The cover's signature Date line is blank, so report_date comes from the Summary Page header ('Jan. 31/11'); the clerk stamp is RECEIVED JAN 31 2011, i.e. this is the year-end report FOR 2010 filed in Jan 2011. All money cells write the cents as a raised superscript. Arithmetic is exact (28,112.58 + 5,500.00 = 33,612.58; less 6,100.00 = 27,512.58). Neither amendment box is checked."
+  "notes": "This is the later (2010-11 era) form face: it carries BOTH a top-row 'Office' box and a separate 'Office Sought' box, and the Final block is titled 'FINAL / DISSOLUTION REPORT'. The top-row Office box is blank, so office_sought is taken from the 'Office Sought' box ('Council', district 'At Large'). Column B is headed 'Aggregate Total' and is blank on both lines. The cover's signature Date line is blank, so report_date comes from the Summary Page header ('Jan. 31/11'); the clerk stamp is RECEIVED JAN 31 2011, i.e. this is the year-end report FOR 2010 filed in Jan 2011. All money cells write the cents as a raised superscript. Arithmetic is exact (28,112.58 + 5,500.00 = 33,612.58; less 6,100.00 = 27,512.58). Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,500.00",
+     "itemized": "5500.00",
+     "result": "exact",
+     "detail": "exact (5500.00 = 5,500.00)"
+    },
+    "expenditures": {
+     "stated": "6,100.00",
+     "itemized": "6100.00",
+     "result": "exact",
+     "detail": "exact (6100.00 = 6,100.00)"
+    }
+   },
+   "page_subtotal_gates": "NEITHER schedule page prints a subtotal or a total \u2014 both cells were left blank by the filer, so no page-subtotal gate is available on this filing. Each side reconciles exactly against the Summary Page stated totals instead.",
+   "escalations": 1,
+   "escalation_note": "p3 address column re-rendered at 600 dpi to look for donor city/state \u2014 the column is blanked out on the scan (see notes)",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Schedule A/B header boxes give the report date as 'Jan. 31 /11' (a January-2011 year-end filing for the 2010 cycle) even though the clerk listing indexes it under 2010 \u2014 kept as printed. The Schedule A mailing-address column is BLANKED on the scan: only faint stray marks survive at the cell edges and the body of each address is white, so no city/state is recoverable; recorded as blank with the condition stated per row rather than guessed."
+  }
  }
 }

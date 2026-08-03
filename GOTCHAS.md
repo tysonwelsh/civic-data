@@ -107,6 +107,15 @@ survive every handoff. The cardinal rules themselves are in CLAUDE.md.
   empty cell stays BLANK (a nil mark is not a numeral). Utah County's `-0-`/"Zero" whitelist,
   summit's 7 promoted Ø cells and wasatch's Kahler "zero" all follow it; weber's 10 dash
   balances correctly stay blank.
+- **The Read tool DOWNSAMPLES large images (~2000px long edge) — raising pdftoppm -r on a
+  FULL PAGE does nothing beyond ~185 effective dpi.** Real escalation = a TIGHT CROP of the
+  disputed cell rendered at high dpi (1200dpi cell crops resolved what "600dpi full-page"
+  could not — Opus pilot contender's root-cause finding on the Rhodes fax, 2026-08-02).
+  Compose with the full-page rule: FIRST read is always the full page (field coverage);
+  escalation crops tight. **AND: escalation resolves legibility, never truth — the
+  document's own ARITHMETIC (schedule sums, page subtotals, balance closure) outranks
+  any glyph re-read at any resolution** (Rhodes reversal 2026-08-02: a 600dpi
+  sibling-copy 'settlement' validated the wrong digit; Form A's sum decided it).
 - **Vision transcription renders FULL pages, never cropped** — an improvised "top 80%"
   crop silently cut the signature-date line off most Summit CF covers (45 recoverable
   dates lost until the 2026-08-02 re-read); a crop that saves tokens costs fields you

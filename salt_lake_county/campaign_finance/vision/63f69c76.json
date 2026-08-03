@@ -1,6 +1,34 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Steve DeBry",
+   "amount": "970.85",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.25,22.36,91.25,3.48@p3",
+   "note": "date printed '10-28' with NO YEAR -> blank (year NOT filled from the report date); amount printed '$970.85'; Occupation/Employer 'S.L.Co. Sheriff's Office'; address cell left blank by the filer; donor shares the candidate's name - a self-contribution as printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-10-28",
+   "vendor_raw": "Aerial Ads",
+   "purpose": "Advertisement",
+   "amount": "2992.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,28.15,78.04,3.30@p4",
+   "note": "date printed '10-28-08' (2-digit year, unambiguous on a Jan-2009 year-end report for 2008); amount printed '$2,992.50'"
+  }
+ ],
  "total_contributions": "$970.85",
  "total_expenditures": "$2,992.50",
  "beginning_balance": "$2,046.65",
@@ -49,6 +77,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The clerk listing calls this '2008 Summary Report/Dissolution'; the form checks the FINAL REPORT box (the Year-End box is NOT checked). Neither amendment box is checked. Older form variant; the top-row 'Office' box is blank. Fully consistent: 2,046.65 + 970.85 = 3,017.50, minus 2,992.50 = 25.00, and the Column B aggregates differ by the same 25.00 (33,200.32 - 33,175.32). Line 3 matches Line 7 of his October 28 interim report (key 5501b206)."
+  "notes": "The clerk listing calls this '2008 Summary Report/Dissolution'; the form checks the FINAL REPORT box (the Year-End box is NOT checked). Neither amendment box is checked. Older form variant; the top-row 'Office' box is blank. Fully consistent: 2,046.65 + 970.85 = 3,017.50, minus 2,992.50 = 25.00, and the Column B aggregates differ by the same 25.00 (33,200.32 - 33,175.32). Line 3 matches Line 7 of his October 28 interim report (key 5501b206).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$970.85",
+     "itemized": "970.85",
+     "result": "exact",
+     "detail": "exact (1 row 970.85 = stated 970.85 = printed SUBTOTAL FOR THIS PAGE $970.85)"
+    },
+    "expenditures": {
+     "stated": "$2,992.50",
+     "itemized": "2992.50",
+     "result": "exact",
+     "detail": "exact (1 row 2,992.50 = stated 2,992.50 = printed SUBTOTAL FOR THIS PAGE $2,992.50)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 970.85 = printed SUBTOTAL FOR THIS PAGE $970.85 - GATE PASSED. p4 rows 2992.50 = printed SUBTOTAL FOR THIS PAGE $2,992.50 - GATE PASSED. NOTE both schedules' 'TOTAL ... (Sum of subtotals from all pages)' lines are NOT the sum of their own subtotals - the filer entered the campaign-to-date aggregate there instead ($33,200.32 on Schedule A, $33,175.32 on Schedule B, matching Summary Page Column B). The SUBTOTAL line is the page figure and is what gates.",
+   "escalations": 2,
+   "escalation_note": "p3 Schedule A data row and p4 Schedule B data row each re-rendered as a full-width 300 dpi band crop to confirm the handwritten amounts and the date strings.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "One contribution row and one expenditure row only. FIELD-SHIFT SCREEN: passed (1 name / 1 amount per schedule, date cells hold date-shaped tokens). The Complete Mailing Address cell is EMPTY (filer left it blank - not county-redacted), so no donor city/state. The single contribution is from the CANDIDATE HIMSELF (Steve DeBry, occupation 'S.L.Co. Sheriff's Office'), i.e. a self-contribution/reimbursement as printed. Page 5 is a Cyprus Credit Union 'CLOSING ACCOUNT CHECKLIST' (notarized 12-31-08) and page 6 is the county 'Dissolution of a Candidate Campaign' notice - both attachments, not schedules, and no itemized lines were taken from them. Cover: Steven L. DeBry, Republican, County Council 'A' at Large; FINAL REPORT box checked (the amendment question is left entirely unanswered - neither Yes nor No); signed Jan. 28, 2009, received JAN 29 2009. Summary Page line 7 closing balance $25.00 while the dissolution notice requires a zero ending balance - retained verbatim, not reconciled."
+  }
  }
 }

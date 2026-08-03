@@ -1,6 +1,146 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-20",
+   "donor_raw": "UTAH AFL-CIO CENTRAL FEDERATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.20,23.26,88.30,4.14@p3",
+   "note": "date printed '4.20.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Complete Mailing Address cell is covered by a solid BLACK-BOX county redaction, so donor_city/donor_state are blank: redacted, not filer-omitted. Donor name occupies two written lines in the same cell ('UTAH AFL-CIO' / 'CENTRAL FEDERATION') and is rejoined as printed; the word CENTRAL carries an overstrike where the filer wrote over letters. Occupation/Employer cell empty."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-20",
+   "donor_raw": "UTAH AFL-CIO IRON WORKERS LOCAL 27",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.20,27.40,88.30,4.10@p3",
+   "note": "date printed '4.20.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Complete Mailing Address cell is covered by a solid BLACK-BOX county redaction, so donor_city/donor_state are blank: redacted, not filer-omitted. Donor name occupies two written lines in the same cell ('UTAH AFL-CIO' / 'IRON WORKERS LOCAL 27') and is rejoined as printed. TWO GLYPH CAVEATS, both re-read at 1200dpi: on this second row the F of 'AFL' lost its crossbar in the 1-bit scan so the glyphs literally read 'APL-CIO' (recorded as AFL-CIO because row 1 of the same hand writes it unambiguously); and the local number '27' runs right up against the black redaction bar, with its final digit touching the bar - hence medium confidence on the local number specifically. Occupation/Employer cell empty."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-13",
+   "vendor_raw": "IMAGINOS QUICK SIGN",
+   "purpose": "LAWN SIGNS",
+   "amount": "1495.90",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.10,26.13,79.90,4.14@p4",
+   "note": "date printed '4.13.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. AMOUNT CORRECTED BY THE PAGE-SUBTOTAL GATE. The 200dpi read gave 1498.90, which made the page sum 3061.23 against a printed subtotal of 3058.23 - a 3.00 break. Re-rendered as a 1400dpi crop of this one cell: the fourth digit is a flat-topped single-bowl 5, not the two-loop 8 the same hand writes in '280.93' and '89.41'. Value is 1495.90, and the page then closes to the cent. Nothing was nudged to fit - the digit was re-read at the glyph level and the shape decides."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-14",
+   "vendor_raw": "MERRILL HUMBERG",
+   "purpose": "CAMPAIGN MANAGER",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,30.27,79.90,4.10@p4",
+   "note": "date printed '4.14.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. "
+  },
+  {
+   "line_no": 3,
+   "date": "2012-05-08",
+   "vendor_raw": "IMAGINOS QUICK SIGN",
+   "purpose": "MAGNATIC SIGNS",
+   "amount": "79.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,34.37,79.90,4.10@p4",
+   "note": "date printed '5.8.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Purpose kept verbatim - the filer wrote 'MAGNATIC' for magnetic."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-05-08",
+   "vendor_raw": "PROPOENENT INC",
+   "purpose": "TEE SHIRTS",
+   "amount": "280.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,38.46,79.90,4.14@p4",
+   "note": "date printed '5.8.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Vendor kept verbatim - the filer wrote 'PROPOENENT'."
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-12",
+   "vendor_raw": "SOUTH JORDAN PARADE",
+   "purpose": "PARADE ENTRY FEE",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,42.60,79.90,4.14@p4",
+   "note": "date printed '5.12.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Purpose occupies two written lines ('PARADE' / 'ENTRY FEE'), rejoined as printed."
+  },
+  {
+   "line_no": 6,
+   "date": "2012-06-08",
+   "vendor_raw": "WINNCO FOODS",
+   "purpose": "PARADE CANDY, WATER, TREATS",
+   "amount": "89.41",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,46.75,79.90,4.14@p4",
+   "note": "date printed '6.8.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Purpose occupies two written lines ('PARADE' / 'CANDY, WATER, TREATS'), rejoined as printed."
+  },
+  {
+   "line_no": 7,
+   "date": "2012-06-08",
+   "vendor_raw": "PIE PIZZERIA",
+   "purpose": "TREATS FOR CAMPAIGN WORKERS",
+   "amount": "61.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,50.89,79.90,4.10@p4",
+   "note": "date printed '6.8.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Purpose occupies two written lines, rejoined as printed."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-06-09",
+   "vendor_raw": "WORDPRESS.com",
+   "purpose": "DOMAIN REGISTRATION",
+   "amount": "26.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.10,54.98,79.90,4.14@p4",
+   "note": "date printed '6.9.12' (dot-separated M.D.YY, year present) -> ISO. Amount printed plainly with a decimal point. Purpose cell contains a SELF-CORRECTION: the filer wrote 'DOMAIN DONATION', struck 'DONATION' through, and wrote 'REGISTRATION' after it. The struck word is excluded and the correction is recorded here rather than silently dropped."
+  }
+ ],
  "total_contributions": "750.00",
  "total_expenditures": "3058.23",
  "beginning_balance": "5826.84",
@@ -49,6 +189,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "This is the ORIGINAL June report that key 03ff1986 amends \u2014 same Column A figures, but here Column B (Aggregate Total) on lines 1 and 2 is left BLANK by the filer (recorded as empty strings, not zeros); the amendment filled them in as 6750.00 and 3231.39. This copy uses the older undated interim box list, so the checked box is 'Seven days before a primary election' rather than 'June 19'. Neither amendment box is checked. Arithmetic self-consistent."
+  "notes": "This is the ORIGINAL June report that key 03ff1986 amends \u2014 same Column A figures, but here Column B (Aggregate Total) on lines 1 and 2 is left BLANK by the filer (recorded as empty strings, not zeros); the amendment filled them in as 6750.00 and 3231.39. This copy uses the older undated interim box list, so the checked box is 'Seven days before a primary election' rather than 'June 19'. Neither amendment box is checked. Arithmetic self-consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "750.00",
+     "itemized": "750.00",
+     "result": "exact",
+     "detail": "exact (2 rows sum 750.00 = printed TOTAL CONTRIBUTIONS RECEIVED $750.00 = stated 750.00). The SUBTOTAL FOR THIS PAGE cell was left EMPTY by the filer, so the schedule TOTAL is the gate on this side."
+    },
+    "expenditures": {
+     "stated": "3058.23",
+     "itemized": "3058.23",
+     "result": "exact",
+     "detail": "exact (8 rows sum 3,058.23 = printed SUBTOTAL 3058.23 = printed TOTAL EXPENDITURES MADE 3058.23 = stated 3058.23) - but only AFTER the gate forced a re-read of row 1; see page_subtotal_gates."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): SUBTOTAL cell EMPTY - gated on the printed TOTAL CONTRIBUTIONS RECEIVED, 2 rows = 750.00 = $750.00 - PASSES. p4 (Schedule B): THE GATE FIRED AND CAUGHT A DIGIT. First pass at 200dpi read row 1 as 1498.90, giving a page sum of 3061.23 against the printed SUBTOTAL 3058.23 - out by exactly 3.00. Re-rendering that single amount cell at 1400dpi showed the fourth digit is a 5, not an 8 (the same hand's 8s, in '280.93' and '89.41', are two stacked loops; this glyph has a flat top stroke and one bowl, like the 5 in '25.00'). With 1495.90 the 8 rows sum to 3,058.23 = printed SUBTOTAL = printed TOTAL - PASSES to the cent.",
+   "escalations": 5,
+   "escalation_note": "p3 name column at 900dpi (pct:7,20.5,40,8.5) plus two tighter 1200dpi passes (pct:15,26.5,32,3.5 and pct:15,27.6,32,3) to reach the second donor's wrapped second line where it abuts the redaction bar; p4 amount column at 700dpi (pct:74,25.5,20,29) and then a 1400dpi single-cell crop of row 1's amount (pct:76,26.5,16,3), which is what resolved the 3.00 break.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard shape: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A ('Page 3 of 4'), p4 Schedule B ('Page 4 of 4'). Handwritten in block capitals. THIS IS THE ONE FILING IN THE CHUNK WHERE THE PAGE-SUBTOTAL GATE CHANGED A VALUE - see page_subtotal_gates; the corrected figure is 1495.90 and it is recorded as a re-read, not as an adjustment to make the page balance. Both contribution rows are union money (Utah AFL-CIO Central Federation $500 and Utah AFL-CIO Iron Workers Local 27 $250), and both have their mailing address covered by a solid BLACK-BOX county redaction - donor_city/donor_state blank because redacted. Both donor cells wrap over two written lines and are rejoined as printed. The Occupation/Employer column is empty on both rows (a union is not a person). Expenditure oddities kept verbatim: 'MAGNATIC SIGNS', 'PROPOENENT INC', and a self-correction on the last row where 'DONATION' is struck through and replaced by 'REGISTRATION'. The Schedule A SUBTOTAL cell is blank while its TOTAL is filled - the reverse of the usual omission - so the schedule total carries the gate on that side. Context from the earlier totals pass: this is the ORIGINAL June report (the clerk listing calls it a primary-election interim; the form's own Date of Report is 6.19.12), and its Column B aggregate cells are blank where a later amendment filled them in."
+  }
  }
 }

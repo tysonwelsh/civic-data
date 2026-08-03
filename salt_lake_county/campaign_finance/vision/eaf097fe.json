@@ -47,6 +47,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten, raised superscript cents. Column B is BLANK on both Lines 1 and 2 (recorded \"\", not 0). Lines 1, 2, 4 and 6 Column A are small hand-drawn circles (zeros). No Final/Dissolution box is checked despite the clerk filename 'finalreport' - only the Year-End box, signed 1/14/05 and stamped JAN 19 2005, i.e. the year-end report for calendar 2004 (the clerk listing's '2004 Summary Report'). Line 7 (1,144.03) matches the 1/30/06 year-end's Line 3."
+  "notes": "Handwritten, raised superscript cents. Column B is BLANK on both Lines 1 and 2 (recorded \"\", not 0). Lines 1, 2, 4 and 6 Column A are small hand-drawn circles (zeros). No Final/Dissolution box is checked despite the clerk filename 'finalreport' - only the Year-End box, signed 1/14/05 and stamped JAN 19 2005, i.e. the year-end report for calendar 2004 (the clerk listing's '2004 Summary Report'). Line 7 (1,144.03) matches the 1/30/06 year-end's Line 3.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule A (p3) is the printed form with every data row empty; the TOTAL CONTRIBUTIONS RECEIVED cell carries a small hand-drawn circle (zero) and the SUBTOTAL cell was left blank. Matches Summary Page line 1 Column A. A real zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule B (p4) is the printed form with every data row empty; the TOTAL EXPENDITURES MADE cell carries a small hand-drawn circle (zero) and the SUBTOTAL cell was left blank. Matches Summary Page line 2 Column A. A real zero."
+    }
+   },
+   "page_subtotal_gates": "no SUBTOTAL figure is printed on either page; the schedule TOTAL cells each carry a hand-drawn zero against zero rows, so 0 = 0 on both",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, both sides. Header boxes read 'Page 3 of 4 / Swensen / 1/14/05' and 'Page 4 of 4 / Swensen / 1/14/05'. PAGE 5 IS NOT A SCHEDULE - it is a WELLS FARGO BANK STATEMENT for the 'SHERRIE SWENSEN CAMPAIGN COMMITTEE' Low Activity Business Checking account, statement end date 12/31/04, marked 'Page 1 of 3' (only its first page is in this PDF). It shows a beginning and ending balance of 1,144.03 with a single 2.00 fee and its 2.00 reversal in December 2004. It is an attachment, NOT an itemized schedule, so nothing on it is transcribed as a contribution or expenditure row. Its 1,144.03 is the account balance, not a Schedule A/B figure. The clerk filename says 'finalreport' but the form checks only the January-31 year-end box (recorded in the earlier totals pass)."
+  }
  }
 }

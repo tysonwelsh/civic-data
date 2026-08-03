@@ -1,6 +1,35 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-02-24",
+   "vendor_raw": "MERRILL HUMBREG",
+   "purpose": "CAMPAIGN CONT.",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.30,24.25,76.30,3.50@p4",
+   "note": "date printed 2-24-12 on a 2013 year-end report - filer's own dating, kept verbatim"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-02-27",
+   "vendor_raw": "LARS NORDFELT",
+   "purpose": "CAMPAIGN CONT",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.30,27.75,76.30,3.25@p4",
+   "note": "date printed 2-27-12 on a 2013 year-end report - filer's own dating, kept verbatim"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "400.00",
  "beginning_balance": "2136.34",
@@ -51,6 +80,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten in blue ink on the 2012-vintage form (the interim box labels still read 2012 even though this is the year-end FOR 2013, filed and RECEIVED JAN 21 2014). The date is written '1-21-13' with the final '3' struck and overwritten as '4' \u2014 the surviving reading is 1-21-14, recorded at medium confidence. Lines 1 and 4 are written as a small open zero. Arithmetic self-consistent."
+  "notes": "Handwritten in blue ink on the 2012-vintage form (the interim box labels still read 2012 even though this is the year-end FOR 2013, filed and RECEIVED JAN 21 2014). The date is written '1-21-13' with the final '3' struck and overwritten as '4' \u2014 the surviving reading is 1-21-14, recorded at medium confidence. Lines 1 and 4 are written as a small open zero. Arithmetic self-consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact: the Itemized Contributions Received page (PDF p3) is present and BLANK - no lines filled - and its TOTAL box carries a written '0' (zero glyph). A real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "400.00",
+     "itemized": "400.00",
+     "result": "exact",
+     "detail": "exact (400.00 = 400.00); p4 SUBTOTAL and TOTAL both print 400.00"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL box is EMPTY (blank schedule; the TOTAL box carries '0'), so nothing to gate; p4 rows sum 400.00 = printed SUBTOTAL 400.00 (gate PASS)",
+   "escalations": 1,
+   "escalation_note": "p4 recipient-name cells (both rows) at 600dpi - confirmed the block capitals MERRILL HUMBREG and LARS NORDFELT",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Brent Goodfellow, County Council District 2, Year-End report signed/dated 1-21-14. The contributions page exists and is BLANK with a hand-written '0' in the first Amount cell and in the TOTAL box (zero glyph = 0 per the repo ruling) - that is an honest zero, and no donor row is emitted for an unlabelled figure. FILER DATE ODDITY, kept verbatim: both expenditures are dated 2012 (2-24-12, 2-27-12) on a report covering the 2013 year end; the dates are well-formed so they are transcribed as printed, not adjusted. Both expenditures are contributions the committee MADE to other campaigns ('CAMPAIGN CONT.')."
+  }
  }
 }

@@ -1,6 +1,36 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "JEREMY VOTAW",
+   "donor_city": "WEST JORDAN",
+   "donor_state": "UT",
+   "amount": "648.48",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high;geo=high",
+   "verified": 1,
+   "geometry": "pct:10.17,26.03,82.44,4.96@p7",
+   "note": "DATE NOT CLAIMED: the cell holds an upper entry whose legible glyphs read '3-19-10', written over a heavily struck-out earlier entry that is unreadable even at 900 dpi, and the upper entry is clipped by the cell's top rule - left blank rather than completed. The Schedule B row for the same amount IS cleanly dated 3/19/10. Donor is the CANDIDATE himself; occupation/employer cell reads 'OWNER / JV2'; street address discarded at read time, city and state retained"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-03-19",
+   "vendor_raw": "COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "648.48",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.70,29.34,75.16,4.13@p8",
+   "note": "date written '3/19/10'"
+  }
+ ],
  "total_contributions": "648.48",
  "total_expenditures": "648.48",
  "beginning_balance": "0",
@@ -48,6 +78,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 648.48 but Column B reads 648.40 - confirmed at 600 dpi (a clear '8' in A, a clear '0' in B). NO reporting-period box is checked; the only Type-of-Report mark is the amendment 'Yes' box with '4-5-10' written beside it, so report_type is blank and the amended period is carried by amendment_of. The Name of Candidate box holds only the first name 'Jeremy' (the surname appears only in the Report Verification line, 'JEREMY VOTAW') - recorded as printed. Lines 3 and 7 are slashed zeros. Fax header shows 04/07/2010 17:02 from 801-208-9451, yet the signature is dated 4-12-10 and the clerk stamp is APR 15 2010 - the fax date PRECEDES the signature date, worth a human's glance."
+  "notes": "INTERNAL INCONSISTENCY kept verbatim: Line 2 Column A reads 648.48 but Column B reads 648.40 - confirmed at 600 dpi (a clear '8' in A, a clear '0' in B). NO reporting-period box is checked; the only Type-of-Report mark is the amendment 'Yes' box with '4-5-10' written beside it, so report_type is blank and the amended period is carried by amendment_of. The Name of Candidate box holds only the first name 'Jeremy' (the surname appears only in the Report Verification line, 'JEREMY VOTAW') - recorded as printed. Lines 3 and 7 are slashed zeros. Fax header shows 04/07/2010 17:02 from 801-208-9451, yet the signature is dated 4-12-10 and the clerk stamp is APR 15 2010 - the fax date PRECEDES the signature date, worth a human's glance.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "7 (page 3 is a duplicate of it)",
+   "itemized_pages_B": "8 (page 4 is a duplicate of it)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "648.48",
+     "itemized": "648.48",
+     "result": "exact",
+     "detail": "exact (648.48 = 648.48); the single row, the printed SUBTOTAL and the printed TOTAL all read 648.48, matching Summary Page line 1 Column A."
+    },
+    "expenditures": {
+     "stated": "648.48",
+     "itemized": "648.48",
+     "result": "exact",
+     "detail": "exact (648.48 = 648.48) against Summary Page line 2 COLUMN A. Note that Column B of that same line reads 648.40 - the filer's own internal inconsistency, recorded in the earlier totals pass and confirmed here; it is not reconciled."
+    }
+   },
+   "page_subtotal_gates": "Schedule A (p7): 1 row 648.48 = printed SUBTOTAL 648.48 = printed TOTAL 648.48 - passed. Schedule B (p8): 1 row 648.48 = printed SUBTOTAL 648.48 = printed TOTAL 648.48 - passed. The duplicate copies on pages 3-4 carry identical figures and were checked against, not summed.",
+   "escalations": 1,
+   "escalation_note": "the Schedule A Date Received cell re-rendered at 900 dpi with contrast normalisation; it holds an upper entry whose legible glyphs read '3-19-10' written OVER a second, heavily struck-out entry that remains unreadable, and the upper entry's top is clipped by the cell rule. Not clean enough to claim an ISO date, so the field is blank with the glyphs in the note.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THE PDF CONTAINS THE SAME 4-PAGE FILING TWICE, from two fax transmissions minutes apart. The fax banner on pages 3-4 reads '04/07/2010 17:02 ... VOTAW ... PAGE 03/04' and '04/04'; pages 5-8 read '17:03 ... PAGE 01/04' through '04/04'. Pages 3 and 7 are the same Schedule A and pages 4 and 8 the same Schedule B - transcribed ONCE from the complete second transmission (pages 7-8) and NOT double-counted. Both schedule header boxes (Page / Last Name / Date of Report) were left blank. The whole filing is a single self-funding transaction: the candidate contributes 648.48 to his own campaign and the campaign pays the identical 648.48 to the County Clerk as a filing fee. Observed on the cover (p5) and worth flagging because the earlier totals pass recorded no period box: the 'April 5' interim box DOES carry a mark, alongside the amendment 'Yes' box with '4-5-10' written beside it; the report is signed 4/5/10."
+  }
  }
 }

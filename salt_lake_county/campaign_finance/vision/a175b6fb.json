@@ -1,6 +1,193 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-09-24",
+   "donor_raw": "U.A LOCAL 140 PAC",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,21.76,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. occupation cell blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-24",
+   "donor_raw": "LABORERS POLITICAL PAC",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,25.64,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. occupation cell blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-09-24",
+   "donor_raw": "WHARTON INNOVATIONS",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,29.52,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. a second word 'LEAGUE' is written below the name and STRUCK THROUGH by the filer; only the standing text is taken. Occupation 'CONSULTANT'"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-09-24",
+   "donor_raw": "IBEW EDUCATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,33.39,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. occupation cell blank"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-09-24",
+   "donor_raw": "IBEW LOCAL 57",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,37.27,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. occupation cell blank"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-12",
+   "donor_raw": "JOSEPH E. HATCH",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,41.15,81.80,3.82@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. occupation 'ATTORNEY'"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-09-28",
+   "donor_raw": "UTAH STATE DEMOCRATIC COM.",
+   "amount": "3643.59",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,44.97,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. 'IN KIND' written above the amount in the same cell; the matching Schedule B row is Sun Litho printing, same date and same amount"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-10-03",
+   "donor_raw": "UTAH STATE DEMOCRATIC COM.",
+   "amount": "1448.96",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.73,48.85,81.80,3.88@p3",
+   "note": "street address column is county-REDACTED (solid black) - no city/state recoverable. 'IN KIND' written above the amount in the same cell; the matching Schedule B row is Progressive Direct Mail, same date and same amount"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-09-24",
+   "vendor_raw": "LOWES",
+   "purpose": "SIGN SUPPLIES, TIES SCREWS, WIRE",
+   "amount": "77.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,23.64,76.39,3.88@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-24",
+   "vendor_raw": "USPO",
+   "purpose": "STAMPS",
+   "amount": "90.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,27.52,76.39,3.88@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-10-01",
+   "vendor_raw": "MERRILL HUMBERG",
+   "purpose": "CAMPAIGN WORKER",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,31.39,76.39,3.82@p4",
+   "note": "date written '10-1-12' with dashes where the rest of the page uses dots"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-10-15",
+   "vendor_raw": "CHILI'S GRILL",
+   "purpose": "LUNCH FOR CAMPAIGN WORKERS",
+   "amount": "87.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,35.21,76.39,3.88@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-09-28",
+   "vendor_raw": "SUN LITHO/ UTAH STATE DEMO COM",
+   "purpose": "PRINTING",
+   "amount": "3643.59",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,39.09,76.39,3.82@p4",
+   "note": "'IN KIND' written above the amount; mirrors Schedule A line 7"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-03",
+   "vendor_raw": "PROGRESSIVE DIRECT MAIL/ UTAH STATE DEMO COM",
+   "purpose": "ADDRESSING, SORTING POSTAGE, MAILING",
+   "amount": "1448.96",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,42.91,76.39,3.88@p4",
+   "note": "'IN KIND' written above the amount; mirrors Schedule A line 8"
+  }
+ ],
  "total_contributions": "7192.55",
  "total_expenditures": "5847.57",
  "beginning_balance": "1791.36",
@@ -51,6 +238,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL vs FORM FACE: the clerk listing and filename call this the 'Amendment to October', but the form's amendment question is checked NO. It is nonetheless the corrected twin of key 98bb0eb2 (same 10.30.12 date, same figures) with ONE change: line 2 Column B, which reads '10 006.21' on 98bb0eb2 and '10 806.21' here, hand-initialed 'BHG' above the cell. Recorded verbatim with the space the filer wrote instead of a comma; medium confidence because the corrected digit sits under the initials. Lines 3-7 arithmetic self-consistent (1791.36 + 7192.55 = 8983.91; less 5847.57 = 3136.34), and the 10 806.21 figure is the one that reconciles to the January year-end (10 806.21 + 1000.00 = 11806.21)."
+  "notes": "LABEL vs FORM FACE: the clerk listing and filename call this the 'Amendment to October', but the form's amendment question is checked NO. It is nonetheless the corrected twin of key 98bb0eb2 (same 10.30.12 date, same figures) with ONE change: line 2 Column B, which reads '10 006.21' on 98bb0eb2 and '10 806.21' here, hand-initialed 'BHG' above the cell. Recorded verbatim with the space the filer wrote instead of a comma; medium confidence because the corrected digit sits under the initials. Lines 3-7 arithmetic self-consistent (1791.36 + 7192.55 = 8983.91; less 5847.57 = 3136.34), and the 10 806.21 figure is the one that reconciles to the January year-end (10 806.21 + 1000.00 = 11806.21).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7192.55",
+     "itemized": "6942.55",
+     "result": "delta",
+     "detail": "delta 250.00: the 8 itemized rows sum to 6942.55 but the page's own SUBTOTAL and TOTAL both print 7192.55. Every amount was re-read in 600 dpi column crops and the subtotal/total cell at 900 dpi - the figures are 250.00, 500.00, 250.00, 500.00, 250.00, 100.00, 3643.59, 1448.96 and 7192.55. No row was adjusted to close the gap. The shortfall is exactly one 250.00, i.e. either the filer's own addition or a 250.00 contribution left off the itemized list; the form's figure stands as printed"
+    },
+    "expenditures": {
+     "stated": "5847.57",
+     "itemized": "5847.57",
+     "result": "exact",
+     "detail": "exact (5847.57 = 5847.57); page subtotal and total both print 5847.57"
+    }
+   },
+   "page_subtotal_gates": "p3 WOULD NOT GATE: transcribed rows 6942.55 vs printed subtotal 7192.55 (delta 250.00) - both figures named here, nothing adjusted; p4 rows 5847.57 = printed subtotal 5847.57, gates exactly",
+   "escalations": 4,
+   "escalation_note": "600 dpi crops of the p3 amount column (two bands) and of the p3 date+name columns; 900 dpi crop of the p3 SUBTOTAL/TOTAL cells to rule out a misread total",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page 2012 October interim. p1 cover, p2 Summary Page (already transcribed), p3 Itemized Contributions (8 rows), p4 Itemized Expenditures (6 rows). The street-address column on p3 is county-REDACTED, so no donor city/state exists here. FOUR IN-KIND ROWS: the Utah State Democratic Committee appears twice on Schedule A as IN KIND (3643.59 and 1448.96) and the same two amounts appear on Schedule B as the underlying Sun Litho printing and Progressive Direct Mail services - the same in-kind transactions recorded on both sides, as this form requires, and both printed totals include them. THE CONTRIBUTION SIDE CARRIES A 250.00 SHORTFALL against its own printed subtotal - see recon; a human may want to compare against this filer's un-amended twin filing (key 98bb0eb2), which the totals tranche records as carrying the same figures. The clerk listing calls this an 'Amendment to October' but the form's amendment question is checked NO."
+  }
  }
 }

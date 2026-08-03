@@ -1,6 +1,271 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-06-21",
+   "donor_raw": "BORPAC",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,26.00,81.60,3.00@p2",
+   "note": "address column left empty by the filer for every row on this page; superscript cents"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-06-21",
+   "donor_raw": "JOEL LASALLE",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,29.65,81.60,3.00@p2",
+   "note": "occupation 'BUSINESSMAN'; address column empty"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-23",
+   "donor_raw": "LARRY MILLER",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,33.30,81.60,3.00@p2",
+   "note": "occupation 'CAR DEALER'; address column empty"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-08-01",
+   "donor_raw": "CARRIE DICKSON",
+   "amount": "1500.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,36.95,81.60,3.00@p2",
+   "note": "'(IN KIND)' written under the amount; occupation 'LEGAL SECY - RET.'; in-kind DOES count toward this form's printed subtotal (verified by the page gate)"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-08-26",
+   "donor_raw": "JEAN WILDE LANCE",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,40.60,81.60,3.00@p2",
+   "note": "occupation 'NURSE - RET.'"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "NICHOLL TEAM, INC.",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,44.25,81.60,3.00@p2",
+   "note": "DATE CELL LEFT BLANK by the filer for this row (no date printed at all) \u2014 not filled from the report date"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-09-04",
+   "donor_raw": "BRI STRINGHAM",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,47.90,81.60,3.00@p2",
+   "note": "employer 'UTAH WOOLEN MILLS'; given name glyphs read 'BRI'"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-09-05",
+   "donor_raw": "ARBOR PARK ASSOC.",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,51.50,81.60,3.00@p2"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-08-17",
+   "donor_raw": "VAUGHN BUTLER",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,55.15,81.60,3.00@p2",
+   "note": "occupation 'CO. SURVEYOR'; date is out of sequence relative to neighbouring rows \u2014 kept verbatim"
+  },
+  {
+   "line_no": 10,
+   "date": "2006-09-08",
+   "donor_raw": "UTAH APT ASSOC P.A.C.",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,58.80,81.60,3.00@p2",
+   "note": "name written on two lines: 'UTAH APT ASSOC' / 'P.A.C.'"
+  },
+  {
+   "line_no": 11,
+   "date": "2006-08-30",
+   "donor_raw": "STEVE / MARLA LUNDGREN",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,62.45,81.60,3.00@p2",
+   "note": "name written on two lines: 'STEVE/MARLA' / 'LUNDGREN'; occupation 'BUSINESSMAN'"
+  },
+  {
+   "line_no": 12,
+   "date": "2006-09-07",
+   "donor_raw": "SINCLAIR COS.",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,66.10,81.60,3.00@p2"
+  },
+  {
+   "line_no": 13,
+   "date": "2006-09-10",
+   "donor_raw": "MARK CROCKETT",
+   "amount": "1000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.79,69.75,81.60,3.00@p2",
+   "note": "'(IN KIND)' written under the amount; occupation 'CO. COUNCILMAN / BUSINESSMAN'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-08-01",
+   "vendor_raw": "CARRIE DICKSON",
+   "purpose": "MAPS / LISTS",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.68,29.50,74.30,3.00@p3",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "PRO PRINTING",
+   "purpose": "LETTERS / ENVELOPES",
+   "amount": "570.31",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.68,33.20,74.30,3.00@p3",
+   "note": "DATE LEFT BLANK: printed '8/2?/06' \u2014 the day's second digit is ambiguous between 8 and 3 ('8/28/06' vs '8/23/06') at 200, 600 and 1200 dpi; not guessed. Amount 570.31 confirmed by the page subtotal identity."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-08-29",
+   "vendor_raw": "U.S.P.S.",
+   "purpose": "STAMPS",
+   "amount": "312.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:13.68,36.90,74.30,3.00@p3",
+   "note": "superscript cents group is cramped; 312.00 is the value the page subtotal identity requires"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-08-30",
+   "vendor_raw": "INTEGRATED TECH.",
+   "purpose": "MAILING",
+   "amount": "609.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.68,40.60,74.30,3.00@p3",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-02",
+   "vendor_raw": "STORAGE PLUS",
+   "purpose": "STORAGE",
+   "amount": "90.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.68,44.35,74.30,3.00@p3",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-03",
+   "vendor_raw": "LOWE'S",
+   "purpose": "SIGN EQUIPMENT",
+   "amount": "51.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:13.68,48.05,74.30,3.00@p3",
+   "note": "superscript cents read '04'; confirmed by the page subtotal identity"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-09-10",
+   "vendor_raw": "MARK CROCKETT",
+   "purpose": "CAMPAIGN STAFF",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:13.68,51.75,74.30,3.00@p3",
+   "note": "no in-kind marker on the Schedule B side even though the matching Schedule A row for this person is marked IN KIND \u2014 kept as printed"
+  }
+ ],
  "total_contributions": "9470.00",
  "total_expenditures": "4132.35",
  "beginning_balance": "2317.01",
@@ -51,6 +316,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Fax copy (4 fax pages). The Summary Page is page 4, not page 2 \u2014 pages 2 and 3 are Schedule A and Schedule B. Line 1 Column A cents are a raised superscript '00'. Arithmetic closes."
+  "notes": "Fax copy (4 fax pages). The Summary Page is page 4, not page 2 \u2014 pages 2 and 3 are Schedule A and Schedule B. Line 1 Column A cents are a raised superscript '00'. Arithmetic closes.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "9470.00",
+     "itemized": "9450.00",
+     "result": "delta",
+     "detail": "delta 20.00 \u2014 FILER arithmetic: the single Schedule A page's printed SUBTOTAL is 9450.00 and the 13 rows sum to exactly 9450.00, but the form's TOTAL CONTRIBUTIONS RECEIVED cell prints 9470.00 and the Summary Page line 1 Column A also prints 9470.00. There is only one Schedule A page, so subtotal and total should agree. Both figures retained verbatim; nothing adjusted."
+    },
+    "expenditures": {
+     "stated": "4132.35",
+     "itemized": "4132.35",
+     "result": "exact",
+     "detail": "exact (4132.35 = 4132.35)"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) rows 9450.00 = printed subtotal 9450.00 \u2014 GATE PASSES (but the page's TOTAL cell prints 9470.00, see recon). p3 (Schedule B) rows 4132.35 = printed subtotal 4132.35 = printed total \u2014 GATE PASSES and it is what fixed four cramped superscript-cents groups (312.00, 609.00, 90.00, 51.04).",
+   "escalations": 1,
+   "escalation_note": "p3 Schedule B row 2 date cell re-rendered at 600 dpi and again at 1200 dpi \u2014 day digit still ambiguous, left blank (see row note)",
+   "n_contrib_rows": 13,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Faxed copy (09/15/2006 fax header). PAGE ORDER IS NOT STANDARD: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page. The filer left the ENTIRE 'Complete Mailing Address' column empty on Schedule A (filer omission, not redaction) \u2014 no donor city/state exists in this document. Cents throughout are raised superscripts over a rule and are transcribed with a decimal point."
+  }
  }
 }

@@ -1,6 +1,49 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-01-09",
+   "donor_raw": "Wade M. Miller",
+   "amount": "62,30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.65,25.23,82.50,4.27@p3",
+   "note": "the candidate's own contribution to his committee. Complete Mailing Address is covered by a BLACK REDACTION BAR - redacted, no geography recorded. Occupation/Employer is a two-line scrawl read as 'UDIT Tech' at LOW confidence - legible glyphs only, no expansion asserted. Amount uses a DECIMAL COMMA ('62,30') and is kept verbatim"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-01-08",
+   "vendor_raw": "Kinko's",
+   "purpose": "Handouts",
+   "amount": "12,30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.10,28.50,75.50,4.00@p4",
+   "note": "amount written with a dollar sign raised above the figure and a DECIMAL COMMA ('$12,30'); kept verbatim"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-01-09",
+   "vendor_raw": "Rep. Party",
+   "purpose": "Booth",
+   "amount": "50,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.10,32.50,75.50,3.80@p4",
+   "note": "STRIKE-THROUGH in the recipient cell: 'Booth' was written first, struck out, and 'Rep. Party' written over it; the surviving value is recorded and 'Booth' appears (unstruck) in the Purpose column. Amount uses a DECIMAL COMMA ('50,00')"
+  }
+ ],
  "total_contributions": "62,30",
  "total_expenditures": "62,30",
  "beginning_balance": "0,00",
@@ -49,6 +92,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "DECIMAL COMMAS THROUGHOUT: every figure on this Summary Page is written European-style, '62,30' and '0,00', recorded exactly as written for the downstream repair_money_line whitelist. STRIKE-THROUGH on Line 1: both Column A and Column B originally read '0,00', which is crossed out in blue with '62,30' written above it - the surviving (rewritten) value 62,30 is the one recorded, and the struck 0,00 is noted here. Both the Year-End and the Final/Dissolution boxes are checked, and the Final/Dissolution block is additionally circled in blue; neither amendment box is checked. Top-row Office is abbreviated 'C.C.'; Office Sought reads 'County Council'; District Number is blank (the clerk listing says Council #3). Signed 1/29/14, clerk-stamped JAN 30 2014. THE FORM'S ARITHMETIC IS INTERNALLY INCONSISTENT and is kept verbatim: Line 4 ('from Line 1 Column A') and Line 5 still read 0,00 even though Line 1 was rewritten to 62,30, and Line 7 reads 62,30 where 0,00 minus 62,30 would be negative. Worth a human's eye."
+  "notes": "DECIMAL COMMAS THROUGHOUT: every figure on this Summary Page is written European-style, '62,30' and '0,00', recorded exactly as written for the downstream repair_money_line whitelist. STRIKE-THROUGH on Line 1: both Column A and Column B originally read '0,00', which is crossed out in blue with '62,30' written above it - the surviving (rewritten) value 62,30 is the one recorded, and the struck 0,00 is noted here. Both the Year-End and the Final/Dissolution boxes are checked, and the Final/Dissolution block is additionally circled in blue; neither amendment box is checked. Top-row Office is abbreviated 'C.C.'; Office Sought reads 'County Council'; District Number is blank (the clerk listing says Council #3). Signed 1/29/14, clerk-stamped JAN 30 2014. THE FORM'S ARITHMETIC IS INTERNALLY INCONSISTENT and is kept verbatim: Line 4 ('from Line 1 Column A') and Line 5 still read 0,00 even though Line 1 was rewritten to 62,30, and Line 7 reads 62,30 where 0,00 minus 62,30 would be negative. Worth a human's eye.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "62,30",
+     "itemized": "62,30",
+     "result": "exact",
+     "detail": "exact - the single Schedule A row reads 62,30 and both the printed SUBTOTAL FOR THIS PAGE and the printed TOTAL CONTRIBUTIONS RECEIVED also read 62,30, matching stated '62,30'. This filer writes the cents separator as a COMMA throughout, so every figure here is recorded verbatim in that form per contract; downstream repair converts it."
+    },
+    "expenditures": {
+     "stated": "62,30",
+     "itemized": "62,30",
+     "result": "exact",
+     "detail": "exact - the two Schedule B rows read 12,30 and 50,00, which sum to 62,30 = the printed SUBTOTAL = the printed TOTAL EXPENDITUTRES MADE = stated '62,30'. (In ordinary decimal terms 12.30 + 50.00 = 62.30.)"
+    }
+   },
+   "page_subtotal_gates": "p3 single row 62,30 = printed subtotal 62,30 = printed total 62,30 - gate fires exactly. p4 rows 12,30 + 50,00 = 62,30 = printed subtotal 62,30 = printed total 62,30 - gate fires exactly.",
+   "escalations": 0,
+   "escalation_note": "none needed - three handwritten entries in a clear hand, and both page gates close at first read; the only doubtful cell (the Occupation/Employer abbreviation) is a text field, not a figure, and no re-render would resolve a two-word scrawl",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A tiny, fully self-funded committee: the ONLY contribution is from the candidate himself (Wade M. Miller, matching the cover's Wade Marshall Miller), and the two expenditures exhaust it to the cent. DECIMAL COMMA THROUGHOUT, as on the Summary Page - '62,30', '12,30', '50,00' - recorded exactly as written, never converted here. THE CONTRIBUTOR'S ADDRESS IS BLACK-BAR REDACTED on the Schedule A row, so donor_city/donor_state are blank and noted 'redacted'. THE OCCUPATION/EMPLOYER CELL IS THE ONE DOUBTFUL READ: it is a two-line scrawl whose legible glyphs are 'UDIT' over 'Tech'; 'UDOT Tech' (Utah Department of Transportation) would be the obvious real-world expansion but the middle glyph does not support it, so the legible-glyph string is recorded at low confidence and NO expansion is asserted. SCHEDULE B ROW 2 CARRIES A STRIKE-THROUGH: the word 'Booth' was written in the Name of Recipient cell, struck out, and 'Rep. Party' written over it, while 'Booth' was then entered in the Purpose column - the surviving recipient is recorded and the strike is noted. PDF page 5 is the clerk's 'Dissolution of a Candidate Campaign Committee' notice (Name of Committee 'Self', established January 6 2014, signed January 29 2014, clerk-stamped JAN 30 2014); it carries no schedule and nothing was transcribed from it. Both the Year-End and the Final/Dissolution boxes are checked on the cover, consistent with that notice. The Summary Page's own line 1 was originally 0,00 struck through and rewritten 62,30 (recorded at the totals tranche); the schedules agree with the rewritten figure."
+  }
  }
 }

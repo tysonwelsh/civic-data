@@ -1,6 +1,102 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-03-07",
+   "donor_raw": "Max Burdick",
+   "amount": "154.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.94,20.50,86.70,3.85@p2",
+   "note": "Occupation/Employer cell reads 'Real Estate A. Broker / Keller Williams'. Complete Mailing Address column left BLANK by the filer for every row on this page (not redacted). Amount re-read in a 600 dpi crop of the amount column. Schedule B's paired 154.47 row is labelled 'IN KIND BY Candidate'; Schedule A carries no in-kind marker, so in_kind is left false here."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-03-20",
+   "donor_raw": "Max Burdick",
+   "amount": "85.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.94,24.35,86.70,3.75@p2",
+   "note": "Occupation/Employer 'Real Estate A Broker / Keller Williams'; address column blank (filer). Cents written as raised '00'. Paired Schedule B row is marked IN KIND BY Candidate; no marker on this schedule."
+  },
+  {
+   "line_no": 3,
+   "date": "2008-03-26",
+   "donor_raw": "Max Burdick",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.94,28.10,86.70,3.90@p2",
+   "note": "Occupation/Employer 'Real Estate A-Broker / Keller Williams'; address column blank (filer). Cents written as raised '00'."
+  },
+  {
+   "line_no": 4,
+   "date": "2008-03-31",
+   "donor_raw": "Max Burdick",
+   "amount": "94.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.94,32.00,86.70,3.90@p2",
+   "note": "Occupation/Employer 'Real Estate A. Broker / Keller Williams'; address column blank (filer)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-03-07",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee  IN KIND BY Candidate",
+   "amount": "154.47",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.12,23.25,80.00,4.00@p3",
+   "note": "Purpose cell carries the explicit second line 'IN KIND BY Candidate'."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-03-20",
+   "vendor_raw": "Max Burdick",
+   "purpose": "Printing & Mailing  IN KIND BY Candidate",
+   "amount": "85.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.12,27.25,80.00,4.50@p3",
+   "note": "Purpose cell carries 'IN KIND BY Candidate' on the second line. Cents written as raised '00'."
+  },
+  {
+   "line_no": 3,
+   "date": "2008-03-31",
+   "vendor_raw": "XPEDX",
+   "purpose": "Printing Supplies",
+   "amount": "94.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.12,31.75,80.00,4.25@p3",
+   "note": "Vendor printed 'X PEDX' with a space."
+  }
+ ],
  "total_contributions": "534.25",
  "total_expenditures": "334.25",
  "beginning_balance": "0",
@@ -50,6 +146,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "THE SCAN IS OUT OF ORDER: PDF page 2 is the form's Schedule A (printed page 3), page 3 is Schedule B (printed page 4), and the Summary Page (printed page 2) is the LAST PDF page, page 4. Both Column B cells were left BLANK by the filer, recorded as '' (not 0). Line 3 is a slashed \u00d8 (zero), recorded '0'. Neither amendment box is checked. Line 7 (200.00) carries forward correctly into this filer's June report line 3."
+  "notes": "THE SCAN IS OUT OF ORDER: PDF page 2 is the form's Schedule A (printed page 3), page 3 is Schedule B (printed page 4), and the Summary Page (printed page 2) is the LAST PDF page, page 4. Both Column B cells were left BLANK by the filer, recorded as '' (not 0). Line 3 is a slashed \u00d8 (zero), recorded '0'. Neither amendment box is checked. Line 7 (200.00) carries forward correctly into this filer's June report line 3.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "534.25",
+     "itemized": "534.25",
+     "result": "exact",
+     "detail": "exact (534.25 = 534.25)"
+    },
+    "expenditures": {
+     "stated": "334.25",
+     "itemized": "334.25",
+     "result": "exact",
+     "detail": "exact (334.25 = 334.25)"
+    }
+   },
+   "page_subtotal_gates": "p2 rows sum 534.25 = printed SUBTOTAL 534.25 (and printed TOTAL 534.25); p3 rows sum 334.25 = printed SUBTOTAL 334.25 (and printed TOTAL 334.25). Both gates fired and passed.",
+   "escalations": 2,
+   "escalation_note": "600 dpi tight crops of the Amount column on p2 (4 rows) and p3 (3 rows); both re-read identically.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES ARE OUT OF ORDER in this PDF: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page (the Summary Page is NOT page 2). The filer left the entire 'Complete Mailing Address' column blank on Schedule A - blank by the filer, not county-redacted. All four Schedule A rows are the candidate himself (Max Burdick); two of them correspond to the two Schedule B rows the filer marked 'IN KIND BY Candidate'."
+  }
  }
 }

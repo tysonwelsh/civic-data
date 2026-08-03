@@ -1,6 +1,144 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-10-29",
+   "donor_raw": "Robert Clark",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,24.90,83.80,3.80@p3",
+   "note": "Occupation/Employer cell: 'Attorney / Parr Brown'. cents written as a raised superscript over a short rule; transcribed with a decimal point. this hand's 8 and 9 are close; the day digit was re-read in a 900 dpi crop of the whole date column, where rows 1 and 3 resolve to 9 (long descender) and row 2 to 8 (closed double loop). The rows are therefore printed slightly out of chronological order (29, 28, 29), which is retained. Mailing-address cell is blank on the scan with a faint ink fragment at the column head - no city/state readable."
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-28",
+   "donor_raw": "Energy Solutions",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,28.83,83.80,3.80@p3",
+   "note": "Occupation/Employer cell: 'Company'. cents written as a raised superscript over a short rule; transcribed with a decimal point. Mailing-address cell blank on the scan - no city/state readable."
+  },
+  {
+   "line_no": 3,
+   "date": "2010-10-29",
+   "donor_raw": "Enid Mickelsen",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,32.76,83.80,3.80@p3",
+   "note": "Occupation/Employer cell: 'Investor / Self'. cents written as a raised superscript over a short rule; transcribed with a decimal point. Mailing-address cell blank on the scan - no city/state readable."
+  },
+  {
+   "line_no": 4,
+   "date": "2010-11-04",
+   "donor_raw": "Jeremy Votaw",
+   "amount": "108.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,36.69,83.80,3.80@p3",
+   "note": "the CANDIDATE HIMSELF - a self-contribution, and the only row with cents. Occupation/Employer cell reads 'Executive / ' followed by a 3-letter abbreviation that does not resolve at 900 dpi (reads as 'SVB' or 'JVJ') - the abbreviation is not guessed. cents written as a raised superscript over a short rule; transcribed with a decimal point. Mailing-address cell blank on the scan."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-10-28",
+   "vendor_raw": "Bonneville Radio",
+   "purpose": "Radio Ads",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,27.50,76.20,3.90@p4",
+   "note": "handwritten; date printed '10/28/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-29",
+   "vendor_raw": "Lowe's",
+   "purpose": "Zip Ties",
+   "amount": "13.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,31.52,76.20,3.90@p4",
+   "note": "handwritten; date printed '10/29/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-10-29",
+   "vendor_raw": "Clear Channel Comm",
+   "purpose": "Radio Ads",
+   "amount": "595.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,35.54,76.20,3.90@p4",
+   "note": "handwritten; date printed '10/29/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-10-30",
+   "vendor_raw": "Bonneville Radio",
+   "purpose": "Radio Ads",
+   "amount": "66.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,39.56,76.20,3.90@p4",
+   "note": "handwritten; date printed '10/30/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-11-01",
+   "vendor_raw": "Home Depot",
+   "purpose": "Stakes",
+   "amount": "76.68",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,43.58,76.20,3.90@p4",
+   "note": "handwritten; date printed '11/1/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-11-15",
+   "vendor_raw": "Randy O'Hara",
+   "purpose": "Consulting Fee",
+   "amount": "2,750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.80,47.60,76.20,3.90@p4",
+   "note": "handwritten; date printed '11/15/10'; cents written as a raised superscript over a short rule; transcribed with a decimal point; dated 11/15/10, after the 2010 general election, consistent with a final / dissolution report"
+  }
+ ],
  "total_contributions": "$958.25",
  "total_expenditures": "$4,251.51",
  "beginning_balance": "$3,293.26",
@@ -49,6 +187,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TWO Type-of-Report boxes are checked - both the Year-End (January 31) box AND the Final / Dissolution box - and both are recorded. Every Summary Page figure writes the cents as a RAISED SUPERSCRIPT over a short rule (958 with a superscript 25, 4,251 with a superscript 51, 3,293 with a superscript 26, 39,444 with a superscript 21); re-rendered at 500 dpi and transcribed with a decimal point. All carry a written '$', kept verbatim. Line 7 is a slashed zero, consistent with a dissolved account. Signed 11-18-10 but not clerk-stamped until JAN 03 2011. Form arithmetic checks out (3,293.26 + 958.25 = 4,251.51)."
+  "notes": "TWO Type-of-Report boxes are checked - both the Year-End (January 31) box AND the Final / Dissolution box - and both are recorded. Every Summary Page figure writes the cents as a RAISED SUPERSCRIPT over a short rule (958 with a superscript 25, 4,251 with a superscript 51, 3,293 with a superscript 26, 39,444 with a superscript 21); re-rendered at 500 dpi and transcribed with a decimal point. All carry a written '$', kept verbatim. Line 7 is a slashed zero, consistent with a dissolved account. Signed 11-18-10 but not clerk-stamped until JAN 03 2011. Form arithmetic checks out (3,293.26 + 958.25 = 4,251.51).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$958.25",
+     "itemized": "958.25",
+     "result": "exact",
+     "detail": "exact (958.25 = 958.25); the 4 rows equal the printed SUBTOTAL FOR THIS PAGE $958.25, the printed TOTAL CONTRIBUTIONS RECEIVED $958.25 and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "$4,251.51",
+     "itemized": "4251.51",
+     "result": "exact",
+     "detail": "exact (4251.51 = 4,251.51); the 6 rows equal the printed SUBTOTAL $4,251.51, the printed TOTAL $4,251.51 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 958.25 = printed SUBTOTAL FOR THIS PAGE 958.25 = printed TOTAL 958.25 - GATE FIRED. p4 rows 4,251.51 = printed SUBTOTAL 4,251.51 = printed TOTAL 4,251.51 - GATE FIRED. Both gates also settle the raised-superscript cents on every row (e.g. p4 row 5 '76 68' = 76.68).",
+   "escalations": 1,
+   "escalation_note": "p3 DATE column at 900 dpi (whole column in one tight crop) because this hand's 8 and 9 are close; it resolved rows 1 and 3 to 29 and row 2 to 28, leaving the rows slightly out of chronological order as printed.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard order: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (4 rows), p4 Schedule B (6 rows). Both schedule pages are headed 'Votaw' and hand-numbered 'Page 3 of 4' / 'Page 4 of 4'; the Date of Report box is left blank on both. The form checks BOTH the Year-End (January 31) box and the Final / Dissolution box. Cents are written throughout as raised superscripts over a short rule and are transcribed with a decimal point; both page gates confirm them. PRIVACY: the Complete Mailing Address column is blank on the scan for all four contributors (a faint ink fragment survives at the column head of row 1), so no city or state could be recorded. The fourth contribution is from the candidate himself. The last expenditure (11/15/10, $2,750.00 consulting fee to Randy O'Hara) post-dates the general election and is the largest line in the filing."
+  }
  }
 }

@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-11-15",
+   "vendor_raw": "MARY BISHOP",
+   "purpose": "LOAN PAYBACK",
+   "amount": "776.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.24,25.59,84.71,4.09@p4",
+   "note": "the recipient is the candidate herself; written in block capitals"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "776.01",
  "beginning_balance": "776.01",
@@ -49,6 +64,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The clerk listing calls this the '2014 Summary Report/Dissolution'; the FORM checks ONLY the Final / Dissolution Report box - the Year-End (January 31) box is NOT checked. Line 1 Column A is a written open zero; Lines 4 and 7 Column A are hand-drawn slashed zeros - all recorded as 0. Column B cents are written as a raised superscript 00 over a rule - transcribed with a decimal point. The top-row Office box reads 'Co. Rocorder' (filer's misspelling); the Office Sought box reads 'Co. Recorder' and is the value used. Amendment box checked No."
+  "notes": "The clerk listing calls this the '2014 Summary Report/Dissolution'; the FORM checks ONLY the Final / Dissolution Report box - the Year-End (January 31) box is NOT checked. Line 1 Column A is a written open zero; Lines 4 and 7 Column A are hand-drawn slashed zeros - all recorded as 0. Column B cents are written as a raised superscript 00 over a rule - transcribed with a decimal point. The top-row Office box reads 'Co. Rocorder' (filer's misspelling); the Office Sought box reads 'Co. Recorder' and is the value used. Amendment box checked No.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is a printed but EMPTY table: no date, name, address, occupation or amount on any of its 14 rows. The filer wrote a slashed-zero glyph in the row-1 Amount cell and again in the TOTAL CONTRIBUTIONS RECEIVED cell; per the repo ZERO-GLYPH RULING that glyph is 0, matching stated_c=0. A real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "776.01",
+     "itemized": "776.01",
+     "result": "exact",
+     "detail": "exact (single row 776.01 = printed TOTAL 776.01 = stated_e)"
+    }
+   },
+   "page_subtotal_gates": "Neither page gates: the SUBTOTAL FOR THIS PAGE cell is EMPTY on both p3 and p4. p4's single row equals the printed TOTAL 776.01; p3's only mark is the slashed zero in the TOTAL cell.",
+   "escalations": 4,
+   "escalation_note": "600dpi cell crops: p3 row-1 Amount cell and p3 TOTAL cell (both confirmed as a slashed-zero glyph, not a stray stroke); p4 row-1 name cell and p4 Amount + TOTAL cells (776.01 twice).",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Schedule A is BLANK (a real zero - the filer marked it with a slashed zero and the Summary Page states 0). The single expenditure is the candidate repaying her own campaign loan. The clerk listing calls this a Final/Dissolution report; the form's own Date of Report is 2/2/15 and the received stamp is FEB 02 2015. Both schedules are page 1 of 1. No address cells are filled anywhere, so no donor_city/donor_state."
+  }
  }
 }

@@ -1,6 +1,259 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-11-01",
+   "donor_raw": "Millrace Capital LLC",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:88.90,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-02",
+   "donor_raw": "National Title Agency",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:86.94,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-02",
+   "donor_raw": "Development Associates",
+   "amount": "300",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.98,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-11-02",
+   "donor_raw": "Gregory Skordas",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.02,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-11-02",
+   "donor_raw": "Dan Gimble",
+   "amount": "150",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.06,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-11-02",
+   "donor_raw": "Cindy Jones",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:79.10,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-11-02",
+   "donor_raw": "Great Western Consulting",
+   "amount": "300",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.14,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document; the word 'CASH' is printed beside the amount"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-11-02",
+   "donor_raw": "Committee To Elect Gene Davis",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.18,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-11-03",
+   "donor_raw": "The Carter Political Consulting Compa",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.22,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document; the name is CLIPPED by the spreadsheet column ('...Compa'); kept verbatim, NOT completed"
+  },
+  {
+   "line_no": 10,
+   "date": "2006-11-03",
+   "donor_raw": "Stacey Alexander",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.25,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document"
+  },
+  {
+   "line_no": 11,
+   "date": "2006-11-06",
+   "donor_raw": "Mike Reberg",
+   "amount": "3926.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.29,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document; the word 'LOAN' is printed beside the amount; recorded as printed because the attachment's own Total requires it"
+  },
+  {
+   "line_no": 12,
+   "date": "2006-11-17",
+   "donor_raw": "UPEA",
+   "amount": "500",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.61,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document; HANDWRITTEN row added below the typed list; 'IN KIND' is written beside the amount, hence in_kind=true"
+  },
+  {
+   "line_no": 13,
+   "date": "2006-11-08",
+   "donor_raw": "CWA Cope PAC",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:61.45,2.42,1.96,94.50@p3",
+   "note": "the contributions attachment has columns Date | Name | Occupation/Employer | Amount and NO address column at all, so no donor city/state exists in this document; HANDWRITTEN row added below the typed list"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-10-31",
+   "vendor_raw": "Progressive Direct Mail",
+   "purpose": "Mailing",
+   "amount": "7,039.73",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,5.05,60.00,1.60@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-01",
+   "vendor_raw": "Progressive Direct Mail",
+   "purpose": "Mailing",
+   "amount": "329.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,6.60,60.00,1.60@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-02",
+   "vendor_raw": "Cricket",
+   "purpose": "Phone",
+   "amount": "85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,8.20,60.00,1.60@p4",
+   "note": "amount written with no cents"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-11-06",
+   "vendor_raw": "tyson organization",
+   "purpose": "calls",
+   "amount": "3,941.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,9.70,60.00,1.60@p4",
+   "note": "a struck-through word (reads like 'loan') follows the amount; the strike is retained as an observation and the amount is unaffected"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-11-14",
+   "vendor_raw": "Anchor Printing",
+   "purpose": "printing",
+   "amount": "3856.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,11.30,60.00,1.60@p4",
+   "note": "amount printed without a thousands separator - kept verbatim"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-11-17",
+   "vendor_raw": "Target Group",
+   "purpose": "consulting fees",
+   "amount": "500",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,15.70,60.00,1.60@p4",
+   "note": "HANDWRITTEN row. The line begins with a heavily STRUCK-OUT recipient name, then 'Target Group' written beneath it; 'IN KIND' is written beside the amount, hence in_kind=true. The struck-out text is not recoverable and was not guessed"
+  }
+ ],
  "total_contributions": "7,826.22",
  "total_expenditures": "15,752.68",
  "beginning_balance": "10,968.24",
@@ -49,6 +302,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2006 Summary Report/Dissolution', but the form checks ONLY the YEAR-END REPORT (January 31) box - the Final Report box is NOT checked and there is no dissolution notice in the 4-page document. Written in heavy marker; re-rendered page 2 at 250 dpi. Column A reconciles exactly (10,968.24 + 7,826.22 = 18,794.46; minus 15,752.68 = 3,041.78) and Line 3 matches Line 7 of this candidate's October 31 report. The Column B figures are recorded at medium confidence - the last digit of 49,159.04 runs past the cell edge - and note that 49,159.04 - 46,117.71 = 3,041.33, 45 cents off the Line 7 balance; kept verbatim, no correction made."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this '2006 Summary Report/Dissolution', but the form checks ONLY the YEAR-END REPORT (January 31) box - the Final Report box is NOT checked and there is no dissolution notice in the 4-page document. Written in heavy marker; re-rendered page 2 at 250 dpi. Column A reconciles exactly (10,968.24 + 7,826.22 = 18,794.46; minus 15,752.68 = 3,041.78) and Line 3 matches Line 7 of this candidate's October 31 report. The Column B figures are recorded at medium confidence - the last digit of 49,159.04 runs past the cell edge - and note that 49,159.04 - 46,117.71 = 3,041.33, 45 cents off the Line 7 balance; kept verbatim, no correction made.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,826.22",
+     "itemized": "7,826.22",
+     "result": "exact",
+     "detail": "exact (7,826.22 = 7,826.22); 11 typed rows plus the 2 handwritten rows added below them sum to the handwritten Total 7,826.22 on the attachment, which equals Summary Page line 1 Column A. The two handwritten additions are REQUIRED for it to close"
+    },
+    "expenditures": {
+     "stated": "15,752.68",
+     "itemized": "15,752.68",
+     "result": "exact",
+     "detail": "exact (15,752.68 = 15,752.68); 5 typed rows plus the 1 handwritten row sum to the handwritten Total 15,752.68"
+    }
+   },
+   "page_subtotal_gates": "Neither attachment prints a 'SUBTOTAL FOR THIS PAGE' - they are the filer's own one-page lists, each ending in a handwritten 'Total'. Gate applied at that Total and both close to the cent: contributions rows 7,826.22 = written Total 7,826.22; expenditures rows 15,752.68 = written Total 15,752.68. The gates are load-bearing here because they prove the handwritten rows appended under each typed list ARE part of the schedule, not marginalia.",
+   "escalations": 1,
+   "escalation_note": "p3 is a LANDSCAPE attachment: re-rendered at 300 dpi, rotated +90 (counter-clockwise) and tight-cropped to the row block, which is where the typed values and the two handwritten additions were read (hence verified=1 on the contribution rows). The p4 expenditure list is portrait and needed no escalation.",
+   "n_contrib_rows": 13,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Leslie Reberg, Recorder, year-end 1-31-07). p1 cover, p2 Summary Page, p3 a LANDSCAPE typed 'Revenues' list, p4 a portrait typed 'Expenditures' list. The county's own Schedule A/B forms are NOT used - the filer substituted their own two lists, so there are no SUBTOTAL cells and no address column anywhere; donor city/state therefore do not exist in this document and none was invented. BOTH lists were AMENDED BY HAND after printing: two extra contribution rows (UPEA 500 IN KIND on 11/17/06, CWA Cope PAC 200 on 11/08/06) and one extra expenditure row (Target Group, 500 IN KIND, consulting fees) are written below the typed text, and each list's Total is handwritten. The handwritten rows are genuine schedule lines - both totals only close with them included. The expenditure list also carries two STRIKE-OUTS: a struck word (reads like 'loan') after the tyson organization amount, and a fully struck-out recipient name on the handwritten Target Group line; neither struck text was guessed. Three amounts carry a trailing word rather than cents ('300 CASH', '3926.22 LOAN', '500 IN KIND') - the word is recorded in the row note and only the figure in the amount field."
+  }
  }
 }

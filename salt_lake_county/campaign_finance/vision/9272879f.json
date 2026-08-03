@@ -1,6 +1,252 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-20",
+   "donor_raw": "Kory Holdaway",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,22.14,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-23",
+   "donor_raw": "Maloni Hola",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,26.04,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-22",
+   "donor_raw": "Derek Smith",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,29.94,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-09-26",
+   "donor_raw": "Michael Muir",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,33.84,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-26",
+   "donor_raw": "Chris Buttars",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,37.74,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-27",
+   "donor_raw": "Utah County Legislative PAC",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,41.64,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-09-28",
+   "donor_raw": "Utah County Republican Party",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,45.54,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-01",
+   "donor_raw": "Brian De Hann",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,49.44,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-10-13",
+   "donor_raw": "H. B. Walker",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,53.34,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document"
+  },
+  {
+   "line_no": 10,
+   "donor_raw": "Lohra Miller Campaign",
+   "amount": "800.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,57.24,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document; date printed MALFORMED as '10/28/206' (three-digit year) - left BLANK per the contract, verbatim kept here; NEVER filled from the report date. Occupation/Employer cell reads 'Candidate (In kind)' so in_kind=true"
+  },
+  {
+   "line_no": 11,
+   "amount": "332.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.00,76.99,79.00,3.64@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (it is NOT a county redaction), so no city/state exists on this document; AGGREGATE line: Date and Name cells are empty by the filer's design; the Occupation/Employer cell reads 'Contributions $50 and under'. It sits inside the table grid and IS included in the printed page subtotal, so it is transcribed as a blank-donor aggregate row"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-09-21",
+   "vendor_raw": "David Lund",
+   "purpose": "Administrative Assistant",
+   "amount": "1,295.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,24.74,78.00,3.64@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-27",
+   "vendor_raw": "Reagan Outdoor Signs",
+   "purpose": "Billboards",
+   "amount": "2,726.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,28.60,78.00,3.64@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-29",
+   "vendor_raw": "Visa",
+   "purpose": "Campaign Expenses",
+   "amount": "3,581.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,32.46,78.00,3.64@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-02",
+   "vendor_raw": "Jana Truman",
+   "purpose": "Graphic Design/Literature Design",
+   "amount": "277.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,36.33,78.00,3.64@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-11",
+   "vendor_raw": "Dave Clark",
+   "purpose": "Graphic Design/Literature Design",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,40.19,78.00,3.64@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-12",
+   "vendor_raw": "Utah State Party",
+   "purpose": "Campaign Expense",
+   "amount": "402.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,44.05,78.00,3.64@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-18",
+   "vendor_raw": "Visa",
+   "purpose": "Campaign Expenses",
+   "amount": "5,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,47.92,78.00,3.64@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-16",
+   "vendor_raw": "Verizon",
+   "purpose": "Campaign Phone",
+   "amount": "190.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.00,51.78,78.00,3.64@p4"
+  }
+ ],
  "total_contributions": "7,632.00",
  "total_expenditures": "14,222.86",
  "beginning_balance": "13,294.20",
@@ -49,6 +295,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "TYPED form \u2014 every figure is machine-printed and unambiguous. Column A reconciles (13,294.20 + 7,632.00 = 20,926.20; minus 14,222.86 = 6,703.34) and Line 3 matches Line 7 of Dickson's September filing (key 450db312). COLUMN B DOES NOT RECONCILE with Column A: 37,897.35 - 30,056.81 = 7,840.54, not the 6,703.34 closing balance. Figures kept verbatim as printed. Page 1 carries a hand-written 'Received Salt Lake County / Clerk's Office / AF' note over an OCT 31 2006 stamp."
+  "notes": "TYPED form \u2014 every figure is machine-printed and unambiguous. Column A reconciles (13,294.20 + 7,632.00 = 20,926.20; minus 14,222.86 = 6,703.34) and Line 3 matches Line 7 of Dickson's September filing (key 450db312). COLUMN B DOES NOT RECONCILE with Column A: 37,897.35 - 30,056.81 = 7,840.54, not the 6,703.34 closing balance. Figures kept verbatim as printed. Page 1 carries a hand-written 'Received Salt Lake County / Clerk's Office / AF' note over an OCT 31 2006 stamp.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,632.00",
+     "itemized": "7,632.00",
+     "result": "exact",
+     "detail": "exact (7,632.00 = 7,632.00); 10 named rows (7,300.00) plus the 332.00 'Contributions $50 and under' aggregate line = the printed SUBTOTAL FOR THIS PAGE and TOTAL, both 7,632.00"
+    },
+    "expenditures": {
+     "stated": "14,222.86",
+     "itemized": "14,222.86",
+     "result": "exact",
+     "detail": "exact (14,222.86 = 14,222.86); 8 rows = the printed SUBTOTAL FOR THIS PAGE and TOTAL, both 14,222.86"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 7,632.00 = printed SUBTOTAL FOR THIS PAGE 7,632.00 (fires only WITH the 332.00 aggregate line included - that is the evidence it is a real field, not decoration); p4 rows 14,222.86 = printed SUBTOTAL 14,222.86. Both pages are marked 'Page 1 of 1' so the schedule totals equal the page subtotals.",
+   "escalations": 0,
+   "escalation_note": "none needed - the schedules are typed (word-processed), not handwritten, and read cleanly at 200 dpi; both page-subtotal gates closed to the cent on the first read.",
+   "n_contrib_rows": 11,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing (Carrie Dickson, Clerk, 10/31/2006 interim): p1 cover, p2 Summary Page, p3 Schedule A, p4 Schedule B. Both schedules are on the county's own form and TYPED, not handwritten. The 'Complete Mailing Address' column is entirely EMPTY - the filer left it blank; this is a filer omission, NOT a county redaction, so donor_city/donor_state are blank on every row and no address ever existed to discard. Schedule A's last row is an AGGREGATE with no date and no name, labelled in the Occupation column 'Contributions $50 and under' ($332.00); it is inside the table grid and the page subtotal only closes with it, so it is transcribed as a blank-donor aggregate row with needs_review=1. One date is MALFORMED - '10/28/206' (three-digit year) on the Lohra Miller Campaign row - left blank per the contract with the verbatim in the row note; the year was NOT inferred from the 2006 report date. That same row's Occupation cell reads 'Candidate (In kind)', the only in-kind marker in the filing."
+  }
  }
 }

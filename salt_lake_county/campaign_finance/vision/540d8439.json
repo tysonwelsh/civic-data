@@ -1,6 +1,284 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-20",
+   "donor_raw": "RICH PRICE",
+   "amount": "1,400.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,24.58,87.16,3.96@p2",
+   "note": "amount written '1,400.' with superscript cents over a rule, and 'IN KIND' written beneath it in the same cell. Occupation/employer 'WEB DESIGNER'. Address REDACTED by the county."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-27",
+   "donor_raw": "SNELGROVE TRAVEL INC",
+   "amount": "2,000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,28.54,87.16,3.96@p2",
+   "note": "amount written '2,000.' with superscript cents and 'IN KIND' beneath. Occupation/employer 'BUSINESS'. Address REDACTED."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-03-29",
+   "donor_raw": "TYLER SNELGROVE",
+   "amount": "1,900.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,32.50,87.16,3.96@p2",
+   "note": "date day-digit read as 29 at 400% (a looped glyph, unlike the clean 0 on row 4); 20 is the competing read. Occupation/employer 'US ARMY'. Address REDACTED."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-20",
+   "donor_raw": "MIKE COAR",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,36.46,87.16,3.96@p2",
+   "note": "name is written high in the cell, straddling the row rule with row 3 - assigned to this row by its date and amount alignment. Occupation/employer 'GEN. MANAGER CANYONS'. Address REDACTED."
+  },
+  {
+   "line_no": 5,
+   "date": "2012-03-21",
+   "donor_raw": "SAM KLEMM",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,40.42,87.16,3.96@p2",
+   "note": "occupation/employer 'EXECUTIVE'. Address REDACTED."
+  },
+  {
+   "line_no": 6,
+   "date": "2012-03-22",
+   "donor_raw": "MICHAEL MARTIN",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,44.38,87.16,3.96@p2",
+   "note": "occupation/employer 'RETIRED'. Address REDACTED."
+  },
+  {
+   "line_no": 7,
+   "date": "2012-03-13",
+   "donor_raw": "ROBERT BREEZE",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,48.34,87.16,3.96@p2",
+   "note": "date day-digits escalated to 700% and still doubtful: read '13', competing read '17'. Occupation/employer 'ATTORNEY'. Address REDACTED."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-03-19",
+   "donor_raw": "PATRICIA BARBEAU",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,52.34,87.16,3.96@p2",
+   "note": "BOTH the surname and the date day are doubtful after a 400-700% escalation. Surname glyph string is b-a-r-b-e-a-u; competing reads BERBEAU / BERLEAU. Date day read '19'; competing read '14'. Occupation/employer 'RETIRED'. Address REDACTED."
+  },
+  {
+   "line_no": 9,
+   "date": "2012-03-12",
+   "donor_raw": "JOY WOOLF",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.60,56.44,87.16,3.96@p2",
+   "note": "occupation/employer 'PROFESSOR WESTMINSTER'. Address REDACTED."
+  },
+  {
+   "line_no": 10,
+   "date": "2012-03-08",
+   "donor_raw": "RICHARD SNELGROVE",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=none",
+   "verified": 1,
+   "geometry": "pct:10.60,60.54,87.16,3.96@p2",
+   "note": "AMOUNT CELL IS EMPTY ON THE FORM - re-read across the full row at native resolution to be sure; the occupation cell is empty too. Amount left blank and excluded from the sum, which is why the contributions side is a floor and does not reconcile. This is the candidate himself. Address REDACTED."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-14",
+   "vendor_raw": "GORDON COPY",
+   "purpose": "CARD DESIGN",
+   "amount": "199.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,25.95,87.16,4.14@p3"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-14",
+   "vendor_raw": "PROGRESSIVE DIRECT MAIL",
+   "purpose": "PRINTING + POSTAGE",
+   "amount": "875.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,30.09,87.16,4.14@p3",
+   "note": "date settled as 3/14/12 (identical to row 1) at 500%; a 90 dpi read had suggested 3/19/12. Amount written '875.' with superscript cents over a rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-03-21",
+   "vendor_raw": "STAPLES",
+   "purpose": "SUPPLIES",
+   "amount": "29.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,34.23,87.16,4.14@p3"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-22",
+   "vendor_raw": "WALMART",
+   "purpose": "EVENT SUPPLIES",
+   "amount": "9.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,38.37,87.16,4.14@p3"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-03-22",
+   "vendor_raw": "WALMART",
+   "purpose": "EVENT SUPPLIES",
+   "amount": "81.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,42.51,87.16,4.14@p3",
+   "note": "vendor written smaller/lower-case here but the same word as row 4"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-03-22",
+   "vendor_raw": "FED EX KINKOS",
+   "purpose": "PRINTING",
+   "amount": "118.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,46.66,87.16,4.14@p3"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-03-26",
+   "vendor_raw": "DEL MEO",
+   "purpose": "LUNCH (WI FI)",
+   "amount": "3.17",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,50.80,87.16,4.14@p3",
+   "note": "vendor is the legible glyph string only, escalated to 450% and still doubtful: D-E-L space M-E-O (competing reads DEL MED / BEL MEO). No plausible business name was substituted."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-03-26",
+   "vendor_raw": "McDONALDS",
+   "purpose": "FOOD (WI-FI)",
+   "amount": "11.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,55.03,87.16,4.14@p3"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-03-28",
+   "vendor_raw": "PROGRESSIVE DIRECT",
+   "purpose": "PRINTING + POSTAGE",
+   "amount": "863.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,59.26,87.16,4.14@p3",
+   "note": "vendor written without the trailing 'MAIL' of row 2. Amount '863.' with superscript cents."
+  },
+  {
+   "line_no": 10,
+   "date": "2012-03-29",
+   "vendor_raw": "McDONALDS",
+   "purpose": "FOOD (WI-FI)",
+   "amount": "5.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,63.50,87.16,4.14@p3"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-03-08",
+   "vendor_raw": "COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "656.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.83,67.73,87.16,4.14@p3"
+  }
+ ],
  "total_contributions": "10,306.40",
  "total_expenditures": "2,854.83",
  "beginning_balance": "0.00",
@@ -49,6 +327,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. The Summary Page is the LAST sheet of the PDF (page 4 of 4; pages 2 and 3 are Schedule A and Schedule B), and the form's own page box on it reads 'page 3 of 4' \u2014 the scan is out of the form's intended order. Column B is left entirely BLANK on Lines 1 and 2 (recorded as \"\"). Neither amendment box is checked. Figures are identical to the 4-17-12 amendment (key 29f5a622). Received stamp APR 05 2012."
+  "notes": "Handwritten. The Summary Page is the LAST sheet of the PDF (page 4 of 4; pages 2 and 3 are Schedule A and Schedule B), and the form's own page box on it reads 'page 3 of 4' \u2014 the scan is out of the form's intended order. Column B is left entirely BLANK on Lines 1 and 2 (recorded as \"\"). Neither amendment box is checked. Figures are identical to the 4-17-12 amendment (key 29f5a622). Received stamp APR 05 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "10,306.40",
+     "itemized": "9650.00",
+     "result": "delta",
+     "detail": "delta 656.40 (rows 9,650.00 vs stated 10,306.40). CAUSE IS ON THE FORM, not in the transcription: the 10th and last Schedule A line (3/8/12, RICHARD SNELGROVE) has an EMPTY Amount cell - verified at native scan resolution across the full row. That row is emitted with a blank amount and needs_review, is excluded from the sum, and the contributions side is therefore a FLOOR. (Observation for a human only, NOT applied: the residual 656.40 equals the county-clerk filing fee on Schedule B line 11; nothing was filled in from that.)"
+    },
+    "expenditures": {
+     "stated": "2,854.83",
+     "itemized": "2854.83",
+     "result": "exact",
+     "detail": "exact (2854.83 = 2,854.83); Schedule B printed SUBTOTAL FOR THIS PAGE 2,854.83 and TOTAL 2,854.83 both agree"
+    }
+   },
+   "page_subtotal_gates": "p3 (Sch B) GATE FIRES: 199.88+875.00+29.72+9.62+81.96+118.65+3.17+11.84+863.00+5.59+656.40 = 2,854.83 = printed SUBTOTAL FOR THIS PAGE 2,854.83 (and the printed TOTAL). p2 (Sch A) WILL NOT GATE and cannot: the filer left SUBTOTAL FOR THIS PAGE blank, and the printed TOTAL CONTRIBUTIONS RECEIVED 10,306.40 exceeds the transcribable rows 9,650.00 because one row's amount cell is empty on the page. Both figures named; no row was adjusted to close it.",
+   "escalations": 9,
+   "escalation_note": "The page images are 1-bit 200 dpi scans (pdfimages -list: 1698x2197, 1 bpc) - re-rendering above 200 dpi adds nothing, so escalation was done by extracting the NATIVE image with pdfimages and cropping cells with Lanczos upscale + morphological close: p2 amount column (x2 bands), p2 date column (x2 bands), p2 dates rows 7-8 at 700%, p2 names rows 7-8 at 400%, p2 row 10 full width; p3 amount column (x2 bands), p3 vendor row 7 at 450%, p3 date rows 1-3 at 500%.",
+   "n_contrib_rows": 10,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Page order is NON-STANDARD: p1 cover, p2 Schedule A (form page 3), p3 Schedule B (form page 4), p4 Summary Page (form page 2). ALL contributor mailing-address cells are COUNTY-REDACTED (one solid black bar spanning rows 1-10) -> donor_city/donor_state blank, redacted, on every contribution row. Cents are written as a raised superscript over a rule on most amounts; transcribed with a decimal point. Two contributions are marked IN KIND in the amount cell (rows 1 and 2) and DO count toward the printed total per this form. The handwriting is a light, broken felt-pen on a 1-bit scan, so several date digits and two surnames are genuinely doubtful - each such cell is flagged low with the competing glyph readings in its note rather than being silently resolved. Summary Page: line 3 zero glyph, line 5 10,306.40, line 7 7,451.57."
+  }
  }
 }

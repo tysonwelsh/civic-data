@@ -1,6 +1,86 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-03-26",
+   "donor_raw": "Don L. Skaggs",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.63,23.80,88.02,4.13@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; occupation cell 'Skaggs Public Safety Uniform & Equipment'"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-03-31",
+   "donor_raw": "Mike Katsanevas",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.63,27.93,88.02,4.13@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; occupation cell 'Palace Development LLC'"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-04-01",
+   "donor_raw": "Larry Bringhurst",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.63,32.07,88.02,4.13@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; occupation cell 'Court Services of Utah'"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-04-01",
+   "donor_raw": "Brent Van Roosendaal",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.63,36.20,88.02,4.13@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; occupation cell 'Retired'; the name runs under the redaction bar at the column edge and the final letters are partly obscured"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-03-13",
+   "vendor_raw": "Salt Lake County Clerk's Office",
+   "purpose": "Filing Fee",
+   "amount": "223.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.16,26.28,81.28,4.12@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-03-24",
+   "vendor_raw": "S.L.Co Republican Party",
+   "purpose": "Booth Rental for \"County Convention\"",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.16,30.40,81.28,4.12@p4"
+  }
+ ],
  "total_contributions": "$3,900.00",
  "total_expenditures": "$523.46",
  "beginning_balance": "$16,388.34",
@@ -49,6 +129,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. Clerk RECEIVED stamp APR 07 2014, signed April 4, 2014. Line 3 ($16,388.34) matches line 7 of the 2013 year-end report and the arithmetic is internally consistent."
+  "notes": "Cents on lines 1 and 4 are raised superscripts. Neither amendment box is checked. Clerk RECEIVED stamp APR 07 2014, signed April 4, 2014. Line 3 ($16,388.34) matches line 7 of the 2013 year-end report and the arithmetic is internally consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 ('Page 3 of 4')",
+   "itemized_pages_B": "4 ('Page 4 of 4')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3,900.00",
+     "itemized": "3900.00",
+     "result": "exact",
+     "detail": "exact (3900.00 = $3,900.00 = the printed page subtotal)"
+    },
+    "expenditures": {
+     "stated": "$523.46",
+     "itemized": "523.46",
+     "result": "exact",
+     "detail": "exact (523.46 = $523.46 = the printed page subtotal)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3,900.00 = printed SUBTOTAL FOR THIS PAGE $3,900.00. p4 rows 523.46 = printed SUBTOTAL FOR THIS PAGE $523.46. BOTH SUBTOTAL GATES EXACT. THE FILER USED THE GRAND-TOTAL CELL FOR A CUMULATIVE FIGURE, NOT A SUM OF SUBTOTALS. Each schedule is ONE page, so 'TOTAL ... (Sum of subtotals from all pages)' should equal that page's subtotal; instead p3 prints subtotal $3,900.00 against TOTAL $33,553.50 and p4 prints subtotal $523.46 against TOTAL $13,788.62. The Summary Page Column A figures already transcribed upstream ($3,900.00 and $523.46) match the SUBTOTALS, which is what identifies the grand-total cells as cycle-to-date figures. Both figures are retained verbatim here and NOTHING was reconciled.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten form, Steven L. DeBry, Interim Report April 5, form's own Date of Report 'April 4, 2014'. Very small filing: 4 contributions and 2 expenditures. The Complete Mailing Address column is COUNTY-REDACTED with a solid black bar, so donor_city/donor_state are blank as REDACTED. Occupation/Employer is filled on all four contribution rows and recorded in those rows' notes. THE FILER USED THE GRAND-TOTAL CELL FOR A CUMULATIVE FIGURE, NOT A SUM OF SUBTOTALS. Each schedule is ONE page, so 'TOTAL ... (Sum of subtotals from all pages)' should equal that page's subtotal; instead p3 prints subtotal $3,900.00 against TOTAL $33,553.50 and p4 prints subtotal $523.46 against TOTAL $13,788.62. The Summary Page Column A figures already transcribed upstream ($3,900.00 and $523.46) match the SUBTOTALS, which is what identifies the grand-total cells as cycle-to-date figures. Both figures are retained verbatim here and NOTHING was reconciled. This matches the module's known DeBry semantic (a filer who mixes period and cumulative figures) and is why the grand-total cell must not be used as this filing's reconciliation anchor. FIELD-SHIFT SCREEN: 4/4/4 and 2/2/2 in their own ruled columns, occupation annotations track the contributors, both pages gate exactly on their subtotals. No shift found."
+  }
  }
 }

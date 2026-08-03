@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-12-30",
+   "donor_raw": "Paul Smith",
+   "amount": "$250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.00,23.50,86.00,4.00@p3",
+   "note": "redacted - the mailing-address cell is covered by a county black bar, so donor_city/donor_state are blank BY REDACTION, not by filer omission. Occupation/Employer cell reads 'Utah Apartment Assoc. PAC'."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$250.00",
  "total_expenditures": "0",
@@ -49,6 +63,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. The cover signature is dated 1-30-15 while the Summary Page header block is dated 'Jan. 29, 2015' - a one-day disagreement between the two dates on the same filing; the cover date is recorded. A handwritten '4' appears at the top right. Neither amendment box is checked. Clerk RECEIVED stamp JAN 30 2015. Line 3 matches the October 2014 report's line 7; arithmetic consistent."
+  "notes": "Lines 2 and 6 Column A are a hand-drawn plain zero (open circle), recorded as 0. The cover signature is dated 1-30-15 while the Summary Page header block is dated 'Jan. 29, 2015' - a one-day disagreement between the two dates on the same filing; the cover date is recorded. A handwritten '4' appears at the top right. Neither amendment box is checked. Clerk RECEIVED stamp JAN 30 2015. Line 3 matches the October 2014 report's line 7; arithmetic consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$250.00",
+     "itemized": "250.00",
+     "result": "exact",
+     "detail": "exact (250.00 = $250.00, and the page SUBTOTAL also prints $250.00). CAUTION: the form's 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' cell prints $39,353.50, which is NOT the sum of this form's pages - it is a cumulative/to-date figure. The reconciliation runs against the Summary-Page period figure ($250.00) and the page subtotal, both of which agree with the single itemized row. Nothing was recomputed."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule B (p4) is a printed grid with ZERO lines filled and a hand-written '0' in the SUBTOTAL cell. CAUTION: its 'TOTAL EXPENDITUTRES MADE' cell prints $17,806.30, again a cumulative/to-date figure, not the sum of this form's pages."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 250.00 = printed subtotal $250.00 (exact); p4 rows 0 = printed subtotal '0' (exact, zero lines). Both TOTAL lines on this form print cumulative figures that do NOT equal the sum of their own subtotals ($39,353.50 and $17,806.30) - retained verbatim above, never used as an anchor and never adjusted.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Pages 1-2 = cover + Summary Page (already transcribed upstream, not re-read). Schedule A carries exactly ONE line; Schedule B is a BLANK schedule (real zero, subtotal '0'). The mailing-address column is REDACTED by the county on the single contribution row - a black bar - so no city/state exists to record and no street data was seen. THE FORM'S TWO 'TOTAL ... (Sum of subtotals from all pages)' CELLS ARE CUMULATIVE, NOT PERIOD, FIGURES ($39,353.50 contributions / $17,806.30 expenditures against a period of $250.00 / $0) - this is the same per-filer semantic already recorded for DeBry in the totals tranche, and it is a filer convention, not an extraction error. The form self-dates 'Jan. 29, 2015' although the listing calls it the 2014 year-end. Field-shift screen: 1 name, 1 amount, date cell holds a date."
+  }
  }
 }

@@ -47,6 +47,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'Amendment to 2012 Summary Report', but the form face checks ONLY the Year-End box and leaves BOTH amendment boxes ('Yes' and 'No') unchecked - so is_amendment is blank, not 'Yes'. This document is byte-different from but page-for-page IDENTICAL in content to key 509f34ed (Horiuchi_R_12_Final_CouncilA_Redacted.pdf) - same cover, same date 1/31/13, same figures; the pair appears to be one report scanned twice. Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of 11,487.42 - kept verbatim; re-rendered at 600 dpi to confirm the middle digit is an 8 ('11,487.42', not '11,407.42'). Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B is blank on lines 1 and 2 (empty strings, not zeros)."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'Amendment to 2012 Summary Report', but the form face checks ONLY the Year-End box and leaves BOTH amendment boxes ('Yes' and 'No') unchecked - so is_amendment is blank, not 'Yes'. This document is byte-different from but page-for-page IDENTICAL in content to key 509f34ed (Horiuchi_R_12_Final_CouncilA_Redacted.pdf) - same cover, same date 1/31/13, same figures; the pair appears to be one report scanned twice. Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of 11,487.42 - kept verbatim; re-rendered at 600 dpi to confirm the middle digit is an 8 ('11,487.42', not '11,407.42'). Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B is blank on lines 1 and 2 (empty strings, not zeros).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) has no donor line: its first row carries the word 'n/a' in the Name of Contributor cell and a hand-drawn slashed zero in the Amount cell, every other row is empty, and both the SUBTOTAL and TOTAL cells carry the same slashed-zero glyph (= 0 per the ZERO-GLYPH RULING). Stated total 0. A real zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule B (p4) likewise carries 'n/A' in the first Name of Recipient cell, no other entries, and slashed zeros in both the SUBTOTAL and TOTAL cells. Stated total 0. A real zero."
+    }
+   },
+   "page_subtotal_gates": "p3 printed SUBTOTAL = slashed zero = 0 and rows sum to 0 - gate fires. p4 printed SUBTOTAL = slashed zero = 0 and rows sum to 0 - gate fires.",
+   "escalations": 0,
+   "escalation_note": "none needed - the pages are empty apart from the 'n/a' placeholders and the four zero glyphs, all legible at 200 dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A wholly inactive committee's year-end filing: BOTH schedules are blank apart from a hand-written 'n/a' ('n/A' on Schedule B) placed in the NAME column of the first row, and all four total cells carry a hand-drawn SLASHED ZERO. The 'n/a' rows are NOT emitted as itemized rows - 'not applicable' names no donor or vendor and its amount cell holds a zero glyph, so treating it as a transaction would fabricate one; the placeholder is recorded here instead. Per the repo ZERO-GLYPH RULING the slashed zeros ARE zeros (not blanks), which is what makes both sides honest zeros rather than unknowns. Consistent with the Summary Page, which carries accounting-parenthesis balances of (11,487.42) on lines 3/5/7 and slashed zeros on lines 1/2/4/6. LABEL DISAGREEMENT carried over from the totals tranche: the clerk listing calls this 'Amendment to 2012 Summary Report' but the form checks only the Year-End box and leaves both amendment boxes unticked; and this document is page-for-page identical in content to key 509f34ed (not in this chunk)."
+  }
  }
 }

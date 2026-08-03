@@ -1,6 +1,202 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2008-08-11",
+   "donor_raw": "Jennifer Wilson (Loan)",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.01,22.15,86.60,3.95@p3",
+   "note": "date printed '8-11-08' (M-D-YY, year present) -> ISO. Donor cell reads 'Jennifer Wilson' with '(Loan)' written on a second line inside the SAME name cell - kept in donor_raw because the form has no loan column and the parenthetical is the filer's own qualifier. Candidate self-loan. Occupation/Employer 'Council Member, SLCO'. Mailing-address column left entirely blank by the filer on this page."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-11-25",
+   "donor_raw": "Jennifer Wilson (Loan)",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.01,26.10,86.60,3.90@p3",
+   "note": "date printed '11-25-08' (M-D-YY, year present) -> ISO. Donor cell reads 'Jennifer Wilson' with '(Loan)' written on a second line inside the SAME name cell - kept in donor_raw because the form has no loan column and the parenthetical is the filer's own qualifier. Candidate self-loan. Occupation/Employer 'Council Member, SLCO'. Mailing-address column left entirely blank by the filer on this page."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-01-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,25.00,80.40,4.09@p4",
+   "note": "date printed '1-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 2,
+   "date": "2008-03-03",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,29.09,80.40,4.09@p4",
+   "note": "date printed '3-3-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 3,
+   "date": "2008-03-31",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,33.17,80.40,4.09@p4",
+   "note": "date printed '3-31-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 4,
+   "date": "2008-04-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,37.25,80.40,4.09@p4",
+   "note": "date printed '4-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 5,
+   "date": "2008-05-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,41.34,80.40,4.09@p4",
+   "note": "date printed '5-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 6,
+   "date": "2008-06-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,45.42,80.40,4.09@p4",
+   "note": "date printed '6-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 7,
+   "date": "2008-07-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,49.51,80.40,4.09@p4",
+   "note": "date printed '7-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 8,
+   "date": "2008-07-31",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bank Fees",
+   "amount": "64.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,53.59,80.40,4.09@p4",
+   "note": "date printed '7-31-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 9,
+   "date": "2008-09-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,57.68,80.40,4.09@p4",
+   "note": "date printed '9-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 10,
+   "date": "2008-10-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,61.77,80.40,4.09@p4",
+   "note": "date printed '10-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 11,
+   "date": "2008-12-01",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,65.85,80.40,4.09@p4",
+   "note": "date printed '12-1-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  },
+  {
+   "line_no": 12,
+   "date": "2008-12-30",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Web Services",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.28,69.94,80.40,4.09@p4",
+   "note": "date printed '12-30-08' (M-D-YY, year present) -> ISO. Amount written plainly with a decimal point."
+  }
+ ],
  "total_contributions": "95.00",
  "total_expenditures": "108.00",
  "beginning_balance": "25.49",
@@ -49,6 +245,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Party is written as the single letter 'D'. Older form variant with a top-row 'Office' box reading 'County Council'; the District Number box holds 'At Large' (clerk listing says At-Large B - the form does not print the letter). Neither amendment box is checked. Arithmetic consistent (25.49 + 95.00 = 120.49; minus 108.00 = 12.49)."
+  "notes": "Party is written as the single letter 'D'. Older form variant with a top-row 'Office' box reading 'County Council'; the District Number box holds 'At Large' (clerk listing says At-Large B - the form does not print the letter). Neither amendment box is checked. Arithmetic consistent (25.49 + 95.00 = 120.49; minus 108.00 = 12.49).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "95.00",
+     "itemized": "95.00",
+     "result": "exact",
+     "detail": "exact (2 rows sum 95.00 = printed SUBTOTAL 95.00 = printed TOTAL CONTRIBUTIONS RECEIVED 95.00 = stated 95.00)"
+    },
+    "expenditures": {
+     "stated": "108.00",
+     "itemized": "108.00",
+     "result": "exact",
+     "detail": "exact (12 rows sum 108.00 = printed SUBTOTAL 108.00 = printed TOTAL EXPENDITURES MADE 108.00 = stated 108.00)"
+    }
+   },
+   "page_subtotal_gates": "p3: rows 95.00 = printed SUBTOTAL FOR THIS PAGE 95.00 - PASSES (and equals the printed schedule TOTAL, both pages being 'Page 1 of 1'). p4: rows 108.00 = printed SUBTOTAL FOR THIS PAGE 108.00 - PASSES (equals the printed TOTAL). Both money pages gate to the cent.",
+   "escalations": 2,
+   "escalation_note": "p3 both contribution rows re-read as one 500dpi full-width band crop (pct:3,21.5,90,9); p4 amount column re-read as a 600dpi column crop (pct:70,24.5,22,50) covering all 12 rows. Both re-reads agreed exactly with the 200dpi read.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 12,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard shape: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B; both schedules print 'Page 1 of 1'. Unusually clear hand - the cleanest filing in this chunk. Contributions consist solely of TWO CANDIDATE SELF-LOANS: the name cell on both rows reads 'Jennifer Wilson' with '(Loan)' written beneath it inside the same cell, and the occupation cell reads 'Council Member, SLCO'; the form has no loan column, so the parenthetical is retained inside donor_raw rather than dropped or promoted to a field that does not exist. The 'Complete Mailing Address' column is entirely blank on p3 - filer omission, not redaction, so donor_city/donor_state are blank. Expenditures are a year of $4.00 monthly Network Solutions web-hosting charges plus one $64.00 Wells Fargo bank fee; note the filer records no August and no November web charge, which is the record as filed and was not interpolated. Header 'TOTAL EXPENDITUTRES MADE' is the pre-printed form's own typo, present on every filing of this vintage."
+  }
  }
 }

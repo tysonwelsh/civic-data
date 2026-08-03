@@ -1,6 +1,220 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2011-01-19",
+   "donor_raw": "Southwest Regional Council of Carpenters",
+   "donor_city": "Los Angeles",
+   "donor_state": "CA",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,25.00,84.00,3.75@p3",
+   "note": "Occupation/Employer 'Organization'. Address printed in the clear on this filing (NOT redacted); only city/state transcribed, street discarded at read time. Name wraps two lines"
+  },
+  {
+   "line_no": 2,
+   "date": "2011-12-20",
+   "donor_raw": "Jeffrey William Hall",
+   "donor_city": "Sandy",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.70,28.75,84.00,3.75@p3",
+   "note": "Occupation/Employer 'Attorney/Salt Lake County'. Address printed in the clear; only city/state transcribed, street discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2011-01-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,12.50,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 2,
+   "date": "2011-02-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,14.00,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 3,
+   "date": "2011-02-15",
+   "vendor_raw": "Lisa Ashman",
+   "purpose": "Campaign Expenses",
+   "amount": "3,055.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,15.65,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 4,
+   "date": "2011-03-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,17.10,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 5,
+   "date": "2011-04-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,18.60,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 6,
+   "date": "2011-05-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,20.10,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 7,
+   "date": "2011-06-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,21.65,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 8,
+   "date": "2011-07-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,23.15,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 9,
+   "date": "2011-08-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,24.65,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 10,
+   "date": "2011-09-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,26.15,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 11,
+   "date": "2011-10-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,27.65,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 12,
+   "date": "2011-11-03",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,29.15,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  },
+  {
+   "line_no": 13,
+   "date": "2011-12-02",
+   "vendor_raw": "Public Storage",
+   "purpose": "Storage Unit Rental",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:19.40,30.75,59.50,1.50@p5",
+   "note": "p5 attachment (typed table headed 'Expenditures'); the storage-unit rent steps from 35.00 to 40.00 in July 2011"
+  }
+ ],
  "total_contributions": "$3,500.00",
  "total_expenditures": "$3,505.58",
  "beginning_balance": "$8,833.29",
@@ -49,6 +263,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed (not handwritten) form \u2014 clean. Neither amendment box is checked. Note an internal inconsistency in the filer's own figures: the Column B 'Aggregate Total' equals the Column A period figure on both Lines 1 and 2, yet Line 3 carries a beginning balance of $8,833.29 from prior activity \u2014 the aggregate column appears to have been restarted for the year. Figures kept verbatim."
+  "notes": "Typed (not handwritten) form \u2014 clean. Neither amendment box is checked. Note an internal inconsistency in the filer's own figures: the Column B 'Aggregate Total' equals the Column A period figure on both Lines 1 and 2, yet Line 3 carries a beginning balance of $8,833.29 from prior activity \u2014 the aggregate column appears to have been restarted for the year. Figures kept verbatim.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "5 (attachment; the Schedule B form page 4 says only 'See Attached')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3,500.00",
+     "itemized": "3500.00",
+     "result": "exact",
+     "detail": "exact (3,500.00 = 3,500.00); p3 prints SUBTOTAL $3,500.00 and TOTAL $3,500.00"
+    },
+    "expenditures": {
+     "stated": "$3,505.58",
+     "itemized": "3505.58",
+     "result": "exact",
+     "detail": "exact (3,505.58 = 3,505.58); the attachment prints 'Total Expenses - Period Ending 12/31/11  $3,505.58'"
+    }
+   },
+   "page_subtotal_gates": "p3 2 rows sum 3,500.00 = printed subtotal $3,500.00 (PASS). p4 is the blank Schedule B form with 'See Attached' and its SUBTOTAL and TOTAL cells left EMPTY, so the form's own gate cannot fire for expenditures; the attachment's printed grand total is used instead - p5 13 rows sum 3,505.58 = printed total 3,505.58 (PASS).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 13,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Typed (not handwritten) throughout - the cleanest filing in this chunk. IMPORTANT PRIVACY DIFFERENCE from the other 2011-12 'Redacted' filings in this chunk: Schedule A here is NOT redacted - full street addresses are printed in the clear. Per the privacy rule only CITY and STATE were transcribed; the street lines were discarded at read time and appear nowhere in this record. p4 is a blank Schedule B form pointing to the attachment on p5, which is a typed table headed 'Expenditures' with its own Date / Name of Recipient / Purpose / Amount columns. Field-shift screen: p3 2 dates / 2 names / 2 occupations / 2 amounts; p5 13 dates / 13 recipients / 13 purposes / 13 amounts - PASS. The expenditure side is 12 monthly storage-unit rentals (35.00 through June, 40.00 from July) plus one 3,055.58 reimbursement to Lisa Ashman for 'Campaign Expenses' - an aggregated reimbursement, so the underlying vendors are not disclosed by this form."
+  }
  }
 }

@@ -1,6 +1,135 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-04-26",
+   "donor_raw": "Lee Gardner",
+   "amount": "44.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,24.75,80.80,3.50@p3",
+   "note": "candidate self; superscript cents '44 71'; address and occupation cells blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-29",
+   "donor_raw": "Aggregate",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,28.25,80.80,3.35@p3",
+   "note": "contributor cell reads only 'Aggregate' (unnamed aggregate of small contributions); superscript cents '50 00'; address and occupation cells blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-29",
+   "donor_raw": "A-1 Pioneer Moving & Storage (In kind)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "140.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,31.60,80.80,3.75@p3",
+   "note": "in-kind marked in the name cell '(In kind)'; superscript cents '140 00'; street address discarded per privacy rule; occupation cell blank"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-19",
+   "donor_raw": "S.L. County Republican Party (Pledge)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,35.35,80.80,3.90@p3",
+   "note": "occupation/employer cell reads 'Political Party'; name cell marks it a PLEDGE; superscript cents '2,000 00'; street address discarded per privacy rule"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-19",
+   "donor_raw": "S.L. County Republican Party (In-Kind Pledge)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "3,000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,39.25,80.80,4.25@p3",
+   "note": "occupation/employer cell reads 'Political Party'; in-kind marked in the name cell '(In-Kind Pledge)'; superscript cents '3,000 00'; street address discarded per privacy rule"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-26",
+   "vendor_raw": "Sutherlands",
+   "purpose": "Rope",
+   "amount": "44.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.40,27.50,74.60,3.40@p4",
+   "note": "superscript cents '44 71'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-28",
+   "vendor_raw": "Kinkos",
+   "purpose": "Brochures",
+   "amount": "273.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.40,30.90,74.60,3.35@p4",
+   "note": "superscript cents '273 39'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-29",
+   "vendor_raw": "A-1 Pioneer Moving & Storage (In-Kind)",
+   "purpose": "Trailer",
+   "amount": "140.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.40,34.25,74.60,4.00@p4",
+   "note": "in-kind marked in the name cell; the matching in-kind contribution is Schedule A line 3; superscript cents '140 00'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-05-31",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Misc. Bank Charges",
+   "amount": "22.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.40,38.25,74.60,4.00@p4",
+   "note": "superscript cents '22 00'"
+  }
+ ],
  "total_contributions": "5,234.71",
  "total_expenditures": "480.10",
  "beginning_balance": "11,413.10",
@@ -49,6 +178,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2006 form. All figures written with the cents as a raised superscript over a rule (e.g. 5,234 with a superscript 71) - transcribed with a decimal point. Neither the amendment Yes nor No box is checked. Summary-page header box (page/last name/date) is blank on this filing. On-form arithmetic is internally consistent (11,413.10 + 5,234.71 = 16,647.81; less 480.10 = 16,167.71)."
+  "notes": "2006 form. All figures written with the cents as a raised superscript over a rule (e.g. 5,234 with a superscript 71) - transcribed with a decimal point. Neither the amendment Yes nor No box is checked. Summary-page header box (page/last name/date) is blank on this filing. On-form arithmetic is internally consistent (11,413.10 + 5,234.71 = 16,647.81; less 480.10 = 16,167.71).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,234.71",
+     "itemized": "5234.71",
+     "result": "exact",
+     "detail": "exact (5234.71 = 5,234.71); p3 SUBTOTAL and TOTAL both print 5,234 71"
+    },
+    "expenditures": {
+     "stated": "480.10",
+     "itemized": "480.10",
+     "result": "exact",
+     "detail": "exact (480.10 = 480.10); p4 SUBTOTAL and TOTAL both print 480 10"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 5234.71 = printed SUBTOTAL 5,234 71 (gate PASS); p4 rows sum 480.10 = printed SUBTOTAL 480 10 (gate PASS)",
+   "escalations": 1,
+   "escalation_note": "p3 amount column 600dpi tight crop (confirmed the superscript-cents forms 44/71, 50/00, 140/00, 2,000/00, 3,000/00)",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Lee Gardner, Assessor, June 20 2006 interim. Cents are written as a SUPERSCRIPT over a rule throughout both schedules (e.g. '44 71' = 44.71) - transcribed with a decimal point per brief 4(e). Two in-kind rows on Schedule A are self-labelled '(In kind)' / '(In-Kind Pledge)' in the NAME cell and DO count toward the printed total. The 140.00 A-1 Pioneer Moving & Storage in-kind item appears on BOTH schedules (contribution and matching expenditure) - that is the filer's own treatment, retained on both sides. Contribution row 2's contributor is written literally as 'Aggregate' (an unnamed aggregate line), kept verbatim. Address column blank for rows 1-2; PRIVACY: only city/state retained from rows 3-5."
+  }
  }
 }

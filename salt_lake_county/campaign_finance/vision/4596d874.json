@@ -1,6 +1,111 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Salt Lake Board of Realtors",
+   "amount": "4,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,23.50,87.60,4.20@p3",
+   "note": "date printed '1/24' with no year - left blank per contract; donor written over two lines 'Salt Lake / Board of Realtors'; mailing address cell REDACTED by the county (solid black bar); occupation/employer cell blank; amount written without cents"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Ruels Art",
+   "purpose": "Brochure Design",
+   "amount": "94.78",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,27.80,82.70,3.60@p4",
+   "note": "date printed '2/13' with no year; cents printed as a superscript '78' over a rule"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Dropbox",
+   "purpose": "Monthly Data Storage",
+   "amount": "13.98",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,31.40,82.70,4.10@p4",
+   "note": "date printed '2/15' with no year; cents as superscript"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Apple Store",
+   "purpose": "Office Equipment",
+   "amount": "319.48",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,35.50,82.70,3.90@p4",
+   "note": "date printed '3/13' with no year; cents as superscript"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Dropbox",
+   "purpose": "Monthly Data Storage",
+   "amount": "13.98",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,39.40,82.70,4.10@p4",
+   "note": "date printed '3/15' with no year; cents as superscript"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Walmart",
+   "purpose": "Printing Supplies",
+   "amount": "52.48",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,43.50,82.70,3.90@p4",
+   "note": "date printed '3/16' with no year; cents as superscript"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Office Depot",
+   "purpose": "Design/ Printing",
+   "amount": "170.48",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,47.30,82.70,3.90@p4",
+   "note": "date printed '3/19' with no year; cents as superscript"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Paradise Bakery",
+   "purpose": "Campaign Lunch",
+   "amount": "20.87",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,51.20,82.70,4.10@p4",
+   "note": "date printed '3/21' with no year; cents as superscript"
+  }
+ ],
  "total_contributions": "4,000",
  "total_expenditures": "686.05",
  "beginning_balance": "1,657.17",
@@ -49,6 +154,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "This filer writes the cents as a raised superscript over a rule throughout - transcribed with a decimal point. Line 1 Column A carries no cents at all ('4,000'); Column B on the same line adds a superscript 00. The source filename misspells the surname ('Burdicik'); the form reads Max Burdick. The top-row Office box reads 'Council'. Neither amendment box is checked. Arithmetic consistent (1,657.17 + 4,000 = 5,657.17; less 686.05 = 4,971.12). Superseded three weeks later by the amendment, key c10eb166."
+  "notes": "This filer writes the cents as a raised superscript over a rule throughout - transcribed with a decimal point. Line 1 Column A carries no cents at all ('4,000'); Column B on the same line adds a superscript 00. The source filename misspells the surname ('Burdicik'); the form reads Max Burdick. The top-row Office box reads 'Council'. Neither amendment box is checked. Arithmetic consistent (1,657.17 + 4,000 = 5,657.17; less 686.05 = 4,971.12). Superseded three weeks later by the amendment, key c10eb166.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,000",
+     "itemized": "4,000",
+     "result": "exact",
+     "detail": "exact (4,000 = 4,000); the single row equals Schedule A's printed SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED, both 4,000, and Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "686.05",
+     "itemized": "686.05",
+     "result": "exact",
+     "detail": "exact (686.05 = 686.05); the 7 rows sum to Schedule B's printed SUBTOTAL FOR THIS PAGE and TOTAL, both 686.05, and Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 single row 4,000 = printed SUBTOTAL FOR THIS PAGE 4,000 (GATE PASS); p4 rows 94.78+13.98+319.48+13.98+52.48+170.48+20.87 = 686.05 = printed subtotal 686.05 (GATE PASS).",
+   "escalations": 2,
+   "escalation_note": "p3 date+donor cell at 600 dpi tight crop (the 200 dpi page left the '1/24' date and the two-line donor name soft); p3 amount + subtotal/total band at 600 dpi tight crop.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Max Burdick, County Council District 6 (Republican), April 5 interim, signed 4/5/2012. Filename in the index is misspelled 'Burdicik'; the form signs 'Max Burdick'. PRIVACY: the Schedule A Complete Mailing Address cell is COUNTY-REDACTED (solid black bar), so donor_city/donor_state are blank and the note records 'redacted' - this is different from a filer leaving the cell empty. DATE RULE APPLIED: every date on both schedules prints month/day with NO YEAR ('1/24', '2/13', '3/21'); per contract none was completed from the report date, so all date fields are BLANK with needs_review=1 and the verbatim in the row note. CENTS CONVENTION: every Schedule B amount writes the cents as a raised superscript over a rule (e.g. 94 with a superscript 78); transcribed with a decimal point, and the page subtotal 686.05 confirms all seven readings. Summary Page Column B for line 1 reads a struck/overwritten '4,000' with a superscript, and line 2's Column A/B are 686.05 - the Column A figures are the reconciliation anchors used here."
+  }
  }
 }

@@ -1,6 +1,48 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-15",
+   "donor_raw": "Nate Hendricks",
+   "amount": "153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.41,23.71,78.49,3.72@p3",
+   "note": "the candidate himself (cover signature prints 'Nathan Hendricks'; this cell reads 'Nate Hendricks'); address and occupation cells left empty by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-25",
+   "donor_raw": "Phyllis Swain",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.41,27.43,78.49,3.72@p3",
+   "note": "address cell left empty by the filer; Occupation/Employer cell reads 'Family'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-15",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.76,26.37,73.09,3.77@p4",
+   "note": "only row on Schedule B"
+  }
+ ],
  "total_contributions": "253.23",
  "total_expenditures": "153.23",
  "beginning_balance": "0",
@@ -49,6 +91,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The candidate name box reads 'Nate Hendricks' but the Report Verification print-name line reads 'Nathan Hendricks'. Line 3 is a hand-drawn slashed zero. Line 5 is written without a clearly formed decimal point ('253 23'), read as 253.23 at medium confidence - it agrees with Line 1 Column A and with 253.23 - 153.23 = 100.00 on Line 7. Neither amendment box is checked."
+  "notes": "The candidate name box reads 'Nate Hendricks' but the Report Verification print-name line reads 'Nathan Hendricks'. Line 3 is a hand-drawn slashed zero. Line 5 is written without a clearly formed decimal point ('253 23'), read as 253.23 at medium confidence - it agrees with Line 1 Column A and with 253.23 - 153.23 = 100.00 on Line 7. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "253.23",
+     "itemized": "253.23",
+     "result": "exact",
+     "detail": "exact (rows 153.23 + 100.00 = 253.23 = printed subtotal 253.23 = printed TOTAL 253.23 = stated 253.23)"
+    },
+    "expenditures": {
+     "stated": "153.23",
+     "itemized": "153.23",
+     "result": "exact",
+     "detail": "exact (single row 153.23 = printed subtotal 153.23 = printed TOTAL 153.23 = stated 153.23)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 253.23 = printed subtotal 253.23; p4 row 153.23 = printed subtotal 153.23. Both gates fired exactly. The Summary Page balance chain also closes: line 3 slashed-zero + line 4 253.23 = line 5 253.23; 253.23 - 153.23 = line 7 100.00.",
+   "escalations": 2,
+   "escalation_note": "p3 contributor-name cells and p4 recipient+purpose cells re-rendered at 500 dpi (2.5x base) - both read identically",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page standard form: p1 cover (April 5 box checked; NEITHER amendment box ticked; Office Sought 'Salt Lake County Council 5'; signed 4/5/06, clerk-stamped APR 05 2006), p2 Summary Page, p3 Schedule A (2 rows), p4 Schedule B (1 row). The filer's own page-of boxes number the Summary Page '1 of 3', Schedule A '2 of 3' and Schedule B '3 of 3' (the cover is unnumbered), so the form's page numbers run one behind the PDF page numbers - the geometry pointers below use PDF page numbers. No mailing address was written for either contributor (address column empty on the form), so no city/state exists to record. The candidate's own 153.23 contribution on Schedule A row 1 exactly matches the 153.23 filing fee paid to the Salt Lake County Clerk on Schedule B - a self-funded filing fee, noted as an observation only."
+  }
  }
 }

@@ -1,6 +1,61 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "GARY OTT",
+   "amount": "7200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.20,24.10,83.00,11.20@p3",
+   "note": "ONE braced entry, not three rows: a hand-drawn brace joins THREE date cells - '6MAR06', '27MAR06', '27MAR06' - to a single name block reading 'LOAN TO CAMPAIGN BY GARY OTT' / 'GARY OTT' and to a SINGLE amount, $7200 with superscript cents '00' over a rule (transcribed 7200.00). The date is left BLANK because three dates share one cell group and the one amount cannot be split between them without inventing figures. This is the candidate's own loan to his campaign. Address and Occupation/Employer cells were left blank by the filer (no redaction bar)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-06",
+   "vendor_raw": "KEY BANK",
+   "purpose": "Fees (account reactivation)",
+   "amount": "21.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.80,26.9,76.70,3.60@p4",
+   "note": "handwritten; date cell has a struck-through '03' before '6MAR06'; amount written with superscript cents over a rule ($21 [50])"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-27",
+   "vendor_raw": "IMAGINOS QUICK SIGN",
+   "purpose": "SIGNS",
+   "amount": "6383.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.80,31.6,76.70,3.60@p4",
+   "note": "handwritten; amount written $6,383 with superscript cents '10' over a rule"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "SALT LAKE COUNTY CLERK",
+   "purpose": "FILE FOR OFFICE",
+   "amount": "580.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.80,36.3,76.70,3.60@p4",
+   "note": "handwritten; DATE HAS NO YEAR PRINTED - the cell reads only '7MAR', so the date field is left blank; the year was NOT filled in from the report date. Amount written 580 with superscript cents '20' over a rule"
+  }
+ ],
  "total_contributions": "$7460.00",
  "total_expenditures": "$6984.80",
  "beginning_balance": "$260.00",
@@ -47,6 +102,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten, cents as raised superscripts. Column B is blank on both Lines 1 and 2 (empty, not zero). INTERNAL INCONSISTENCY: Line 4 is supposed to copy Line 1 Column A but Line 1 reads $7460.00 while Line 4 reads $7200.00; the balance chain uses 7200 (260.00 + 7200.00 = 7460.00 = Line 5, and 7460.00 - 6984.80 = 475.20 = Line 7). Both figures are kept exactly as printed. Neither the amendment Yes nor No box is checked."
+  "notes": "Handwritten, cents as raised superscripts. Column B is blank on both Lines 1 and 2 (empty, not zero). INTERNAL INCONSISTENCY: Line 4 is supposed to copy Line 1 Column A but Line 1 reads $7460.00 while Line 4 reads $7200.00; the balance chain uses 7200 (260.00 + 7200.00 = 7460.00 = Line 5, and 7460.00 - 6984.80 = 475.20 = Line 7). Both figures are kept exactly as printed. Neither the amendment Yes nor No box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$7460.00",
+     "itemized": "7,200.00",
+     "result": "delta",
+     "detail": "delta 260.00, and the FORM'S OWN ARITHMETIC diagnoses it - nothing here was recomputed or overwritten. Schedule A's printed 'TOTAL CONTRIBUTIONS RECEIVED' reads 'LOAN $7200.00'. On the Summary Page, line 3 (beginning balance) = $260.00 and line 4 ('Total Contributions Received, From Line 1 Column A') = $7,200.00, NOT the 7,460.00 the filer wrote on line 1. Both balance identities then close exactly with 7,200: line 3 + line 4 = line 5 (260.00 + 7,200.00 = 7,460.00, printed) and line 5 - line 6 = line 7 (7,460.00 - 6,984.80 = 475.20, printed). So the filer copied line 5's subtotal into line 1. The stated 7,460.00 is retained verbatim as required; the itemized 7,200.00 matches Schedule A and lines 4-7."
+    },
+    "expenditures": {
+     "stated": "$6984.80",
+     "itemized": "6,984.80",
+     "result": "exact",
+     "detail": "exact (6,984.80 = 6,984.80); the 3 rows sum to the printed 'TOTAL EXPENDITUTRES MADE', which equals Summary Page lines 2 and 6"
+    }
+   },
+   "page_subtotal_gates": "Both 'SUBTOTAL FOR THIS PAGE' cells were left BLANK by the filer, so no page-subtotal gate exists. The schedule TOTAL cells gate instead: p3 rows 7,200.00 = printed 'TOTAL CONTRIBUTIONS RECEIVED' (written 'LOAN $7200.00'); p4 rows 6,984.80 = printed 'TOTAL EXPENDITUTRES MADE' 6,984.80. Both gate EXACTLY.",
+   "escalations": 1,
+   "escalation_note": "Summary Page (p2) re-read at 200 dpi to adjudicate the 7,460-vs-7,200 conflict rather than re-reading the glyphs: the balance-chain identities settle it (see recon). No cell crop was needed - the arithmetic was decisive.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A 3-page form delivered as a 4-page PDF: p1 cover, p2 Summary Page, p3 Schedule A, p4 Schedule B. Filer is Gary Ott, County Recorder. SCHEDULE A CONTAINS EXACTLY ONE ENTRY and it is a BRACE, not three rows: three date cells (6MAR06, 27MAR06, 27MAR06) are joined by a hand-drawn brace to one name block and ONE amount of $7,200.00 - the candidate's own loan to his campaign. The amount could not be split across the three dates without inventing figures, so one row is emitted with a blank date and needs_review=1. The 260.00 gap between Summary line 1 (7,460.00) and Schedule A (7,200.00) is the filer copying line 5 into line 1; the form's own balance identities close on 7,200.00 (see recon detail). One Schedule B date is printed WITHOUT A YEAR ('7MAR') and is left blank - the year was not filled in from the report date. This filer writes cents as a superscript over a rule throughout; those are transcribed with a decimal point and the convention is named in each row note. PRIVACY: no address exists to record - the Complete Mailing Address column is entirely blank (filer omission, not a redaction). 'TOTAL EXPENDITUTRES MADE' is the form's own printed typo."
+  }
  }
 }

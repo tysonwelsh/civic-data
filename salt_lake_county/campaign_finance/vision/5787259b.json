@@ -48,6 +48,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "The FINAL REPORT box is checked; the 'January 31 of each year' box is NOT (despite the file name). Political Party box holds two letters read as 'PC' (low confidence). Office Sought reads 'at Large'; District Number blank. All seven Column A cells hold hand-drawn ovals read as 0 (medium); both Column B cells are BLANK. Summary Page header carries the name 'Jimmy Cadman' and date 1/31/07."
+  "notes": "The FINAL REPORT box is checked; the 'January 31 of each year' box is NOT (despite the file name). Political Party box holds two letters read as 'PC' (low confidence). Office Sought reads 'at Large'; District Number blank. All seven Column A cells hold hand-drawn ovals read as 0 (medium); both Column B cells are BLANK. Summary Page header carries the name 'Jimmy Cadman' and date 1/31/07.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule A (p3) EXISTS and is BLANK - a single '0' is written at the top of the Amount column and a long vertical pen stroke is drawn down the whole column to void it. Zero rows is the true value, and it matches Summary Page line 1 Column A = 0"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B (p4) EXISTS and is BLANK in exactly the same way - a '0' at the top of the Amount of Expenditure column with a long vertical voiding stroke. Matches Summary Page line 2 Column A = 0"
+    }
+   },
+   "page_subtotal_gates": "Neither page fills SUBTOTAL FOR THIS PAGE or the schedule TOTAL - both cells are empty on both pages; the filer voided the columns with a '0' plus a full-height stroke instead. No numeric gate exists, and none is needed: there are no rows to sum.",
+   "escalations": 0,
+   "escalation_note": "none - both schedule pages are unambiguously empty at 200 dpi.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page FINAL REPORT (Jimmy L. Cadman, County Council, report dated 1/31/07). p1 cover, p2 Summary Page, p3 Schedule A ('Page 3 of 4'), p4 Schedule B ('Page 4 of 4'). BOTH schedules exist and BOTH are honestly empty: on each the filer wrote a single '0' in the top Amount cell and drew one long vertical pen stroke down the entire column to show the rest is void. That is a real zero (sides 'transcribed', zero rows), NOT a missing schedule. The SUBTOTAL and TOTAL cells are left blank on both pages, so there is no printed figure to gate against - but with zero rows there is nothing to reconcile either."
+  }
  }
 }

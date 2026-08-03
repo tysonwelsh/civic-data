@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-12-31",
+   "vendor_raw": "Rescue Mission of Salt Lake",
+   "purpose": "Charitable Contribution (See 2.72A.201)",
+   "amount": "1,372.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,27.90,75.10,3.80@p4",
+   "note": "date printed '12/31/2010' - the day glyph is cramped and could be read 34, but 34 is not a possible day, so 31 is the only valid reading; recorded at medium date confidence. The recipient name runs off the edge of the name cell ('Rescue Mission of Salt Lak...'). The purpose cell carries a parenthetical citation to Salt Lake County Ordinance 2.72A.201 (disposal of a dissolving committee's balance), written as 'See 2.72A.201'."
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "1,372.71",
  "beginning_balance": "1,372.71",
@@ -49,6 +64,64 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BUNDLE: an 18-page packet. Pages 1-4 are the report itself (a later form variant whose Type of Report block reads 'FINAL / DISSOLUTION REPORT' and whose Column B is headed 'Aggregate Total'); pages 5-18 are attached Wells Fargo Free Checking statements for 'RICHARDSON FOR TREASURER' account 511005266, evidencing the zero closing balance. This form ALSO has two office fields: a top-row 'Office' (County Treasurer) and a separate 'Office Sought' (County Treasurer) - both read the same, so no ambiguity. BOTH Column B cells (Lines 1 and 2) were left BLANK by the filer, recorded as \"\" not 0. Neither amendment box is checked. Signature date 1/5/2011, clerk-stamped JAN 05 2011, though the clerk listing files it under 2010. Schedule B (page 4) shows the single expenditure: 12/31/2010, Rescue Mission of Salt Lake, 'Charitable Contribution (see 2-72A-201)', 1,372.71."
+  "notes": "BUNDLE: an 18-page packet. Pages 1-4 are the report itself (a later form variant whose Type of Report block reads 'FINAL / DISSOLUTION REPORT' and whose Column B is headed 'Aggregate Total'); pages 5-18 are attached Wells Fargo Free Checking statements for 'RICHARDSON FOR TREASURER' account 511005266, evidencing the zero closing balance. This form ALSO has two office fields: a top-row 'Office' (County Treasurer) and a separate 'Office Sought' (County Treasurer) - both read the same, so no ambiguity. BOTH Column B cells (Lines 1 and 2) were left BLANK by the filer, recorded as \"\" not 0. Neither amendment box is checked. Signature date 1/5/2011, clerk-stamped JAN 05 2011, though the clerk listing files it under 2010. Schedule B (page 4) shows the single expenditure: 12/31/2010, Rescue Mission of Salt Lake, 'Charitable Contribution (see 2-72A-201)', 1,372.71.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "itemized_pages_A": "3 (present, no rows)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A exists and carries NO rows - the word 'NONE' is written in the first amount cell with a long vertical stroke drawn down the rest of the column, and the SUBTOTAL and TOTAL cells each carry a slashed zero. Per the zero-glyph rule the slashed zero IS zero, so this is a real zero, not a gap, and it matches Summary line 1."
+    },
+    "expenditures": {
+     "stated": "1,372.71",
+     "itemized": "1372.71",
+     "result": "exact",
+     "detail": "exact (1372.71 = 1,372.71); the single Schedule B row equals the printed SUBTOTAL FOR THIS PAGE 1,372.71, the printed TOTAL 1,372.71 and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): rows 0.00 = printed SUBTOTAL (slashed zero) = printed TOTAL (slashed zero) - GATE FIRED on a zero. p4 (Schedule B): rows 1,372.71 = printed SUBTOTAL 1,372.71 = printed TOTAL 1,372.71 - GATE FIRED.",
+   "escalations": 0,
+   "escalation_note": "None needed - one legible row and a zero page, both gated by their own printed subtotals.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "18-page BUNDLE, and only the first four pages are the report: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (no rows; 'NONE' plus a slashed zero in both total cells), p4 Schedule B (one row). PAGES 5-17 ARE THIRTEEN PAGES OF WELLS FARGO STATEMENTS AND A WELLS FARGO 'StoreVision' ACCOUNT-LIST SCREENSHOT covering December 2009 - December 2010, and PAGE 18 IS THE COUNTY'S 'Dissolution of a Candidate Campaign Committee' notice, signed by the committee secretary and clerk-stamped RECEIVED JAN 05 2011. Nothing was transcribed from the bank pages or the dissolution notice - they are supporting material, not schedules - and the account numbers and mailing address they carry were not read or recorded. The whole reported activity of the period is one payment: the campaign's remaining $1,372.71 given to the Rescue Mission of Salt Lake as a charitable contribution, the purpose cell citing the county ordinance ('See 2.72A.201') under which a dissolving committee disposes of its balance. The schedule pages are hand-numbered 'Page 2 of 3' / 'Page 3 of 3' with Date of Report 01-05-2011."
+  }
  }
 }

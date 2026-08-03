@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "OLDER form variant (no year in title; interim options are the 'Seven days before a primary/general election' set). This is the 2005 year-end (Jan 31 2006) report. The 'State' box on the cover carries 'UTAH'. Zeros written '-0-'. Summary header: page 2 of 4, WILDE, 1-18-06. Received stamp JAN 19 2006; stamped COPY."
+  "notes": "OLDER form variant (no year in title; interim options are the 'Seven days before a primary/general election' set). This is the 2005 year-end (Jan 31 2006) report. The 'State' box on the cover carries 'UTAH'. Zeros written '-0-'. Summary header: page 2 of 4, WILDE, 1-18-06. Received stamp JAN 19 2006; stamped COPY.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank schedule)",
+   "itemized_pages_B": "4 (blank schedule)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4.97",
+     "itemized": "0.00",
+     "result": "delta",
+     "detail": "delta 4.97 - and it is the FILER'S OWN internal contradiction, not an extraction gap. Schedule A (page 3) is printed with every line empty and the filer wrote '-0-' in BOTH its SUBTOTAL FOR THIS PAGE and its TOTAL CONTRIBUTIONS RECEIVED cells, while the Summary Page line 1 Column A (and line 4, and Column B) reads 4.97. The two figures are both retained verbatim; nothing was itemized and nothing was invented. The 4.97 also drives the Summary balance chain, which closes on its own terms: 108.71 + 4.97 = 113.68 (printed line 5) and 113.68 - '-0-' = 113.68 (printed line 7)."
+    },
+    "expenditures": {
+     "stated": "-0-",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B (page 4) is printed with every line empty and both its SUBTOTAL and TOTAL cells read '-0-', matching Summary line 2 Column A '-0-'. A real zero (zero GLYPH per the repo ruling), not a gap."
+    }
+   },
+   "page_subtotal_gates": "p3 zero rows vs printed SUBTOTAL '-0-' (FIRED, consistent); p4 zero rows vs printed SUBTOTAL '-0-' (FIRED, consistent). Both schedule TOTAL cells also read '-0-'. Note the gate that does NOT close is a different one and it is the filer's: Schedule A's own total (-0-) contradicts the Summary Page's 4.97.",
+   "escalations": 0,
+   "escalation_note": "none needed - both schedule pages were rendered at 200 dpi and read in full; the tables are genuinely empty (a pixel scan of the table body returns only the printed rules), and the four zero cells are unambiguous '-0-' glyphs",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A near-dormant year-end filing (YEAR-END January-31 box checked; amendment answered 'No'; cover stamped COPY). BOTH itemized schedules exist as printed pages and BOTH are completely blank, with '-0-' written into all four subtotal/total cells - honest zeros, not missing pages. THE ONE REAL ANOMALY IS THE FILER'S: the Summary Page reports 4.97 of contributions this period (line 1 Col A, line 4, and Column B) but Schedule A itemizes nothing and totals '-0-'. A 4.97 figure on an otherwise dormant account reads like bank interest, but the form does not say so and nothing was inferred - both figures are kept verbatim and the discrepancy is named rather than reconciled. No contributor or recipient names appear anywhere in this filing, so no privacy handling was needed beyond the cover page. Cover: office sought COUNTY COUNCIL #3; the cover's City/Zip cells are blank and only the State cell ('UTAH') is filled - a filer omission, not a redaction. index.csv carries no election_year or filing date for this filing; the form is dated and signed 1-18-06 and clerk-stamped JAN 19 2006."
+  }
  }
 }

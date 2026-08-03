@@ -1,6 +1,81 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "UTAH RESTAURANT",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,23.75,85.00,3.50@p3",
+   "note": "DATE HAS NO DAY - printed '5/06' (month/year only), so left blank per contract. Name cell ends at 'UTAH RESTAURANT' with no association/company suffix (confirmed at 600dpi). Amount printed as bare '250' with no cents. Address and occupation cells blank."
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "SCOTT BAKER",
+   "amount": "25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,27.25,85.00,3.50@p3",
+   "note": "DATE HAS NO DAY - printed '5/06'. Amount printed as bare '25'. Address and occupation cells blank."
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "STEVE HARMSEN",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,30.75,85.00,3.50@p3",
+   "note": "DATE HAS NO DAY - printed '6/06'. Occupation/employer cell reads 'STEVE REGAN CO.'. Amount printed as bare '250'. Address cell blank."
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "S.L. COUNTY REPUBLICAN PTY.",
+   "amount": "$2,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,34.25,85.00,3.50@p3",
+   "note": "DATE HAS NO DAY - printed '6/06'. The word 'CASH' is written under the amount, distinguishing this row from the in-kind row below it. Address and occupation cells blank."
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "S.L. COUNTY REPUBLICAN PTY.",
+   "amount": "$5,000",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,37.75,85.00,3.50@p3",
+   "note": "DATE HAS NO DAY - printed '6/06'. 'IN-KIND' is written under the amount in the amount cell. Address and occupation cells blank."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "UTAH RESTAURANT/ OASIS RESTAURANT",
+   "purpose": "REFUND",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.50,25.90,85.00,3.60@p4",
+   "note": "DATE HAS NO DAY - printed '6/06', left blank per contract. Recipient written on two lines 'UTAH RESTAURANT/ OASIS RESTAURANT'. Cents printed as a superscript '00' over the dollars, transcribed with a decimal point. This is a REFUND of the 250 Utah Restaurant contribution on Schedule A line 1."
+  }
+ ],
  "total_contributions": "7525.00",
  "total_expenditures": "250.00",
  "beginning_balance": "42.01",
@@ -49,6 +124,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Amendment to the 6/19/06 June 20 report (key 086e8df6). Line 1 Column A is written with superscript cents ('7525' with a raised '00'). No '$' signs on this copy. Summary header: page 2 of 4, WILDE, 6-20-06. Received stamp JUN 20 2006."
+  "notes": "Amendment to the 6/19/06 June 20 report (key 086e8df6). Line 1 Column A is written with superscript cents ('7525' with a raised '00'). No '$' signs on this copy. Summary header: page 2 of 4, WILDE, 6-20-06. Received stamp JUN 20 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7525.00",
+     "itemized": "7525.00",
+     "result": "exact",
+     "detail": "exact (250 + 25 + 250 + 2,000 + 5,000 = 7525.00 = stated 7525.00). NOTE the form's own SUBTOTAL and TOTAL cells on Schedule A were LEFT BLANK by the filer, so this reconciliation runs only against the Summary Page figure already in the chunk file."
+    },
+    "expenditures": {
+     "stated": "250.00",
+     "itemized": "250.00",
+     "result": "exact",
+     "detail": "exact (250.00 = 250.00); the form's own subtotal and total both print '250 -' (trailing dash = whole dollars, no cents)"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 250.00 = printed subtotal '250 -' (exact). **p3 CANNOT BE GATED** - the filer left both the SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells on Schedule A empty; the 5 rows do sum to the Summary-Page stated 7525.00.",
+   "escalations": 1,
+   "escalation_note": "p3 contributor-name column 600dpi band crop over all 5 rows (to confirm 'UTAH RESTAURANT' is not truncated and the two party lines are identical)",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Pages 1-2 = cover + Summary Page (already transcribed upstream, not re-read). EVERY date on both schedules is printed as MONTH/YEAR ONLY ('5/06', '6/06') - no day exists anywhere in the document, so all six dates are blank + needs_review with the verbatim in the note; a day was never inferred. Schedule A's subtotal/total cells are blank (filer omission), so that page has no printed figure to gate against. One IN-KIND contribution ($5,000 S.L. County Republican Pty.) is marked by the words 'IN-KIND' written inside the amount cell, and the row above it is marked 'CASH' the same way. The single Schedule B line is a REFUND back to Utah Restaurant/Oasis Restaurant of the Schedule A line-1 contribution. No mailing addresses appear anywhere in the filing. Field-shift screen passed: 5 names / 5 amounts on A, 1/1 on B."
+  }
  }
 }

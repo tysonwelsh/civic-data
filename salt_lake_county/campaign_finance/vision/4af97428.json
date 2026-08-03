@@ -47,6 +47,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "2008-era form variant: the title carries NO year ('Financial Disclosure Report For a Candidate'), so form_year is ''; the interim list reads 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election'. This variant has BOTH an 'Office' box in the top row and a separate 'Office Sought' box: the top-row Office box reads 'Recorder' and the Office Sought box is BLANK - 'Recorder' is reported here as office_sought. Summary Page header: Page 1 of 3, Ott, 30 Jan 2008; Column B header reads 'Aggregate Total' and both Column B cells are blank. Zeros written as slashed zeros with a tail."
+  "notes": "2008-era form variant: the title carries NO year ('Financial Disclosure Report For a Candidate'), so form_year is ''; the interim list reads 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election'. This variant has BOTH an 'Office' box in the top row and a separate 'Office Sought' box: the top-row Office box reads 'Recorder' and the Office Sought box is BLANK - 'Recorder' is reported here as office_sought. Summary Page header: Page 1 of 3, Ott, 30 Jan 2008; Column B header reads 'Aggregate Total' and both Column B cells are blank. Zeros written as slashed zeros with a tail.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is a NIL schedule: the filer wrote 'None' in the first Name-of-Contributor cell and a slashed-zero glyph in its Amount cell; TOTAL CONTRIBUTIONS RECEIVED reads 'None'. Zero itemized rows. Summary Page line 1 Col A is the same slashed zero (stated 0)."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B (p4) is a NIL schedule: 'None' in the first Name-of-Recipient cell, slashed-zero in its Amount cell, TOTAL EXPENDITURES MADE reads 'None'. Zero itemized rows."
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell left empty (nothing to gate); p3 TOTAL prints the word 'None'. p4 SUBTOTAL cell empty; p4 TOTAL prints 'None'. Neither page prints a numeric subtotal, so no arithmetic gate could fire - both pages are nil schedules.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Gary W. Ott, Recorder, Republican; Year-End (January 31) box checked, 'No' amendment. Signed 30 Jan 08, clerk RECEIVED stamp JAN 30 2008. Form is paginated 'Page 1 of 3' on the Summary Page, 2 of 3 on Schedule A, 3 of 3 on Schedule B (the cover is unnumbered). A genuine ZERO-activity filing: no contributions and no expenditures itemized, balance 869.71 carried unchanged from line 3 to line 7. The nil marks on the schedules are the written word 'None' plus a slashed-zero glyph in the amount cells; per the ZERO-GLYPH RULING these denote 0, but there are no itemized LINES to emit, so both sides are zero-row 'transcribed', not 'none'."
+  }
  }
 }

@@ -1,6 +1,163 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-17",
+   "donor_raw": "refund to M. Garfield Cook",
+   "amount": "-2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,24.90,83.51,3.89@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; AMOUNT IS NEGATIVE: printed '(2,000)' in accounting parentheses. The Name cell reads 'refund to M. Garfield Cook' - the row records a REFUND of a contribution, not a contribution; transcribed verbatim as the filer wrote it. Occupation cell reads 'retired'. Confirmed at a 600 dpi amount-column crop."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-17",
+   "donor_raw": "Margo T. Cook",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,28.78,83.51,3.89@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; occupation cell 'housewife'; amount with superscript cents over a rule"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-15",
+   "donor_raw": "Merrill Cook, candidate",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,32.67,83.51,3.89@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; the candidate himself - 'candidate' written as a superscript beside the name; occupation cell 'businessman / Cook Associates, Inc.'; the DAY digits are written over an earlier figure, read as 15 at 600 dpi"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Merrill Cook, candidate",
+   "amount": "1,446.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,36.56,83.51,3.89@p3",
+   "note": "Complete Mailing Address column is COUNTY-REDACTED (solid black bar); donor_city/donor_state blank - redacted, not left empty by the filer; date cell prints a RANGE, '4/2-13/12' - left blank per contract; the candidate himself; occupation cell 'businessman / Cook Associates, Inc.'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "U.S. Post Office",
+   "purpose": "postage",
+   "amount": "897.97",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,27.96,75.48,3.85@p4",
+   "note": "date cell prints a RANGE, '4/5-12/12' - left blank per contract"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Imaginos",
+   "purpose": "mail prep",
+   "amount": "353.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,31.81,75.48,3.85@p4",
+   "note": "date cell prints a RANGE, '4/3-13/12' - left blank per contract"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Imaginos",
+   "purpose": "booth, printing, signs",
+   "amount": "825.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,35.67,75.48,3.85@p4",
+   "note": "date cell prints a RANGE, '4/3-13/12' - left blank per contract"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Einstein Bagel",
+   "purpose": "delegate meetings",
+   "amount": "201.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,39.52,75.48,3.85@p4",
+   "note": "date cell prints a RANGE, '4/2-13/12' - left blank per contract"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-04-04",
+   "vendor_raw": "Salt Lake County GOP",
+   "purpose": "Convention booth space",
+   "amount": "2,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,43.37,75.48,3.85@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-04-13",
+   "vendor_raw": "U Haul",
+   "purpose": "booth preparation",
+   "amount": "50.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,47.23,75.48,3.85@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-04-13",
+   "vendor_raw": "Reczuh Printing",
+   "purpose": "labels & letter",
+   "amount": "97.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,51.08,75.48,3.85@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-04-13",
+   "vendor_raw": "Modern Display",
+   "purpose": "electricals & booth",
+   "amount": "125.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,54.94,75.48,3.85@p4"
+  }
+ ],
  "total_contributions": "$4,446.00",
  "total_expenditures": "$5,050.12",
  "beginning_balance": "$604.12",
@@ -49,6 +206,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Two-office-box form; both office fields read 'Salt Lake County Mayor'. Column B (Aggregate Total) carries the SAME figure - $12,184.00 - on line 1 (contributions to date) and line 2 (expenditures to date); recorded exactly as written, not reconciled. Lines 5 and 6 are written '5050.12' without a thousands comma. Line 7 is a hand-drawn plain zero (open circle), recorded as 0. Cents are raised superscripts. Neither amendment box is checked. Line 3 ($604.12) matches line 7 of the April interim report; 604.12 + 4,446.00 = 5,050.12, consistent."
+  "notes": "Two-office-box form; both office fields read 'Salt Lake County Mayor'. Column B (Aggregate Total) carries the SAME figure - $12,184.00 - on line 1 (contributions to date) and line 2 (expenditures to date); recorded exactly as written, not reconciled. Lines 5 and 6 are written '5050.12' without a thousands comma. Line 7 is a hand-drawn plain zero (open circle), recorded as 0. Cents are raised superscripts. Neither amendment box is checked. Line 3 ($604.12) matches line 7 of the April interim report; 604.12 + 4,446.00 = 5,050.12, consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 ('Page 3 of 4')",
+   "itemized_pages_B": "4 ('Page 4 of 4')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$4,446.00",
+     "itemized": "4446.00",
+     "result": "exact",
+     "detail": "exact (4446.00 = $4,446.00) - and it only reconciles if the parenthesised (2,000) is read as NEGATIVE: -2000 + 2000 + 3000 + 1446 = 4446. That is the independent confirmation of the accounting-parentheses reading."
+    },
+    "expenditures": {
+     "stated": "$5,050.12",
+     "itemized": "5050.12",
+     "result": "exact",
+     "detail": "exact (5050.12 = $5,050.12)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 4,446.00 = printed subtotal 4,446.00 = printed TOTAL CONTRIBUTIONS RECEIVED 4,446.00. p4 rows 5,050.12 = printed subtotal 5,050.12 = printed TOTAL EXPENDITURES MADE 5,050.12. BOTH GATES EXACT.",
+   "escalations": 2,
+   "escalation_note": "600 dpi tight crops on p3: the date column (x430 y1580 W620 H1250), which confirmed 4/17/12, 4/17/12, an overwritten 4/15/12 and the range 4/2-13/12; and the amount column (x4130 y1580 W700 H1250), which confirmed the accounting parentheses on (2,000) and the superscript cents on the other three.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten form, Merrill Cook for Mayor, Final/Dissolution, form's own Date of Report 5/10/12. The Complete Mailing Address column is COUNTY-REDACTED with a solid black bar on Schedule A, so donor_city/donor_state are blank as REDACTED (distinct from a filer leaving them empty). THE FIRST SCHEDULE A ROW IS A NEGATIVE: 'refund to M. Garfield Cook', amount printed '(2,000)' in accounting parentheses; emitted as -2000.00, and the page total only reconciles that way. Three of the four contributions are from the candidate or his household (two rows annotated 'candidate' in superscript beside the name). FIVE of the twelve dates on this filing are RANGES ('4/2-13/12', '4/5-12/12', '4/3-13/12' x2) rather than single dates; each is blank with needs_review=1 and the verbatim range in the note. FIELD-SHIFT SCREEN: 4 dates / 4 names / 4 amounts on p3 and 8/8/8 on p4, each in its own ruled column, occupation annotations track their contributors, and both pages gate exactly (the p3 gate additionally validates the sign of row 1). No shift found."
+  }
  }
 }

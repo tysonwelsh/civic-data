@@ -1,6 +1,226 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Steve Harmsen",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,25.00,87.90,3.20@p4",
+   "note": "date printed 'Mar/10' - MONTH AND YEAR ONLY, no day, so left blank per contract. Candidate self-contribution; occupation cell (one row down, per the page-wide offset) reads 'SRC same'. Mirrors the Mar/10 175 county filing fee on Schedule B."
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-01",
+   "donor_raw": "Utah Rep Party",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;donor=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:6.46,28.80,87.90,3.20@p4",
+   "note": "AMOUNT LEFT BLANK - the figure is ghost-thin on this fax; my read was '2400' but the schedule's own total proves at least one of the five middle amounts is misread and I cannot tell which, so none of the five were kept. Occupation 'Pol Party'."
+  },
+  {
+   "line_no": 3,
+   "date": "2010-08-15",
+   "donor_raw": "WTFCC",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;donor=low;amount=low",
+   "verified": 1,
+   "geometry": "pct:6.46,32.60,87.90,3.20@p4",
+   "note": "AMOUNT LEFT BLANK (ghost-thin, read as '5350' but unverifiable - see line 2 note). Donor is an acronym I could not resolve; kept as the legible glyph string 'WTFCC', not expanded. Occupation 'Business'."
+  },
+  {
+   "line_no": 4,
+   "date": "2010-09-25",
+   "donor_raw": "Steve Harmsen",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;donor=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:6.46,36.40,87.90,3.20@p4",
+   "note": "AMOUNT LEFT BLANK (ghost-thin, read as '8500' but unverifiable). Candidate self-contribution; occupation 'Ind'."
+  },
+  {
+   "line_no": 5,
+   "date": "2010-10-01",
+   "donor_raw": "Dalton Hyde LLC",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;donor=low;amount=low",
+   "verified": 1,
+   "geometry": "pct:6.46,40.20,87.90,3.20@p4",
+   "note": "AMOUNT LEFT BLANK (ghost-thin, read as '5000' but unverifiable). Employer cell 'Hyde Electric Co.' - the match to the donor name is one of the pairings that confirmed the row offset."
+  },
+  {
+   "line_no": 6,
+   "date": "2010-10-15",
+   "donor_raw": "HW Cattle Co",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=medium;donor=low;amount=low",
+   "verified": 1,
+   "geometry": "pct:6.46,44.00,87.90,3.20@p4",
+   "note": "AMOUNT LEFT BLANK (ghost-thin, read as '5200' but unverifiable). Occupation 'Farming Ranching'."
+  },
+  {
+   "line_no": 7,
+   "date": "2010-11-06",
+   "donor_raw": "Steve Harmsen",
+   "amount": "868",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.46,47.80,87.90,3.20@p4",
+   "note": "candidate self-contribution; occupation 'Ind'. This amount is written darker than the rest and is legible; it equals the Summary Page's Column A 'this period' figure of 868, which is why the period total is 868 while the schedule totals 27,438."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "SL County",
+   "purpose": "Fee",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.46,26.25,80.80,3.20@p3",
+   "note": "date printed 'Mar/10' - MONTH AND YEAR ONLY, no day, left blank. County filing fee."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Imagineers",
+   "purpose": "Flyers + Postage",
+   "amount": "5406",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,29.75,80.80,3.20@p3",
+   "note": "date printed '9/1?/10' - the day's second digit is illegible on the fax, so the date is left blank. Vendor glyphs read 'Imagineers'; the same vendor recurs on lines 8 and 9."
+  },
+  {
+   "line_no": 3,
+   "date": "2010-08-24",
+   "vendor_raw": "Reagan Outdoor",
+   "purpose": "Billboards",
+   "amount": "8440",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,33.50,80.80,3.20@p3",
+   "note": "vendor glyphs read 'Reagan Outdoor' (an outdoor-advertising firm, consistent with the 'Billboards' purpose)"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-10-13",
+   "vendor_raw": "Media One",
+   "purpose": "Adv",
+   "amount": "2950",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,41.25,80.80,3.20@p3",
+   "note": "one printed table row above this one is entirely blank (the filer skipped a line) - not transcribed"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Design Type",
+   "purpose": "Artwork",
+   "amount": "450",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,44.75,80.80,3.20@p3",
+   "note": "date reads '10/8/10' or '10/18/10' - ambiguous at 600 dpi, left blank"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Panoramic Signs",
+   "purpose": "Adv",
+   "amount": "547",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,49.00,80.80,3.20@p3",
+   "note": "DATE UNREADABLE - this row's date cell falls under the black smear on the fax; left blank. Vendor glyphs read 'Panoramic Signs' at low confidence."
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Mills Pub",
+   "purpose": "Adv",
+   "amount": "495",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,52.75,80.80,3.20@p3",
+   "note": "DATE UNREADABLE (under the black smear) - left blank. AMOUNT ADJUDICATED BY THE PAGE IDENTITY: the glyph reads 485 or 495; 495 is the value that makes the page's rows equal its printed 27,438 subtotal, so 495 is recorded (document arithmetic outranks the glyph)."
+  },
+  {
+   "line_no": 8,
+   "date": "2010-10-23",
+   "vendor_raw": "Imagineers",
+   "purpose": "Signs",
+   "amount": "1500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,56.75,80.80,3.20@p3"
+  },
+  {
+   "line_no": 9,
+   "date": "2010-10-25",
+   "vendor_raw": "Imagineers",
+   "purpose": "Flyers + Postage",
+   "amount": "4975",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:6.46,61.00,80.80,3.20@p3"
+  },
+  {
+   "line_no": 10,
+   "date": "2010-11-01",
+   "vendor_raw": "Media One",
+   "purpose": "Adv",
+   "amount": "2500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.46,65.00,80.80,3.20@p3",
+   "note": "this row is written in darker ink than the rest of the page and is the most legible on it"
+  }
+ ],
  "total_contributions": "$868",
  "total_expenditures": null,
  "beginning_balance": "1897",
@@ -46,6 +266,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "WORST SCAN IN THE CHUNK: a degraded fax (fax header 01/10/2011) with a heavy black smear over the left half of page 1 and very loose handwriting. Re-rendered page 2 at 300 and 600 dpi and cropped every cell; Line 2 Column A, Line 5 and Line 7 Column A remain genuinely unreadable (each is written but the individual digits cannot be resolved) and are recorded as null rather than guessed. Line 3 (1897) matches the October interim's Line 7 (1,897), which corroborates that reading. Note this is a Final/Dissolution report yet Line 7 is plainly NOT zero (a 3-digit figure is written). Worth a human's eyes."
+  "notes": "WORST SCAN IN THE CHUNK: a degraded fax (fax header 01/10/2011) with a heavy black smear over the left half of page 1 and very loose handwriting. Re-rendered page 2 at 300 and 600 dpi and cropped every cell; Line 2 Column A, Line 5 and Line 7 Column A remain genuinely unreadable (each is written but the individual digits cannot be resolved) and are recorded as null rather than guessed. Line 3 (1897) matches the October interim's Line 7 (1,897), which corroborates that reading. Note this is a Final/Dissolution report yet Line 7 is plainly NOT zero (a 3-digit figure is written). Worth a human's eyes.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$868",
+     "itemized": "1043.00",
+     "result": "delta",
+     "detail": "NOT COMPARABLE AS PRINTED, and the itemized figure is a FLOOR. Two separate facts. (1) Schedule A's own printed TOTAL is 27,438 - the same figure the Summary Page carries in COLUMN B (aggregate to date) - so this schedule lists the WHOLE CYCLE while Column A ($868) is the final period only; the last row (11/6/10, 868) is the only in-period row and equals Column A exactly. (2) Five of the seven amounts are ghost-thin on this degraded fax and were left BLANK rather than guessed, so the 1,043.00 quoted here is only the two legible amounts (175 + 868) and is a floor. My best reads of the five illegible amounts sum to 26,450 where the schedule's own total requires 26,395 - proof at least one of them is misread, which is why none were kept."
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "27438.00",
+     "result": "unknown",
+     "detail": "The stated Summary line 2 was left null by the totals wave (illegible on this degraded fax), so there is no anchor to reconcile against. The schedule's OWN identity does close: the 10 transcribed rows sum to exactly 27,438 = the printed page subtotal = the printed total. That 27,438 is the aggregate-to-date figure (Summary Column B), not the period figure."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule B) rows 27,438 = printed subtotal 27,438 = printed total - GATE CLOSES, and it is what settled one disputed amount: my independent reads summed to 27,428, and the single row whose glyph was ambiguous between 485 and 495 is 495 by the identity (document arithmetic outranking the glyph re-read). p4 (Schedule A): the printed SUBTOTAL cell is blank and the printed TOTAL is 27,438; the two legible rows plus five unreadable ones cannot be gated - NO GATE.",
+   "escalations": 3,
+   "escalation_note": "p4 amount column at 600 dpi + contrast-normalised (still unreadable); p3 date column at 600 dpi + normalised + deskewed; both schedule pages deskewed by 3.1 degrees in PIL to test the column offset",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DEGRADED FAX (received 01/10/2011, WAFCO header) with a black smear down the left edge of p3 and ghost-thin pencil throughout. THREE things a human should know. (1) PAGE ORDER IS REVERSED: p3 is Schedule B and p4 is Schedule A. (2) SYSTEMATIC COLUMN OFFSET, screened and resolved: on BOTH schedule pages the right-hand block (occupation/purpose + amount) is written ONE ROW BELOW its left-hand block (date + name). I resolved the offset rather than withholding because five independent semantic pairings confirm it - Utah Rep Party/'Pol Party', Dalton Hyde LLC/'Hyde Electric Co.', HW Cattle Co/'Farming Ranching', Steve Harmsen/'Ind', and above all the Mar/10 175 pair that appears identically on both schedules (the county filing fee paid and the candidate money that funded it). Every row here is emitted on that alignment; if the alignment is wrong, every occupation and amount is off by one. (3) The schedules are CUMULATIVE for the cycle (they total to the Summary's Column B aggregate) while Column A reports only the final period - do not compare the row sums to stated_c/stated_e. Schedule A/B header boxes both read 'HARMSEN' / '10/26/10' though the filing is the Final-Dissolution faxed in January 2011."
+  }
  }
 }

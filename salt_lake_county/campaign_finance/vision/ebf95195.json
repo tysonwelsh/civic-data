@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Faxed copy (banner 'FEB/01/2008/FRI 01:02 PM JSA REALTY ADVISORS ... P.001/004'). 2008-era form variant, no year in the title. The top-row 'Office' box reads 'COUNCIL DIST #5' and the separate 'Office Sought' box is BLANK - the Office value is reported here as office_sought; District Number box = '5'. Zeros written as slashed \u00d8. Summary Page header: Page 1 of 3, ALLEN, 1-31-2008; Column B header 'Aggregate Total'. Line 3 (7,793.86) matches Line 7 of Allen's 1-30-07 report (key 2681376e)."
+  "notes": "Faxed copy (banner 'FEB/01/2008/FRI 01:02 PM JSA REALTY ADVISORS ... P.001/004'). 2008-era form variant, no year in the title. The top-row 'Office' box reads 'COUNCIL DIST #5' and the separate 'Office Sought' box is BLANK - the Office value is reported here as office_sought; District Number box = '5'. Zeros written as slashed \u00d8. Summary Page header: Page 1 of 3, ALLEN, 1-31-2008; Column B header 'Aggregate Total'. Line 3 (7,793.86) matches Line 7 of Allen's 1-30-07 report (key 2681376e).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (Summary Page line 1 Col A is a slashed-zero glyph; Schedule A page 3 grid is empty)"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (Summary Page line 2 Col A is a slashed-zero glyph; Schedule B page 4 grid is empty)"
+    }
+   },
+   "page_subtotal_gates": "p3 and p4 print SUBTOTAL/TOTAL rows but the filer left them EMPTY (no printed subtotal), so neither page can gate; both grids are wholly blank with a single diagonal strike drawn corner-to-corner (the 'nothing to report' mark)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Jeff S. Allen, Council Dist #5, Year-End (January 31) report dated 1-31-2008, faxed 02/01/2008 by 'JSA REALTY ADVISORS'. Schedule A (p3) and Schedule B (p4) are BLANK schedules: every row empty, a single diagonal line drawn across the grid, subtotal/total cells left empty. Summary Page lines 1, 2, 4 and 6 all carry a slashed-zero glyph (ZERO-GLYPH RULING => 0); lines 3/5/7 carry 7,793.86 (carried-forward balance). Both sides are a real zero, not a gap."
+  }
  }
 }

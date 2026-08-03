@@ -1,6 +1,184 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "712.32",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,24.50,82.79,3.75@p3",
+   "note": "candidate loan; occupation 'ATTORNEY / CRAMER & CRAMER'; address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-18",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "255.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,28.40,82.79,3.85@p3",
+   "note": "name cell is a DITTO mark, resolved to row 1 'LOAN FROM ROB LATHAM'; occupation cell is also a ditto mark; address cell empty"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-19",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "18.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,32.40,82.79,3.70@p3",
+   "note": "name and occupation cells are DITTO marks, resolved to row 1; address cell empty"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-20",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "1776.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,36.25,82.79,3.75@p3",
+   "note": "name and occupation cells are DITTO marks, resolved to row 1; address cell empty. Amount confirmed by the page subtotal identity (986.21 + 1776.00 = 2762.21 en route to 2957.60)"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-22",
+   "donor_raw": "CONTRIBUTIONS OF $50 AND UNDER",
+   "amount": "0.54",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,40.15,82.79,3.75@p3",
+   "note": "AGGREGATE row, not a named donor - written 'CONTRIBVTIONS OF $50 AND VNDER' in this filer's V-for-U block capitals. Address and Occupation cells both read 'N/A'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-29",
+   "donor_raw": "LOAN FROM ROB LATHAM",
+   "amount": "144.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,44.00,82.79,3.75@p3",
+   "note": "written out in full again (not a ditto); address and occupation cells left empty"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-03-31",
+   "donor_raw": "CRAMER & CRAMER, LLC",
+   "donor_city": "BOUNTIFUL",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.21,47.90,82.79,3.85@p3",
+   "note": "the matching side of Schedule B row 6, which is labelled 'IN KIND' - flagged in_kind here on that basis. Occupation cell 'N/A'. City/state printed 'BOVNTIFVL, VTAH 84010' in the filer's V-for-U capitals; street discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SALT LAKE COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "712.32",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,28.00,77.15,3.00@p4",
+   "note": "written 'SALT LAKE COVNTY CLERK' (filer's V-form U)"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-18",
+   "vendor_raw": "ALL U CAN TALK WIRELESS",
+   "purpose": "WIRELESS PHONE AND SERVICE",
+   "amount": "255.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,31.15,77.15,3.00@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-19",
+   "vendor_raw": "ROB LATHAM",
+   "purpose": "DOMAIN TRANSFERS",
+   "amount": "18.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,34.30,77.15,3.00@p4",
+   "note": "payment to the candidate himself"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-20",
+   "vendor_raw": "LOU EASTMAN",
+   "purpose": "GRAPHIC DESIGN AND WEBSITE",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,37.45,77.15,3.00@p4",
+   "note": "recipient written 'LOV EASTMAN'; this filer forms block-capital U as V elsewhere on the same page ('COVNTY'), so read as LOU - but on a PERSONAL name the V/U cannot be settled from context, so vendor confidence is low and the verbatim glyph string is recorded here"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-29",
+   "vendor_raw": "CAFEPRESS.COM",
+   "purpose": "T-SHIRTS",
+   "amount": "144.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,40.60,77.15,3.00@p4",
+   "note": "written 'CAFEPRESS. Com'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-31",
+   "vendor_raw": "CRAMER & CRAMER",
+   "purpose": "OFFICE SERVICES",
+   "amount": "50.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.16,43.75,77.15,3.00@p4",
+   "note": "the recipient cell reads 'CRAMER & CRAMER -IN KIND' - the IN KIND marker sits inside the name cell, so it is stripped from vendor_raw and carried as in_kind=true"
+  }
+ ],
  "total_contributions": "$2957.60",
  "total_expenditures": "$1681.06",
  "beginning_balance": "0",
@@ -49,6 +227,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "April 5 interim box checked; amendment = No; signed 4/3/06, clerk-stamped RECEIVED APR 04 2006; Summary Page header 'LATHAM, APRIL 3, 2006'. Line 3 Column A is written as a dashed zero '-0-', recorded as '0'. Arithmetic exact (2957.60 - 1681.06 = 1276.54). Note the clerk listing files this candidate under District Attorney; the form agrees."
+  "notes": "April 5 interim box checked; amendment = No; signed 4/3/06, clerk-stamped RECEIVED APR 04 2006; Summary Page header 'LATHAM, APRIL 3, 2006'. Line 3 Column A is written as a dashed zero '-0-', recorded as '0'. Arithmetic exact (2957.60 - 1681.06 = 1276.54). Note the clerk listing files this candidate under District Attorney; the form agrees.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2957.60",
+     "itemized": "2957.60",
+     "result": "exact",
+     "detail": "exact (2957.60 = 2957.60)"
+    },
+    "expenditures": {
+     "stated": "$1681.06",
+     "itemized": "1681.06",
+     "result": "exact",
+     "detail": "exact (1681.06 = 1681.06)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 2957.60 = printed SUBTOTAL FOR THIS PAGE 2957.60 = printed TOTAL 2957.60 - gate fired and passed; p4 rows sum 1681.06 = printed SUBTOTAL 1681.06 = printed TOTAL 1681.06 - gate fired and passed",
+   "escalations": 1,
+   "escalation_note": "p4 Name of Recipient column, all 6 rows, re-rendered at 500 dpi as a single band crop; every name read identically",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten block capitals; header boxes on both schedules read 'LATHAM / APRIL 3, 2006' (the signature date; the report is the April 5 interim). THIS FILER FORMS BLOCK-CAPITAL U AS V throughout ('COVNTY', 'BOVNTIFVL', 'VTAH', 'CONTRIBVTIONS'); where the intended letter is unambiguous the word is written out normally and the verbatim glyph string is named in the row note. Schedule A rows 2-4 use DITTO MARKS in both the Name and the Occupation columns, resolved to the row-1 values. IN-KIND: Schedule B row 6 is labelled 'IN KIND' inside the recipient cell and its $50.00 matches Schedule A row 7 (Cramer & Cramer, LLC, $50.00) - both flagged in_kind. Contribution row 5 is an AGGREGATE, not a named donor ('CONTRIBUTIONS OF $50 AND UNDER', address and occupation both 'N/A')."
+  }
  }
 }

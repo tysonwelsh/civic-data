@@ -1,5 +1,22 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Amer. 1st C.U.",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "7.34",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,24.77,86.47,3.86@p3",
+   "geometry_px": "p3:x140,y545,w1470,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "Date cell prints only the YEAR '2007' - not a full date, so date is BLANK (never year-filled). Amount cell annotated '(INTEREST)'. Address 'PO BOX 9199 OGDEN UT 84409' - street/PO box discarded per PRIVACY, city/state kept. Schedule A SUBTOTAL and TOTAL cells left EMPTY by the filer; the stated total comes from the Summary Page."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "7.34",
  "total_expenditures": "-0-",
@@ -49,6 +66,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Faxed copy - banner 'Jan 24 08 10:11a  Rocky Mountain Verdicts  801-265-1421  p.1/p.2'. OLDER form variant (no year in title; separate 'Office' box on the cover reading 'COUNTY COUNCIL'; Column B headed 'Aggregate Total'). Office Sought is abbreviated 'C.C.'. Zero is written as the dash-zero-dash form '-0-' - kept verbatim. Line 4 (from Line 1 Col A) reads '$ 7.34'. RECEIVED stamp JAN 24 2008."
+  "notes": "Faxed copy - banner 'Jan 24 08 10:11a  Rocky Mountain Verdicts  801-265-1421  p.1/p.2'. OLDER form variant (no year in title; separate 'Office' box on the cover reading 'COUNTY COUNCIL'; Column B headed 'Aggregate Total'). Office Sought is abbreviated 'C.C.'. Zero is written as the dash-zero-dash form '-0-' - kept verbatim. Line 4 (from Line 1 Col A) reads '$ 7.34'. RECEIVED stamp JAN 24 2008.",
+  "itemized": {
+   "wave": "opus pilot 2026-08-02 (calibration-suite pilot-opus/), PROMOTED into wave B2",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7.34",
+     "itemized": "7.34",
+     "result": "exact",
+     "detail": "exact (7.34 = 7.34)"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0.00, zero rows)"
+    }
+   },
+   "page_subtotal_gates": "",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 1,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": "PILOT ESTIMATE (opus pilot bboxes, converted): render-back spot-checks 2026-08-02 found portrait boxes row-exact (3/3 sampled) and one rotated page (08_jwinder_jan31 p3) off by 8 row-pitches; treat pilot rows' geometry as a page/section pointer, not a row-exact box. Wave-B2 bulk rows carry transcriber-verified pct boxes."
+   },
+   "notes": "pilot 2026-08-02, promoted; Schedule B is an entirely EMPTY grid - 0 rows, an honest empty side, not a gap. Summary Page line 2 prints '- 0 -' in both columns; under the ZERO-GLYPH RULING that is 0.00 (pilot_set records it as '-0.00')."
+  }
  }
 }

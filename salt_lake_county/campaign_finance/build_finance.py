@@ -35,7 +35,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(HERE, "..", "..", "scripts", "ca
 import build_lib as BL
 import vision_lib as VL
 import common
-from common import ContribRow, ExpendRow, FilingTotals, CONTRIB_HEADER, EXPEND_HEADER, TOTALS_HEADER, money_str, row_to_dict
+from common import (ContribRow, ExpendRow, FilingTotals, CONTRIB_HEADER, EXPEND_HEADER,
+                    TOTALS_HEADER, GEOMETRY_COL, money_str, row_to_dict)
 from normalize_donors import tier1, classify_donor_type, normalize_contrib, normalize_vendor, load_aliases
 
 API = os.path.join(HERE, "raw", "easyvote_api")
@@ -152,12 +153,17 @@ def load_cache(index_path):
 
 def build_totals_tranche():
     """FilingTotals rows for the clerk-legacy (~2006-2015) + EasyVote-2022 eras, from the
-    `vision/` stated-totals caches. Returns (rows, stats). One row per index.csv filing in
-    those eras — including filings with NO cache, which are emitted as honest
-    acquired-but-not-transcribed inventory rows (all stated_* blank)."""
+    `vision/` caches. Returns (rows, crows, erows, stats, warnings). One row per index.csv
+    filing in those eras — including filings with NO cache, which are emitted as honest
+    acquired-but-not-transcribed inventory rows (all stated_* blank).
+
+    Since wave B2 the same pass ALSO emits each cache's itemized Schedule A/B rows and fills
+    that filing's itemized/reconciliation half (see the tranche header above). A cache whose
+    row lists are still empty behaves exactly as before — the two tranches compose."""
     with open(os.path.join(HERE, "index.csv"), newline="") as fh:
         idx = list(csv.DictReader(fh))
-    rows, stats = [], Counter()
+    aliases = load_aliases(os.path.join(HERE, "donor_aliases.csv"))
+    rows, all_c, all_e, warnings, stats = [], [], [], [], Counter()
     for r in idx:
         if r["source"] == "clerk_legacy":
             era = "clerk_legacy"
@@ -251,10 +257,28 @@ def build_totals_tranche():
         if cache and cache.get("_meta", {}).get("notes"):
             notes.append("transcriber: " + str(cache["_meta"]["notes"]))
 
+        # --- itemized half (wave B2). Absent cache / empty lists => unchanged totals-only row.
+        it_meta = ((cache or {}).get("_meta") or {}).get("itemized") or {}
+        crows, erows, sides, it = ([], [], {}, {})
+        if it_meta:
+            # SCHEMA 2/3: an itemized ROW carries `candidate` / `election_year` / `filing_date`
+            # VERBATIM FROM index.csv, not re-derived. The form-derived election_year and
+            # filing_date this tranche computes are a FILING-level enrichment and stay on the
+            # FilingTotals row (with the note that says where they came from). Pushing the
+            # derived year onto the rows broke referential integrity for the seven Corroon
+            # legacy filings whose index `election_year` is blank — validate_finance checks
+            # every row's `(candidate, election_year)` against index.csv, and rightly failed.
+            crows, erows, sides, it = itemized_rows_for(
+                cache, r, office, r["seat"], r["election_year"], r["date"], rp, aliases,
+                "vision-itemized/" + (it_meta.get("wave") or "claude-opus-5"))
+
         head = ("stated totals VISION-TRANSCRIBED from the filing's own cover + Summary Page "
-                "(Read-tool, $0 API; 2026-08-01 totals tranche); itemized layer NOT built for "
-                f"this era -> reconciliation unknown [{era}]")
-        rows.append(FilingTotals(
+                "(Read-tool, $0 API; 2026-08-01 totals tranche)"
+                + ("; itemized Schedule A/B rows VISION-TRANSCRIBED (2026-08-02 wave B2)"
+                   if it_meta else
+                   "; itemized layer NOT built for this filing -> reconciliation unknown")
+                + f" [{era}]")
+        ft = FilingTotals(
             candidate=r["candidate"], office=office, election_year=eyear,
             filing_date=fdate, reporting_period=rp, filing_type=ftype,
             stated_total_contributions=s_c, stated_total_expenditures=s_e,
@@ -266,8 +290,179 @@ def build_totals_tranche():
             source_filing=r["path"],
             document_id=r["document_id"] or VL.cache_key(r["path"]),
             extraction_confidence=tranche_confidence(cache),
-            notes="; ".join([head] + notes)))
-    return rows, stats
+            notes="")
+        if it_meta:
+            warnings.extend(apply_itemized(ft, crows, erows, sides, it, notes))
+            all_c.extend(crows)
+            all_e.extend(erows)
+            stats["itemized_filings"] += 1
+            stats["itemized_contrib_rows"] += len(crows)
+            stats["itemized_expend_rows"] += len(erows)
+            for side in ("contributions", "expenditures"):
+                stats["side_" + (sides.get(side) or "none")] += 1
+        ft.notes = "; ".join([head] + notes)
+        rows.append(ft)
+    return rows, all_c, all_e, stats, warnings
+
+
+# =====================================================================================
+# VISION ITEMIZED TRANCHE (2026-08-02, wave B2) — Schedule A/B donor + vendor lines
+# =====================================================================================
+# The totals tranche above answers "how much"; this one answers "FROM WHOM". Same caches,
+# same discipline, one more layer: `vision/<key>.json` now carries populated
+# `contributions` / `expenditures` lists (materialized by `make_itemized_caches.py`, which
+# is also where geometry becomes `pct:` and the wave stamp is applied).
+#
+# Discipline (SCHEMA.md 2/3/4/6 + the cardinal rules):
+#   * A WITHHELD side emits ZERO rows and leaves `itemized_*` / `reconciles_*` BLANK. A
+#     withheld side is NOT a zero: "we did not finish reading it" and "the filer spent
+#     nothing" are different facts and the CSV must not conflate them.
+#   * `stated_*` is NEVER recomputed from the rows. Where both exist, the delta is reported
+#     (`recon_delta_* = itemized - stated`, signed) and BOTH figures stay. A non-zero delta
+#     is the FILER's arithmetic, retained verbatim and named in `notes` — three of the
+#     pilot's 24 filings carry one (McAdams -0.02, Allen +89.00, Jensen +600.00), each
+#     traced to an internal inconsistency printed on the filing itself.
+#   * The reconciliation VERDICT is recomputed here mechanically (|delta| <= $0.01) and
+#     cross-checked against the transcriber's own recorded verdict; a disagreement is
+#     printed loudly at build time rather than silently resolved.
+#   * In-kind rows COUNT toward the printed total on this form (verified at the page:
+#     Noyce 2012 prints 12 in-kind $35.00 rows + $100.00 = the printed $520.00), so
+#     reconciliation sums ALL rows — this family is not one of the cash-only families.
+#   * `is_incremental=True` is STRUCTURAL here, not assumed: the form's Column A is headed
+#     "Total this Period" and Schedule A/B itemize that period. (Two filers put cumulative
+#     figures in Column A — CLAUDE.md finding 12 — and those filings say so in `notes`.)
+
+def _money(v):
+    """A verbatim transcribed amount -> float, via the SAME whitelisted repair the totals
+    tranche uses. Unparseable stays None (blank + needs_review), never guessed."""
+    s, _ = verbatim_money(v)
+    return float(s) if s else None
+
+
+def itemized_rows_for(cache, r, office, seat, eyear, fdate, rp, aliases, method):
+    """(ContribRow[], ExpendRow[], stats) for ONE filing's vision cache."""
+    it = (cache.get("_meta") or {}).get("itemized") or {}
+    sides = it.get("sides") or {}
+    crows, erows = [], []
+    for i, row in enumerate(cache.get("contributions") or [], 1):
+        amt = _money(row.get("amount"))
+        donor = (row.get("donor_raw") or "").strip()
+        cr = ContribRow(
+            candidate=r["candidate"], office=office, seat=seat, election_year=eyear,
+            filing_date=fdate, reporting_period=rp,
+            date=row.get("date", ""), donor_raw=donor,
+            donor_city=row.get("donor_city", ""), donor_state=row.get("donor_state", ""),
+            donor_district="",
+            amount=(money_str(amt) if amt is not None else ""),
+            in_kind=("True" if row.get("in_kind") else "False"),
+            is_incremental="True",
+            source_filing=r["path"], document_id=r["document_id"] or VL.cache_key(r["path"]),
+            line_no=str(row.get("line_no", i)),
+            extraction_confidence=(row.get("confidence") or "medium"),
+            extract_method=method,
+            needs_review=("1" if (amt is None or not donor or row.get("needs_review")) else "0"),
+            geometry=row.get("geometry", ""))
+        normalize_contrib(cr, r["candidate"], aliases)
+        crows.append(cr)
+    for i, row in enumerate(cache.get("expenditures") or [], 1):
+        amt = _money(row.get("amount"))
+        er = ExpendRow(
+            candidate=r["candidate"], office=office, seat=seat, election_year=eyear,
+            filing_date=fdate, reporting_period=rp,
+            date=row.get("date", ""), vendor_raw=(row.get("vendor_raw") or "").strip(),
+            purpose=row.get("purpose", ""),
+            amount=(money_str(amt) if amt is not None else ""),
+            in_kind=("True" if row.get("in_kind") else "False"),
+            is_incremental="True",
+            source_filing=r["path"], document_id=r["document_id"] or VL.cache_key(r["path"]),
+            line_no=str(row.get("line_no", i)),
+            extraction_confidence=(row.get("confidence") or "medium"),
+            extract_method=method,
+            needs_review=("1" if (amt is None or row.get("needs_review")) else "0"),
+            geometry=row.get("geometry", ""))
+        normalize_vendor(er)
+        erows.append(er)
+    return crows, erows, sides, it
+
+
+def apply_itemized(ft, crows, erows, sides, it, notes):
+    """Fill the itemized/reconciliation half of a vision FilingTotals row, in place.
+
+    Returns a list of build-time WARNINGS (verdict disagreements), never raising: a
+    disagreement between our arithmetic and the transcriber's recorded verdict is a thing
+    to SHOW, not to resolve silently."""
+    warn = []
+    recon = {k: ({"result": v} if isinstance(v, str) else (v or {}))
+             for k, v in (it.get("recon") or {}).items()}   # tolerate a bare-string verdict
+    self_funded = sum(float(c.amount) for c in crows
+                      if c.amount and c.donor_type in ("candidate-self", "loan"))
+    if self_funded:
+        ft.self_funded_amount = money_str(self_funded)
+    for side, rows, stated_attr, sum_attr, rec_attr, delta_attr, n_attr in (
+            ("contributions", crows, "stated_total_contributions", "itemized_contrib_sum",
+             "reconciles_contrib", "recon_delta_contrib", "n_contrib_rows"),
+            ("expenditures", erows, "stated_total_expenditures", "itemized_expend_sum",
+             "reconciles_expend", "recon_delta_expend", "n_expend_rows")):
+        state = sides.get(side, "")
+        if state == "withheld":
+            reason = (it.get("withheld_reason") or {}).get(side, "reason not recorded")
+            notes.append(f"{side} side WITHHELD (no rows emitted, no sum claimed): {reason}")
+            continue
+        if state != "transcribed":
+            continue
+        total = sum(float(x.amount) for x in rows if x.amount)
+        setattr(ft, n_attr, str(len(rows)))
+        blanks = sum(1 for x in rows if not x.amount)
+        if blanks:
+            notes.append(f"{blanks} {side} row(s) have an ILLEGIBLE amount — left blank and "
+                         f"EXCLUDED from the itemized sum, so this side is a floor")
+        stated = getattr(ft, stated_attr)
+        if not stated:
+            setattr(ft, sum_attr, money_str(total))
+            notes.append(f"{side}: itemized rows transcribed but the form states no total for "
+                         f"this side — reconciliation UNKNOWN, never assumed")
+            continue
+        # SIGN CONVENTION. A few filers attach a register/QuickBooks export that prints every
+        # amount NEGATIVE — accounting parentheses ("($745.00)") or a leading minus. SCHEMA
+        # reads those as negative and the rows keep the printed sign VERBATIM, so a signed sum
+        # lands at exactly -1x the form's printed (positive) total. Comparing signed against
+        # stated there manufactures a mismatch of twice the total out of a filing that is
+        # correct to the cent. So: when a side's amounts are uniformly non-positive AND their
+        # MAGNITUDE reconciles, reconcile on magnitude and say so loudly. Never applied to a
+        # mixed-sign side (a genuine refund/adjustment line stays a signed outlier).
+        amts = [float(x.amount) for x in rows if x.amount]
+        signflip = (bool(amts) and all(a <= 0 for a in amts) and any(a < 0 for a in amts)
+                    and abs(abs(total) - float(stated)) <= 0.01)
+        if signflip:
+            notes.append(f"{side}: this filing prints EVERY amount of this side as a NEGATIVE "
+                         f"(accounting parentheses / register export). Rows keep the printed "
+                         f"sign verbatim, so `itemized_{side[:6]}_sum` is negative; "
+                         f"reconciliation is on MAGNITUDE — |{money_str(total)}| = {stated}. A "
+                         f"consumer summing this side must take the absolute value")
+            total = -total
+        # `itemized_*` is written in the SAME orientation as `stated_*` so the pair is
+        # comparable and `reconciles_*` is self-consistent (validate_finance checks exactly
+        # that). The individual rows keep the printed negative VERBATIM; only this aggregate
+        # is stated positive, and the note above says so.
+        setattr(ft, sum_attr, money_str(total))
+        delta = round(total - float(stated), 2)
+        setattr(ft, delta_attr, money_str(delta))
+        setattr(ft, rec_attr, "True" if abs(delta) <= 0.01 else "False")
+        said = (recon.get(side) or {}).get("result", "")
+        mine = "exact" if abs(delta) <= 0.01 else "delta"
+        if said and said != mine:
+            warn.append(f"{ft.source_filing} {side}: transcriber said {said!r}, "
+                        f"arithmetic says {mine} (delta {money_str(delta)})")
+        if abs(delta) > 0.01:
+            detail = (recon.get(side) or {}).get("detail", "")
+            notes.append(f"{side} RECONCILIATION DELTA {money_str(delta)} (itemized {money_str(total)} "
+                         f"vs the form's printed {stated}) — the FILER's own arithmetic, retained "
+                         f"verbatim, never adjusted" + (f": {detail}" if detail else ""))
+    if it.get("page_subtotal_gates"):
+        notes.append("page-subtotal gate: " + str(it["page_subtotal_gates"]))
+    if it.get("notes"):
+        notes.append("itemizer: " + str(it["notes"]))
+    return warn
 
 
 def build():
@@ -415,19 +610,31 @@ def build():
                 d = row_to_dict(r)
                 w.writerow({k: d.get(k, "") for k in header})
 
-    # ---- ADDITIVE: the vision stated-totals tranche for the two non-structured eras.
-    # APPENDED AFTER the EasyVote-JSON rows (which are written first, untouched), so the
-    # 2024/2026 structured block of filing_totals.csv stays byte-identical.
+    # ---- ADDITIVE: the vision tranches for the two non-structured eras.
+    # APPENDED AFTER the EasyVote-JSON rows (which are built first, untouched) in ALL THREE
+    # CSVs, so the 2024/2026 structured block stays byte-identical row-for-row. Wave B2 adds
+    # the trailing optional `geometry` column (SCHEMA 2a) — a ONE-TIME, documented, additive
+    # header change; the EasyVote rows' own field values are unchanged.
     n_structured = len(filing_rows)
-    tranche_rows, tstats = build_totals_tranche()
+    n_structured_c, n_structured_e = len(crows), len(erows)
+    tranche_rows, t_crows, t_erows, tstats, twarn = build_totals_tranche()
     filing_rows = filing_rows + tranche_rows
+    crows = crows + t_crows
+    erows = erows + t_erows
 
-    write("contributions.csv", CONTRIB_HEADER, crows)
-    write("expenditures.csv", EXPEND_HEADER, erows)
+    geo = any(getattr(r, "geometry", "") for r in crows + erows)
+    write("contributions.csv", CONTRIB_HEADER + ([GEOMETRY_COL] if geo else []), crows)
+    write("expenditures.csv", EXPEND_HEADER + ([GEOMETRY_COL] if geo else []), erows)
     write("filing_totals.csv", TOTALS_HEADER, filing_rows)
-    print(f"contributions {len(crows)} | expenditures {len(erows)} | filings {len(filing_rows)}"
-          f" (EasyVote-JSON structured {n_structured} + vision totals tranche {len(tranche_rows)})")
-    print("  vision totals tranche: " + " | ".join(f"{k}={v}" for k, v in sorted(tstats.items())))
+    print(f"contributions {len(crows)} (EasyVote {n_structured_c} + vision-itemized {len(t_crows)})"
+          f" | expenditures {len(erows)} (EasyVote {n_structured_e} + vision-itemized {len(t_erows)})"
+          f" | filings {len(filing_rows)}"
+          f" (EasyVote-JSON structured {n_structured} + vision tranche {len(tranche_rows)})")
+    print("  vision tranche: " + " | ".join(f"{k}={v}" for k, v in sorted(tstats.items())))
+    if twarn:
+        print(f"  !! RECONCILIATION VERDICT DISAGREEMENTS ({len(twarn)}) — transcriber vs arithmetic:")
+        for w in twarn:
+            print("     " + w)
     print(f"itemized-only filings (no documentsearch meta): {len(set(skipped_no_meta))}")
     print(f"excluded (no downloaded PDF, e.g. Training Candidate): {len(skipped_no_pdf)} -> {skipped_no_pdf}")
     tot_c = sum(float(r.amount) for r in crows if r.amount)

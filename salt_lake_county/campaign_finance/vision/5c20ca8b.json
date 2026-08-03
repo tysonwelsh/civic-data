@@ -1,6 +1,119 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-07",
+   "donor_raw": "Brent Cardall - Loan",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.63,26.25,83.26,1.63@p3",
+   "note": "date written '3-7-06'. Amount cell printed '2,000 - Loan'; the trailing '- Loan' is a label, so the figure is 2,000 with no cents. Address cell left EMPTY by the filer (not redacted); Occupation/Employer reads 'Regional Administrator / State of Utah'. This is a candidate self-loan."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-20",
+   "donor_raw": "Contributions - under $50 (3)",
+   "amount": "81.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.63,30.22,83.26,1.54@p3",
+   "note": "date written '3-20-06'. Aggregate row for three sub-$50 contributions, not a named donor. Address and Occupation cells EMPTY."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-27",
+   "donor_raw": "In Kind donation / Sports Addiction Magazine",
+   "donor_city": "Riverton",
+   "donor_state": "UT",
+   "amount": "$2,000",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;city=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.63,34.49,83.26,1.37@p3",
+   "note": "date written '3-27-06'. Name cell carries 'In Kind donation' on the upper line and 'Sports Addiction Magazine' on the lower line -> in_kind true. Address cell printed a PO box plus 'Riverton, UT 84065'; the PO box was discarded at read time and only city/state recorded. Occupation/Employer cell reads 'Add' (the filer's shorthand for Ad)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-07",
+   "vendor_raw": "County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "590.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.42,28.84,78.23,1.16@p4",
+   "note": "date written '3-7-06'"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-17",
+   "vendor_raw": "Press Link",
+   "purpose": "Brochures",
+   "amount": "410.41",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.42,32.98,78.23,1.25@p4",
+   "note": "date written '3-17-06'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-27",
+   "vendor_raw": "Sports Addiction Magazine",
+   "purpose": "Subscription",
+   "amount": "90.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.42,36.80,78.23,1.65@p4",
+   "note": "date written '3-27-06'. Leading digit is cramped (9 vs 4); settled by the schedule total arithmetic, which requires 90.00."
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-20",
+   "vendor_raw": "Contributions - Under $50 (3)",
+   "purpose": "web page, cards, flyers",
+   "amount": "81.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.42,40.94,78.23,1.47@p4",
+   "note": "date written '3-20-06' and printed OUT OF DATE ORDER (after the 3-27 row). The RECIPIENT cell reads 'Contributions - Under $50 (3)' - the filer reused the Schedule A aggregate label on the expenditure side; kept verbatim. Re-read at 800 dpi."
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-27",
+   "vendor_raw": "In Kind / Sports Addiction Magazine",
+   "purpose": "Ad",
+   "amount": "2,000",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.42,44.90,78.23,1.29@p4",
+   "note": "date written '3-27-06'. 'In Kind' written above the recipient name -> in_kind true. Whole dollars, no cents printed."
+  }
+ ],
  "total_contributions": "4,081.55",
  "total_expenditures": "3,171.83",
  "beginning_balance": "0",
@@ -49,6 +162,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The April 5 box is checked and the word 'Amended' is hand-written next to it; the amendment 'Yes' box is checked with the date-of-report line left blank. The clerk hand-wrote 'Amended' across the header stamp. Line 3 Column A is a slashed Zero. This amendment restates the 2006 April filing (key ebf35e15) \u2014 contributions 2,081.56 -> 4,081.55, expenditures 3,171.84 -> 3,171.83, beginning balance 2,000 -> 0 \u2014 while the ending balance stays 909.72; that is the form's own inconsistency (4,081.55 - 3,171.83 = 909.72, so the restated figures are internally consistent, but they contradict the original filing). Decimal separators confirmed as points at 250 dpi."
+  "notes": "The April 5 box is checked and the word 'Amended' is hand-written next to it; the amendment 'Yes' box is checked with the date-of-report line left blank. The clerk hand-wrote 'Amended' across the header stamp. Line 3 Column A is a slashed Zero. This amendment restates the 2006 April filing (key ebf35e15) \u2014 contributions 2,081.56 -> 4,081.55, expenditures 3,171.84 -> 3,171.83, beginning balance 2,000 -> 0 \u2014 while the ending balance stays 909.72; that is the form's own inconsistency (4,081.55 - 3,171.83 = 909.72, so the restated figures are internally consistent, but they contradict the original filing). Decimal separators confirmed as points at 250 dpi.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,081.55",
+     "itemized": "4081.55",
+     "result": "exact",
+     "detail": "exact (4081.55 = 4081.55); 2,000 + 81.55 + 2,000 = the printed TOTAL CONTRIBUTIONS RECEIVED 4,081.55"
+    },
+    "expenditures": {
+     "stated": "3,171.83",
+     "itemized": "3171.83",
+     "result": "exact",
+     "detail": "exact (3171.83 = 3171.83); 590.28 + 410.41 + 90.00 + 81.14 + 2,000 = the printed TOTAL EXPENDITUTRES MADE 3,171.83"
+    }
+   },
+   "page_subtotal_gates": "NO page-subtotal gate: the filer left 'SUBTOTAL FOR THIS PAGE' BLANK on both p3 and p4. The gate that fired on each side is the schedule's own printed TOTAL line (A 4,081.55, B 3,171.83), matched exactly. That arithmetic also settled the Schedule B row-3 cents digit (90.00, not 40.00): 3171.83 - 590.28 - 410.41 - 81.14 - 2000 = 90.00.",
+   "escalations": 1,
+   "escalation_note": "p4 Schedule B row-4 recipient cell at 800 dpi to confirm it reads 'Contributions - Under $50 (3)'",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4 pages, handwritten on the 2006 form: p1 cover (Brent Cardall, Republican, Office Sought 'Sheriff'; the APRIL 5 interim box is checked and 'Amended' is written beside it; 'Is this report an amendment? Yes' is checked, date-of-report line left blank; signed 4/13/06; stamped COPY / RECEIVED APR 13 2006 with 'Amended' handwritten on the stamp). p2 Summary Page: line1 4,081.55 (Col B 4,081.55), line2 3,171.83 (Col B 3,171.83), line3 a slashed-zero glyph, line4 4,081.55, line5 4,081.55, line6 3,171.83, line7 909.72. The balance chain closes (0+4081.55=4081.55; 4081.55-3171.83=909.72). p3 Schedule A (3 rows), p4 Schedule B (5 rows). The Page/Last-Name/Date-of-Report header boxes on pp.3-4 are BLANK. Both schedules use aggregate 'Contributions - Under $50 (3)' rows rather than named donors for the small money, and the SAME 'Sports Addiction Magazine' in-kind $2,000 appears on BOTH schedules (an in-kind ad received and expended) - that is the form's own treatment, not a duplicate."
+  }
  }
 }

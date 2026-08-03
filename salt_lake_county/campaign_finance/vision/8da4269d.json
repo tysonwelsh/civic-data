@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-01",
+   "donor_raw": "PAUL Recanzone",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,24.00,87.80,3.75@p3",
+   "note": "Amount printed '2,000' - a 3-digit trailing group, i.e. a thousands separator with no cents printed. Complete Mailing Address cell COUNTY-REDACTED: redacted. Occupation/Employer cell reads 'Project Manager /' followed by an employer string whose glyphs are not confidently legible (reads roughly 'OHDIVEY'); it is not a contract field and is left out of the row rather than guessed."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "2000",
  "total_expenditures": "483.51",
@@ -50,6 +64,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NO interim / year-end / final box is checked on this form - only the amendment 'Yes' box, and the 'date of report' blank next to it was left EMPTY, so report_type is an honest empty string (the clerk listing calls it 'Amendment to April'). Two office fields agree: top-row Office 'County Council 6', Office Sought 'County Council' with District Number '6'. Signed 4/5/12; clerk RECEIVED stamp APR 05 2012. Lines 1, 4 and 5 are written as a bare '2000' with no cents; Line 3 is a hand-drawn zero. Face arithmetic is consistent."
+  "notes": "NO interim / year-end / final box is checked on this form - only the amendment 'Yes' box, and the 'date of report' blank next to it was left EMPTY, so report_type is an honest empty string (the clerk listing calls it 'Amendment to April'). Two office fields agree: top-row Office 'County Council 6', Office Sought 'County Council' with District Number '6'. Signed 4/5/12; clerk RECEIVED stamp APR 05 2012. Lines 1, 4 and 5 are written as a bare '2000' with no cents; Line 3 is a hand-drawn zero. Face arithmetic is consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4 (present but entirely unfilled)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2000",
+     "itemized": "2000",
+     "result": "exact",
+     "detail": "exact (2000 = 2000); the single Schedule A row carries the whole stated total"
+    },
+    "expenditures": {
+     "stated": "483.51",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "The Schedule B page EXISTS but is entirely unfilled - no rows, no subtotal, no total, and even the Page / Last Name / Date of Report header box is blank - while the Summary Page states 483.51 (Line 2 and Line 6 both). There is nothing on the page to transcribe, so ZERO rows are emitted and NO itemized sum is claimed: writing 0.00 here would assert the candidate spent nothing, which the form itself contradicts. This is an unfiled itemization, not a zero."
+    }
+   },
+   "page_subtotal_gates": "p3 (Sch A): the SUBTOTAL and TOTAL cells are both left EMPTY by the filer, so no gate can fire on the page; the single row's 2,000 matches the Summary Page's stated 2000. p4 (Sch B): blank page, no printed subtotal - no gate possible.",
+   "escalations": 1,
+   "escalation_note": "600 dpi crop of the p3 contributor/address cells to confirm the address block is a county redaction bar rather than writing.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FOUR pages: p1 cover, p2 Summary Page, p3 Schedule A (one row, subtotal/total cells left blank), p4 Schedule B (COMPLETELY BLANK - see recon; this is the notable feature of the filing). Cover: Paul Recanzone, County Council 6, Democrat; NO 'Type of Report' interim/year-end/final box is checked - only the amendment question is answered 'X Yes' with the date-of-report line left blank; signed 4/5/12, clerk-stamped APR 05 2012. The single contribution is from the candidate himself; its Complete Mailing Address cell is COUNTY-REDACTED (black box) and the cover's address/phone/fax/email blocks are redacted too."
+  }
  }
 }

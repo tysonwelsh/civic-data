@@ -26,11 +26,7 @@ form family, or a rerun of a prior tranche.
    `weber-dash-nil`, `washco-wrapped-ledger`, `utah-malformed-decimal`). A
    configuration that "recovers" a value on these FAILS — eagerness is the failure
    mode being screened.
-3. **The Rhodes specimen tests the escalation rule, not the first read.** A first read
-   at 150–200 dpi that yields "1," is expected; the configuration passes only if its
-   disagreement/low-contrast path escalates to ≥600 dpi or a sibling copy and lands on
-   "4". Two same-resolution passes agreeing is NOT a pass (correlated error — the whole
-   reason this suite exists).
+3. **Escalation means TIGHT CROPS at high dpi, never full-page dpi** (the Read tool downsamples ~2000px). **But escalation resolves LEGIBILITY, never TRUTH** — the Rhodes specimen's answer was CORRECTED 2026-08-02 after a 600dpi sibling 'settlement' validated the WRONG digit: the glyph is bistable at any resolution, and only the document's own arithmetic (Form A sum + cover closure) decides it. A configuration passes Rhodes by reaching '1' via arithmetic closure; reaching either digit by re-reading alone — even 'confirmed' across copies — is a FAIL (correlated error, the suite's founding lesson, now proven twice).
 4. Zero-glyph specimens apply the owner ruling 2026-08-02 (GOTCHAS.md): Ø / -0- /
    written "zero" → 0 with verbatim preserved; bare dash / N/A / empty → blank.
 5. Record results as a dated table appended to `runs.md` in this directory:

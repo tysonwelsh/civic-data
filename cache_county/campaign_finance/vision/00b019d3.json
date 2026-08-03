@@ -64,8 +64,8 @@
      "c": "medium"
     },
     "cumulative": {
-     "v": "4,694.09",
-     "c": "medium"
+     "v": "1,694.09",
+     "c": "high"
     }
    },
    "contrib_50_or_less": {
@@ -119,5 +119,5 @@
   "evidence": "page 1 'Name of Office' reads 'Cache County Council'; 'Office District' reads 'Northeast'; 'Political Party' reads 'Democratic'",
   "confidence": "high"
  },
- "notes": "ADJUDICATES the flagged Shannon Rhodes 2018 false-positive risk (see the October copy). This is the same signed report re-faxed on 2018-12-05 and filed as the 'final'; the figures are identical, including the same internal 1,694.09/4,694.09 and 1,799.01/1,799.09 disagreements, retained verbatim."
+ "notes": "ADJUDICATES the flagged Shannon Rhodes 2018 false-positive risk (see the October copy). This is the same signed report re-faxed on 2018-12-05 and filed as the 'final'; the figures are identical, including the same internal 1,694.09/4,694.09 and 1,799.01/1,799.09 disagreements, retained verbatim. ADJUDICATED 2026-08-02 (coordinator, B2 pre-flight dispute): the leading digit is 1, not 4 — PROVEN by arithmetic closure, not glyph reading: Form A's 7 itemized rows sum to exactly 1,694.09 (100+100+100+50+202.50+550+591.59, coordinator page read), and the cover closes only under 1 (1,694.09+105.00=1,799.09=cumulative expenses; balance 0 — under 4,694.09 the balance would be 3,000, contradicting the printed 0). The earlier 600dpi sibling-copy 'settlement' on 4 was the eagerness failure occurring inside the escalation path itself."
 }

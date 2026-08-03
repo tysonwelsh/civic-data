@@ -1,6 +1,152 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-02-28",
+   "donor_raw": "Personal loan To campaign Reid Demman",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,22.60,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on this row - the filer left it blank (NOT a redaction), so no city/state exists; the name cell is written across two lines, 'Personal loan To campaign' with 'Reid Demman' squeezed under it; the Occupation cell reads 'Self'. Cents printed as a raised superscript over a rule ('500' + superscript 00) - transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-02",
+   "donor_raw": "Reid Demman Personal loan to campaign",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,27.00,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on this row - the filer left it blank (NOT a redaction), so no city/state exists; name cell written across two lines; Occupation 'Self'. Superscript cents"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-10",
+   "donor_raw": "Vaughn Butler Campaign",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,30.85,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on this row - the filer left it blank (NOT a redaction), so no city/state exists; Occupation cell reads 'Co. Surveyor'. Superscript cents; amount printed without a thousands separator - kept verbatim"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Aggregate Donation $50 or less",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,35.00,84.00,3.80@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on this row - the filer left it blank (NOT a redaction), so no city/state exists; AGGREGATE line - the Name cell carries the label 'Aggregate Donation $50 or less' rather than a donor name, and the Address and Occupation cells each hold a single DASH (a nil mark, which per the zero-glyph rule stays blank, not 0). Date printed 3/31/06 and is parseable, so it is kept. Superscript cents"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-10",
+   "vendor_raw": "SL Co. Clerk Sherrie Swensen",
+   "purpose": "Campaign Filing Fee",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,26.45,80.00,3.60@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-10",
+   "vendor_raw": "Varsity Printing",
+   "purpose": "Printing literature",
+   "amount": "360.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,30.10,80.00,3.60@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-24",
+   "vendor_raw": "Jay Lynn Studios",
+   "purpose": "Campaign Pictures",
+   "amount": "37.26",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,33.95,80.00,3.60@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-03-24",
+   "vendor_raw": "Jay Lynn Studios",
+   "purpose": "Campaign Pictures",
+   "amount": "191.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,37.95,80.00,3.60@p4",
+   "note": "the Purpose cell holds DITTO MARKS ('\" \"'); resolved to the row above, 'Campaign Pictures', and the resolution is recorded here rather than being silently expanded"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-03-27",
+   "vendor_raw": "Adcentives West",
+   "purpose": "Badges",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,42.10,80.00,3.60@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-03-27",
+   "vendor_raw": "FedEx Kinko's",
+   "purpose": "copy service",
+   "amount": "14.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,46.10,80.00,3.60@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-03-31",
+   "vendor_raw": "US Postmaster",
+   "purpose": "P.O. Box",
+   "amount": "72.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,50.10,80.00,3.60@p4",
+   "note": "'P.O. Box' here is the PURPOSE of the expenditure (renting a box), not an address"
+  }
+ ],
  "total_contributions": "$2750.00",
  "total_expenditures": "$1351.41",
  "beginning_balance": "0",
@@ -49,6 +195,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Party is written simply as 'R'. The District Number box holds the words 'County Wide' rather than a number - recorded verbatim. Every money cell writes the cents as a raised superscript over a rule ($2750 with superscript 00, $1351 with superscript 41), transcribed here with a decimal point. Line 3 is a hand-drawn slashed zero. The form's arithmetic is exact (2750.00 - 1351.41 = 1398.59). Signed 04/03/06, clerk-stamped RECEIVED APR 05 2006; Summary Page header 'Demman, 4/5/06, page 2 of 4'."
+  "notes": "Party is written simply as 'R'. The District Number box holds the words 'County Wide' rather than a number - recorded verbatim. Every money cell writes the cents as a raised superscript over a rule ($2750 with superscript 00, $1351 with superscript 41), transcribed here with a decimal point. Line 3 is a hand-drawn slashed zero. The form's arithmetic is exact (2750.00 - 1351.41 = 1398.59). Signed 04/03/06, clerk-stamped RECEIVED APR 05 2006; Summary Page header 'Demman, 4/5/06, page 2 of 4'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2750.00",
+     "itemized": "2,750.00",
+     "result": "exact",
+     "detail": "exact (2,750.00 = 2,750.00); 4 rows sum to the handwritten SUBTOTAL FOR THIS PAGE $2750 and TOTAL CONTRIBUTIONS RECEIVED $2750, matching Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "$1351.41",
+     "itemized": "1,351.41",
+     "result": "exact",
+     "detail": "exact (1,351.41 = 1,351.41); 7 rows sum to the handwritten SUBTOTAL $1351.41 and TOTAL $1351.41"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2,750.00 = printed SUBTOTAL 2750 = printed TOTAL 2750 (fires); p4 rows 1,351.41 = printed SUBTOTAL 1351.41 = printed TOTAL 1351.41 (fires). Both pages are single-page schedules ('Page 3 of 4', 'Page 4 of 4') so subtotal and total coincide. The p4 gate is what fixes the superscript-cents readings 574.92 / 360.84 / 37.26 / 191.88 / 14.51.",
+   "escalations": 0,
+   "escalation_note": "none needed - a clear, well-spaced handwriting and only 11 rows; both gates closed to the cent on the first 200 dpi read.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page handwritten filing (Reid Demman, Surveyor, April 5 2006 interim; schedules hand-dated 4/5/06 and paginated 3 of 4 / 4 of 4). TWO of the four contributions are the candidate's OWN personal loans to his campaign (Occupation 'Self'), and a third is from another candidate's committee ('Vaughn Butler Campaign', Occupation 'Co. Surveyor'). The fourth is an AGGREGATE line labelled 'Aggregate Donation $50 or less' with a single DASH in the address and occupation cells - a bare dash is a nil mark, so those stay BLANK, never 0. The address column is otherwise empty (filer omission, not redaction), so no donor city/state exists here. This filer writes cents as a RAISED SUPERSCRIPT over a rule throughout both schedules; every amount is transcribed with a decimal point and the convention is named per row. Schedule B row 4 uses DITTO MARKS in the Purpose cell, resolved to the row above and recorded as such."
+  }
  }
 }

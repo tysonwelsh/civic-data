@@ -248,7 +248,7 @@ and adding one means editing shared code, which is outside this module's write s
    2026-08-02).** A slashed zero `Ø`, `-0-`, or the written word "zero" IS the filer writing
    the digit 0 and promotes to 0.00 (verbatim glyph kept in the cache): **Kahler 2026-03**'s
    Table A total, printed as the word *"zero"*, now yields `stated_total_contributions=0.00`
-   (Table B prints NO total — expenditures/balance stay blank). Everything else stands: 3
+   (CORRECTED 2026-08-02: Table B CONTINUES to page 3, whose TOTAL row also prints 'zero' — found independently by both pilot contenders + the coordinator's page read; stated_total_expenditures=0.00 too. Only the balance stays blank — nothing states it). Everything else stands: 3
    filings state no contribution total and 3 no expenditure total, each with its reason in
    `notes` — **Hewlett 2024-06** writes `N/A` in all three cells; **Woodard 2026-06** puts a
    dash in the expenditure cell; **Jenkins 2020-06** and **Farrell 2020-06** fill only some

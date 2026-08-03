@@ -1,6 +1,167 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-11-01",
+   "donor_raw": "Utah Rep. Party",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,28.35,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-01",
+   "donor_raw": "G.",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,33.75,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; donor NAME is county-REDACTED down to a single leading initial - the remainder of the name was removed. The redaction reading is evidenced by the pattern: every INDIVIDUAL donor on this exhibit is reduced to one initial while every ORGANISATIONAL name survives intact, and the address column is blanked on the same rows. Verified in a 400 dpi tight crop of the name+address columns. The name is NOT completed."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-01",
+   "donor_raw": "C.",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,38.25,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; donor NAME is county-REDACTED down to a single leading initial - the remainder of the name was removed. The redaction reading is evidenced by the pattern: every INDIVIDUAL donor on this exhibit is reduced to one initial while every ORGANISATIONAL name survives intact, and the address column is blanked on the same rows. Verified in a 400 dpi tight crop of the name+address columns. The name is NOT completed."
+  },
+  {
+   "line_no": 4,
+   "date": "2006-11-01",
+   "donor_raw": "F.",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,43.55,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; donor NAME is county-REDACTED down to a single leading initial - the remainder of the name was removed. The redaction reading is evidenced by the pattern: every INDIVIDUAL donor on this exhibit is reduced to one initial while every ORGANISATIONAL name survives intact, and the address column is blanked on the same rows. Verified in a 400 dpi tight crop of the name+address columns. The name is NOT completed."
+  },
+  {
+   "line_no": 5,
+   "date": "2006-11-01",
+   "donor_raw": "A.",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,49.65,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; donor NAME is county-REDACTED down to a single leading initial - the remainder of the name was removed. The redaction reading is evidenced by the pattern: every INDIVIDUAL donor on this exhibit is reduced to one initial while every ORGANISATIONAL name survives intact, and the address column is blanked on the same rows. Verified in a 400 dpi tight crop of the name+address columns. The name is NOT completed."
+  },
+  {
+   "line_no": 6,
+   "date": "2006-11-02",
+   "donor_raw": "S.L. Co. Rep. Party",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,54.95,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; amount printed WITHOUT a thousands separator ('$1000.00') - kept verbatim"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-11-02",
+   "donor_raw": "V.",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,60.05,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted; donor NAME is county-REDACTED down to a single leading initial - the remainder of the name was removed. The redaction reading is evidenced by the pattern: every INDIVIDUAL donor on this exhibit is reduced to one initial while every ORGANISATIONAL name survives intact, and the address column is blanked on the same rows. Verified in a 400 dpi tight crop of the name+address columns. The name is NOT completed."
+  },
+  {
+   "line_no": 8,
+   "date": "2006-11-02",
+   "donor_raw": "Atkinson Consulting",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,66.15,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-11-03",
+   "donor_raw": "Valeo Inc.",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,70.95,82.00,3.50@p5",
+   "note": "Exhibit A's ADDRESS column is county-REDACTED (whited out; only stray glyph fragments survive at the left edge), so no city/state exists to record: redacted"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-11-01",
+   "vendor_raw": "Steve Regan Company",
+   "purpose": "Sign Posts/Hammer",
+   "amount": "77.67",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,20.65,82.00,3.50@p6",
+   "note": "Exhibit B prints NO address column values (blank for every row)"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-11-02",
+   "vendor_raw": "Imaginos",
+   "purpose": "Brochures/Fold",
+   "amount": "1,284.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,25.65,82.00,3.50@p6",
+   "note": "Exhibit B prints NO address column values (blank for every row)"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-11-02",
+   "vendor_raw": "S.L. Mail & Print",
+   "purpose": "Tabbing/Mailing",
+   "amount": "3,420.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,31.15,82.00,3.50@p6",
+   "note": "Exhibit B prints NO address column values (blank for every row)"
+  }
+ ],
  "total_contributions": "$3,355.00",
  "total_expenditures": "$4,782.65",
  "beginning_balance": "$1,621.34",
@@ -49,6 +210,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Neither amendment box (Yes/No) is checked -> is_amendment ''. Handwritten '$' glued to the digits throughout - kept verbatim. Line 4 is written '$3355.00' (no comma) while Line 1 Col A is '$3,355.00' - both kept as written. Summary header: page 2 of 6, WILDE, 1-31-07. RECEIVED stamp JAN 31 2007."
+  "notes": "Neither amendment box (Yes/No) is checked -> is_amendment ''. Handwritten '$' glued to the digits throughout - kept verbatim. Line 4 is written '$3355.00' (no comma) while Line 1 Col A is '$3,355.00' - both kept as written. Summary header: page 2 of 6, WILDE, 1-31-07. RECEIVED stamp JAN 31 2007.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3,5",
+   "itemized_pages_B": "4,6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3,355.00",
+     "itemized": "3,355.00",
+     "result": "exact",
+     "detail": "exact (3,355.00 = 3,355.00); Exhibit A's 9 rows sum to the handwritten 'TOTAL CONTRIBUTIONS RECEIVED $3,355.00' on the p3 Schedule A cover sheet, which equals Summary Page line 1 Column A. The total glyph was re-read in a 600 dpi tight crop."
+    },
+    "expenditures": {
+     "stated": "$4,782.65",
+     "itemized": "4,782.72",
+     "result": "delta",
+     "detail": "DELTA +0.07 (rows 4,782.72 vs stated 4,782.65). Both figures retained verbatim; NOTHING was adjusted. The three Exhibit B amounts were re-read in a 600 dpi tight crop and are unambiguous ($77.67 + $1,284.28 + $3,420.77 = $4,782.72), and the handwritten total was re-read in its own 600 dpi crop and unambiguously reads '$4,782.65'. The seven cents is the FILER's arithmetic error, carried through to Summary Page line 2 Column A, which prints the same $4,782.65."
+    }
+   },
+   "page_subtotal_gates": "The on-form 'SUBTOTAL FOR THIS PAGE' cells on p3 and p4 are EMPTY (both on-form schedules are blank and hand-marked 'SEE EXHIBIT \"A\"/\"B\" ATTACHED'); only the TOTAL cells are filled. Gate therefore applied at the schedule-total level: Schedule A GATES exactly (Exhibit A rows 3,355.00 = handwritten total 3,355.00); Schedule B DOES NOT GATE - Exhibit B rows 4,782.72 vs handwritten total 4,782.65, a 7c filer discrepancy that survived escalation on both sides of the comparison.",
+   "escalations": 3,
+   "escalation_note": "600 dpi tight cell crops x3: (1) the Exhibit B amount column, to test whether a mis-read digit explained the 7c gap - it did not, all three amounts are crisp; (2) the p4 handwritten TOTAL EXPENDITUTRES MADE cell - unambiguously '$4,782.65'; (3) the p3 handwritten TOTAL CONTRIBUTIONS RECEIVED cell - '$3,355.00'. Plus a 400 dpi crop of Exhibit A's name+address columns to establish that the one-initial donor names are a redaction and not the printed text.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "6-page filing (David Wilde, Salt Lake County Council District No. 3, year-end 1-31-07): p1 cover, p2 Summary Page, p3 on-form Schedule A blank + 'SEE EXHIBIT \"A\" ATTACHED' with only the TOTAL filled ($3,355.00), p4 on-form Schedule B blank + 'SEE EXHIBIT \"B\" ATTACHED' with only the TOTAL filled ($4,782.65), p5 = EXHIBIT A (typed letterhead list, 'CONTRIBUTIONS / 11/1/06 - FINAL', hand-paginated 'PAGE 5 of 6'), p6 = EXHIBIT B ('EXPENDITURES / 11/1/06 - FINAL', 'PAGE 6 of 6'). The itemized rows live on pp.5-6, not on the county form. PRIVACY/redaction: on Exhibit A the ADDRESS column is whited out and the five INDIVIDUAL donor names are reduced to a single leading initial ('G.', 'C.', 'F.', 'A.', 'V.') while the four organisational names survive in full - those five rows are emitted at confidence=low with needs_review=1 and are NEVER completed to a plausible name. THE EXPENDITURE SIDE DOES NOT RECONCILE: rows total 4,782.72 against a printed 4,782.65. Escalation at 600 dpi on both the rows and the total left the 7c gap standing, so it is recorded as filer arithmetic with both figures named - no row was adjusted to close it."
+  }
  }
 }

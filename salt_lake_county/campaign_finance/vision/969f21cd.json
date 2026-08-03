@@ -1,6 +1,34 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-16",
+   "donor_raw": "E. Dana Peck",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=blank-in-source",
+   "verified": 1,
+   "geometry": "pct:5.00,22.74,74.00,4.07@p3",
+   "note": "amount cell is written on two lines: '(Loan)' above '5,000.00' - a candidate SELF-LOAN, so the label is kept here and the amount recorded as printed. Occupation/Employer cell reads 'Self'. The Complete Mailing Address cell is EMPTY (the filer never filled it); a bank statement bound in at p5 does show a street address, but geography was deliberately NOT imported from it - donor_city/donor_state stay blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Office of Sherrie Swensen",
+   "purpose": "Filing Fees",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.00,25.45,72.00,4.03@p4",
+   "note": "date printed '3-1?-06': the DAY's second digit is written over another digit and is not resolvable even in a 600 dpi cell crop (reads as a 7 struck over a 6, or vice versa). Left BLANK rather than guessed. The America First statement bound in at p5 shows the official check to the Office of Sherrie Swensen posting 03/16/2006, but that is a different document and was NOT used to fill this cell"
+  }
+ ],
  "total_contributions": "5,000.00",
  "total_expenditures": "574.92",
  "beginning_balance": "0",
@@ -47,6 +75,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'April/Dissolution', but the FINAL REPORT box on the form is NOT checked \u2014 only the April 5 interim box is, and the filing shows a $4,425.08 closing balance rather than a zeroed account. Recorded as the form reads. Column B is blank on both lines 1 and 2. Line 3 Column A is a drawn zero. Neither amendment box is checked. Form arithmetic checks out (5,000.00 - 574.92 = 4,425.08). Stamped COPY / RECEIVED APR 04 2006."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this 'April/Dissolution', but the FINAL REPORT box on the form is NOT checked \u2014 only the April 5 interim box is, and the filing shows a $4,425.08 closing balance rather than a zeroed account. Recorded as the form reads. Column B is blank on both lines 1 and 2. Line 3 Column A is a drawn zero. Neither amendment box is checked. Form arithmetic checks out (5,000.00 - 574.92 = 4,425.08). Stamped COPY / RECEIVED APR 04 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,000.00",
+     "itemized": "5000.00",
+     "result": "exact",
+     "detail": "exact (5000.00 = 5,000.00). One row; equals the form's own printed TOTAL CONTRIBUTIONS RECEIVED."
+    },
+    "expenditures": {
+     "stated": "574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92). One row; equals the form's own printed TOTAL EXPENDITUTRES MADE, and the p5 bank statement independently shows a 574.92 official check."
+    }
+   },
+   "page_subtotal_gates": "The 'SUBTOTAL FOR THIS PAGE' cell is EMPTY on both p3 and p4 (the filer wrote only the grand TOTAL row), so no page-subtotal gate exists. Both TOTAL rows gate exactly: 5,000.00 and 574.92.",
+   "escalations": 2,
+   "escalation_note": "600 dpi cell crop of the p4 expenditure date (the overwritten day digit did NOT resolve, so the date was left blank); one mis-aimed crop preceded it.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Four-page handwritten 2006 form plus a fifth page that is an AMERICA FIRST CREDIT UNION bank statement, not a schedule - it shows a 5,000.00 share transfer in and a 574.92 official check out over 03/16-04/01/2006, corroborating both totals. The whole filing is a single self-loan in and a single filing fee out. The Complete Mailing Address column is empty on the one Schedule A row. The p4 'Page' box has a struck-out digit rewritten as 4."
+  }
  }
 }

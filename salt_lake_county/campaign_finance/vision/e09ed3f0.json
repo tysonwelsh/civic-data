@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "A no-activity period: lines 1, 2, 4 and 6 Column A are all a hand-drawn plain zero (open circle), recorded as 0, and lines 3, 5 and 7 all carry the same balance. Column B repeats the June aggregates unchanged. Neither amendment box is checked. Clerk RECEIVED stamp SEP 15 2014, signed Sept. 13, 2014."
+  "notes": "A no-activity period: lines 1, 2, 4 and 6 Column A are all a hand-drawn plain zero (open circle), recorded as 0, and lines 3, 5 and 7 all carry the same balance. Column B repeats the June aggregates unchanged. Neither amendment box is checked. Clerk RECEIVED stamp SEP 15 2014, signed Sept. 13, 2014.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact: Schedule A (p3) is printed with 16 ruled rows and ALL of them are empty; its SUBTOTAL FOR THIS PAGE reads 0. Matches stated_c 0 (Summary Page line 1 Column A). Note the same page's TOTAL CONTRIBUTIONS RECEIVED line instead carries $38,603.50, which is the AGGREGATE-to-date figure (it equals the Summary Page's Column B, not Column A) - not a period total and not summed here."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact: Schedule B (p4) is printed and entirely empty; its SUBTOTAL FOR THIS PAGE reads 0. Matches stated_e 0. Its TOTAL EXPENDITURES MADE line carries $17,806.30, again the aggregate-to-date figure from Column B."
+    }
+   },
+   "page_subtotal_gates": "p3 rows (0) sum to 0 = printed SUBTOTAL FOR THIS PAGE 0 (GATE PASSES); p4 rows (0) sum to 0 = printed SUBTOTAL 0 (GATE PASSES). The TOTAL lines on both pages are deliberately NOT used as gates - the filer put Column-B aggregates there.",
+   "escalations": 0,
+   "escalation_note": "Both schedule pages were additionally pixel-scanned for ink between the rules to rule out faint handwriting; the only marks in the table bodies are the printed rules themselves.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "September 15, 2014 interim (that box is checked; amendment = No), Steven L. DeBry, County Council #5. ZERO itemized lines on either schedule - a real zero-activity period, not an unrecovered itemization: Column A of the Summary Page is 0 on lines 1, 2, 4 and 6, and both schedules' SUBTOTAL cells read 0. This filer is an instance of the documented SLCo pattern where the Schedule TOTAL line and Summary Column B carry the CUMULATIVE campaign-to-date figures ($38,603.50 raised / $17,806.30 spent) while Column A carries the period figures (0/0); the two are not comparable and nothing was summed from the aggregate column. The cover page's street address, phone, fax and email fields are blacked out by the county."
+  }
  }
 }

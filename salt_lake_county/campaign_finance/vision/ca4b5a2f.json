@@ -47,6 +47,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NO interim/year-end/final box is checked at all - only the amendment question is answered ('Yes', amending the April 7th report), so report_type is recorded as empty rather than invented; the clerk listing supplies 'Amendment to April'. Column B is entirely BLANK on both Lines 1 and 2 (recorded as empty strings, not zeros). Line 3 is a hand-drawn slashed zero. Several Column A figures are written over earlier digits - Line 5 in particular is heavily overwritten but resolves to 1592.20 at 250 dpi, which is also what Line 4 says. This amendment CORRECTS the original April filing (key 0bc814fc), whose Line 5 read 1532.14 - an arithmetic error there. On this form 1592.20 - 1284.49 = 307.71 checks out."
+  "notes": "NO interim/year-end/final box is checked at all - only the amendment question is answered ('Yes', amending the April 7th report), so report_type is recorded as empty rather than invented; the clerk listing supplies 'Amendment to April'. Column B is entirely BLANK on both Lines 1 and 2 (recorded as empty strings, not zeros). Line 3 is a hand-drawn slashed zero. Several Column A figures are written over earlier digits - Line 5 in particular is heavily overwritten but resolves to 1592.20 at 250 dpi, which is also what Line 4 says. This amendment CORRECTS the original April filing (key 0bc814fc), whose Line 5 read 1532.14 - an arithmetic error there. On this form 1592.20 - 1284.49 = 307.71 checks out.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "No Schedule A / Itemized Contributions page exists in the document.",
+    "expenditures": "No Schedule B / Itemized Expenditures page exists in the document."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "1592.20",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "The filing is only 2 pages - cover + Summary Page. No itemized schedule pages were filed, so there is nothing to reconcile the printed 1592.20 against. This is honest non-existence, NOT a zero."
+    },
+    "expenditures": {
+     "stated": "1284.49",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "No itemized schedule page exists; the printed 1284.49 has no itemized side."
+    }
+   },
+   "page_subtotal_gates": "No page in this document prints a SUBTOTAL FOR THIS PAGE - there are no schedule pages. No gate could fire.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO-PAGE FILING: p1 cover, p2 Summary Page, and nothing else. The cover is a Micah Bruner County Council 'At Large A' report with the amendment box ticked ('Yes ... April 7th'), signed 4-21-14, clerk-stamped APR 22 2014; NO 'Type of Report' interim/year-end/final box is checked. The Summary Page prints Line 1 1592.20 / Line 2 1284.49 with Column B (Aggregate Total) empty. The candidate simply did not file the Schedule A/B pages with this amendment - the donor and vendor lines for this filing DO NOT EXIST in the acquired document, which is why both sides are 'none' rather than a transcribed zero. The cover's street-address and phone/fax/email blocks are county-redacted (black boxes)."
+  }
  }
 }

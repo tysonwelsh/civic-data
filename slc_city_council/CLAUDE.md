@@ -163,6 +163,6 @@ by `date` (+ `body`). Full write-up: `EXPAND_SOURCES_REPORT.md`.
   `source` stays `laserfiche`, text unchanged). The 3 Jan Formal dates PMN never posted stay
   honestly URL-less.**
 - **`transcripts/`** — **ASR**, 10 sampled / **1,142 videos mapped** (SLC Live Meetings YouTube, 2011+; the repo's largest map).
-- **`campaign_finance/`** — **0 filings, PORTAL-BLOCKED.** SLC's JSON WebAPI (`dotnet.slcgov.com/Attorneys/
-  CampaignFinance_Public/`) returned 503 "scheduled maintenance" throughout the run. API reverse-engineered +
-  harvester scaffolded (honest-empty, validates PASS) — **re-run when the portal is up** (see TODO).
+- **`campaign_finance/`** — **8 filings (2003 cycle), STRUCTURED 2026-08-02** (Wayback-recovered Recorder PDFs — the adversarial re-hunt falsified "no PDFs exist"; 222+162 itemized rows, geometry-anchored, validate PASS). 2005+ still absent: POST-only-era GRAMA lead + the 2019+ portal outage — SLC's JSON WebAPI
+  (`dotnet.slcgov.com/Attorneys/CampaignFinance_Public/`) is API-reverse-engineered with a
+  scaffolded harvester, **run it the day the backend answers** (twice-daily watcher armed 2026-08-02).

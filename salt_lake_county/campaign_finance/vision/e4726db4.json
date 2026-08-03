@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "WORTH A HUMAN'S ATTENTION - two competing sets of figures on one Summary Page. Both pages carry a large hand-lettered banner 'AMENDED '04 YEAREND'; the amendment box is Yes with 'date of report 1-31-05', signed 1-31-06, clerk-stamped RECEIVED JAN 31 2006. Office Sought holds the whole string 'COUNCIL-AT-LARGE A' and the District Number box is blank. Lines 1 and 2 are hand-drawn slashed zeros in BOTH columns. Lines 3, 5 and 7 Column A each read 36,178 inside hand-drawn ANGLE brackets (a negative), recorded as (36,178); alongside them, in the (unused) Column B space, the filer later wrote in bold marker '$54' at lines 3, 5 and 7 with 'ON HAND CASH - $54' underneath, plus an asterisked footnote: 'See 2003 FINANCIAL YEAR END REPORT - COMMITTEE IS $36,178 IN DEBT AS OF 12/31/04'. I recorded the Column A cells verbatim and did not substitute the marker figures; note that the filer's NEXT report (key 6584af90) opens at $54, so $54 is the operative cash balance and (36,178) is the committee's debt."
+  "notes": "WORTH A HUMAN'S ATTENTION - two competing sets of figures on one Summary Page. Both pages carry a large hand-lettered banner 'AMENDED '04 YEAREND'; the amendment box is Yes with 'date of report 1-31-05', signed 1-31-06, clerk-stamped RECEIVED JAN 31 2006. Office Sought holds the whole string 'COUNCIL-AT-LARGE A' and the District Number box is blank. Lines 1 and 2 are hand-drawn slashed zeros in BOTH columns. Lines 3, 5 and 7 Column A each read 36,178 inside hand-drawn ANGLE brackets (a negative), recorded as (36,178); alongside them, in the (unused) Column B space, the filer later wrote in bold marker '$54' at lines 3, 5 and 7 with 'ON HAND CASH - $54' underneath, plus an asterisked footnote: 'See 2003 FINANCIAL YEAR END REPORT - COMMITTEE IS $36,178 IN DEBT AS OF 12/31/04'. I recorded the Column A cells verbatim and did not substitute the marker figures; note that the filer's NEXT report (key 6584af90) opens at $54, so $54 is the operative cash balance and (36,178) is the committee's debt.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (present and empty)",
+   "itemized_pages_B": "4 (present and empty)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A exists, carries no rows, and its SUBTOTAL and TOTAL cells each hold a hand-drawn SLASHED ZERO. Per the zero-glyph rule a slashed zero IS zero, so this is a real zero matching Summary line 1, not a gap."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule B exists, carries no rows, and its SUBTOTAL and TOTAL cells each hold a hand-drawn SLASHED ZERO, matching Summary line 2."
+    }
+   },
+   "page_subtotal_gates": "p3: rows 0.00 = printed SUBTOTAL (slashed zero) = printed TOTAL (slashed zero) - GATE FIRED on a zero. p4: same, GATE FIRED on a zero. The filer additionally drew a long vertical serpentine stroke down the whole amount column of BOTH pages, the conventional 'nothing here' mark.",
+   "escalations": 0,
+   "escalation_note": "None - there are no values on either schedule page beyond the two slashed zeros per page.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "ZERO-SCOPE FILING with both schedules present and deliberately struck empty: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A, p4 Schedule B. Both schedule pages are headed 'HORIUCHI' with Date of Report 1-31-06 and hand-numbered 'Page 3 of 4' / 'Page 4 of 4'; both carry a long vertical serpentine stroke down the amount column and a slashed zero in the SUBTOTAL and TOTAL cells. This filing needs A HUMAN'S EYE FOR A DIFFERENT REASON, already flagged in the totals tranche: its SUMMARY PAGE (page 2, not re-read here) carries TWO COMPETING SETS OF FIGURES under a hand-lettered banner 'AMENDED 04 YEAREND', with the amendment box ticked, 'date of report 1-31-05' written in, and a 1-31-06 signature. The ITEMIZED side, which is what this record covers, is unambiguous: both schedules are empty and both stated period totals are 0."
+  }
  }
 }

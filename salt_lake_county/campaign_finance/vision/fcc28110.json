@@ -1,5 +1,71 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2011-02-04",
+   "donor_raw": "S.L. Board of Realtors (BORPAC)",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.65,23.55,89.14,4.28@p3",
+   "note": "two-line name cell: 'S.L. Board of Realtors' over '(BORPAC)'. The parenthetical is transcribed as printed; it reads BORPAC and could be an abbreviation of SLBORPAC - NOT expanded. Occupation/Employer cell reads 'realtors'. Amount written $500 with superscript '00' cents over a rule. Address block redacted by the county."
+  },
+  {
+   "line_no": 2,
+   "date": "2011-02-04",
+   "donor_raw": "Chad A. Liljenquist",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.65,27.83,89.14,4.28@p3",
+   "note": "Occupation/Employer cell reads 'unknown' - the filer's own word, not a transcription gap. Amount written $500 with superscript cents. Address block redacted by the county."
+  },
+  {
+   "line_no": 3,
+   "date": "2011-02-04",
+   "donor_raw": "John M. Liljenquist",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.65,32.10,89.14,4.28@p3",
+   "note": "Occupation/Employer 'unknown' (filer's word). Amount written $500 with superscript cents. Address block redacted by the county."
+  },
+  {
+   "line_no": 4,
+   "date": "2011-02-04",
+   "donor_raw": "Michael D. Liljenquist",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.65,36.38,89.14,4.28@p3",
+   "note": "Occupation/Employer 'unknown' (filer's word). Amount written $500 with superscript cents. Address block redacted by the county."
+  },
+  {
+   "line_no": 5,
+   "date": "2011-02-04",
+   "donor_raw": "The Layton Companies, Inc.",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:4.65,40.65,89.14,4.28@p3",
+   "note": "two-line name cell: 'The Layton Companies,' over 'Inc.'; the comma and the trailing 'Inc.' partly underlie the redaction bar's left edge but both are legible. Occupation/Employer 'Construction'. Amount written $250 with superscript cents. Address block redacted by the county."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$2,250.00",
  "total_expenditures": "0",
@@ -49,6 +115,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten form; scan is a poor-contrast photocopy but all Summary figures are legible. Neither the amendment 'Yes' nor 'No' box is checked, so is_amendment left blank. Lines 2 and 6 Column A are a hand-drawn zero. Figures are identical to the 2-3-2012 amendment (key 5b940ad8) \u2014 this is the original 1-26-12 filing. Received stamp JAN 26 2012."
+  "notes": "Handwritten form; scan is a poor-contrast photocopy but all Summary figures are legible. Neither the amendment 'Yes' nor 'No' box is checked, so is_amendment left blank. Lines 2 and 6 Column A are a hand-drawn zero. Figures are identical to the 2-3-2012 amendment (key 5b940ad8) \u2014 this is the original 1-26-12 filing. Received stamp JAN 26 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2,250.00",
+     "itemized": "2250.00",
+     "result": "exact",
+     "detail": "exact (2250.00 = 2250.00) against Summary Page line 1 Column A AND against the page's own printed SUBTOTAL $2,250.00. 5 rows."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B is a printed grid with every row empty and a handwritten '0' in the SUBTOTAL cell; stated_e is 0 and Summary line 2 Column A is 0. A real zero, not a gap."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 500.00+500.00+500.00+500.00+250.00 = 2,250.00 = printed 'SUBTOTAL FOR THIS PAGE' $2,250.00 - GATE PASSED. p4 zero rows = printed SUBTOTAL '0' - gates trivially. CAUTION on the schedules' TOTAL lines: p3's 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' reads $28,903.50 and p4's 'TOTAL EXPENDITUTRES MADE' reads $11,525.16 - neither is a sum of this filing's subtotals; they are the CUMULATIVE-TO-DATE figures, matching Summary Page Column B ($28,903.55 / $11,525.16). This filer put running totals in the schedule TOTAL cells. Those figures are NOT this period's totals and were not used for reconciliation.",
+   "escalations": 0,
+   "escalation_note": "no disputed cells; both schedule pages read at 200 dpi full-page and the contributions page gates exactly against its own printed subtotal",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGE ORDER: 1 cover, 2 Summary Page, 3 Schedule A (5 rows), 4 Schedule B (blank). PRIVACY: the county redacted the Complete Mailing Address column on p3 with a solid black bar over every filled row, so donor_city/donor_state are blank and 'redacted' is stated per row. CENTS CONVENTION: every amount is written as dollars with a raised superscript cents pair over a short rule ($500 with a small '00' above the line); transcribed with a decimal point per the brief. All five contributions carry the SAME date, 2-4-11. NOTE the $28,903.50 in p3's TOTAL cell disagrees in its last digit with the Summary Page Column B $28,903.55 - both are retained verbatim here and neither was used; the reconciliation anchor is the SUBTOTAL. Cover: Steven L. DeBry, Republican, Office Sought 'County Council #5', YEAR-END January 31 box checked, signed 1-26-12, stamped RECEIVED JAN 26 2012. Filename says '11_YearEnd' and the report date is 1-26-12 - consistent (a 2011 year-end filed January 2012)."
+  }
  }
 }

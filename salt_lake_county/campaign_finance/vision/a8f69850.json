@@ -51,6 +51,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "The Summary Page is NOT page 2 - PDF page 2 is Schedule B and page 3 is Schedule A (both zero-filled); the Summary Page is PDF page 4, labelled 'Page 3 of 3', TOPHAM, '20 JUN 2006'. Pages 3-4 were rendered locally. Political Party box is BLANK. The Date box beside the signature is BLANK (the signature runs across it) - report_date ''. is_amendment is NULL: the 'No' box carries a faint mark that could not be resolved as a check or as scanner noise. Every Summary cell (Column A lines 1-7 and Column B lines 1-2) holds a hand-drawn oval read as 0 (medium)."
+  "notes": "The Summary Page is NOT page 2 - PDF page 2 is Schedule B and page 3 is Schedule A (both zero-filled); the Summary Page is PDF page 4, labelled 'Page 3 of 3', TOPHAM, '20 JUN 2006'. Pages 3-4 were rendered locally. Political Party box is BLANK. The Date box beside the signature is BLANK (the signature runs across it) - report_date ''. is_amendment is NULL: the 'No' box carries a faint mark that could not be resolved as a check or as scanner noise. Every Summary cell (Column A lines 1-7 and Column B lines 1-2) holds a hand-drawn oval read as 0 (medium).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - a REAL ZERO, not a gap. The Schedule A page (PDF p3) is printed in full with every one of its 15 data rows empty, and the filer wrote a hand-drawn zero glyph in both the SUBTOTAL FOR THIS PAGE and the TOTAL CONTRIBUTIONS RECEIVED cells. Zero rows emitted, itemized 0.00 = stated 0."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - a REAL ZERO. The Schedule B page (PDF p2) is printed in full with every one of its 14 data rows empty, and the filer wrote a hand-drawn zero glyph in both the SUBTOTAL FOR THIS PAGE and the TOTAL EXPENDITURES MADE cells. Zero rows emitted, itemized 0.00 = stated 0."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): zero transcribed rows sum 0.00 = the hand-drawn zero in the printed SUBTOTAL cell - PASSES trivially. p2 (Schedule B): zero transcribed rows sum 0.00 = the hand-drawn zero in the printed SUBTOTAL cell - PASSES trivially. Both pages also carry a hand-drawn zero in their schedule TOTAL cell.",
+   "escalations": 0,
+   "escalation_note": "None needed - there are no itemized figures on either schedule to dispute. Both pages were read as full 200dpi renders.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing whose pages are OUT OF THE FORM'S OWN ORDER: PDF p1 is the cover, PDF p2 is Schedule B (its page box reads 'Page 1 of 3'), PDF p3 is Schedule A ('Page 2 of 3'), and the Summary Page is PDF p4 ('Page 3 of 3') - i.e. the filer numbered the two schedules ahead of the summary and the scan preserved that order, so Schedule B precedes Schedule A in the document. BOTH SCHEDULES ARE GENUINELY BLANK, and that is a real zero rather than a gap: the pre-printed grids are present and complete, no data row on either page carries a date, name, address, occupation, purpose or amount, and the filer signed the account off with hand-drawn zero glyphs. Per the repo ZERO-GLYPH RULING those drawn glyphs denote 0 and are read as 0 - but they sit in the SUBTOTAL and TOTAL cells, which are not itemized lines, so no contribution or expenditure row is emitted for them. ONE THING A HUMAN MAY WANT TO LOOK AT, recorded rather than resolved: on each schedule the AMOUNT cell of the very FIRST otherwise-empty data row also carries a hand-drawn zero-shaped glyph (on Schedule A it reads more like a doubled 'OO'). Those are not itemized lines - the row has no date, no name and no purpose - so nothing was transcribed from them; they are most plausibly the filer stroking a zero through the first row to say 'none', but that is an inference and is stated as one, not written into a field. Consistent with the whole filing: this candidate's Summary Page (already transcribed in the totals tranche) carries 0 on every line, and the chunk file's stated totals are 0 and 0."
+  }
  }
 }

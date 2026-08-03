@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "X-Mission",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=medium;city=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.67,20.75,81.14,2.75@p3",
+   "note": "date cell reads '10/1?/10' - the day group is one-or-two faint strokes that resolve to EITHER '1' or '11' even at 1200 dpi with contrast enhancement; no page arithmetic constrains it, so the date is left BLANK rather than guessed. Month 10 and year 10 are legible.; occupation/employer cell reads 'Organization'; amount written '35' with superscript cents '00' and '(in-kind)' beneath - flagged in_kind; street address handwritten in full on the form and DISCARDED at read time per privacy rule (city/state only)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "X-Mission",
+   "purpose": "Web-hosting",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.90,23.25,73.06,3.25@p4",
+   "note": "date cell reads '10/1?/10' - the day group is one-or-two faint strokes that resolve to EITHER '1' or '11' even at 1200 dpi with contrast enhancement; no page arithmetic constrains it, so the date is left BLANK rather than guessed. Month 10 and year 10 are legible.; amount written '35' with superscript cents '00' and '(in-kind)' beneath - flagged in_kind; mirrors the Schedule A in-kind contribution from the same payee"
+  }
+ ],
  "total_contributions": "$35.00",
  "total_expenditures": "$35.00",
  "beginning_balance": "274.94",
@@ -47,6 +76,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "DISTRICT MISMATCH worth a human's attention: this form's District Number field is unambiguously a '2' (verified at 300 dpi and enlarged), while Noyce's own April, June, September and Year-End filings all write '1' and the clerk listing files him under Council #1. Transcribed as printed. This is a very light scan: Lines 1 and 2 Column A are faint and read '$35.00' \u2014 Line 2 especially (low) \u2014 but Lines 4 and 6 repeat 35.00 clearly, and the balance chain confirms it (274.94 + 35.00 = 309.94; minus 35.00 = 274.94). Column B is blank on both lines. The report-type checkbox is a faint tick beside (not inside) 'Seven days before a general election'; no other period box is marked, and the 10/26/10 date fits that filing (medium). Stamped RECEIVED OCT 26 2010."
+  "notes": "DISTRICT MISMATCH worth a human's attention: this form's District Number field is unambiguously a '2' (verified at 300 dpi and enlarged), while Noyce's own April, June, September and Year-End filings all write '1' and the clerk listing files him under Council #1. Transcribed as printed. This is a very light scan: Lines 1 and 2 Column A are faint and read '$35.00' \u2014 Line 2 especially (low) \u2014 but Lines 4 and 6 repeat 35.00 clearly, and the balance chain confirms it (274.94 + 35.00 = 309.94; minus 35.00 = 274.94). Column B is blank on both lines. The report-type checkbox is a faint tick beside (not inside) 'Seven days before a general election'; no other period box is marked, and the 10/26/10 date fits that filing (medium). Stamped RECEIVED OCT 26 2010.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$35.00",
+     "itemized": "35.00",
+     "result": "exact",
+     "detail": "exact - the single row 35.00 = printed TOTAL CONTRIBUTIONS RECEIVED 35.00 = Summary Page line 1 stated $35.00"
+    },
+    "expenditures": {
+     "stated": "$35.00",
+     "itemized": "35.00",
+     "result": "exact",
+     "detail": "exact - the single row 35.00 = printed TOTAL EXPENDITURES MADE 35.00 = Summary Page line 2 stated $35.00"
+    }
+   },
+   "page_subtotal_gates": "p3 and p4 both leave the SUBTOTAL FOR THIS PAGE cell BLANK (the filer wrote only the schedule TOTAL), so the page-subtotal gate does not exist here. The schedule TOTAL gate fired and passed on both pages (35.00 = 35.00).",
+   "escalations": 2,
+   "escalation_note": "p3 Date-Received cell cropped at 1200 dpi and again with contrast normalization/close-morphology at 150% - the day digit(s) remain genuinely ambiguous between '1' and '11', so the date was left blank rather than completed. The p4 date cell prints the same string in the same hand and is treated identically.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page form, pages in order, self-numbered 'Page 3 of 4' / 'Page 4 of 4', last name 'Noyce', Date of Report 10/26/10; cover stamped RECEIVED OCT 26 2010 and checks 'Seven days before a general election'. This filing is a MIRRORED IN-KIND PAIR and nothing else: the same $35.00 web hosting from X-Mission appears once as an in-kind contribution (Schedule A) and once as the matching in-kind expenditure (Schedule B), each annotated '(in-kind)' beside the amount. PRIVACY: the Schedule A mailing-address cell is NOT redacted - it is handwritten in full. The street line was discarded at read time and never recorded; only the city 'SLC' and state 'UT' from that cell are kept. The amount is written with the cents as a raised superscript over a rule ('35' with a superscript '00'), transcribed as 35.00. Both dates are honestly blank - see the row notes and escalation note."
+  }
  }
 }

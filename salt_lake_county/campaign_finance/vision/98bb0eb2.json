@@ -1,6 +1,192 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-09-24",
+   "donor_raw": "U.A LOCAL 140 PAC",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,21.55,81.88,3.86@p3",
+   "note": "occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-24",
+   "donor_raw": "LABORERS POLITICAL PAC",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,25.41,81.88,3.86@p3",
+   "note": "occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-09-24",
+   "donor_raw": "WHARTON INNOVATIONS",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,29.27,81.88,3.86@p3",
+   "note": "the contributor cell reads 'WHARTON INNOVATIONS' with a second word ('LEAGUE' or similar) written beneath and STRUCK THROUGH by the filer; the struck text is not transcribed as part of the name. occupation/employer cell reads 'CONSULTANT'. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-09-24",
+   "donor_raw": "IBEW EDUCATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,33.14,81.88,3.86@p3",
+   "note": "occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 5,
+   "date": "2012-09-24",
+   "donor_raw": "IBEW LOCAL 57",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,37.00,81.88,3.91@p3",
+   "note": "occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-12",
+   "donor_raw": "JOSEPH E. HATCH",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,40.91,81.88,3.82@p3",
+   "note": "occupation/employer cell reads 'ATTORNEY'. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 7,
+   "date": "2012-09-28",
+   "donor_raw": "UTAH STATE DEMOCRATIC COM.",
+   "amount": "3643.59",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,44.73,81.88,3.86@p3",
+   "note": "amount cell is written 'IN KIND' on the line above the figure - IN-KIND contribution, and it DOES count toward the printed total. occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-10-03",
+   "donor_raw": "UTAH STATE DEMOCRATIC COM.",
+   "amount": "1448.96",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:9.71,48.59,81.88,3.91@p3",
+   "note": "amount cell is written 'IN KIND' on the line above the figure - IN-KIND contribution, and it DOES count toward the printed total. occupation/employer cell empty. Dates are written with periods (9.24.12). The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-09-24",
+   "vendor_raw": "LOWES",
+   "purpose": "SIGN SUPPLIES, TIES SCREWS, WIRE",
+   "amount": "77.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,23.32,76.24,3.91@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-24",
+   "vendor_raw": "USPO",
+   "purpose": "STAMPS",
+   "amount": "90.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,27.23,76.24,3.86@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-10-01",
+   "vendor_raw": "MERRILL HUMBERG",
+   "purpose": "CAMPAIGN WORKER",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,31.09,76.24,3.86@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-10-15",
+   "vendor_raw": "CHILI'S GRILL",
+   "purpose": "LUNCH FOR CAMPAIGN WORKERS",
+   "amount": "87.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,34.95,76.24,3.82@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-09-28",
+   "vendor_raw": "SUN LITHO/ UTAH STATE DEMO COM",
+   "purpose": "PAINTING",
+   "amount": "3643.59",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,38.77,76.24,3.86@p4",
+   "note": "amount cell is written 'IN KIND' above the figure - in-kind expenditure, included in the printed total. the recipient cell names TWO parties on two lines (the vendor and the Utah State Democratic Committee that paid in kind); both are kept verbatim, separated by ' / '. "
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-03",
+   "vendor_raw": "PROGRESSIVE DIRECT MAIL / UTAH STATE DEMO COM",
+   "purpose": "ADDRESSING, SORTING POSTAGE, MAILING",
+   "amount": "1448.96",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.53,42.64,76.24,3.91@p4",
+   "note": "amount cell is written 'IN KIND' above the figure - in-kind expenditure, included in the printed total. the recipient cell names TWO parties on two lines (the vendor and the Utah State Democratic Committee that paid in kind); both are kept verbatim, separated by ' / '. "
+  }
+ ],
  "total_contributions": "7192.55",
  "total_expenditures": "5847.57",
  "beginning_balance": "1791.36",
@@ -51,6 +237,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The ORIGINAL October filing; identical to key a175b6fb except line 2 Column B, which reads '10 006.21' here (confirmed at 300 dpi) and was corrected to '10 806.21' on the amended copy. Written with a space where a comma belongs; kept verbatim. Lines 3-7 arithmetic self-consistent."
+  "notes": "The ORIGINAL October filing; identical to key a175b6fb except line 2 Column B, which reads '10 006.21' here (confirmed at 300 dpi) and was corrected to '10 806.21' on the amended copy. Written with a space where a comma belongs; kept verbatim. Lines 3-7 arithmetic self-consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7192.55",
+     "itemized": "6942.55",
+     "result": "delta",
+     "detail": "delta 250.00 (rows sum 6942.55 vs stated 7192.55 - the printed figure is LARGER by exactly $250.00). The 8 amounts were re-read in two 600 dpi TIGHT CROPS of the amount column and read identically (250.00 / 500.00 / 250.00 / 500.00 / 250.00 / 100.00 / IN KIND 3643.59 / IN KIND 1448.96). The seven table rows BELOW the last entry were contrast-stretched and confirmed genuinely EMPTY, and the form is 'Page 3 of 4' with no continuation sheet, so there is no 9th line on the page. The two in-kind figures are independently corroborated - they appear again, to the cent, as the two in-kind lines on Schedule B. This looks like an omitted or mis-added $250 line in the filer's own subtotal; both figures retained verbatim, no row adjusted."
+    },
+    "expenditures": {
+     "stated": "5847.57",
+     "itemized": "5847.57",
+     "result": "exact",
+     "detail": "exact (5847.57 = 5847.57). 6 lines sum to 5847.57, equal to the page's hand-written SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITUTRES MADE and to Summary Page line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 (Itemized Contributions Received): rows 6,942.55 vs printed SUBTOTAL FOR THIS PAGE 7192.55 (and an identical printed TOTAL 7192.55) - GATE DOES NOT FIRE, short by exactly 250.00. Both figures named; nothing adjusted; escalated to 600 dpi amount-column crops and a contrast-stretched check of the blank rows before accepting. p4 (Itemized Expenditures Made): rows 5,847.57 = printed SUBTOTAL 5847.57 = printed TOTAL 5847.57 - GATE PASSES. THE CONTRIBUTIONS PAGE IS WHAT A HUMAN SHOULD LOOK AT.",
+   "escalations": 3,
+   "escalation_note": "Handwritten filing, base read at 200 dpi with row bands taken from the form's printed rules. Escalations: two 600 dpi tight crops of the p3 Amount column (rows 1-4 and rows 5-8) to adjudicate the 250.00 shortfall - they confirmed every figure; and a contrast-normalized crop of p3 rows 9-15 which confirmed they are blank.",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BRENT H. GOODFELLOW, Office Sought 'S.L. COUNTY COUNCIL #2', DEMOCRAT. INTERIM October 30 (period ending October 29, 2012) box checked, amendment 'No'. Signed 10.30.12; clerk RECEIVED stamp OCT 30 2012. Pages are numbered 1..4 of 4 in the form's own header boxes. County redaction: black bars over the cover's street-address row and the phone/fax/email cells, and a full-height black box over the ENTIRE Complete Mailing Address column of p3 - so this filing yields NO donor geography. IN-KIND items appear on BOTH sides and MATCH to the cent: Utah State Democratic Com. gave 3,643.59 (painting, via Sun Litho) and 1,448.96 (direct mail, via Progressive Direct Mail), and the same two figures are booked as expenditures - the classic in-kind double entry. Contributions are almost entirely PAC/organization money; the only named individual is Joseph E. Hatch (attorney, 100.00). The contributions page does NOT gate - it is short exactly 250.00."
+  }
  }
 }

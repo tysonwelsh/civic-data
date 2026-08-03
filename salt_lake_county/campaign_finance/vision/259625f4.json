@@ -1,6 +1,37 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "Utah State Democratic Party",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.20,23.00,84.50,4.25@p3",
+   "note": "Date written '3-17-06'. Name on two lines: 'Utah State' / 'Democratic Party'. Occupation/Employer 'State Political Party'. Street address discarded per privacy rule."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "Salt Lake County",
+   "purpose": "Filing Fee",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.40,27.00,78.40,3.75@p4",
+   "note": "Date written '3-17-06'; amount printed with a dollar sign ($574.92)."
+  }
+ ],
  "total_contributions": "$574.92",
  "total_expenditures": "$574.92",
  "beginning_balance": "0",
@@ -49,6 +80,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1 and 2 are written with a small raised '$' prefix (kept); Lines 4-6 have no '$'. Lines 3 and 7 are a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Contributions exactly equal expenditures (574.92) so the account opens and closes at zero. Neither amendment box is checked. Signed 4/03/06, clerk-stamped APR 03 2006."
+  "notes": "Lines 1 and 2 are written with a small raised '$' prefix (kept); Lines 4-6 have no '$'. Lines 3 and 7 are a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Contributions exactly equal expenditures (574.92) so the account opens and closes at zero. Neither amendment box is checked. Signed 4/03/06, clerk-stamped APR 03 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92), single row"
+    },
+    "expenditures": {
+     "stated": "$574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92), single row"
+    }
+   },
+   "page_subtotal_gates": "p3 row 574.92 = printed SUBTOTAL FOR THIS PAGE $574.92 (= printed TOTAL $574.92) - GATE FIRED, exact; p4 row 574.92 = printed SUBTOTAL $574.92 (= printed TOTAL $574.92) - GATE FIRED, exact",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A one-in one-out filing: the state party paid the filing fee, and the identical figure leaves as the fee. Both schedule pages leave the Page/of, Last Name and Date of Report header box completely blank. Donor street address discarded at read time; the filer wrote the city as 'SLC'."
+  }
  }
 }

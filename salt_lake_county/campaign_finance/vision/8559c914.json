@@ -1,6 +1,48 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-03-18",
+   "donor_raw": "Daniel Snarr",
+   "amount": "223.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.71,23.75,85.60,3.75@p2",
+   "note": "Occupation/Employer cell reads 'Self'. The amount cell carries a second line '(loan to self)' beneath the figure. Complete Mailing Address cell COUNTY-REDACTED: redacted. Donor is the candidate."
+  },
+  {
+   "line_no": 2,
+   "date": "2014-04-03",
+   "donor_raw": "Daniel Snarr",
+   "amount": "375.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.71,27.50,85.60,3.75@p2",
+   "note": "Occupation/Employer 'Self'. Amount cell carries a second line '(Loan)'. Complete Mailing Address cell COUNTY-REDACTED: redacted. Donor is the candidate."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-03-18",
+   "vendor_raw": "Salt Lake County",
+   "purpose": "Filing Fee",
+   "amount": "223.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.30,25.75,80.00,3.50@p3",
+   "note": "Matches the 223.46 candidate loan on Schedule A dated the same day."
+  }
+ ],
  "total_contributions": "598.46",
  "total_expenditures": "223.46",
  "beginning_balance": "N/A",
@@ -50,6 +92,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. The Summary Page is page 4 of 4 (page 2 is Schedule A), so pages 1, 2 and 4 were read. Line 3 (Balance at Beginning of Reporting Period) is written as the words 'N/A', not a figure \u2014 recorded verbatim. Party is written 'Democrate' (filer's spelling). The Office field on the top row reads 'Salt Lake County Council/District #3'; the separate Office Sought field reads 'Salt Lake County Council' with District Number '#3' \u2014 the latter is used."
+  "notes": "Handwritten. The Summary Page is page 4 of 4 (page 2 is Schedule A), so pages 1, 2 and 4 were read. Line 3 (Balance at Beginning of Reporting Period) is written as the words 'N/A', not a figure \u2014 recorded verbatim. Party is written 'Democrate' (filer's spelling). The Office field on the top row reads 'Salt Lake County Council/District #3'; the separate Office Sought field reads 'Salt Lake County Council' with District Number '#3' \u2014 the latter is used.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "598.46",
+     "itemized": "598.46",
+     "result": "exact",
+     "detail": "exact (598.46 = 598.46)"
+    },
+    "expenditures": {
+     "stated": "223.46",
+     "itemized": "223.46",
+     "result": "exact",
+     "detail": "exact (223.46 = 223.46)"
+    }
+   },
+   "page_subtotal_gates": "p2 rows sum 598.46 = printed SUBTOTAL 598.46 (and TOTAL 598.46) PASS; p3 single row 223.46 = printed SUBTOTAL 223.46 (and TOTAL 223.46) PASS.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGES OUT OF ORDER: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page (the Summary Page is NOT PDF page 2). Cover: Daniel C. Snarr, Salt Lake County Council District 3, Democrat; the APRIL 7 interim box is checked and the amendment question is answered 'X No'; signed 4/7/14, clerk-stamped APR 07 2014. Both contributions are candidate loans to his own campaign, annotated '(loan to self)' and '(Loan)' beneath the amounts; the county redacted the donor address column with a black box covering both rows, and the cover's address/phone/fax/email blocks as well. Summary Page Line 3 (Balance at Beginning of Reporting Period) is written 'N/A' - a nil MARK, not a numeral, so it stays blank rather than being read as zero (it is a summary field, outside this tranche in any case)."
+  }
  }
 }

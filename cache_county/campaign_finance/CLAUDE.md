@@ -96,10 +96,14 @@ verbatim in that cache's `notes` — **no transcription defect was found.** Two 
 defects were repaired (`ac2b4174` carried an empty `sha256`; `ac2b4174` and `aeb8719a` each
 named only one of their two byte-identical paths); **no transcribed value changed.**
 
-⚠ **Render resolution matters on the faxed copies.** The December-2018 fax of Shannon
-Rhodes's report degrades a two-stroke open-top **4** into something that reads as `1,` at
-150–200 dpi; the cleaner October copy of the same page settles it. Re-check any faxed
-figure at ≥600 dpi (or against a sibling copy) before calling a cached value wrong.
+⚠ **Resolution helps legibility; ARITHMETIC decides truth (Rhodes reversal, corrected
+2026-08-02).** This note previously taught the OPPOSITE lesson and endorsed the wrong
+digit: the Rhodes fax's open-top glyph is bistable at any dpi, a ≥600dpi sibling-copy
+read 'settled' it as 4 — and the filing's own arithmetic disproves that (Form A sums to
+exactly 1,694.09; the cover closes only under 1: 1,694.09+105.00=1,799.09=cumulative
+expenses, balance 0). The published totals were corrected 4,799.09→1,799.09. Rule: on
+any disputed glyph, close the document's own arithmetic FIRST; escalate resolution only
+for cells no identity constrains.
 
 ## How a filing is classified (and why you can trust the label)
 

@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2011-01-30",
+   "donor_raw": "AMERICA FIRST CU",
+   "amount": "1.18",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.05,25.25,84.00,3.25@p3",
+   "note": "Bank interest credited to the campaign account. '- INTEREST ON ACCOUNT' is written across the Address and Occupation columns as a description; no mailing address was supplied by the filer. Amount printed as '1.' with a superscript 18 over a rule -> 1.18; corroborated by the page subtotal, the schedule total and the Summary Page balance chain."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "",
  "total_expenditures": "",
@@ -45,6 +59,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1 and 2 are LEFT BLANK in BOTH columns - recorded as \"\" and NOT as 0 - even though Line 4 ('from Line 1 Column A') carries 1.18 and Line 6 ('from Line 2 Column A') carries a hand-drawn slashed zero. That internal inconsistency is on the form; nothing was carried across. Cents are raised superscripts over a rule. Neither amendment box is checked. The top-row 'Office' box is blank; 'County Mayor' comes from the Office Sought box. Line 3 (497.36) matches Line 7 of this filer's prior year-end report, and 497.36 + 1.18 = 498.54 reconciles."
+  "notes": "Lines 1 and 2 are LEFT BLANK in BOTH columns - recorded as \"\" and NOT as 0 - even though Line 4 ('from Line 1 Column A') carries 1.18 and Line 6 ('from Line 2 Column A') carries a hand-drawn slashed zero. That internal inconsistency is on the form; nothing was carried across. Cents are raised superscripts over a rule. Neither amendment box is checked. The top-row 'Office' box is blank; 'County Mayor' comes from the Office Sought box. Line 3 (497.36) matches Line 7 of this filer's prior year-end report, and 497.36 + 1.18 = 498.54 reconciles.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "1.18",
+     "result": "unknown",
+     "detail": "the Summary Page's Column A line 1 was left BLANK by the filer, so there is no stated contribution total to reconcile against. The document nonetheless certifies the figure three ways: Schedule A's printed SUBTOTAL and TOTAL are both 1.18, and the balance chain closes - line 3 (497.36) + line 4 (1.18) = line 5 (498.54), and line 5 minus line 6 (a slashed zero) = line 7 (498.54)"
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in this 3-page document; Summary line 2 Column A was left blank and line 6 carries a slashed zero"
+    }
+   },
+   "page_subtotal_gates": "p3 row 1.18 = printed SUBTOTAL FOR THIS PAGE 1.18 (= printed TOTAL CONTRIBUTIONS RECEIVED 1.18) - GATE FIRED, exact, and independently corroborated by the Summary Page balance chain 497.36 + 1.18 = 498.54. No Schedule B page exists, so no expenditure gate.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "The whole PDF is 3 pages: cover, Summary Page, Schedule A. THERE IS NO SCHEDULE B PAGE - honest non-existence, so the expenditure side is 'none', not a zero (the Summary Page's line 6 does carry a slashed zero, but that is the Summary Page, not a schedule). The single Schedule A entry is bank interest, not a donation: the filer wrote 'AMERICA FIRST CU' in the Name cell and then ran '- INTEREST ON ACCOUNT' freehand ACROSS the Complete Mailing Address and Occupation/Employer columns, so no address was given (blank, filer-omitted, not redacted) - a deliberate field-shift check was run on this row and the amount sits correctly in the Amount column. Cents are written as a superscript over a rule (1 with a raised 18). Page/of box reads 3 of 3; Date of Report 01/30/11."
+  }
  }
 }

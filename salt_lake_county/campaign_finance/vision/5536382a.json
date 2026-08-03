@@ -1,6 +1,61 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-10-23",
+   "donor_raw": "CW Real estate",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,23.50,84.00,3.60@p3",
+   "note": "mailing-address block REDACTED (black bar). Occupation/Employer column left blank by the filer. Name re-read in a 600dpi crop"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-23",
+   "donor_raw": "Stonefly Developmen",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,27.10,84.00,3.60@p3",
+   "note": "NAME IS PARTIAL: the writing runs off the column edge and under the redaction bar. Kept as the legible glyph string 'Stonefly Developmen' at low confidence and NOT completed. Address REDACTED; Occupation/Employer blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-23",
+   "donor_raw": "GMNM Holdings",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,30.70,84.00,3.60@p3",
+   "note": "600dpi crop: leading capital drawn as a barred G (could be read '6'); 'GMNM Holdings' taken. Address REDACTED; Occupation/Employer blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-11-06",
+   "vendor_raw": "Catholic Community Services",
+   "purpose": "Donation - Table Sponsorship",
+   "amount": "1,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,23.50,78.00,4.50@p4",
+   "note": "amount written '1,500' with NO cents digits at all - kept verbatim as printed, not padded to 1,500.00. Recipient and purpose each wrap two lines"
+  }
+ ],
  "total_contributions": "1,500",
  "total_expenditures": "1,500",
  "beginning_balance": "38.29",
@@ -52,6 +107,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The newer 2-page 2014 form ('2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]'), handwritten in blue ink. Lines 1 and 2 are written without cents ('1,500') in both columns while lines 4 and 6 write '1,500.00' - kept verbatim as written in each place. The candidate name is printed with the title, 'COUNCILMAN SAM F. GRANATO'. Party is a scrawl reading DEMocrat (medium confidence). Arithmetic self-consistent (38.29 + 1,500.00 = 1,538.29; less 1,500.00 = 38.29)."
+  "notes": "The newer 2-page 2014 form ('2014 Financial Disclosure Report For County and Local School Board Candidates [County Officeholders - Year-End]'), handwritten in blue ink. Lines 1 and 2 are written without cents ('1,500') in both columns while lines 4 and 6 write '1,500.00' - kept verbatim as written in each place. The candidate name is printed with the title, 'COUNCILMAN SAM F. GRANATO'. Party is a scrawl reading DEMocrat (medium confidence). Arithmetic self-consistent (38.29 + 1,500.00 = 1,538.29; less 1,500.00 = 38.29).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1,500",
+     "itemized": "1500.00",
+     "result": "exact",
+     "detail": "exact (1,500 = 1,500.00); three 500.00 rows"
+    },
+    "expenditures": {
+     "stated": "1,500",
+     "itemized": "1,500",
+     "result": "exact",
+     "detail": "exact (1,500 = 1,500); one row written '1,500' with no cents"
+    }
+   },
+   "page_subtotal_gates": "BOTH schedule pages leave 'SUBTOTAL FOR THIS PAGE' and 'TOTAL' EMPTY - the filer skipped every total cell - so the page-subtotal gate CANNOT fire on p3 or p4. Reconciliation is against the Summary Page's Column A only: p3 rows sum 1,500.00 = stated 1,500; p4 row 1,500 = stated 1,500.",
+   "escalations": 1,
+   "escalation_note": "p3 contributor-name column 600dpi cell crop x1 (all three names)",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "The 2014 form ('Itemized Contributions Received' / 'Itemized Expenditures Made' headings, no 'Schedule A/B' wording). Handwritten in blue ink; clerk RECEIVED stamp FEB 02 2015 on both pages. The mailing-address block on p3 is COUNTY-REDACTED (a solid black bar spanning all three rows), so donor_city/donor_state are blank with 'redacted' noted; the Occupation/Employer column was left empty by the filer. Amounts are written without a dollar sign. Field-shift screen: p3 3 dates / 3 names / 3 amounts, p4 1/1/1/1 - PASS. All three contributions are same-dated real-estate/development entities."
+  }
  }
 }

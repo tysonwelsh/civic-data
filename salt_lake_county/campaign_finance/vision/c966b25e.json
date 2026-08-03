@@ -50,6 +50,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Third sheet of the same 5-2-12 retroactive Rogers batch ('Applies to 2010 County Council At Large B race' across the top, clerk stamp MAY 04 2012). Here only the Final / Dissolution Report box is checked (no year written); neither amendment box is checked. Summary Page is PDF page 4, figures identical to the two year-end sheets: all Column A cells hand-drawn zeros, Column B 295.98 with raised-superscript cents. No separate dissolution notice is included in the PDF."
+  "notes": "Third sheet of the same 5-2-12 retroactive Rogers batch ('Applies to 2010 County Council At Large B race' across the top, clerk stamp MAY 04 2012). Here only the Final / Dissolution Report box is checked (no year written); neither amendment box is checked. Summary Page is PDF page 4, figures identical to the two year-end sheets: all Column A cells hand-drawn zeros, Column B 295.98 with raised-superscript cents. No separate dissolution notice is included in the PDF.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2 (PDF page 2; the form's own footer numbers it page 3)",
+   "itemized_pages_B": "3 (PDF page 3; the form's own footer numbers it page 4)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A carries the hand-written word 'None' in its first Name of Contributor cell, no rows, and a written digit 0 in SUBTOTAL FOR THIS PAGE; Summary Page line 1 Column A is a written zero. A real, explicitly declared zero"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B carries the hand-written word 'None' in its first row, no rows, and a written digit 0 in SUBTOTAL FOR THIS PAGE; Summary Page line 2 Column A is a written zero"
+    }
+   },
+   "page_subtotal_gates": "p2 (Schedule A) rows (none) = printed subtotal 0 (GATE PASS); p3 (Schedule B) rows (none) = printed subtotal 0 (GATE PASS). Both pages ALSO print a TOTAL of 295.98 in the 'Sum of subtotals from all Schedule pages' box - that is the Column B aggregate-to-date figure, not a sum of this filing's subtotals, and it is NOT used as the reconciliation anchor.",
+   "escalations": 1,
+   "escalation_note": "p2 subtotal/total band enlarged from the 200 dpi render to establish that the subtotal cell holds a written digit 0 (an open oval, not a slashed nil glyph) while the total cell holds 295.98.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Warren T. Rogers, County Council At Large B (Constitution party), FINAL / DISSOLUTION report, signed 5-2-12, clerk-stamped MAY 04 2012. A hand-written annotation across the top of the cover reads 'Applies to 2010 County Council At Large B race' - the filer's own statement of which race this closes out, which matches index.csv's election_year 2012 only loosely; recorded here, not corrected. PAGE ORDER IS SHUFFLED: PDF page 2 is Schedule A (form footer 3), PDF page 3 is Schedule B (form footer 4), PDF page 4 is the Summary Page (form footer 2). Both schedules are explicitly NIL - the filer wrote the word 'None' into the first row of each grid and entered a written 0 in each SUBTOTAL. Summary Page lines 1-7 Column A are all written zeros; Column B carries 295.98 on both lines 1 and 2 (identical aggregate on both sides). PRIVACY: the cover's street-address block and the phone/fax/email block are county-redacted. Both sides are a real zero, not a gap."
+  }
  }
 }

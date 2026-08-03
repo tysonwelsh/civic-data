@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signature dated 1/16/12 while the Summary Page header block gives the date of report as 1/13/2012 - both recorded (report_date follows the signature); clerk stamp JAN 17 2012. The office-sought box reads 'County Council District 4' as one string, so district_number is left blank rather than split. Lines 1, 2, 4 and 6 (both columns where present) are hand-drawn slashed zeros (\u00d8), recorded as '0'. Lines 3, 5 and 7 read '$111.80' with a hand-drawn dollar sign. NOTE the $111.80 here versus the $111.08 on key 1ce31a59 - the later dissolution filing (key 2b6be4e4) carries a marginal note saying the 1/25/13 report's digits were accidentally transposed and $111.80 is correct."
+  "notes": "Only the Year-End box is checked; neither amendment box is checked. Signature dated 1/16/12 while the Summary Page header block gives the date of report as 1/13/2012 - both recorded (report_date follows the signature); clerk stamp JAN 17 2012. The office-sought box reads 'County Council District 4' as one string, so district_number is left blank rather than split. Lines 1, 2, 4 and 6 (both columns where present) are hand-drawn slashed zeros (\u00d8), recorded as '0'. Lines 3, 5 and 7 read '$111.80' with a hand-drawn dollar sign. NOTE the $111.80 here versus the $111.08 on key 1ce31a59 - the later dissolution filing (key 2b6be4e4) carries a marginal note saying the 1/25/13 report's digits were accidentally transposed and $111.80 is correct.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0 = 0.00); Schedule A on page 3 is a completely blank pre-printed grid - no rows, no subtotal, no total, header box unfilled"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0 = 0.00); Schedule B on page 4 is a completely blank pre-printed grid - no rows, no subtotal, no total, header box unfilled"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell is EMPTY (nothing printed) with no rows filled; p4 identical. No page prints a subtotal, so no gate could fire; both blank schedules are consistent with the stated 0/0 on the Summary Page.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Blank schedules, not missing ones: PDF page 3 is the pre-printed Schedule A grid and page 4 the Schedule B grid, both entirely unfilled (even the Page/Last Name/Date-of-Report box is blank). This is a real zero. Pages 1-2 (cover + Summary Page) not re-read - already transcribed in the totals tranche."
+  }
  }
 }

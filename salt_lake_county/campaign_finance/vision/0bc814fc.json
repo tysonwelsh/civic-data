@@ -1,6 +1,208 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Micah BRUNER LOAN",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,23.62,85.60,3.14@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '2/28' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; contributor written on two lines, 'Micah BRUNER' over 'LOAN' - a candidate loan; occupation cell reads 'Atty'"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Contributions of $50 and under",
+   "amount": "153",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,27.40,85.60,3.32@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; AGGREGATE row - the contributor cell reads 'Contributions of $50 and under', an unnamed sub-threshold aggregate, and the date cell is EMPTY (left blank by the filer, not illegible)"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "Jeff white for City Council Campaign",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,31.36,85.60,3.37@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/18' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; occupation cell reads 'Political Campaign'"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Micah Bruner Loan",
+   "amount": "309.14",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,35.69,85.60,3.28@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/17' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; candidate loan"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "James Bruner",
+   "amount": "70",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,40.65,85.60,2.14@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/31' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; occupation cell reads 'Distribution Sales'"
+  },
+  {
+   "line_no": 6,
+   "donor_raw": "Utah Signmakers",
+   "amount": "480",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:9.06,44.52,85.60,1.23@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/27' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; IN-KIND: the amount cell reads '480' over 'in Kind'. THE FIGURE IS THE FILER'S OWN INCONSISTENCY: the identical Utah Sign Makers in-kind item on Schedule B (p4 line 5) is written '450 in Kind', and 450 is the value consistent with BOTH printed page subtotals. Escalated to a 1200 dpi cell crop on each page: the Schedule A glyph has a closed upper loop (8) and the Schedule B glyph a flat-topped open bowl (5). Both are retained verbatim as printed; nothing was adjusted."
+  },
+  {
+   "line_no": 7,
+   "donor_raw": "David Lund",
+   "amount": "100",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,48.34,85.60,2.37@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/20' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; IN-KIND: the amount cell reads '100' over 'in Kind'; occupation cell reads 'U of U'"
+  },
+  {
+   "line_no": 8,
+   "donor_raw": "Micah Bruner Loan",
+   "amount": "60.06",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.06,52.07,85.60,2.87@p3",
+   "note": "Complete Mailing Address block is covered by the county's solid black redaction box on every row - donor geography is redacted, not filer-blank; date cell prints '3/17' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; candidate loan"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Fedex Kinkos",
+   "purpose": "Print Services",
+   "amount": "240.39",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,27.49,79.20,2.05@p4",
+   "note": "date cell prints '2/28' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; cents written as a superscript over a rule"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Salt Lake Co. Clerk",
+   "purpose": "Filing Fee",
+   "amount": "309.14",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,31.59,79.20,2.14@p4",
+   "note": "date cell prints '3/17' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "David Lund",
+   "purpose": "Design Services",
+   "amount": "100",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,35.69,79.20,1.78@p4",
+   "note": "date cell prints '3/20' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; IN-KIND: the amount cell reads '100' over 'in Kind'; mirrors the David Lund in-kind contribution on Schedule A"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Alphagraphics",
+   "purpose": "Business Cards",
+   "amount": "93.90",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,40.10,79.20,2.18@p4",
+   "note": "date cell prints '3/22' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Utah Sign Makers",
+   "purpose": "Yard Signs",
+   "amount": "450",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,43.88,79.20,1.55@p4",
+   "note": "date cell prints '3/27' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; IN-KIND: the amount cell reads '450' over 'in Kind'; the same item is written '480 in Kind' on Schedule A - see that row's note"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Salt Lake City",
+   "purpose": "Parking",
+   "amount": "6.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,48.16,79.20,1.37@p4",
+   "note": "date cell prints '3/31' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Mountain America CU",
+   "purpose": "Banking Fees",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,51.84,79.20,1.96@p4",
+   "note": "date cell prints '3/31' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date; cents written as a superscript over a rule"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "GoDaddy.com",
+   "purpose": "Website Hosting",
+   "amount": "60.06",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a(no year printed);vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.60,55.94,79.20,1.41@p4",
+   "note": "date cell prints '3/17' with NO YEAR, so the date is left blank; verbatim kept here, never filled from the report date"
+  }
+ ],
  "total_contributions": "1592.20",
  "total_expenditures": "1284.49",
  "beginning_balance": "0",
@@ -47,6 +249,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "ARITHMETIC ERROR on the form, kept verbatim: Line 5 (Subtotal) reads 1532.14, but Line 3 is zero and Line 4 is 1592.20, so the subtotal should be 1592.20 - and 1532.14 less Line 6's 1284.49 is 247.65, not the 307.71 printed on Line 7. The filer's own amendment two weeks later (key ca4b5a2f) rewrites Line 5 as 1592.20. Line 1 Column A's cents digits are written over each other but read 20 at 250 dpi. Column B is entirely BLANK on Lines 1 and 2 (empty, not zero). Line 3 is a written open zero. Neither amendment box is checked here."
+  "notes": "ARITHMETIC ERROR on the form, kept verbatim: Line 5 (Subtotal) reads 1532.14, but Line 3 is zero and Line 4 is 1592.20, so the subtotal should be 1592.20 - and 1532.14 less Line 6's 1284.49 is 247.65, not the 307.71 printed on Line 7. The filer's own amendment two weeks later (key ca4b5a2f) rewrites Line 5 as 1592.20. Line 1 Column A's cents digits are written over each other but read 20 at 250 dpi. Column B is entirely BLANK on Lines 1 and 2 (empty, not zero). Line 3 is a written open zero. Neither amendment box is checked here.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1592.20",
+     "itemized": "1622.20",
+     "result": "delta",
+     "detail": "delta +30.00 (rows 1,622.20 vs stated/printed 1,592.20). CAUSE IDENTIFIED, not a transcription error: the Utah Signmakers in-kind item is written '480' on Schedule A and '450' for the identical item on Schedule B, and 450 is the figure consistent with BOTH of the filer's printed page subtotals. Both glyphs were re-rendered as 1200 dpi cell crops and both survived (closed-loop 8 on A, open-bowl 5 on B). The verbatim 480 is retained and nothing was adjusted; the residual is the filer's own inconsistency."
+    },
+    "expenditures": {
+     "stated": "1284.49",
+     "itemized": "1284.49",
+     "result": "exact",
+     "detail": "exact (1,284.49 = 1,284.49); the 8 transcribed rows equal the printed p4 subtotal and total"
+    }
+   },
+   "page_subtotal_gates": "p4 GATES EXACTLY: rows 1,284.49 = printed SUBTOTAL FOR THIS PAGE 1,284.49 (= printed TOTAL 1,284.49). p3 DOES NOT GATE: transcribed rows sum to 1,622.20 against a printed SUBTOTAL FOR THIS PAGE of 1,592.20 (also written on the TOTAL line, both heavily overwritten in the last two digits and re-read at 800 dpi). Both figures are named here and neither was adjusted; the 30.00 gap is the 480/450 discrepancy described in the recon detail.",
+   "escalations": 5,
+   "escalation_note": "p3 amount column (all rows) at 800 dpi; p3 SUBTOTAL/TOTAL cells at 800 dpi (heavily overwritten digits); p3 Utah Signmakers amount cell at 1200 dpi; p4 amount rows 4-6 at 800 dpi; p4 Utah Sign Makers amount cell at 1200 dpi for the direct 8-vs-5 comparison.",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten 2014 form, April 7 interim box checked, signed 4-7-14, office 'County Council At-Large A'. EVERY date on both schedules is written WITHOUT A YEAR (2/28, 3/17, 3/18, ...), so every date is blank with needs_review=1 and the verbatim string is in each row note - none was filled from the report date. The Complete Mailing Address column on Schedule A is covered end-to-end by a solid black county redaction box, so donor_city/donor_state are blank as REDACTED. Schedule A line 2 is an unnamed AGGREGATE row ('Contributions of $50 and under', $153) with no date - transcribed verbatim, never given a name. Three in-kind items appear on both sides (David Lund $100 design services; Utah Sign Makers yard signs) exactly as the filer presented them. The cover page also carries black redaction boxes over the candidate's home address and phone/fax/email."
+  }
  }
 }

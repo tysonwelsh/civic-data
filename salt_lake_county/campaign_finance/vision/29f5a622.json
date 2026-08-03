@@ -1,6 +1,272 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-30",
+   "donor_raw": "RICH PRICE",
+   "amount": "1,400.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,22.76,88.40,4.14@p3",
+   "note": "the amount cell carries 'IN KIND' written on a second line beneath the figure - IN-KIND contribution, and it DOES count toward the printed total. occupation/employer cell reads 'WEB DESIGNER'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-27",
+   "donor_raw": "SNELGROVE TRAVEL INC.",
+   "amount": "2,000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,26.90,88.40,4.14@p3",
+   "note": "the amount cell carries 'IN KIND' written on a second line beneath the figure - IN-KIND contribution, and it DOES count toward the printed total. occupation/employer cell reads 'BUSINESS'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-03-29",
+   "donor_raw": "TYLER SNELGROVE",
+   "amount": "1,900.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,31.04,88.40,4.14@p3",
+   "note": "occupation/employer cell reads 'US ARMY'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-20",
+   "donor_raw": "MIKE GOAR",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,35.18,88.40,4.10@p3",
+   "note": "occupation/employer cell reads 'GEN. MANAGER CANYONS'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 5,
+   "date": "2012-03-21",
+   "donor_raw": "SAM KLEMM",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,39.28,88.40,4.19@p3",
+   "note": "occupation/employer cell reads 'EXECUTIVE'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 6,
+   "date": "2012-03-22",
+   "donor_raw": "MICHAEL MARTIN",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,43.47,88.40,4.14@p3",
+   "note": "occupation/employer cell reads 'RETIRED'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 7,
+   "date": "2012-03-13",
+   "donor_raw": "ROBERT BREEZE",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,47.61,88.40,4.14@p3",
+   "note": "occupation/employer cell reads 'ATTORNEY'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-03-13",
+   "donor_raw": "PATRICIA BERGESON",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,51.75,88.40,4.14@p3",
+   "note": "occupation/employer cell reads 'RETIRED'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  },
+  {
+   "line_no": 9,
+   "date": "2012-03-13",
+   "donor_raw": "JOY WOOLF",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;city=redacted",
+   "verified": 1,
+   "geometry": "pct:6.83,55.89,88.40,4.14@p3",
+   "note": "occupation/employer cell reads 'PROFESSOR WESTMINSTER'. Amount written with a superscript cents group over a rule (e.g. '1,400.' + raised 00); transcribed with a decimal point. All nine amounts were re-read in two 600 dpi tight crops of the amount column. The Complete Mailing Address column is covered edge-to-edge by a solid black county REDACTION box on every filled row, so donor_city/donor_state are blank as REDACTED (not filer-omitted)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-14",
+   "vendor_raw": "GORDON COPY",
+   "purpose": "CARD DESIGN",
+   "amount": "199.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,25.63,87.11,4.19@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-19",
+   "vendor_raw": "PROGRESSIVE DIRECT MAIL",
+   "purpose": "PRINTING + POSTAGE",
+   "amount": "875.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,29.81,87.11,4.10@p4",
+   "note": "amount written '875.' with a superscript cents group over a rule, read as 00 (confirmed in a 1200 dpi cell crop)."
+  },
+  {
+   "line_no": 3,
+   "date": "2012-03-21",
+   "vendor_raw": "STAPLES",
+   "purpose": "SUPPLIES",
+   "amount": "29.72",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.65,33.91,87.11,4.14@p4",
+   "note": "the separator between dollars and cents is written as a DASH, verbatim '29-72' (this writer uses a period elsewhere); structure is unambiguous two-digits/separator/two-digits so it is transcribed 29.72, glyph recorded here."
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-22",
+   "vendor_raw": "WALMART",
+   "purpose": "EVENT SUPPLIES",
+   "amount": "9.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,38.05,87.11,4.14@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-03-22",
+   "vendor_raw": "WALMART",
+   "purpose": "EVENT SUPPLIES",
+   "amount": "81.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,42.19,87.11,4.10@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-03-22",
+   "vendor_raw": "FED EX KINKOS",
+   "purpose": "PRINTING",
+   "amount": "118.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,46.29,87.11,4.14@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-03-26",
+   "vendor_raw": "DEL TACO",
+   "purpose": "LUNCH W/ Fi.",
+   "amount": "3.17",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.65,50.43,87.11,4.14@p4",
+   "note": "THE GATE ADJUDICATED THIS CELL. At 200 dpi the cents group read '13'; the side was then 0.04 short of the printed subtotal. Re-rendered as a 1200 dpi tight cell crop: the final glyph is a leading horizontal into a long diagonal - this writer's 7 (compare the 7 in '29-72') - and is plainly NOT the two-bowled 3 that opens the same cell. Read as 3.17, at which the page sums EXACTLY to the printed 2854.83. Recorded at cell_confidence amount=medium."
+  },
+  {
+   "line_no": 8,
+   "date": "2012-03-26",
+   "vendor_raw": "MC DONALDS",
+   "purpose": "FOOD W/-Fi",
+   "amount": "11.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,54.57,87.11,4.19@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-03-28",
+   "vendor_raw": "PROGRESSIVE MAIL",
+   "purpose": "PRINTING POSTAGE",
+   "amount": "863.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,58.76,87.11,4.10@p4",
+   "note": "amount written '863.' with a superscript cents group over a rule, read as 00."
+  },
+  {
+   "line_no": 10,
+   "date": "2012-03-29",
+   "vendor_raw": "MC DONALDS",
+   "purpose": "FOOD (WI-FI)",
+   "amount": "5.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,62.86,87.11,4.19@p4"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-03-08",
+   "vendor_raw": "COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "656.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.65,67.05,87.11,4.10@p4"
+  }
+ ],
  "total_contributions": "10,306.40",
  "total_expenditures": "2,854.83",
  "beginning_balance": "0.00",
@@ -47,6 +313,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Column B (Aggregate Total) is left entirely BLANK on Lines 1 and 2 \u2014 recorded as \"\" (blank), not zero. The amendment 'Yes' box is checked with '4-17-12' written as the date of report, which is the same as the signature date rather than the 4-5-12 report being amended; the Summary Page header carries 'Date of Report 4-5-12'. In this PDF the Summary Page is the 2nd sheet but the form's own page box reads 'page 3 of 4'. Line 3 is a '0' with a raised superscript. Received stamp APR 17 2012."
+  "notes": "Handwritten. Column B (Aggregate Total) is left entirely BLANK on Lines 1 and 2 \u2014 recorded as \"\" (blank), not zero. The amendment 'Yes' box is checked with '4-17-12' written as the date of report, which is the same as the signature date rather than the 4-5-12 report being amended; the Summary Page header carries 'Date of Report 4-5-12'. In this PDF the Summary Page is the 2nd sheet but the form's own page box reads 'page 3 of 4'. Line 3 is a '0' with a raised superscript. Received stamp APR 17 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "10,306.40",
+     "itemized": "9650.00",
+     "result": "delta",
+     "detail": "delta 656.40 (rows sum 9,650.00 vs stated 10,306.40 - the printed figure is LARGER by exactly 656.40). All nine amounts were re-read in two 600 dpi tight crops of the amount column and read identically; the six table rows below the last entry were contrast-stretched and confirmed EMPTY, and the sheet is 'Page 2 of 4' with no continuation. NOTE THE COINCIDENCE, WHICH A HUMAN SHOULD CHECK: 656.40 is exactly the County Clerk FILING FEE booked on Schedule B (line 11), so the filer appears to have folded a disbursement figure into the contributions total - but that is an inference, not something the page states, and no row was created or adjusted for it. Both figures retained verbatim."
+    },
+    "expenditures": {
+     "stated": "2,854.83",
+     "itemized": "2854.83",
+     "result": "exact",
+     "detail": "exact (2854.83 = 2854.83) AFTER GATE ADJUDICATION. The first 200 dpi pass read line 7 (Del Taco) as 3.13 and the side then fell 0.04 short of the printed subtotal; a 1200 dpi tight cell crop resolved the cents group as 17, at which the 11 lines sum to exactly the printed SUBTOTAL FOR THIS PAGE / TOTAL EXPENDITUTRES MADE of 2854.83 and Summary Page line 2 Column A. The digit was changed because the higher-resolution evidence said so, not to close the gap."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): the SUBTOTAL FOR THIS PAGE cell is EMPTY (the filer left it blank); only TOTAL CONTRIBUTIONS RECEIVED is written, 10,306.40. Rows sum 9,650.00 - GATE DOES NOT FIRE, short by exactly 656.40. Both figures named; nothing adjusted. p4 (Schedule B): rows 2,854.83 = printed SUBTOTAL 2854.83 = printed TOTAL 2854.83 - GATE PASSES (and it is what caught the 3.13/3.17 misread). THE CONTRIBUTIONS PAGE IS WHAT A HUMAN SHOULD LOOK AT.",
+   "escalations": 6,
+   "escalation_note": "Handwritten filing, base read at 200 dpi with row bands from the form's printed rules. Escalations, all tight crops: two 600 dpi crops of the p3 Amount column (rows 1-5, rows 6-9) - confirmed every figure; a contrast-normalized crop of p3 rows 10-15 (blank) and of the p3 SUBTOTAL/TOTAL block (subtotal cell empty); and three 1200 dpi single-cell crops on p4 (rows 3, 7 and 10) which resolved '29-72', adjudicated 3.13 vs 3.17 in favour of 3.17, and confirmed 5.59. An earlier 1200 dpi triple crop landed two rows off and was re-aimed after re-deriving the rule offsets.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "RICHARD SNELGROVE, Office 'MAYOR' / Office Sought 'MAYOR', GOP. INTERIM April 5 box checked AND 'Is this report an amendment? Yes, 4-17-12'; signed 4-17-12, clerk RECEIVED stamp APR 17 2012 - so this is an AMENDMENT filed 12 days after the April 5 interim it amends. PAGES ARE NUMBERED OUT OF ORDER by the filer: the Summary Page (PDF p2) is hand-numbered 'Page 3 of 4' and Schedule A (PDF p3) is 'Page 2 of 4'; the two schedule pages also carry different hand-written report dates (Summary 4-5-12 on Schedule A/B, 4-5-12; the cover and signature say 4-17-12). County redaction bars cover the cover's street-address row and the phone/fax/email cells, and a full-height black box covers the ENTIRE Complete Mailing Address column of Schedule A - so this filing yields NO donor geography. Two IN-KIND contributions (Rich Price web design 1,400.00; Snelgrove Travel Inc. 2,000.00) with no matching in-kind lines on Schedule B. Family money: Tyler Snelgrove 1,900.00. The contributions page does NOT gate - it is short exactly 656.40, which is also exactly the filing fee on Schedule B."
+  }
  }
 }

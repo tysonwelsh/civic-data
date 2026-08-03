@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-15",
+   "donor_raw": "John Merrick",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.30,25.50,88.00,3.60@p3",
+   "note": "occupation/employer 'Retired'; mailing address REDACTED by the county; cents as a superscript '16' over a rule"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-15",
+   "vendor_raw": "Salt Lake County Clerk's Office",
+   "purpose": "Filing Fee",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,25.80,82.00,3.70@p4",
+   "note": "recipient written over two lines 'Salt Lake County / Clerk's Office'; cents as a superscript over a rule"
+  }
+ ],
  "total_contributions": "173.16",
  "total_expenditures": "173.16",
  "beginning_balance": "0",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "April 5 interim box checked, amendment 'No' checked, signed 4/5/12, clerk stamp APR 05 2012. Top-row 'Office' reads 'SLCo Council #4'; the 'Office Sought' box reads 'SLCo Council' with District Number '4'. Summary Page is page 2 of 4 (header block filled: Page 2 of 4, HENRY, 4/5/12). Every money cell writes the cents as a raised superscript over a rule ('173.' with superscript '16'), transcribed 173.16. Lines 3 and 7 are hand-drawn zeros with a slash through them."
+  "notes": "April 5 interim box checked, amendment 'No' checked, signed 4/5/12, clerk stamp APR 05 2012. Top-row 'Office' reads 'SLCo Council #4'; the 'Office Sought' box reads 'SLCo Council' with District Number '4'. Summary Page is page 2 of 4 (header block filled: Page 2 of 4, HENRY, 4/5/12). Every money cell writes the cents as a raised superscript over a rule ('173.' with superscript '16'), transcribed 173.16. Lines 3 and 7 are hand-drawn zeros with a slash through them.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "173.16",
+     "itemized": "173.16",
+     "result": "exact",
+     "detail": "exact (173.16 = 173.16); the single row equals Schedule A's printed SUBTOTAL FOR THIS PAGE and TOTAL, both 173.16, and Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "173.16",
+     "itemized": "173.16",
+     "result": "exact",
+     "detail": "exact (173.16 = 173.16); the single row equals Schedule B's printed SUBTOTAL FOR THIS PAGE and TOTAL, both 173.16, and Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 single row 173.16 = printed SUBTOTAL FOR THIS PAGE 173.16 (GATE PASS); p4 single row 173.16 = printed subtotal 173.16 (GATE PASS).",
+   "escalations": 3,
+   "escalation_note": "p3 date/donor band and occupation/amount band at 600 dpi tight crops; p4 recipient/purpose band at 600 dpi.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Deborah Henry, SLCo Council District 4 (Democratic), April 5 interim, signed 4/5/12, clerk-stamped APR 05 2012. A minimal filing: one contribution in, one expenditure out, the same $173.16 - a single donor covering the candidate's filing fee. PRIVACY: the Schedule A Complete Mailing Address cell is COUNTY-REDACTED (solid black bar), so donor_city/donor_state are blank with 'redacted' noted. Cents on every figure (schedule rows, subtotals, and Summary Page lines) are written as a raised superscript '16' over a rule; transcribed with a decimal point. Summary Page lines 3 and 7 carry a slashed-zero glyph (ZERO-GLYPH RULING => 0)."
+  }
  }
 }

@@ -1,6 +1,65 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "Jeffrey B Hatch",
+   "amount": "500,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.10,23.60,86.90,3.70@p3",
+   "note": "the candidate himself - a self-contribution. Occupation/Employer cell: 'Lincoln Financial Advisors'. Mailing-address cell left EMPTY by the filer (not redacted). DECIMAL COMMA FILER: every money figure on this filing writes the cents separator as a COMMA, not a point (confirmed at 900 dpi on the rows, the SUBTOTAL and the TOTAL). Transcribed verbatim per the currency convention; the shared whitelisted repair converts it downstream."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-17",
+   "donor_raw": "Salt Lake County Democratic Party",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "650,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.10,27.40,86.90,3.70@p3",
+   "note": "Occupation/Employer cell: 'Political party'. Address cell printed a PO box plus 'Salt Lake City, UT 84110' - PO box discarded at read time, city/state kept. DECIMAL COMMA FILER: every money figure on this filing writes the cents separator as a COMMA, not a point (confirmed at 900 dpi on the rows, the SUBTOTAL and the TOTAL). Transcribed verbatim per the currency convention; the shared whitelisted repair converts it downstream."
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-29",
+   "donor_raw": "Corroon for County Mayor",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "250,00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.10,31.20,86.90,3.70@p3",
+   "note": "CONTRIBUTOR NAME UNCERTAIN: re-read at 900 dpi, the cursive resolves to the glyph string 'Corroon for County Mayor' but the surname's final glyph is equally an n or an m and the middle word is a very compressed 'for'. Recorded as the legible glyph string at low confidence with needs_review - no name was chosen for plausibility. Occupation/Employer cell reads 'Mayor / Salt Lake County'. Address cell printed a street address plus a suite and 'Salt Lake City, UT 84106' - street and suite discarded at read time, city/state kept. DECIMAL COMMA FILER: every money figure on this filing writes the cents separator as a COMMA, not a point (confirmed at 900 dpi on the rows, the SUBTOTAL and the TOTAL). Transcribed verbatim per the currency convention; the shared whitelisted repair converts it downstream."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "632,04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.70,26.40,80.20,3.60@p4",
+   "note": "the only expenditure on the filing. DECIMAL COMMA FILER: every money figure on this filing writes the cents separator as a COMMA, not a point (confirmed at 900 dpi on the rows, the SUBTOTAL and the TOTAL). Transcribed verbatim per the currency convention; the shared whitelisted repair converts it downstream."
+  }
+ ],
  "total_contributions": "1,400,00",
  "total_expenditures": "632,04",
  "beginning_balance": "0",
@@ -49,6 +108,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "DECIMAL COMMA filer: Lines 1, 2, 4 and 5 write the cents separator as a COMMA, not a point - Line 1 reads '1,400,00' and Line 2 reads '632,04'. Recorded EXACTLY as written (per contract, the shared repair_money_line whitelist handles the final-comma-two-digit group downstream). Lines 6 and 7 by contrast use a decimal POINT ('632.04', '767.96'). Line 3 (beginning balance) is a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Fax header shows the document was faxed 04/05/2006 from 801-484-2477 (4 pages); clerk-stamped APR 05 2006. Neither amendment box is checked. Page-of box reads 'Page 1 of 3'."
+  "notes": "DECIMAL COMMA filer: Lines 1, 2, 4 and 5 write the cents separator as a COMMA, not a point - Line 1 reads '1,400,00' and Line 2 reads '632,04'. Recorded EXACTLY as written (per contract, the shared repair_money_line whitelist handles the final-comma-two-digit group downstream). Lines 6 and 7 by contrast use a decimal POINT ('632.04', '767.96'). Line 3 (beginning balance) is a hand-drawn zero flanked by dashes ('- 0 -'), recorded as '0'. Fax header shows the document was faxed 04/05/2006 from 801-484-2477 (4 pages); clerk-stamped APR 05 2006. Neither amendment box is checked. Page-of box reads 'Page 1 of 3'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1,400,00",
+     "itemized": "1400.00",
+     "result": "exact",
+     "detail": "exact (1400.00 = 1,400,00 read as 1,400.00 under the decimal-comma convention); the 3 rows (500,00 + 650,00 + 250,00) equal the printed SUBTOTAL FOR THIS PAGE '1,400,00', the printed TOTAL CONTRIBUTIONS RECEIVED '1,400,00' and Summary line 1"
+    },
+    "expenditures": {
+     "stated": "632,04",
+     "itemized": "632.04",
+     "result": "exact",
+     "detail": "exact (632.04 = 632,04 under the decimal-comma convention); the single row equals the printed SUBTOTAL '632,04', the printed TOTAL '632,04' and Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1,400 = printed SUBTOTAL FOR THIS PAGE = printed TOTAL - GATE FIRED. p4 rows 632.04 = printed SUBTOTAL = printed TOTAL - GATE FIRED. This filer filled the subtotal cells.",
+   "escalations": 4,
+   "escalation_note": "p3 amount column at 900 dpi and p3 SUBTOTAL/TOTAL cells at 900 dpi, both to settle whether the separator is a comma or a point - it is unambiguously a COMMA in every cell ('500,00', '650,00', '250,00', '1,400,00'); p4 amount cell and p4 SUBTOTAL/TOTAL at 900 dpi, same result ('632,04'). p3 row 3's contributor name was also crop-read at 900 dpi and remains partly ambiguous - reported, not resolved.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page FAXED filing (the fax header '04/05/2006 10:08 FAX 8014842477 HATCH' with page counts 003/004 and 004/004 runs across the top of both schedule pages): p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (3 rows), p4 Schedule B (1 row). Both schedule pages are headed 'Hatch', Date of Report 4-5-06, hand-numbered 'Page 2 of 3' / 'Page 3 of 3' (the filer did not count the cover). DECIMAL COMMA FILER: every money figure on this filing writes the cents separator as a COMMA, not a point (confirmed at 900 dpi on the rows, the SUBTOTAL and the TOTAL). Transcribed verbatim per the currency convention; the shared whitelisted repair converts it downstream. PRIVACY: two contributor address cells printed full addresses - a PO box plus 'Salt Lake City, UT 84110', and a street address plus 'Salt Lake City, UT 84106'; the PO box and street were discarded at read time and only city/state recorded. The first contributor is the candidate himself. The whole expenditure side is the single $632.04 county filing fee."
+  }
  }
 }

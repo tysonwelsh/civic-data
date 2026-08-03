@@ -1,6 +1,48 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-09",
+   "donor_raw": "LOAN FROM CANDIDATE",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.90,24.53,84.80,4.01@p3",
+   "note": "date printed '3.9.12' (dot-separated M.D.YY, year present) -> ISO. THIS ROW NAMES NO PERSON: the entry is the descriptive phrase 'LOAN FROM CANDIDATE', with the word 'CANDIDATE' physically written in the Complete Mailing Address cell - the phrase is one continuous piece of handwriting spanning both columns and is kept whole rather than split into a fake name and a fake address. needs_review is set because downstream this is a candidate self-loan, not an identified donor. Amount written '2,000' with no cents -> 2000.00."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-31",
+   "donor_raw": "CONTRIBUTIONS OF UNDER $50",
+   "amount": "80.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.90,28.54,84.80,4.01@p3",
+   "note": "date printed '3.31.12' -> ISO. AGGREGATE ROW, NOT A DONOR: the entry reads 'CONTRIBUTIONS OF UNDER $50' and spans the Name and Address cells as one phrase; it is the filer's lawful summary of unitemized small contributions. No donor name exists to record and none was invented. Amount written '80' with no cents -> 80.00."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-23",
+   "vendor_raw": "DIGITAL SVCS. INC",
+   "purpose": "COLLATERAL",
+   "amount": "531.86",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.60,27.31,77.20,4.01@p4",
+   "note": "date printed '3.23.12' -> ISO. Vendor re-read at 800dpi: the filer writes a flat-topped capital S that reads like 'g' or '5' at base resolution, so 'gVCS' is 'SVCS.' (Services); vendor kept at medium confidence for that reason. Amount written plainly with a decimal point."
+  }
+ ],
  "total_contributions": "$2080",
  "total_expenditures": "$531.86",
  "beginning_balance": "$0.00",
@@ -49,6 +91,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "This is the ORIGINAL April 5 interim report; neither amendment box is checked. Two-office-box form: top-row 'Office' reads 'County Council', 'Office Sought' reads 'Council' with District Number written 'At Large' (not a number) - recorded verbatim. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. The Summary Page header block (page, name, date) was left completely BLANK. Clerk RECEIVED stamp APR 05 2012. NOTE: the same candidate's April AMENDMENT in this chunk (key 09324485, filed 4/11/2012) restates line 2 as $791.60 and line 7 as $1288.40 - the two April filings disagree by design, the amendment superseding this one."
+  "notes": "This is the ORIGINAL April 5 interim report; neither amendment box is checked. Two-office-box form: top-row 'Office' reads 'County Council', 'Office Sought' reads 'Council' with District Number written 'At Large' (not a number) - recorded verbatim. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. The Summary Page header block (page, name, date) was left completely BLANK. Clerk RECEIVED stamp APR 05 2012. NOTE: the same candidate's April AMENDMENT in this chunk (key 09324485, filed 4/11/2012) restates line 2 as $791.60 and line 7 as $1288.40 - the two April filings disagree by design, the amendment superseding this one.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2080",
+     "itemized": "2080.00",
+     "result": "exact",
+     "detail": "exact (2 rows sum 2,080.00 = printed SUBTOTAL FOR THIS PAGE $2080 = printed TOTAL CONTRIBUTIONS RECEIVED $2080 = stated $2080)"
+    },
+    "expenditures": {
+     "stated": "$531.86",
+     "itemized": "531.86",
+     "result": "exact",
+     "detail": "exact (1 row 531.86 = printed SUBTOTAL FOR THIS PAGE 531.86 = printed TOTAL EXPENDITURES MADE 531.86 = stated $531.86)"
+    }
+   },
+   "page_subtotal_gates": "p3: 2 rows sum 2,080.00 = printed SUBTOTAL $2080 - PASSES. p4: 1 row 531.86 = printed SUBTOTAL 531.86 - PASSES. Both schedules are single-page, so the printed schedule total equals the page subtotal on each and both agree.",
+   "escalations": 2,
+   "escalation_note": "p3 both rows as one 700dpi full-width band (pct:8,24.5,86,7) - confirmed the two descriptive strings and the '2,000' figure; p4 the single row as one 800dpi band (pct:11,27.5,80,3.5) - confirmed 'DIGITAL SVCS. INC / COLLATERAL / 531.86' (the filer's capital S is a flat-topped stroke that reads like a 'g' or '5' at 200dpi).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard shape: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. Written in block capitals. NEITHER CONTRIBUTION ROW NAMES A DONOR, and that is what the form says rather than a transcription gap: row 1 reads 'LOAN FROM CANDIDATE' and row 2 reads 'CONTRIBUTIONS OF UNDER $50' - one candidate self-loan and one AGGREGATE of unitemized small contributions. In both rows the filer's handwriting RUNS ACROSS the Name-of-Contributor and Complete-Mailing-Address cells as a single continuous phrase (the words 'CANDIDATE' and 'UNDER $50' sit physically in the address column), so the phrase is kept whole in donor_raw and the address column is treated as carrying no address at all - this is a genuine field-shift that reconciliation alone could not have caught, and it was resolved by reading the columns rather than by trusting the cell boundaries. donor_city/donor_state are therefore blank because no address was given, NOT because anything was redacted (despite the filename's '_Redacted' suffix, no redaction block appears on either schedule page of this filing). The Occupation/Employer column is empty on both rows. The $80 aggregate row is a lawful summary line, not an itemizable donor, and no donor identity was invented for it. Expenditures are a single $531.86 payment to Digital Svcs. Inc. for 'COLLATERAL'."
+  }
  }
 }

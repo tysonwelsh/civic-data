@@ -1,6 +1,49 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "LOAN FROM KELTON BAKER",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.19,24.15,80.10,3.35@p3",
+   "note": "'LOAN FROM' is written above 'KELTON BAKER' in the name cell - a candidate loan; occupation/employer 'REAL ESTATE AGENT / EXIT REALTY'; address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-17",
+   "donor_raw": "LIBERTARIAN PARTY OF UTAH",
+   "donor_city": "SALT LAKE CITY",
+   "donor_state": "UT",
+   "amount": "570.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=high;amount=low",
+   "verified": 1,
+   "geometry": "pct:9.19,27.60,80.10,3.65@p3",
+   "note": "AMOUNT CELL OVERWRITTEN: a figure reading 574.92 is struck through with a horizontal line and a second figure is written above it. At 900 dpi the over-written figure reads as [ambiguous leading glyph]70.00. Adopted 570.00 because it is the ONLY value that closes the page subtotal, the schedule total and the Summary Page total, all three of which print 1144.92 against a row-1 value of 574.92. Occupation/employer cell reads 'N/A'. Address was a PO box - discarded at read time; city/state retained"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SALT LAKE COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "574.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.48,27.50,75.51,3.25@p4"
+  }
+ ],
  "total_contributions": "$1144.92",
  "total_expenditures": "$574.92",
  "beginning_balance": "0",
@@ -49,6 +92,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Line 3 (beginning balance) is written as a hand-drawn zero flanked by dashes ( - 0 - ); recorded as 0. Line 7 cents are written as a small raised '00' over the rule, transcribed as $570.00. Arithmetic reconciles (1144.92 - 574.92 = 570.00)."
+  "notes": "Line 3 (beginning balance) is written as a hand-drawn zero flanked by dashes ( - 0 - ); recorded as 0. Line 7 cents are written as a small raised '00' over the rule, transcribed as $570.00. Arithmetic reconciles (1144.92 - 574.92 = 570.00).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$1144.92",
+     "itemized": "1144.92",
+     "result": "exact",
+     "detail": "exact (1144.92 = 1144.92) once the struck-and-rewritten row-2 amount is read as 570.00 - see page_subtotal_gates"
+    },
+    "expenditures": {
+     "stated": "$574.92",
+     "itemized": "574.92",
+     "result": "exact",
+     "detail": "exact (574.92 = 574.92)"
+    }
+   },
+   "page_subtotal_gates": "p3 GATE FIRED AND ADJUDICATED A DIGIT: rows sum 1144.92 = printed SUBTOTAL FOR THIS PAGE $1144.92 = printed TOTAL CONTRIBUTIONS RECEIVED $1144.92. Row 2's amount cell contains a struck-through figure with a second figure written over it; the two candidate readings are 570.00 and 70.00, and only 574.92 + 570.00 = 1144.92 closes against the page subtotal, the schedule total AND the Summary Page line 1 ($1144.92). Adopted 570.00 on the arithmetic, per the rule that the document's own arithmetic outranks a glyph re-read. p4 rows sum 574.92 = SUBTOTAL $574.92 = TOTAL $574.92",
+   "escalations": 3,
+   "escalation_note": "p3 row-2 amount cell re-rendered at 900 dpi and again at 700 dpi with -normalize and 2x upscale (the leading glyph of the over-written figure stays ambiguous between a '$' and an angular '5'; the struck-through figure beneath reads 574.92); p3 name+address cells rows 1-2 re-rendered at 400 dpi (names and the Libertarian Party address read identically)",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten in block capitals. Schedule A carries the header box 'Page 2 of 3 / BAKER / APRIL 5, 2006'; Schedule B's header box reads 'Page 3 of 3 / BAKER / APRIL 5, 2008' - a FILER YEAR TYPO on the Schedule B sheet (this is the April 5, 2006 report; the cover, the Summary Page and Schedule A all say 2006). Kept verbatim, not corrected. Row 1 of Schedule A is a candidate LOAN, written 'LOAN FROM KELTON BAKER'. The whole contribution side exactly funds the single expenditure (the $574.92 county filing fee) plus $570.00 from the state party."
+  }
  }
 }

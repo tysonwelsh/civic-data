@@ -1,6 +1,35 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2011-04-18",
+   "vendor_raw": "Apple \"MobileMe\"",
+   "purpose": "E Mail Account",
+   "amount": "$99.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,24.58,87.11,3.64@p4",
+   "note": "vendor written with quotation marks around MobileMe; cents as a superscript '00' over a rule"
+  },
+  {
+   "line_no": 2,
+   "date": "2011-05-09",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "Contribution",
+   "amount": "$300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,28.22,87.11,4.10@p4",
+   "note": "recipient written over two lines 'Salt Lake County / Republican Party'; an outbound political contribution; cents as a superscript over a rule"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "$399.00",
  "beginning_balance": "$2,056.17",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Line 1 Columns A and B, and Line 4, are written as a hand-drawn slashed zero (O with a stroke) - recorded as '0'. Line 2 and Line 6 use the raised-superscript cents convention ($399 with a small '00' over a rule) - transcribed as $399.00; Lines 3, 5 and 7 likewise carry superscript cents ('17'). Neither amendment box is checked. The date 1-31-2012 is handwritten at the top of the cover as well as in the signature block. Summary Page header: Page 1 of 1, Burdick, 1-31-12. Column A arithmetic checks out (2,056.17 - 399.00 = 1,657.17). Note that a candidate with a $2,056.17 opening balance files Line 1 Column B (aggregate) as zero - that is what the form says and it is left verbatim."
+  "notes": "Line 1 Columns A and B, and Line 4, are written as a hand-drawn slashed zero (O with a stroke) - recorded as '0'. Line 2 and Line 6 use the raised-superscript cents convention ($399 with a small '00' over a rule) - transcribed as $399.00; Lines 3, 5 and 7 likewise carry superscript cents ('17'). Neither amendment box is checked. The date 1-31-2012 is handwritten at the top of the cover as well as in the signature block. Summary Page header: Page 1 of 1, Burdick, 1-31-12. Column A arithmetic checks out (2,056.17 - 399.00 = 1,657.17). Note that a candidate with a $2,056.17 opening balance files Line 1 Column B (aggregate) as zero - that is what the form says and it is left verbatim.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A page 3 is a wholly empty grid with a single diagonal strike, and both its SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells carry a slashed-zero glyph (ZERO-GLYPH RULING => 0), matching Summary Page line 1 Columns A and B which are also slashed zeros. A real zero, not a gap"
+    },
+    "expenditures": {
+     "stated": "$399.00",
+     "itemized": "399.00",
+     "result": "exact",
+     "detail": "exact ($399.00 = $399.00); the 2 rows sum to Schedule B's printed SUBTOTAL FOR THIS PAGE and TOTAL, both 399.00, and to Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows (none) = printed subtotal, a slashed-zero glyph = 0 (GATE PASS); p4 rows 99.00+300.00 = 399.00 = printed subtotal 399.00 (GATE PASS).",
+   "escalations": 2,
+   "escalation_note": "p4 row-1 band and the subtotal band re-cropped and enlarged from the 200 dpi render to confirm the superscript-cents convention and the '99' vs '199' reading.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Max Burdick, County Council District 6 (Republican), Year-End (January 31) report. LABEL vs FORM: index.csv carries election_year 2010 and date 2011-01-01, but the form is hand-dated '1-31-2012' at the top of the cover, signed 1-31-2012 and clerk-stamped JAN 31 2012 - it is the YEAR-END FOR 2011 (its two expenditures are dated 4-18-11 and 5-9-11). Transcribed from the form; the index dates are not corrected here, only flagged. Schedule A is a blank schedule (empty grid, diagonal strike, slashed-zero subtotal) - an honest zero. PRIVACY: the cover's street-address block is county-redacted; the cover's PHONE and EMAIL are printed unredacted and were not transcribed (out of scope for the row schema). CENTS CONVENTION: both amounts and the subtotal write cents as a raised superscript '00' over a rule; transcribed with a decimal point. Expenditure line 2 is a $300 contribution TO a political party, not a receipt."
+  }
  }
 }

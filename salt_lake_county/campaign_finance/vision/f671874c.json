@@ -1,6 +1,78 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-10",
+   "donor_raw": "Jonathan Johnson",
+   "donor_city": "Holladay",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;geo=medium",
+   "verified": 1,
+   "geometry": "pct:9.64,21.65,82.44,3.55@p3",
+   "note": "amount written '250' with raised superscript cents '00'; occupation/employer cell reads 'Overstock Management'; the Complete Mailing Address cell contains only the single word 'Holladay' - a city with no street and no state printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-05",
+   "vendor_raw": "Hadley Design.",
+   "purpose": "Graphic Design",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.24,23.97,78.16,3.55@p4",
+   "note": "amount written '100.' with raised superscript cents '00'; recipient printed with a trailing period"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-05",
+   "vendor_raw": "Paul Avery",
+   "purpose": "T-Shirts.",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.24,27.69,78.16,3.55@p4",
+   "note": "amount written '150' with raised superscript cents '00'"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-06",
+   "vendor_raw": "Alpha Graphics.",
+   "purpose": "Flyers For Convention",
+   "amount": "43.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.24,31.40,78.16,3.55@p4",
+   "note": "re-read at 1200 dpi: 43.95"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-06",
+   "vendor_raw": "Costco",
+   "purpose": "Water/Snacks.",
+   "amount": "35.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=low",
+   "verified": 1,
+   "geometry": "pct:11.24,35.12,78.16,3.55@p4",
+   "note": "THIS IS THE CELL THAT BREAKS THE PAGE SUBTOTAL. Read three times at 1200 dpi with contrast normalisation as 35.24 - the final glyph is this filer's open-top '4', formed identically to the '4' in '43.95' on the row above. Reading it as 35.21 would close the page to the printed 329.16, but the glyph does not support that and the arithmetic is not allowed to rewrite a digit that survives escalation, so the verbatim value is kept and the 3-cent gap is reported as the filer's error"
+  }
+ ],
  "total_contributions": "250.00",
  "total_expenditures": "329.16",
  "beginning_balance": "79.16",
@@ -49,6 +121,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten in blue ink. The clerk listing calls this the '2012 Summary Report', but on the form ONLY the Year-End (January 31) box is checked \u2014 the Final/Dissolution box is NOT (the separate dissolution notice, key 4e9d6d1f, was filed the same day). Line 1 Column A is written '250' with a raised superscript '00' \u2014 transcribed '250.00'. Line 7 is a drawn horizontal dash across the cell, the filer's zero \u2014 recorded as \"0\". Neither amendment box is checked. Received stamp JAN 31 2013."
+  "notes": "Handwritten in blue ink. The clerk listing calls this the '2012 Summary Report', but on the form ONLY the Year-End (January 31) box is checked \u2014 the Final/Dissolution box is NOT (the separate dissolution notice, key 4e9d6d1f, was filed the same day). Line 1 Column A is written '250' with a raised superscript '00' \u2014 transcribed '250.00'. Line 7 is a drawn horizontal dash across the cell, the filer's zero \u2014 recorded as \"0\". Neither amendment box is checked. Received stamp JAN 31 2013.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "250.00",
+     "itemized": "250.00",
+     "result": "exact",
+     "detail": "exact (250.00 = 250.00); the single row, the printed SUBTOTAL FOR THIS PAGE and the printed TOTAL all read 250 with raised superscript cents 00, matching Summary Page line 1 Column A."
+    },
+    "expenditures": {
+     "stated": "329.16",
+     "itemized": "329.19",
+     "result": "delta",
+     "detail": "delta of 0.03 - A FILER ARITHMETIC ERROR, not a transcription difference. The four rows read 100.00 + 150.00 + 43.95 + 35.24 = 329.19, against a printed SUBTOTAL FOR THIS PAGE of 329.16 and Summary Page line 2 Column A of 329.16. Every one of the four amounts and the subtotal itself were re-read in 1200 dpi cell crops and each read identically; no row was adjusted to close the page."
+    }
+   },
+   "page_subtotal_gates": "p3: 1 row 250.00 = printed SUBTOTAL 250.00 = printed TOTAL 250.00 - PASSED. p4: GATE FIRED AND WOULD NOT CLOSE - rows sum 329.19 against printed SUBTOTAL 329.16 (a 3-cent gap). BOTH FIGURES ARE NAMED AND NOTHING WAS ADJUSTED. The p4 TOTAL EXPENDITUTRES MADE cell was left blank by the filer, so the subtotal is the only expenditure gate.",
+   "escalations": 5,
+   "escalation_note": "p4 amount column re-read in four separate 1200 dpi cell crops with contrast normalisation - rows 1-2 together, rows 3-4 together, row 4 alone, and the SUBTOTAL cell alone. Row 4's cents group is written with this filer's open-top '4' (identical in form to the '4' of '43.95') and resolves to 35.24, NOT 35.21; the subtotal cell resolves to 329.16. The 3-cent gap therefore survives full escalation and is the filer's own error. p3's contributor name and address cells were also re-rendered at 600 dpi and read identically.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten in blue ink on the 2012-vintage form, whose schedules are titled 'Itemized Contributions Received' / 'Itemized Expenditures Made' rather than 'Schedule A' / 'Schedule B'. PAGES 5-8 ARE THE OTHER-CAMPAIGN-ACCOUNTS SET AND ARE ENTIRELY BLANK: p5 'Summary Page - Other Campaign Accounts', p6 'Itemized Contributions from Other Campaign Accounts', p7 'Itemized Expenditures from Other Campaign Accounts' (every cell empty on all three, including their subtotal and total lines), and p8 is a blank sheet carrying only the mirror-image bleed-through of the clerk's RECEIVED stamp. Those pages are a DIFFERENT table from the standard summary and no figure was taken from them. The clerk's 'RECEIVED JAN 3 1 2013 SALT LAKE COUNTY CLERK' stamp is printed across the middle of the contributions grid on p3. Both schedule header boxes read 'Ward / 1/31/13'. Cents are written as raised superscripts over a rule on several amounts. The contribution row's address cell holds a CITY ONLY ('Holladay') - no street and no state - so donor_city is recorded and donor_state is honestly blank. The clerk listing calls this a Final/Council4 filing; the earlier totals pass established that the form checks ONLY the January-31 year-end box."
+  }
  }
 }

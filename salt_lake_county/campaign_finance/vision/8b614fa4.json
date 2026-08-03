@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "LP UTAH",
+   "amount": "229.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.10,24.50,81.90,2.80@p3",
+   "note": "handwritten. Occupation/Employer cell reads 'POLITICAL PARTY'. The Complete Mailing Address cell was left BLANK by the filer (no redaction bar on this page), so city/state are blank. Donor name kept verbatim as the three glyphs written ('LP UTAH'); not expanded."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SALT LAKE COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "229.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.50,26.50,75.80,3.20@p4",
+   "note": "handwritten; recipient name written across two lines in the cell"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "0",
  "beginning_balance": "0",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. District Number box reads '1110' although the seat named in Office Sought is at-large; transcribed as printed (verified on a 300dpi crop). Summary Page header: Page 1 of 3, JOHNSTUN, 1-26-2007. Every value cell except Line 1 Column B holds a hand-drawn oval read as 0 (medium confidence). Internal inconsistency retained as printed: Line 1 Column B is 229.85 while Line 1 Column A and every balance line are 0."
+  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. District Number box reads '1110' although the seat named in Office Sought is at-large; transcribed as printed (verified on a 300dpi crop). Summary Page header: Page 1 of 3, JOHNSTUN, 1-26-2007. Every value cell except Line 1 Column B holds a hand-drawn oval read as 0 (medium confidence). Internal inconsistency retained as printed: Line 1 Column B is 229.85 while Line 1 Column A and every balance line are 0.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "229.85",
+     "result": "delta",
+     "detail": "delta 229.85, and the CAUSE is on the page, not in the transcription: Summary Page line 1 COLUMN A is a hand-drawn ZERO glyph while COLUMN B (Sum Total to Date) reads 229.85, and Schedule A's own printed 'SUBTOTAL FOR THIS PAGE' and 'TOTAL CONTRIBUTIONS RECEIVED' BOTH read 229.85 in the filer's hand. The single itemized row equals the schedule total exactly. The filer put the period figure in Column B and zeros in Column A (the known Column-A-semantics variance in this corpus). Nothing was recomputed; the stated 0 is retained."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "229.85",
+     "result": "delta",
+     "detail": "delta 229.85, same cause: Summary Page line 2 Column A is a zero glyph (Column B too), while Schedule B's own printed SUBTOTAL and 'TOTAL EXPENDITUTRES MADE' both read 229.85. The single itemized row equals the schedule total exactly."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 229.85 = printed SUBTOTAL FOR THIS PAGE 229.85 = printed TOTAL CONTRIBUTIONS RECEIVED 229.85; p4 rows 229.85 = printed SUBTOTAL 229.85 = printed TOTAL EXPENDITUTRES MADE 229.85. Both gate EXACTLY.",
+   "escalations": 1,
+   "escalation_note": "Summary Page (p2) re-read at 200 dpi to adjudicate the 229.85-vs-0 conflict: lines 1-7 Column A each carry a hand-drawn ZERO glyph (an oval, per the repo zero-glyph ruling a real 0), and Column B line 1 carries 229.85. So the conflict is the filer's, not a misread of the schedules.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A 3-page form (hand-numbered 'Page 1/2/3 of 3'), delivered as a 4-page PDF: PDF p1 is the cover, p2 the Summary Page, p3 Schedule A, p4 Schedule B. THE DOCUMENT CONTRADICTS ITSELF and both readings are kept: Summary Page Column A lines 1-7 are all hand-drawn ZERO glyphs, but Schedule A and Schedule B each carry one itemized line of 229.85 and each prints 229.85 as its own subtotal AND total, and Column B line 1 also reads 229.85. The chunk's stated 0/0 (Column A) is therefore honest and so is the 229.85 itemization; the delta is the filer's Column-A/Column-B handling, not an extraction error. PRIVACY: no address exists to record - the Complete Mailing Address cell was left blank by the filer; there is no redaction bar on these pages. The contribution and the expenditure are the same amount on the same date (3-17-06): a party contribution in and the county filing fee out. 'TOTAL EXPENDITUTRES MADE' is the form's own printed typo."
+  }
  }
 }

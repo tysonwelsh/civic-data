@@ -1,6 +1,146 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-20",
+   "donor_raw": "UTAH AFL-CIO CENTRAL FEDERATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.42,23.53,87.76,3.78@p3",
+   "note": "contributor written on two lines; Complete Mailing Address cell is REDACTED (solid black bar applied by the county); Occupation/Employer cell empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-20",
+   "donor_raw": "UTAH AFL-CIO IRON WORKERS LOCAL 27",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.42,27.45,87.76,4.10@p3",
+   "note": "contributor written on two lines; local number re-read at 800 dpi as '27'; Complete Mailing Address cell is REDACTED (solid black bar applied by the county); Occupation/Employer cell empty"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-13",
+   "vendor_raw": "IMAGINOS QUICK SIGN",
+   "purpose": "LAWN SIGNS",
+   "amount": "1495.90",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.36,27.69,79.28,3.91@p4",
+   "note": "pre-decimal digits escalated to 600 dpi column crop and 1200 dpi cell crop: the 4th digit is this writer's flat-topped '5' (matches the 5 in '25.00'), NOT an 8 - reading it 1498.90 broke the page subtotal by exactly 3.00; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-14",
+   "vendor_raw": "MERRILL HUMBERG",
+   "purpose": "CAMPAIGN MANAGER",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,31.09,79.28,3.91@p4",
+   "note": "amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-05-08",
+   "vendor_raw": "IMAGINOS QUICK SIGN",
+   "purpose": "MAGNATIC SIGNS",
+   "amount": "79.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,35.10,79.28,3.91@p4",
+   "note": "filer spelling 'MAGNATIC' retained; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-05-08",
+   "vendor_raw": "PROPOENENT INC",
+   "purpose": "TEE SHIRTS",
+   "amount": "280.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,39.50,79.28,3.91@p4",
+   "note": "filer spelling 'PROPOENENT' retained; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-12",
+   "vendor_raw": "SOUTH JORDAN PARADE",
+   "purpose": "PARADE ENTRY FEE",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,43.51,79.28,3.91@p4",
+   "note": "purpose written on two lines; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-06-08",
+   "vendor_raw": "WINNCO FOODS",
+   "purpose": "PARADE CANDY, WATER, TREATS",
+   "amount": "89.41",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,47.61,79.28,3.91@p4",
+   "note": "purpose written on two lines; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-06-08",
+   "vendor_raw": "PIE PIZZERIA",
+   "purpose": "TREATS FOR CAMPAIGN WORKERS",
+   "amount": "61.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,51.87,79.28,3.91@p4",
+   "note": "purpose written on two lines; amount re-read in a 600 dpi amount-column band crop"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-06-09",
+   "vendor_raw": "WORDPRESS.COM",
+   "purpose": "DOMAIN REGISTRATION",
+   "amount": "26.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.36,56.13,79.28,3.91@p4",
+   "note": "purpose written on two lines with a struck-through misspelling ('DOMATON') before the corrected 'REGISTRATION'; amount re-read in a 600 dpi amount-column band crop"
+  }
+ ],
  "total_contributions": "750.00",
  "total_expenditures": "3058.23",
  "beginning_balance": "5826.84",
@@ -51,6 +191,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Amendment box Yes, amending the report of 6-19-12; the signature date is 7-19-12 (RECEIVED JUL 19 2012), so the two dates legitimately differ. Party abbreviated 'DEMO'. Arithmetic self-consistent (5826.84 + 750.00 = 6576.84; less 3058.23 = 3518.61), and beginning balance matches the April report's line 7."
+  "notes": "Handwritten. Amendment box Yes, amending the report of 6-19-12; the signature date is 7-19-12 (RECEIVED JUL 19 2012), so the two dates legitimately differ. Party abbreviated 'DEMO'. Arithmetic self-consistent (5826.84 + 750.00 = 6576.84; less 3058.23 = 3518.61), and beginning balance matches the April report's line 7.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "750.00",
+     "itemized": "750.00",
+     "result": "exact",
+     "detail": "exact (2 rows 500.00 + 250.00 = 750.00 = stated 750.00 = the printed TOTAL CONTRIBUTIONS RECEIVED $750.00)"
+    },
+    "expenditures": {
+     "stated": "3058.23",
+     "itemized": "3058.23",
+     "result": "exact",
+     "detail": "exact (8 rows sum 3058.23 = stated 3058.23 = printed SUBTOTAL and TOTAL 3058.23) - but ONLY after the row-1 digit was corrected at high dpi; see page_subtotal_gates"
+    }
+   },
+   "page_subtotal_gates": "p3: the SUBTOTAL FOR THIS PAGE cell is EMPTY; the TOTAL CONTRIBUTIONS RECEIVED line below carries $750.00 and the 2 rows sum to it - GATE PASSED on the total. p4: THE GATE FIRED. At 200 dpi the first amount read '1498.90' and the 8 rows summed 3061.23 against the printed SUBTOTAL 3058.23 - a 3.00 break. Escalation (600 dpi amount-column band + 1200 dpi cell crop) showed the fourth digit is this writer's flat-topped '5', identical to the 5 in '25.00' two rows down and unlike his double-looped 8 in '89.41'. With 1495.90 the page sums EXACTLY to 3058.23 - GATE PASSED. No row was adjusted to force a fit; the digit was re-read.",
+   "escalations": 3,
+   "escalation_note": "p4 amount column as a 600 dpi band crop (rows 1-8) + the row-1 cell at 1200 dpi to adjudicate 5-vs-8; p3 row-2 contributor cell at 800 dpi to confirm 'LOCAL 27' (not 29).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten, all-capitals. FIELD-SHIFT SCREEN: passed - p3 has 2 dates / 2 names / 2 amounts, p4 has 8 dates / 8 names / 8 purposes / 8 amounts, no in-kind marker or asterisk anywhere. ADDRESS BLOCKS ARE COUNTY-REDACTED: both Schedule A rows have a solid black bar over the Complete Mailing Address cell, and the cover's address and phone/fax/email blocks are likewise blacked out - donor_city/donor_state are therefore blank because the information is REDACTED (not because the filer left it empty). Both contributions are union committees, so no natural-person geography is at issue. Schedule A rows 3-10 carry faint gray SHOW-THROUGH ghosting from the reverse of the sheet - it is not content, no amount accompanies any of it, and the two real rows sum exactly to the printed total, which confirms nothing is missing. The Occupation/Employer cells on both Schedule A rows are empty. Cover: Brent H. Goodfellow, 'DEMO', S.L. County Council #2; June 19 interim box checked AND 'Yes, this is an amendment', date of report 6-19-12; signed 7-19-12, received JUL 19 2012."
+  }
  }
 }

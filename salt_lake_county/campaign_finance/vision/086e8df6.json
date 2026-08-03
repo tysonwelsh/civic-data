@@ -1,5 +1,44 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "UTAH RESTAURANT.",
+   "donor_city": "SLC",
+   "donor_state": "UTAH",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.23,23.32,86.19,3.79@p3",
+   "note": "date cell prints MONTH/YEAR only ('5/06' = May 2006), not a day - left blank per contract; the ONLY row on this filing with an address - city and state retained ('SLC', 'UTAH'), street line and ZIP discarded at read time per privacy; name written 'UTAH RESTAURANT.' with a trailing period and no further word (probably the Utah Restaurant Association) - transcribed exactly as written, never completed; amount written '$250' with superscript cents over a rule"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "STEVE HARMSEN",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.23,27.12,86.19,3.79@p3",
+   "note": "date cell prints MONTH/YEAR only ('6/06' = June 2006), not a day - left blank per contract; occupation/employer cell reads 'STEVE REGAN CO.'; amount written '$250' with superscript cents over a rule"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "SCOTT BAKER",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.23,30.91,86.19,3.79@p3",
+   "note": "date cell prints MONTH/YEAR only ('5/06' = May 2006), not a day - left blank per contract; amount written '$25' with superscript cents over a rule - confirmed 25 (not 250 or 2500) at a 600 dpi cell crop"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "$525.00",
  "total_expenditures": "-0-",
@@ -49,6 +88,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Faxed copy - banner '06/19/2006 11:11  8017470480  MATHESON&PESHELL  PAGE 02/03'. Handwritten '$' signs are glued to the digits - kept verbatim. Zeros written '-0-'. This report was later AMENDED (key d2e70228), which restates Line 1 Col A as 7525.00 and Line 2 Col B as 403.23. Summary header: page 2 of 4, WILDE, 6-19-06. Received stamp JUN 19 2006."
+  "notes": "Faxed copy - banner '06/19/2006 11:11  8017470480  MATHESON&PESHELL  PAGE 02/03'. Handwritten '$' signs are glued to the digits - kept verbatim. Zeros written '-0-'. This report was later AMENDED (key d2e70228), which restates Line 1 Col A as 7525.00 and Line 2 Col B as 403.23. Summary header: page 2 of 4, WILDE, 6-19-06. Received stamp JUN 19 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (form header 'Page 3 of 4')",
+   "itemized_pages_B": "4 (form header 'Page 4 of 4')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$525.00",
+     "itemized": "525.00",
+     "result": "exact",
+     "detail": "exact against the Summary Page (525.00 = $525.00). NOTE the page subtotal disagrees - see page_subtotal_gates - but the stated total and the itemized rows agree exactly, and no row was adjusted."
+    },
+    "expenditures": {
+     "stated": "-0-",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B is a printed but wholly EMPTY grid whose SUBTOTAL and TOTAL cells both hold '-O-' / '-0-', a glyph denoting zero (zero-glyph ruling); a real zero with zero rows"
+    }
+   },
+   "page_subtotal_gates": "p3 WILL NOT GATE, and the cause is the FILER'S ARITHMETIC, not the transcription. The three rows read 250.00 + 250.00 + 25.00 = 525.00; the printed SUBTOTAL FOR THIS PAGE cell reads $500.00. BOTH FIGURES ARE NAMED HERE AND NEITHER WAS ADJUSTED. Escalation settles which one is wrong: a 600 dpi crop of the amount column shows $250 / $250 / $25 unambiguously and a 600 dpi crop of the subtotal cell shows '$500' with superscript cents unambiguously - so the filer added 250+250+25 as 500. The Summary Page (stated_total_contributions $525.00, already transcribed upstream) agrees with the ROWS, which is the independent third figure confirming the rows are right and the page subtotal is the filer's slip. The TOTAL CONTRIBUTIONS RECEIVED cell on p3 is empty. p4: SUBTOTAL and TOTAL both '-O-' against an empty grid - nothing to gate, 0 rows is correct.",
+   "escalations": 3,
+   "escalation_note": "600 dpi tight crops on p3: the amount column rows 1-3 (x4000 y1500 W750 H900) and the SUBTOTAL cell twice (x4000 y5230 W750 H330, which fell above the cell, then x3980 y5380 W800 H420 which landed on it). Purpose was to decide the 25.00 page-subtotal discrepancy; both figures read cleanly and the discrepancy is the filer's.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Faxed copy (fax header '06/19/2006 11:11 8017470480 MATHESON&PESHELL'), David Wilde, June 20 2006 report, form's own Date of Report 6-19-06. Three contributions, no expenditures. ALL THREE date cells print MONTH/YEAR only ('5/06', '6/06', '5/06'), never a day, so all three dates are blank with needs_review=1 and the verbatim cell in the note - a day is never invented. PRIVACY: row 1 is the only row with an address; its city and state are retained and the street line and ZIP were discarded at read time and are written nowhere. Schedule B (p4) is the blank printed grid with '-O-' in both its SUBTOTAL and TOTAL cells - an honest zero, not a missing page. FIELD-SHIFT SCREEN: 3 dates, 3 names, 3 amounts, each in its own column; the one occupation annotation ('STEVE REGAN CO.') sits on the one individual with an employer. No shift found."
+  }
  }
 }

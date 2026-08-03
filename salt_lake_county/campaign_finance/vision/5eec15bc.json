@@ -1,6 +1,256 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-09-20",
+   "donor_raw": "SLCO GOP",
+   "amount": "6,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,20.95,83.71,3.95@p3",
+   "note": "Occupation/Employer cell: 'County Party'"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-20",
+   "donor_raw": "KELLYN CULLIMO[...]",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,24.91,83.71,3.91@p3",
+   "note": "surname CUT by the solid black address-block redaction; not completed. Occupation cell: 'MAYOR'"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-09-20",
+   "donor_raw": "LISA STOCKIN[...]",
+   "amount": "20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,28.82,83.71,4.00@p3",
+   "note": "surname runs under the black redaction block; not completed. Occupation cell: 'R.E.'"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-09-24",
+   "donor_raw": "MISSY LARSEN",
+   "amount": "125",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,32.82,83.71,3.95@p3",
+   "note": "Occupation cell: 'Consultant / Self'"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-10-19",
+   "donor_raw": "UPEA",
+   "amount": "1,320",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,36.77,83.71,3.95@p3",
+   "note": "Occupation cell: 'LABOR UNION'"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-19",
+   "donor_raw": "SLCO REALTORS",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,40.73,83.71,3.95@p3",
+   "note": "Occupation cell: 'REALTORS'"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-10-19",
+   "donor_raw": "DAVE WILLIS",
+   "amount": "20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,44.68,83.71,3.95@p3",
+   "note": "Occupation cell: 'R.E.'"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-10-29",
+   "donor_raw": "REAGAN",
+   "amount": "3,670",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,48.64,83.71,3.95@p3",
+   "note": "Occupation cell: 'Advertising / Boards'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-09-11",
+   "vendor_raw": "SPEAR BY DESIGN",
+   "purpose": "ADVERTISING",
+   "amount": "1,540",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,22.41,83.71,3.95@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-09-24",
+   "vendor_raw": "REAGAN",
+   "purpose": "ADVERTISING",
+   "amount": "3,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,26.36,83.71,3.95@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-09-24",
+   "vendor_raw": "CUMULUS",
+   "purpose": "ADVERTISING",
+   "amount": "4,530",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,30.32,83.71,3.95@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-09-24",
+   "vendor_raw": "\"REPRESENT ME UTAH\"",
+   "purpose": "BOOTH",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,34.27,83.71,3.95@p4",
+   "note": "recipient written in quotation marks on the form"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-10-03",
+   "vendor_raw": "MEDIA ONE",
+   "purpose": "ADVERTISING",
+   "amount": "990",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,38.23,83.71,3.95@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-10-18",
+   "vendor_raw": "FACEBOOK.com",
+   "purpose": "ADVERTISING",
+   "amount": "7",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,42.18,83.71,4.00@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-10-22",
+   "vendor_raw": "PHILLIPS 66",
+   "purpose": "GASOLINE",
+   "amount": "112",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,46.18,83.71,3.91@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-10-22",
+   "vendor_raw": "RICK RANIA",
+   "purpose": "TRAVEL",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,50.09,83.71,4.00@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-10-26",
+   "vendor_raw": "CLEAR CHANNEL",
+   "purpose": "Advertising",
+   "amount": "1,976",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,54.09,83.71,3.95@p4"
+  },
+  {
+   "line_no": 10,
+   "date": "2012-10-27",
+   "vendor_raw": "GOOGLE",
+   "purpose": "ADVERTISING",
+   "amount": "763.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,58.05,83.71,3.95@p4"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-10-29",
+   "vendor_raw": "REAGAN",
+   "purpose": "ADVERTISING",
+   "amount": "3,670",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.06,62.00,83.71,4.00@p4"
+  }
+ ],
  "total_contributions": "12,255",
  "total_expenditures": "17,588.35",
  "beginning_balance": "9559.95",
@@ -49,6 +299,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is blank; party written 'GOP'. Line 3 is written '9559.95' with no thousands comma (it looked like 7559.95 at 110 dpi; a 450 dpi crop resolves it as a 9, and it matches the September amendment's line 7). Contribution amounts are written without cents. Line 7 is circled by hand. Neither amendment box is checked. Clerk RECEIVED stamp OCT 30 2012. Arithmetic is internally consistent."
+  "notes": "'COUNTY COUNCIL - AT LARGE' is written across the Office Sought and District Number cells, so district_number is blank; party written 'GOP'. Line 3 is written '9559.95' with no thousands comma (it looked like 7559.95 at 110 dpi; a 450 dpi crop resolves it as a 9, and it matches the September amendment's line 7). Contribution amounts are written without cents. Line 7 is circled by hand. Neither amendment box is checked. Clerk RECEIVED stamp OCT 30 2012. Arithmetic is internally consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "12,255",
+     "itemized": "12255",
+     "result": "exact",
+     "detail": "exact (8 rows = 12,255 = printed page subtotal 12,255 = printed TOTAL 12,255 = stated_c)"
+    },
+    "expenditures": {
+     "stated": "17,588.35",
+     "itemized": "17588.35",
+     "result": "exact",
+     "detail": "exact (11 rows = 17,588.35 = printed page subtotal = printed TOTAL = stated_e)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 12,255 = printed subtotal 12,255 GATED; p4 rows 17,588.35 = printed subtotal 17,588.35 GATED. Both pages gate to the cent.",
+   "escalations": 6,
+   "escalation_note": "600dpi crops of the p3 row-2/row-3 name cells (both run under the black redaction); 1200dpi crop of the p3 row-4 date; 400dpi and 800dpi date-column bands on p4 plus a 400dpi amount-column band, used together to settle the writer's 4-vs-6 letterform (the amounts 1,540 / 4,530 give a known '4' and 3,670 / 10.26 a known '6' - the disputed day digits are all 4s: 9.24).",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "This is one of the county's REDACTED releases: the entire Complete Mailing Address column of the contributions page is covered by a SOLID BLACK block, which also swallows the ends of two donor surnames. No donor_city/donor_state exists anywhere in this filing (redacted, not blank) and none was recorded. This form variant has no 'Schedule A/B' headings - the pages are titled 'Itemized Contributions Received' and 'Itemized Expenditures Made'; the page/name/date-of-report box at the top right is EMPTY on both pages. Most amounts are written without cents (e.g. '6,000', '20') and are kept verbatim as printed. Both sides reconcile to the cent."
+  }
  }
 }

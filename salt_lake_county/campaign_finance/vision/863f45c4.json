@@ -1,6 +1,50 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-16",
+   "donor_raw": "LOAN Ben Kendrick",
+   "amount": "153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.54,23.60,85.00,4.15@p3",
+   "note": "Name cell printed on two lines as 'LOAN' over 'Ben Kendrick' - a candidate self-loan. Occupation/Employer 'Teacher / Granit school District' (filer's spelling). Address cell left EMPTY by the filer (not redacted). Date written '16th March 2006'; day glyph escalated at 1100 dpi."
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-18",
+   "donor_raw": "Salt Lake County Republican Party",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.54,27.75,85.00,4.00@p3",
+   "note": "Date written '18 March 2006'. Occupation/Employer cell holds a bare dash. Street address discarded at read time per privacy rule; city/state retained."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-16",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "153.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,26.75,78.80,4.00@p4",
+   "note": "Date written '16 March 2006'. Page/of box on this page reads 4 of 4, last name Kendrick, Date of Report '5 April 2006'."
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "",
  "beginning_balance": "0",
@@ -45,6 +89,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1 and 2 are left ENTIRELY BLANK in both columns (recorded as empty strings, not zeros) even though the filer filled in the carry-forward lines below: Line 4 'Total Contributions Received (From Line 1 Column A)' = 306.46 and Line 6 'Total Expenditures Made (From Line 2 Column A)' = 153.23. I did NOT copy those into Lines 1/2. Line 3 Column A is a drawn zero. Line 7 = 153.23. Stamped COPY / RECEIVED APR 05 2006."
+  "notes": "Lines 1 and 2 are left ENTIRELY BLANK in both columns (recorded as empty strings, not zeros) even though the filer filled in the carry-forward lines below: Line 4 'Total Contributions Received (From Line 1 Column A)' = 306.46 and Line 6 'Total Expenditures Made (From Line 2 Column A)' = 153.23. I did NOT copy those into Lines 1/2. Line 3 Column A is a drawn zero. Line 7 = 153.23. Stamped COPY / RECEIVED APR 05 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "306.46",
+     "result": "unknown",
+     "detail": "the Summary Page Column A line 1 was left blank by the filer (stated_c is '' in the chunk file), so there is no stated figure to reconcile against; Schedule A's own printed TOTAL CONTRIBUTIONS RECEIVED is 306.46 and the two transcribed rows sum to exactly 306.46"
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "153.23",
+     "result": "unknown",
+     "detail": "Summary Page Column A line 2 left blank by the filer; Schedule B's own printed TOTAL EXPENDITURES MADE is 153.23 and the single transcribed row is 153.23"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 153.23 + 153.23 = 306.46 = printed SUBTOTAL FOR THIS PAGE 306.46 (and = printed TOTAL 306.46) - GATE FIRED, exact; p4 row 153.23 = printed SUBTOTAL 153.23 = printed TOTAL 153.23 - GATE FIRED, exact",
+   "escalations": 2,
+   "escalation_note": "p3 rows 1-2 band re-rendered at 500 dpi; p3 row 1 DATE cell cropped at 1100 dpi to settle the day glyph (16 vs 10/14) - the closed loop with tall ascender matches the filer's 6 in '2006', and Schedule B records the matching filing-fee payment on '16 March 2006', so 16 is taken",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Schedule A row 1 is a self-LOAN: the Name of Contributor cell reads 'LOAN / Ben Kendrick' on two lines - transcribed verbatim including the LOAN marker. Row 1 has no address (filer left the Complete Mailing Address cell empty). Row 2's Occupation/Employer cell holds a bare dash. The Summary Page lines 1/2 were left blank by this filer, which is why both sides reconcile only against the schedules' own printed totals."
+  }
  }
 }

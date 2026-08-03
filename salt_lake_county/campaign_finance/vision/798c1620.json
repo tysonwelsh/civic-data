@@ -1,6 +1,295 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-04-02",
+   "donor_raw": "Deepika Avanti",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,19.85,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-02",
+   "donor_raw": "David Gillette",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,23.75,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-02",
+   "donor_raw": "Gerald Lazar",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,27.85,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-02",
+   "donor_raw": "Matthew Steward",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,32.25,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-04-02",
+   "donor_raw": "John D'Arcy",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,36.15,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-04-02",
+   "donor_raw": "Jane Steward",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,40.15,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-04-02",
+   "donor_raw": "Joe Andrade",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,44.25,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-04-09",
+   "donor_raw": "Frances Ashley",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,48.50,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-04-09",
+   "donor_raw": "Tom Ashley",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,52.60,86.40,3.90@p3",
+   "note": "address block county-redacted (black box)"
+  },
+  {
+   "line_no": 10,
+   "date": "2012-05-31",
+   "donor_raw": "Wells Fargo Bank",
+   "amount": ".11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.44,56.60,86.40,3.90@p3",
+   "note": "occupation col reads 'interest on account'; amount written as a bare decimal '.11' with no leading zero. ESCALATED: 1200dpi + 600dpi cell crops; the two cent glyphs are identical in form to this filer's '1' (tick+slash) and unlike his '4' (see '806.94' below); .11 is also the only value that closes the page subtotal (2007.05); address block county-redacted (black box)"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-03-09",
+   "donor_raw": "Jeffrey Hatch",
+   "amount": "806.94",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,61.25,86.40,3.90@p3",
+   "note": "candidate self-loan; occupation col reads 'loan to campaign'. Name is cramped and runs into the redaction block; glyph string 'Jeffreyhatch'; address block county-redacted (black box)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-05-09",
+   "vendor_raw": "Wells Fargo Bank",
+   "purpose": "late fee",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,21.40,80.40,4.00@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-09",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "filing fee",
+   "amount": "173.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,25.40,80.40,4.00@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-05-29",
+   "vendor_raw": "U S Postal Service",
+   "purpose": "stamps",
+   "amount": "135.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,29.50,80.40,4.00@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-03-12",
+   "vendor_raw": "Original Copy",
+   "purpose": "flyers",
+   "amount": "203.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,33.50,80.40,4.00@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-05-07",
+   "vendor_raw": "Joseph Lyon Printers",
+   "purpose": "lawn signs",
+   "amount": "908.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,37.50,80.40,4.00@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-05-29",
+   "vendor_raw": "Original Copy",
+   "purpose": "flyers",
+   "amount": "26.90",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,41.75,80.40,4.00@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-05-29",
+   "vendor_raw": "Original Copy",
+   "purpose": "postcards",
+   "amount": "252.17",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,45.75,80.40,4.00@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-05-29",
+   "vendor_raw": "Original Copy",
+   "purpose": "flyers",
+   "amount": "63.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,50.00,80.40,4.00@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-04-06",
+   "vendor_raw": "Salt Lake County Democrats",
+   "purpose": "politisauce, con[struck through]",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,54.25,80.40,4.00@p4",
+   "note": "purpose has a struck-through word after 'politisauce,'"
+  },
+  {
+   "line_no": 10,
+   "date": "2012-05-05",
+   "vendor_raw": "Everett T Brown",
+   "purpose": "campaign buttons",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,58.50,80.40,4.00@p4"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-04-06",
+   "vendor_raw": "Salt Lake Co. Democrats",
+   "purpose": "convention",
+   "amount": "70.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.84,62.50,80.40,4.00@p4"
+  }
+ ],
  "total_contributions": "2007.05",
  "total_expenditures": "2007.05",
  "beginning_balance": "0",
@@ -49,6 +338,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2012-vintage form; the interim boxes carry explicit 2012 period-end dates, so form_year is 2012. Only Final/Dissolution is checked; amendment 'No' is checked. Summary Page header block filled in: Page 1 of 3, last name 'Hatch', date of report 12-24-12; Column B is labelled 'Year to Date' on this vintage. Handwriting caution: in Line 1 Column B and both Line 2 cells the filer's joined double-zero renders like an extra digit (could be misread as '20057.05'/'2057.05'); re-rendered at 500 dpi, the clean cells on Lines 4, 5 and 6 read '2007.05' unambiguously and those lines are the filer's own copies of Line 1 Col A and Line 2 Col A, so all six cells are transcribed 2007.05, with medium confidence on the loopy ones. Lines 3 and 7 are hand-drawn zeros."
+  "notes": "2012-vintage form; the interim boxes carry explicit 2012 period-end dates, so form_year is 2012. Only Final/Dissolution is checked; amendment 'No' is checked. Summary Page header block filled in: Page 1 of 3, last name 'Hatch', date of report 12-24-12; Column B is labelled 'Year to Date' on this vintage. Handwriting caution: in Line 1 Column B and both Line 2 cells the filer's joined double-zero renders like an extra digit (could be misread as '20057.05'/'2057.05'); re-rendered at 500 dpi, the clean cells on Lines 4, 5 and 6 read '2007.05' unambiguously and those lines are the filer's own copies of Line 1 Col A and Line 2 Col A, so all six cells are transcribed 2007.05, with medium confidence on the loopy ones. Lines 3 and 7 are hand-drawn zeros.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2007.05",
+     "itemized": "2007.05",
+     "result": "exact",
+     "detail": "exact (2007.05 = 2007.05) after the escalated Wells Fargo interest cell read .11"
+    },
+    "expenditures": {
+     "stated": "2007.05",
+     "itemized": "2007.05",
+     "result": "exact",
+     "detail": "exact (2007.05 = 2007.05)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2007.05 = printed SUBTOTAL 2007.05 = printed TOTAL 2007.05 (an initial read of .41 in row 10 gave 2007.35 and FAILED the gate; escalated to 1200dpi/600dpi cell crops, resolved to .11); p4 rows 2007.05 = printed SUBTOTAL 2007.05 = printed TOTAL 2007.05",
+   "escalations": 3,
+   "escalation_note": "p3 amount col: 1200dpi crop of the Wells Fargo cents cell; 1200dpi crop of the 806.94 loan cell (confirms this hand's '4'); 600dpi 4-row band of the amount column for glyph comparison. p3 donor col re-read in two 400dpi bands (verification).",
+   "n_contrib_rows": 11,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten 4-page filing, pages in order (1 cover / 2 Summary / 3 Schedule A / 4 Schedule B). Mailing-address column is a solid county redaction block on p3, so no donor city/state exists to read. Both sides gate exactly and both equal the Summary Page figures."
+  }
  }
 }

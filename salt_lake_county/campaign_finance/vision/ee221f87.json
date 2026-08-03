@@ -1,6 +1,20 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Brent Cardall",
+   "purpose": "PAY loan to",
+   "amount": "833.41",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,26.42,76.15,3.42@p3",
+   "note": "DATE printed '6/2006' - month and year only, no day, so not cleanly parseable to ISO; left blank + needs_review, verbatim kept here. The date also predates the 3/17/09 report; kept verbatim. PURPOSE reads 'PAY loan to' with a trailing word struck out/scribbled (confirmed at a 600dpi tight cell crop); transcribed to the struck-out point only. Recipient is the candidate himself (loan repayment)."
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "",
  "beginning_balance": "833.41",
@@ -45,6 +59,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2008 Summary Report', but the form checks the FINAL REPORT box, not the Year-End box (the check mark sits on the Final Report box; read at medium confidence because the mark is a light hook). The Office Sought box is blank. Neither amendment box is checked. DECIMAL COMMA: Line 1 Column B is written '9 349,85' - a space where the thousands comma belongs and a COMMA as the decimal separator - recorded exactly as written; Line 2 Column B is written '9 349.85' with a period. Lines 1 and 2 Column A, Line 4 and Line 5 are all left BLANK by the filer; only Lines 3, 6 (both 833.41) and 7 carry Column A figures. Line 7 is a slashed zero = 0."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2008 Summary Report', but the form checks the FINAL REPORT box, not the Year-End box (the check mark sits on the Final Report box; read at medium confidence because the mark is a light hook). The Office Sought box is blank. Neither amendment box is checked. DECIMAL COMMA: Line 1 Column B is written '9 349,85' - a space where the thousands comma belongs and a COMMA as the decimal separator - recorded exactly as written; Line 2 Column B is written '9 349.85' with a period. Lines 1 and 2 Column A, Line 4 and Line 5 are all left BLANK by the filer; only Lines 3, 6 (both 833.41) and 7 carry Column A figures. Line 7 is a slashed zero = 0.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "No Schedule A page exists in this 4-page document (p1 cover, p2 Summary Page, p3 Schedule B, p4 Dissolution notice). Summary Page line 1 Column A is also blank (Column B shows 9349.85). Honest non-existence, not a zero."
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "833.41",
+     "result": "unknown",
+     "detail": "Summary Page line 2 Column A is BLANK (stated_e empty in the chunk file), so there is no stated figure to reconcile against. The filing's own Schedule B printed TOTAL EXPENDITURES MADE = 833.41 equals the single transcribed row (833.41), and Summary line 6 Column A also prints 833.41."
+    }
+   },
+   "page_subtotal_gates": "p3: SUBTOTAL FOR THIS PAGE cell is EMPTY (filer left it blank) so that page cannot gate on a subtotal; the page's printed TOTAL EXPENDITURES MADE 833.41 was used instead and equals the single row 833.41",
+   "escalations": 2,
+   "escalation_note": "p3 purpose cell 600dpi tight crop x1 (struck-out trailing word); p3 full row band 300dpi x1 (date/name/amount re-read, identical)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4 pages: p1 cover (Brent Cardall, Republican; FINAL REPORT box checked; signed 3/17/09), p2 Summary Page, p3 Schedule B, p4 the clerk's 'Dissolution of a Candidate Campaign' notice. THERE IS NO SCHEDULE A PAGE. Summary Page Column A is blank on lines 1 and 2; the money appears in lines 3 (833.41 beginning balance), 6 (833.41) and 7 (slashed zero). Column B carries 9349.85 on both lines 1 and 2."
+  }
  }
 }

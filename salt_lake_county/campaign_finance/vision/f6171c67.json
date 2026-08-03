@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "EVERY Summary Page cell (Lines 1-7, both columns) is a hand-drawn slashed zero; all recorded as '0'. Neither amendment box is checked. Faxed 03/30/2010 16:56 from 801-208-9451 (fax pagination 'PAGE 02/05' on the cover, 'PAGE 03/05' on the Summary Page - the fax cover sheet is not in this PDF), signed 4/5/10, clerk-stamped MAR 30 2010. Note the ordering oddity: the fax and clerk stamp both PRECEDE the 4/5/10 signature date. The filer's April amendment (jvotaw_10_Apr_Interim_Amend.pdf) later restates this period at 648.48."
+  "notes": "EVERY Summary Page cell (Lines 1-7, both columns) is a hand-drawn slashed zero; all recorded as '0'. Neither amendment box is checked. Faxed 03/30/2010 16:56 from 801-208-9451 (fax pagination 'PAGE 02/05' on the cover, 'PAGE 03/05' on the Summary Page - the fax cover sheet is not in this PDF), signed 4/5/10, clerk-stamped MAR 30 2010. Note the ordering oddity: the fax and clerk stamp both PRECEDE the 4/5/10 signature date. The filer's April amendment (jvotaw_10_Apr_Interim_Amend.pdf) later restates this period at 648.48.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) has no line items; the filer wrote 'N/A' in the first Name of Contributor cell and left every other cell, including SUBTOTAL and TOTAL, blank. Zero rows against a stated 0."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B (p4) likewise carries only 'N/A' in the first Name of Recipient cell, with SUBTOTAL and TOTAL blank. Zero rows against a stated 0."
+    }
+   },
+   "page_subtotal_gates": "NEITHER page prints a subtotal or a total - both cells are empty on both schedules - so no page-subtotal gate exists on this filing. That is the one gate that could not fire, and the reason is that the filer voided the schedules with 'N/A' instead of writing a zero.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "April-5 interim for Jeremy Votaw (Clerk), received as a FAX - each page carries the fax header '03/30/2010 16:56 8012089451 VOTAW PAGE 04/05 / 05/05'. Both schedules are empty and voided with a handwritten 'N/A' in the first name cell. Per the repo zero-glyph ruling 'N/A' is NOT a numeral, so no zero was read off the schedule pages themselves; the zero comes from the already-transcribed Summary Page. Zero rows on both sides is the honest transcription, and the empty schedules are consistent with the stated 0 / 0."
+  }
  }
 }

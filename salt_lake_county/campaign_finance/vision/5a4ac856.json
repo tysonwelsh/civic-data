@@ -1,6 +1,74 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-07",
+   "donor_raw": "Larry Richardson",
+   "amount": "572.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.55,24.65,85.20,3.50@p3",
+   "note": "the Complete Mailing Address column is covered by a white county REDACTION block across all three filled rows, so donor_city/donor_state are blank; Occupation/Employer='County Treasurer / Salt Lake County'; a handwritten margin annotation OUTSIDE the table beside this row reads 'Advance to campaign'; the candidate is the filer, and the same 572.92 appears on Schedule B as the county filing fee"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-07",
+   "donor_raw": "Anna F Gallagher",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.55,28.50,85.20,3.50@p3",
+   "note": "the Complete Mailing Address column is covered by a white county REDACTION block across all three filled rows, so donor_city/donor_state are blank; Occupation/Employer='Deputy County Treasurer / Salt Lake County'"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-14",
+   "donor_raw": "Edward T Alter",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.55,32.00,85.20,3.50@p3",
+   "note": "the Complete Mailing Address column is covered by a white county REDACTION block across all three filled rows, so donor_city/donor_state are blank; Occupation/Employer='State Treasurer / State of Utah'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-07",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing fee",
+   "amount": "572.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.14,27.30,78.98,3.20@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-09",
+   "vendor_raw": "Grandinetti Printing",
+   "purpose": "Flyers",
+   "amount": "321.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.14,31.15,78.98,3.20@p4",
+   "note": "recipient name is cursive; read 'Grandinetti Printing' at medium confidence"
+  }
+ ],
  "total_contributions": "3,072.92",
  "total_expenditures": "894.85",
  "beginning_balance": "4,629.05",
@@ -49,6 +117,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Neither amendment box is checked. Lines 3+4=5 and 5-6=7 both reconcile exactly (4,629.05 + 3,072.92 = 7,701.97; minus 894.85 = 6,807.12)."
+  "notes": "Neither amendment box is checked. Lines 3+4=5 and 5-6=7 both reconcile exactly (4,629.05 + 3,072.92 = 7,701.97; minus 894.85 = 6,807.12).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,072.92",
+     "itemized": "3072.92",
+     "result": "exact",
+     "detail": "exact (3 rows 572.92 + 2000.00 + 500.00 = 3072.92 = the page's own handwritten SUBTOTAL and TOTAL 3,072.92)"
+    },
+    "expenditures": {
+     "stated": "894.85",
+     "itemized": "894.85",
+     "result": "exact",
+     "detail": "exact (2 rows 572.92 + 321.93 = 894.85 = the page's own handwritten SUBTOTAL and TOTAL 894.85)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3072.92 = printed SUBTOTAL FOR THIS PAGE 3,072.92 (gate fires); p4 rows 894.85 = printed SUBTOTAL FOR THIS PAGE 894.85 (gate fires).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten April-5 interim for Larry W. Richardson (Treasurer), Date of Report 04/02/06, hand-numbered 'Page 1 of 1' on both schedules. The candidate's own 572.92 contribution carries a HANDWRITTEN MARGIN ANNOTATION outside the table reading 'Advance to campaign', and the identical 572.92 leaves again on Schedule B as the Salt Lake County Clerk FILING FEE - i.e. the candidate fronted his own filing fee. The Complete Mailing Address column is covered by a white county redaction block on all three contributor rows, so no city/state is recoverable; the Occupation/Employer column is filled in full and preserved per row. Both sides gate exactly on the page's own subtotal."
+  }
  }
 }

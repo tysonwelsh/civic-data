@@ -1,6 +1,85 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Walmart",
+   "purpose": "Printing",
+   "amount": "51.27",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,28.00,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('10/27'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Walmart",
+   "purpose": "Sign Supplies",
+   "amount": "10.57",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,32.06,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('10/28'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010."
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Red Robin",
+   "purpose": "Volunteer lunch",
+   "amount": "47.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,36.12,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('10/31'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010."
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Campaign Secrets",
+   "purpose": "Website",
+   "amount": "24.95",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,40.18,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('11/1'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010."
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Chris Miller",
+   "purpose": "Reimbursement Expenses",
+   "amount": "127.24",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,44.24,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('11/2'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010."
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Chris Miller",
+   "purpose": "Reimbursement Expenses",
+   "amount": "5.71",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,48.30,77.90,3.90@p4",
+   "note": "NO YEAR IS PRINTED IN THE DATE CELL - the filer wrote only month and day ('11/3'). Per the contract the date is left BLANK with needs_review rather than filled from the report period. For context only, and NOT used to fill the field: the Mountain America Credit Union account history attached as page 5 of this same filing shows the identical transaction in 2010.; the recipient and purpose cells both hold DITTO MARKS, resolved to the row above ('Chris Miller' / 'Reimbursement Expenses'); the resolution is stated rather than silently expanded"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "267.37",
  "beginning_balance": "267.37",
@@ -49,6 +128,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten, clean. Top-row 'Office' box reads 'County Council #5'; Office Sought 'County Council' with District Number '5'. Aggregate contributions and aggregate expenditures are both 21,093.42 and the closing balance is a hand-drawn zero, as a dissolution report requires. Neither amendment box is checked."
+  "notes": "Handwritten, clean. Top-row 'Office' box reads 'County Council #5'; Office Sought 'County Council' with District Number '5'. Aggregate contributions and aggregate expenditures are both 21,093.42 and the closing balance is a hand-drawn zero, as a dissolution report requires. Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3 (present, no rows)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0); Schedule A exists and carries NO rows - a single long curved stroke is drawn across the first few empty rows and both the SUBTOTAL and TOTAL cells carry a hand-drawn zero. A real zero matching Summary line 1, not a gap."
+    },
+    "expenditures": {
+     "stated": "267.37",
+     "itemized": "267.37",
+     "result": "exact",
+     "detail": "exact (267.37 = 267.37); the 6 rows equal the printed SUBTOTAL FOR THIS PAGE 267.37 and Summary line 2. NOTE the printed TOTAL EXPENDITUTRES MADE cell on the same page does NOT read 267.37 - it reads 21,093.42, which is this committee's CUMULATIVE total to date (the same 21,093.42 the Summary Page carries as the aggregate on both sides). The period gate is the SUBTOTAL, and it closes exactly; the TOTAL cell is a different quantity and is recorded here rather than treated as a mismatch."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): rows 0.00 = printed SUBTOTAL 0 = printed TOTAL 0 - GATE FIRED on a zero. p4 (Schedule B): rows 267.37 = printed SUBTOTAL FOR THIS PAGE 267.37 - GATE FIRED EXACTLY. The page's TOTAL EXPENDITUTRES MADE cell reads 21,093.42 and does NOT gate against the rows, because the filer put the committee's cumulative-to-date figure there instead of the sum of this report's subtotals; both figures are named here and neither was adjusted.",
+   "escalations": 0,
+   "escalation_note": "None needed - six legible rows gated exactly by the page subtotal.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "5-page Final / Dissolution filing: p1 cover, p2 Summary Page (totals tranche, not redone), p3 Schedule A (no rows, zeros in both total cells), p4 Schedule B (6 rows), p5 a MOUNTAIN AMERICA CREDIT UNION account history printout for 10-27-2010 to 11-10-2010 showing the account run down to a $0.00 balance. Nothing was transcribed from p5 - it is supporting material, not a schedule, and its account identifiers were not recorded. EVERY EXPENDITURE DATE ON THIS FILING PRINTS MONTH AND DAY ONLY, WITH NO YEAR, so all six dates are left BLANK with needs_review per the contract; the bank printout independently places the same transactions in 2010 but that was NOT used to fill the date field. The last row's recipient and purpose are ditto marks resolved to the row above. One transaction visible on the bank printout (a $250.00 draft on 10-27-2010) has no corresponding Schedule B row - noted as an observation about the attachment, not transcribed. Both schedule pages are headed 'Andrus' with Date of Report 11/10/10 and hand-numbered 'Page 2 of 4' / 'Page 3 of 4'."
+  }
  }
 }

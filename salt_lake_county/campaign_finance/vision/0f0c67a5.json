@@ -1,6 +1,145 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-11-13",
+   "donor_raw": "Utah ACG-PAC",
+   "amount": "$200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:84.02,8.75,1.68,62.25@p4",
+   "note": "occupation/employer column: 'Entity'; address column is a solid COUNTY REDACTION box (redacted) - no city/state printed; the sheet's 'In-Kind?' column is EMPTY on every row"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-28",
+   "donor_raw": "Barbara Reid",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:81.82,8.75,1.68,62.25@p4",
+   "note": "occupation/employer column: 'Retired'; address column is a solid COUNTY REDACTION box (redacted) - no city/state printed; the sheet's 'In-Kind?' column is EMPTY on every row"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-30",
+   "donor_raw": "Vanleeuwen Properties",
+   "amount": "$200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:79.69,8.75,1.68,62.25@p4",
+   "note": "occupation/employer column: 'Entity'; address column is a solid COUNTY REDACTION box (redacted) - no city/state printed; the sheet's 'In-Kind?' column is EMPTY on every row"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-10-29",
+   "vendor_raw": "Utah Democratic Party",
+   "purpose": "Coordinated Campaign",
+   "amount": "$3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:84.15,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-29",
+   "vendor_raw": "Progressive Direct Mail",
+   "purpose": "Mailing",
+   "amount": "$1,502.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:81.95,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-31",
+   "vendor_raw": "Utah Democratic Party",
+   "purpose": "Coordinated Campaign",
+   "amount": "$2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:79.82,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-11-13",
+   "vendor_raw": "Charles Stormont Campaign",
+   "purpose": "Donation",
+   "amount": "$200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:77.68,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 5,
+   "date": "2014-11-19",
+   "vendor_raw": "American United Credit Union",
+   "purpose": "Bank Fees",
+   "amount": "$24.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:75.55,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 6,
+   "date": "2014-11-19",
+   "vendor_raw": "Dan Snarr",
+   "purpose": "Gas/Partial Loan Repayment",
+   "amount": "$911.49",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:73.48,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  },
+  {
+   "line_no": 7,
+   "date": "2014-11-19",
+   "vendor_raw": "Chase Clyde",
+   "purpose": "Consultant Fee",
+   "amount": "$1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:71.34,7.75,1.68,57.75@p6",
+   "note": "typed attachment sheet (landscape, rotated 90 CCW to read)"
+  }
+ ],
  "total_contributions": "900",
  "total_expenditures": "8,638.08",
  "beginning_balance": "7,738.08",
@@ -49,6 +188,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2014 form title reads '2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 7 is a heavily-inked drawn zero. Line 1 Column B is written without a thousands comma ('36493.46') while Line 2 Column B has one ('36,493.46') \u2014 both kept verbatim. Line 3's handwriting overlaps the printed arrow; read as 7,738.08, which matches Line 7 of this filer's October report (key 12698ed9)."
+  "notes": "2014 form title reads '2014 Financial Disclosure Report ... [County Officeholders - Year-End]'. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 7 is a heavily-inked drawn zero. Line 1 Column B is written without a thousands comma ('36493.46') while Line 2 Column B has one ('36,493.46') \u2014 both kept verbatim. Line 3's handwriting overlaps the printed arrow; read as 7,738.08, which matches Line 7 of this filer's October report (key 12698ed9).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "900",
+     "itemized": "900.00",
+     "result": "exact",
+     "detail": "exact - 3 rows (200+500+200) sum to 900.00 = the attachment's own printed 'TOTAL: $900.00' = Summary Page line 1 stated 900"
+    },
+    "expenditures": {
+     "stated": "8,638.08",
+     "itemized": "8638.08",
+     "result": "exact",
+     "detail": "exact - 7 rows sum to 8,638.08 = the attachment's own printed 'TOTAL: $8,638.08' = Summary Page line 2 stated 8,638.08"
+    }
+   },
+   "page_subtotal_gates": "The on-form 'Itemized Contributions Received' (p3) and 'Itemized Expenditures Made' (p5) pages carry only a handwritten 'See attached' and leave SUBTOTAL FOR THIS PAGE and the TOTAL cells EMPTY - no per-page gate there. The attachments' own printed TOTAL lines are the gates and both fired and passed (900.00 and 8,638.08).",
+   "escalations": 0,
+   "escalation_note": "No cell escalation was needed, but the 200 dpi read MATERIALLY CORRECTED the low-resolution classification sheet on this filing: at 55 dpi the contributor read 'Barbara Bird' (actually Barbara Reid), the third contribution date read 10/20/2014 (actually 10/30/2014), and the expenditure dates were mis-stepped by one row. Only the 200 dpi renders were used as the transcription source.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "6-page PDF, pages in order: p1 cover (2014 Financial Disclosure Report, County Officeholders - Year-End) / p2 Summary Page / p3 on-form 'Itemized Contributions Received' with 'See attached' / p4 contributions attachment / p5 on-form 'Itemized Expenditures Made' with 'See attached' / p6 expenditures attachment. Both attachments are LANDSCAPE, rendered portrait by poppler and rotated 90 degrees COUNTER-CLOCKWISE to read; each is headed by the filer's handwritten label ('Contributions' / 'Expenditures'). PRIVACY: the contributions attachment's Address column is a solid black COUNTY REDACTION - donor_city/donor_state blank, 'redacted' noted per row. The contributions sheet carries an explicit 'In-Kind?' column which is EMPTY on all three rows, so no row is marked in-kind. Occupation & Employer values are recorded in the row notes (no schema field). The cover checks BOTH the Year-End (January 31) box and the Final/Dissolution box, and marks 'No' to amendment; the listing label 'YearEnd' is consistent. The Summary Page's line 7 closing balance is a zero glyph (a drawn oval), consistent with a dissolution."
+  }
  }
 }

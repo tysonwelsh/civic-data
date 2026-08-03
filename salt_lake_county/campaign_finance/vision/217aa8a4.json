@@ -1,6 +1,180 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-04-23",
+   "donor_raw": "Lee Gardner",
+   "amount": "111.37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,24.41,82.40,3.58@p3",
+   "geometry_px": "p3:x140,y545,w1400,h80@200dpi",
+   "geometry_fit": "measured",
+   "note": "candidate-self; superscript cents; occupation 'Assessor'; address cell struck/illegible so city/state blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-26",
+   "donor_raw": "Lee Gardner",
+   "amount": "44.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,27.99,82.40,3.58@p3",
+   "geometry_px": "p3:x140,y625,w1400,h80@200dpi",
+   "geometry_fit": "measured",
+   "note": "superscript cents; address/occupation cells hold ditto marks"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-29",
+   "donor_raw": "Aggregate",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,31.57,82.40,3.58@p3",
+   "geometry_px": "p3:x140,y705,w1400,h80@200dpi",
+   "geometry_fit": "measured",
+   "note": "unnamed aggregate line -> donor_type aggregate-unitemized"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-29",
+   "donor_raw": "A-1 Pioneer Moving & Storage (In Kind)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "140.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,35.15,82.40,4.03@p3",
+   "geometry_px": "p3:x140,y785,w1400,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "'(In Kind)' printed inside the name cell; street discarded per PRIVACY"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-19",
+   "donor_raw": "S.L.Co. Republican Party (Pledge)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,39.18,82.40,4.03@p3",
+   "geometry_px": "p3:x140,y875,w1400,h90@200dpi",
+   "geometry_fit": "measured",
+   "note": "occupation cell prints 'Political Party'"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-06-19",
+   "donor_raw": "S.L.Co. Republican Party (In-Kind Pledge)",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "3000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,43.22,82.40,4.48@p3",
+   "geometry_px": "p3:x140,y965,w1400,h100@200dpi",
+   "geometry_fit": "measured",
+   "note": "'(In-Kind Pledge)' printed inside the name cell"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-23",
+   "vendor_raw": "GoDaddy.Com",
+   "purpose": "Web Site",
+   "amount": "111.37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,26.43,76.52,3.81@p4",
+   "geometry_px": "p4:x200,y590,w1300,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-26",
+   "vendor_raw": "Sutherlands",
+   "purpose": "Rope",
+   "amount": "44.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,30.24,76.52,3.81@p4",
+   "geometry_px": "p4:x200,y675,w1300,h85@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-28",
+   "vendor_raw": "Kinkos",
+   "purpose": "Brochures",
+   "amount": "273.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,34.05,76.52,3.81@p4",
+   "geometry_px": "p4:x200,y760,w1300,h85@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-29",
+   "vendor_raw": "A-1 Pioneer Moving & Storage (In-kind)",
+   "purpose": "Trailer",
+   "amount": "140.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,37.86,76.52,4.03@p4",
+   "geometry_px": "p4:x200,y845,w1300,h90@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-05-31",
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Misc Bank Charges",
+   "amount": "22.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.77,41.89,76.52,3.81@p4",
+   "geometry_px": "p4:x200,y935,w1300,h85@200dpi",
+   "geometry_fit": "measured"
+  }
+ ],
  "total_contributions": "5,346.08",
  "total_expenditures": "591.47",
  "beginning_balance": "11,413.10",
@@ -49,6 +223,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Every figure writes its cents as a raised superscript over a rule (e.g. 5,346 with a superscript 08); transcribed with a decimal point. The form checks the June 20 interim box AND the amendment 'Yes' box with date of report 'June 20, 2006' - i.e. this amends the June 20 report, consistent with the clerk label. The manifest's election_year of 2020 is wrong: the form is the 2006 Financial Disclosure Report, signed 7-21-06 and clerk-stamped JUL 21 2006. Lines 3+4=5 and 5-6=7 both reconcile exactly, and Line 3 (11,413.10) matches Line 7 of this candidate's April 5 report."
+  "notes": "Every figure writes its cents as a raised superscript over a rule (e.g. 5,346 with a superscript 08); transcribed with a decimal point. The form checks the June 20 interim box AND the amendment 'Yes' box with date of report 'June 20, 2006' - i.e. this amends the June 20 report, consistent with the clerk label. The manifest's election_year of 2020 is wrong: the form is the 2006 Financial Disclosure Report, signed 7-21-06 and clerk-stamped JUL 21 2006. Lines 3+4=5 and 5-6=7 both reconcile exactly, and Line 3 (11,413.10) matches Line 7 of this candidate's April 5 report.",
+  "itemized": {
+   "wave": "opus pilot 2026-08-02 (calibration-suite pilot-opus/), PROMOTED into wave B2",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5346.08",
+     "itemized": "5346.08",
+     "result": "exact",
+     "detail": "exact (5346.08 = 5346.08)"
+    },
+    "expenditures": {
+     "stated": "591.47",
+     "itemized": "591.47",
+     "result": "exact",
+     "detail": "exact (591.47 = 591.47)"
+    }
+   },
+   "page_subtotal_gates": "",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 11,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": "PILOT ESTIMATE (opus pilot bboxes, converted): render-back spot-checks 2026-08-02 found portrait boxes row-exact (3/3 sampled) and one rotated page (08_jwinder_jan31 p3) off by 8 row-pitches; treat pilot rows' geometry as a page/section pointer, not a row-exact box. Wave-B2 bulk rows carry transcriber-verified pct boxes."
+   },
+   "notes": "pilot 2026-08-02, promoted; Superscript-cents form throughout. index.csv/pilot_set carry election_year 2020, a filename mis-parse of a JUNE 2006 form - flagged; transcribed from the form (riverton-Pierucci precedent)."
+  }
  }
 }

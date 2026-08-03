@@ -1,6 +1,204 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-10-27",
+   "donor_raw": "George Nielsen",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,24.50,88.24,3.15@p3",
+   "note": "amount written '$100' with raised superscript cents '00'; occupation 'retired'; address block redacted"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-28",
+   "donor_raw": "Gary Deseelhorst",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,27.80,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'Solitude'; address block redacted"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-10-28",
+   "donor_raw": "Greg Curtis",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,31.15,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'unknown'; address block redacted. This and the next row are two separate same-day $500 entries from the same donor, braced together in the left margin by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-10-28",
+   "donor_raw": "Greg Curtis",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,34.50,88.24,3.15@p3",
+   "note": "raised superscript cents; occupation 'unknown'; address block redacted; second of the two braced Greg Curtis entries"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-10-28",
+   "donor_raw": "Tom Dolan",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,37.80,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'Mayor'; address block redacted"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-10-28",
+   "donor_raw": "Utah Soccer LLC Real Salt Lake",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,41.15,88.24,3.20@p3",
+   "note": "name written on two lines, 'Utah Soccer LLC' over 'Real Salt Lake'; occupation 'Real Salt Lake'; raised superscript cents; address block redacted"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-10-28",
+   "donor_raw": "Dana Anderson",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,44.50,88.24,3.15@p3",
+   "note": "raised superscript cents; occupation 'Vice chairman / Macerich'; address block redacted"
+  },
+  {
+   "line_no": 8,
+   "date": "2010-10-28",
+   "donor_raw": "Arthur M. Coppola",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,47.80,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'chairman of the Board / Macerich'; address block redacted"
+  },
+  {
+   "line_no": 9,
+   "date": "2010-10-28",
+   "donor_raw": "Edward Coppola",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,51.15,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'president / Macerich'; address block redacted"
+  },
+  {
+   "line_no": 10,
+   "date": "2010-10-28",
+   "donor_raw": "David Nicponski",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,54.50,88.24,3.15@p3",
+   "note": "raised superscript cents; occupation 'David Nicponski and Assoc.'; address block redacted"
+  },
+  {
+   "line_no": 11,
+   "date": "2010-11-08",
+   "donor_raw": "The Tetris Group",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,57.80,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'The Tetris Group, LLC'; address block redacted"
+  },
+  {
+   "line_no": 12,
+   "date": "2010-11-15",
+   "donor_raw": "Reagan Outdoor Advertising, Inc.",
+   "amount": "85.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,61.15,88.24,3.20@p3",
+   "note": "this is a REFUND booked as a contribution - the occupation cell reads 'Rd. Advertisement (Refund-overpayment)'; address block redacted"
+  },
+  {
+   "line_no": 13,
+   "date": "2010-11-26",
+   "donor_raw": "Randy Brant",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,64.50,88.24,3.15@p3",
+   "note": "raised superscript cents; occupation 'unknown'; address block redacted"
+  },
+  {
+   "line_no": 14,
+   "date": "2011-01-18",
+   "donor_raw": "Randy Horiuchi",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.79,67.80,88.24,3.20@p3",
+   "note": "raised superscript cents; occupation 'Horiuchi and Assoc.'; address block redacted. Dated 2011 on a January-31 year-end report - within the period, not a typo"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-11-03",
+   "vendor_raw": "Tyler DeBry",
+   "purpose": "Removal of signs",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.05,27.00,79.83,3.00@p4",
+   "note": "amount written '$200' with raised superscript cents '00'"
+  }
+ ],
  "total_contributions": "$4,935.04",
  "total_expenditures": "$200.00",
  "beginning_balance": "$10,393.30",
@@ -49,6 +247,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Year-End box checked; neither amendment box is checked. Signed 1-25-11 and clerk-stamped RECEIVED JAN 2011, i.e. the year-end report FOR 2010. Summary Page header 'DeBry, 1-25-11, page 2 of 4'. Both columns reconcile exactly (10,393.30 + 4,935.04 = 15,328.34; less 200.00 = 15,128.34 = 26,653.50 - 11,525.16), and Column B chains correctly from the October interim (11,325.16 + 200.00 = 11,525.16)."
+  "notes": "Year-End box checked; neither amendment box is checked. Signed 1-25-11 and clerk-stamped RECEIVED JAN 2011, i.e. the year-end report FOR 2010. Summary Page header 'DeBry, 1-25-11, page 2 of 4'. Both columns reconcile exactly (10,393.30 + 4,935.04 = 15,328.34; less 200.00 = 15,128.34 = 26,653.50 - 11,525.16), and Column B chains correctly from the October interim (11,325.16 + 200.00 = 11,525.16).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$4,935.04",
+     "itemized": "4935.04",
+     "result": "exact",
+     "detail": "exact (4935.04 = 4935.04) against Summary Page line 1 Column A and the printed SUBTOTAL FOR THIS PAGE. NOTE the schedule's TOTAL CONTRIBUTIONS RECEIVED cell prints $26,653.50, which is the filer's TO-DATE aggregate (it equals Column B of the Summary Page), NOT the sum of this document's page subtotals - retained verbatim, not reconciled."
+    },
+    "expenditures": {
+     "stated": "$200.00",
+     "itemized": "200.00",
+     "result": "exact",
+     "detail": "exact (200.00 = 200.00) against Summary Page line 2 Column A and the printed SUBTOTAL. The TOTAL EXPENDITURES MADE cell prints $11,525.16, again the to-date aggregate (= Column B), not this page's sum - retained verbatim."
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 4935.04 = printed SUBTOTAL FOR THIS PAGE $4,935.04 - gate fired and passed on all 14 rows; p4 row sum 200.00 = printed SUBTOTAL $200.00 - gate fired and passed. Neither page's TOTAL line gates, BY DESIGN: this filer used the TOTAL row for the cumulative to-date figure ($26,653.50 / $11,525.16) rather than the sum of subtotals, and those figures are recorded here but not used as a gate.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 14,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten, legible cursive. Header boxes 'Page 3 of 4 / DeBry / 1-25-11' and 'Page 4 of 4 / DeBry / 1-25-11' - the January-31 year-end report FOR 2010. Cents are written as a small RAISED SUPERSCRIPT over a rule on every amount ($100 with a raised 00); transcribed with a decimal point per the currency convention. THE COMPLETE MAILING ADDRESS COLUMN IS COUNTY-REDACTED on every row (a white rectangle over the column; fragments of the redacted text bleed past its right edge into the Occupation column), so donor_city/donor_state are blank with 'redacted' noted on every row. Rows 3 and 4 are two SEPARATE $500.00 contributions from the same donor on the same day (Greg Curtis), bracketed together in the left margin by the filer - both retained. Row 12 is a REFUND of an overpayment booked as a contribution ('Refund-overpayment' written in the occupation cell). Row 14 is dated 1-18-11, inside the reporting period of a January-31 year-end filing."
+  }
  }
 }

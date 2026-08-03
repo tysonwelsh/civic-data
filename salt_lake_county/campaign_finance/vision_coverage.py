@@ -11,10 +11,22 @@ import csv
 import glob
 import json
 import os
+import re
 from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 STATED = ("total_contributions", "total_expenditures", "beginning_balance", "ending_balance")
+
+
+def _money(v):
+    """Verbatim printed figure -> float, for REPORTING only. Never written back anywhere."""
+    if not v:
+        return 0.0
+    s = re.sub(r"[^0-9.\-]", "", str(v).replace("(", "-").replace(")", ""))
+    try:
+        return float(s)
+    except ValueError:
+        return 0.0
 
 
 def main():
@@ -63,6 +75,70 @@ def main():
     print(f"\ncaches: {len(caches)}   stated fields: value={val} blank-on-form={blank} "
           f"ILLEGIBLE/absent={illegible}")
     print("per-field transcriber confidence:", dict(conf))
+
+    # ---- ITEMIZED layer (wave B2, 2026-08-02). The queue is the CLERK-LEGACY filings that
+    # HAVE a Summary Page: a document with no Summary Page has no Schedule A/B either, and a
+    # filing whose schedules are blank-by-construction is `transcribed` with zero rows — a
+    # real zero, distinct from a withheld side (unfinished) and from `none` (no such page).
+    it_done = Counter()
+    sides = Counter()
+    recon = Counter()
+    waves = Counter()
+    rows_c = rows_e = 0
+    withheld = []
+    gaps = []
+    for p, d in caches.items():
+        era = d["_meta"].get("era") or era_of.get(p, "?")
+        if era != "clerk_legacy" or not d["_meta"].get("summary_page_found"):
+            continue
+        it = (d["_meta"].get("itemized") or {})
+        if not it:
+            it_done["queued"] += 1
+            continue
+        it_done["itemized"] += 1
+        waves[it.get("wave", "?")] += 1
+        rows_c += len(d.get("contributions") or [])
+        rows_e += len(d.get("expenditures") or [])
+        for s, fld in (("contributions", "total_contributions"),
+                       ("expenditures", "total_expenditures")):
+            v = (it.get("sides") or {}).get(s, "none")
+            sides[f"{s}:{v}"] += 1
+            recon[f"{s}:{((it.get('recon') or {}).get(s) or {}).get('result', 'unset')}"] += 1
+            if v == "withheld":
+                withheld.append((p, s, (it.get("withheld_reason") or {}).get(s, "")))
+            # A side whose schedule page does NOT EXIST while the form states a non-zero
+            # total is the one honest gap left inside this layer: money is asserted and no
+            # itemization was ever filed. Distinct from a blank schedule (a real zero).
+            if v == "none":
+                amt = _money(d.get(fld))
+                if amt:
+                    gaps.append((p.split("/")[-1], s, amt))
+    q = it_done["itemized"] + it_done["queued"]
+    print(f"\nITEMIZED (clerk_legacy filings that have a Summary Page): "
+          f"{it_done['itemized']} of {q} done, {it_done['queued']} queued")
+    print(f"  rows: {rows_c} contributions / {rows_e} expenditures")
+    print("  sides: " + " | ".join(f"{k}={v}" for k, v in sorted(sides.items())))
+    # The TRANSCRIBER's verdict, straight from the cache. It is NOT identical to the verdict
+    # shipped in filing_totals.csv: build_finance re-checks each side arithmetically and prints
+    # the disagreements, and it scores a `none`/blank-stated side as unknown. Quote the
+    # filing_totals figures (wave_stats.py) for "as shipped"; quote these for "as read".
+    print("  reconciliation AS READ by the transcriber (see wave_stats.py for as-shipped): "
+          + " | ".join(f"{k}={v}" for k, v in sorted(recon.items())))
+    for w, n in waves.most_common():
+        print(f"    {n:4}  {w}")
+    if withheld:
+        print(f"  WITHHELD sides ({len(withheld)}) — honest incompleteness, never a zero:")
+        for p, s, why in withheld:
+            print(f"     {p} [{s}] {why[:90]}")
+    else:
+        print("  WITHHELD sides: 0 — no side is abandoned mid-read")
+    gc = sum(a for _, s, a in gaps if s == "contributions")
+    ge = sum(a for _, s, a in gaps if s == "expenditures")
+    print(f"\n  DOCUMENTED GAPS — side='none' (no such schedule page) with a NON-ZERO stated "
+          f"total:\n    {len(gaps)} sides across {len({g[0] for g in gaps})} filings; "
+          f"${gc:,.2f} contributions + ${ge:,.2f} expenditures unitemizable from the document")
+    for n, s, a in sorted(gaps, key=lambda x: -x[2]):
+        print(f"     {n:52} {s:13} ${a:>12,.2f}")
 
     ftp = os.path.join(HERE, "filing_totals.csv")
     if os.path.exists(ftp):

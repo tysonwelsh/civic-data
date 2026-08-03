@@ -49,6 +49,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "A 2006-vintage form: the title prints '2006 Financial Disclosure Report' and the interim options are April 5 / June 20 / September 15 / October 31 with 2006 period-end dates - the June 20 box is checked. Party is the write-in 'Personal Choice'. FAX copy, heavily degraded: dense black bleed down both margins, and the PDF's pages are in REVERSE fax order (PDF page 1 is fax P.02, the cover; PDF page 2 is fax P.01, the Summary Page, header 'Page 3 of 3', Date of Report 6-20-06). Handwritten notes to the clerk ('Cathy call back # 533-2444') are scrawled across the cover header. EVERY summary cell - both columns of Lines 1 and 2 and all of Lines 3-7 - is a hand-drawn slashed zero: a candidate committee with no financial activity at all."
+  "notes": "A 2006-vintage form: the title prints '2006 Financial Disclosure Report' and the interim options are April 5 / June 20 / September 15 / October 31 with 2006 period-end dates - the June 20 box is checked. Party is the write-in 'Personal Choice'. FAX copy, heavily degraded: dense black bleed down both margins, and the PDF's pages are in REVERSE fax order (PDF page 1 is fax P.02, the cover; PDF page 2 is fax P.01, the Summary Page, header 'Page 3 of 3', Date of Report 6-20-06). Handwritten notes to the clerk ('Cathy call back # 533-2444') are scrawled across the cover header. EVERY summary cell - both columns of Lines 1 and 2 and all of Lines 3-7 - is a hand-drawn slashed zero: a candidate committee with no financial activity at all.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; stated total on the Summary Page is a slashed-zero glyph"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; stated total on the Summary Page is a slashed-zero glyph"
+    }
+   },
+   "page_subtotal_gates": "no schedule page present, so no page subtotal exists to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2-page fax transmission only: PDF p1 = cover (2006 Financial Disclosure Report, Lilli E. DeCair, Co Council District 1, June 20 interim box checked, signed 6-19-06); PDF p2 = the Summary Page, itself numbered 'Page 3 of 3' on the form. The intervening form page carrying Schedule A / Schedule B was NOT faxed and is absent from the document - honest non-existence, not a blank schedule. Summary Page lines 1-7 all carry a slashed-zero glyph (= 0 per the repo zero-glyph ruling), consistent with the chunk's stated 0/0. Fax is heavily degraded at the margins but the money table is legible."
+  }
  }
 }

@@ -1,6 +1,105 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-10-26",
+   "vendor_raw": "Target Group",
+   "purpose": "Brochure Printing",
+   "amount": "176.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,27.20,80.48,3.50@p4",
+   "note": "date printed '10/26/10' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-26",
+   "vendor_raw": "Target Group",
+   "purpose": "Early Vote Card",
+   "amount": "1,327.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,30.84,80.48,3.50@p4",
+   "note": "date printed '10/26/10' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-10-27",
+   "vendor_raw": "Target Group",
+   "purpose": "Campaign Signs",
+   "amount": "1,136.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:10.67,35.14,80.48,3.50@p4",
+   "note": "printed with a stray intra-number space, '1,1 36.62'; read as 1,136.62 - the value is fixed by arithmetic, the 7 rows sum to the printed TOTAL 8,297.91 only with 1,136.62; date printed '10/27/10' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-10-27",
+   "vendor_raw": "Target Group",
+   "purpose": "Mailer Postage",
+   "amount": "2,014.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,39.19,80.48,3.50@p4",
+   "note": "date printed '10/27/10' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-11-01",
+   "vendor_raw": "Target Group",
+   "purpose": "Mailer Printing",
+   "amount": "2,458.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,43.44,80.48,3.50@p4",
+   "note": "date printed '11/1/2010' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-11-01",
+   "vendor_raw": "Robert Warner",
+   "purpose": "Salary",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,47.49,80.48,3.50@p4",
+   "note": "date printed '11/1/2010' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-12-01",
+   "vendor_raw": "Robert Warner",
+   "purpose": "Salary",
+   "amount": "435.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.67,51.39,80.48,3.50@p4",
+   "note": "date printed '12/1/2010' (the filer switches from 2-digit to 4-digit year mid-schedule)"
+  }
+ ],
  "total_contributions": "$0",
  "total_expenditures": "$8,297.91",
  "beginning_balance": "$8,297.91",
@@ -49,6 +148,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typewritten form, fully legible. Neither the amendment Yes nor No box is checked. Cover top-row Office reads 'SLCo Council #3'. Clerk listing calls this a 2010 dissolution; the form is signed 2/24/11 and stamped received FEB 25 2011."
+  "notes": "Typewritten form, fully legible. Neither the amendment Yes nor No box is checked. Cover top-row Office reads 'SLCo Council #3'. Clerk listing calls this a 2010 dissolution; the form is signed 2/24/11 and stamped received FEB 25 2011.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A (p3) is the county grid with no lines filled and a typed '0' in TOTAL CONTRIBUTIONS RECEIVED; matches the stated $0"
+    },
+    "expenditures": {
+     "stated": "$8,297.91",
+     "itemized": "8297.91",
+     "result": "exact",
+     "detail": "exact (7 rows sum 8297.91 = stated 8,297.91 = the page's own printed TOTAL EXPENDITUTRES MADE 8,297.91)"
+    }
+   },
+   "page_subtotal_gates": "Both schedules leave SUBTOTAL FOR THIS PAGE empty and fill only the TOTAL line, so the gate used is the schedule TOTAL. p3 rows 0.00 = printed TOTAL 0; p4 rows 8297.91 = printed TOTAL 8,297.91. Both gates fire. The p4 gate is what settles row 3, whose amount is printed with a stray intra-number space.",
+   "escalations": 0,
+   "escalation_note": "row 3's spaced glyph '1,1 36.62' was resolved by the TOTAL identity rather than a re-read, per the rule that the document's own arithmetic outranks a glyph re-read",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Typewritten (not handwritten) county form, hand-numbered 'Page 3 of 4' / 'Page 4 of 4', Date of Report 2/24/11. Schedule A is genuinely EMPTY with a typed 0 total - a real zero, matching the listing's Final/Dissolution character. Schedule B is fully itemized on one page. The filer switches date format mid-schedule (10/26/10 ... 11/1/2010); both forms are unambiguous and parse cleanly. No mailing-address column exists on Schedule B, so no city/state question arises; Schedule A's address column is empty because the schedule is empty."
+  }
  }
 }

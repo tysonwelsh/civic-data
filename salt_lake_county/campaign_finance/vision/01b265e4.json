@@ -49,6 +49,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "District Number box holds 'NA'. Zeros written as slashed \u00d8. Summary Page header: page number blank, last name 'Richardson', Date of Report 01/31/06 (the cover signature is 01/30/06 - report_date taken from the signature per instruction). A handwritten annotation 'filed 12/03/02' appears beside the Line 3 'Refer to Line 7 on your last report' arrow."
+  "notes": "District Number box holds 'NA'. Zeros written as slashed \u00d8. Summary Page header: page number blank, last name 'Richardson', Date of Report 01/31/06 (the cover signature is 01/30/06 - report_date taken from the signature per instruction). A handwritten annotation 'filed 12/03/02' appears beside the Line 3 'Refer to Line 7 on your last report' arrow.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4 (blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A on p3 is an empty grid with 'NONE' written across it and a slashed-zero in both the SUBTOTAL and TOTAL cells; zero rows"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B on p4 is an empty grid with 'None' written across it and a slashed-zero in both the SUBTOTAL and TOTAL cells; zero rows"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0.00 = printed subtotal slashed-zero (0) = TOTAL slashed-zero; p4 rows 0.00 = printed subtotal slashed-zero (0) = TOTAL slashed-zero. Both gates fire. Per the repo zero-glyph ruling a slashed Oe IS 0, and the glyph is recorded here verbatim.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, honestly zero - not a gap. 4 pages: p1 cover (YEAR-END January 31 box checked, marked NOT an amendment, Office Sought 'Treasurer', District 'NA', signed 01/30/06, clerk-stamped received JAN 30 2006), p2 Summary Page, p3 Schedule A, p4 Schedule B. Both schedule grids carry the word NONE (p3 'NONE' in the address column of row 1, p4 'None' in the recipient column of row 1) plus a long hand-drawn vertical strike down the grid voiding the unused rows, and a slashed-zero glyph in each of the SUBTOTAL and TOTAL cells. Observed on the Summary Page but NOT part of this tranche: lines 1, 2, 4 and 6 are slashed zeros in both columns while lines 3, 5 and 7 all read 4,629.05 (a carried balance with no activity this period), and the pre-printed 'Refer to Line 7 on your last report' pointer is struck through and annotated by hand 'filed 12/03/02'."
+  }
  }
 }

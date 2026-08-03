@@ -1,6 +1,189 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-04-24",
+   "donor_raw": "Committee to Elect John Jacob",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,24.95,81.00,3.20@p3",
+   "note": "donor name is CUT OFF at the white-out block - printed 'Committee to Elect John Jacob'; kept verbatim, not completed; occupation/employer: 'Candidate'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-29",
+   "donor_raw": "Dana Dickson",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,28.70,81.00,3.20@p3",
+   "note": "occupation/employer: 'Engineer/L-3 Communications'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-30",
+   "donor_raw": "Steve Harmsen",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,32.50,81.00,3.20@p3",
+   "note": "occupation/employer: 'Retired'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-14",
+   "donor_raw": "Janice Auger",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,36.30,81.00,3.20@p3",
+   "note": "occupation/employer: 'Manager/Perfect Registry'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-20",
+   "donor_raw": "Dana Dickson",
+   "amount": "1,403.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,40.10,81.00,3.20@p3",
+   "note": "occupation/employer: 'Engineer/L-3 Communications'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-06-20",
+   "donor_raw": "Dana Dickson (in-kind)",
+   "amount": "596.29",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,43.90,81.00,3.20@p3",
+   "note": "in-kind marked inside the donor name: '(in-kind)'; occupation/employer: 'Engineer/L-3 Communications'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-06-20",
+   "donor_raw": "SLCo Republican Party",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,47.65,81.00,3.20@p3",
+   "note": "occupation/employer: 'Political Party'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-20",
+   "donor_raw": "SLCo Republican Party",
+   "amount": "10,000.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,51.45,81.00,3.20@p3",
+   "note": "in-kind marked in the Occupation/Employer cell: 'Political Party (in-kind)'; occupation/employer: 'Political Party (in-kind)'; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  },
+  {
+   "line_no": 9,
+   "donor_raw": "Contributions of $50 and under",
+   "amount": "395.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.42,70.40,81.00,3.20@p3",
+   "note": "the filer's own aggregate under-threshold line, printed across the Address/Occupation columns with NO date and NO contributor name; transcribed verbatim as printed because the page subtotal does not close without it; the Complete Mailing Address column is covered by a WHITE-OUT BLOCK across the whole schedule (it also clips the right edge of the first donor name) - treated as redacted; no city or state is legible, so both are blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-13",
+   "vendor_raw": "SLCo Republican Party",
+   "purpose": "Convention Booth",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.84,27.65,75.31,3.20@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-05-01",
+   "vendor_raw": "Wendy Solomon",
+   "purpose": "Convention Materials",
+   "amount": "269.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.84,31.40,75.31,3.20@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-05-04",
+   "vendor_raw": "Lindsey Moore",
+   "purpose": "Assistant",
+   "amount": "1,200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.84,35.20,75.31,3.20@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-03",
+   "vendor_raw": "Randy Minson",
+   "purpose": "Printing/Signs",
+   "amount": "1,232.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.84,38.95,75.31,3.20@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-03",
+   "vendor_raw": "Jana Truman",
+   "purpose": "Graphic Design/Printing",
+   "amount": "1,177.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.84,42.75,75.31,3.20@p4"
+  }
+ ],
  "total_contributions": "16,995.00",
  "total_expenditures": "4,078.75",
  "beginning_balance": "2,550.00",
@@ -49,6 +232,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Fully TYPED form. NO Type-of-Report box is checked -> report_type ''; only 'Is this report an amendment? Yes ... 6/20/2006' is marked. This is the corrected version of the handwritten June report (key 3fcb544d): every figure matches except Line 7, which here reads 15,466.25 vs 16,469.25 on the handwritten original. Summary header: page 1 of 1, Dickson, 6/20/2006 (PDF has 4 pages). Received stamp OCT 06 2006."
+  "notes": "Fully TYPED form. NO Type-of-Report box is checked -> report_type ''; only 'Is this report an amendment? Yes ... 6/20/2006' is marked. This is the corrected version of the handwritten June report (key 3fcb544d): every figure matches except Line 7, which here reads 15,466.25 vs 16,469.25 on the handwritten original. Summary header: page 1 of 1, Dickson, 6/20/2006 (PDF has 4 pages). Received stamp OCT 06 2006.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "16,995.00",
+     "itemized": "16995.00",
+     "result": "exact",
+     "detail": "exact - 8 named rows (16,600.00) plus the filer's printed 'Contributions of $50 and under' line (395.00) = 16,995.00 = printed SUBTOTAL FOR THIS PAGE = printed TOTAL CONTRIBUTIONS RECEIVED = Summary Page line 1 stated 16,995.00"
+    },
+    "expenditures": {
+     "stated": "4,078.75",
+     "itemized": "4078.75",
+     "result": "exact",
+     "detail": "exact - 5 rows sum to 4,078.75 = printed SUBTOTAL FOR THIS PAGE = printed TOTAL EXPENDITURES MADE = Summary Page line 2 stated 4,078.75"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 16,995.00 = printed subtotal 16,995.00 (FIRED, passed - and note it only closes WITH the 395.00 aggregate line included, which is why that line is transcribed); p4 rows 4,078.75 = printed subtotal 4,078.75 (FIRED, passed).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page 2006 filing, pages in order, both schedules self-numbered 'Page 1 of 1' and headed 'Dickson 6/20/2006'; the schedules are typed (not handwritten) and fully legible. PRIVACY / REDACTION: the Complete Mailing Address column on Schedule A is covered by a WHITE-OUT BLOCK for the whole table - nothing is legible there, and the block also clips the right end of the first donor name ('Committee to Elect John Jacob...'), which is kept verbatim rather than completed. donor_city/donor_state are therefore blank with 'redacted' recorded. IN-KIND is marked two different ways on the same page: inside the donor name ('Dana Dickson (in-kind)') and inside the Occupation/Employer cell ('Political Party (in-kind)') - both are flagged; they DO count toward the printed subtotal, which closes exactly with them included. The last populated line of Schedule A is the filer's own aggregate 'Contributions of $50 and under  395.00' with no date and no contributor - transcribed verbatim (needs_review=1, no date) because the printed page subtotal does not close without it; no donor identity was invented for it. The cover is stamped COPY, ticks 'Yes, this is an amendment' with date 6/20/2006, and checks NO 'Type of Report' interim box - so the chunk listing's blank report_type is faithful to the form; the filename's 'june20amendment' matches the amendment date, not a checked period box."
+  }
  }
 }

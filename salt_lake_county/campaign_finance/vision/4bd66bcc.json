@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "STEVE HARMSEN",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.59,24.60,86.46,3.25@p3",
+   "note": "address cell left EMPTY by the filer; occupation/employer reads 'EXEC.'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "SL COUNTY",
+   "purpose": "REGISTRATION",
+   "amount": "154.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:10.31,28.90,78.61,3.35@p4",
+   "note": "amount glyphs are cramped ('154.00'); accepted because the printed TOTAL on the same page and the Summary-Page stated total both read 154.00"
+  }
+ ],
  "total_contributions": "200.00",
  "total_expenditures": "154.00",
  "beginning_balance": "0",
@@ -47,6 +76,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Column B is blank on both lines 1 and 2 (empty strings, not zeros). Line 3 Column A is a dash-zero-dash. Neither amendment box is checked. This copy is a FAX: the header band reads 'APR-11-2006 04:57 AM  BORBA&ASSOC.  801 281 3755'; the signature is dated 4/5/06 but the clerk stamped it RECEIVED APR 11 2006. Form arithmetic checks out (200.00 - 154.00 = 46.00)."
+  "notes": "Column B is blank on both lines 1 and 2 (empty strings, not zeros). Line 3 Column A is a dash-zero-dash. Neither amendment box is checked. This copy is a FAX: the header band reads 'APR-11-2006 04:57 AM  BORBA&ASSOC.  801 281 3755'; the signature is dated 4/5/06 but the clerk stamped it RECEIVED APR 11 2006. Form arithmetic checks out (200.00 - 154.00 = 46.00).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "200.00",
+     "itemized": "200.00",
+     "result": "exact",
+     "detail": "exact (200.00 = 200.00)"
+    },
+    "expenditures": {
+     "stated": "154.00",
+     "itemized": "154.00",
+     "result": "exact",
+     "detail": "exact (154.00 = 154.00)"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL cell BLANK (no gate); row 200.00 = printed TOTAL 200.00. p4 SUBTOTAL cell BLANK (no gate); row 154.00 = printed TOTAL 154.00.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Faxed copy (fax header 'APR-11-2006 ... BORBA&ASSOC.'); a vertical fax artifact line runs down the right of both schedule pages but does not obscure any figure. The contributor's mailing-address cell was left EMPTY by the filer (not redacted). Both SUBTOTAL cells were left blank by the filer; only the TOTAL cells carry figures."
+  }
  }
 }

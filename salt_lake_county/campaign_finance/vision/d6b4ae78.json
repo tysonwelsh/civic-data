@@ -1,6 +1,77 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2007-03-08",
+   "vendor_raw": "THE CARTER CENTER",
+   "purpose": "DONATION",
+   "amount": "150",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,29.00,77.20,3.50@p4",
+   "note": "amount written '$150' with no cents"
+  },
+  {
+   "line_no": 2,
+   "date": "2007-03-08",
+   "vendor_raw": "INTERNATIONAL WOLF FUND",
+   "purpose": "DONATION",
+   "amount": "150",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,32.70,77.20,4.50@p4",
+   "note": "name wraps onto the ruled line below; amount written '$150' with no cents"
+  },
+  {
+   "line_no": 3,
+   "date": "2007-03-08",
+   "vendor_raw": "PROGRESSIVE DEMOCRATS OF AMERICA",
+   "purpose": "DONATION",
+   "amount": "150",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,40.00,77.20,6.00@p4",
+   "note": "name wraps over three ruled lines; amount written '$150' with no cents"
+  },
+  {
+   "line_no": 4,
+   "date": "2007-03-08",
+   "vendor_raw": "PLANNED PARENTHOOD",
+   "purpose": "DONATION",
+   "amount": "145.76",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.40,48.00,77.20,4.50@p4",
+   "note": "date cell written tight as '38/07' = 3/8/07; name wraps to the line below"
+  },
+  {
+   "line_no": 5,
+   "date": "2007-03-08",
+   "vendor_raw": "PPAC",
+   "purpose": "DONATION",
+   "amount": "145.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.40,55.20,77.20,3.50@p4",
+   "note": "row fell below the 600 dpi verification band; accepted on the exact page-subtotal gate"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "$741.53",
  "beginning_balance": "$741.53",
@@ -49,6 +120,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "TWO type-of-report boxes are checked (January 31 of each year AND Final Report) - joined with ' + '. This is the OLDER form variant: title is 'Financial Disclosure Report For a Candidate' with NO year, the interim options are 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election', there is a separate 'Office' box on the cover (filled 'COUNTY TREASURER'), and Column B is headed 'Aggregate Total'. District Number box contains the word 'COUNTRY' (filer's slip for 'COUNTY') - kept verbatim. Lines 1 and 7 Column A are slashed-zero glyphs -> '0'. Column B on line 1 and line 2 carry the SAME figure $14,521.87 (verified on a 400 dpi crop); as printed, contributions-to-date equals expenditures-to-date, which is internally odd but not reconciled here. RECEIVED stamp JAN 31 2008."
+  "notes": "TWO type-of-report boxes are checked (January 31 of each year AND Final Report) - joined with ' + '. This is the OLDER form variant: title is 'Financial Disclosure Report For a Candidate' with NO year, the interim options are 'April 5 / Seven days before a primary election / September 15 / Seven days before a general election', there is a separate 'Office' box on the cover (filled 'COUNTY TREASURER'), and Column B is headed 'Aggregate Total'. District Number box contains the word 'COUNTRY' (filer's slip for 'COUNTY') - kept verbatim. Lines 1 and 7 Column A are slashed-zero glyphs -> '0'. Column B on line 1 and line 2 carry the SAME figure $14,521.87 (verified on a 400 dpi crop); as printed, contributions-to-date equals expenditures-to-date, which is internally odd but not reconciled here. RECEIVED stamp JAN 31 2008.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule A (p3) is printed but wholly blank; the amount cell and the SUBTOTAL cell each carry a slashed-zero glyph. Zero rows = a real zero, matching stated 0."
+    },
+    "expenditures": {
+     "stated": "741.53",
+     "itemized": "741.53",
+     "result": "exact",
+     "detail": "exact (741.53 = 741.53); 150+150+150+145.76+145.77"
+    }
+   },
+   "page_subtotal_gates": "p3 Schedule A: no rows, printed SUBTOTAL is a slashed-zero glyph (=0) - gates. p4 Schedule B: rows sum 741.53 = printed SUBTOTAL FOR THIS PAGE $741.53 - gates exactly.",
+   "escalations": 2,
+   "escalation_note": "p4 left half-band (date+recipient cols, rows 1-4) at 600 dpi; p4 right half-band (purpose+amount cols, rows 1-4) at 600 dpi. Both re-read identically.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing, standard order: p1 cover, p2 Summary Page, p3 Schedule A (blank), p4 Schedule B. p4 also prints TOTAL EXPENDITURES MADE $14,521.87 which is the Column-B AGGREGATE figure the filer carried down (Summary Page line 2 Column B is the same $14,521.87), NOT a sum of this report's Schedule B subtotals - it is not treated as this filing's expenditure total. Likewise p3's TOTAL CONTRIBUTIONS RECEIVED $14,521.87. Form checks BOTH the January-31 year-end box and the Final Report box, matching the listing label."
+  }
  }
 }

@@ -123,6 +123,51 @@ def main():
             eid_year[str(eid)] = yr
 
     rows = []
+
+    # --- RECORDER-2003 era (Wayback-recovered 2026-08-02) ------------------------------
+    # 8 born-digital PDF filings; parse via the module's build_finance.parse (single
+    # source of truth for the format), provenance from raw/_fetch_log.jsonl.
+    import json as _json
+    import build_finance as _bf
+    _prov = {}
+    _fl = os.path.join(RAW, "_fetch_log.jsonl")
+    if os.path.exists(_fl):
+        for _ln in open(_fl):
+            _r = _json.loads(_ln)
+            _sa = _r.get("saved_as") or os.path.basename(_r.get("path", ""))
+            if _sa:
+                _prov[_sa] = _r
+    _r03 = os.path.join(RAW, "recorder_2003")
+    if os.path.isdir(_r03):
+        for _f in sorted(os.listdir(_r03)):
+            if not _f.endswith(".pdf"):
+                continue
+            _p = _bf.parse(os.path.join(_r03, _f))
+            _pr = _prov.get(_f, {})
+            _yr = "2003"
+            _dist = ""
+            _m = re.search(r"District\s*#?(\d)|Council\s*#?(\d)", _p["office"])
+            if _m:
+                _dist = _m.group(1) or _m.group(2)
+            _name, _conf = join_candidate(_p["candidate"], _yr, _p["office"], _dist, elec_rows)
+            rows.append({
+                "date": _bf.iso(_p["filing_date"]), "candidate": _p["candidate"],
+                "office": "Mayor" if "mayor" in _p["office"].lower() else "Council",
+                "election_year": _yr, "filing_type": "interim",
+                "reporting_period": "2003 pre-election",
+                "title": f"Campaign finance disclosure — {_p['candidate']} ({_p['office']}, 2003)",
+                "source_url": _pr.get("original_url") or _pr.get("url", ""),
+                "retrieved_date": (_pr.get("retrieved_utc", "") or RETRIEVED)[:10],
+                "format": "text", "extraction_method": "pdftotext -layout (born-digital)",
+                "path": f"raw/recorder_2003/{_f}", "district": _dist,
+                "candidate_id": "", "election_id": "", "status": "recovered-wayback",
+                "stated_total_contributions": str(_p["c_sum"][1]) if len(_p["c_sum"]) >= 2 else "",
+                "stated_total_expenditures": str(_p["e_sum"][1]) if len(_p["e_sum"]) >= 2 else "",
+                "ending_balance": str(_p["end"][0]) if _p["end"] else "",
+                "n_contributions": len(_p["contribs"]), "n_expenditures": len(_p["expends"]),
+                "matched_election_candidate": _name, "join_confidence": _conf,
+            })
+
     # one filing per candidate summary file
     for sfile in sorted(glob.glob(os.path.join(RAW, "summary_e*_c*.json"))):
         m = re.search(r"summary_e(\w+)_c(\w+)\.json$", os.path.basename(sfile))

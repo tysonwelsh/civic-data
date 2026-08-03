@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-03-19",
+   "donor_raw": "Kit Erickson",
+   "amount": "223.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,26.00,80.60,3.10@p3",
+   "note": "date printed '03/19/14' -> ISO. Typed form, fully legible. Candidate self-contribution: the Occupation/Employer cell also reads 'Kit Erickson' (the fax banner identifies the sender as Kit Erickson Insurance Agency). Complete Mailing Address cell is covered by a solid BLACK-BOX county redaction - donor_city/donor_state blank because redacted, not because the filer left it empty. Amount printed '$223.46'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-03-19",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing fee",
+   "amount": "223.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.27,28.25,74.80,3.00@p4",
+   "note": "date printed '03/19/14' -> ISO. Typed form, fully legible. Amount printed '$223.46' - the same day and the same figure as the single contribution, i.e. the candidate funded his own filing fee."
+  }
+ ],
  "total_contributions": "$223.46",
  "total_expenditures": "$223.46",
  "beginning_balance": "0",
@@ -51,6 +80,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed form received by fax (fax header banner 4/15/2014, PAGE 006 OF 010 \u2014 this filing is pages 6-9 of a 10-page fax transmission). The Summary Page header box gives 'Date of Report 04/05/2014' while the cover signature/amendment date is 04/14/2014; both recorded as printed. Interim box checked is 'April 7'. Arithmetic consistent."
+  "notes": "Typed form received by fax (fax header banner 4/15/2014, PAGE 006 OF 010 \u2014 this filing is pages 6-9 of a 10-page fax transmission). The Summary Page header box gives 'Date of Report 04/05/2014' while the cover signature/amendment date is 04/14/2014; both recorded as printed. Interim box checked is 'April 7'. Arithmetic consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$223.46",
+     "itemized": "223.46",
+     "result": "exact",
+     "detail": "exact (1 row 223.46 = printed SUBTOTAL FOR THIS PAGE 223.46 = printed TOTAL CONTRIBUTIONS RECEIVED 223.46 = stated $223.46)"
+    },
+    "expenditures": {
+     "stated": "$223.46",
+     "itemized": "223.46",
+     "result": "exact",
+     "detail": "exact (1 row 223.46 = printed SUBTOTAL FOR THIS PAGE $223.46 = printed TOTAL EXPENDITURES MADE $223.46 = stated $223.46)"
+    }
+   },
+   "page_subtotal_gates": "p3: 1 row 223.46 = printed SUBTOTAL 223.46 - PASSES. p4: 1 row 223.46 = printed SUBTOTAL $223.46 - PASSES. Both schedules are single-page ('Page 3 of 4' and 'Page 4 of 4'), so each printed schedule total equals its page subtotal and both agree.",
+   "escalations": 2,
+   "escalation_note": "p3 row as a 700dpi full-width band (pct:9,25,82,4.5) and p4 row likewise (pct:12,27.5,77,4). This is a TYPED form, so both re-reads were trivially identical to the 200dpi read; they were done only to set verified=1 honestly.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page filing: p1 cover, p2 Summary Page (already transcribed), p3 Schedule A, p4 Schedule B. The whole document is a TYPED form received by FAX - every page carries the transmission banner '4/15/2014 10:57 AM FROM: Kit Erickson Insuran Kit Erickson Insurance Agency TO: 385 468 7401', and the schedule pages are numbered 'PAGE: 008 OF 010' and '009 OF 010' in that banner, i.e. this 4-page PDF is pages 6-9 of a 10-page fax transmission. Being typed rather than handwritten, it is the cleanest read in the chunk. THE FILING IS A MATCHED PAIR AND THAT IS ITS WHOLE CONTENT: on the same day, 03/19/14, the candidate put $223.46 of his own money in (Schedule A: 'Kit Erickson', occupation cell also 'Kit Erickson') and paid exactly $223.46 out to the Salt Lake County Clerk as the candidacy filing fee (Schedule B). Contributions in equals expenditures out equals the filing fee; the Summary Page's zero closing balance is consistent. The contributor's mailing address is a solid BLACK-BOX county redaction, so donor_city/donor_state are blank - redacted, not filer-omitted. Both dates are printed MM/DD/YY with the year present and parse cleanly. Note for context (from the cover, outside this tranche's scope): the Summary Page header dates the report 04/05/2014 while the cover signature and amendment date are 04/14/2014."
+  }
  }
 }

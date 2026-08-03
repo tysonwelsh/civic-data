@@ -1,6 +1,62 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "SINCLAIR OIL",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.32,23.20,77.20,2.86@p3",
+   "note": "DATE printed 'MAR 2004' - month and year with NO DAY, so no ISO date is parseable; left blank, verbatim kept here. AMOUNT printed '150-' (trailing dash = no cents) -> 150.00. City written 'SLC', state 'UT'; the street line in the same cell was discarded at read time per the privacy rule"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "UTAH APT ASSOC.",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.32,26.07,77.20,3.02@p3",
+   "note": "DATE printed 'MAR 2004' - month and year with NO DAY, no ISO date parseable; left blank, verbatim kept here. AMOUNT printed '150-' (trailing dash = no cents) -> 150.00. City written 'SLC', state 'UT'; street line discarded at read time per the privacy rule"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "DAVID WILDE",
+   "purpose": "PARTIAL LOAN REPAY",
+   "amount": "512.25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.91,26.07,78.20,3.98@p4",
+   "note": "DATE printed 'OCT 2003' - month and year with NO DAY (and a year before the reporting period), so no ISO date is parseable; left blank, verbatim kept here. AMOUNT is printed '512-25' with an internal HYPHEN where a decimal point belongs; it was NOT resolved by re-reading the glyph but by the page identity 762.25 - 250.00 = 512.25, so the hyphen is this filer's decimal separator. Repayment of a candidate self-loan"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "JOHN CHRISTENSEN",
+   "purpose": "LEG. CAMPAIGN",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.91,30.16,78.20,3.82@p4",
+   "note": "DATE printed 'OCT 2004' - month and year with NO DAY, no ISO date parseable; left blank, verbatim kept here"
+  }
+ ],
  "total_contributions": "300 -",
  "total_expenditures": "762.25",
  "beginning_balance": "571.02",
@@ -49,6 +105,58 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Line 1 in BOTH columns is written '300 -' (a dash standing in for the cents); Line 4, the same figure, is written out as '300.00'. Recorded verbatim. Balance summary is internally consistent (571.02 + 300.00 = 871.02; 871.02 - 762.25 = 108.77). Signed 1/31/2005, stamped JAN 31 2005 - the year-end report for calendar 2004."
+  "notes": "Handwritten. Line 1 in BOTH columns is written '300 -' (a dash standing in for the cents); Line 4, the same figure, is written out as '300.00'. Recorded verbatim. Balance summary is internally consistent (571.02 + 300.00 = 871.02; 871.02 - 762.25 = 108.77). Signed 1/31/2005, stamped JAN 31 2005 - the year-end report for calendar 2004.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "300 -",
+     "itemized": "300.00",
+     "result": "exact",
+     "detail": "exact (2 rows 150.00 + 150.00 = 300.00 = printed SUBTOTAL FOR THIS PAGE '300 -' = printed TOTAL CONTRIBUTIONS RECEIVED '300 -' = stated '300 -' = Summary lines 1 and 4). The trailing dash is this filer's 'no cents' mark, per the currency convention"
+    },
+    "expenditures": {
+     "stated": "762.25",
+     "itemized": "762.25",
+     "result": "exact",
+     "detail": "exact (2 rows 512.25 + 250.00 = 762.25 = printed SUBTOTAL FOR THIS PAGE 762.25 = printed TOTAL EXPENDITURES MADE 762.25 = stated 762.25 = Summary lines 2 and 6)"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A) 2 rows sum 300.00 = printed subtotal '300 -' GATE PASS. p4 (Schedule B) 2 rows sum 762.25 = printed subtotal 762.25 GATE PASS - and this gate ADJUDICATED row 1, whose amount is written with an INTERNAL HYPHEN ('512-25', not a decimal point): 762.25 minus the unambiguous 250.00 = 512.25, so the hyphen is the filer's decimal separator and the value is 512.25.",
+   "escalations": 3,
+   "escalation_note": "p3 both contribution rows re-rendered as one 400 dpi band; p4 read as two 400 dpi bands (the second because the first crop cut row 2)",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "David A. Wilde, County Council District 3 ('CO-COUNCIL #3'), Year-End Report January 31 (form checks 'January 31 of each year'; the 'Is this report an amendment?' box is ticked NO; signed 1/31/2005, clerk stamp JAN 31 2005). ONLY PDF PAGES 3 AND 4 ARE SCHEDULES - pages 5 through 12 are EIGHT America First Credit Union monthly account statements for 'DAVID A WILDE ELECTION' (statement dates March 31 through December 31 2004), stapled to the filing; they are bank records, not Schedule A or B pages, and nothing was transcribed from them. BOTH SCHEDULES DATE THEIR ROWS BY MONTH AND YEAR ONLY ('MAR 2004', 'OCT 2003', 'OCT 2004') with NO DAY, so no ISO date is parseable on any of the four rows; each is left blank with the verbatim kept in the row note. The contribution amounts are written '150-' (trailing dash = no cents) and one expenditure is written '512-25' (hyphen used as the decimal separator) - both conventions are named in the row notes and the second was settled by the page-subtotal identity, not by re-reading the glyph. Schedule A's mailing addresses are real street addresses; per the privacy rule only the city/state were retained ('SLC, UT') and the street lines were discarded at read time. Balance chain closes: line 3 571.02 + line 4 300.00 = line 5 871.02; 871.02 - 762.25 = 108.77 = line 7. NOTE the expenditure dated OCT 2003 sits in a report covering calendar 2004 - retained verbatim."
+  }
  }
 }

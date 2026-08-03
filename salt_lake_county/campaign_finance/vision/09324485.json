@@ -1,6 +1,62 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-03-09",
+   "donor_raw": "LOAN FROM CANDIDATE",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.59,24.81,85.17,4.01@p3",
+   "note": "NOT a third-party donor: the phrase spans two columns - 'LOAN FROM' is written in the Name of Contributor cell and 'CANDIDATE' in the Complete Mailing Address cell. It is the candidate's own loan to the campaign, so there is no donor name, no address and no occupation; donor_city/donor_state are blank by non-existence. Flagged needs_review as a non-donor line. Date written with periods, '3.9.12'."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-31",
+   "donor_raw": "CONTRIBUTIONS OF UNDER $50",
+   "amount": "80",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.59,28.81,85.17,4.01@p3",
+   "note": "AGGREGATE LINE, not a named donor - the filer's roll-up of unitemized sub-$50 contributions, written across the Name and Complete Mailing Address cells ('CONTRIBUTIONS' / 'of UNDER $50'). Amount printed as whole dollars '80'. Date written with periods, '3.31.12'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-03-09",
+   "vendor_raw": "SALT LAKE COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "259.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.36,27.36,77.34,3.96@p4",
+   "note": "amount written '$259.74'; date written with periods, '3.9.12'."
+  },
+  {
+   "line_no": 2,
+   "date": "2012-03-23",
+   "vendor_raw": "DIGITAL SVCS",
+   "purpose": "COLLATERAL",
+   "amount": "531.86",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.36,31.32,77.34,4.01@p4",
+   "note": "amount written '$531.86'. The date's middle group was re-read in a 400 dpi cell crop: the leading glyph has a full base stroke and matches this writer's '2' (compare the '2' in the year '12' on the same line), so the date is 3.23.12 - a 7 would leave no base stroke. cell_confidence date=medium."
+  }
+ ],
  "total_contributions": "$2080",
  "total_expenditures": "$791.60",
  "beginning_balance": "0",
@@ -49,6 +105,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The candidate's name is written 'JOSEPH M. DEMMA' on the form (the clerk listing says 'Joe Demma'). District Number is written 'AT-LARGE' rather than a number - recorded verbatim. Both the April 5 interim box AND the amendment 'Yes' box are checked, with 'April 5' written as the date of the report being amended. Line 3 is a hand-drawn slashed zero, recorded as 0. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. Line 2 Column A's last cent digit is smudged and reads 791.66 or 791.60; recorded 791.60 at medium confidence (Column B and line 6 of the same form both read 791.60 clearly). The Summary Page header block (page, name, date) was left completely BLANK by the filer. Clerk RECEIVED stamp APR 11 2012."
+  "notes": "The candidate's name is written 'JOSEPH M. DEMMA' on the form (the clerk listing says 'Joe Demma'). District Number is written 'AT-LARGE' rather than a number - recorded verbatim. Both the April 5 interim box AND the amendment 'Yes' box are checked, with 'April 5' written as the date of the report being amended. Line 3 is a hand-drawn slashed zero, recorded as 0. Amounts on lines 1, 4 and 5 are written '$2080' with no comma and no cents. Line 2 Column A's last cent digit is smudged and reads 791.66 or 791.60; recorded 791.60 at medium confidence (Column B and line 6 of the same form both read 791.60 clearly). The Summary Page header block (page, name, date) was left completely BLANK by the filer. Clerk RECEIVED stamp APR 11 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$2080",
+     "itemized": "2080.00",
+     "result": "exact",
+     "detail": "exact (2080 = 2080). 2 lines (2,000 + 80) sum to 2080, equal to the page's hand-written SUBTOTAL FOR THIS PAGE '$2080' and TOTAL CONTRIBUTIONS RECEIVED '$2080', and to Summary Page line 1 Column A. NOTE: neither of the two lines is a real donor - one is a candidate self-loan and the other an unitemized sub-$50 roll-up - so this filing names ZERO contributors even though it reconciles exactly."
+    },
+    "expenditures": {
+     "stated": "$791.60",
+     "itemized": "791.60",
+     "result": "exact",
+     "detail": "exact (791.60 = 791.60). 2 lines (259.74 + 531.86) sum to 791.60, equal to the page's hand-written SUBTOTAL '$791.60' and TOTAL '$791.60' and to Summary Page line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2080 = printed SUBTOTAL FOR THIS PAGE $2080 = printed TOTAL $2080 - GATE PASSES. p4 rows 791.60 = printed SUBTOTAL $791.60 = printed TOTAL $791.60 - GATE PASSES. Both schedules are single-page.",
+   "escalations": 3,
+   "escalation_note": "Handwritten filing. Tight crops via pdftoppm -x/-y/-W/-H: p3 rows 1-2 across all five columns at 500 dpi; p4 amount column rows 1-2 at 500 dpi (confirmed 259.74 / 531.86); p4 date + recipient columns at 400 dpi to adjudicate the second date's middle digit group (2 vs 7). Row bands taken from the form's own printed horizontal rules at 200 dpi.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "JOSEPH M. DEMMA, Office 'County Council', Office Sought 'Council' District 'At-Large', REPUBLICAN. INTERIM April 5 box checked AND 'Is this report an amendment? Yes' ticked with 'April 5' written as the date of the report being amended - so this is an AMENDMENT to the April 5 interim. Signed 4/5/12; clerk RECEIVED stamp APR 11 2012. County redaction bars cover the street-address row and the phone/fax/email cells on the cover. Summary Page line 3 (Balance at Beginning) is a slashed-zero glyph = 0 per the ZERO-GLYPH RULING. Column B equals Column A on both lines. Line 7 prints $1288.40, which is 2080 - 791.60 = 1288.40 - the filer's arithmetic is correct here. Both schedules gate exactly, but note that NEITHER contributions line identifies an actual contributor."
+  }
  }
 }

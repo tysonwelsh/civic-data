@@ -1,5 +1,21 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2005-11-15",
+   "donor_raw": "David Yocom Campaign Comm.",
+   "donor_city": "S.L.C.",
+   "donor_state": "UT",
+   "amount": "357.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.00,24.50,84.00,3.80@p3",
+   "note": "the Complete Mailing Address cell IS filled on this row; per PRIVACY only city and state are recorded and the street line and zip were discarded at read time. SURNAME INITIAL AMBIGUOUS: escalated to a 700 dpi tight cell crop - the capital is a cursive loop that reads as Y ('Yocom') but J ('Jocom') is not fully excludable; recorded at medium confidence with the ambiguity stated rather than asserted. The name cell is written across two lines with 'Campaign Comm.' on the second. Cents are a raised superscript over a rule ('357.' + superscript 66), transcribed with a decimal point"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "357.66",
  "total_expenditures": "0",
@@ -49,6 +65,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten with raised superscript cents. The form is titled '2006 Financial Disclosure Report' but the Year-End box is checked and it is signed 1/30/06 and stamped JAN 31 2006, i.e. the year-end report for calendar 2005 - matching the clerk listing's '2005 Summary Report'. Zeros on Line 2 (both columns) and Line 6 are small hand-drawn circles. The 'June 20' checkbox printed as a solid dot on this scan - it is NOT checked. Line 3 (1144.03) matches the 1/14/05 year-end's Line 7 and Line 5 (1501.69) matches the following April interim's Line 3."
+  "notes": "Handwritten with raised superscript cents. The form is titled '2006 Financial Disclosure Report' but the Year-End box is checked and it is signed 1/30/06 and stamped JAN 31 2006, i.e. the year-end report for calendar 2005 - matching the clerk listing's '2005 Summary Report'. Zeros on Line 2 (both columns) and Line 6 are small hand-drawn circles. The 'June 20' checkbox printed as a solid dot on this scan - it is NOT checked. Line 3 (1144.03) matches the 1/14/05 year-end's Line 7 and Line 5 (1501.69) matches the following April interim's Line 3.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "357.66",
+     "itemized": "357.66",
+     "result": "exact",
+     "detail": "exact (357.66 = 357.66); the single row equals the printed TOTAL CONTRIBUTIONS RECEIVED 357.66 (the SUBTOTAL cell is left blank), matching Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact; Schedule B EXISTS (p4) and is entirely BLANK - no rows - and its TOTAL EXPENDITUTRES MADE cell holds a written zero (the SUBTOTAL cell is left blank). A real zero with zero rows, matching Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "Neither page fills SUBTOTAL FOR THIS PAGE; both schedules are hand-marked 'Page 1 of 1' so the gate is taken at the TOTAL row. p3: one row 357.66 = printed TOTAL 357.66 (fires). p4: no rows, printed TOTAL a written '0' (consistent).",
+   "escalations": 1,
+   "escalation_note": "700 dpi tight crop of the p3 NAME cell to settle the surname's initial capital. It resolves to a cursive loop that reads Y (giving 'Yocom') but a J is not fully excludable, so the name is emitted at medium confidence with the ambiguity named.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page handwritten filing (Sherrie Swensen, Clerk, year-end; schedules hand-dated 1/30/06, each marked 'Page 1 of 1'). ONE contribution and NO expenditures. The single contribution is a transfer from another county officeholder's committee - the Occupation/Employer cell reads 'District Attorney / S.L. County'. This is one of the few filings in this chunk where the Complete Mailing Address column is actually FILLED IN: per PRIVACY the street line and zip were discarded at read time and only city='S.L.C.' and state='UT' are recorded - the street was never written into any field, note or file. Schedule B exists and is honestly empty with a written zero in its TOTAL cell, so that side is a transcribed real zero, not a gap. Cents on the amount are written as a raised superscript over a rule ('357.' + superscript 66) in both the row and the total."
+  }
  }
 }

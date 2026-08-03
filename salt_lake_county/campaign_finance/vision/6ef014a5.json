@@ -49,6 +49,51 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older pre-2006 form (title carries no year); Column B is headed 'Year-to-Date Total'. Lines 1, 2 (both columns), 4 and 6 are hand-drawn slashed zeros. Lines 3, 5 and 7 are NEGATIVE, written in accounting parentheses with the cents as a raised superscript over a rule - transcribed (413.85) / (413.85) / ($413.85); on Line 7 the opening parenthesis is drawn through a dollar sign, hence the '($' form. Kept verbatim, including parentheses. A companion filing (lgardner_dissolution.pdf) explains this balance as a loan from Lee Gardner to his own campaign."
+  "notes": "Older pre-2006 form (title carries no year); Column B is headed 'Year-to-Date Total'. Lines 1, 2 (both columns), 4 and 6 are hand-drawn slashed zeros. Lines 3, 5 and 7 are NEGATIVE, written in accounting parentheses with the cents as a raised superscript over a rule - transcribed (413.85) / (413.85) / ($413.85); on Line 7 the opening parenthesis is drawn through a dollar sign, hence the '($' form. Kept verbatim, including parentheses. A companion filing (lgardner_dissolution.pdf) explains this balance as a loan from Lee Gardner to his own campaign.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3 (blank)",
+   "itemized_pages_B": "4 (blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule A on p3 is an empty grid with the word 'None' written in the first Name cell; zero rows, matching the Summary Page line 1 Column A slashed zero"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B on p4 is an empty grid with the word 'None' written in the first Name cell; zero rows, matching the Summary Page line 2 Column A slashed zero"
+    }
+   },
+   "page_subtotal_gates": "No gate to fire: the SUBTOTAL FOR THIS PAGE and TOTAL cells on both p3 and p4 were left entirely blank by the filer (no figure printed at all). The zero is asserted by the word 'None' in each schedule and by the Summary Page's slashed-zero glyphs, not by a printed subtotal.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, honestly zero - not a gap. 5 pages: p1 cover (YEAR-END January 31 box checked; NEITHER amendment box ticked; signed 1-29-05), p2 Summary Page, p3 Schedule A with 'None' handwritten in the first Name of Contributor cell and every other cell empty, p4 Schedule B with 'None' handwritten in the first Name of Recipient cell and every other cell empty, p5 a 'Dissolution of a Candidate Campaign' notice (Lee Gardner Campaign; committee secretary named; 'Date Committee Was Established' answered 'NA'; signed 1-29-05, clerk-stamped received JAN 31 2005). Observed on the Summary Page but NOT part of this tranche: lines 1, 2, 4 and 6 Column A are slashed-zero glyphs, and lines 3, 5 and 7 print a NEGATIVE balance in accounting parentheses with superscript cents, '(413 85)' = (413.85) - i.e. this dissolution filing closes with a negative, not zero, balance despite the ordinance text on p5 requiring a zero ending balance. A human may want to look at that contradiction; it does not affect the itemized layer, which is empty."
+  }
  }
 }

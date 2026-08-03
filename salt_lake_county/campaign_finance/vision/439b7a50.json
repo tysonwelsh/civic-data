@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2007-01-29",
+   "donor_raw": "UTAH DEMOCRATI PARTY",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.10,25.68,68.30,4.55@p3",
+   "note": "donor cell reads 'UTAH DEMOCRATI' / 'PARTY' over two lines - the final C of DEMOCRATIC is not present on this fax copy, so the name is kept exactly as it reads rather than completed. City written 'SLC.' and state 'UT'; the street line in the same cell was discarded at read time per the privacy rule. Occupation/Employer='POLITICAL ORG'. Amount written '1,000' with no cents"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "KEY BANK",
+   "purpose": "LOAN",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=none",
+   "verified": 1,
+   "geometry": "pct:21.36,29.75,62.10,2.25@p4",
+   "note": "DATE printed as '1/29' - month and day with NO YEAR printed, so no ISO date is parseable; left blank per contract, verbatim kept here. AMOUNT is ILLEGIBLE: the fax preserved only a vertical stroke and a small dash in that cell, so it is blank + needs_review and excluded from any sum (the expenditure side is therefore a floor of one row with no total claimed). A bare '2054' sits about two row-heights lower in the same column but cannot be assigned to a line because the fax destroyed the page's rules; it was deliberately NOT transcribed as this row's amount"
+  }
+ ],
  "total_contributions": "1000",
  "total_expenditures": "",
  "beginning_balance": "1054",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Badly skewed 5-page fax (03/16/2007, MOUNTAINWEST SBF), clerk-stamped RECEIVED MAR 16 2007; the word 'Amended' is hand-written across the letterhead. The fax banners show the pages came from two different files - page 1 is labelled 'Randy Horiuchi - Randy suggested report.pdf' while pages 2-4 are 'Randy Horiuchi - Randy 06 report.pdf' - but they are one 4-page report (cover, Summary, Schedule A, Schedule B) and the FIRST Summary Page is the one transcribed. BOTH the Year-End and the Final Report boxes are checked; the amendment answer is an X drawn beside 'Yes' (the box itself is empty) with 'date of report 3-15-07'. The signature Date line is blank. The Summary Page's table rules did not reproduce in the fax and the filer's figures for lines 4-6 are displaced rightwards into the Column B space: Line 1 Col A = 1000, Line 2 Col A LEFT BLANK, Line 3 = 1054, then 1000 / 2054 / 2054 running down the rows for lines 4, 5 and 6, and Line 7 a hand-drawn slashed zero (recorded '0'). Schedule B on page 4 confirms the 2054 expenditure (Key Bank, loan), so Line 2 Column A is a genuine filer omission, not an unreadable cell."
+  "notes": "Badly skewed 5-page fax (03/16/2007, MOUNTAINWEST SBF), clerk-stamped RECEIVED MAR 16 2007; the word 'Amended' is hand-written across the letterhead. The fax banners show the pages came from two different files - page 1 is labelled 'Randy Horiuchi - Randy suggested report.pdf' while pages 2-4 are 'Randy Horiuchi - Randy 06 report.pdf' - but they are one 4-page report (cover, Summary, Schedule A, Schedule B) and the FIRST Summary Page is the one transcribed. BOTH the Year-End and the Final Report boxes are checked; the amendment answer is an X drawn beside 'Yes' (the box itself is empty) with 'date of report 3-15-07'. The signature Date line is blank. The Summary Page's table rules did not reproduce in the fax and the filer's figures for lines 4-6 are displaced rightwards into the Column B space: Line 1 Col A = 1000, Line 2 Col A LEFT BLANK, Line 3 = 1054, then 1000 / 2054 / 2054 running down the rows for lines 4, 5 and 6, and Line 7 a hand-drawn slashed zero (recorded '0'). Schedule B on page 4 confirms the 2054 expenditure (Key Bank, loan), so Line 2 Column A is a genuine filer omission, not an unreadable cell.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1000",
+     "itemized": "1000",
+     "result": "exact",
+     "detail": "exact (1 row 1,000 = printed TOTAL CONTRIBUTIONS RECEIVED $1000 = stated 1000; the region below the single row was re-rendered contrast-stretched at 300 dpi and holds only fax speckle, no second row)"
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "UNKNOWN, and the side is a FLOOR of one row with no sum claimed. The filer left Summary line 2 Column A BLANK (hence stated is blank), and the single Schedule B row's AMOUNT cell survived the fax only as a vertical stroke and a dash - it is illegible and is recorded as blank + needs_review, so it is excluded from any sum. A bare '2054' is written in the amount column roughly two row-heights BELOW that row; the fax destroyed every table rule on the page so it cannot be assigned to a row line or to the subtotal/total line, and per the 'an unlabelled number is not a field' rule it was NOT transcribed as a row. For the record and NOT as a transcription: Summary lines 3-7 do close at 1054 + 1000 = 2054 and 2054 - 2054 = 0, i.e. the form's own balance chain implies total expenditures of 2054 - that inference is stated here only, never written into a row"
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A) 1 row 1,000 = printed TOTAL CONTRIBUTIONS RECEIVED $1000 GATE PASS (this page's SUBTOTAL line is blank). p4 (Schedule B) HAS NO GATE THAT FIRES: the fax dropped the page's rules and its SUBTOTAL/TOTAL labels, the row amount is illegible, and the only figure on the page ('2054') cannot be assigned to a line - so no page-subtotal gate could be run for the expenditure side.",
+   "escalations": 5,
+   "escalation_note": "p4 amount column at 500 dpi normalized + level-stretched (row amount survives only as a stroke; '2054' sits ~2 rows lower); p2 Summary balance-summary block at 250 dpi normalized (to read lines 3-7); p3 contributor+address band at 400 dpi normalized; p3 amount cell at 400 dpi normalized; p3 the whole area below row 1 at 300 dpi contrast-stretched (speckle only)",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "SEVERELY DEGRADED FAX (header '03/16/2007 13:25 8014930111 MOUNTAINWEST SBF', PDF pages 1-4 = fax pages 02/05 .. 05/05). The fax dropped almost all of the form's printed rules and much of the ink, so both schedule pages are floating handwriting on white; several cells are unrecoverable at any resolution. The cover carries a handwritten 'Amended' at the top, ticks 'Yes' for amendment with the date 3-15-07, and checks BOTH the Year-End (January 31) and the Final Report boxes - consistent with the listing label. Note the PDF's own page-1 banner text differs between pages: page 1 is captioned 'Randy Horiuchi - Randy suggested report.pdf' while pages 2-4 are captioned 'Randy Horiuchi - Randy 06 report.pdf', i.e. the fax bundled the cover from one file with the body of another; both name the same candidate and the body's Summary Page carries 'HORIUCHI' in its header box. The single contribution is dated 1/29/07, i.e. AFTER the December 31 2006 year-end this report covers - retained verbatim, not adjusted."
+  }
  }
 }

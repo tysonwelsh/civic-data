@@ -1,6 +1,216 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-07-01",
+   "donor_raw": "FROM JEFF ALLEN LOAN TO CAMPAIGN",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.88,23.50,83.10,3.00@p3",
+   "note": "name cell written as two lines 'FROM JEFF ALLEN' / 'LOAN TO CAMPAIGN' \u2014 a candidate self-loan; occupation 'APPRAISER'; address cell empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-08-15",
+   "donor_raw": "TOM DOLAN",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.88,28.00,83.10,3.00@p3",
+   "note": "occupation 'MAYOR / SANDY CITY'; superscript cents"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-10",
+   "donor_raw": "SL BRD OF REALTORS",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.88,31.50,83.10,3.00@p3",
+   "note": "name glyphs read 'SL BRD OF REALTORS' (cursive, cramped); occupation cell 'N/A'"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-08-01",
+   "donor_raw": "CARRIE DICKSON",
+   "amount": "1,500",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.88,35.60,83.10,3.00@p3",
+   "note": "'(IN-KIND)' written above the amount; occupation 'HOUSE WIFE / CANDIDATE'"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-07-01",
+   "donor_raw": "AUTHENTIC CONCEPTS",
+   "amount": "450",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.88,39.50,83.10,3.00@p3",
+   "note": "'(IN-KIND)' written above the amount; occupation 'BUSINESS'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "COLONIAL FLAGS",
+   "purpose": "FLAGS",
+   "amount": "650.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,26.75,77.50,3.00@p4",
+   "note": "date printed '7/20' with NO YEAR \u2014 left blank, never filled from the report date. Amount printed '$650.-' \u2014 trailing dash after whole dollars means no cents, recorded 650.00. Re-read at 600 dpi."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SAND & BUCKETS",
+   "amount": "17.73",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,30.65,77.50,3.00@p4",
+   "note": "date printed '7/21' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "DRAPER CITY",
+   "purpose": "BOOTH",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,34.55,77.50,3.00@p4",
+   "note": "date printed '7/20' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "CARRIE DICKSON",
+   "purpose": "MEET & GREET REIMBURSEMENT",
+   "amount": "(140.00)",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,38.45,77.50,3.00@p4",
+   "note": "date printed '7/10' with NO YEAR \u2014 left blank. Amount printed in ACCOUNTING PARENTHESES '(140.00)' = negative; kept verbatim with the parentheses. Re-read at 600 dpi."
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "ALLIN FLY",
+   "purpose": "PARADE CLOWN",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,42.35,77.50,3.00@p4",
+   "note": "date printed '7/3' with NO YEAR \u2014 left blank. Recipient glyphs read 'ALLIN FLY'; the hand is cramped and this may be a personal name I cannot resolve \u2014 kept as the legible glyph string, not completed to any plausible name."
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "DOLLAR TREE",
+   "purpose": "PAPER GOODS",
+   "amount": "10.66",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,46.25,77.50,3.00@p4",
+   "note": "date printed '6/29' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "POST NET",
+   "purpose": "BUSINESS CARDS",
+   "amount": "107.83",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,50.15,77.50,3.00@p4",
+   "note": "date printed '6/29' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 8,
+   "vendor_raw": "ALDRICH ADVERT.",
+   "purpose": "MAGNETIC SIGNS",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,54.05,77.50,3.00@p4",
+   "note": "date printed '7/3' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 9,
+   "vendor_raw": "FAST SIGNS",
+   "purpose": "MAGNETIC SIGNS",
+   "amount": "108.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,57.95,77.50,3.00@p4",
+   "note": "date printed '7/5' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 10,
+   "vendor_raw": "PETERSONS",
+   "purpose": "TAPE",
+   "amount": "10.64",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,61.85,77.50,3.00@p4",
+   "note": "date printed '7/5' with NO YEAR \u2014 left blank"
+  },
+  {
+   "line_no": 11,
+   "vendor_raw": "AUTHENTIC CONCEPTS",
+   "purpose": "SHIRTS",
+   "amount": "1,398",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.49,65.75,77.50,3.00@p4",
+   "note": "date printed '7/1' with NO YEAR \u2014 left blank. Amount printed '1,398' with no cents group at all; kept verbatim."
+  }
+ ],
  "total_contributions": "9,200",
  "total_expenditures": "2,957.42",
  "beginning_balance": "11,425.10",
@@ -49,6 +259,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Lines 1A/1B carry no cents ('9,200' / '29,945'). Arithmetic closes and Line 7 (17,667.68) matches the October report's Line 3."
+  "notes": "Handwritten. Lines 1A/1B carry no cents ('9,200' / '29,945'). Arithmetic closes and Line 7 (17,667.68) matches the October report's Line 3.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "9,200",
+     "itemized": "9200.00",
+     "result": "exact",
+     "detail": "exact (9200.00 = 9,200); page subtotal, page total and Summary line 1 Column A all print 9,200"
+    },
+    "expenditures": {
+     "stated": "2,957.42",
+     "itemized": "2688.06",
+     "result": "delta",
+     "detail": "delta 269.36 \u2014 the 11 transcribed Schedule B rows sum to 2,688.06 against a printed page SUBTOTAL / TOTAL / Summary line 2 of 2,957.42. Every amount was re-read in 600 dpi column crops and is unchanged. If the parenthesised (140.00) reimbursement row were treated as POSITIVE the rows sum to 2,968.06, still 10.64 above the printed figure, so a sign flip does not explain it either. Unreconciled FILER arithmetic (or an unrecorded line); both figures retained verbatim, no row adjusted."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 9200.00 = printed subtotal 9,200 \u2014 GATE PASSES (and confirms both IN-KIND rows count toward the printed total). p4 rows 2,688.06 vs printed subtotal 2,957.42 \u2014 GATE DOES NOT CLOSE, delta 269.36; escalated to 600 dpi crops of the whole amount column with no change.",
+   "escalations": 2,
+   "escalation_note": "p4 amount column re-rendered as two 600 dpi crops (rows 1-6, rows 7-11) to chase the 269.36 subtotal gap; all 11 amounts read identically",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "p1 cover, p2 Summary Page, p3 Schedule A, p4 Schedule B. Filer's own page numbering is inconsistent (Summary says 'page 1 of 3', Schedule A '2 of 3', Schedule B '3 of 5') \u2014 the PDF has 4 pages and the Schedule B TOTAL equals its own page subtotal, so the schedule is presented as complete. Schedule B dates carry NO YEAR at all (e.g. '7/20'), so every expenditure date is left blank per contract; the verbatim is in each row note. Address column empty on Schedule A (filer omission)."
+  }
  }
 }

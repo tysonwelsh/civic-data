@@ -47,6 +47,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. Political Party written 'Personal Choice'. NEITHER amendment box is checked. The candidate has hand-written his own name across the top of the page and struck out the printed 'SHERRIE SWENSEN'. The Summary Page header box is entirely BLANK and the ink is very faint (re-read on a 300dpi crop): Line 1 Column A holds only a faint partial stroke that cannot be read as a digit - reported NULL rather than assumed to be a zero; the other filled cells are slashed zeros; lines 4, 5 and 6 Column A are BLANK (line5_subtotal '')."
+  "notes": "TWO Type-of-Report boxes are checked: 'January 31 of each year' AND 'Final Report' - joined with ' + '. Political Party written 'Personal Choice'. NEITHER amendment box is checked. The candidate has hand-written his own name across the top of the page and struck out the printed 'SHERRIE SWENSEN'. The Summary Page header box is entirely BLANK and the ink is very faint (re-read on a 300dpi crop): Line 1 Column A holds only a faint partial stroke that cannot be read as a digit - reported NULL rather than assumed to be a zero; the other filled cells are slashed zeros; lines 4, 5 and 6 Column A are BLANK (line5_subtotal '').",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "detail": "no usable stated figure for this side (the chunk file carries no value for stated_c; the totals tranche recorded this filing's Summary-Page line 1 Column A as ILLEGIBLE), so nothing can be called exact. Schedule A itself is a blank grid whose TOTAL CONTRIBUTIONS RECEIVED cell holds a slashed-zero glyph = 0, consistent with zero rows"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0 = 0.00): Schedule B is a blank grid whose TOTAL EXPENDITURES MADE cell holds a slashed-zero glyph = 0"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell is EMPTY and no rows are filled, so no page-subtotal gate could fire; the schedule TOTAL cell carries a slashed zero. p4 identical - SUBTOTAL empty, TOTAL a slashed zero. Nothing to gate on either page, and nothing inconsistent.",
+   "escalations": 2,
+   "escalation_note": "p3 and p4 TOTAL cells each cropped at 700 dpi to identify the glyph: both are a faded oval with a diagonal slash, i.e. a slashed zero, NOT a stray mark and not a numeral with digits",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Both schedules are BLANK (real zeros, not missing pages): the pre-printed Schedule A grid is on PDF page 3 and Schedule B on page 4, both with every data row empty, the Page/of + Last Name + Date of Report header box empty, and a long hand-drawn wavy vertical line struck down the whole Amount column of each page - the filer's way of voiding the grid. Each schedule's TOTAL cell holds a slashed-zero glyph, which per the repo zero-glyph ruling is 0 (the verbatim glyph is recorded here). The SUBTOTAL cells were left empty on both pages. Clerk listing calls this a January-31 year-end plus Final report."
+  }
  }
 }

@@ -1,6 +1,258 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-09-23",
+   "donor_raw": "Jim Matheson",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.25,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-20",
+   "donor_raw": "Dan Snarr",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.63,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted; In-Kind? column reads 'LOAN' for this row (the only marked row); a LOAN is not an in-kind contribution, so in_kind stays false and the marker is recorded here verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-09-16",
+   "donor_raw": "Heather Donbrosky",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-10-01",
+   "donor_raw": "Macey Matthews",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.37,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 5,
+   "date": "2014-10-24",
+   "donor_raw": "David Kimball",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.75,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 6,
+   "date": "2014-10-24",
+   "donor_raw": "Trisha Beck",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.12,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 7,
+   "date": "2014-10-24",
+   "donor_raw": "Committee to Elect Arlyn Bradshaw",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.49,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 8,
+   "date": "2014-10-27",
+   "donor_raw": "United Steelworkers District 12 Utah",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.86,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted"
+  },
+  {
+   "line_no": 9,
+   "date": "2014-10-15",
+   "donor_raw": "Aggregate",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.24,6.97,1.57,80.91@p4",
+   "note": "donor address column is COUNTY-REDACTED (solid black bar) and the attachment has NO city/state columns at all, so city/state are blank: redacted; row labelled 'Aggregate' (an aggregate line, not a named donor); retained verbatim as printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-09-22",
+   "vendor_raw": "Utah Democratic Par",
+   "purpose": "Coordinated Mail",
+   "amount": "5,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.35,7.27,2.12,44.85@p6",
+   "note": "recipient name is CLIPPED by the spreadsheet column width in the source ('Utah Democratic Par'); transcribed verbatim as printed, NOT completed"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-09-25",
+   "vendor_raw": "Utah Democratic Par",
+   "purpose": "Coordinated Mail",
+   "amount": "6,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.24,7.27,2.12,44.85@p6",
+   "note": "recipient name is CLIPPED by the spreadsheet column width in the source ('Utah Democratic Par'); transcribed verbatim as printed, NOT completed"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-01",
+   "vendor_raw": "Utah Democratic Par",
+   "purpose": "Coordinated Mail",
+   "amount": "3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.12,7.27,2.12,44.85@p6",
+   "note": "recipient name is CLIPPED by the spreadsheet column width in the source ('Utah Democratic Par'); transcribed verbatim as printed, NOT completed"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-09-29",
+   "vendor_raw": "Emily Hollingshead",
+   "purpose": "Website",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 5,
+   "date": "2014-10-25",
+   "vendor_raw": "Alexis Matthews",
+   "purpose": "Canvassing",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.88,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 6,
+   "date": "2014-10-25",
+   "vendor_raw": "Afton Lane",
+   "purpose": "Canvassing",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.76,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 7,
+   "date": "2014-10-25",
+   "vendor_raw": "Nicole Wedge",
+   "purpose": "Canvassing",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.65,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 8,
+   "date": "2014-09-23",
+   "vendor_raw": "Valley Journal",
+   "purpose": "Ad - Taylorsville",
+   "amount": "435.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.53,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 9,
+   "date": "2014-10-27",
+   "vendor_raw": "Act Blue",
+   "purpose": "Online Processing",
+   "amount": "41.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:67.41,7.27,2.12,44.85@p6"
+  },
+  {
+   "line_no": 10,
+   "date": "2014-10-10",
+   "vendor_raw": "Valley Journal",
+   "purpose": "Ad - Taylorsville",
+   "amount": "435.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.29,7.27,2.12,44.85@p6"
+  }
+ ],
  "total_contributions": "4,610.00",
  "total_expenditures": "15,511.34",
  "beginning_balance": "18,639.42",
@@ -49,6 +301,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten 2014 form. Neither amendment box is checked. Received stamp OCT 28 2014. A hand annotation '6 pages' appears at the top of page 1. Party written 'Democrate'."
+  "notes": "Handwritten 2014 form. Neither amendment box is checked. Received stamp OCT 28 2014. A hand annotation '6 pages' appears at the top of page 1. Party written 'Democrate'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3-4",
+   "itemized_pages_B": "5-6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,610.00",
+     "itemized": "4,610.00",
+     "result": "exact",
+     "detail": "exact (4,610.00 = 4,610.00); 9 rows sum to the attachment's own printed TOTAL: $4,610.00, which equals Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "15,511.34",
+     "itemized": "15,511.34",
+     "result": "exact",
+     "detail": "exact (15,511.34 = 15,511.34); 10 rows sum to the attachment's own printed TOTAL: $15,511.34, which equals Summary Page line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "The on-form 'SUBTOTAL FOR THIS PAGE' cells on p3 (Sched A) and p5 (Sched B) are EMPTY - both on-form schedules are blank and hand-marked 'See Attached'. Gate applied at the attachment TOTAL row instead: p4 rows 4,610.00 = printed TOTAL 4,610.00; p6 rows 15,511.34 = printed TOTAL 15,511.34. Both close exactly.",
+   "escalations": 2,
+   "escalation_note": "pp.4 and 6 are LANDSCAPE attachments rotated +90 (counter-clockwise) to read; each was then re-rendered at 300 dpi and TIGHT-CROPPED to the table (p4 twice - the first crop clipped the Amount column's cents and hid the In-Kind? column entirely, which is exactly the failure the full-page-first rule guards against). Every row was read in the tight crop, hence verified=1.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "6-page filing: p1 cover (Dan Snarr, County Council #3, Interim/October 28 report), p2 Summary Page, p3 on-form Schedule A blank + handwritten 'See Attached', p4 landscape contributions attachment (handwritten header 'Contributions'), p5 on-form Schedule B blank + 'See Attached', p6 landscape expenditures attachment (handwritten header 'Expenditures'). The contributions attachment has columns Date | Name | Address | Occupation & Employer | Amount | In-Kind? - there is NO city or state column anywhere, and the Address column is a solid county redaction bar, so donor_city/donor_state are blank for every row (recorded as 'redacted'). One row carries 'LOAN' in the In-Kind? column (Dan Snarr $2,000.00) - a loan, not an in-kind contribution, so in_kind=false with the marker noted. Three expenditure rows name a recipient CLIPPED by the spreadsheet column ('Utah Democratic Par') - kept verbatim, never completed."
+  }
  }
 }

@@ -1,5 +1,18 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "AMER. 1st CR. UN.",
+   "amount": "7.50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.88,24.30,90.37,3.88@p3",
+   "note": "Date Received cell prints a YEAR ONLY, '2008' - no month or day - so the date is left blank per contract (verbatim '2008'). Amount cell reads '$7.50 Int. (estimated)' on two lines; the figure is 7.50, 'Int.' = interest and '(estimated)' is the filer's own qualifier, both kept here rather than in the amount. Contributor written 'AMER. 1st CR. UN.' (America First Credit Union) - transcribed exactly as abbreviated on the form."
+  }
+ ],
  "expenditures": [],
  "total_contributions": "7.50 (est)",
  "total_expenditures": "0",
@@ -49,6 +62,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Older form variant with TWO office boxes: the 'Office Sought' box is BLANK, so office_sought is taken from the top-row 'Office' box, which reads 'COUNTY COUNCIL #3'; the District Number box is blank (the #3 is part of the office string). Neither amendment box is checked. Line 1 Column A is annotated by the filer: '7.50 (est)' - the '(est)' is written on the form and is kept verbatim; Column B for the same line is a plain '7.50'. Line 2 Columns A and B and Line 6 are written as a dash-zero-dash ('- 0 -') = 0. The document is a FAX copy (header 'Feb 02 09 02:22p Rocky Mountain Verdicts 801 268 2321'); the Summary Page's Date of Report box is blank. Arithmetic consistent (201.03 + 7.50 = 208.53)."
+  "notes": "Older form variant with TWO office boxes: the 'Office Sought' box is BLANK, so office_sought is taken from the top-row 'Office' box, which reads 'COUNTY COUNCIL #3'; the District Number box is blank (the #3 is part of the office string). Neither amendment box is checked. Line 1 Column A is annotated by the filer: '7.50 (est)' - the '(est)' is written on the form and is kept verbatim; Column B for the same line is a plain '7.50'. Line 2 Columns A and B and Line 6 are written as a dash-zero-dash ('- 0 -') = 0. The document is a FAX copy (header 'Feb 02 09 02:22p Rocky Mountain Verdicts 801 268 2321'); the Summary Page's Date of Report box is blank. Arithmetic consistent (201.03 + 7.50 = 208.53).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (form header 'Page 3 of 4')",
+   "itemized_pages_B": "4 (form header 'Page 4 of 4')",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7.50 (est)",
+     "itemized": "7.50",
+     "result": "exact",
+     "detail": "exact (7.50 = 7.50); the chunk file's stated value carries the filer's own '(est)' qualifier, which is written on the form beside the figure"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact - Schedule B is a printed but wholly EMPTY grid and its TOTAL EXPENDITURES MADE cell holds '-O-', a glyph denoting zero (zero-glyph ruling), so the side is a real zero with zero rows"
+    }
+   },
+   "page_subtotal_gates": "p3: the SUBTOTAL FOR THIS PAGE cell is EMPTY; the single row 7.50 = the printed TOTAL CONTRIBUTIONS RECEIVED $7.50, so the page gates on the total. p4: SUBTOTAL cell empty, TOTAL EXPENDITURES MADE cell holds '-O-' against an entirely empty grid - nothing to gate, and 0 rows is the correct transcription.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Faxed copy (fax header 'Feb 02 09 02:23p  Rocky Mountain Verdicts  801 268 2321'), David Wilde, year-end, form's own Date of Report 1/30/09. This is an almost-empty filing: ONE contribution row (7.50 of credit-union interest, filer-marked estimated) and NO expenditures at all. Schedule B (p4) is the blank printed grid with '-O-' in its TOTAL cell - that is an honest zero under the repo's zero-glyph ruling, not a missing page and not an unrecoverable one. The Complete Mailing Address and Occupation/Employer columns are empty on the one row, so donor_city/donor_state are blank. The Schedule A page-header 'of' digit is overwritten and ambiguous ('4' written over something); p4 reads 'Page 4 of 4' cleanly, so the filing is complete at 4 pages."
+  }
  }
 }

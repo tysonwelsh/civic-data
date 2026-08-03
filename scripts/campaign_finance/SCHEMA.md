@@ -147,6 +147,19 @@ Two forms, both plain ASCII and both re-derivable from the retained source:
 | form | example | means |
 |---|---|---|
 | `p<page>:l<line>:c<col0>-<col1>` | `p3:l48:c85-91` | laid-out text (`pdftotext -layout`): 1-based page (form feeds), 1-based line **within the sidecar**, 0-based character-column span of the value |
+| `pct:x,y,w,h@p<page>` | `pct:58.69,15.99,5.86,1.24@p1` | **the durable, serve-ready form** (2026-08-02): percentages of the page, resolution-independent and directly IIIF-Image-API region-shaped (`/pct:…/`). PREFERRED for all new vision rows (wave B2 contract). |
+| `p<page>:x,y,w,h@<dpi>dpi` | `p1:940,448,120,26@200dpi` | transitional pixel box from a vision pass — MUST carry its dpi; convert to `pct:` via the page's true size. |
+
+**Deriving snippets / regions: `scripts/campaign_finance/make_snippet.py`** resolves any of
+these to an IIIF-style region string and (optionally) a cropped PNG rendered from the retained
+raw — the row-level evidential anchor. Spreadsheet cell refs print a structured citation (no
+page image exists — honest n/a). Two Phase-A geometry caveats it compensates for, both queued
+as family fixes: (1) MULTI-FILE filings (washco_split) don't stamp WHICH part file the span is
+relative to — resolved by span-content validation (the span must reproduce the row's own
+amount in a group sibling); (2) some families' line origin is off by one vs the stored sidecar
+(summit specimen: l48 → line 47) — resolved by an l±1 search, again amount-validated. A
+resolution is only ever accepted when the span text reproduces the row's amount — never
+positional guessing.
 | `<Sheet>!<A1>` | `Sheet1!F5` | a spreadsheet cell (Washington's 2014-15 `.xls` workbooks) |
 
 **Trailing and OPTIONAL — the same contract as `filing_totals.filing_regime`.** `driver._write`

@@ -1,6 +1,58 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Gary Ott",
+   "amount": "327.23",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,20.25,86.40,3.75@p3",
+   "note": "date cell printed '4/7' with NO YEAR - left blank per contract, verbatim kept here; occupation col 'Recorder / Salt Lake County'; address block county-redacted (black box)"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Gary Ott",
+   "amount": "779.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.44,24.15,86.40,3.75@p3",
+   "note": "date cell printed '4/7' with NO YEAR - left blank per contract, verbatim kept here; occupation col 'Recorder / Salt Lake County'; address block county-redacted (black box)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-07",
+   "vendor_raw": "Imaginos",
+   "purpose": "colored Flyers",
+   "amount": "327.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.50,22.15,80.30,3.85@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-07",
+   "vendor_raw": "Imaginos",
+   "purpose": "colored Flyers",
+   "amount": "779.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.50,26.00,80.30,3.85@p4"
+  }
+ ],
  "total_contributions": "1106.86",
  "total_expenditures": "1106.86",
  "beginning_balance": "0",
@@ -49,6 +101,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Only the Year-End box is checked - despite the clerk filename 'Final', the Final/Dissolution box is NOT checked and neither amendment box is checked. The handwritten signature date is illegible (it overlaps the signature flourish; only something like '1?-13' is visible), so report_date is null; the clerk RECEIVED stamp reads JAN 31 2013. Lines 3 and 7 Column A are written as a slashed zero (\u00d8). The Column B cents on lines 1 and 2 ('4780.30') are written as a raised superscript '30'. Column B is headed 'Year to Date' on this form vintage."
+  "notes": "Only the Year-End box is checked - despite the clerk filename 'Final', the Final/Dissolution box is NOT checked and neither amendment box is checked. The handwritten signature date is illegible (it overlaps the signature flourish; only something like '1?-13' is visible), so report_date is null; the clerk RECEIVED stamp reads JAN 31 2013. Lines 3 and 7 Column A are written as a slashed zero (\u00d8). The Column B cents on lines 1 and 2 ('4780.30') are written as a raised superscript '30'. Column B is headed 'Year to Date' on this form vintage.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1106.86",
+     "itemized": "1106.86",
+     "result": "exact",
+     "detail": "exact (1106.86 = 1106.86)"
+    },
+    "expenditures": {
+     "stated": "1106.86",
+     "itemized": "1106.86",
+     "result": "exact",
+     "detail": "exact (1106.86 = 1106.86)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1106.86 = printed TOTAL CONTRIBUTIONS 1106.86 (the SUBTOTAL FOR THIS PAGE cell was left EMPTY by the filer - only the TOTAL line is filled, so the TOTAL is the gate); p4 rows 1106.86 = printed TOTAL EXPENDITURES 1106.86 (same, subtotal cell empty)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Contributor on BOTH Schedule A rows is the candidate himself, Gary Ott, occupation given as 'Recorder / Salt Lake County' - i.e. self-funding; the two contribution amounts equal the two Imaginos flyer expenditures exactly (327.23 / 779.63), so the pair is a pass-through. Both Schedule A date cells print '4/7' with NO YEAR: dates left BLANK with needs_review per contract, never filled from the report date (Schedule B's matching rows do print '4/7/12'). Page/Last-Name/Date-of-Report header boxes on both schedule pages are blank."
+  }
  }
 }

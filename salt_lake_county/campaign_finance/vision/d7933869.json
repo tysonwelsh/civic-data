@@ -1,6 +1,242 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-10-30",
+   "donor_raw": "Utah Mechanical Contractors Association",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,15.50,75.70,2.50@p2",
+   "note": "Type column reads 'Organization'; occupation and employer cells empty"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-10-31",
+   "donor_raw": "Dell Loy Hansen",
+   "amount": "$1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,18.50,75.70,1.30@p2",
+   "note": "Type 'Individual'; occupation 'Developer'; employer 'Self'"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-11-06",
+   "donor_raw": "Evans Consulting Inc",
+   "amount": "$800.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,20.00,75.70,1.30@p2",
+   "note": "Type 'Organization'"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-11-13",
+   "donor_raw": "Dave Nicponski & Associates",
+   "amount": "$500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,21.60,75.70,2.15@p2",
+   "note": "Type 'Individual'; occupation 'Council Member'; employer 'Murray City'"
+  },
+  {
+   "line_no": 5,
+   "date": "2013-01-30",
+   "donor_raw": "Emergency Responders of Utah",
+   "amount": "$2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,24.15,75.70,1.35@p2",
+   "note": "Type 'Organization'; date is in January 2013, after the 2012 cycle - kept verbatim"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-10-31",
+   "vendor_raw": "Taylor Schildknecht",
+   "purpose": "Campaign Work",
+   "amount": "$250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,38.00,60.80,1.20@p2"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-11-01",
+   "vendor_raw": "Letter 23",
+   "purpose": "Printing and Mailing of Brochure",
+   "amount": "$10,508.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,39.25,60.80,1.20@p2"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-11-05",
+   "vendor_raw": "Lowes",
+   "purpose": "Supplies",
+   "amount": "$46.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,40.50,60.80,1.20@p2"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-11-06",
+   "vendor_raw": "Albertsons",
+   "purpose": "Candy",
+   "amount": "$25.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,41.70,60.80,1.20@p2"
+  },
+  {
+   "line_no": 5,
+   "date": "2012-11-06",
+   "vendor_raw": "Costco",
+   "purpose": "Election Night Supplies",
+   "amount": "$90.48",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,42.90,60.80,1.20@p2"
+  },
+  {
+   "line_no": 6,
+   "date": "2012-11-06",
+   "vendor_raw": "Hilton Hotel",
+   "purpose": "Election Night",
+   "amount": "$276.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,44.15,60.80,1.20@p2"
+  },
+  {
+   "line_no": 7,
+   "date": "2012-11-06",
+   "vendor_raw": "Sunshine Creations",
+   "purpose": "Volunteer gifts",
+   "amount": "$134.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,45.35,60.80,1.20@p2"
+  },
+  {
+   "line_no": 8,
+   "date": "2012-11-06",
+   "vendor_raw": "Target",
+   "purpose": "Election Night Supplies",
+   "amount": "$41.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,46.55,60.80,1.20@p2"
+  },
+  {
+   "line_no": 9,
+   "date": "2012-11-28",
+   "vendor_raw": "Taylor Schildknecht",
+   "purpose": "Campaign Work",
+   "amount": "$150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,47.80,60.80,1.20@p2"
+  },
+  {
+   "line_no": 10,
+   "date": "2012-12-01",
+   "vendor_raw": "Cyprus Pirates baseball",
+   "purpose": "Team Sponsorship",
+   "amount": "$2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,49.00,60.80,1.20@p2"
+  },
+  {
+   "line_no": 11,
+   "date": "2012-12-14",
+   "vendor_raw": "Lone Peak Trailers",
+   "purpose": "Storage Trailer",
+   "amount": "$8,130.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,50.20,60.80,1.20@p2"
+  },
+  {
+   "line_no": 12,
+   "date": "2012-12-17",
+   "vendor_raw": "Autozone",
+   "purpose": "Hitch",
+   "amount": "$50.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,51.45,60.80,1.20@p2"
+  },
+  {
+   "line_no": 13,
+   "date": "2013-01-03",
+   "vendor_raw": "Lowes",
+   "purpose": "Storage Locks",
+   "amount": "$33.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.68,52.65,60.80,1.20@p2"
+  }
+ ],
  "total_contributions": "$4,800.00",
  "total_expenditures": "$21,737.63",
  "beginning_balance": "$18,578.96",
@@ -48,6 +284,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Clerk 'summary_printer.cfm' online printout (Summary on page 1, schedules on page 2); no District Number field and no amendment question exist on the form (null). Lines 3, 5 and 7 are handwritten. Manifest calls this the '2012 Summary Report'; the form's Report line reads '2012 Summary Report (Year End)' - they agree. Note the YTD columns RESET for the year-end filing (Line 1 YTD $28,650.00 is LOWER than the October interim's $59,417.27, and Line 2 YTD $34,983.24 is lower than October's $41,232.17), which is an apparent inconsistency in the clerk system's YTD basis - both figures are recorded verbatim as printed. Column A arithmetic checks out and Line 3 chains exactly to the October filing's Line 7. Footer print date 1/31/2013."
+  "notes": "Clerk 'summary_printer.cfm' online printout (Summary on page 1, schedules on page 2); no District Number field and no amendment question exist on the form (null). Lines 3, 5 and 7 are handwritten. Manifest calls this the '2012 Summary Report'; the form's Report line reads '2012 Summary Report (Year End)' - they agree. Note the YTD columns RESET for the year-end filing (Line 1 YTD $28,650.00 is LOWER than the October interim's $59,417.27, and Line 2 YTD $34,983.24 is lower than October's $41,232.17), which is an apparent inconsistency in the clerk system's YTD basis - both figures are recorded verbatim as printed. Column A arithmetic checks out and Line 3 chains exactly to the October filing's Line 7. Footer print date 1/31/2013.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$4,800.00",
+     "itemized": "4800.00",
+     "result": "exact",
+     "detail": "exact (4800.00 = $4,800.00 = the table's own printed Total Contributions)"
+    },
+    "expenditures": {
+     "stated": "$21,737.63",
+     "itemized": "21737.63",
+     "result": "exact",
+     "detail": "exact (21737.63 = $21,737.63 = the table's own printed Total Expenditures)"
+    }
+   },
+   "page_subtotal_gates": "This variant prints no per-page SUBTOTAL row, only a table Total. p2 contributions rows 4,800.00 = printed Total 4,800.00 - GATE PASSES. p2 expenditures rows 21,737.63 = printed Total 21,737.63 - GATE PASSES (13 rows, exact to the cent).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 13,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BORN-DIGITAL WEB-PRINTED variant (slcintranet financialDisclosure/clerk/summary_printer.cfm?ID=643, printed 1/31/2013), typed and fully legible - only 2 pages, both itemized tables on p2. THIS VARIANT HAS NO MAILING-ADDRESS COLUMN AT ALL for contributors (columns are Date/Contributor Name/Occupation/Employer/Type/Amount/In-Kind?), so donor_city and donor_state do not exist in the source - blank by non-existence, not redaction and not a filer omission. The candidate's own address and phone blocks on p1 ARE redacted with black boxes. An 'In-Kind?' column exists on both tables and is empty on every row, so in_kind is false throughout on the form's own evidence. The page also prints 'No Contributions Received from other Campaign Accounts reported for this period' and the same for expenditures."
+  }
  }
 }

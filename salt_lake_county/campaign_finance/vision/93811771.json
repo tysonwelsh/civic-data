@@ -1,6 +1,233 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-04-07",
+   "donor_raw": "Nate Hendricks",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.53,25.15,80.80,2.42@p3",
+   "note": "Complete Mailing Address cell left empty by the filer; cents written as a superscript over a rule; transcribed with a decimal point; occupation column reads 'Candadite' (filer spelling) - this is the candidate's own money"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-05-26",
+   "donor_raw": "Tom Henry",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.53,29.40,80.80,2.15@p3",
+   "note": "Complete Mailing Address cell left empty by the filer; cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-01",
+   "donor_raw": "Nate Hendricks",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.53,33.26,80.80,2.24@p3",
+   "note": "Complete Mailing Address cell left empty by the filer; cents written as a superscript over a rule; transcribed with a decimal point; candidate's own money"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-13",
+   "donor_raw": "Interform Graphics",
+   "donor_city": "Centrville",
+   "donor_state": "UT",
+   "amount": "606.56",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;donor_city=high",
+   "verified": 1,
+   "geometry": "pct:8.53,36.93,80.80,2.38@p3",
+   "note": "the amount cell reads 'Inkind' above the figure - this is an IN-KIND contribution, and it is matched by the 606.56 Schedule B row of the same date; city written 'Centrville' (filer spelling), street discarded"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-19",
+   "donor_raw": "Centennial Managment Group",
+   "donor_city": "West Valley",
+   "donor_state": "UT",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;donor_city=high",
+   "verified": 1,
+   "geometry": "pct:8.53,39.85,80.80,3.18@p3",
+   "note": "contributor written 'Centennial Managment Group' with the tail of 'Managment' struck through and rewritten; street discarded; cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-06-19",
+   "donor_raw": "Siegfried & Jensen",
+   "donor_city": "Murray",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;donor_city=high",
+   "verified": 1,
+   "geometry": "pct:8.53,43.30,80.80,3.50@p3",
+   "note": "street discarded; cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-06-14",
+   "donor_raw": "Utah Soccer LLC",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=high;amount=high;donor_city=high",
+   "verified": 1,
+   "geometry": "pct:8.53,47.60,80.80,2.87@p3",
+   "note": "DATE AMBIGUOUS: the day group is a single merged glyph, escalated to a 1200 dpi cell crop. It has no round bowl and reads as a '1' joined to a closed-top '4' (compare the unambiguous round-bowl 9 in the two 6/19/06 rows above it on the same page), so it is transcribed 6/14/06; a reading of 6/19/06 cannot be fully excluded. city written 'SLC', street discarded; cents written as a superscript over a rule; transcribed with a decimal point"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-05",
+   "vendor_raw": "Network Solutions",
+   "purpose": "Purchase websites",
+   "amount": "45.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,28.05,75.60,2.06@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-17",
+   "vendor_raw": "Famous Daves",
+   "purpose": "Campaign Lunch Committee",
+   "amount": "21.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,31.99,75.60,1.84@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-25",
+   "vendor_raw": "Nate Hendricks",
+   "purpose": "Purchase Food For Fundraiser",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,35.66,75.60,2.20@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-26",
+   "vendor_raw": "Rocky mountain Grill",
+   "purpose": "Campaign Breakfast Committee",
+   "amount": "6.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,39.52,75.60,2.11@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-04-27",
+   "vendor_raw": "Camille Hendricks",
+   "purpose": "Reimburse for Expense",
+   "amount": "37.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,43.15,75.60,2.28@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-05-19",
+   "vendor_raw": "Braza Grill",
+   "purpose": "Opponent Lunch",
+   "amount": "25.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,47.27,75.60,2.15@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-06-07",
+   "vendor_raw": "West Jordan City",
+   "purpose": "Fair Booth",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,50.40,75.60,1.48@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-13",
+   "vendor_raw": "Interform Graphics",
+   "purpose": "Letterhead / Inkind Cards",
+   "amount": "606.56",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,53.94,75.60,1.97@p4",
+   "note": "the purpose cell itself carries the marker 'Inkind'; the amount matches the 606.56 IN-KIND contribution booked on Schedule A the same date, so the item appears on both sides of this form and both printed totals include it; cents written as a superscript over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-06-16",
+   "vendor_raw": "Interform Graphics",
+   "purpose": "Signs",
+   "amount": "2,028.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.48,58.29,75.60,2.51@p4",
+   "note": "cents written as a superscript over a rule; transcribed with a decimal point"
+  }
+ ],
  "total_contributions": "5,306.56",
  "total_expenditures": "2,886.54",
  "beginning_balance": "100.00",
@@ -49,6 +276,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Cents written as a raised superscript over a rule on the Column A lines and on Line 1 Column B - transcribed with a decimal point. Line 1 Column B was re-rendered at 250 dpi: the superscript reads 79 (5,559.79), which the form's own internals corroborate (5,559.79 - 5,306.56 = 253.23 and 3,039.77 - 2,886.54 = 153.23, differing by the 100.00 opening balance). Neither amendment box is checked."
+  "notes": "Cents written as a raised superscript over a rule on the Column A lines and on Line 1 Column B - transcribed with a decimal point. Line 1 Column B was re-rendered at 250 dpi: the superscript reads 79 (5,559.79), which the form's own internals corroborate (5,559.79 - 5,306.56 = 253.23 and 3,039.77 - 2,886.54 = 153.23, differing by the 100.00 opening balance). Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,306.56",
+     "itemized": "5306.56",
+     "result": "exact",
+     "detail": "exact (5,306.56 = 5,306.56); the 7 transcribed rows equal the printed Schedule A TOTAL and Summary line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "2,886.54",
+     "itemized": "2886.54",
+     "result": "exact",
+     "detail": "exact (2,886.54 = 2,886.54); the 9 transcribed rows equal the printed Schedule B TOTAL and Summary line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "Both schedules leave the 'SUBTOTAL FOR THIS PAGE' cell BLANK and write the figure only on the 'TOTAL ... (Sum of subtotals from all pages)' line, so the per-page subtotal gate has nothing to fire against on either page. Each schedule is a single page, so the printed TOTAL is the equivalent gate and both pass exactly: p3 rows 5,306.56 = printed TOTAL 5,306.56; p4 rows 2,886.54 = printed TOTAL 2,886.54.",
+   "escalations": 4,
+   "escalation_note": "p3 contributor+date column rows 4-6 at 600 dpi; p3 row 7 (Utah Soccer LLC) date cell at 1200 dpi to adjudicate the merged day glyph (still low confidence - see the row note); p3 row 7 date cell band again with the address column at 500 dpi; p3 address column rows 4-7 at 500 dpi for city/state.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2006 form, handwritten, June 20 interim box checked (period ending 2006-06-19), signed 6/20/06, clerk RECEIVED JUN 20 2006. Addresses here are NOT redacted - they are written out - so only CITY and STATE were taken from each and the street/PO line was discarded at read time. In-kind: the 606.56 Interform Graphics item is booked on BOTH schedules (Schedule A row 4, marked 'Inkind' in the amount cell; Schedule B row 8, marked 'Inkind' inside the purpose cell) and both printed totals include it - that is how this filer presented it, not a transcription duplication. Occupation/Employer values on Schedule A are informative (Candidate, Small Business Owner/mechanic, Print, Event Managment/Utah Grizzlies, Law Firm, Sports Managment) but the per-row contract has no slot for them. Filer spellings kept verbatim: 'Candadite', 'Centrville', 'Centennial Managment Group' (with a strike-through), 'Rocky mountain Grill', 'Reimburse for ExPense'."
+  }
  }
 }

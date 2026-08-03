@@ -1,6 +1,133 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-11-11",
+   "donor_raw": "X-Mission",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,23.19,84.03,3.75@p3",
+   "note": "amount cell reads '35.00 (in-Kind)'; occupation/employer 'Business'; donor name written as a capital X (or Y) followed by '-Mission' - read as X-Mission, corroborated by the printed address; city/state taken verbatim as 'SLC, UT', street line and ZIP discarded at read time per the privacy rule"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-12-11",
+   "donor_raw": "X-Mission",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,26.94,84.03,3.57@p3",
+   "note": "the name, address AND occupation cells all carry DITTO marks resolving to row 1 (X-Mission / SLC, UT / Business); amount cell reads '35.00 (in-Kind)'"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-11-03",
+   "donor_raw": "Mayne for Senate",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,30.51,84.03,3.90@p3",
+   "note": "LOW CONFIDENCE NAME: escalated to a 1000 dpi crop; 'for Senate' is clear, the first word is 'May' followed by two cursive strokes that could be 'ne', 'nl' or 'ue'. Transcribed as the legible-glyph string, NOT verified. Occupation/employer 'Political Organization'. Address is faint handwriting with no legible city or state (filer-written, not redacted)"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-12-01",
+   "donor_raw": "Richard Seegmiller",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.24,34.40,84.03,3.39@p3",
+   "note": "name confirmed at 1000 dpi. AMOUNT SET BY ARITHMETIC: the cents glyphs look like '.60' but the page TOTAL 770.00 (confirmed twice on the Summary Page) leaves exactly 500.00; the document's own arithmetic outranks the glyph read. Occupation/employer 'Podiatrist'. Address is faint handwriting with no legible city or state"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2010-11-11",
+   "vendor_raw": "X-Mission",
+   "purpose": "Web-hosting",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.73,26.03,76.68,3.39@p4",
+   "note": "amount cell reads '35.00 (in-Kind)'; offsetting side of the p3 line 1 in-kind contribution"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-12-11",
+   "vendor_raw": "X-Mission",
+   "purpose": "Web-hosting",
+   "amount": "35.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.73,29.41,76.68,3.64@p4",
+   "note": "recipient and purpose cells both carry DITTO marks resolving to row 1; amount cell reads '35.00 (in-Kind)'"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-12-01",
+   "vendor_raw": "Zing Media",
+   "purpose": "Elections advertising",
+   "amount": "133.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.73,33.05,76.68,3.86@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-12-13",
+   "vendor_raw": "Kyle Hoyt",
+   "purpose": "Campaign Mgmt",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.73,36.91,76.68,3.97@p4",
+   "note": "cents written as a raised superscript 'oo' over a rule after '450.'; transcribed with a decimal point per the currency convention"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-12-13",
+   "vendor_raw": "The Target Group",
+   "purpose": "Consulting",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.73,40.88,76.68,3.49@p4",
+   "note": "cents written as a raised superscript 'oo' over a rule after '450.'; transcribed with a decimal point per the currency convention"
+  }
+ ],
  "total_contributions": "770.00",
  "total_expenditures": "1103.77",
  "beginning_balance": "274.94",
@@ -47,6 +174,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "NEGATIVE closing balance: Line 7 Column A is written '-58.83' with a leading dash rather than accounting parentheses \u2014 kept verbatim. The form's own arithmetic produces it (274.94 + 770.00 = 1,044.94; minus 1,103.77 = -58.83), so the campaign closed the year overdrawn. Line 1 Column A uses the raised-cents convention (770 with a superscript 00). Column B is blank on both lines. This copy is a FAX: the header band reads 'Feb 01 11 04:35p  Cal Noyce & Bruce Dicks  801-519-9525'. The filer writes 'S.L. City Council' here (County on his other 2010 filings)."
+  "notes": "NEGATIVE closing balance: Line 7 Column A is written '-58.83' with a leading dash rather than accounting parentheses \u2014 kept verbatim. The form's own arithmetic produces it (274.94 + 770.00 = 1,044.94; minus 1,103.77 = -58.83), so the campaign closed the year overdrawn. Line 1 Column A uses the raised-cents convention (770 with a superscript 00). Column B is blank on both lines. This copy is a FAX: the header band reads 'Feb 01 11 04:35p  Cal Noyce & Bruce Dicks  801-519-9525'. The filer writes 'S.L. City Council' here (County on his other 2010 filings).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "770.00",
+     "itemized": "770.00",
+     "result": "exact",
+     "detail": "exact (35.00 + 35.00 + 200.00 + 500.00 = 770.00 = printed TOTAL CONTRIBUTIONS RECEIVED 770.00 = Summary line 1 Col A 770.00)"
+    },
+    "expenditures": {
+     "stated": "1103.77",
+     "itemized": "1103.77",
+     "result": "exact",
+     "detail": "exact (35.00 + 35.00 + 133.77 + 450.00 + 450.00 = 1103.77 = printed TOTAL EXPENDITUTRES MADE 1103.77 = Summary line 2 Col A 1103.77)"
+    }
+   },
+   "page_subtotal_gates": "the filer left BOTH 'SUBTOTAL FOR THIS PAGE' cells EMPTY on p3 and p4, so the per-page gate does not exist on this filing; the schedule TOTAL lines gate instead and both fired exact (p3 rows 770.00 = TOTAL 770.00; p4 rows 1103.77 = TOTAL 1103.77). The Summary Page balance chain independently corroborates the contributions figure: line 3 274.94 + line 4 770.00 = line 5 1044.94 as printed.",
+   "escalations": 1,
+   "escalation_note": "p3 contributor-name column rows 3-4 at 1000 dpi (x=1500,y=3350,W=1900,H=800) - resolved 'Richard Seegmiller' cleanly; the row-3 committee name is still only partly resolved and is carried at low confidence",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "A FAXED filing - every page carries a fax banner across the top ('Feb 01 11 04:35-36p ... p.2/p.3/p.4/p.5'), which is why the PDF's 4 pages are the fax's pages 2-5. ARITHMETIC OVERRODE A GLYPH READ on p3 row 4: the amount cell's cents group reads more like '.60' than '.00' at any resolution, but 35.00+35.00+200.00 leaves exactly 500.00 against the printed TOTAL 770.00, which the Summary Page confirms twice (line 4 = 770.00 and line 3 274.94 + 770.00 = the printed line 5 1044.94). Recorded as 500.00 per the rule that the document's own arithmetic outranks a glyph re-read. p3 row 3's contributor is a political committee whose name reads 'May' + two ambiguous cursive letters + ' for Senate'; transcribed as the legible-glyph string at LOW confidence with needs_review - it is NOT verified and must not be treated as an identified committee. Ditto marks: p3 row 2 carries a ditto in the name, address AND occupation cells (resolving to row 1), and p4 row 2 carries dittos in the recipient and purpose cells - each resolution is stated in the row note. PRIVACY: only p3 row 1 prints a legible address, and only its CITY/STATE were kept ('SLC, UT'); the street line and ZIP were discarded at read time and never written anywhere. Rows 3 and 4 have faint handwritten addresses with no legible city or state, so those fields are blank (filer-written but illegible, NOT county-redacted - this filing has no redaction blocks at all). p4 rows 4 and 5 write the cents as a raised superscript over a rule ('450' with superscript 'oo'), transcribed with a decimal point per the currency convention. Two IN-KIND web-hosting items appear as an offsetting pair on both schedules (35.00 each, '(in-Kind)' written in the amount cell on both sides). The YEAR-END January-31 box is checked, matching the clerk listing label; the amendment question is answered 'No'. The cover's Office Sought reads 'S.L. Cty Council' District 1, consistent with the index label County Council."
+  }
  }
 }

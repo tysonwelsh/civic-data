@@ -1,6 +1,203 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Steve Harmsen",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=medium",
+   "verified": 1,
+   "note": "the candidate himself. DATE CELL ILLEGIBLE - a scribbled month glyph over '/10'; blank per contract, no date inferred. Address cell empty; Occupation/Employer reads 'SRC' followed by an illegible word. Amount ESCALATED to a 900 dpi cell crop: reads 175 (not 170), which is why the Schedule A total does not close - see page_subtotal_gates. Geometry omitted (fax skew)"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-10-01",
+   "donor_raw": "Utah Rep Party",
+   "amount": "2400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "written 'Utah Rep Party' (abbreviation as printed); street address printed with NO city or state, so no geography is recorded (street discarded at read time, privacy); occupation 'Pol Party'. Geometry omitted (fax skew)"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-05",
+   "donor_raw": "WAFCO",
+   "amount": "5500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "WAFCO is also the name in this fax's transmission banner; street address printed with NO city or state (street discarded, privacy); occupation 'Business'. Geometry omitted (fax skew)"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-09-25",
+   "donor_raw": "Steve Harmsen",
+   "amount": "8500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "the candidate again; address cell empty; occupation cell reads 'Ind/' (as written, apparently truncated). Geometry omitted (fax skew)"
+  },
+  {
+   "line_no": 5,
+   "date": "2010-10-01",
+   "donor_raw": "Dalton Hydro LLC",
+   "amount": "5000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "name glyphs read 'Dalton Hydro' with a trailing 'LLC' running into the address column; street address printed with NO city or state (street discarded, privacy); occupation 'Hydro Electric Co.'. Geometry omitted (fax skew)"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-10-15",
+   "donor_raw": "A W Cattle Co",
+   "donor_city": "Caliente",
+   "donor_state": "NV",
+   "amount": "5000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "name is a cramped scrawl reading 'A W Cattle Co' (an ampersand between A and W is possible but not legible - kept as the glyph string at low confidence); the only row with a city/state, written 'Old Cave Rd / Caliente, NV.' - street discarded at read time (privacy), Caliente NV retained; occupation 'Farming Ranch'. Geometry omitted (fax skew)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "SL County",
+   "purpose": "Fee",
+   "amount": "175",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,26.91,82.50,3.82@p4",
+   "note": "DATE CELL ILLEGIBLE - same scribbled month glyph over '/10' as Schedule A row 1; blank per contract. The 175 amount is confirmed to the cent by the page-subtotal gate"
+  },
+  {
+   "line_no": 2,
+   "date": "2010-09-12",
+   "vendor_raw": "Imaginos",
+   "purpose": "Flyer + Postage",
+   "amount": "5406",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,30.73,82.50,3.89@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2010-09-24",
+   "vendor_raw": "Reagan Outdoor",
+   "purpose": "Billboards",
+   "amount": "8440",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,34.62,82.50,3.82@p4",
+   "note": "an entirely BLANK ruled row follows this one on the form; it is not transcribed"
+  },
+  {
+   "line_no": 4,
+   "date": "2010-10-13",
+   "vendor_raw": "Media One",
+   "purpose": "Adv.",
+   "amount": "2950",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:5.40,42.26,82.50,3.92@p4",
+   "note": "ESCALATED: the base read looked like 2450; the page-subtotal identity required 500.00 more, and a 900 dpi cell crop confirms the second digit is a 9 - 2950. This is the arithmetic-outranks-glyph rule doing exactly what it is for"
+  },
+  {
+   "line_no": 5,
+   "date": "2016-10-05",
+   "vendor_raw": "DesignType",
+   "purpose": "Artwork",
+   "amount": "450",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,46.18,82.50,3.73@p4",
+   "note": "DATE IS PRINTED '10/5/16' - a well-formed filer TYPO on a 2010 report (every other date on the page ends /10). Kept VERBATIM as 2016-10-05 per contract rather than silently corrected; flagged for review"
+  },
+  {
+   "line_no": 6,
+   "date": "2010-10-08",
+   "vendor_raw": "Renaissance Sign",
+   "purpose": "Adv",
+   "amount": "547",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,49.91,82.50,3.82@p4",
+   "note": "vendor is a loose scrawl reading 'Renaissance Sign'; low confidence on the spelling"
+  },
+  {
+   "line_no": 7,
+   "date": "2010-10-20",
+   "vendor_raw": "Mills Pub",
+   "purpose": "Adv",
+   "amount": "495",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,53.73,82.50,3.82@p4",
+   "note": "vendor glyphs read 'Mills Pub' - possibly an abbreviation of a longer name; kept as written at low confidence"
+  },
+  {
+   "line_no": 8,
+   "date": "2010-10-23",
+   "vendor_raw": "Imaginos",
+   "purpose": "Signs",
+   "amount": "1500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,57.55,82.50,3.92@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2010-10-25",
+   "vendor_raw": "Imaginos",
+   "purpose": "Flyer + Postage",
+   "amount": "4975",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.40,61.47,82.50,3.92@p4"
+  }
+ ],
  "total_contributions": "26400",
  "total_expenditures": "24763",
  "beginning_balance": "0",
@@ -49,6 +246,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Faxed handwritten form. TWO internal inconsistencies kept verbatim: Line 1 Column A reads 26400 but Line 4 ('from Line 1 Column A') reads 26570; Line 2 Column A reads 24763 but Line 6 ('from Line 2 Column A') reads 24673 (digits transposed). The balance summary is self-consistent with the Line 4/Line 6 figures (26570 - 24673 = 1,897 = Line 7). Nothing recomputed. The 'seven days before a primary election' box also carries a stray mark that is struck out; the general-election box is the one checked."
+  "notes": "Faxed handwritten form. TWO internal inconsistencies kept verbatim: Line 1 Column A reads 26400 but Line 4 ('from Line 1 Column A') reads 26570; Line 2 Column A reads 24763 but Line 6 ('from Line 2 Column A') reads 24673 (digits transposed). The balance summary is self-consistent with the Line 4/Line 6 figures (26570 - 24673 = 1,897 = Line 7). Nothing recomputed. The 'seven days before a primary election' box also carries a stray mark that is struck out; the general-election box is the one checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "26400",
+     "itemized": "26575.00",
+     "result": "delta",
+     "detail": "delta 175.00 against the Summary Page Column A, and 5.00 against the schedule's own TOTAL - THREE FIGURES, ALL RETAINED. (a) The 6 rows sum 26575.00. (b) The printed Schedule A TOTAL is 26570 (the SUBTOTAL cell was left blank), which is 5.00 short of the rows; the same 26570 also appears at Summary line 1 Column B, line 4 and line 5, so it is the filer's own well-corroborated figure and the 5.00 gap is the filer's arithmetic. (c) Summary line 1 Column A - the stated figure - is 26400, which equals EXACTLY the five rows other than the 175.00 self-contribution on row 1, i.e. this filer's Column A appears to exclude that row. The 175 reading is corroborated: the same hand's 175 on Schedule B row 1 is confirmed to the cent by the Schedule B gate. Nothing was adjusted."
+    },
+    "expenditures": {
+     "stated": "24763",
+     "itemized": "24938.00",
+     "result": "delta",
+     "detail": "delta 175.00 - but the SCHEDULE gate fires exactly: the 9 rows sum 24938.00 = the printed SUBTOTAL 24 938 = the printed TOTAL 24938 (both re-read at 600 dpi). It is the Summary Page that disagrees with its own schedule: line 2 Column A reads 24763 and line 6 reads 24673 (a digit transposition of each other), while line 2 Column B reads 24938. 24938 - 24763 = 175.00, exactly the SL County fee row - the same exclusion pattern as the contributions side. Nothing was adjusted."
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule B) GATE FIRES EXACTLY: rows 24938.00 = printed SUBTOTAL 24 938 = printed TOTAL 24938. That gate is what settled the Media One amount (see escalations). p3 (Schedule A) WILL NOT GATE: rows sum 26575.00 against a printed TOTAL of 26570 (the SUBTOTAL cell is blank) - a 5.00 gap left standing after a 900 dpi cell crop, both figures named above and neither adjusted. Summary Page balance chain: line 3 (0) + line 4 (26570) = line 5 (26570); 26570 - line 6 (24673) = line 7 (1,897) - internally consistent, but around figures that differ from BOTH Column A and the schedules.",
+   "escalations": 3,
+   "escalation_note": "p4 Media One amount cell at 900 dpi (settled 2950, not 2450 - the page-subtotal identity demanded 500 more and the 900 dpi crop confirms a 9); p4 SUBTOTAL/TOTAL cells at 600 dpi (both 24938, ruling out a 24958 mis-read); p3 row-1 amount cell at 900 dpi (reads 175, NOT 170 - so the 5.00 Schedule A gap was left open rather than closed by adjusting the row)",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page FAX (banner on every page: '10/26/2010  00:34  18015329125  WAFCO  PAGE 0n/04'), heavily degraded, with a vertical fax artifact down the middle of each page. p1 cover: 'Seven days before a general election' checked with a large X; the 'Seven days before a primary election' box ALSO carries a heavy scribble/strike-out; NEITHER amendment box ticked; Steve Harmsen, Office 'CC #1', District D-1, party 'R'; signed 10/26/10, clerk-stamped OCT 26 2010. p2 Summary Page, p3 Schedule A (6 rows), p4 Schedule B (9 rows). GEOMETRY: pointers are given for Schedule B, where the ruling lines detect cleanly; they are OMITTED for Schedule A because that page's fax skew makes the row bands unreliable to convert - a wrong pointer is worse than none. Schedule B has one entirely BLANK ruled row between row 3 (Reagan Outdoor) and row 4 (Media One); it is not transcribed and the geometry skips it. TWO ROWS HAVE AN ILLEGIBLE DATE: Schedule A row 1 and Schedule B row 1 both carry the same scribbled month glyph over '/10' - blank + needs_review, no date inferred. Schedule B row 5 is dated 10/5/16 - a well-formed filer TYPO on a 2010 report; kept VERBATIM per contract, flagged. PRIVACY: three contributor rows print a street address with no city; only the one row that names a city/state (Caliente, NV) carries geography."
+  }
  }
 }

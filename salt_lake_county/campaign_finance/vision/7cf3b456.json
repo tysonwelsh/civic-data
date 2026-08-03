@@ -48,6 +48,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Lines 1 and 2 (both columns), 3 and 7 are hand-drawn slashed zeros. Lines 4, 5 and 6 Column A carry NO figure - instead a single long vertical pen stroke runs down through all three cells, which is a 'nothing entered' mark rather than a digit, so line5_subtotal is recorded as \"\" (blank) and NOT as 0. Re-rendered at 250 dpi to confirm both this and the signature date, which reads 10/31/06 (the '1' of 31 is crowded by the signature). Neither amendment box is checked."
+  "notes": "Lines 1 and 2 (both columns), 3 and 7 are hand-drawn slashed zeros. Lines 4, 5 and 6 Column A carry NO figure - instead a single long vertical pen stroke runs down through all three cells, which is a 'nothing entered' mark rather than a digit, so line5_subtotal is recorded as \"\" (blank) and NOT as 0. Re-rendered at 250 dpi to confirm both this and the signature date, which reads 10/31/06 (the '1' of 31 is crowded by the signature). Neither amendment box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule A is the printed form with every data row empty; the TOTAL CONTRIBUTIONS RECEIVED cell carries a hand-drawn slashed zero (= 0 per the zero-glyph ruling) and the SUBTOTAL cell was left blank. Matches Summary Page line 1 Column A (0). A real zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "Schedule B is the printed form with every data row empty; the TOTAL EXPENDITURES MADE cell carries a hand-drawn slashed zero and the SUBTOTAL cell was left blank. Matches Summary Page line 2 Column A (0). A real zero."
+    }
+   },
+   "page_subtotal_gates": "no SUBTOTAL figure is printed on either page (both SUBTOTAL cells blank); the schedule TOTAL cells each carry a slashed zero and the pages carry zero rows, so 0 = 0 on both",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BLANK SCHEDULES, both sides. Both header boxes (Page / Last Name / Date of Report) were left entirely blank. The only mark on either page is the slashed zero in the schedule TOTAL cell. Consistent with the Summary Page, where lines 1 and 2 are also slashed zeros."
+  }
  }
 }

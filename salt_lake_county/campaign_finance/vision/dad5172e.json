@@ -1,6 +1,63 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2012-01-31",
+   "donor_raw": "Skyline Venture Assoc. Inc",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.30,24.00,87.00,4.00@p3",
+   "note": "mailing-address block is REDACTED (solid black bar) - no city/state recoverable. Occupation 'Development/construction'. Cents superscript"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-01-31",
+   "vendor_raw": "David Wilde (Lincoln Day Dinner)",
+   "purpose": "sponsorship at dinner",
+   "amount": "375.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.00,27.00,80.00,4.00@p4",
+   "note": "recipient wraps two lines; re-read in a 600dpi crop. Cents superscript"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-01-31",
+   "vendor_raw": "SLCo. Republican Party",
+   "purpose": "Donation",
+   "amount": "225.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.00,31.00,80.00,4.00@p4",
+   "note": "600dpi crop: the leading capital is drawn closed and reads almost '8L'; the same filer writes an open 'SLCo' on the row below, so 'SLCo.' taken. Cents superscript"
+  },
+  {
+   "line_no": 3,
+   "date": "2013-01-24",
+   "vendor_raw": "SLCo. GOP (Lincoln Day Dinner)",
+   "purpose": "sponsorship at dinner",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.00,35.00,80.00,4.50@p4",
+   "note": "date is 2013 on a 2012 year-end report - kept verbatim, not corrected. Recipient wraps two lines. Cents superscript"
+  }
+ ],
  "total_contributions": "$750.00",
  "total_expenditures": "$1,000.00",
  "beginning_balance": "$17,378.34",
@@ -49,6 +106,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the file name says 'Final' and the clerk listing calls it the '2012 Summary Report', but the FORM checks only the YEAR-END REPORT box - the Final/Dissolution box is NOT checked. Recorded as the form shows. Cents on lines 1, 2, 4 and 6 are raised superscripts. Neither amendment box is checked. Clerk RECEIVED stamp JAN 29 2013, signed 1-25-13. Line 7 ($17,128.34) matches line 3 of the 2013 year-end report; arithmetic consistent."
+  "notes": "LABEL DISAGREEMENT: the file name says 'Final' and the clerk listing calls it the '2012 Summary Report', but the FORM checks only the YEAR-END REPORT box - the Final/Dissolution box is NOT checked. Recorded as the form shows. Cents on lines 1, 2, 4 and 6 are raised superscripts. Neither amendment box is checked. Clerk RECEIVED stamp JAN 29 2013, signed 1-25-13. Line 7 ($17,128.34) matches line 3 of the 2013 year-end report; arithmetic consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$750.00",
+     "itemized": "750.00",
+     "result": "exact",
+     "detail": "exact (750.00 = 750.00); p3 prints SUBTOTAL $750.00. The page's 'TOTAL CONTRIBUTIONS RECEIVED' cell prints $29,653.50 - a cumulative career/cycle running total, not this period's, and not used"
+    },
+    "expenditures": {
+     "stated": "$1,000.00",
+     "itemized": "1000.00",
+     "result": "exact",
+     "detail": "exact (1,000.00 = 1,000.00); p4 prints SUBTOTAL $1,000.00. The page's 'TOTAL EXPENDITURES MADE' cell prints $12,525.16 - again a cumulative running total, not used"
+    }
+   },
+   "page_subtotal_gates": "p3 single row 750.00 = printed subtotal $750.00 (PASS); p4 rows sum 1,000.00 = printed subtotal $1,000.00 (PASS)",
+   "escalations": 1,
+   "escalation_note": "p4 recipient column 600dpi cell crop x1 to adjudicate the 'SLCo./8LCo.' leading glyph on row 2",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Older 04pccfindisc.doc template but with an Occupation/Employer column. The Schedule A mailing-address block is COUNTY-REDACTED (a solid black bar), so donor_city/donor_state are blank and the row note says 'redacted' - different from the filer leaving it empty. Cents are raised superscripts. The page-level 'TOTAL' cells hold cumulative figures that disagree with the Summary Page's Column A; recorded, never reconciled. Schedule B row 3 is dated 1-24-13, OUTSIDE the 2012 year-end period the form checks - kept verbatim per the well-formed-typo rule. Field-shift screen: p3 1/1/1/1, p4 3 dates / 3 recipients / 3 purposes / 3 amounts - PASS."
+  }
  }
 }

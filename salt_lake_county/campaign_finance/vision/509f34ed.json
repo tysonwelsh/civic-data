@@ -47,6 +47,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "DUPLICATE PAIR: this document is page-for-page identical in content to key 20bbcbc2 (Horiuchi_R_12_Final_Amended_CouncilA_Redacted.pdf) - same cover, same signature date 1/31/13, same Summary Page figures - although the two PDFs have different md5s. Only the Year-End box is checked; neither amendment box is checked (so is_amendment is blank). Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of (11,487.42) - kept verbatim. Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B (Aggregate Total) is blank on lines 1 and 2. Top-row 'Office' reads 'County Council'; the 'Office Sought' box reads 'Council At-Large Seat A'."
+  "notes": "DUPLICATE PAIR: this document is page-for-page identical in content to key 20bbcbc2 (Horiuchi_R_12_Final_Amended_CouncilA_Redacted.pdf) - same cover, same signature date 1/31/13, same Summary Page figures - although the two PDFs have different md5s. Only the Year-End box is checked; neither amendment box is checked (so is_amendment is blank). Lines 3, 5 and 7 carry ACCOUNTING PARENTHESES - a negative balance of (11,487.42) - kept verbatim. Lines 1, 2, 4 and 6 are hand-drawn slashed zeros; Column B (Aggregate Total) is blank on lines 1 and 2. Top-row 'Office' reads 'County Council'; the 'Office Sought' box reads 'Council At-Large Seat A'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (page 3) carries NO itemized line: the filer wrote 'n/a' in the first Name of Contributor cell and a slashed zero in its amount cell, and both the SUBTOTAL and TOTAL lines are slashed zeros. A real reported zero."
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule B (page 4) likewise carries only 'n/A' in the first Name of Recipient cell with an empty amount, and both the SUBTOTAL and TOTAL lines are slashed zeros. A real reported zero."
+    }
+   },
+   "page_subtotal_gates": "p3: zero itemized rows; printed SUBTOTAL FOR THIS PAGE = slashed zero and TOTAL CONTRIBUTIONS RECEIVED = slashed zero - GATE PASSED at 0. p4: identical, both lines slashed zeros - GATE PASSED at 0.",
+   "escalations": 0,
+   "escalation_note": "none - both schedules are nil-marked and there is no figure to adjudicate",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "NO ITEMIZED LINES ON EITHER SCHEDULE. The filer wrote the literal string 'n/a' (Schedule A) / 'n/A' (Schedule B) in the first NAME cell of each table. Per the ZERO-GLYPH RULING, 'n/a' is NOT a numeral and is NOT a donor - it is transcribed as zero rows, and the slashed-zero glyphs that DO appear (Schedule A's first amount cell, both SUBTOTAL lines, both TOTAL lines, and Summary Page Column A lines 1, 2, 4 and 6) denote 0. LISTING LABEL DISAGREES WITH THE FORM: the filename and the manifest call this a Final/Dissolution report, but the form checks the YEAR-END REPORT 'January 31 of each year' box and leaves Final/Dissolution UNCHECKED (the amendment question is unanswered entirely). The form wins. Summary Page lines 3, 5 and 7 all read '(11,487.42)' in ACCOUNTING PARENTHESES - a NEGATIVE balance of $11,487.42 carried into, through and out of the period, retained verbatim and not reconciled. Column B (Aggregate Total) is left blank on both money lines. ADDRESS REDACTION: the cover's address block and phone/fax/email blocks carry solid black county bars; no donor address question arises since there are no donors. Cover: Randy Horiuchi, County Council, Democrat, Office Sought 'Council At-Large Seat A'; signed 1/31/13."
+  }
  }
 }

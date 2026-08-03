@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2010-03-19",
+   "donor_raw": "LOAN BY GORDON GURR",
+   "amount": "171.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.02,28.49,83.40,4.00@p3",
+   "note": "name cell reads 'LOAN BY / GORDON GURR' with the leading word LOAN struck through; date written out as 'March 19, 2010'; address cell redacted (erased by the county, only stroke fragments survive at 600 dpi) so no city/state; a candidate self-loan"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "171.36",
  "total_expenditures": "171.36",
@@ -46,6 +60,49 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The Office Sought and District Number cells are BLANK; office_sought is taken from the top-row Office cell ('County Council Dist 1') per contract. The Report Verification Date line is blank (no signature date printed) and the Summary Page header box (page/name/date) is blank too, so report_date is empty; the clerk stamp reads APR 23 2010. Column B is blank on Lines 1 and 2 and Line 5 (Subtotal) is left blank \u2014 recorded as empty strings, not zeros. Line 3 is a hand-drawn open oval (zero); Line 7 is written '\u00d8\u00d8 \u2013' (two zeros and a dash) and is recorded as 0. The clerk listing calls this 'April/Dissolution' but only the April 5 interim box is checked \u2014 no Final/Dissolution box."
+  "notes": "The Office Sought and District Number cells are BLANK; office_sought is taken from the top-row Office cell ('County Council Dist 1') per contract. The Report Verification Date line is blank (no signature date printed) and the Summary Page header box (page/name/date) is blank too, so report_date is empty; the clerk stamp reads APR 23 2010. Column B is blank on Lines 1 and 2 and Line 5 (Subtotal) is left blank \u2014 recorded as empty strings, not zeros. Line 3 is a hand-drawn open oval (zero); Line 7 is written '\u00d8\u00d8 \u2013' (two zeros and a dash) and is recorded as 0. The clerk listing calls this 'April/Dissolution' but only the April 5 interim box is checked \u2014 no Final/Dissolution box.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "171.36",
+     "itemized": "171.36",
+     "result": "exact",
+     "detail": "exact (1 row 171.36 = stated 171.36 = the page's own handwritten TOTAL CONTRIBUTIONS RECEIVED 171.36)"
+    },
+    "expenditures": {
+     "stated": "171.36",
+     "itemized": "0.00",
+     "result": "delta",
+     "detail": "delta 171.36 - Schedule B (p4) is COMPLETELY blank: no lines, no SUBTOTAL, no TOTAL, while the Summary Page line 2 Column A states 171.36 (and repeats it on line 6). The filer stated a spend and never itemized it. Nothing was invented to close this; the empty schedule is transcribed as zero rows and the stated figure is retained verbatim."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule A): SUBTOTAL FOR THIS PAGE is left blank; the handwritten TOTAL CONTRIBUTIONS RECEIVED 171.36 equals the single transcribed row, so the schedule-total gate fires. p4 (Schedule B): NO gate exists - both the SUBTOTAL and the TOTAL cells are empty, so there is nothing on that page to gate against. This is the one gate in this filing that would not fire, and the reason is that the page is blank.",
+   "escalations": 1,
+   "escalation_note": "p3 mailing-address cell cropped at 600 dpi: the handwriting there has been erased by the county redaction, leaving only clipped stroke fragments - no city or state is recoverable",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten April-5 interim. Schedule A carries exactly ONE line: 'March 19, 2010 / LOAN BY GORDON GURR / 171.36' - a candidate self-loan. The word LOAN at the head of that name cell is struck through, and the word 'Loan' also appears ALONE in the empty grid row directly above it with no date and no amount; that stray word is NOT transcribed as a row because it is not a line item. The mailing-address cell was redacted by the county (the ink is erased, leaving broken stroke tops at 600 dpi), so donor_city/donor_state are blank. Schedule B is entirely blank while the Summary Page states 171.36 spent - the filer's own inconsistency, recorded as a delta and not reconciled. Summary Page line 5 (Subtotal) is also left blank and line 7 is written '00 -', so the balance chain does not close either; retained verbatim, nothing recomputed."
+  }
  }
 }

@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-01-16",
+   "vendor_raw": "DAVID WILDE",
+   "purpose": "LOAN REPAY",
+   "amount": "13.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.71,28.91,76.94,3.59@p4",
+   "note": "date printed '1-16-2014'; recipient is the candidate himself (loan repayment), all in block capitals"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "13.91",
  "beginning_balance": "13.91",
@@ -49,6 +64,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Only the FINAL / DISSOLUTION box is checked \u2014 the Year-End box is NOT, although the clerk listing calls this the '2013 Summary Report/Dissolution'; the form is dated 1/16/2014 and was received JAN 29 2014. Lines 1 (both columns), 4 and 7 are written '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'COUNTY COUNCIL #3'; the Office Sought field is abbreviated 'C.C.' with District Number '#3'."
+  "notes": "Handwritten. Only the FINAL / DISSOLUTION box is checked \u2014 the Year-End box is NOT, although the clerk listing calls this the '2013 Summary Report/Dissolution'; the form is dated 1/16/2014 and was received JAN 29 2014. Lines 1 (both columns), 4 and 7 are written '-0-' (dash zero dash) \u2014 recorded as \"0\". Top-row Office reads 'COUNTY COUNCIL #3'; the Office Sought field is abbreviated 'C.C.' with District Number '#3'.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3 (blank schedule)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - Schedule A (page 3) is printed with every line EMPTY and its SUBTOTAL/TOTAL cells empty; Summary line 1 Column A reads '-0-' (a zero GLYPH, ruled = 0). A real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "13.91",
+     "itemized": "13.91",
+     "result": "exact",
+     "detail": "exact (single row 13.91 = printed TOTAL EXPENDITUTRES MADE 13.91 = Summary line 2 Col A 13.91)"
+    }
+   },
+   "page_subtotal_gates": "p3 Schedule A: no rows and no printed subtotal - nothing to gate, honest zero. p4 Schedule B: the 'SUBTOTAL FOR THIS PAGE' cell was left EMPTY by the filer, so the gate is the page's own TOTAL line - row 13.91 = printed TOTAL 13.91 (FIRED, exact)",
+   "escalations": 0,
+   "escalation_note": "no cell escalation needed - the single handwritten row reads unambiguously at 200 dpi and the figure 13.91 is printed five times across the filing (row, Schedule B total, Summary lines 2, 3, 5 and 6), all agreeing",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FINAL / DISSOLUTION REPORT (that box is checked; the January-31 year-end box is NOT), consistent with the clerk listing label. A near-empty dissolution filing: no contributions at all, and one expenditure - the candidate repaying himself a 13.91 loan balance to bring the account to zero. Summary Page arithmetic closes exactly: line 3 13.91 + line 4 -0- = line 5 13.91; 13.91 - 13.91 = line 7 '-0-'. Both zero cells are written as the glyph '-0-' and are recorded as zeros per the repo zero-glyph ruling. Schedule A page 3 exists and is blank - a real zero, NOT a missing page. No mailing addresses appear anywhere in the itemization (Schedule A has no rows; Schedule B has no address column), so no privacy handling was required beyond the cover page, whose address block is county-redacted."
+  }
  }
 }

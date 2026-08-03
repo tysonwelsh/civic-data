@@ -1,6 +1,181 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-09-27",
+   "donor_raw": "UTAH REPUB PARTY",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,22.95,84.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; amount written with NO cents ('500') - kept verbatim"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-10-01",
+   "donor_raw": "SHARON ALLEN",
+   "amount": "350",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,26.70,84.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; amount written with NO cents - kept verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-10-05",
+   "donor_raw": "SCOTT McDONALD",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,30.95,84.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; amount written with NO cents - kept verbatim"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-20",
+   "donor_raw": "JAMES SCHULTE",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:5.00,35.20,84.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; amount written with NO cents - kept verbatim"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-30",
+   "donor_raw": "ADAM OSTHED",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.00,39.20,84.00,3.60@p3",
+   "note": "the 'Complete Mailing Address' column is EMPTY on every row - the filer left it blank (NOT a redaction), so no city/state exists on this document; SURNAME UNCERTAIN: escalated to a 600 dpi tight cell crop and the legible glyph string is 'OSTHED' in block capitals, but the 4th/5th letters are merged and 'OSTMED'/'OSTHER' cannot be excluded. The glyph string is recorded as-read; NO plausible real surname was substituted. Amount written with NO cents ('1,000')"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-09-11",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "306,37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:8.00,26.10,81.00,3.60@p4",
+   "note": "DECIMAL COMMA: escalated to a 1200 dpi tight cell crop - the separator is unambiguously a COMMA with a descender, not a period, while the rows below use periods. Transcribed VERBATIM as printed per the currency convention; the page subtotal independently confirms the value is 306.37"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-09-18",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "125.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,29.95,81.00,3.60@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-25",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "112.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,33.80,81.00,3.60@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-10-10",
+   "vendor_raw": "AUTHENTIC CONCEPTS",
+   "purpose": "SHIRTS",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,37.85,81.00,3.60@p4",
+   "note": "cents written as a raised superscript over a rule ('50' with a superscript '00'); transcribed with a decimal point per the currency convention"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-10-10",
+   "vendor_raw": "SMITHS",
+   "purpose": "REFRESHMENTS FOR MEET & GREET",
+   "amount": "36.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,41.95,81.00,3.60@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-10-11",
+   "vendor_raw": "POSTNET",
+   "purpose": "FLYERS",
+   "amount": "21.11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,45.85,81.00,3.60@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-10-19",
+   "vendor_raw": "UTAH REPUB PARTY",
+   "purpose": "ELECTION NIGHT PARTY",
+   "amount": "714.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,49.95,81.00,3.60@p4",
+   "note": "cents written as a raised superscript ('714' with a superscript '00'); transcribed with a decimal point"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-10-26",
+   "vendor_raw": "UTAH REPUB PARTY",
+   "purpose": "DONATION",
+   "amount": "6,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.00,53.85,81.00,3.60@p4",
+   "note": "amount written with NO cents ('6,500') - kept verbatim"
+  }
+ ],
  "total_contributions": "2,050",
  "total_expenditures": "7,865.07",
  "beginning_balance": "17,667.68",
@@ -49,6 +224,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Line 3 (17,667.68) and Line 5 (19,717.68) differ only in the second digit; re-rendered at 300 dpi the Line 3 digit is a 7 and the Line 5 digit is a 9, and the arithmetic confirms it (17,667.68 + 2,050 = 19,717.68 - 7,865.07 = 11,852.61). Line 6 is written in ACCOUNTING PARENTHESES, '(7,865.07)', although the form's own instruction is to subtract it \u2014 the Line 2 figure is recorded unparenthesized as printed on Line 2. Lines 1A/1B carry no cents ('2,050' / '31,995'). Signature date 10-30-06 while the Summary Page 'Date of Report' box reads 10-31-06. Neither the amendment Yes nor No box is checked."
+  "notes": "Handwritten. Line 3 (17,667.68) and Line 5 (19,717.68) differ only in the second digit; re-rendered at 300 dpi the Line 3 digit is a 7 and the Line 5 digit is a 9, and the arithmetic confirms it (17,667.68 + 2,050 = 19,717.68 - 7,865.07 = 11,852.61). Line 6 is written in ACCOUNTING PARENTHESES, '(7,865.07)', although the form's own instruction is to subtract it \u2014 the Line 2 figure is recorded unparenthesized as printed on Line 2. Lines 1A/1B carry no cents ('2,050' / '31,995'). Signature date 10-30-06 while the Summary Page 'Date of Report' box reads 10-31-06. Neither the amendment Yes nor No box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2,050",
+     "itemized": "2,050",
+     "result": "exact",
+     "detail": "exact (2,050 = 2,050); 5 rows sum to the handwritten SUBTOTAL FOR THIS PAGE 2,050 and TOTAL CONTRIBUTIONS RECEIVED 2,050, which equal Summary Page line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "7,865.07",
+     "itemized": "7,865.07",
+     "result": "exact",
+     "detail": "exact (7,865.07 = 7,865.07); 8 rows sum to the handwritten SUBTOTAL 7,865.07 and TOTAL 7,865.07. Reading the first amount as 306.37 is what makes it close"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2,050 = printed SUBTOTAL FOR THIS PAGE 2,050 (= printed TOTAL, page marked '2 of 3'); p4 rows 7,865.07 = printed SUBTOTAL 7,865.07 (= printed TOTAL, page '3 of 3'). Both fire. The p4 gate is load-bearing: it is what fixes the disputed first amount at 306.37 and the superscript-cents rows at 50.00 and 714.00.",
+   "escalations": 2,
+   "escalation_note": "600 dpi tight crop of the p3 row-5 NAME cell (surname still not fully resolved - left as the glyph string at low confidence); 1200 dpi tight crop of the p4 row-1 AMOUNT cell (settled that the separator is a comma, not a period).",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page handwritten filing (Jeff S. Allen, County Council, report 10-31-06). p1 cover, p2 Summary Page, p3 Schedule A ('Page 2 of 3'), p4 Schedule B ('Page 3 of 3'). All-capitals ballpoint hand. Both sides gate exactly. The 'Complete Mailing Address' column is blank on every row - a FILER omission, not a redaction, so there is no donor city/state and none was invented. Several amounts are written without cents ('500', '350', '100', '1,000', '6,500') and two use raised superscript cents over a rule ('50' + superscript 00; '714' + superscript 00) - all kept verbatim/converted per the currency convention and named in the row notes. ONE genuine decimal COMMA survives escalation to 1200 dpi ('306,37' on the first expenditure) and is transcribed verbatim for the shared downstream repair. ONE surname stays uncertain ('ADAM OSTHED', p3 row 5) - recorded as the legible glyph string at low confidence with needs_review=1, never completed to a plausible real name."
+  }
  }
 }

@@ -1,5 +1,34 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "C. Cutler",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.48,24.81,86.57,3.87@p3",
+   "geometry_px": "p3:x110,y545,w1470,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "date cell prints '3/9' with NO YEAR - left BLANK; occupation 'optometrist'; address REDACTED"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Kent Briggs",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.48,28.68,86.57,3.87@p3",
+   "geometry_px": "p3:x110,y630,w1470,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "date cell prints '3/17' with NO YEAR - left BLANK; occupation 'retired'; address REDACTED"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "3,000",
  "total_expenditures": "0",
@@ -49,6 +78,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The ORIGINAL April 2012 filing (signed 4-4-12); neither amendment box is checked. Line 2 Columns A and B and Line 6 are hand-drawn slashed zeros - recorded as 0. Line 4 is written '3,000.' with a raised dash for zero cents; Line 1 carries no cents. Superseded the next day by the amendment, key e2a072a4."
+  "notes": "The ORIGINAL April 2012 filing (signed 4-4-12); neither amendment box is checked. Line 2 Columns A and B and Line 6 are hand-drawn slashed zeros - recorded as 0. Line 4 is written '3,000.' with a raised dash for zero cents; Line 1 carries no cents. Superseded the next day by the amendment, key e2a072a4.",
+  "itemized": {
+   "wave": "opus pilot 2026-08-02 (calibration-suite pilot-opus/), PROMOTED into wave B2",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3000.00",
+     "itemized": "3000.00",
+     "result": "exact",
+     "detail": "exact (3000.00 = 3000.00)"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "detail": "exact (0.00 = 0.00, zero rows)"
+    }
+   },
+   "page_subtotal_gates": "",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 2,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": "PILOT ESTIMATE (opus pilot bboxes, converted): render-back spot-checks 2026-08-02 found portrait boxes row-exact (3/3 sampled) and one rotated page (08_jwinder_jan31 p3) off by 8 row-pitches; treat pilot rows' geometry as a page/section pointer, not a row-exact box. Wave-B2 bulk rows carry transcriber-verified pct boxes."
+   },
+   "notes": "pilot 2026-08-02, promoted; This is the ORIGINAL of filing 6 (which is its amendment): same two donors, same amounts, but written in a DIFFERENT hand (cursive here, block caps on the amendment). Schedule B is struck through with a single diagonal pen line and carries ZERO rows; its total cell and Summary lines 2/6 carry a slashed-zero glyph, which under the ZERO-GLYPH RULING is 0.00 (pilot_set records 0.00)."
+  }
  }
 }

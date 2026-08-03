@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-11-19",
+   "vendor_raw": "Sam Granato",
+   "purpose": "LOAN Repayment",
+   "amount": "$5,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.60,23.60,86.50,3.60@p4",
+   "note": "date written '11.19.12' with dot separators; amount written '$5,000' with NO cents; the recipient is the CANDIDATE HIMSELF and the purpose is a loan repayment. needs_review=1 because no printed subtotal or stated total anywhere in the filing corroborates this figure (see page_subtotal_gates)"
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "",
  "beginning_balance": "5,943.29",
@@ -47,6 +62,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "WORTH HUMAN ATTENTION - two things. (1) This is the 2013-vintage form whose INTERIM REPORTS section lists no dated options at all, and no Type-of-Report box is checked (report_type left empty); the only mark is 'amendment? Yes', dated 1.30.13, i.e. it amends the 1-30-13 year-end (key 05a9bb37), while itself being signed 7/5/2013 (RECEIVED JUL 08 2013). (2) ARITHMETIC DOES NOT CLOSE: line 5 = 5,943.29 and line 6 = 5,000.08 give 943.21, but line 7 prints 943.29 - an 8-cent discrepancy. Verified at 320 dpi; both figures kept verbatim, nothing recomputed. Lines 1 and 2 are BLANK in both columns and line 4 is blank (empty strings, not zeros). Line 3 equals the ending balance of the report it amends."
+  "notes": "WORTH HUMAN ATTENTION - two things. (1) This is the 2013-vintage form whose INTERIM REPORTS section lists no dated options at all, and no Type-of-Report box is checked (report_type left empty); the only mark is 'amendment? Yes', dated 1.30.13, i.e. it amends the 1-30-13 year-end (key 05a9bb37), while itself being signed 7/5/2013 (RECEIVED JUL 08 2013). (2) ARITHMETIC DOES NOT CLOSE: line 5 = 5,943.29 and line 6 = 5,000.08 give 943.21, but line 7 prints 943.29 - an 8-cent discrepancy. Verified at 320 dpi; both figures kept verbatim, nothing recomputed. Lines 1 and 2 are BLANK in both columns and line 4 is blank (empty strings, not zeros). Line 3 equals the ending balance of the report it amends.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "3 (blank) + 6 (Other Campaign Accounts variant, blank)",
+   "itemized_pages_B": "4 + 7 (Other Campaign Accounts variant, blank)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "detail": "the filer left Summary Page line 1 Column A BLANK (verified at 200 dpi - the cell is empty, not a zero glyph), so there is no stated figure to reconcile against. The 'Itemized Contributions Received' page (p3) is a wholly empty grid with an empty SUBTOTAL cell, and the 'Itemized Contributions from Other Campaign Accounts' page (p6) is empty too. Itemized side is a real zero; the stated side is honestly unknown"
+    },
+    "expenditures": {
+     "stated": "",
+     "itemized": "5,000",
+     "result": "unknown",
+     "detail": "the filer left Summary Page line 2 Column A BLANK, so there is no stated figure to reconcile against. One itemized row exists ($5,000) and p4's SUBTOTAL / TOTAL cells are both EMPTY, so no printed figure on the schedule either. The only corroboration on the page is the Balance Summary: line 3/5 = 5,943.29, line 6 = '5,000.08' as written, line 7 = 943.29 - and 5,943.29 minus 5,000.00 = 943.29, so the filer's own balance arithmetic implies 5,000.00 while his line 6 is written with '.08'. Nothing was computed or corrected here"
+    }
+   },
+   "page_subtotal_gates": "NO PAGE IN THIS FILING GATES. p3, p4, p6 and p7 all print SUBTOTAL FOR THIS PAGE and TOTAL rows and the filer left every one of those cells EMPTY (verified at 200 dpi on p4, the only page carrying a row). The single expenditure row is therefore unconfirmed by any printed subtotal - it is recorded at the value written in its own Amount cell and nothing more.",
+   "escalations": 3,
+   "escalation_note": "p4 row-1 date/recipient and purpose/amount at 200 dpi PIL crops enlarged 1.5x; p4 subtotal/total band enlarged to confirm both cells are empty; p2 Summary Page lines 1-2 and 4-7 enlarged to confirm lines 1/2/4 Column A are blank rather than zero-glyphed.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Sam Granato, County Council District 4 (Democrat). LABEL vs FORM: the index/listing calls this a '12 YearEnd Amendment'; the form checks NO 'Type of Report' box at all and ticks only 'Yes, this is an amendment' with amendment-of date 1-30-13. It is signed 7/5/2013 and clerk-stamped JUL 08 2013. Transcribed from the form. THIS IS THE EIGHT-PAGE 2013 FORM VARIANT: p1 cover, p2 Summary Page, p3 Itemized Contributions Received, p4 Itemized Expenditures Made, p5 'Summary Page - Other Campaign Accounts', p6 Itemized Contributions from Other Campaign Accounts, p7 Itemized Expenditures from Other Campaign Accounts, p8 a wholly blank scan page. Pages 3, 5, 6 and 7 are entirely empty (no rows, no subtotals) - honest blanks. The whole filing carries exactly ONE itemized line: a $5,000 loan repayment to the candidate himself. The cover's street-address block is county-redacted; the candidate's email address is printed unredacted on the form and was NOT transcribed (out of scope for the row schema). The single expenditure row's date '11.19.12' predates the amendment by months - the filer's own period, kept verbatim."
+  }
  }
 }

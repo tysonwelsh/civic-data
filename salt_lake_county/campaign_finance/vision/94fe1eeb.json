@@ -1,6 +1,226 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-06-19",
+   "donor_raw": "SPRING VIEW CAPITAL, LLC",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,24.10,83.10,3.86@p3",
+   "note": "Occupation/Employer: DEVELOPER; $500.00 written with a dollar sign; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-06-14",
+   "donor_raw": "GAIL HICKMAN",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,27.96,83.10,3.86@p3",
+   "note": "Occupation/Employer: ACTOR; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-07",
+   "donor_raw": "JIM BRADLEY CAMPAIGN",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,31.82,83.10,3.86@p3",
+   "note": "Occupation/Employer: CAMPAIGN; amount written with a trailing dash and no cents ('100-') - per contract a trailing dash after whole dollars means .00; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-02",
+   "donor_raw": "REX BLACK",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,35.68,83.10,3.86@p3",
+   "note": "Occupation/Employer: RETIRED SENATOR; amount written with a trailing dash and no cents ('35-') - per contract a trailing dash after whole dollars means .00; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-06-11",
+   "donor_raw": "DOUGLAS WORTHAM",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,39.54,83.10,3.86@p3",
+   "note": "the Occupation/Employer cell holds a single diagonal slash mark, not text - recorded as no occupation given; amount written with a trailing dash and no cents ('5-') - per contract a trailing dash after whole dollars means .00; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-06-10",
+   "donor_raw": "DMITRICH CAMPAIGN FUND",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,43.40,83.10,3.86@p3",
+   "note": "Occupation/Employer: CAMPAIGN; amount written with a trailing dash and no cents ('1000-') - per contract a trailing dash after whole dollars means .00; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-04-07",
+   "donor_raw": "CROWE-SOWES ENTERPRISE, INC.",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,47.26,83.10,3.86@p3",
+   "note": "Occupation/Employer: CONSULTING FIRM; amount written with a trailing dash and no cents ('250-') - per contract a trailing dash after whole dollars means .00; this row's address text extends past the edge of the redaction box and is legible; only the CITY as printed ('SLC') and the state are recorded, never the street"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-05-05",
+   "donor_raw": "COMMITTEE TO ELECT GENE DAVIS",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.50,51.12,83.10,3.86@p3",
+   "note": "Occupation/Employer: CAMPAIGN; amount written with a trailing dash and no cents ('1000-') - per contract a trailing dash after whole dollars means .00; Complete Mailing Address is covered by a WHITE REDACTION BOX on the Schedule A table - redacted, no geography recorded from that block"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-04-06",
+   "vendor_raw": "EWING FOR HOUSE",
+   "purpose": "CAMPAIGN",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,26.80,76.80,3.89@p4",
+   "note": "amount written with a trailing dash and no cents ('50-') - per contract a trailing dash after whole dollars means .00; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-04-15",
+   "vendor_raw": "US POSTAL SERVICE",
+   "purpose": "STAMPS",
+   "amount": "204.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,30.69,76.80,3.89@p4",
+   "note": "the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-04-18",
+   "vendor_raw": "PRESTO PRINT",
+   "purpose": "PRINTING",
+   "amount": "63.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,34.58,76.80,3.89@p4",
+   "note": "the leading digit is written over an earlier character; fixed as 63.96 by the page subtotal, which gates exactly; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-04-18",
+   "vendor_raw": "SALT LAKE COUNTY DEMO PARTY",
+   "purpose": "CAMPAIGN",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,38.47,76.80,3.89@p4",
+   "note": "the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-04-18",
+   "vendor_raw": "UTAH DEMO PARTY",
+   "purpose": "CAMPAIGN",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,42.36,76.80,3.89@p4",
+   "note": "purpose written 'OAMPAIGN' (the filer's C reads as an O); recorded as CAMPAIGN at medium confidence; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-05-17",
+   "vendor_raw": "RENAISSANCE SIGNS, INC.",
+   "purpose": "LAWN SIGNS",
+   "amount": "860.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,46.25,76.80,3.89@p4",
+   "note": "the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-05-09",
+   "vendor_raw": "ANCHOR PRINTING",
+   "purpose": "LETTERHEAD",
+   "amount": "258.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,50.14,76.80,3.89@p4",
+   "note": "purpose written 'LETTERHEAN' - the filer's D reads as an N; recorded as LETTERHEAD at medium confidence; the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-06-09",
+   "vendor_raw": "WELLS FARGO",
+   "purpose": "BANK CHARGES",
+   "amount": "9.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.00,54.03,76.80,3.89@p4",
+   "note": "the year is written as a SINGLE digit ('/6') rather than '/06'; the same page uses '/06' on other rows and the report itself is dated 6/20/6, so the glyph is a printed year, not an inferred one"
+  }
+ ],
  "total_contributions": "2990.00",
  "total_expenditures": "1746.52",
  "beginning_balance": "4,542.25",
@@ -49,6 +269,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "'COUNCIL #1' written across the Office Sought / District Number boxes; reported as office_sought. Signature date written '6/19/6' (verbatim). Summary Page header: Page 2 of 4, HATCH, 6/20/6. Line 3 (4,542.25) matches Line 7 of Hatch's April-5 amendment (key b66d9548); arithmetic consistent."
+  "notes": "'COUNCIL #1' written across the Office Sought / District Number boxes; reported as office_sought. Signature date written '6/19/6' (verbatim). Summary Page header: Page 2 of 4, HATCH, 6/20/6. Line 3 (4,542.25) matches Line 7 of Hatch's April-5 amendment (key b66d9548); arithmetic consistent.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-02 wave B2)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2990.00",
+     "itemized": "2990.00",
+     "result": "exact",
+     "detail": "exact (500.00 + 100.00 + 100.00 + 35.00 + 5.00 + 1000.00 + 250.00 + 1000.00 = 2,990.00 = stated 2990.00)"
+    },
+    "expenditures": {
+     "stated": "1746.52",
+     "itemized": "1746.52",
+     "result": "exact",
+     "detail": "exact (1,746.52 = 1,746.52)"
+    }
+   },
+   "page_subtotal_gates": "p3's SUBTOTAL and TOTAL cells are PHYSICALLY OBSCURED - a yellow-highlighted photocopy strip was laid over the bottom of the page on the scanner bed and covers the whole subtotal block, so p3 CANNOT BE GATED at page level; its eight rows nevertheless sum to the stated total 2,990.00 exactly. p4 rows 1,746.52 = printed SUBTOTAL 1746.52 = printed TOTAL EXPENDITURES MADE 1746.52 - gate fires exactly.",
+   "escalations": 1,
+   "escalation_note": "p3 amount column rows 1-8 at 700 dpi (to settle the trailing-dash cents convention and the 35/5 values)",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "REDACTION FAILURE WORTH A HUMAN LOOK: the Complete Mailing Address column of the Schedule A table (PDF p3) is covered by a white redaction box, BUT the bottom fifth of the same scanned page carries a YELLOW-HIGHLIGHTED PHOTOCOPY STRIP of the SAME table in UNREDACTED form, with full street addresses legible for all eight donors. Per the privacy contract nothing from that strip is written here: every redacted row's donor_city/donor_state is BLANK and says 'redacted'. The one exception is CROWE-SOWES ENTERPRISE, whose address text on the MAIN table extends past the edge of the redaction box; for that row the printed city abbreviation ('SLC') and state are recorded and the street is discarded. The same overlaid strip is what obscures p3's SUBTOTAL/TOTAL cells. DATE CONVENTION: this filer writes the year as a single digit on most rows ('6/19/6' = 19 June 2006) and as two digits on two rows ('4/7/06'); the report itself is dated '6/20/6'. A year glyph is present in every cell, so the dates are parsed and the convention is noted, but their cell confidence is capped at medium. Amounts on Schedule A mix a fully written '$500.00'/'100.00' with the trailing-dash form ('100-', '35-', '5-', '1000-', '250-'), all resolved to whole dollars per contract. Two purpose cells reflect this filer's letterforms rather than misspellings ('OAMPAIGN' for CAMPAIGN, 'LETTERHEAN' for LETTERHEAD) and are recorded as the intended words at medium confidence, with the printed glyphs named in the row note."
+  }
  }
 }

@@ -47,6 +47,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report' for 'Council #4', but the form face checks only the YEAR-END box (not Final/Dissolution) and the 'Office Sought' box is filled in as the single word 'none' - recorded verbatim; the top-row 'Office' reads 'Council'. Neither amendment box is checked. The Date line next to the signature is LEFT BLANK by the filer (empty string, not null); the only date on the document is the clerk's RECEIVED stamp, JAN 25 2013. Column B (Aggregate Total) is blank on lines 1 and 2. Lines 3, 5 and 7 are written with a dollar sign ('$111.08'); lines 1, 2, 4 and 6 are plain hand-drawn zeros."
+  "notes": "LABEL DISAGREEMENT: the clerk listing calls this the '2012 Summary Report' for 'Council #4', but the form face checks only the YEAR-END box (not Final/Dissolution) and the 'Office Sought' box is filled in as the single word 'none' - recorded verbatim; the top-row 'Office' reads 'Council'. Neither amendment box is checked. The Date line next to the signature is LEFT BLANK by the filer (empty string, not null); the only date on the document is the clerk's RECEIVED stamp, JAN 25 2013. Column B (Aggregate Total) is blank on lines 1 and 2. Lines 3, 5 and 7 are written with a dollar sign ('$111.08'); lines 1, 2, 4 and 6 are plain hand-drawn zeros.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document (2 pages: cover p1 + Summary Page p2); stated line 1 Col A is '0'"
+    },
+    "expenditures": {
+     "stated": "0",
+     "itemized": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; stated line 2 Col A is '0'"
+    }
+   },
+   "page_subtotal_gates": "none printed (no schedule pages)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2-page filing: p1 cover (Jani Iwamoto, Office 'Council', Office Sought 'none', Dem; YEAR-END Jan 31 box checked; RECEIVED JAN 25 2013), p2 Summary Page. NO Schedule A or Schedule B page is present in the document, so both sides are 'none' (honest non-existence), NOT a transcribed zero. Summary Page Col A: line1 '0', line2 '0', line3 '$111.08', line4 '0', line5 '$111.08', line6 '0', line7 '$111.08'; Column B entirely blank. Balance chain closes: 111.08+0=111.08 and 111.08-0=111.08."
+  }
  }
 }

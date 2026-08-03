@@ -1,6 +1,129 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-10-15",
+   "donor_raw": "UTAH DEMOCRAT PARTY",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.65,22.00,83.47,3.95@p3",
+   "note": "written on two lines, 'UTAH DEMOCRAT' / 'PARTY'; the first line runs into the column border so a trailing 'IC' may be CLIPPED (i.e. it may be UTAH DEMOCRATIC PARTY) - not asserted, glyph string kept. Address cell empty; occupation 'POLITICAL ORG'; amount printed '1,000' (no cents)"
+  },
+  {
+   "line_no": 2,
+   "date": "2007-01-29",
+   "donor_raw": "R&R ADVERTISING",
+   "amount": "25000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.65,25.95,83.47,4.00@p3",
+   "note": "written 'R&R ADUERTISING' (this hand forms V as U); address cell empty; occupation 'ADVERTISING'; amount printed '25,000' (no cents); date escalated to 600 dpi and reads /07"
+  },
+  {
+   "line_no": 3,
+   "date": "2007-01-29",
+   "donor_raw": "HORIUCHI & ASSO",
+   "amount": "6580.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.65,29.95,83.47,3.95@p3",
+   "note": "written 'HORIUCHI & ASSO' (abbreviation as printed, may be a clipped ASSOC - not completed); address cell empty; occupation 'CONSULTANTS / SELF-EMPLOYED'; amount printed '6580'"
+  },
+  {
+   "line_no": 4,
+   "date": "2007-01-29",
+   "donor_raw": "LONNIE JOHNSON",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.65,33.91,83.47,4.00@p3",
+   "note": "address cell empty; employer 'SL COUNTY GOV'T'; amount printed '2500'"
+  },
+  {
+   "line_no": 5,
+   "date": "2007-01-29",
+   "donor_raw": "RANDY HORIUCHI",
+   "amount": "320.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.65,37.91,83.47,3.95@p3",
+   "note": "the candidate himself; address cell empty; occupation 'CONSULTANT / SELF-EMPLOYED'; amount printed '320'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-01-29",
+   "vendor_raw": "KEY BANK",
+   "purpose": "LOAN",
+   "amount": "2374.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:10.24,24.68,77.71,3.95@p4",
+   "note": "amount printed '2374' with a leading glyph that could read Z or 2; fixed as 2374 by the page-subtotal identity (36,454 - 25,000 - 6,580 - 2,500), per the arithmetic-outranks-glyph rule. Date escalated to 600 dpi and reads /06"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-01-29",
+   "vendor_raw": "R&R ADVERTISING",
+   "purpose": "ADVERTISING",
+   "amount": "25000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.24,28.64,77.71,4.05@p4",
+   "note": "written 'R&R ADUERTISING' / 'ADUERTISING' (this hand forms V as U); amount printed '25,000'; mirrors Schedule A row 2 but dated /06 there vs /07 here"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-01-29",
+   "vendor_raw": "HORIUCHI & ASSO",
+   "purpose": "LOAN",
+   "amount": "6580.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.24,32.68,77.71,3.95@p4",
+   "note": "amount printed '6,580'; mirrors Schedule A row 3"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-01-29",
+   "vendor_raw": "LONNIE JOHNSON",
+   "purpose": "LOAN",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.24,36.64,77.71,4.00@p4",
+   "note": "amount printed '2,500'; mirrors Schedule A row 4"
+  }
+ ],
  "total_contributions": "35,400",
  "total_expenditures": "36,454",
  "beginning_balance": "1054",
@@ -47,6 +170,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BOTH the Year-End and the Final Report boxes are checked; amendment = No. Clerk-stamped RECEIVED JAN 31 2007; Summary Page header 'HORIUCHI, 1-31-07, page 2 of 4'. No cents anywhere - whole dollars only, kept verbatim. Column B blank on both lines. Line 7 is a hand-drawn slashed zero (a closing balance of zero, consistent with a final report accompanied by the dissolution notice, key d7068972). Arithmetic exact: 1054 + 35,400 = 36,454; less 36,454 = 0. This is the un-amended companion of key 439b7a50, whose figures differ completely (1000 / 1054 / 2054) - the amendment appears to restate the year on a much smaller basis."
+  "notes": "BOTH the Year-End and the Final Report boxes are checked; amendment = No. Clerk-stamped RECEIVED JAN 31 2007; Summary Page header 'HORIUCHI, 1-31-07, page 2 of 4'. No cents anywhere - whole dollars only, kept verbatim. Column B blank on both lines. Line 7 is a hand-drawn slashed zero (a closing balance of zero, consistent with a final report accompanied by the dissolution notice, key d7068972). Arithmetic exact: 1054 + 35,400 = 36,454; less 36,454 = 0. This is the un-amended companion of key 439b7a50, whose figures differ completely (1000 / 1054 / 2054) - the amendment appears to restate the year on a much smaller basis.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "35,400",
+     "itemized": "35400.00",
+     "result": "exact",
+     "detail": "exact (5 rows 1000 + 25000 + 6580 + 2500 + 320 = 35400.00 = printed SUBTOTAL 35,400 = stated 35,400). The TOTAL CONTRIBUTIONS RECEIVED cell on p3 was left blank by the filer; the subtotal is the only printed schedule figure and it gates exactly"
+    },
+    "expenditures": {
+     "stated": "36,454",
+     "itemized": "36454.00",
+     "result": "exact",
+     "detail": "exact (4 rows 2374 + 25000 + 6580 + 2500 = 36454.00 = printed SUBTOTAL 36,454 = stated 36,454). The TOTAL EXPENDITURES MADE cell on p4 was likewise left blank"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 35400.00 = printed subtotal 35,400; p4 rows 36454.00 = printed subtotal 36,454. Both gates fired exactly. Note that on BOTH pages the filer filled in SUBTOTAL FOR THIS PAGE but left the TOTAL row empty - the subtotal is the gating figure, and it is also what the Summary Page carries.",
+   "escalations": 2,
+   "escalation_note": "p3 and p4 DATE columns re-rendered at 600 dpi to settle the year digit (they genuinely differ between the two schedules - see notes); p3 and p4 NAME columns re-rendered at 500 dpi",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page standard form: p1 cover, p2 Summary Page, p3 Schedule A (5 rows), p4 Schedule B (4 rows). COVER: BOTH the YEAR-END 'January 31 of each year' box AND the 'FINAL REPORT' box are checked, and the amendment question is answered No; Randy Horiuchi, Office Sought 'Council At Large A'; signed 1-31-07, clerk-stamped JAN 31 2007. THE YEAR DIGITS DIFFER BETWEEN THE TWO SCHEDULES AND ARE KEPT VERBATIM: Schedule A rows 2-5 are dated 1/29/07 while the four Schedule B rows are all dated 1/29/06 - even though three pairs mirror each other exactly (R&R Advertising 25,000; Horiuchi & Asso 6,580; Lonnie Johnson 2,500 on both sides). Both readings were escalated to a 600 dpi date-column crop and are unambiguous; one of them is a filer typo, but nothing was normalized. THREE OF THE FOUR Schedule B rows have purpose 'LOAN' (Key Bank, Horiuchi & Asso, Lonnie Johnson) and the matching amounts also appear as CONTRIBUTIONS on Schedule A - recorded as printed on each side, with no netting or inference. FILER HANDWRITING: this hand forms V as U ('ADUERTISING' = ADVERTISING, certain from the purpose column); named per row. No mailing address was written for any contributor (address column empty throughout)."
+  }
  }
 }

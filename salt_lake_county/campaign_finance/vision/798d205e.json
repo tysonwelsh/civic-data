@@ -1,6 +1,210 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-07-29",
+   "donor_raw": "Guardian Title Co",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,25.30,82.00,3.80@p3",
+   "note": "Occupation 'Title Company'; date ESCALATED to 800 dpi - the second digit is a 9, not an 8; street address and ZIP discarded per privacy rule"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-07-25",
+   "donor_raw": "Landmark Title Co",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,29.15,82.00,3.80@p3",
+   "note": "Occupation 'Title Company'; street address and ZIP discarded per privacy rule"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-06-20",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,33.20,82.00,3.80@p3",
+   "note": "Occupation 'Trade Organization'; donor name is written across two lines ('Salt Lake' above 'Board of Realtors'); street address and ZIP discarded per privacy rule"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-08-15",
+   "donor_raw": "Mike Montgomery",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,37.10,82.00,3.80@p3",
+   "note": "Occupation 'Retired'; address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-09-08",
+   "donor_raw": "Z. Johanson",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,40.90,82.00,3.80@p3",
+   "note": "Occupation 'SL County'; address cell left EMPTY by the filer"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-09-02",
+   "donor_raw": "Gary Ott",
+   "amount": "28.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,44.65,82.00,3.80@p3",
+   "note": "the candidate himself; Occupation 'SL County'; address cell left EMPTY by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-07-11",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,26.05,78.00,3.85@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-08-08",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,29.95,78.00,3.85@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-09-10",
+   "vendor_raw": "Key Bank",
+   "purpose": "fee",
+   "amount": "3.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,33.80,78.00,3.85@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2006-06-24",
+   "vendor_raw": "Harmons",
+   "purpose": "Candy",
+   "amount": "191.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,37.60,78.00,3.85@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2006-07-16",
+   "vendor_raw": "Harmons",
+   "purpose": "Stamps",
+   "amount": "39.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,41.45,78.00,3.85@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2006-08-19",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & supplies",
+   "amount": "103.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,45.30,78.00,3.85@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2006-08-20",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & wire ties",
+   "amount": "50.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,49.10,78.00,3.85@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2006-09-04",
+   "vendor_raw": "Home Depot",
+   "purpose": "wood & supplies",
+   "amount": "97.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,53.00,78.00,3.85@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2006-09-06",
+   "vendor_raw": "Imagino's Signs",
+   "purpose": "signs (expenditure from in-kind donation)",
+   "amount": "1,439.10",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,61.50,78.00,3.85@p4",
+   "note": "purpose cell carries the parenthetical '(expenditure from in-kind donation)' written above the word 'signs' - that parenthetical is the source's own in-kind marking; note that Schedule A carries NO in-kind marking on any row"
+  }
+ ],
  "total_contributions": "2928.70",
  "total_expenditures": "1931.75",
  "beginning_balance": "8932.01",
@@ -49,6 +253,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. ARITHMETIC DOES NOT CLOSE on Line 5: Line 3 (8932.01) + Line 4 (2928.70) is 11,860.71 but Line 5 is written 11,760.71 \u2014 a $100 discrepancy. Line 3 was re-rendered at 300 dpi and reads 8932.01 (an 8-9-3-2 sequence), recorded verbatim at medium confidence; the rest of the chain does close (11,760.71 - 1,931.75 = 9,828.96 = Line 7, which the October report carries forward as its Line 3). Neither the amendment Yes nor No box is checked."
+  "notes": "Handwritten. ARITHMETIC DOES NOT CLOSE on Line 5: Line 3 (8932.01) + Line 4 (2928.70) is 11,860.71 but Line 5 is written 11,760.71 \u2014 a $100 discrepancy. Line 3 was re-rendered at 300 dpi and reads 8932.01 (an 8-9-3-2 sequence), recorded verbatim at medium confidence; the rest of the chain does close (11,760.71 - 1,931.75 = 9,828.96 = Line 7, which the October report carries forward as its Line 3). Neither the amendment Yes nor No box is checked.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2928.70",
+     "itemized": "2928.70",
+     "result": "exact",
+     "detail": "exact (2928.70 = 2928.70)"
+    },
+    "expenditures": {
+     "stated": "1931.75",
+     "itemized": "1931.75",
+     "result": "exact",
+     "detail": "exact (1931.75 = 1931.75)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 2928.70 = printed TOTAL 2,928.70 (SUBTOTAL cell left empty by the filer, so the TOTAL is the gate); p4 rows 1931.75 = printed TOTAL $1,931.75 (SUBTOTAL cell also empty)",
+   "escalations": 1,
+   "escalation_note": "p3 row-1 date cell cropped at 800 dpi: read '29 Jul 06', not '28' (nothing in the arithmetic constrains a date, so the crop is the authority here)",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten. Only the three ORGANISATION donors on Schedule A carry an address; the filer wrote city as 'SLC' and state 'UT' - transcribed exactly as written (note the first donor's address zip 84047 is a Midvale zip although the filer wrote SLC; the form's own words are kept). Street lines and ZIPs discarded at read time per the privacy rule. Row 6 of Schedule A is the candidate himself (Gary Ott, 28.70). Schedule B's last line is explicitly flagged by the filer as an expenditure paid out of an in-kind donation, although no Schedule A row is marked in-kind - an internal inconsistency retained, not reconciled."
+  }
  }
 }

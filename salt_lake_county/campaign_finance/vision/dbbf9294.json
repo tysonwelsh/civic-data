@@ -1,6 +1,129 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-09-22",
+   "donor_raw": "Equality Utah",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,24.77,85.29,3.86@p3",
+   "geometry_px": "p3:x110,y545,w1450,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "occupation cell prints 'PAC'; mailing address REDACTED"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-09",
+   "donor_raw": "Susan Marquardt",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,28.64,85.29,3.86@p3",
+   "geometry_px": "p3:x110,y630,w1450,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "occupation 'RETIRED'; address REDACTED"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-20",
+   "donor_raw": "Mary Bishop",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,32.50,85.29,3.86@p3",
+   "geometry_px": "p3:x110,y715,w1450,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "candidate-self; occupation 'CANDIDATE'; address REDACTED"
+  },
+  {
+   "line_no": 4,
+   "date": "2015-10-01",
+   "donor_raw": "Various under 25",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,36.36,85.29,3.86@p3",
+   "geometry_px": "p3:x110,y800,w1450,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "UNNAMED AGGREGATE line. Date printed '10-1-15' on an OCTOBER-2014 report - a filer year typo, transcribed VERBATIM per the repo precedent, never corrected"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-10-02",
+   "vendor_raw": "Winco Food",
+   "purpose": "Candy for Sr. Expo",
+   "amount": "30.26",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,25.45,85.29,3.86@p4",
+   "geometry_px": "p4:x110,y560,w1450,h85@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 2,
+   "date": "2014-10-12",
+   "vendor_raw": "Media ONE",
+   "purpose": "Digital Advertizing",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,29.32,85.29,3.86@p4",
+   "geometry_px": "p4:x110,y645,w1450,h85@200dpi",
+   "geometry_fit": "measured",
+   "note": "'Advertizing' spelled with a z on the form - kept verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2014-10-22",
+   "vendor_raw": "NGP-VAN",
+   "purpose": "RoboCall",
+   "amount": "535.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,33.18,85.29,3.86@p4",
+   "geometry_px": "p4:x110,y730,w1450,h85@200dpi",
+   "geometry_fit": "measured"
+  },
+  {
+   "line_no": 4,
+   "date": "2014-10-25",
+   "vendor_raw": "FaceBook",
+   "purpose": "Advertizing",
+   "amount": "289.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.47,37.05,85.29,3.86@p4",
+   "geometry_px": "p4:x110,y815,w1450,h85@200dpi",
+   "geometry_fit": "measured"
+  }
+ ],
  "total_contributions": "1875,00",
  "total_expenditures": "1855.36",
  "beginning_balance": "756.37",
@@ -49,6 +172,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "The clerk listing calls this the 'October' report; the FORM checks 'Seven days before a general election'. Decimal separators are MIXED as written: Line 1 Column A '1875,00', Line 1 Column B '11,160,00' and Line 2 Column B '10,383,99' use a decimal comma, while Lines 2A/3/5/7 use a period. The top-row Office box reads 'Candidate Recorder,'; the Office Sought box reads 'RECORDER'. A red hand annotation '4 pgs' appears at the top of the cover. Neither amendment box is checked. On-form arithmetic is consistent (756.37 + 1875.00 = 2631.37; less 1855.36 = 776.01)."
+  "notes": "The clerk listing calls this the 'October' report; the FORM checks 'Seven days before a general election'. Decimal separators are MIXED as written: Line 1 Column A '1875,00', Line 1 Column B '11,160,00' and Line 2 Column B '10,383,99' use a decimal comma, while Lines 2A/3/5/7 use a period. The top-row Office box reads 'Candidate Recorder,'; the Office Sought box reads 'RECORDER'. A red hand annotation '4 pgs' appears at the top of the cover. Neither amendment box is checked. On-form arithmetic is consistent (756.37 + 1875.00 = 2631.37; less 1855.36 = 776.01).",
+  "itemized": {
+   "wave": "opus pilot 2026-08-02 (calibration-suite pilot-opus/), PROMOTED into wave B2",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1875.00",
+     "itemized": "1875.00",
+     "result": "exact",
+     "detail": "exact (1875.00 = 1875.00)"
+    },
+    "expenditures": {
+     "stated": "1855.36",
+     "itemized": "1855.36",
+     "result": "exact",
+     "detail": "exact (1855.36 = 1855.36)"
+    }
+   },
+   "page_subtotal_gates": "",
+   "escalations": 1,
+   "escalation_note": "p3/p4 cropped + normalized",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 8,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": "PILOT ESTIMATE (opus pilot bboxes, converted): render-back spot-checks 2026-08-02 found portrait boxes row-exact (3/3 sampled) and one rotated page (08_jwinder_jan31 p3) off by 8 row-pitches; treat pilot rows' geometry as a page/section pointer, not a row-exact box. Wave-B2 bulk rows carry transcriber-verified pct boxes."
+   },
+   "notes": "pilot 2026-08-02, promoted; Small handwritten filing; both sides reconcile exactly. One filer year typo retained verbatim (10-1-15)."
+  }
  }
 }

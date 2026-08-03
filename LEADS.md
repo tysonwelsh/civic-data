@@ -132,10 +132,28 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     (Harte-2026 class: ledgers sum to Current, cover states Cumulative — rows withheld
     with both figures named); summit 2014 wrapped contributor rows need `pdftotext
     -bbox`, not regex; multi-report PDFs (Park 2024-11) need one index row per bound
-    report. Calibration-sample prerequisite BUILT 2026-08-02:
+    report; GEOMETRY family fixes (found by make_snippet.py's validation, 2026-08-02):
+    washco_split must STAMP the part file its span is relative to, and summit_form's
+    line origin is off by one vs the stored sidecar — both currently compensated by
+    amount-validated resolution in the utility, both should be fixed at emission +
+    re-swept; weber_polimorphic misses single-entry filings (headerless — Allred
+    1,147.66 gated out).
+  - *Region-URL publication checklist (when the itemized layer goes online):* geometry
+    is IIIF-region-ready by design (`pct:` form preferred; `make_snippet.py` converts
+    the exact text-span forms on demand) — remaining at publish time: choose serving
+    (IIIF Image API server vs pre-cut static crops/Level-0 tiles from the coordinates),
+    stable image identifiers (document sha256 + page — already in the ledgers), and ONE
+    PRIVACY.md sentence acknowledging that served row-crops surface donor street
+    addresses already public in the verbatim raws. Calibration-sample prerequisite BUILT 2026-08-02:
     `_audits/cf-calibration-suite/` (13 specimens + pass protocol; every configuration
-    must pass before bulk rights). Phase A launched 2026-08-02 (shared families agent +
-    this suite); Phase B (vision itemization waves) awaits per-wave owner approval.
+    must pass before bulk rights). Phase A DONE 2026-08-02; Phase B wave B2
+    (SLCo legacy) DONE 2026-08-03 — 496/496 filings, 22,871 rows, federated. REMAINING
+    Phase B (per-wave owner approval): utah 245 scanned · summit 116 · weber 93 ·
+    wasatch ~40 · juab 18 · cache pre-2022 Carr era · washington scan generations.
+    New specimen candidates from the B2 close (add to the suite when next grown):
+    the "no gate available is a claim to test" attachment-total case (McAdams/simgill);
+    rule-detection row counting for subtotal-less spreadsheets (rowbands.py); the
+    shared-temp-glob liveness trap; the wave-stamp clobber.
   - *County cycle_totals design (DEFERRED BY DESIGN 2026-08-02 — cf_cycle stays
     city-only):* the vision wave proved the generic city rules would publish wrong county
     figures: regimes vary per CANDIDATE not per form (wasatch: three 2024/2026 filers
@@ -146,9 +164,12 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     is_incremental varies per filing. A county rollup needs per-candidate regime
     detection + carryover subtraction + the supersede pairs (weber Froerer 2022 'Amended',
     Gibson 2026-07-23 re-file) — design task, per-county evidence in each AVAILABILITY.md.
-  - *SLCo GRAMA addendum (2026-08-02):* 6 damaged/blank source PDFs incl. the wholly-blank
-    dwilde_apr52006.pdf and two xref-broken files proven damaged AT SOURCE (re-fetch
-    byte-identical) — fold into the SLCo portal-era GRAMA ask.
+  - *SLCo GRAMA addendum (2026-08-02, extended 08-03 at B2 close):* 6 damaged/blank source
+    PDFs incl. the wholly-blank dwilde_apr52006.pdf and two xref-broken files proven damaged
+    AT SOURCE (re-fetch byte-identical), PLUS the B2 final gap ledger — 8 sides across 5
+    filings whose schedules are missing from slco.org's own PDFs (~$121,789 C + $120,455 E;
+    4 of 8 exactly reproduced by itemized sibling filings, 4 not) — fold all into the SLCo
+    portal-era GRAMA ask alongside the SLC-city 2005–2017 request.
   - *Crop-defect date sweep (2026-08-02):* summit's audit proved the improvised top-80%
     render crop silently blanked signature dates (45 of 51 "blank" dates were legible at
     full page; 1 populated date misread). Elevated blank-`filing_date` rates elsewhere:
@@ -268,7 +289,7 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 | magna 2025-11-18 CRA approved copy | PMN | approved version | 2026-07-20 | draft rejected |
 | SLC 8 comment pages (5 content-filter + 3 other) | — | retry with newer models | 2026-07-16 | permanent-gap candidate |
 | ogden/logan/orem CF cycle publications | city portals | 2025 cycles posted | 2026-07-19 | — |
-| SLC campaign-finance portal | dotnet.slcgov.com | portal back up → harvest | 2026-07-13 | blocked; slc absent from cf layer (caveat added 2026-07-31) |
+| SLC campaign-finance portal | dotnet.slcgov.com | **WebAPI answers → harvest is turnkey** (endpoints in slc AVAILABILITY.md; JSON-native) | 2026-08-03 | shell 200 / API still 503 (probed 2026-08-03). The twice-daily cron watcher was CANCELED by the owner 2026-08-03 — back to refresh-time checks of THE API, not the landing page. slc now holds the 2003 cycle only (cf-honest-zero caveat rewritten); GRAMA covers 2005–2017 + 2019+ if the API stays down |
 | millcreek even-year SOVC | SLCo | acquisition would unblock its re-point exception | 2026-07-19 | — |
 | CivicPlus platform (murray/SSL/MSD 500s) | portals | re-verify, nothing marked dead | 2026-07-19 | correlated outage |
 | `wasatch.utah.gov` legacy DNN host (serves 2018–2024-June wasatch CF PDFs live) | direct Portals/ URLs | host dies → 104 filings become archive-only; re-mirror check | 2026-08-01 | live; link-rot risk |

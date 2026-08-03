@@ -1,6 +1,62 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2012-04-10",
+   "vendor_raw": "GORDON COPY",
+   "purpose": "DESIGN WORK",
+   "amount": "2,868.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:14.22,22.85,75.30,3.00@p4",
+   "note": "cents printed as a raised superscript that runs to the cell edge; the page-total identity requires 2,868.00"
+  },
+  {
+   "line_no": 2,
+   "date": "2012-04-07",
+   "vendor_raw": "PROGRESSIVE MAIL",
+   "purpose": "PRINTING + POSTAGE",
+   "amount": "1,941.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.22,26.60,75.30,3.00@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2012-04-06",
+   "vendor_raw": "REPUBLICAN PARTY",
+   "purpose": "CONVENTION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.22,30.35,75.30,3.00@p4",
+   "note": "superscript cents"
+  },
+  {
+   "line_no": 4,
+   "date": "2012-04-06",
+   "vendor_raw": "SIGN DESIGN",
+   "purpose": "SUPPLIES",
+   "amount": "1,801.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:14.22,34.10,75.30,3.00@p4",
+   "note": "superscript cents; the page-total identity requires 1,801.00"
+  }
+ ],
  "total_contributions": "0.00",
  "total_expenditures": "7,110.10",
  "beginning_balance": "7,451.57",
@@ -47,6 +103,50 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten; light scan. The candidate's name and the word 'MAYOR' are written together on the Name line (this form variant has no separate top-row Office box); Office Sought reads 'MAYOR'. Neither amendment box is checked. Cents on Lines 1 and 2 are raised superscripts; Line 2 Column B ('9,964.93') is written without a thousands comma and its leading 9 is cramped, hence medium confidence. Received stamp JUN 22 2012."
+  "notes": "Handwritten; light scan. The candidate's name and the word 'MAYOR' are written together on the Name line (this form variant has no separate top-row Office box); Office Sought reads 'MAYOR'. Neither amendment box is checked. Cents on Lines 1 and 2 are raised superscripts; Line 2 Column B ('9,964.93') is written without a thousands comma and its leading 9 is cramped, hence medium confidence. Received stamp JUN 22 2012.",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0",
+     "result": "exact",
+     "detail": "exact - a real zero: the Itemized Contributions Received table is entirely blank and its TOTAL cell carries a written zero"
+    },
+    "expenditures": {
+     "stated": "7,110.10",
+     "itemized": "7110.10",
+     "result": "exact",
+     "detail": "exact (7110.10 = 7,110.10)"
+    }
+   },
+   "page_subtotal_gates": "p3 blank table, TOTAL cell written as a zero glyph - consistent with the stated 0.00. p4 rows 7,110.10 = printed subtotal 7,110.10 = printed total - GATE PASSES, and it is what settled the two superscript-cents amounts (2,868.00 and 1,801.00).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2012 form variant: the schedules are titled 'Itemized Contributions Received' / 'Itemized Expenditures Made' rather than Schedule A / Schedule B. p1 cover, p2 Summary Page, p3 contributions (blank), p4 expenditures. Cents on two rows are written as a raised superscript over a rule."
+  }
  }
 }

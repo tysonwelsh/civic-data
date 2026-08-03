@@ -1,6 +1,89 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2006-03-10",
+   "donor_raw": "LOAN FROM JIM WINDER",
+   "amount": "5,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.22,25.51,80.70,4.00@p3",
+   "note": "amount printed as '5,000' with a superscript '00' over a rule -> 5,000.00; a candidate self-loan; Complete Mailing Address and Occupation/Employer cells left empty by the filer (no redaction)"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-20",
+   "donor_raw": "KAY WINDER",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.22,29.91,80.70,4.00@p3",
+   "note": "amount printed as '2,000' with a superscript '00' over a rule -> 2,000.00; Complete Mailing Address and Occupation/Employer cells left empty by the filer (no redaction)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2006-03-10",
+   "vendor_raw": "S.L.Co CLERK",
+   "purpose": "filing fee",
+   "amount": "590.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:12.35,27.00,74.10,3.50@p4",
+   "note": "amount printed '590' with a cramped superscript over a rule; read 590.28 and CONFIRMED by the page subtotal identity (1239.33 minus the other three rows), not by a glyph re-read"
+  },
+  {
+   "line_no": 2,
+   "date": "2006-03-13",
+   "vendor_raw": "U.S POSTAL SER.",
+   "purpose": "P.O. Box Rental",
+   "amount": "52.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.35,31.00,74.10,3.50@p4",
+   "note": "amount printed '52' with a superscript '00' over a rule -> 52.00"
+  },
+  {
+   "line_no": 3,
+   "date": "2006-03-20",
+   "vendor_raw": "KINKOS",
+   "purpose": "printing",
+   "amount": "243.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:12.35,35.00,74.10,3.50@p4",
+   "note": "amount printed '243' with a superscript over a rule; read 243.05 and CONFIRMED by the page subtotal identity, not by a glyph re-read"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "RED OLIVE DESIGN",
+   "purpose": "web site",
+   "amount": "354.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.35,38.75,74.10,3.50@p4",
+   "note": "date written '3/70/06' - day 70 is IMPOSSIBLE; re-rendered at 1200 dpi and the glyph holds, so the date is left BLANK rather than repaired to 3/30/06. Amount printed '354' with a superscript '00' over a rule -> 354.00"
+  }
+ ],
  "total_contributions": "7,000.00",
  "total_expenditures": "1239.33",
  "beginning_balance": "",
@@ -48,6 +131,48 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "LINE 3 (Balance at Beginning of Reporting Period) IS BLANK - recorded as '' (the cell exists and the filer left it empty), not 0, even though Line 5 equals Line 4 which implies a zero opening balance. Every figure writes the cents as a raised superscript over a rule (7,000 superscript 00; 1239 superscript 33; 5760 superscript 67) - transcribed with a decimal point. Neither amendment box is checked. Signed 4/4/06 but clerk-stamped APR 05 2006; the Summary Page's Date-of-Report box also reads 4/4/06. Page-of box reads 'Page 1 of 3'. Column A arithmetic checks out (7,000.00 - 1,239.33 = 5,760.67)."
+  "notes": "LINE 3 (Balance at Beginning of Reporting Period) IS BLANK - recorded as '' (the cell exists and the filer left it empty), not 0, even though Line 5 equals Line 4 which implies a zero opening balance. Every figure writes the cents as a raised superscript over a rule (7,000 superscript 00; 1239 superscript 33; 5760 superscript 67) - transcribed with a decimal point. Neither amendment box is checked. Signed 4/4/06 but clerk-stamped APR 05 2006; the Summary Page's Date-of-Report box also reads 4/4/06. Page-of box reads 'Page 1 of 3'. Column A arithmetic checks out (7,000.00 - 1,239.33 = 5,760.67).",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-03 wave B2 residue)",
+   "transcribed_date": "2026-08-03",
+   "pages_read": [
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,000.00",
+     "itemized": "7000.00",
+     "result": "exact",
+     "detail": "exact (2 rows 5000.00 + 2000.00 = 7000.00 = the page's own handwritten SUBTOTAL and TOTAL '7,000 00')"
+    },
+    "expenditures": {
+     "stated": "1239.33",
+     "itemized": "1239.33",
+     "result": "exact",
+     "detail": "exact (4 rows 590.28 + 52.00 + 243.05 + 354.00 = 1239.33 = the page's own handwritten SUBTOTAL and TOTAL '1239 33')"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 7000.00 = printed SUBTOTAL FOR THIS PAGE '7,000 00' (gate fires); p4 rows 1239.33 = printed SUBTOTAL FOR THIS PAGE '1239 33' (gate fires). The p4 gate is also what SETTLED two cramped superscript cent groups without a re-read: 1239.33 minus the three unambiguous rows leaves exactly 590.28 and 243.05, confirming those superscripts as 28 and 05.",
+   "escalations": 1,
+   "escalation_note": "p4 row-4 date cell re-rendered at 1200 dpi; the day glyph is confirmed to read '70', which is impossible, so the date was left blank rather than repaired to 30",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten April-5 interim for James M. Winder (Sheriff), Date of Report 4/4/06, hand-numbered 'Page 2 of 3' and 'Page 3 of 3'. EVERY AMOUNT ON BOTH PAGES uses the superscript-cents-over-a-rule convention ('5,000 00', '590 28', '1239 33'); each is transcribed with a decimal point and the convention is noted per row. The Complete Mailing Address and Occupation/Employer columns on Schedule A are simply EMPTY - the filer left them blank and there is no redaction artifact - so donor_city/donor_state are blank for a different reason than in the redacted filings in this chunk. Schedule B row 4's date is written '3/70/06'; day 70 is impossible, and a 1200 dpi cell crop confirms the glyph, so the date is left BLANK with needs_review rather than corrected to 3/30/06. Both sides gate exactly on the page's own subtotal."
+  }
  }
 }

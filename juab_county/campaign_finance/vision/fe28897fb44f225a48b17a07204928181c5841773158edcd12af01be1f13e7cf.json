@@ -1,0 +1,133 @@
+{
+ "sha256": "fe28897fb44f225a48b17a07204928181c5841773158edcd12af01be1f13e7cf",
+ "source_pdf": "raw/juab_2010_primary/Pat_Ingram_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Pat_Ingram_10-28-10.pdf",
+   "candidate": "Patricia M Ingram",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "8-16-10",
+   "donor": "Juab Democratic Party",
+   "address": "345 N 900 E Nephi 84648",
+   "amount": "125.00",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,9.18,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10-18-10",
+   "donor": "Clarence Phillipsen",
+   "address": "730 N 200 E Nephi 84648",
+   "amount": "20.00",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.50,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "8-13-10",
+   "payee": "Salt Creek Signs",
+   "purpose": "Campaign Signs",
+   "amount": "561.63",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.86,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-10-10",
+   "payee": "The Times News",
+   "purpose": "Campaign Flyers",
+   "amount": "180.75",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.18,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-23-10",
+   "payee": "Salt Creek Signs",
+   "purpose": "Campaign Signs",
+   "amount": "245.44",
+   "confidence": "high",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:5.00,13.50,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10-11-10",
+   "payee": "The Times News",
+   "purpose": "Campaign ads in Newspaper",
+   "amount": "133.65",
+   "confidence": "high",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:5.00,15.81,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "145.00",
+     "basis": "line 1 (>$50); line 2 is blank"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "1121.47",
+     "basis": "line 3 cumulative"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Pat_Ingram_10-28-10.pdf|p2": 9.178,
+    "raw/juab_2010_primary/Pat_Ingram_10-28-10.pdf|p3": 8.86
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "The incumbent County Clerk/Auditor filing to herself. Rows 1-2 of this filing's Form B are the two boxes used for the wave's geometry render-back verification."
+  }
+ }
+}

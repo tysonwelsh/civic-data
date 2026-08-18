@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:08:05Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "John E. Ulibarri",
  "office_stated": "Assessor",
  "report_type_stated": "October 20 - Oct 27",
@@ -44,5 +44,78 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2020 3-line form. FILER LABEL CONFLICT retained: the 'October 20 - Oct 27' box is ticked but the form is signed 'December 10, 2020'."
+ "notes": "Typed 2020 3-line form. FILER LABEL CONFLICT retained: the 'October 20 - Oct 27' box is ticked but the form is signed 'December 10, 2020'.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/13/2020",
+   "donor_raw": "John Ulibarri (Loan to campaign)",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "636.46",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:17.24,6.59,3.05,10.23@p20",
+   "geometry_frame": "p20 axis=x cell=6.59-16.82 rowband=17.24-20.29 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "typed entry; the filer's own '(Loan to campaign)' tag is kept inside the name cell as printed. Street address on the Address column deliberately not carried (PRIVACY.md: city/state only)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/13/2020",
+   "vendor_raw": "Weber County Elections",
+   "purpose": "Filing fee",
+   "amount": "636.46",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:18.97,5.18,2.91,10.23@p21",
+   "geometry_frame": "p21 axis=x cell=5.18-15.41 rowband=18.97-21.88 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Form B's separate City column prints 'Ogden' (no vendor_city field in the row contract)."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    19,
+    20,
+    21
+   ],
+   "itemized_pages_A": "20",
+   "itemized_pages_B": "21",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report): 636.46'",
+     "detail": "the single Form A row (636.46) sums to the schedule's own printed total 636.46, which equals BOTH the cover's This Report and its Cumulative cell on line 1 (3-line 2020 form, one contrib_all cell, no <=$50 aggregate line)"
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of report): 636.46'",
+     "detail": "the single Form B row (636.46) sums to the schedule's printed total 636.46 = the cover's This Report = Cumulative on line 2"
+    }
+   },
+   "escalations": 2,
+   "escalation_note": "900 dpi tight --value crops at p20 row 2 and p21 row 2 amount cells, run as the geometry spot-verification (not a legibility dispute); both reproduce 636.46",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Typed 2020 3-line form. Both schedules are ROTATED landscape sheets bound after the cover: p20 = FORM A (contributions), p21 = FORM B (expenditures), each with 24 printed data rows of which only row 2 is filled \u2014 row 1 on both sheets is an EMPTY printed row that the scan renders as a grey band (a shaded strip, not an entry), so the single entry indexes as row 2 on each sheet. The whole filing is one self-loan in and one filing-fee payment out, both dated 3/13/2020. Cover carries the filer label conflict already recorded in the stated-totals cache (the 'October 20 - Oct 27' box is ticked but it is signed December 10, 2020) and dashes, not zeros, on the Ending Balance line (kept BLANK per the zero-glyph ruling)."
+  }
+ }
 }

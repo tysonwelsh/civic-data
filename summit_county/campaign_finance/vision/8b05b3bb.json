@@ -52,6 +52,47 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible despite the 'low' OCR sidecar; zeros written as a bare hand-drawn '0'. Unlike the filer's Pre-Election sheet (doc 1065) the balance row here is NOT struck through."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible despite the 'low' OCR sidecar; zeros written as a bare hand-drawn '0'. Unlike the filer's Pre-Election sheet (doc 1065) the balance row here is NOT struck through.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0",
+    "itemized": "0.00",
+    "result": "exact",
+    "detail": "exact. The cover states 0 in all three columns of both contribution rows and the schedule page is blank, so the two agree at zero. Note the box itself is EMPTY, not zero-marked - under the zero-glyph ruling an empty box is BLANK, not a written zero; the zero here is the COVER's, and the blank ledger is consistent with it. Martin's Pre-Election sibling (1065) is likewise zero on contributions, so the candidate raised nothing all cycle and spent his own money."
+   },
+   "expenditures": {
+    "stated": "1178.28",
+    "itemized": "0.00",
+    "result": "delta",
+    "detail": "delta -1,178.28, and it is a FILING PROPERTY, not a missing read: this Post-Election document attaches the form's BLANK expense schedule while its cover restates $1,178.28 (current 1178.28 / last 0 / cumulative 1178.28, signed 12-4-14). The itemization of that identical $1,178.28 exists - on the SAME filer's Pre-Election sibling doc 1065 (signed 10-24-14), whose expense sheet carries four handwritten rows under a handwritten box total of 1178.28. So the money is itemized once in the corpus and this final filing simply re-covers it with unfilled schedules. itemized=0.00 here means the page is blank, NOT that Martin spent nothing; reconciles=False is correct and both figures are named."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT and p3 ITEMIZED EXPENSE REPORT are both PRISTINE BLANK form pages: not one handwritten mark anywhere on either sheet, and all THREE boxed totals (>$50, <=$50, Total amount of expenditures) are EMPTY - no figure, no zero glyph, no dash. Each page carries only the blank form's own printed grey SPECIMEN row (Jon and Jane Doe / PO Box 128, Coalville / 84017 / $435.00 on p2; Name of Business / Campaign signs and flyers / $512.00 on p3), both dated 8/25/14. The three empty boxes were escalated to tight crops (p3 900 dpi, p2 700 dpi) to rule out a faint hand mark: all three are clean. There is therefore NO printed schedule total on this document to gate against, and the only arithmetic available is the cover's.",
+  "escalations": 2,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A blank-schedule Post-Election filing. Martin's cover-to-cover behaviour is the evidence: he entered $1,178.28 in the CURRENT column (not the Last column) on both the Pre- and Post-Election covers, with Last=0 on both - i.e. he treated each filing as standalone rather than cumulative, and then attached fresh blank schedule pages to the second one. The specimen rows are left in place on both pages, exactly as on the blank form; they are not transactions (their $435.00 / $512.00 appear in no total on this or any Martin filing). Also worth recording for the cycle-level view: the Martin PAIR is the only place in this chunk where the same dollar figure is stated twice by one filer across two documents - summing 1065 + 1267 covers would double-count $1,178.28."
+ }
 }

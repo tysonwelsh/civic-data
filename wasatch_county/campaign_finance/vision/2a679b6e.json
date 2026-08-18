@@ -1,90 +1,144 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_OctKCrittenden.pdf",
-    "cache_key": "2a679b6e",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "October 2020 (7 days before General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Kendall Crittenden",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_OctKCrittenden.pdf",
+  "cache_key": "2a679b6e",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "October 2020 (7 days before General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_04.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (0.00 = 0, the cover's own total contributions line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 878.75 this reads as a -878.75 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "878.75",
+     "csv_reconciles": "False",
+     "csv_delta": "-878.75"
     },
-    "office_verbatim": {
-      "value": "County Council Heber South - Seat D",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10/26/2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "878.75",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "878.75",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "869.42",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "869.42",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "9.33",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "9.33",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (0.00 = 0, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 869.42 this reads as a -869.42 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "869.42",
+     "csv_reconciles": "False",
+     "csv_delta": "-869.42"
     }
+   },
+   "page_subtotal_gates": "No printed page totals. Both schedules are zero-glyph pages and both match their cover THIS REPORT cells (Ø = 0) — GATES PASS. Cover internal arithmetic closes on all three lines (878.75 - 869.42 = 9.33 = the printed balance).",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Kendall Crittenden, 'County Council Heber South - Seat D', Republican, '7 Days preceding the General Election' checked, signed 10/26/2020. This is a NO-ACTIVITY report: both schedule pages are printed and empty apart from one slashed-zero glyph each, and all three THIS REPORT cover cells are the same glyph. Zero rows here is data, not a gap — but note the cumulative 878.75 raised / 869.42 spent is itemized in the JUNE filing, not this one."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Kendall Crittenden",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "County Council Heber South - Seat D",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10/26/2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "878.75",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "878.75",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "869.42",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "869.42",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "9.33",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "9.33",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": []
 }

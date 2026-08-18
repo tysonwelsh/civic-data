@@ -1,75 +1,357 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_L-Forsyth.pdf",
-    "cache_key": "de0a5f5f",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Lauren Forsyth",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_L-Forsyth.pdf",
+  "cache_key": "de0a5f5f",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2675",
+     "itemized": "2675.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2675.00 = 2675, published stated total)",
+     "published_stated": "2675",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Attorney",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Democratic",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Midway",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "4/1/26",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 8, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "2,675",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "450.57",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "2,224.43",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "450.57",
+     "itemized": "450.57",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (450.57 = 450.57, published stated total)",
+     "published_stated": "450.57",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 2,675 = rows 2675.00 — GATE PASSES; p2 Table B TOTAL: 450.57 = rows 450.57 — GATE PASSES. Cover identity 2675 - 450.57 = 2224.43 matches printed balance $2,224.43.",
+   "escalations": 5,
+   "escalation_note": "600dpi crops of Table A name column and Table B payee column; 800dpi crops of both amount columns; 1200dpi crop of the contribution row-3 first name",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 7,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 13,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten 2-page filing, both tables on page 2. Whole-dollar contributions are written with no cents ('$400', '$25', '$2,000') and are normalized to .00 as printed. Contribution line 5 ('Womens Democratic Club of Utah') WRAPS across two printed row slots — the row is recorded once at row_i 4 with the continuation noted, so the next entry sits at row_i 6, not 5. Table B rows 3 and 4 use ditto marks in the Purpose column, resolved to the row above ('email & website domain'). Two entries are dated 4/1/26, after the March 31 filing point and on the signature date — kept verbatim. Only the Partisan Convention box is checked; convention date is written 'April 8, 2026', one day later than every other March filer in this chunk (who write April 7, 2026) — kept as written, not reconciled."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Lauren Forsyth",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "Wasatch County Attorney",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Democratic",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Midway",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "4/1/26",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 8, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "2,675",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "450.57",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "2,224.43",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-12",
+   "donor_raw": "Lauren Forsyth",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "candidate self-funding; written '$400' (no cents)",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-01-16",
+   "donor_raw": "Lauren Forsyth",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "written '$100'",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-03-17",
+   "donor_raw": "Paix DiMeo",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "escalated to 1200dpi: surname is unambiguously 'DiMeo'; the given name shows capital P (or B), 'a', a DOTTED vertical stroke, and 'x' — recorded as the literal glyph string 'Paix'; the alternate reading is 'Pax' with a stray dot. Not resolved. Written '$25'",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-03-22",
+   "donor_raw": "Andrew Falkenberg",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount cell is overwritten/retraced ('$5̶0'); the printed Table A TOTAL closes on exactly 50.00",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-03-25",
+   "donor_raw": "Womens Democratic Club of Utah",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "name wraps onto the next printed row slot ('of Utah' on row slot 5); apostrophe omitted by the filer, kept verbatim as 'Womens'",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-04-01",
+   "donor_raw": "Chris & Gail Callaway",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "row slot 5 is the wrap of line 5, so this entry sits on slot 6; written '$2,000'; dated the same day the form was signed and after the March 31 filing point",
+   "geometry": "pct:5.00,33.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-12",
+   "vendor_raw": "Sarah Severson Photography",
+   "purpose": "photos for website",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "written '$400'",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-02-07",
+   "vendor_raw": "Google",
+   "purpose": "email & website domain",
+   "amount": "12.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-03-01",
+   "vendor_raw": "Google",
+   "purpose": "email & website domain",
+   "amount": "6.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "purpose printed as two ditto marks; resolved to the row above",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-04-01",
+   "vendor_raw": "Google",
+   "purpose": "email & website domain",
+   "amount": "21.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "purpose printed as two ditto marks; resolved to the row above. Dated after the March 31 filing point, on the signature date",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-03-01",
+   "vendor_raw": "Grand Valley Bank",
+   "purpose": "bank account service charge",
+   "amount": "8.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-03-17",
+   "vendor_raw": "Stripe",
+   "purpose": "online payment fee, cc fee",
+   "amount": "1.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "amount printed '$.1.05' (a stray dot after the dollar sign); read as 1.05, which the printed TOTAL confirms",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-03-22",
+   "vendor_raw": "Stripe",
+   "purpose": "online payment fee, cc fee",
+   "amount": "1.86",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "cents glyph reads '86'/'8b'; the printed Table B TOTAL closes on exactly 1.86 (450.57 less the other six rows), so arithmetic gates the read",
+   "geometry": "pct:5.00,76.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

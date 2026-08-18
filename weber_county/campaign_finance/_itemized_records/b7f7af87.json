@@ -1,0 +1,174 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_d61dc956.pdf",
+  "page_start": 1,
+  "page_end": 4,
+  "key": "b7f7af87",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "2",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "empty-schedule"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "the cover's line-1 Total Contributions cell, 3.00, which the cover carries identically in the This Report AND Cumulative Total columns (Last Report is blank)",
+    "detail": "Form A (p2) carries exactly ONE handwritten row, $3.00, and that equals the cover's This-Report and Cumulative contributions cells. \u26a0 THE SCHEDULE'S OWN 'Total Contributions: (to line 1 of report):' CELL IS A BARE DASH, not 3.00 \u2014 a nil mark where the filer should have carried his own single row forward. Per the zero-glyph ruling a bare dash is BLANK, not zero, so it cannot serve as the anchor and the cover's figure does instead; the row and the cover agree to the cent and the internal contradiction is the filer's, recorded not repaired. Row-count gate: 1 filled band of 23 measured, crop-proved, with the band above it confirmed to be the printed gray spacer."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "the cover's line-2 Total Campaign Expenditures cell in the Cumulative Total column, 0.00 \u2014 which the cover's own arithmetic independently proves (contributions 3.00 minus expenditures leaves the printed 3.00 ending balance, so expenditures must be 0.00)",
+    "detail": "The expenditure schedule is present and carries NO ENTRY: no date, no payee, no city, no purpose anywhere on it. Its Amount column's first data cell holds a lone handwritten '0.00' \u2014 a nil annotation the filer wrote in place of entries, exactly the class the contract treats as a 'None' banner, so it produces ZERO ROWS and the state is `empty-schedule`, not a row with a blank payee. Zero rows sum to 0.00, the cover's cumulative cell. \u26a0 Worth flagging for the coordinator: the cover's This-Report expenditure cell is ambiguous in the hand \u2014 it can be read as $2.00 as easily as $0.00 (the 2026 totals tranche recorded it BLANK for that reason) \u2014 and the arithmetic decides it, per the ruling that the document's own closure outranks a glyph read: 3.00 - X = 3.00 requires X = 0.00, and the Cumulative cell prints 0.00 outright."
+   }
+  },
+  "escalations": 8,
+  "escalation_note": "8 tight crops at 1200 dpi \u2014 necessary because this filing is entirely handwritten and, at $3.00 raised, has almost no arithmetic redundancy to fall back on. Four fixed the Form A band structure (the header band at [9.35,12.50], the printed gray spacer at [12.50,15.68] confirmed blank, and row 1 at [15.68,18.88] reproducing the handwritten $3.00, plus its date cell). Three probed the Form B amount strip on p3 and located the lone handwritten 0.00 in the first data cell with the cells either side of it empty. No escalation was spent trying to force the cover's bistable expenditure cell \u2014 that one is settled by the cover's own closure, not by resolution.",
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     4.7,
+     15.41
+    ],
+    "cells": [
+     [
+      4.7,
+      15.41
+     ],
+     [
+      15.41,
+      57.55
+     ],
+     [
+      57.55,
+      87.75
+     ],
+     [
+      87.75,
+      95.86
+     ]
+    ],
+    "rows": [
+     [
+      15.68,
+      18.88
+     ],
+     [
+      18.88,
+      22.06
+     ],
+     [
+      22.06,
+      25.24
+     ],
+     [
+      25.24,
+      28.38
+     ],
+     [
+      28.38,
+      31.53
+     ],
+     [
+      31.53,
+      34.62
+     ],
+     [
+      34.62,
+      37.76
+     ],
+     [
+      37.76,
+      40.94
+     ],
+     [
+      40.94,
+      44.12
+     ],
+     [
+      44.12,
+      47.29
+     ],
+     [
+      47.29,
+      50.5
+     ],
+     [
+      50.5,
+      53.59
+     ],
+     [
+      53.59,
+      56.65
+     ],
+     [
+      56.65,
+      59.65
+     ],
+     [
+      59.65,
+      62.71
+     ],
+     [
+      62.71,
+      65.76
+     ],
+     [
+      65.76,
+      68.91
+     ],
+     [
+      68.91,
+      72.0
+     ],
+     [
+      72.0,
+      75.12
+     ],
+     [
+      75.12,
+      78.15
+     ],
+     [
+      78.15,
+      81.18
+     ],
+     [
+      81.18,
+      84.24
+     ],
+     [
+      84.24,
+      87.29
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet inside an unrotated (/Rotate 0) portrait page, so render pct and MediaBox pct agree here \u2014 unlike the Ebert filing in this same chunk. axis='x': Amount along the TOP of the rendered page, Date along the bottom, rows advancing LEFT-TO-RIGHT. COLUMNS are rowbands' h_rules, clean: 4.70 / 15.41 / 57.55 / 87.75 / 95.86 = top border, Amount | Address | Name of Contributor | Date, bottom border; cell = [4.70,15.41]. ROWS are rowbands' v_rules exactly as returned \u2014 27 rules at a constant 3.15 pitch, 7.06 to 87.29. Left-to-right, [7.06,9.35] is the outer margin, [9.35,12.50] the column-header band (crop-proved: it returns the word 'Amount'), [12.50,15.68] the printed gray spacer (crop-proved blank), and the 23 bands from [15.68,18.88] are the data rows, exactly ONE of which is filled. No band was extrapolated."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1105",
+    "donor_raw": "Alvin Thurgood",
+    "donor_city": "North Ogden",
+    "amount": "3.00",
+    "needs_review": 1,
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Self-funding: the donor is the candidate. \u26a0 DATE KEPT VERBATIM AND UNPARSEABLE: the cell reads '1105' with no separators and no year \u2014 re-rendered at 1200 dpi and that is genuinely what is written. It is NOT expanded to 11/05, 1/1/05 or anything else, and no year is supplied from the report date; the build will blank it with needs_review, which is correct. The Address cell contains only the words 'North Ogden' \u2014 no street, so nothing was withheld under PRIVACY.md here, and no state was written by the filer."
+   }
+  ],
+  "expenditures": [],
+  "notes": "Alvin Thurgood, 'Weber County Commission Seat A' (handwritten), 2026 cycle, the \"7 days before the candidates' convention - Convention\" box ticked, signed 3/25/26 \u2014 a date index.csv leaves blank but which is legible on the form. By far the SMALLEST filing in the chunk: $3.00 raised, nothing spent, and the whole document is handwritten on the redesigned 2026 form. \u26a0 THE STRUCTURAL FACT TO RESPECT \u2014 this filing is FOUR pages because ITS FORM B IS SPLIT ACROSS TWO SCAN PAGES BY AN OFF-REGISTER SCAN, and neither page alone is the schedule. p4 carries the Date of Expenditure / Person or Organization / City / Purpose columns with the Amount column cut off past the page edge; p3 is almost entirely white paper with a narrow strip at the bottom holding the missing Amount column, whose first data cell has a lone handwritten 0.00. Read as one sheet they are a single EMPTY expenditure schedule with the filer's own zero annotation \u2014 an `empty-schedule` (the page exists and the filer entered nothing), NOT a `no-schedule-page` and NOT an unread side. Anyone re-reading this filing page-by-page will otherwise mis-classify p3 as a blank page and p4 as a schedule with no Amount column. Two more honest defects, both preserved rather than repaired: Form A's own 'Total Contributions' cell is a BARE DASH even though the schedule has a row in it (the cover's 3.00 is the anchor instead), and the single contribution's date is written '1105', which is not a date in any form the build can normalize. The candidate's street address, city/zip AND cell phone are all BLACKED OUT on the cover by the county before publication (the government's own redaction, preserved and not recovered, PRIVACY.md); the Home/Office phone line reads 'N/A' in the filer's hand."
+ }
+]

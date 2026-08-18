@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:38:01Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Duane D. Kearsley",
  "office_stated": "Weber Co. Commission Seat A",
  "report_type_stated": "June 16 - Primary Election",
@@ -44,5 +44,127 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED summary (handwritten signature/date 6-14-26). All columns reconcile. Filing date legible on the form though index.csv carries a blank date. County-redacted street address; city/zip printed (Ogden, 84404)."
+ "notes": "2026 form variant, TYPED summary (handwritten signature/date 6-14-26). All columns reconcile. Filing date legible on the form though index.csv carries a blank date. County-redacted street address; city/zip printed (Ogden, 84404).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6/3/26",
+   "donor_raw": "Ryan Rogers",
+   "donor_city": "Warren",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.32,14.55,9.53,1.54@p2",
+   "geometry_frame": "p2 axis=y cell=81.32-90.85 rowband=14.55-16.09 (1 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer printed 'Warren. UT' with a period where the comma belongs - the locality is Warren, Utah; punctuation not carried"
+  },
+  {
+   "line_no": "2",
+   "date": "6/4/26",
+   "donor_raw": "James Jensen",
+   "donor_city": "Plain City",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.32,16.09,9.53,1.61@p2",
+   "geometry_frame": "p2 axis=y cell=81.32-90.85 rowband=16.09-17.70 (2 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "6/10/26",
+   "donor_raw": "Brent Odenwalder",
+   "donor_city": "Hooper",
+   "donor_state": "UT",
+   "amount": "70.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.32,17.70,9.53,1.55@p2",
+   "geometry_frame": "p2 axis=y cell=81.32-90.85 rowband=17.70-19.25 (3 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "6/10/26",
+   "donor_raw": "Karl Oelke",
+   "donor_city": "Warren",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.32,19.25,9.53,1.57@p2",
+   "geometry_frame": "p2 axis=y cell=81.32-90.85 rowband=19.25-20.82 (4 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/3/26",
+   "vendor_raw": "Venmo Transfer fee: Ryan Rogers",
+   "purpose": "Venmo Fee",
+   "amount": "4.29",
+   "confidence": "medium",
+   "geometry": "pct:81.91,19.48,9.00,1.63@p3",
+   "geometry_frame": "p3 axis=y cell=81.91-90.91 rowband=19.48-21.11 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the fee on the same-day 250.00 Rogers contribution; the filer names the contributor inside the payee cell and it is kept verbatim"
+  },
+  {
+   "line_no": "2",
+   "date": "6/9/26",
+   "vendor_raw": "Kents Market -cookies/water",
+   "purpose": "Candidate Meet",
+   "amount": "14.40",
+   "confidence": "medium",
+   "geometry": "pct:81.91,21.11,9.00,1.69@p3",
+   "geometry_frame": "p3 axis=y cell=81.91-90.91 rowband=21.11-22.80 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $ 520.00' on p2, equal to the cover's This Report cell ($520.00)",
+     "detail": "4 Form A rows (250.00 + 100.00 + 70.00 + 100.00) sum to 520.00 exactly = the schedule's printed total = the cover's This-Report column. Cumulative is 21,708.86 with 21,188.86 from the last report, and 21,188.86 + 520.00 = 21,708.86, so the cover's own arithmetic closes and the schedule is PERIOD-scoped (the 6/3-6/10 window only); the earlier cycle is not itemized here and nothing was synthesized by differencing covers. 2026 3-line variant, no separate <=$50 aggregate line. No in-kind rows, so both in-kind conventions agree."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 18.69' on p3, equal to the cover's This Report cell (18.69)",
+     "detail": "2 Form B rows (4.29 + 14.40) sum to 18.69 exactly = the schedule's printed total = the cover's This-Report column; 17,532.36 last + 18.69 this = 17,551.05 cumulative, so the cover closes and the schedule is period-scoped."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "Four 900 dpi tight --value crops, all A3 indexing proofs, two per schedule page: p2 row 1 rendered '$ 250.00' and row 4 rendered '$ 100.00'; p3 row 1 rendered '$ 4.29' and row 2 rendered '$ 14.40'. No legibility escalation was needed - both sides closed exactly on the first full-page read.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 6,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "TYPED 2026 filing with a HANDWRITTEN signature and date ('6-14-26'), June-16 Primary Election box checked; p1 cover, p2 Form A, p3 Form B - both schedules PORTRAIT on this filing, a third 2026 layout variant alongside the landscape county grid (Gibson) and the spreadsheet printouts (Bolos). The filer's Form A has no shaded spacer row while the Form B does, so the two frames trim different numbers of leading bands - the kind of within-filing difference that an assumed band offset would get wrong. PRIVACY: the county blacked out the candidate's STREET line on the cover but left 'Ogden, 84404' printed; Form A carries no street column at all - the filer typed only 'City, ST' in the Address column, so donor_city/donor_state are complete and nothing was withheld from a donor row. Every donor is a Weber County west-side locality (Warren, Plain City, Hooper). This is a small campaign in a large account: 520.00 raised in this period against a 21,708.86 cumulative."
+  }
+ }
 }

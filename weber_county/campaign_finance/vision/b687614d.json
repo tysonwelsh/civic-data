@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:04:40Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Chris Allred",
  "office_stated": "Weber County Attorneys Office",
  "report_type_stated": "October 21st - 28th",
@@ -49,5 +49,239 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed form. '-' is the filer's own nil marker, retained verbatim; NOT transcribed as 0."
+ "notes": "Typed form. '-' is the filer's own nil marker, retained verbatim; NOT transcribed as 0.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "donor_raw": "Gordon T. Allred",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:79.74,84.81,3.17,10.19@p3",
+   "geometry_frame": "p3 axis=x cell=84.81-95.00 rowband=79.74-82.91 (1 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+  },
+  {
+   "line_no": "2",
+   "donor_raw": "David Wilson",
+   "donor_city": "West Haven",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:76.60,84.81,3.14,10.19@p3",
+   "geometry_frame": "p3 axis=x cell=84.81-95.00 rowband=76.60-79.74 (2 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+  },
+  {
+   "line_no": "3",
+   "donor_raw": "Branden Miles",
+   "donor_city": "West Point",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:73.46,84.81,3.14,10.19@p3",
+   "geometry_frame": "p3 axis=x cell=84.81-95.00 rowband=73.46-76.60 (3 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+  },
+  {
+   "line_no": "4",
+   "donor_raw": "Aaron Allred",
+   "donor_city": "Garland",
+   "donor_state": "TX",
+   "amount": "200.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:70.32,84.81,3.14,10.19@p3",
+   "geometry_frame": "p3 axis=x cell=84.81-95.00 rowband=70.32-73.46 (4 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window. the only out-of-state donor on this filing"
+  },
+  {
+   "line_no": "5",
+   "donor_raw": "Chris Allred (Loan to Campaign Fund)",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "2367.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:67.12,84.81,3.20,10.19@p3",
+   "geometry_frame": "p3 axis=x cell=84.81-95.00 rowband=67.12-70.32 (5 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window. the CANDIDATE's own loan; the filer wrote the characterisation '(Loan to Campaign Fund)' inside the name cell and it is kept verbatim - it is reported as a contribution on Form A, not carried as debt, and this record does not reclassify it"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "4/9/2013",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Lincoln Day Dinner Sponsor",
+   "amount": "500.00",
+   "confidence": "medium",
+   "geometry": "pct:77.86,86.06,3.06,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=77.86-80.92 (1 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "4/9/2013",
+   "vendor_raw": "Wright Signs",
+   "purpose": "Campaign Signs",
+   "amount": "153.33",
+   "confidence": "medium",
+   "geometry": "pct:74.81,86.06,3.05,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=74.81-77.86 (2 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "2/18/2014",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Lincoln Day Dinner Sponsor",
+   "amount": "500.00",
+   "confidence": "medium",
+   "geometry": "pct:71.76,86.06,3.05,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=71.76-74.81 (3 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "3/14/2014",
+   "vendor_raw": "Bell Printing & Design",
+   "purpose": "Campaign Brochures/Cards",
+   "amount": "466.36",
+   "confidence": "medium",
+   "geometry": "pct:68.64,86.06,3.12,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=68.64-71.76 (4 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "3/14/2014",
+   "vendor_raw": "Weber County",
+   "purpose": "Candidate Filing Fee",
+   "amount": "678.00",
+   "confidence": "medium",
+   "geometry": "pct:65.59,86.06,3.05,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=65.59-68.64 (5 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "3/18/2014",
+   "vendor_raw": "TSI Specialties",
+   "purpose": "Campaign T shirts",
+   "amount": "240.75",
+   "confidence": "medium",
+   "geometry": "pct:62.48,86.06,3.11,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=62.48-65.59 (6 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "3/25/2013",
+   "vendor_raw": "Weber County",
+   "purpose": "Precinct Map",
+   "amount": "20.00",
+   "confidence": "medium",
+   "geometry": "pct:59.42,86.06,3.06,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=59.42-62.48 (7 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer dated this row 3/25/2013 between two 3/2014 rows - well-formed but out of sequence; kept verbatim, not repaired"
+  },
+  {
+   "line_no": "8",
+   "date": "3/27/2014",
+   "vendor_raw": "Bell Printing & Design",
+   "purpose": "Campaign Brochures/Fliers",
+   "amount": "565.83",
+   "confidence": "medium",
+   "geometry": "pct:56.31,86.06,3.11,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=56.31-59.42 (8 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "9",
+   "date": "3/31/2014",
+   "vendor_raw": "Wright Signs",
+   "purpose": "Campaign Signs",
+   "amount": "479.33",
+   "confidence": "medium",
+   "geometry": "pct:53.26,86.06,3.05,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=53.26-56.31 (9 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "10",
+   "date": "3/31/2014",
+   "vendor_raw": "USPS",
+   "purpose": "Postage for fliers",
+   "amount": "313.60",
+   "confidence": "medium",
+   "geometry": "pct:50.23,86.06,3.03,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=50.23-53.26 (10 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "11",
+   "date": "4/12/2014",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Convention Booth",
+   "amount": "150",
+   "confidence": "medium",
+   "geometry": "pct:47.18,86.06,3.05,10.44@p2",
+   "geometry_frame": "p2 axis=x cell=86.06-96.50 rowband=47.18-50.23 (11 of 11 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer wrote '$150' with no cents; kept verbatim"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17 - INDEPENDENT RE-READ, addendum section C)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1. of report): 4,067.20' on p3, equal to the cover's LINE 1 cells (Totals for This Report 4,067.20 = Cumulative 4,067.20)",
+     "detail": "5 Form A rows (1,000.00 + 250.00 + 250.00 + 200.00 + 2,367.20) sum to 4,067.20 exactly = the schedule's printed total = the cover's line-1 This-Report and Cumulative cells, which are equal because the Last Report column is the filer's own '-' nil mark throughout (this is the filer's first report of the cycle). THE LINE-1/LINE-2 BASIS RULE: this is the 4-line form, so Form A itemizes only line 1 (donors above $50) and the residual against the published stated_total_contributions would be line 2 - but here line 2 (the <=$50 aggregate) is also printed '-', a NIL MARK, so there is no residual at all and no unitemized remainder to explain. Per the zero-glyph ruling the '-' cells stay BLANK, never 0. No in-kind rows are labelled, so both in-kind conventions give the same figure."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 3. of report): 4,067.20' on p2, equal to the cover's line-3 cells (This Report 4,067.20 = Cumulative 4,067.20)",
+     "detail": "11 Form B rows (500.00 + 153.33 + 500.00 + 466.36 + 678.00 + 240.75 + 20.00 + 565.83 + 479.33 + 313.60 + 150 = 4,067.20) sum exactly to the schedule's printed total = the cover's line-3 This-Report and Cumulative cells. The campaign raised and spent the identical figure and the cover's line-4 ending balance is the filer's '-' nil mark, kept blank."
+    }
+   },
+   "escalations": 7,
+   "escalation_note": "Seven crops. THREE were exploratory and are the reason this filing took longer than its 16 rows suggest: both schedules are rotated sheets on which the ROWS RUN RIGHT-TO-LEFT in the rendered page (row 1 is at the RIGHT edge, next to the header strip), which no other filing in this chunk does, and my first two probes at the left-hand bands came back blank because I had assumed the usual left-to-right order. A full-width strip crop of the amount column (pct:0,80,100,20@p2) settled the orientation by showing all eleven amounts descending right-to-left. FOUR were A3 proofs, two per schedule page: p2 row 1 rendered '$500.00' and row 11 rendered '$150'; p3 row 1 rendered '$1,000.00' and row 5 rendered '$2,367.20'. No legibility escalation was needed - both sides closed exactly on the first full-page read.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 11,
+   "geometry": {
+    "measured": 16,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "RE-DO under addendum section C: this is an INDEPENDENT second read. The withdrawn 2026-08-14 record was not opened and no value in it was consulted; the pages were read fresh and the geometry re-derived from scratch (which is how the right-to-left row order was found rather than inherited). 2014 4-line form variant, typed schedules with a handwritten signature/date ('Oct. 27 '14'); p1 cover, p2 FORM B and p3 FORM A - PAGE ORDER IS NOT FORM ORDER on this filing, exactly the trap the brief warns about, and each page was classified from its own printed header. The filer's '-' nil marks in the Last Report column and on lines 2 and 4 are kept BLANK, never 0 (the weber-dash-nil control). FORM A CARRIES NO DATES AT ALL: the Date column is empty on all five rows, so no date is recorded and none was inferred from the report window. PRIVACY: Form A prints full donor street addresses in the clear (this 2014 wayback copy is unredacted, unlike the 2024/2026 county scans) - they are NOT carried; city and state only, including the one Texas donor. Two filer quirks kept verbatim: an expenditure written '$150' with no cents, and an expenditure dated 3/25/2013 sitting between two March-2014 rows. The candidate's own 2,367.20 loan is reported as a Form A contribution by the filer and is left where the filer put it."
+  }
+ }
 }

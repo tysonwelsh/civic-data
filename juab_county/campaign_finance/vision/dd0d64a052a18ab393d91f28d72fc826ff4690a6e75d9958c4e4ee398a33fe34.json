@@ -1,0 +1,80 @@
+{
+ "sha256": "dd0d64a052a18ab393d91f28d72fc826ff4690a6e75d9958c4e4ee398a33fe34",
+ "source_pdf": "raw/juab_2014_Nephi/Robertgarrett_Nephi_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Nephi/Robertgarrett_Nephi_Juab.pdf",
+   "candidate": "Robert Garrett",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [
+  {
+   "date": "10.23.14",
+   "payee": "Salt Creek Signs",
+   "purpose": "Signs",
+   "amount": "750.00",
+   "confidence": "high",
+   "note": "the filer SWAPPED the payee and purpose columns: 'Signs' is written in the payee column and 'Salt Creek Signs' in the purpose column. Transcribed to the correct fields with the swap recorded.",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.81,79.50,2.09@p2",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10.23.14",
+   "payee": "Times News",
+   "purpose": "Printing",
+   "amount": "800.00",
+   "confidence": "high",
+   "note": "same column swap: 'Printing' in the payee column, 'Times, News' in the purpose column",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.90,79.50,2.09@p2",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "unknown",
+     "reason": "DOCUMENTED NO-SCHEDULE-PAGE GAP: the county's 2-page scan holds the cover and Form B only \u2014 the Form A page does not exist in the document. The cover states $100.00 (>$50) + $150.00 (aggregate <=$50) = $250.00 of contributions with no schedule to transcribe. Honest non-existence, never a zero."
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "1550.00",
+     "basis": "line 3 of the TOTALS FROM LAST REPORT column (this filer, like Anderson, entered everything in that column)"
+    }
+   },
+   "pages_read": [
+    1,
+    2
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form B (the document's Form A page is absent \u2014 the retained page prints 'Page 3')"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2014_Nephi/Robertgarrett_Nephi_Juab.pdf|p2": 14.809
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "COLUMN-PLACEMENT ERROR retained verbatim; the stated_* columns stay blank in the derived CSV as the totals tranche left them."
+  }
+ }
+}

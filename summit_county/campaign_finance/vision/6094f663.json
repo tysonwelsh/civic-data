@@ -52,6 +52,205 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten header. Surname on the form face reads BLOCK (the county listing and DocumentCenter filename say Brock); transcribed as printed. Office Filed For = RECORDER/SURVEYOR, Party = WRITE-IN — legible, resolves the previously-unresolved office."
+ "itemized_transcribed": true,
+ "notes": "Handwritten header. Surname on the form face reads BLOCK (the county listing and DocumentCenter filename say Brock); transcribed as printed. Office Filed For = RECORDER/SURVEYOR, Party = WRITE-IN — legible, resolves the previously-unresolved office.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-08-14",
+   "donor_raw": "$50 or less donor",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:17.54,25.68,60.70,1.90@p2",
+   "geometry_fit": "measured",
+   "note": "the form's aggregate line for sub-$50 giving, not a named donor; Mailing Address and Zipcode left empty by the filer",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 2,
+   "date": "2014-08-25",
+   "donor_raw": "$50 or less donor",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:17.54,27.58,60.70,1.90@p2",
+   "geometry_fit": "measured",
+   "note": "aggregate sub-$50 line, as above",
+   "page": 2,
+   "band": 6
+  },
+  {
+   "line_no": 3,
+   "date": "2014-08-11",
+   "donor_raw": "Walter Brock",
+   "donor_city": "Coalville",
+   "donor_state": "UT",
+   "amount": "2592.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:17.54,29.49,60.70,1.95@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate himself",
+   "page": 2,
+   "band": 7
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-07-30",
+   "vendor_raw": "Summit County",
+   "purpose": "GIS GRAMA Request",
+   "amount": "16.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,25.36,82.00,2.22@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "",
+   "vendor_raw": "Go Daddy",
+   "purpose": "URL Purchase",
+   "amount": "1.17",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,27.24,82.00,2.24@p3",
+   "geometry_fit": "measured",
+   "note": "date printed verbatim as '8//2014' - the DAY is missing on the form. Left BLANK rather than completed; the amount cell also omits the dollar sign that every other row carries",
+   "page": 3,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2014-08-04",
+   "vendor_raw": "Summit County",
+   "purpose": "Write-in Fee",
+   "amount": "781.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,29.14,82.00,2.24@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 6
+  },
+  {
+   "line_no": 4,
+   "date": "2014-08-06",
+   "vendor_raw": "Imaginos",
+   "purpose": "T Shirts, Business Cards, Signs",
+   "amount": "1193.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,31.05,82.00,2.26@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 7
+  },
+  {
+   "line_no": 5,
+   "date": "2014-08-08",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "70.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,32.98,82.00,2.19@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 8
+  },
+  {
+   "line_no": 6,
+   "date": "2014-08-12",
+   "vendor_raw": "Karsten Moench",
+   "purpose": "Web Site Creation",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.65,34.84,82.00,2.24@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 9
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "2662.89",
+    "itemized": "2662.89",
+    "result": "exact",
+    "detail": "exact - 50.00 + 20.00 + 2,592.89 = 2,662.89; both printed boxes reproduce"
+   },
+   "expenditures": {
+    "stated": "2662.89",
+    "itemized": "2662.89",
+    "result": "exact",
+    "detail": "exact - 16.50 + 1.17 + 781.03 + 1,193.69 + 70.50 + 600.00 = 2,662.89"
+   }
+  },
+  "page_gates": "p2 boxes '>$50 $2,592.89' and '<=$50 $70.00'; the three real rows sum to 2,662.89 AND partition exactly (2,592.89 / 50.00 + 20.00 = 70.00), so both boxes gate independently. p3 box 'Total amount of expenditures $2,662.89'; the six real rows sum to 2,662.89. THE FILER HIGHLIGHTED THE FORM'S SPECIMEN ROW IN YELLOW ON BOTH PAGES - the clearest possible confirmation that 'Jon and Jane Doe' $435.00 and 'Name of Business' $512.00 are the printed example, not transactions.",
+  "escalations": 0,
+  "n_contrib_rows": 3,
+  "n_expend_rows": 6,
+  "geometry": {
+   "measured": 9,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed sheets. The candidate self-funded the whole campaign (his own $2,592.89 plus two aggregate sub-$50 gifts) and spent it to the cent, hence the $0.00 balance. TWO rows record the sub-$50 aggregate as an unnamed 'donor' - a form convention, not a redaction and not a real donor name; kept verbatim and flagged. One expenditure date is printed '8//2014' with NO DAY: the date is left BLANK per the strict-date rule and the verbatim string is in the row note, never completed from context. 'Write-in Fee $781.03' is the county filing fee."
+ }
 }

@@ -1,0 +1,12 @@
+{"key": "b3e6d32e",
+ "frames": {
+   "3": {"axis": "x",
+         "cell": [86.17, 96.92],
+         "cells": [[2.85, 11.05], [11.05, 56.49], [56.49, 67.24], [67.24, 79.52], [79.52, 80.46], [80.46, 86.17], [86.17, 96.92]],
+         "rows": [[78.16, 81.56], [75.07, 78.16]],
+         "measure_note": "Rotated landscape Form B; rows advance along X and run HIGH-x to LOW-x (row 1 is the rightmost band), so the row list descends. Row bands taken verbatim from rowbands.py v_rules_pct on p3 (78.16/81.21 and 75.04/78.16, printed grid, regular 3.06 pitch) - the withdrawn frame's ROW list was already correct and only the leading non-data bands question did not arise (both transcribed rows sit at the head of the table). THE WITHDRAWN DEFECT WAS THE `cell` COLUMN: it stored [11.05,56.49], the Person-or-Organization column, so every pointer aimed at the vendor name. Weber Form B's Amount column is the LAST printed column: h_rules_pct gives its band as [86.17,96.92] (confirmed against the full-page read - Date [2.85,11.05], Person [11.05,56.49], City [56.49,67.24], Purpose [67.24,79.52], Amount last). rowbands.py defect (2) header/spacer band: not hit here. Defect (1) text baselines: h_rules on this typed sheet does carry baselines (51 rules for 7 columns), so the column bands were selected against the full-page image, not taken blindly. PROOF: 900 dpi --value crops from the geometry stored here rendered '-500' for p3 row 1 (recorded -500.00) and '270' for p3 row 2 (recorded 270.00).",
+         "n_rows_transcribed": 2}
+ },
+ "proof": "p3: first-row crop pct:78.16,86.17,3.40,10.75@p3 rendered '-500' (recorded -500.00); last-row crop pct:75.07,86.17,3.09,10.75@p3 rendered '270' (recorded 270.00). Both are the only transcribed rows on the filing, so every row is proved.",
+ "unmeasurable": {}
+}

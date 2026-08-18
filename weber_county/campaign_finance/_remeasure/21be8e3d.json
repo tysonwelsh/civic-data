@@ -1,0 +1,213 @@
+{
+ "key": "21be8e3d",
+ "frames": {
+  "2": {
+   "axis": "x",
+   "cell": [
+    8.18,
+    18.91
+   ],
+   "cells": [
+    [
+     8.18,
+     18.91
+    ],
+    [
+     18.91,
+     61.16
+    ],
+    [
+     61.16,
+     84.17
+    ],
+    [
+     84.17,
+     92.32
+    ]
+   ],
+   "rows": [
+    [
+     16.68,
+     19.82
+    ],
+    [
+     19.82,
+     22.96
+    ],
+    [
+     22.96,
+     26.1
+    ],
+    [
+     26.1,
+     29.27
+    ],
+    [
+     29.27,
+     32.44
+    ],
+    [
+     32.44,
+     35.58
+    ],
+    [
+     35.58,
+     38.67
+    ],
+    [
+     38.67,
+     41.72
+    ],
+    [
+     41.72,
+     44.77
+    ],
+    [
+     44.77,
+     47.8
+    ],
+    [
+     47.8,
+     50.85
+    ],
+    [
+     50.85,
+     53.88
+    ],
+    [
+     53.88,
+     56.93
+    ],
+    [
+     56.93,
+     60.01
+    ],
+    [
+     60.01,
+     63.07
+    ],
+    [
+     63.07,
+     66.12
+    ],
+    [
+     66.12,
+     69.2
+    ]
+   ],
+   "measure_note": "Form A (contributions), rotated landscape sheet; rows advance along X LOW-to-HIGH. rowbands.py is USELESS on this filing - it returned only ONE v_rule on p2 and one on p3 (the table's printed row rules do not survive its full-length dark-run test on this scan), and the withdrawn frame's row list was therefore built from text bands, with irregular pitch. RE-MEASURED by scanning the 200 dpi raster directly for dark vertical runs RESTRICTED TO THE AMOUNT COLUMN's y-band (8.5-18.5 pct), where the grid is clean: that returns a fully regular 3.09-pitch series 8.02, 10.48, 13.56, 16.68, 19.82 ... 69.20, 72.14. The leading 8.02/10.48 (table head) and 10.48/13.56 (header labels) and 13.56/16.68 (shaded spacer band) were TRIMMED; the remaining series gives EXACTLY 17 data bands for the 17 transcribed rows, and the 18th (69.20-72.14) is the first blank row. Column bands from an equivalent horizontal scan restricted to the data-row x-range: [8.18,18.91] Amount, [18.91,61.16] Address, [61.16,84.17] Name, [84.17,92.32] Date. THE WITHDRAWN DEFECT ON THIS PAGE WAS `cell`: it stored [18.91,61.18], the ADDRESS column - which would also have exposed donor street addresses through a published pointer, which PRIVACY forbids. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 75.00' for row 1 (recorded 75.00) and '$ 100.00' for row 17 (recorded 100.00).",
+   "n_rows_transcribed": 17
+  },
+  "3": {
+   "axis": "x",
+   "cell": [
+    4.72,
+    15.42
+   ],
+   "cells": [
+    [
+     4.72,
+     15.42
+    ],
+    [
+     15.42,
+     47.88
+    ],
+    [
+     47.88,
+     58.59
+    ],
+    [
+     58.59,
+     87.27
+    ],
+    [
+     87.27,
+     95.42
+    ]
+   ],
+   "rows": [
+    [
+     18.76,
+     21.81
+    ],
+    [
+     21.81,
+     24.87
+    ],
+    [
+     24.87,
+     27.98
+    ],
+    [
+     27.98,
+     31.03
+    ],
+    [
+     31.03,
+     34.15
+    ],
+    [
+     34.15,
+     37.2
+    ],
+    [
+     37.2,
+     40.25
+    ],
+    [
+     40.25,
+     43.31
+    ],
+    [
+     43.31,
+     46.36
+    ],
+    [
+     46.36,
+     49.41
+    ],
+    [
+     49.41,
+     52.47
+    ],
+    [
+     52.47,
+     55.46
+    ],
+    [
+     55.46,
+     58.51
+    ],
+    [
+     58.51,
+     61.57
+    ],
+    [
+     61.57,
+     64.68
+    ],
+    [
+     64.68,
+     67.76
+    ],
+    [
+     67.76,
+     70.82
+    ],
+    [
+     70.82,
+     73.9
+    ],
+    [
+     73.9,
+     76.92
+    ]
+   ],
+   "measure_note": "Form B (expenditures), same rotation, same rowbands.py failure (one v_rule detected). Re-measured by the same restricted raster scan (Amount-column y-band 5.0-15.0 pct): 8.16, 10.66, 15.62, 18.76, 21.81 ... 76.92, 79.86. THE ROW LIST WAS THE WITHDRAWN DEFECT HERE - the old list was text-derived, irregular (bands of 1.35 and 1.70 pct among bands of 3.05) and started in the wrong place. NOTE the trim is NOT the same as p2's and could not be derived from it by analogy: p3's spacer gap 10.66-15.62 is 4.96 pct wide (a wide shaded band, not a row) and the first DATA rule is 18.76, confirmed against the full-page read (row 1's 295.46 sits at 20.0-20.9 pct). Trimming 8.16/10.66 (head), 10.66/15.62 (header labels) and 15.62/18.76 (spacer) leaves EXACTLY 19 data bands for the 19 transcribed rows, the 20th (76.92-79.86) being the first blank row. Columns from a horizontal scan: [4.72,15.42] Amount (last printed column), [15.42,47.88] Purpose, [47.88,58.59] City, [58.59,87.27] Person, [87.27,95.42] Date. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 295.46' for row 1 (recorded 295.46) and '$ 247.08' for row 19 (recorded 247.08).",
+   "n_rows_transcribed": 19
+  }
+ },
+ "proof": "p2: first-row crop pct:16.68,8.18,3.14,10.73@p2 rendered '$ 75.00' (recorded 75.00); last-row crop pct:66.12,8.18,3.08,10.73@p2 rendered '$ 100.00' (recorded 100.00). p3: first-row crop pct:18.76,4.72,3.05,10.70@p3 rendered '$ 295.46' (recorded 295.46); last-row crop pct:73.90,4.72,3.02,10.70@p3 rendered '$ 247.08' (recorded 247.08).",
+ "unmeasurable": {}
+}

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:43:43Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Michael Nyron Thomas",
  "office_stated": "County Commissioner Seat B",
  "report_type_stated": "7 days before the candidates' convention - Convention",
@@ -44,5 +44,284 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED summary with a HANDWRITTEN correction: the ending-balance cells were typed 1995.76, then struck through and replaced with a handwritten 0 initialled 'MT'. The corrected value (0) is transcribed; the struck 1995.76 is recorded here. County-redacted address."
+ "notes": "2026 form variant, TYPED summary with a HANDWRITTEN correction: the ending-balance cells were typed 1995.76, then struck through and replaced with a handwritten 0 initialled 'MT'. The corrected value (0) is transcribed; the struck 1995.76 is recorded here. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1-7",
+   "donor_raw": "Michael Thomas",
+   "amount": "931.39",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,16.95,10.66,3.19@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=16.95-20.14 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('1-7') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  },
+  {
+   "line_no": "2",
+   "date": "3-17",
+   "donor_raw": "Michael Thomas",
+   "amount": "13.19",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,20.14,10.66,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=20.14-23.32 (3 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-17') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  },
+  {
+   "line_no": "3",
+   "date": "3-19",
+   "donor_raw": "Michael Thomas",
+   "amount": "12.95",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,23.32,10.66,3.19@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=23.32-26.51 (4 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-19') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  },
+  {
+   "line_no": "4",
+   "date": "3-24",
+   "donor_raw": "Michael Thomas",
+   "amount": "248.88",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,26.51,10.66,3.19@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=26.51-29.70 (5 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-24') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  },
+  {
+   "line_no": "5",
+   "date": "3-31",
+   "donor_raw": "Michael Thomas",
+   "amount": "339.99",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,29.70,10.66,3.19@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=29.70-32.89 (6 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-31') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  },
+  {
+   "line_no": "6",
+   "date": "4-1",
+   "donor_raw": "Michael Thomas",
+   "amount": "449.36",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:85.50,32.89,10.66,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=85.50-96.16 rowband=32.89-36.07 (7 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('4-1') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1-7",
+   "vendor_raw": "Weber County Elections",
+   "purpose": "Run for Commissioner",
+   "amount": "931.39",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,33.47,10.68,3.29@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=33.47-36.76 (2 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'Ogden' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+  },
+  {
+   "line_no": "2",
+   "date": "3-17",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Purchase Domain",
+   "amount": "13.19",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,36.76,10.68,3.42@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=36.76-40.18 (3 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "3",
+   "date": "3-19",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Domain Protection",
+   "amount": "12.95",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,40.18,10.68,3.35@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=40.18-43.53 (4 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "4",
+   "date": "3-24",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Web Hosting",
+   "amount": "83.88",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,43.53,10.68,3.35@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=43.53-46.88 (5 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "5",
+   "date": "3-24",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Table and Lunch",
+   "amount": "165.00",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,46.88,10.68,3.36@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=46.88-50.24 (6 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "6",
+   "date": "3-31",
+   "vendor_raw": "Signs on the Cheap",
+   "purpose": "Business Cards, Yard Signs",
+   "amount": "339.99",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,50.24,10.68,3.41@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=50.24-53.65 (7 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "7",
+   "date": "4-1",
+   "vendor_raw": "Signs on the Cheap",
+   "purpose": "Business Cards",
+   "amount": "139.43",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,53.65,10.68,3.41@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=53.65-57.06 (8 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  },
+  {
+   "line_no": "8",
+   "date": "4-1",
+   "vendor_raw": "Sam's Club",
+   "purpose": "Fruit by the Foot for Meet a",
+   "amount": "134.29",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,57.06,10.68,3.35@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=57.06-60.41 (9 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "PURPOSE IS CLIPPED IN THE SOURCE: the spreadsheet print cuts the text at the column boundary and it reads 'Fruit by the Foot for Meet a' with the rest of the phrase lost. The page has NO text layer (this is a scan), so the clipped text does not exist anywhere in the document; what is printed is transcribed and nothing is completed or guessed. City column prints 'Layton' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+  },
+  {
+   "line_no": "9",
+   "date": "4-1",
+   "vendor_raw": "Sam's Club",
+   "purpose": "Cardstock for printing on",
+   "amount": "15.01",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,60.41,10.68,3.35@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=60.41-63.76 (10 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'Riverdale' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+  },
+  {
+   "line_no": "10",
+   "date": "4-1",
+   "vendor_raw": "WalMart",
+   "purpose": "Stapler and Staples",
+   "amount": "10.63",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,63.76,10.68,3.30@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=63.76-67.06 (11 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'Riverdale' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+  },
+  {
+   "line_no": "11",
+   "date": "4-1",
+   "vendor_raw": "Internet Sherlock",
+   "purpose": "Website Builder",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:75.05,67.06,10.68,3.41@p3",
+   "geometry_frame": "p3 axis=y cell=75.05-85.73 rowband=67.06-70.47 (12 of 18 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3,4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report): 1,995.76'",
+     "detail": "the 6 Form A rows (931.39 + 13.19 + 12.95 + 248.88 + 339.99 + 449.36) sum to 1,995.76 = the schedule's own printed total = BOTH the cover's 'This Report' cell and its 'Cumulative Total' cell on line 1. The cover's 'Last Report' column is entirely EMPTY (this is the filer's first report of the cycle, the 7-days-before-convention box), so this-report and cumulative coincide and the verdict is exact rather than period-exact."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of ...): 1,995.76', printed on the schedule's SECOND sheet (p4)",
+     "detail": "CONTINUATION-SHEET GATE: Form B runs over two sheets - p3 carries all 11 entries with NO subtotal, p4 carries six empty printed rows and the grand total alone - so the gate is the multi-sheet sum against that grand total. The 11 rows (931.39 + 13.19 + 12.95 + 83.88 + 165.00 + 339.99 + 139.43 + 134.29 + 15.01 + 10.63 + 150.00) sum to 1,995.76 = the printed total = the cover's This Report cell = its Cumulative cell (Last Report empty)."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "One coverage-restricted rule probe below the redaction bar to recover p2's column rules and its sub-bar row pitch, then four 900 dpi raster crops (make_snippet cannot be used on these pages - see the frames' measure_note): p2 row 2 and p2 row 7, which are the FIRST and LAST data rows of the EXTRAPOLATED part of that page's grid and reproduce 931.39 and 449.36, proving the extrapolation; and p3 rows 2 and 12, which reproduce 931.39 and 150.00. No legibility escalation was needed - both schedules are born-typed and crisp.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 11,
+   "geometry": {
+    "measured": 17,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2026-cycle filing, four pages: p1 = the county's new cover (TYPED, the '7 days before the candidates' convention' box marked X, signed 4-2-2026), p2 = Form A, p3 = Form B sheet 1 (all 11 entries), p4 = Form B sheet 2 (six empty printed rows plus the grand total alone). All three schedule pages are TRUE LANDSCAPE carrying /Rotate 270 - with Katrina Gibson's filing (/Rotate 90) these are the only rotated pages in this chunk, and they are the reason the shared make_snippet crop tool could not be used for verification here. FILER CORRECTION HONORED ON THE COVER: the Ending Balance cells were typed 1,995.76, then struck through and replaced with a handwritten slashed-zero initialled 'MT'; the corrected value (0) governs and the struck 1,995.76 is recorded, per the handwritten-correction rule. The cover's 'Last Report' column is entirely blank - this is the filer's first report of the cycle - which is why both sides reconcile as exact rather than period-exact. THE CAMPAIGN IS ENTIRELY SELF-FUNDED AND PASS-THROUGH: every one of the six Form A rows is a contribution from the candidate himself, and each matches a same-dated Form B payment to the cent (931.39 filing fee, 13.19 / 12.95 GoDaddy, 248.88 = 83.88 + 165.00 on 3-24, 339.99 signs, 449.36 = 139.43 + 134.29 + 15.01 + 10.63 + 150.00 on 4-1) - contributions and expenditures both total 1,995.76 and the balance is zero. NO TRANSACTION DATE ON EITHER SCHEDULE CARRIES A YEAR (the filer wrote 1-7, 3-17, 3-19, 3-24, 3-31, 4-1); every one is kept verbatim, flagged, and NO year was inferred from the report date. The county REDACTED the candidate's street address and city/zip on the cover AND the entire Address column of Form A, so all six donor city/state values are honestly blank as county-redacted. No in-kind item is labelled anywhere. Neither schedule prints a per-page subtotal."
+  }
+ }
 }

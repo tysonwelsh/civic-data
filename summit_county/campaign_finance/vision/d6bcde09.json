@@ -52,6 +52,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "FORM-VARIANT NOTE: this 2022 filer used the OLDER split->$50/<=$50 sheet, not the 2022 single-total sheet — the two variants coexist in the 2022 cycle. The Last Report column carries this filer's 2018 Final figures ($2,584.54), i.e. a carried-over campaign balance across cycles. The cumulative expenditure cell prints $0.00 against $825.33 current — filer inconsistency, retained verbatim."
+ "itemized_transcribed": true,
+ "notes": "FORM-VARIANT NOTE: this 2022 filer used the OLDER split->$50/<=$50 sheet, not the 2022 single-total sheet — the two variants coexist in the 2022 cycle. The Last Report column carries this filer's 2018 Final figures ($2,584.54), i.e. a carried-over campaign balance across cycles. The cumulative expenditure cell prints $0.00 against $825.33 current — filer inconsistency, retained verbatim.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "donor_raw": "2014 Campaign",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2584.54",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:37.38,23.57,51.94,2.19@p2",
+   "geometry_fit": "measured",
+   "note": "carry-forward of prior-campaign money, not an outside donor. The Mailing Address column carries the filer's description 'Unspent funds from the 2018 campaign' instead of an address, and the Zipcode cell is empty; contributor name and description name different cycles (2014 vs 2018) and both are kept verbatim. This is the only >$50 itemized donor; the form's <=$50 aggregate box is $0.00.",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-28",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "File fees for Sheriff",
+   "amount": "825.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:38.90,23.41,50.06,2.14@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "2584.54",
+    "itemized": "2584.54",
+    "result": "exact",
+    "detail": "exact, and the split50 residual is ZERO: the ledger itemizes only donors >$50 (2,584.54, one row) and the form's <=$50 AGGREGATE box is $0.00, so itemized + aggregate = 2,584.54 = the module's stated total with nothing left over. This filing therefore does not exercise the usual split50 residual case - the structural gap the pre-2022 sheet normally leaves is empty here because the filer reported no small donors."
+   },
+   "expenditures": {
+    "stated": "825.33",
+    "itemized": "825.33",
+    "result": "exact",
+    "detail": "exact - 1 row (Summit County Clerk, 'File fees for Sheriff', 825.33) = the page's own boxed 'Total amount of expenditures' AND the cover's current-report figure. Note the cover's expenditure CUMULATIVE cell reads $0.00 while its current cell reads $825.33; that is the filer's own cover arithmetic and is untouched here - the schedule's printed box is the gate this side is judged against, and 2,584.54 - 825.33 = 1,759.21 reproduces the cover's stated balance independently."
+   }
+  },
+  "page_gates": "p2 is the PRE-2022 split50 ITEMIZED CONTRIBUTION REPORT and prints TWO boxed totals above the grid: 'Total amount from donors giving more than $50' = $2,584.54 and 'Total amount from donors giving $50 or less' = $0.00. The one itemized row reproduces the >$50 box to the cent, and the filer also typed a loose '$2,584.54' in the Amount column nine rows down as an unlabelled schedule total - so the side closes three ways (row, >$50 box, loose total) and again against the module's stated 2,584.54. p3 ITEMIZED EXPENSE REPORT prints its boxed 'Total amount of expenditures $825.33' and the single row reproduces it, matching the cover. NEITHER page carries a specimen row - the split50 printing does not include the Jon-and-Jane-Doe example, so nothing had to be dropped here.",
+  "escalations": 2,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "TYPED, CLEAN SCAN, and the one filing in this chunk on the OLD PRE-2022 split50 SHEET - every other 2022 filing here uses the 2022 single_total sheet. The form variant was read off the page (the two boxed totals and the '$50 or less' instruction line), never inferred from the cycle. THE SUBSTANTIVE ROW IS NOT A DONOR IN THE ORDINARY SENSE: the single contribution line is the campaign's own carry-forward - Name of Contributor '2014 Campaign', Mailing Address column used as a description, 'Unspent funds from the 2018 campaign', $2,584.54, dated 2/28/22 (the Summit filing week). The filer names TWO different prior cycles in the same row (contributor '2014 Campaign', description 'the 2018 campaign'); both are kept verbatim, the inconsistency is the document's, and no attempt is made to decide which cycle the money came from. No city or state appears anywhere in that row and the Zipcode cell is empty - the address column holds a sentence, not an address - so donor_city/donor_state are honestly BLANK. This filing is NOT redacted: the address column is intact and simply carries prose. GEOMETRY is MEASURED on both pages (p2 band 2, p3 band 3, both crop-verified to reproduce the row and its amount) with one honest limitation to record: this scan's left-hand vertical rules do not survive detection, so the measured boxes begin at the Mailing Address / Purpose column (37.4% on p2, 38.9% on p3) and frame the right-hand half of the row - the vertical extent is exact and indexes the correct row, but a crop from the stored geometry shows the description and the amount, not the date and name columns. draft.py returned no text lines for either page (no usable OCR layer on this scan) so both pages were read full-page at 200 dpi."
+ }
 }

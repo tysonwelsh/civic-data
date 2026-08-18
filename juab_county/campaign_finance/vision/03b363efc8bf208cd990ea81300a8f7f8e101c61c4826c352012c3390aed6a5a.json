@@ -1,0 +1,184 @@
+{
+ "sha256": "03b363efc8bf208cd990ea81300a8f7f8e101c61c4826c352012c3390aed6a5a",
+ "source_pdf": "raw/juab_2010_primary/Craig_Sperry_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Craig_Sperry_10-28-10.pdf",
+   "candidate": "Craig J. Sperry",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "8-10-10",
+   "donor": "Juab County Democratic Comm.",
+   "address": "345 N. 900 E. Nephi 84648",
+   "amount": "125.00",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,9.36,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-15-10",
+   "donor": "Kevin Ockey",
+   "address": "5364 E HWY 132 Nephi 84648",
+   "amount": "100.00",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.68,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "9/9/10",
+   "payee": "Salt Creek Signs",
+   "purpose": "Signs",
+   "amount": "1190.00",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,9.27,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "3/15/10",
+   "payee": "Juab County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "225.89",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.59,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/5/10",
+   "payee": "Salt Lake Printing Co.",
+   "purpose": "Brochures",
+   "amount": "351.78",
+   "confidence": "medium",
+   "note": "final cent bistable at 200 dpi; settled by the schedule's closure to the stated 2694.63",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:5.00,13.91,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/11/10",
+   "payee": "The Times News",
+   "purpose": "Ads",
+   "amount": "400.00",
+   "confidence": "high",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:5.00,16.22,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/10",
+   "payee": "Gas stations",
+   "purpose": "Gas",
+   "amount": "100.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:5.00,18.54,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/10",
+   "payee": "Various",
+   "purpose": "misc. tape, postage",
+   "amount": "25.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:5.00,20.86,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "9/16/10",
+   "payee": "online sign purchase",
+   "purpose": "Signs",
+   "amount": "356.46",
+   "confidence": "high",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:5.00,23.18,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/25/10",
+   "payee": "The Times News",
+   "purpose": "Ads",
+   "amount": "45.50",
+   "confidence": "high",
+   "line_no": 8,
+   "printed_row": 8,
+   "geometry": "pct:5.00,25.49,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "225.00",
+     "basis": "line 1 (>$50) only \u2014 the filer STRUCK a third Form A entry (10-15-10, $20.00, no name) and carried that $20.00 on line 2 as an under-$50 aggregate instead"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "2694.63",
+     "basis": "line 3 cumulative"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Craig_Sperry_10-28-10.pdf|p2": 9.36,
+    "raw/juab_2010_primary/Craig_Sperry_10-28-10.pdf|p3": 9.269
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "The struck Form A row is recorded here and NOT emitted as a contribution row. Balance written in accounting parentheses (-2459.63), retained verbatim by the totals tranche."
+  }
+ }
+}

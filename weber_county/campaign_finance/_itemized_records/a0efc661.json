@@ -1,0 +1,387 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_f36d6ca9.pdf",
+  "page_start": 1,
+  "page_end": 4,
+  "key": "a0efc661",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 2)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "the schedule's own printed 'TOTAL' row on p3, 11,120.00, which equals the cover's 'This Report' Total Contributions cell (11,120.00)",
+    "detail": "5 itemized contribution rows sum to 500.00 + 5,000.00 + 500.00 + 120.00 + 5,000.00 = 11,120.00 EXACTLY, which is the TOTAL the filer printed at the foot of the same sheet and the cover's This-Report cell (handwritten on p1, retyped on the p2 summary sheet). The cover's Cumulative cell is 58,525.39 and its Last-Report cell 47,405.39 (47,405.39 + 11,120.00 = 58,525.39 exactly), so the schedule is PERIOD-scoped behind a cumulative cover -> period-exact. IN-KIND CONVENTION TESTED BOTH WAYS as the addendum requires: monetary-only (the three untagged/loan rows) sums to 10,500.00 and does NOT close; monetary-plus-in-kind sums to 11,120.00 and closes to the cent, so THIS FILER INCLUDES IN-KIND IN THE TOTALS and the two rows tagged 'in-kind' (Brandon Johnson 500.00, Lindley Richards 120.00) are kept in the sum. This is the 2026 3-line form: one combined contributions cell, no separate <=$50 aggregate, so the line-1/line-2 basis rule does not apply."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "the schedule's own printed 'TOTAL' row on p4, 10,338.94, which equals the cover's 'This Report' Total Campaign Expenditures cell (10,338.94)",
+    "detail": "9 itemized expenditure rows sum to 500.00 + 6,959.25 + 333.85 + 120.00 + 969.83 + 27.98 + 889.98 + 388.05 + 150.00 = 10,338.94 EXACTLY = the printed TOTAL = the cover's This-Report cell. Cumulative is 53,502.09 against a Last-Report 43,163.15 (43,163.15 + 10,338.94 = 53,502.09 exactly), so this side too is period-scoped -> period-exact. Line 3 closes on the filer's own arithmetic: 11,120.00 - 10,338.94 = 781.06, the printed This-Report ending balance. Note the DOUBLE ENTRY the in-kind convention produces: Brandon Johnson 500.00 and Lindley Richards 120.00 appear on BOTH schedules with the same date and amount - the in-kind good received and the same value spent - and both sides' printed totals require both, so neither is a duplicate to be dropped."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "4 tight --value crops, all GEOMETRY proofs under addendum A3; both schedules are TYPED and no amount needed a legibility escalation. NOTE ON DPI: these 2026 scans have an unusually large page box (2354 x 3041 pts) carrying a 2354 x 3041 px image, so a 900 dpi render is a ~12x upsample and came back BLANK - the crops were taken at 200 dpi, which is already ~2.8x the stored pixels. p3 row 1 -> 500.00 and p3 row 9 -> 5,000.00 (first and last transcribed contribution); p4 row 1 -> 500.00 and p4 row 17 -> 150.00 (first and last transcribed expenditure). Each rendered the amount recorded for that row. The first attempt at the p4 last-row crop used [49.51,51.45] and came back empty - that is row 18, the CITY line of the last entry - which is exactly the off-by-one the proof exists to catch; re-cropped at row 17 [47.61,49.51] it renders 150.00.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     55.8,
+     67.7
+    ],
+    "cells": [
+     [
+      20.0,
+      31.5
+     ],
+     [
+      31.5,
+      55.8
+     ],
+     [
+      55.8,
+      67.7
+     ],
+     [
+      67.7,
+      80.1
+     ]
+    ],
+    "rows": [
+     [
+      16.13,
+      18.27
+     ],
+     [
+      18.27,
+      20.37
+     ],
+     [
+      20.37,
+      22.38
+     ],
+     [
+      22.38,
+      24.35
+     ],
+     [
+      24.35,
+      26.3
+     ],
+     [
+      26.3,
+      28.23
+     ],
+     [
+      28.23,
+      30.11
+     ],
+     [
+      30.11,
+      32.03
+     ],
+     [
+      32.03,
+      33.93
+     ],
+     [
+      33.93,
+      35.7
+     ]
+    ],
+    "measure_note": "rowbands.py could not band this sheet: the table is ruled with FAINT DOTTED lines and the detector returned only 17 scattered rules with no regular pitch. The grid was measured instead from the page's own INK: a per-pixel-row dark-pixel projection over the Item column (31.5-55.8 pct) returns text lines at 17.20, 19.34, 21.40, 23.35, 25.34, 27.25, 29.21, 31.00, 33.05, 34.80 pct - ten data lines at a constant 1.96 pct pitch - and the same projection over the Amount column returns ink at 17.22, 21.28, 25.22, 29.10 and 32.97 only, i.e. on every OTHER line. That is the sheet's layout: each contribution occupies TWO printed rows, the name+amount line and a city line beneath it. The ten bands stored here are those ten printed data rows, with boundaries set midway between consecutive ink centres; the five recorded rows carry row = 1, 3, 5, 7, 9, the amount-bearing lines. The header block (8.62 'SHARON ARRINGTON BOLOS', 10.83 'Itemized Contribution Report', 13.0 'Date/Item/Amount') and the filer's TOTAL line at 38.73 are NOT data rows and were trimmed. Column bands are hand-measured off the printed vertical rules. PROVED with two --value crops: row 1 renders 500.00, row 9 renders 5,000.00."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     46.6,
+     58.7
+    ],
+    "cells": [
+     [
+      13.0,
+      25.3
+     ],
+     [
+      25.3,
+      46.6
+     ],
+     [
+      46.6,
+      58.7
+     ],
+     [
+      58.7,
+      71.0
+     ],
+     [
+      71.0,
+      87.2
+     ]
+    ],
+    "rows": [
+     [
+      15.9,
+      17.9
+     ],
+     [
+      17.9,
+      19.94
+     ],
+     [
+      19.94,
+      21.97
+     ],
+     [
+      21.97,
+      24.03
+     ],
+     [
+      24.03,
+      26.04
+     ],
+     [
+      26.04,
+      27.98
+     ],
+     [
+      27.98,
+      30.02
+     ],
+     [
+      30.02,
+      31.98
+     ],
+     [
+      31.98,
+      33.87
+     ],
+     [
+      33.87,
+      35.82
+     ],
+     [
+      35.82,
+      37.78
+     ],
+     [
+      37.78,
+      39.73
+     ],
+     [
+      39.73,
+      41.69
+     ],
+     [
+      41.69,
+      43.71
+     ],
+     [
+      43.71,
+      45.71
+     ],
+     [
+      45.71,
+      47.61
+     ],
+     [
+      47.61,
+      49.51
+     ],
+     [
+      49.51,
+      51.45
+     ]
+    ],
+    "measure_note": "Same sheet design and same method as p3. The Item-column ink projection returns 18 data text lines at 16.90, 18.90, 20.97, 22.96, 25.10, 26.98, 28.97, 31.06, 32.89, 34.84, 36.80, 38.75, 40.71, 42.67, 44.74, 46.68, 48.54, 50.48 pct (1.955 pct pitch), and the Amount-column projection returns ink on the odd ones only - nine entries, each two printed rows (vendor+amount line, then city line). Boundaries midway between consecutive centres; the nine recorded rows carry row = 1, 3, 5, 7, 9, 11, 13, 15, 17. Header rows (8.29, 10.48, 12.6) and the TOTAL line at 54.40 trimmed. PROVED with two --value crops: row 1 renders 500.00, row 17 renders 150.00 (and row 18, the neighbouring city line, renders empty - the off-by-one check)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "06/12/26",
+    "donor_raw": "Brandon Johnson",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tagged this row 'in-kind' in the right-hand tag column"
+   },
+   {
+    "line_no": "2",
+    "date": "06/12/26",
+    "donor_raw": "Sharon Bolos",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "filer tagged this row 'loan' in the right-hand tag column; the candidate's own loan to the campaign"
+   },
+   {
+    "line_no": "3",
+    "date": "06/15/26",
+    "donor_raw": "Sharon Bolos",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "filer tagged this row 'loan' in the right-hand tag column; the candidate's own loan to the campaign"
+   },
+   {
+    "line_no": "4",
+    "date": "06/16/26",
+    "donor_raw": "Lindley Richards",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "120.00",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tagged this row 'in-kind' in the right-hand tag column"
+   },
+   {
+    "line_no": "5",
+    "date": "06/18/26",
+    "donor_raw": "BCP Development Inc",
+    "donor_city": "Lehi",
+    "donor_state": "Ut",
+    "amount": "5000.00",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "06/12/26",
+    "vendor_raw": "Brandon Johnson",
+    "vendor_city": "Highland",
+    "purpose": "\"cease and desist\" letter (defamation)",
+    "amount": "500.00",
+    "page": 4,
+    "row": 1,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "2",
+    "date": "06/15/26",
+    "vendor_raw": "Express Digital Direct Mail",
+    "vendor_city": "West Valley City",
+    "purpose": "mailer",
+    "amount": "6959.25",
+    "page": 4,
+    "row": 3,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "3",
+    "date": "06/15/26",
+    "vendor_raw": "Riverprint",
+    "vendor_city": "Ogden",
+    "purpose": "door hangers",
+    "amount": "333.85",
+    "page": 4,
+    "row": 5,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "4",
+    "date": "06/16/26",
+    "vendor_raw": "Lindley Richards",
+    "vendor_city": "Provo",
+    "purpose": "campaign consulting",
+    "amount": "120.00",
+    "page": 4,
+    "row": 7,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "5",
+    "date": "06/18/26",
+    "vendor_raw": "VOTTIV Campaigns",
+    "vendor_city": "Salt Lake City",
+    "purpose": "text messages",
+    "amount": "969.83",
+    "page": 4,
+    "row": 9,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "6",
+    "date": "06/19/26",
+    "vendor_raw": "Gus Bolos",
+    "vendor_city": "West Haven",
+    "purpose": "campaign food",
+    "amount": "27.98",
+    "page": 4,
+    "row": 11,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "7",
+    "date": "06/23/26",
+    "vendor_raw": "VOTTIV Campaigns",
+    "vendor_city": "Salt Lake City",
+    "purpose": "text messages",
+    "amount": "889.98",
+    "page": 4,
+    "row": 13,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   },
+   {
+    "line_no": "8",
+    "date": "06/23/26",
+    "vendor_raw": "Facebook",
+    "vendor_city": "Internet",
+    "purpose": "ads (6/16 thru 6/23) detail available upon request",
+    "amount": "388.05",
+    "page": 4,
+    "row": 15,
+    "confidence": "medium",
+    "note": "the filer printed 'Internet' where the city line goes, not a city; transcribed verbatim, state honestly blank (left that way by the FILER, not redacted by the county)"
+   },
+   {
+    "line_no": "9",
+    "date": "07/18/26",
+    "vendor_raw": "Classic Waterslides",
+    "vendor_city": "Riverdale",
+    "purpose": "campaign party",
+    "amount": "150.00",
+    "page": 4,
+    "row": 17,
+    "confidence": "medium",
+    "vendor_state": "UT"
+   }
+  ],
+  "notes": "Sharon Arrington Bolos, County Commissioner Seat B, 2026 cycle; report signed 19 July 2026. The retained document is 4 pages: p1 the HANDWRITTEN 2026 cover (three-column summary, Filing-Schedule checkboxes all UNMARKED so the report type is honestly unknown), p2 a TYPED restatement of the same summary, p3 the 'Itemized Contribution Report' and p4 the 'Itemized Expenditures Report'. p2 is a summary sheet, not a schedule, and carries no rows. This filer's schedules are her own spreadsheet layout, not Weber's Form A / Form B: no line numbers, no address column at all (only a CITY line under each name), and a free-text tag column carrying 'in-kind' / 'loan' on contributions and a purpose on expenditures. City/state are therefore the only location data the document prints - no street address exists to withhold on this filing. The county REDACTED the candidate's own street address, city/zip and home phone on p1 (solid black boxes); that is a county redaction, distinct from the filer simply not printing donor addresses on p3. Two rows are tagged in-kind and two are the candidate's own 'loan' to the campaign; all four are reported by the filer as contributions and are required by her own printed TOTAL, so all four are kept as she reported them. The Facebook expenditure prints 'Internet' where a city would go and 'detail available upon request' as part of its purpose; both are transcribed verbatim."
+ }
+]

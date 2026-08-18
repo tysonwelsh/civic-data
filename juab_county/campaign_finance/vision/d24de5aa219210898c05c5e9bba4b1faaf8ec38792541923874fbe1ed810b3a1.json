@@ -1,0 +1,48 @@
+{
+ "sha256": "d24de5aa219210898c05c5e9bba4b1faaf8ec38792541923874fbe1ed810b3a1",
+ "source_pdf": "raw/juab_2014_Nephi/Deetteworthington_Nephi_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Nephi/Deetteworthington_Nephi_Juab.pdf",
+   "candidate": "DeEtte Worthington",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "unknown",
+     "reason": "single-page filing \u2014 the cover only; no Form A or Form B page exists. All four stated lines are 0, so no dollars are unaccounted for."
+    },
+    "expenditures": {
+     "result": "unknown",
+     "reason": "single-page filing; no Form B page exists. Stated expenses are 0."
+    }
+   },
+   "pages_read": [
+    1
+   ],
+   "page_roles": {
+    "1": "cover/summary"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {},
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": ""
+  }
+ }
+}

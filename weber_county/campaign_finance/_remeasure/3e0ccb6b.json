@@ -1,0 +1,18 @@
+{"key": "3e0ccb6b",
+ "frames": {
+   "2": {"axis": "x",
+         "cell": [15.40, 26.08],
+         "cells": [[15.40, 26.08], [26.08, 50.52], [50.52, 89.13], [89.13, 97.24]],
+         "rows": [[18.73, 21.79], [21.79, 24.93], [24.93, 28.04], [28.04, 31.15], [31.15, 34.23], [34.23, 37.29]],
+         "measure_note": "Form B (expenditures), rotated landscape sheet; rows advance along X LOW-to-HIGH. Row bands are the regular-pitch (3.08) v_rules_pct subsequence starting 18.73; the leading 8.22/10.66 (table head) and 10.66/15.62 + 15.62/18.73 (header labels + the shaded spacer column) were TRIMMED (rowbands.py defect 2). THE WITHDRAWN DEFECT WAS `cell`: it stored [26.08,50.52], the CITY column, so every pointer aimed at the payee city. Weber Form B's Amount column is the printed table's LAST column, which under this rotation is the LOW-y band [15.40,26.08] (y order: Amount, City, Person, Date). h_rules is baseline-contaminated (35 rules for 4 columns - defect 1; the 41-50 cluster is the Person-column text), so the boundaries were chosen against the full-page read. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 1,854.83' for row 1 (recorded 1854.83) and '$ 63.00' for row 6 (recorded 63.00).",
+         "n_rows_transcribed": 6},
+   "3": {"axis": "x",
+         "cell": [8.27, 18.70],
+         "cells": [[8.27, 18.70], [18.70, 59.89], [59.89, 89.48], [89.48, 97.47]],
+         "rows": [[16.50, 19.61], [19.61, 22.70], [22.70, 25.84], [25.84, 28.98], [28.98, 32.09], [32.09, 35.20], [35.20, 38.31], [38.31, 41.37], [41.37, 44.48], [44.48, 47.56], [47.56, 50.65], [50.65, 53.67], [53.67, 56.66], [56.66, 59.66], [59.66, 62.68]],
+         "measure_note": "Form A (contributions), same rotation. Row bands are the regular-pitch (3.09) v_rules_pct subsequence starting 16.50; the leading 8.10/10.45 (table head) and 10.45/13.45 + 13.45/16.50 (header labels + shaded spacer column) were TRIMMED (rowbands.py defect 2). THE WITHDRAWN DEFECT WAS `cell`: it stored [18.70,59.86], the MAILING ADDRESS column - which would also have exposed donor street addresses through a published pointer, which PRIVACY forbids. The Amount column is [8.27,18.70]. h_rules on this page is dominated by text baselines (55 rules; the 9.07-13.35 run is the amount figures' own baselines and the 41-60 run is the address text) - rowbands.py defect 1 - so the four column boundaries were chosen against the full-page read. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 300.00' for row 1 (recorded 300.00) and '$ 500.00' for row 15 (recorded 500.00).",
+         "n_rows_transcribed": 15}
+ },
+ "proof": "p2: first-row crop pct:18.73,15.40,3.06,10.68@p2 rendered '$ 1,854.83' (recorded 1854.83); last-row crop pct:34.23,15.40,3.06,10.68@p2 rendered '$ 63.00' (recorded 63.00). p3: first-row crop pct:16.50,8.27,3.11,10.43@p3 rendered '$ 300.00' (recorded 300.00); last-row crop pct:59.66,8.27,3.02,10.43@p3 rendered '$ 500.00' (recorded 500.00).",
+ "unmeasurable": {}
+}

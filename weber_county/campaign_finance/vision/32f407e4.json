@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:43:43Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Katrina C. Gibson",
  "office_stated": "Weber County Commission Seat A",
  "report_type_stated": "June 16 - Primary Election",
@@ -44,5 +44,252 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED. FILER ERROR retained verbatim: the 'Last Report' column repeats the PREVIOUS report's 'This Report' figures (24,000.00 / 10,711.79 / 13,288.21) instead of its cumulative totals, so last+this does NOT equal the printed cumulative. The filer re-filed a corrected June-16 report on 7/23/2026 (cache 8a163a02, last-report column 66,670.65 / 49,653.62 / 17,017.03) - treat THIS row as SUPERSEDED for any cycle rollup. County-redacted address."
+ "notes": "2026 form variant, TYPED. FILER ERROR retained verbatim: the 'Last Report' column repeats the PREVIOUS report's 'This Report' figures (24,000.00 / 10,711.79 / 13,288.21) instead of its cumulative totals, so last+this does NOT equal the printed cumulative. The filer re-filed a corrected June-16 report on 7/23/2026 (cache 8a163a02, last-report column 66,670.65 / 49,653.62 / 17,017.03) - treat THIS row as SUPERSEDED for any cycle rollup. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6/2/2026",
+   "donor_raw": "Katrina Gibson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "20000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.82,20.15,9.91,3.20@p2",
+   "geometry_frame": "p2 axis=y cell=83.82-93.73 rowband=20.15-23.35 (1 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding; street line BLACKED OUT BY THE COUNTY, city/state printed"
+  },
+  {
+   "line_no": "2",
+   "date": "6/10/2026",
+   "donor_raw": "John Forsgren",
+   "donor_city": "Cornish",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.82,23.35,9.91,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=83.82-93.73 rowband=23.35-26.53 (2 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "street line BLACKED OUT BY THE COUNTY"
+  },
+  {
+   "line_no": "3",
+   "date": "6/11/2026",
+   "donor_raw": "Anjum Malik",
+   "donor_city": "Austin",
+   "donor_state": "TX",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.82,26.53,9.91,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=83.82-93.73 rowband=26.53-29.71 (3 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "street line BLACKED OUT BY THE COUNTY"
+  },
+  {
+   "line_no": "4",
+   "date": "6/15/2026",
+   "donor_raw": "Kendle & Karissa Gibson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "200.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.82,29.71,9.91,3.17@p2",
+   "geometry_frame": "p2 axis=y cell=83.82-93.73 rowband=29.71-32.88 (4 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "street line BLACKED OUT BY THE COUNTY"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "5/28/2026",
+   "vendor_raw": "Election Hive",
+   "purpose": "Voter Outreach",
+   "amount": "819.33",
+   "confidence": "medium",
+   "geometry": "pct:83.07,23.76,10.59,3.06@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=23.76-26.82 (1 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "6/4/2026",
+   "vendor_raw": "Reagan Outdoor Advertising",
+   "purpose": "Advertising",
+   "amount": "1475.00",
+   "confidence": "medium",
+   "geometry": "pct:83.07,26.82,10.59,2.94@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=26.82-29.76 (2 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "6/4/2026",
+   "vendor_raw": "Reagan Outdoor Advertising - INKIND",
+   "purpose": "Advertising",
+   "amount": "1000.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:83.07,29.76,10.59,3.00@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=29.76-32.76 (3 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer's own in-kind tag is written INSIDE the payee cell ('- INKIND') and is kept verbatim; the row counts toward the printed schedule total"
+  },
+  {
+   "line_no": "4",
+   "date": "6/4/2026",
+   "vendor_raw": "Express  Digital Direct",
+   "purpose": "Mailers",
+   "amount": "13509.68",
+   "confidence": "medium",
+   "geometry": "pct:83.07,32.76,10.59,2.98@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=32.76-35.74 (4 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "6/4/2026",
+   "vendor_raw": "Gathering Inc.",
+   "purpose": "Voter Outreach",
+   "amount": "4076.00",
+   "confidence": "medium",
+   "geometry": "pct:83.07,35.74,10.59,3.00@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=35.74-38.74 (5 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "6/5/2026",
+   "vendor_raw": "Honey Communications",
+   "purpose": "Digital Advertising",
+   "amount": "9692.00",
+   "confidence": "medium",
+   "geometry": "pct:83.07,38.74,10.59,2.97@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=38.74-41.71 (6 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "6/10/2026",
+   "vendor_raw": "MailChimp",
+   "purpose": "Voter Outreach",
+   "amount": "28.42",
+   "confidence": "medium",
+   "geometry": "pct:83.07,41.71,10.59,3.00@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=41.71-44.71 (7 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "6/12/2026",
+   "vendor_raw": "Honey Communications",
+   "purpose": "Digital Advertising",
+   "amount": "884.00",
+   "confidence": "medium",
+   "geometry": "pct:83.07,44.71,10.59,3.03@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=44.71-47.74 (8 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "9",
+   "date": "6/15/2026",
+   "vendor_raw": "Bell Printing and Design",
+   "purpose": "Flyers",
+   "amount": "156.85",
+   "confidence": "medium",
+   "geometry": "pct:83.07,47.74,10.59,2.94@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=47.74-50.68 (9 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "10",
+   "date": "6/15/2026",
+   "vendor_raw": "Express  Digital Direct",
+   "purpose": "Mailers",
+   "amount": "4612.39",
+   "confidence": "medium",
+   "geometry": "pct:83.07,50.68,10.59,3.03@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=50.68-53.71 (10 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "11",
+   "date": "6/15/2026",
+   "vendor_raw": "Kevin Johnson Media",
+   "purpose": "Photography",
+   "amount": "300.00",
+   "confidence": "medium",
+   "geometry": "pct:83.07,53.71,10.59,2.94@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=53.71-56.65 (11 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "12",
+   "date": "6/15/2026",
+   "vendor_raw": "Lee's MarketPlace",
+   "purpose": "Canvassing Supplies",
+   "amount": "5.64",
+   "confidence": "medium",
+   "geometry": "pct:83.07,56.65,10.59,3.03@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=56.65-59.68 (12 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "13",
+   "date": "6/15/2026",
+   "vendor_raw": "Lee's MarketPlace",
+   "purpose": "Canvassing Supplies",
+   "amount": "14.35",
+   "confidence": "medium",
+   "geometry": "pct:83.07,59.68,10.59,2.94@p3",
+   "geometry_frame": "p3 axis=y cell=83.07-93.66 rowband=59.68-62.62 (13 of 13 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 20,550.00' on p2, equal to the cover's This Report cell ($20,550.00)",
+     "detail": "4 Form A rows (20,000.00 + 250.00 + 100.00 + 200.00) sum to 20,550.00 exactly = the schedule's printed total = the cover's This-Report column. The cover's Cumulative cell is 88,152.04, so the schedule is PERIOD-scoped (May 27 - June 15 window) behind a cumulative cover and the earlier cycle is not itemized here. NO figure was synthesized by differencing covers, and note that on THIS filing you could not do so even if you tried: the filer's 'Last Report' column repeats the PREVIOUS report's This-Report figures (24,000.00) instead of its cumulative, so last + this (44,550.00) does not equal the printed cumulative (88,152.04). That is a FILER ERROR on the cover, retained verbatim; it does not touch this side, which gates on the This-Report cell the filer did print correctly. 2026 3-line variant: no separate <=$50 aggregate line. No in-kind rows on Form A, so both in-kind conventions agree."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 36,573.66' on p3, equal to the cover's This Report cell (36,573.66)",
+     "detail": "13 Form B rows sum to 36,573.66 exactly = the schedule's printed total = the cover's This-Report column; Cumulative is 87,158.67, so period-scoped. IN-KIND TESTED BOTH WAYS: row 3 is tagged '- INKIND' by the filer (Reagan Outdoor Advertising, 1,000.00) and is INCLUDED - monetary-only would give 35,573.66 and miss the printed total by exactly that 1,000.00. Weber's in-kind convention therefore holds on the EXPENDITURE side too for this filer, which is worth recording: the in-kind tag appears on Form B here, not on Form A."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "Four 900 dpi tight --value crops, all A3 indexing proofs: p2 row 1 rendered 20,000.00 and row 4 rendered 200.00; p3 row 1 rendered 819.33 and row 13 rendered 14.35. No legibility escalation was needed - the filing is typed and clean.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 13,
+   "geometry": {
+    "measured": 17,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "TYPED 2026 filing, signed 6/16/2026, June-16 Primary Election box checked; p1 cover, p2 Form A, p3 Form B on the county's own grid. THIS IS ONE OF THREE GIBSON REPORTS IN THE 2026 PRIMARY WINDOW and is transcribed strictly on its own terms: 32f407e4 (this one, signed 6/16/2026), 76c91f61 (a corrected re-file of the June-16 report, signed 7/23/2026) and 8a163a02 (the 30-days-after-elimination report, also signed 7/23/2026). Nothing here is merged with, or corrected from, either of the others. Cover defect retained verbatim: the Last Report column repeats the previous report's This-Report figures rather than its cumulative totals, so last + this does not equal the printed cumulative. PRIVACY: every Form A street line is BLACKED OUT BY THE COUNTY at source (redaction, not a filer omission) while city/state/zip print in the clear; city and state are carried, the redacted street is not. The candidate's own street address on the cover is likewise blacked out. Form B's City column is carried verbatim including the non-city value 'USA'. The filer's double space in 'Express  Digital Direct' is kept."
+  }
+ }
 }

@@ -1,0 +1,61 @@
+# systemd unit for the civic-data service.
+#   sudo cp civic-data.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now civic-data
+#
+# Binds to LOOPBACK ONLY. Caddy terminates TLS and proxies to it, so the
+# service is never directly reachable from the internet even if the firewall
+# is wrong.
+
+[Unit]
+Description=civic-data read-only query service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=civic
+Group=civic
+WorkingDirectory=/srv/civic-data
+
+# -u: unbuffered. Without it Python block-buffers stdout when it is a pipe and
+# the startup banner — including whether the gate came up ON or OFF — never
+# reaches the journal.
+ExecStart=/usr/bin/python3 -u /srv/civic-data/interface_prototype/server.py \
+          --host 127.0.0.1 --port 8787
+
+# Secrets and ceilings. EnvironmentFile is chmod 600 and NOT in the repo.
+EnvironmentFile=/etc/civic-data.env
+
+Restart=always
+RestartSec=5
+
+# A restart clears the in-memory rate limiter, so a crash loop must not become
+# a way to bypass it. The spend ceiling reads the durable log and is unaffected.
+StartLimitIntervalSec=300
+StartLimitBurst=10
+
+# Hardening. The service reads the repo and writes only its own logs.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/srv/civic-data/interface_prototype/logs
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+RestrictRealtime=true
+LockPersonality=true
+MemoryDenyWriteExecute=true
+SystemCallFilter=@system-service
+SystemCallErrorNumber=EPERM
+
+# gov.db is 1.68 GB and SQLite mmaps it; this is a ceiling, not a reservation.
+MemoryMax=2G
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=civic-data
+
+[Install]
+WantedBy=multi-user.target

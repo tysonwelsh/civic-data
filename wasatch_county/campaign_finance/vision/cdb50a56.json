@@ -1,82 +1,449 @@
 {
-  "_meta": {
-    "index_path": "raw/2018/2018_Financial-Campaign-Report--Tyler-Richard-Dow.pdf",
-    "cache_key": "cdb50a56",
-    "entity": "wasatch_county",
-    "election_year": "2018",
-    "reporting_period_index": "2018 cycle (as published by the county)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Tyler Richard Dow",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2018/2018_Financial-Campaign-Report--Tyler-Richard-Dow.pdf",
+  "cache_key": "cdb50a56",
+  "entity": "wasatch_county",
+  "election_year": "2018",
+  "reporting_period_index": "2018 cycle (as published by the county)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_02_2018.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "8266.94",
+     "itemized": "8266.94",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (8266.94 = 8266.94, the cover's own total contributions line, CUMULATIVE column); the 2 IN-KIND row(s) totalling 6180.00 are EXCLUDED from the filer's own printed total and are published alongside it with in_kind=true",
+     "published_stated": "8266.94",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "July 26, 2018 (if eliminated in Primary)"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "8266.94",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "8266.94",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "8266.94",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "8266.94",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "medium"
-      }
+    "expenditures": {
+     "stated": "8266.94",
+     "itemized": "8266.94",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (8266.94 = 8266.94, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "8266.94",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "no per-page subtotal; both sides close exactly on the cover, and the contribution side additionally proves the filer's in-kind exclusion rule",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 12,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 18,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten block capitals, superscript cents throughout. IN-KIND HANDLING IS THE FINDING HERE: two Form A rows carry a highlighted '(IN-KIND: ...)' annotation and are excluded from the filer's own line-1 total, so an itemized sum that included them would NOT reconcile. Dates are written yyyy.mm.dd and several are miswritten ('208.04.26', '298.06.26', '2018.06.4'); each is read against the surrounding rows and the verbatim kept per row. One expenditure amount has an earlier figure struck out above it."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Tyler Richard Dow",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "A footnote on the face reads '*$6180.00 IN-KIND IS SHOWN ON THE ITEMIZED CONTRIBUTION REPORT; NOT INCLUDED IN THE $' \u2014 the stated contribution total therefore EXCLUDES $6,180.00 of in-kind. The October 30 and December 6 boxes are annotated 'N/A'. The cumulative balance is a dash-zero mark, transcribed 0."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "July 26, 2018 (if eliminated in Primary)"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "8266.94",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "8266.94",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "8266.94",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "8266.94",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "medium"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "A footnote on the face reads '*$6180.00 IN-KIND IS SHOWN ON THE ITEMIZED CONTRIBUTION REPORT; NOT INCLUDED IN THE $' — the stated contribution total therefore EXCLUDES $6,180.00 of in-kind. The October 30 and December 6 boxes are annotated 'N/A'. The cumulative balance is a dash-zero mark, transcribed 0.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2018-06-18",
+   "donor_raw": "Michael & Aliza G Barnett",
+   "donor_city": "Lakewood",
+   "donor_state": "NJ",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "out-of-state donor; street discarded per PRIVACY",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2018-06-18",
+   "donor_raw": "Glen Overton",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2018-06-18",
+   "donor_raw": "Stu & Sue Waldrip",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2018-06-26",
+   "donor_raw": "Dentalmarketing.com",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "4380.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=high;amount=low",
+   "verified": 0,
+   "note": "filer labelled it '(IN-KIND: MAILERS, POSTAGE)' and EXCLUDED it from his line-1 total, so this amount is not gated by any printed figure - confidence low for that reason",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2018-06-26",
+   "donor_raw": "Steve Douglas",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "1800.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=high;amount=low",
+   "verified": 0,
+   "note": "filer labelled it '(IN-KIND: YOUTUBE, FACEBOOK ADS)' and EXCLUDED it from his line-1 total; ungated amount",
+   "geometry": "pct:10.00,27.20,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2018-06-26",
+   "donor_raw": "T Dow ESQ, PLLC",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "2166.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "the filer annotates it '(Tyler's entity)' - a candidate-controlled entity",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2018-06-01",
+   "vendor_raw": "Nate Dow",
+   "purpose": "1099 contractor - campaign labor",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2018-04-26",
+   "vendor_raw": "Luke Searle",
+   "purpose": "1099 contractor - campaign labor",
+   "amount": "1340.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '208.04.26' (a digit dropped from the year)",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2018-06-26",
+   "vendor_raw": "Greg Boberg",
+   "purpose": "1099 contractor - campaign labor",
+   "amount": "1215.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2018-06-26",
+   "vendor_raw": "YouTube (Google)",
+   "purpose": "Advertising",
+   "amount": "946.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2018-03-15",
+   "vendor_raw": "Wasatch County",
+   "purpose": "File Fee",
+   "amount": "588.43",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "an earlier figure is heavily struck out directly above this amount; the surviving value transcribed",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2018-05-25",
+   "vendor_raw": "Specialty Apparel and Promotion",
+   "purpose": "T-shirts",
+   "amount": "421.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "month written over a struck '03'",
+   "geometry": "pct:10.00,26.00,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 6,
+   "date": "2018-06-01",
+   "vendor_raw": "Impact Photography",
+   "purpose": "Yard signs - large",
+   "amount": "228.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 7,
+   "date": "2018-04-15",
+   "vendor_raw": "Smiths",
+   "purpose": "Gift certificates/thank you",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,30.20,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 8,
+   "date": "2018-06-26",
+   "vendor_raw": "Facebook",
+   "purpose": "",
+   "amount": "73.79",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '298.06.26' (year miswritten)",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 3,
+   "row_i": 9,
+   "date": "2018-05-01",
+   "vendor_raw": "Home Depot",
+   "purpose": "",
+   "amount": "62.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,34.40,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 3,
+   "row_i": 10,
+   "date": "2018-06-04",
+   "vendor_raw": "Ace Hardware",
+   "purpose": "Hammer and ties",
+   "amount": "19.11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '2018.06.4' (single-digit day)",
+   "geometry": "pct:10.00,36.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 3,
+   "row_i": 11,
+   "date": "2018-05-16",
+   "vendor_raw": "Signs on the Cheap",
+   "purpose": "",
+   "amount": "772.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=medium;vendor=high;amount=low",
+   "verified": 0,
+   "note": "superscript cents cramped at the sheet edge; the cents were settled by the side's closure (8266.94 - 7494.25 = 772.69), not by a glyph re-read",
+   "geometry": "pct:10.00,38.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

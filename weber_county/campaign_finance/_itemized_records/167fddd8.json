@@ -1,0 +1,45 @@
+[{
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 12,
+  "page_end": 14,
+  "key": "167fddd8",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [12, 13, 14],
+  "itemized_pages_B": "14",
+  "sides": { "contributions": "empty-schedule", "expenditures": "transcribed" },
+  "withheld_reason": {},
+  "recon": {
+    "contributions": {
+      "result": "period-exact",
+      "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report):' cell, which the filer left as a BARE DASH, matching the cover's 'Totals for This Report' line-1 cell, also a bare dash",
+      "detail": "Form A (p13) is present and ENTIRELY BLANK — 23 empty printed data rows, no entry of any kind, and the schedule's own total line carries a bare dash. That is consistent to the cent with the cover, whose This-Report contributions cell is likewise a dash. Zero rows is the correct transcription and the state is empty-schedule, NOT a missing page and NOT an unread page. The cover's CUMULATIVE contributions cell (742.76) equals its Totals-from-Last-Report cell (742.76): the whole 742.76 was raised before this report and is not itemized on this document."
+    },
+    "expenditures": {
+      "result": "exact",
+      "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 742.76', which equals the cover's CUMULATIVE line-2 cell (742.76)",
+      "detail": "Form B (p14) carries ONE handwritten row, 742.76, and the schedule's own handwritten total is 742.76 — equal to the cover's Cumulative line-2 cell and to its Totals-from-Last-Report cell, both 742.76. The cover's Totals-for-This-Report cell is a bare DASH, so the filer is restating the whole account on the schedule rather than reporting a period movement: the single itemized row (a 1-2-2024 county filing fee) predates this April report. The result is therefore `exact` on the published CUMULATIVE column, even though This Report is nil. Line 3 closes: 742.76 - 742.76 = the printed dash ending balance."
+    }
+  },
+  "escalations": 7,
+  "escalation_note": "Seven 900 dpi tight --value crops, six of them GEOMETRY proofs and one a legibility read. Four probes of p14's amount column located the structure right-to-left: [86.35,88.59] blank border, [82.85,86.35] and [79.76,82.85] BOTH returning the printed word 'Amount' — which is how the spurious rule at 82.85 was identified (it is the long header TEXT line 'Person or Organization to Whom Expenditure Was Made' registering as a dark run in the rotated projection, not a printed rule), so the header occupies the single wide band [79.76,86.35]. Row 1 was then confirmed at [74.06,76.94] = the handwritten 742.76 and row 2 at [71.17,74.06] = empty. The seventh crop framed row 1's DATE cell to settle the handwritten date, which reproduced as 1-2-2024.",
+  "frames": {
+    "14": {
+      "axis": "x",
+      "cell": [84.16, 94.20],
+      "cells": [[5.82, 13.52], [13.52, 56.34], [56.34, 66.43], [66.43, 84.16], [84.16, 94.20]],
+      "rows": [[74.06, 76.94], [71.17, 74.06], [68.29, 71.17], [65.35, 68.29], [62.46, 65.35],
+               [59.53, 62.46], [56.65, 59.53], [53.75, 56.65], [50.87, 53.75], [48.00, 50.87],
+               [45.12, 48.00], [42.25, 45.12], [39.35, 42.25], [36.44, 39.35], [33.53, 36.44],
+               [30.62, 33.53], [27.63, 30.62], [24.75, 27.63], [21.84, 24.75], [18.99, 21.84],
+               [16.10, 18.99], [13.25, 16.10], [10.37, 13.25]],
+      "measure_note": "ROTATED landscape sheet, axis='x': the Date column lies along the TOP of the rendered page, the Amount column along the BOTTOM, and the data rows advance RIGHT-TO-LEFT. COLUMNS are rowbands' own h_rules (they span the full page width and detect cleanly): 5.82 / 13.52 / 56.34 / 66.43 / 84.16 / 94.20 = top border, Date of Expenditure | Person or Organization | City | Purpose of Expenditure | Amount, bottom border; cell = the Amount band [84.16,94.20]. ROWS were measured with a dark-pixel projection down the DESKEWED page (deskew -0.1 deg) over the y-window 20-80%: a regular 2.88-pitch series 10.37 / 13.25 / 16.10 / 18.99 / 21.84 / 24.75 / 27.63 / 30.62 / 33.53 / 36.44 / 39.35 / 42.25 / 45.12 / 48.00 / 50.87 / 53.75 / 56.65 / 59.53 / 62.46 / 65.35 / 68.29 / 71.17 / 74.06 / 76.94 / 79.76, stable across coverages 0.20-0.40. Right-to-left, [79.76,86.35] is the (double-width) column-header band, [76.94,79.76] the printed GRAY SPACER strip, and the 23 bands from [74.06,76.94] leftward are the data rows, exactly ONE of which is filled. Two further detections at 82.85 and 88.59 were discarded: 82.85 is the header's own long text line (crop-proved, see escalation_note) and 88.59 is the outer margin. No band was extrapolated; row 1 and row 2 were both crop-proved."
+    }
+  },
+  "contributions": [],
+  "expenditures": [
+    { "line_no": "1", "date": "1-2-2024", "vendor_raw": "Weber County", "purpose": "Candidate Filing Fee",
+      "amount": "742.76", "page": 14, "row": 1, "confidence": "medium", "in_kind": false,
+      "note": "Handwritten in blue ink — the only entry on either schedule. City column reads 'Ogden'. Date kept VERBATIM as the filer wrote it ('1-2-2024'); a 900 dpi crop of the date cell reproduced it. The purpose is the county candidate filing fee, and the date falls in Utah's early-January 2024 declaration-of-candidacy window." }
+  ],
+  "notes": "John Ulibarri, 'Assessor', 2024 cycle, the '7 days before convention' box ticked with an X, signed 7-Apr-24. Page order IS form order: cover p12, Form A p13, Form B p14. BOTH SCHEDULES ARE ROTATED LANDSCAPE SHEETS rendered portrait (Date column along the top of the rendered page, Amount along the bottom, rows advancing right-to-left). FORM A EXISTS AND IS ENTIRELY BLANK — the printed 23-row grid is there, every cell empty, and the filer's own 'Total Contributions' line is a bare dash; that is an `empty-schedule`, a real absence of entries, not a missing page (`no-schedule-page`) and not an unread one (`withheld`). The two facts the cover asserts and the schedules confirm: nothing was raised OR spent in this reporting period (both This-Report cells are bare dashes, kept BLANK not zero per the zero-glyph ruling), and the account's entire lifetime activity is a single 742.76 county filing fee, itemized once on Form B. ⚠ SOURCE ANNOTATION, not a value: the cover's two 'Totals from Last Report' cells (742.76 and 742.76) are CIRCLED IN BLUE PEN with arrows drawn across to the This-Report column, where the same hand has written what appear to be initials rather than figures — an unexplained reviewer or filer mark already recorded in the stated-totals cache. Nothing was read from it and no figure was taken from it. The candidate's street address, city and zip are BLACKED OUT on the cover by the county before publication — the government's own redaction, preserved and not recovered (PRIVACY.md); the home/office phone number is printed in the clear and is deliberately not carried. Note a printed-form defect in the source, not a transcription issue: the 2024 cover's December-5 checkbox text says 'through December 31, 2022' (the county reused the 2022 form text); it is unticked here and affects no figure."
+}]

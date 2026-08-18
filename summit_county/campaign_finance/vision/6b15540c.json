@@ -47,6 +47,119 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typewriter-filled 2020 single-total sheet; Last Report and Cumulative columns left blank. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typewriter-filled 2020 single-total sheet; Last Report and Cumulative columns left blank. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "donor_raw": "Roger Armstrong (self)",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "277.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.99,21.98,87.18,1.91@p2",
+   "geometry_fit": "measured",
+   "note": "self-contribution; street address on the page discarded at read time (privacy), city/state retained",
+   "page": 2,
+   "band": 8
+  },
+  {
+   "line_no": 2,
+   "date": "2020-03-19",
+   "donor_raw": "Roger Armstrong (self)",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "144.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.99,23.66,87.18,1.42@p2",
+   "geometry_fit": "measured",
+   "note": "self-contribution; street address on the page discarded at read time (privacy), city/state retained",
+   "page": 2,
+   "band": 9
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Summit County Council Candidate Filing Fee",
+   "amount": "277.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,34.07,84.00,1.44@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 13
+  },
+  {
+   "line_no": 2,
+   "date": "2020-03-19",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Voter List Purchase",
+   "amount": "144.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,35.29,84.00,2.25@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 14
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "421.61",
+    "itemized": "421.61",
+    "result": "exact",
+    "detail": "exact - 2 rows sum to 421.61 against the cover's stated 421.61. The page itself prints no contribution total on this form variant; the cover figure and the $0 balance are the gates."
+   },
+   "expenditures": {
+    "stated": "421.61",
+    "itemized": "421.61",
+    "result": "exact",
+    "detail": "exact - 2 rows sum to 421.61, matching the page's own boxed printed total $421.61 and the cover."
+   }
+  },
+  "page_gates": "p2 (ITEMIZED CONTRIBUTION REPORT) prints NO section total of its own - the gate is the cover's stated 421.61, and 277.38 + 144.23 = 421.61 EXACT. p3 (ITEMIZED EXPENSE REPORT) prints a BOXED 'Total amount of expenditures $421.61' and its two real rows sum to 421.61 EXACT, agreeing with the cover. The cover's campaign balance of $0 is the third, independent gate: contributions 421.61 - expenditures 421.61 = 0. Both totals close ONLY after the struck specimen rows are dropped ($435.00 on p2, $512.00 on p3) - that is the proof, not an assumption. Geometry spot-check: p2 band 8 re-cropped at 400 dpi reproduced '03/13/2020 Roger Armstrong (self) ... $277.38' and p3 band 13 reproduced '03/13/2020 Summit County Clerk / Summit County Council Candidate Filing Fee / $277.38'.",
+  "escalations": 0,
+  "n_contrib_rows": 2,
+  "n_expend_rows": 2,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Roger Armstrong, County Council, 2020 Pre-Election. Typed sheets on the 2020 blank form, clean scan with a faithful OCR text layer. A wholly self-funded filing: both contributions are the candidate's own money and both expenditures are to the Summit County Clerk (filing fee + voter list), netting to a $0 balance. SOURCE PROPERTY THE BRIEF DOES NOT LIST: this filer did not merely leave the template SPECIMEN rows in place - he STRUCK THEM THROUGH with a pen/line ('04/15/20 Jon & Jane Doe / P.O. Box 128, Coalville, UT / 84017 / $435.00' on p2, and '04/15/20 Name of Business / Campaign signs & flyers / $512.00' on p3). The strike-through is the filer's own explicit statement that they are not transactions, which corroborates the wave's existing drop rule from the document side rather than only from the arithmetic. The expense specimen prints $512.00 here (the brief cites $512.00 - confirmed) and the contribution specimen $435.00. Privacy: the sheet has a Mailing Address column and both real rows carry a street address; the street was discarded at read time and only city/state ('Park City', 'UT') are recorded. ROW-BAND CAVEAT: rowbands over-split the populated top of both tables (31 bands on p2, 40 on p3 against ~25 physical table rows) because the strike-through lines and the two-line header register as rules; each row used here was individually crop-verified, and the bands cited are the ones whose boxes actually contain their rows. No in-kind schedule, no redactions, no period/cumulative ambiguity (single_total cover, current_report column only, Pre-Election)."
+ }
 }

@@ -1,83 +1,307 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_W-Vance.pdf",
-    "cache_key": "97b8b3de",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "William Brett Vance",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_W-Vance.pdf",
+  "cache_key": "97b8b3de",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Council - Seat A",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "59",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Hideout",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "31Mar26",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "7Apr26"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "753.04",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "$-753.04",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "753.04",
+     "itemized": "753.04",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (753.04 = 753.04, published stated total)",
+     "published_stated": "753.04",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL row: blank, no rows — nothing to gate (cover states 0.00); p2 Table B TOTAL: $753.04 = rows 753.04 — GATE PASSES. Cover identity 0.00 - 753.04 = -753.04 matches the printed balance '$-753.04'.",
+   "escalations": 0,
+   "escalation_note": "none needed — born-digital typed tables throughout",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 10,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 10,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Born-digital typed filing, the cleanest in this chunk. Dates are in the filer's compact 'DDMonYY' form ('7Jan26', '14Feb26') — day, month and year are all printed, so each parses cleanly. The first acknowledgement is initialled 'N/A' rather than with initials (he raised nothing); the second is 'WBV'. Cover 'District: 59' appears on a County Council — Seat A filing (a county council seat has no legislative district number) — transcribed from the form and flagged, no schedule impact. Note the filer spells the same vendor two ways across rows, 'SquareSpace' (rows 4 and 8) and 'Squarespace' (row 10); both kept verbatim. Only the Partisan Convention box is checked; convention date typed '7Apr26'; signed 31Mar26."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "William Brett Vance",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. The first acknowledgment initial line reads 'N/A'."
+  "office_verbatim": {
+   "value": "Wasatch County Council - Seat A",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "59",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Hideout",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "31Mar26",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "7Apr26"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "753.04",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "$-753.04",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. The first acknowledgment initial line reads 'N/A'.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-07",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "272.19",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '7Jan26'",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-01-10",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Domain Registration Fee",
+   "amount": "25.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '10Jan26'",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-01-13",
+   "vendor_raw": "VistaPrint",
+   "purpose": "Campaign Business Cards",
+   "amount": "38.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '13Jan26'",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-01-14",
+   "vendor_raw": "SquareSpace",
+   "purpose": "Campaign Website Fee",
+   "amount": "26.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '14Jan26'",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-01-27",
+   "vendor_raw": "GoDaddy",
+   "purpose": "E-Mail Security",
+   "amount": "61.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '27Jan26'",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-01-27",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Domain Security",
+   "amount": "20.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '27Jan26'",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-02-14",
+   "vendor_raw": "VistaPrint",
+   "purpose": "Campaign Flyers",
+   "amount": "63.67",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '14Feb26'",
+   "geometry": "pct:5.00,76.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2026-02-15",
+   "vendor_raw": "SquareSpace",
+   "purpose": "Campaign Website Fee",
+   "amount": "26.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '15Feb26'",
+   "geometry": "pct:5.00,78.65,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2026-02-20",
+   "vendor_raw": "Wasatch County Republican Party",
+   "purpose": "Lincoln Day Event",
+   "amount": "190.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '20Feb26'",
+   "geometry": "pct:5.00,81.10,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 2,
+   "row_i": 9,
+   "date": "2026-03-15",
+   "vendor_raw": "Squarespace",
+   "purpose": "Campaign Website Fee",
+   "amount": "26.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '15Mar26'; vendor spelled with a lowercase s here, unlike rows 4 and 8 — kept verbatim",
+   "geometry": "pct:5.00,83.55,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

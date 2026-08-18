@@ -1,78 +1,582 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_J-Rigby.pdf",
-    "cache_key": "78bc96cd",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jared W. Rigby",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_J-Rigby.pdf",
+  "cache_key": "78bc96cd",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2-3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "21100.00",
+     "itemized": "21100.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (21100.00 = 21100.00, published stated total)",
+     "published_stated": "21100.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Sheriff",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "N/A",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/16/26",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "21,100.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "15,893.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "5,207.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "15893.00",
+     "itemized": "15894.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1.00 - 20 row(s) sum to 15894.00 against published stated total, which prints 15893.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: DELTA 1.00 — 20 rows across pages 2 and 3 sum 15894.00 against a printed Table B TOTAL of '15,893.ᵒᵒ' and a cover line 2 of '$15,893.00'. Every amount on both pages was re-read at 600 dpi and the six doubtful ones again at 1200 dpi; no single reading closes the gap. The filer's own cover arithmetic uses 15,893.00 (21,100.00 - 15,893.00 = 5,207.00, which matches his printed balance), so 15,893.00 is his figure throughout and the 1.00 is a row-sum slip. Neither figure adjusted. As with the contribution side, the first expenditure row is the carry-forward 'Previous Report / QTR 1 / 8,904.56'; NEW spending this period is 6,989.44 by the rows as read",
+     "published_stated": "15893.00",
+     "csv_reconciles": "False",
+     "csv_delta": "1.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 21,100.00 = rows 21100.00 — GATE PASSES. Table B's TOTAL row on p2 prints '(continued)' instead of a figure — the filer explicitly deferred it; the real TOTAL sits on PAGE 3 and prints 15,893.00 against a 20-row sum of 15,894.00 — GATE DOES NOT CLOSE, off by 1.00. The p3 Table A grid is struck through with a single diagonal line and a hand-drawn 'Ø' in its bottom-left cell, and its TOTAL row is blank — voided by the filer, no rows there.",
+   "escalations": 9,
+   "escalation_note": "600dpi crops of both amount columns (p2, p3), both payee columns and the p2 contributor column; 1200dpi crops of the p2 lower amount column, the individual 359.40 and 750.00 cells, the p2 upper amount column, and the p3 date column",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 20,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 26,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "HUMAN LOOK RECOMMENDED: the expenditure side is 1.00 off its own printed total after a full high-dpi re-read. Two 1200-dpi escalations MOVED values away from the 200-dpi reading and are the reason the gap is 1.00 rather than 1,199.50 — p2 row 6 is 758.46 (not 158.46: a flat-topped 7) and p2 row 11 is 750.00 (not 150.00, same 7). p2 row 9 resolved to 359.40 (a single-loop 9 with descender, cents '40'); a reading of 358.40 there would close the printed total exactly, and it was NOT adopted because the glyph is plainly a 9 in a hand whose 8s are two stacked loops (cf. '835.90', '758.46') — the arithmetic was not allowed to bend a legible digit. STRUCTURE: Table B is explicitly paginated by the filer, who hand-numbered the headings 'TABLE \"B\", 1' (page 2) and 'TABLE \"B\", 2' (page 3); page 3 also reprints the Table A grid, which he voided with a diagonal strike. CARRY-FORWARD ROWS: both tables open with a 'Previous Report' line dated 'QTR 1' carrying his March 2026 totals verbatim (16,000.00 contributions, 8,904.56 expenditures — both match this chunk's 537a29a6 exactly). They are transcribed as printed with the date field BLANK (the cell holds 'QTR 1', not a date) and flagged, because they are cumulative roll-forwards, not a donor or a vendor — anyone summing this filer's 2026 cycle must not add them to the March report. Clerk received-stamp 'JUN 28 '26 PM 08:10 RCVD WC' on the cover; Primary Report box checked; signed 6/16/26."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jared W. Rigby",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Clerk stamp JUN 26."
+  "office_verbatim": {
+   "value": "Sheriff",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "N/A",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/16/26",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "21,100.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "15,893.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "5,207.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Clerk stamp JUN 26.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "donor_raw": "Previous Report",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "16000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "NOT A DONOR — a carry-forward line. Date cell reads verbatim 'QTR 1' (not a date, so the field is blank); name cell reads verbatim 'Previous Report'; the amount reproduces this filer's March 2026 Table A total of 16,000.00 exactly. Included because the printed TOTAL 21,100.00 counts it",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-04-14",
+   "donor_raw": "Tim Morris",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "amount written '1,000.ᵒᵒ'",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-05-02",
+   "donor_raw": "David & Sheryl Nelson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "second given name re-read at 600 dpi as 'Sheryl'; it could equally be 'Cheryl' — the initial is an open loop unlike the closed C this hand uses in row 4's 'Cheryl'. Recorded as the legible glyph string, not resolved",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-05-27",
+   "donor_raw": "Cheryl Karl",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 1,
+   "note": "date day-of-month reads '27' but could be '22' at 600 dpi and no printed figure gates a date; surname reads 'Karl' (possibly 'Kaul'/'Karlt' — the final stroke is a crossed ascender). Amount written '2500.ᵒᵒ'",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-05-31",
+   "donor_raw": "Adden Buhl",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "given name reads 'Adden'/'Addan'/'Aiden' at 600 dpi; recorded as the legible glyph string. Amount written '100.ᵒᵒ'",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-06-01",
+   "donor_raw": "James Dunn",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount written '1000.ᵒᵒ'",
+   "geometry": "pct:5.00,30.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "Previous Report",
+   "purpose": "",
+   "amount": "8904.56",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "NOT A VENDOR — carry-forward line. Date cell reads verbatim 'QTR 1' (not a date); the amount reproduces this filer's March 2026 Table B total of 8,904.56 exactly. Included because the printed TOTAL counts it",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-03-18",
+   "vendor_raw": "Smith's",
+   "purpose": "",
+   "amount": "37.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "Purpose column left blank on every row of this filing",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-03-18",
+   "vendor_raw": "Ignition Creative",
+   "purpose": "",
+   "amount": "509.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "re-read at 1200 dpi: third digit is a 9 with descender, cents superscript '39'",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-03-18",
+   "vendor_raw": "Name-cheap.com",
+   "purpose": "",
+   "amount": "7.68",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "written with a hyphen/dash between 'Name' and 'cheap.com' — kept verbatim rather than normalized to Namecheap.com",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-03-19",
+   "vendor_raw": "Little Caesar's",
+   "purpose": "",
+   "amount": "124.67",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "cents written superscript '67'",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-03-30",
+   "vendor_raw": "UPS Store",
+   "purpose": "",
+   "amount": "758.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "ESCALATED: read 158.46 at 200 dpi, resolved to 758.46 at 600/1200 dpi — the leading glyph has this hand's flat-topped 7, not a plain 1",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-04-01",
+   "vendor_raw": "Ignition Creative",
+   "purpose": "",
+   "amount": "179.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:5.00,76.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2026-04-06",
+   "vendor_raw": "UPS Store",
+   "purpose": "",
+   "amount": "3.76",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:5.00,78.65,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2026-04-06",
+   "vendor_raw": "The Hub",
+   "purpose": "",
+   "amount": "359.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=high;amount=low",
+   "verified": 1,
+   "note": "ESCALATED TWICE (600 then a dedicated 1200 dpi cell crop): read '358.90' at 200 dpi, resolved to 359.40 — the third digit is a single-loop 9 with a long descender and the superscript cents are '40'. FLAGGED because a reading of 358.40 here would make the 20 rows equal the printed TOTAL exactly; that reading was NOT adopted, since the glyph is unambiguously a 9 in a hand whose 8s are two stacked loops. A human should confirm this one cell",
+   "geometry": "pct:5.00,81.10,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 2,
+   "row_i": 9,
+   "date": "2026-04-09",
+   "vendor_raw": "Ignition Creative",
+   "purpose": "",
+   "amount": "195.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "leading digit is a plain diagonal 1 at 1200 dpi (contrast the flat-topped 7s in rows 6 and 11)",
+   "geometry": "pct:5.00,83.55,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 2,
+   "row_i": 10,
+   "date": "2026-04-15",
+   "vendor_raw": "Pam Films LLC",
+   "purpose": "",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=medium",
+   "verified": 1,
+   "note": "ESCALATED: read 150.00 at 200 dpi, resolved to 750.00 at 1200 dpi — the leading glyph carries a clear horizontal top bar (a 7). Cents written superscript 'ᵒᵒ'",
+   "geometry": "pct:5.00,86.00,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 2,
+   "row_i": 11,
+   "date": "2026-05-01",
+   "vendor_raw": "Ignition Creative",
+   "purpose": "",
+   "amount": "835.90",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "last row on page 2; the TOTAL row beneath it reads '(continued)' rather than a figure",
+   "geometry": "pct:5.00,88.45,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 13,
+   "page": 3,
+   "row_i": 0,
+   "date": "2026-03-31",
+   "vendor_raw": "UVU Building Use Insurance",
+   "purpose": "",
+   "amount": "197.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "out of date order — page 3 opens with a March date after page 2 ended in May; kept as printed. Cents superscript 'ᵒᵒ'",
+   "geometry": "pct:5.00,3.00,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 14,
+   "page": 3,
+   "row_i": 1,
+   "date": "2026-05-01",
+   "vendor_raw": "Mo. Bettah's",
+   "purpose": "",
+   "amount": "30.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=low;amount=high",
+   "verified": 1,
+   "note": "vendor reads 'Mo. Bettah's'/'Mo Bettahs' — recorded as the legible glyph string",
+   "geometry": "pct:5.00,5.45,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 15,
+   "page": 3,
+   "row_i": 2,
+   "date": "2026-05-04",
+   "vendor_raw": "Veracity Enterprises",
+   "purpose": "",
+   "amount": "396.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "cents superscript 'ᵒᵒ'",
+   "geometry": "pct:5.00,7.90,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 16,
+   "page": 3,
+   "row_i": 3,
+   "date": "2026-05-07",
+   "vendor_raw": "Name-cheap.com",
+   "purpose": "",
+   "amount": "11.48",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "same hyphenated spelling as p2 line 4",
+   "geometry": "pct:5.00,10.35,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 17,
+   "page": 3,
+   "row_i": 4,
+   "date": "2026-05-19",
+   "vendor_raw": "Veracity Enterprises",
+   "purpose": "",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "DATE FLAGGED: the year group is cramped and reads '22' or '26' at 1200 dpi. Resolved to 26 by comparing the second glyph with this hand's 6 elsewhere on the page (a closed bottom loop; his 2 ends in a flat rightward base stroke, which this glyph lacks) — NOT by inferring the year from the reporting period. A human should confirm",
+   "geometry": "pct:5.00,12.80,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 18,
+   "page": 3,
+   "row_i": 5,
+   "date": "2026-05-30",
+   "vendor_raw": "Lee's",
+   "purpose": "",
+   "amount": "76.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "year glyphs written very loosely ('26' resembling 'hi')",
+   "geometry": "pct:5.00,15.25,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 19,
+   "page": 3,
+   "row_i": 6,
+   "date": "2026-06-09",
+   "vendor_raw": "Melvin's Place",
+   "purpose": "",
+   "amount": "40.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:5.00,17.70,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 20,
+   "page": 3,
+   "row_i": 7,
+   "date": "2026-06-11",
+   "vendor_raw": "UVU",
+   "purpose": "",
+   "amount": "474.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "last itemized row; cents superscript 'ᵒᵒ'. The printed TOTAL 15,893.ᵒᵒ follows two blank slots below",
+   "geometry": "pct:5.00,20.15,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

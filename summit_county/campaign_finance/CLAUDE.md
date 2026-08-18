@@ -6,14 +6,21 @@ and is **not** federated into `gov.db` (no build step touches the entity db). It
 County Council roll calls live in `../legislative/` and whose wins are certified in
 `../elections/`.
 
-**Money layer as of 2026-08-02: STATED TOTALS (all 131) + the BORN-DIGITAL ITEMIZED LAYER
-(11 of 131).** All **131** cover pages were vision-transcribed (Read-tool method, `$0` API) and
-`filing_totals.csv` carries each filing's own printed contribution / expenditure /
-ending-balance figures. The **15 born-digital filings** were then parsed by the registered
-`summit_form` family (TRANCHE 3 Phase A, 2026-08-02): **105 contribution + 386 expenditure rows
-over 11 filings**, every emitted side reconciling to the cent against the published stated
-total. **The 116 SCANS remain unitemized** — that is *not transcribed*, **never** *no donors*,
-and their `reconciles_*` stay blank by design.
+**Money layer as of 2026-08-17 (post-ruling): STATED TOTALS (all 131) + a BORN-DIGITAL itemized layer
+(11 filings) + a COMPLETE VISION itemized layer over the SCANS (116 of 116 — QUEUE CLOSED).** All **131** cover
+pages were vision-transcribed (Read-tool method, `$0` API) and `filing_totals.csv` carries each
+filing's own printed contribution / expenditure / ending-balance figures. The **15 born-digital
+filings** were then parsed by the registered `summit_form` family (TRANCHE 3 Phase A,
+2026-08-02): **105 contribution + 386 expenditure rows over 11 filings**, every emitted side
+reconciling to the cent. TRANCHE 3 **Phase B** opened the 116 SCANS (2026-08-14) and **closed the queue on 2026-08-17**:
+all **116** are itemized by Read-tool vision — **1,193 contribution + 1,407 expenditure rows**
+(after the 2026-08-17 **reconciliation-basis ruling** published 16 previously-withheld PERIOD-scoped
+sides), 100% carrying `pct:` geometry, **181 of 212 published sides reconciling EXACTLY**. So **131 of
+131 Summit filings now carry an itemized layer**. The queue is DERIVED, never hand-kept, and it
+is now empty: `python3 _backups/2026-08-14-tranche3/summit-b/wave_stats.py --residue` prints
+nothing. ⚠ An empty itemized layer no longer exists on any filing except where a side is honestly
+`none` (no such page), blank, or one of the **5 sides still WITHHELD** after the 2026-08-17
+reconciliation-basis ruling — see the caveats.
 
 ## What this is
 
@@ -53,11 +60,13 @@ listed_gaps.csv             CURATED — gaps that are stated on the page, not in
 text_extraction.csv         which tool produced each sidecar (build input for extraction_method)
 batch/manifest.json         the acquisition manifest (build input; candidate→url→file→sha256)
 office_overrides.csv        CURATED — document_id,office,seat,evidence (read by build_index.py)
-vision/<sha1(path)[:8]>.json  CURATED — the cover-page transcription of every filing (131)
+vision/<sha1(path)[:8]>.json  CURATED — the cover-page transcription of every filing (131);
+                            since 2026-08-14 the itemized SCAN rows live in the SAME caches
+make_itemized_caches.py     the ONLY writer of the caches' itemized half (never touches the cover)
 filing_totals.csv           DERIVED — one row per filing, SCHEMA.md §4 contract
 cover_totals.csv            DERIVED — module-local: ALL THREE cover columns, verbatim
-contributions.csv           DERIVED — SCHEMA.md §2 + trailing `geometry`; born-digital only (105)
-expenditures.csv            DERIVED — SCHEMA.md §3 + trailing `geometry`; born-digital only (386)
+contributions.csv           DERIVED — SCHEMA.md §2 + trailing `geometry`; born-digital 105 + vision 1,193
+expenditures.csv            DERIVED — SCHEMA.md §3 + trailing `geometry`; born-digital 386 + vision 1,407
 backfill_text.py            rebuilds text/ + text_extraction.csv
 build_index.py              rebuilds index.csv + unrecovered.csv
 build_finance.py            rebuilds filing_totals/cover_totals/contributions/expenditures
@@ -220,11 +229,67 @@ figure, **128** a stated ending balance. `extraction_confidence`: **high 116 / m
 
 ## Caveats / do-nots
 
-- **Cover-page totals ARE transcribed for all 131; donor itemization exists for the 15
-  BORN-DIGITAL filings only.** Use `filing_totals.csv` / `cover_totals.csv` for any dollar
-  figure — **never** the `text/` sidecars of a SCAN, which are OCR of handwriting and mis-anchor
-  exactly the way the shared parsers do. On the 116 scans `contributions.csv` /
-  `expenditures.csv` hold nothing and `reconciles_*` is blank **by design**.
+- **Cover-page totals ARE transcribed for all 131, and donor itemization now covers all 131**
+  (15 born-digital + **116 of 116 SCANS**, queue closed 2026-08-17). Use `filing_totals.csv` /
+  `cover_totals.csv` for any dollar figure — **never** the `text/` sidecars of a SCAN, which are
+  OCR of handwriting and mis-anchor exactly the way the shared parsers do. Where a filing still
+  holds no itemized row, read the reason off `_meta_itemized.sides`: `none` = the document has no
+  such schedule page, `transcribed` with zero rows = the page exists and is BLANK (a real zero),
+  `withheld` = read but not published (rows parked in `_meta_itemized.withheld_rows`). ⚠ Since the
+  2026-08-17 ruling a cache side may read `withheld` while the module PUBLISHES its parked rows on
+  the PERIOD basis — the cache records what the transcriber decided at the page, `build_finance.py`
+  decides publication. `filing_totals.notes` is authoritative for what shipped. None of these
+  states is "no donors".
+- **Filter the itemized layer by `extract_method` before comparing eras.** `summit_form/text` =
+  the born-digital parser (`extraction_confidence=high`); `vision-itemized/summit-scan` = the
+  Phase-B vision rows (capped at `medium`, SCHEMA §6). The two are read by different channels
+  under different gates.
+- **A `reconciles_*` of `False` on a VISION row is the FILER's arithmetic, not a defect** (the
+  SLCo wave-B2 semantics, and the deliberate difference from the born-digital path, where a
+  parser that disagrees with the page emits nothing). The stated figure is the form's own
+  printed total and is never recomputed; the cause is named in `notes`. **32 side-flags read
+  `False`** — 29 with a `delta` verdict and 3 whose ledger closes on the page exactly but differs
+  from the module's stated total for a STRUCTURAL reason (the `split50` `<=$50` aggregate) or
+  because in-kind money the filer counted inside his own total is excluded from
+  `itemized_contrib_sum`. Full ledger: AVAILABILITY.md → "The SCAN itemization wave — QUEUE
+  CLOSED 2026-08-17".
+- **⚠ THE RECONCILIATION-BASIS RULE (owner-ratified 2026-08-17) — read this before reading any
+  `reconciles_*` column.** A side is reconciled against the printed cover figure that MATCHES ITS
+  OWN SCOPE: the **CURRENT REPORT** cell for a PERIOD-scoped ledger, the **CUMULATIVE** cell for a
+  cumulative one. No figure is ever synthesized by differencing covers, and a side that closes
+  against NEITHER printed figure stays withheld. `stated_total_*` is UNCHANGED — always the
+  cumulative cover figure. The ruling published **16 of the 21 previously-withheld sides**
+  (81 rows: 1264, 1265, 1268-expend, 1274, 4278-contrib, 11861, 12943-expend, 24384, 24390, 27451),
+  each with **`is_incremental=True`** on every row and a `notes` line that opens
+  `ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)`, names the period figure AND the cumulative
+  one, and states that the sum is one reporting period and **NOT a cycle total**. ⚠ On those rows
+  `reconciles_*`/`recon_delta_*` are stated against the PERIOD figure, so `itemized_*_sum` is
+  deliberately far below `stated_total_*` — that is the design, not a defect. The shared
+  `validate_finance.py` check 6 was amended the same day to admit that DECLARED basis (and only a
+  declared one). Full ledger: AVAILABILITY.md → "THE RECONCILIATION-BASIS RULING".
+- **⚠ 5 sides across 5 filings remain WITHHELD** and must never be read as "no donors":
+  **1250 Trussell 2014 contributions** (the Amount column is not on the scan — a landscape sheet
+  fed through the scanner in portrait, cropping the right ~23% of the page, so the columns could
+  not be assigned); **1268 Yost 2014 contributions** (cover Current 1,700+75 vs the schedule's own
+  1,700/25 boxes — the filer's own two figures disagree and neither closes); **4278 Adair 2016
+  expenditures** (+0.30 against the printed period box); **12943 Stevens 2020 contributions** (the
+  page is blank and prints a $0 PERIOD total — nothing parked, so nothing to publish); **12944
+  Francis 2020 expenditures** (blank page and an EMPTY Current Report cell — no printed period
+  figure to gate against). The Phase-A born-digital **Harte 2026 (27200)** contribution side is
+  also still refused, by the born-digital path's own stricter gate.
+- **⚠ In-kind treatment is PER-FILER, not a form property, and the period-basis promotion TESTS
+  BOTH conventions** (monetary-only, and monetary-plus-in-kind), recording which one closed in
+  `notes` — 13 sides closed monetary-only, 3 monetary + in-kind (1264 both sides, 4278
+  contributions). On an in-kind-inclusive side `itemized_*_sum` INCLUDES the in-kind money (that is
+  what closes to the cent); everywhere else it is monetary-only. On the 2024 McKenna pair in-kind is a
+  separate schedule and the cover is monetary-only; on 4020, 4278, 8191, 1268, 11110, 20758 and
+  24234/24708 the filer counts in-kind INSIDE the contribution schedule's printed total and inside
+  the cover figure. `itemized_contrib_sum` is monetary-only either way, so on the second class it
+  sits under the stated total by exactly the in-kind amount. Settle it per filing from the page's
+  own arithmetic; never assume it from the cycle or the form family.
+- **Read `_meta_itemized.sides`, not `recon.result`, to decide what a side is.** Records use two
+  vocabularies for a withheld or `none` side's `recon.result` (`withheld`/`none` on some, `unknown`
+  on others — the AGENT_BRIEF shape documents only `exact|delta|unknown`). The side state governs.
 - **Do not sum filings per candidate.** Reports are **cumulative snapshots**, so a cycle total is
   the *latest* report's promoted figure, never a sum.
 - **Portal labels lie — three verified cases**, all corrected from the filing text and recorded in
@@ -249,11 +314,10 @@ figure, **128** a stated ending balance. `extraction_confidence`: **high 116 / m
 
 ## Not built (deliberate)
 
-- **No donor/expenditure itemization for the 116 SCANS.** Their `ITEMIZED CONTRIBUTION REPORT`
-  and itemized expense pages are untranscribed — a much larger vision job (most run 3 pages of
-  handwriting), and Phase B work. Until it runs, those filings carry no itemized row and no
-  `reconciles_*` value may be asserted for them. The 15 born-digital filings ARE itemized (see
-  the section below).
+- **(CLOSED 2026-08-17) Donor/expenditure itemization of the 116 SCANS.** Formerly the open item
+  here; the queue is now empty and 131 of 131 filings carry an itemized layer. The working set,
+  the per-row contract and the wave kit remain in `_backups/2026-08-14-tranche3/summit-b/`
+  (`AGENT_BRIEF.md` is still the binding per-row contract for any future re-read).
 - **No `cycle_totals.csv`.** The shared `scripts/campaign_finance/cycle_totals.py` dedup contract
   assumes an itemized layer and a per-candidate incremental/cumulative determination. Summit is
   uniformly cumulative and the rollup is a one-line query over `filing_totals.csv` (latest report
@@ -327,6 +391,44 @@ Evidence table: `RECON.md` §4. **The 2026-08-01 vision pass supersedes that nee
 TOTALS** — `build_finance.py` stays module-local and reads the curated `vision/` caches for every
 `stated_*` figure. The family is the home of the *itemized* tranche only, and 2026-08-02 wired it
 for the born-digital subset.
+
+## The SCAN itemized layer (TRANCHE 3 Phase B) — 116 of 116, QUEUE CLOSED 2026-08-17
+
+Read `AVAILABILITY.md` → "The SCAN itemization wave — QUEUE CLOSED 2026-08-17" for the measured
+table, the state audit that re-screened the paused wave's staged work, the full delta ledger, the
+21 withheld sides and the source properties this wave established. The short version:
+
+* **1,193 contribution + 1,407 expenditure rows** over **116** filings (2014 29 · 2016 10 ·
+  2018 16 · 2020 12 · 2022 19 · 2024 19 · 2026 11), **$376,669.21 monetary contributions +
+  $38,073.76 in-kind / $404,977.69 spent** (incl. the 2026-08-17 period-basis promotion: 23 + 58
+  rows, $10,112.61 monetary + $18,064.43 in-kind / $26,229.77 spent). All 2,600 rows carry `pct:`
+  **geometry** — 1,607
+  MEASURED from the page's own printed rules by `rowbands.py` (deskewed projection, threshold
+  chosen by grid REGULARITY, padded by the scan's skew drift), 912 from a validated DECLARED
+  frame where the rules were too faint or contaminated. A row's box resolves to a crop with
+  `scripts/campaign_finance/make_snippet.py` and the crop reproduces donor + amount.
+* **181 of 212 published sides reconcile EXACTLY** (165 transcribed + the 16 period-promoted);
+  29 carry a delta traced on the page and 2 have no printed figure to gate against; **5 sides
+  remain withheld**; 15 are `none` (no such page in the document). **216 tight-crop escalations**
+  at 600–2000 dpi (plus 1 on 2026-08-17 for the Wolbach re-read); a page-gate record exists for
+  all 116.
+* **The blank form's PRINTED SPECIMEN ROWS are not transactions** (`Jon and Jane Doe` $435.00 /
+  `Name of Business` $512.00) and the printed total closing only without them is the proof — one
+  filer highlighted them in yellow, another struck them through in pen, and a third copy dates
+  the specimen `8/25/10` on a 2014 form.
+* **Page position is not a classifier**: on 1059, 23013 and 24377 the EXPENSE page is page 2 and
+  the CONTRIBUTION page is page 3.
+* **On the pre-2022 sheet the ledger itemizes only the `>$50` donors.** Where a filer used the
+  `<=$50` box, the rows reproduce the `>$50` box to the cent and the residual is exactly that
+  aggregate — structural, not a missing row.
+
+Rebuild path for this layer:
+```
+python3 make_itemized_caches.py ../../_backups/2026-08-14-tranche3/summit-b/records
+python3 build_finance.py
+python3 ../../_backups/2026-08-14-tranche3/summit-b/checkpoint.py     # append-only invariants
+python3 ../../scripts/campaign_finance/validate_finance.py .          # -> PASS
+```
 
 ## Rebuild
 

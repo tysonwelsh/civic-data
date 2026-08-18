@@ -1,0 +1,413 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_7e3a53_3037c6f1.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "14230ff0",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): 24,000.00'",
+    "detail": "the 7 Form A rows (1,000.00 + 250.00 + 1,000.00 + 1,000.00 + 250.00 + 20,000.00 + 500.00) sum to 24,000.00 = the schedule's own printed total = the cover's 'This Report' contributions cell. The CUMULATIVE 66,670.65 (= 42,670.65 last + 24,000.00) is larger and the prior-period money is not itemized on this document. No per-page subtotal exists - the schedule is one sheet with a single grand total. 20,000.00 of the 24,000.00 is the candidate's own loan, tagged by the filer inside the name cell as 'Katrina Gibson - Loan'."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of report): 10,711.79'",
+    "detail": "the 10 Form B rows (936.00 + 21.45 + 7.59 + 1,212.17 + 351.01 + 453.99 + 3,536.00 + 28.42 + 3,487.12 + 678.04) sum to 10,711.79 = the schedule's own printed total = the cover's 'This Report' expenditures cell; cumulative 49,653.62 = 38,941.83 + 10,711.79 and is not itemized here."
+   }
+  },
+  "escalations": 8,
+  "escalation_note": "Four make_snippet --value crops were attempted first and ALL FOUR landed in the wrong cell - the /Rotate 90 mapping bug described in the frames' measure_note. The geometry was then proved with four 900 dpi raster crops taken directly from the rendered page: p2 row 2 (reproduces 1,000.00), p2 row 7 (20,000.00), p3 row 8 (3,536.00), p3 row 11 (678.04). No legibility escalation was needed - both schedules are born-typed and crisp; the only reading difficulties on this filing are the filer's own typos, which are retained verbatim.",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "4/8/2026",
+    "donor_raw": "Blake Moore",
+    "donor_city": "Bethesada",
+    "donor_state": "MD",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city kept VERBATIM as the filer typed it - 'Bethesada, MD 20814' (the Maryland town is spelled Bethesda; the filer's spelling is not corrected). The street portion of the address is blacked out by the COUNTY before publication, not trimmed by us; the city/state/zip survive the redaction and are what the form prints."
+   },
+   {
+    "line_no": "2",
+    "date": "4/13/2026",
+    "donor_raw": "Toby Mileski",
+    "donor_city": "Pleasant View",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street portion county-redacted."
+   },
+   {
+    "line_no": "3",
+    "date": "5/4/20269",
+    "donor_raw": "Kathleen Reece",
+    "donor_city": "Providence",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "DATE IS MALFORMED IN THE SOURCE and is kept exactly as printed: '5/4/20269' - a five-digit year, plainly a filer keystroke slip for 2026, but no repair is made and no year is inferred. It will not normalize to ISO. Street portion county-redacted."
+   },
+   {
+    "line_no": "4",
+    "date": "5/11/2026",
+    "donor_raw": "Norther Wasatch Association of Realtors",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "donor name kept VERBATIM including the filer's 'Norther' (the organization is the Northern Wasatch Association of REALTORS, which appears correctly spelled on other filings in this corpus). Street portion county-redacted."
+   },
+   {
+    "line_no": "5",
+    "date": "5/14/2026",
+    "donor_raw": "Chris Hayter",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street portion county-redacted."
+   },
+   {
+    "line_no": "6",
+    "date": "5/22/2026",
+    "donor_raw": "Katrina Gibson - Loan",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20000.00",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer's own '- Loan' tag is written INSIDE the name cell and is kept there verbatim. A 20,000.00 self-loan from the candidate, reported on Form A and counted in its printed total - five sixths of everything this report itemizes. Street portion county-redacted."
+   },
+   {
+    "line_no": "7",
+    "date": "5/22/2026",
+    "donor_raw": "Ryan & Kristina Wilcox",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 2,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "a joint two-person entry as the filer wrote it; kept as ONE row, never split into two imagined donors. Street portion county-redacted."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "4/8/2026",
+    "vendor_raw": "Richard Cox",
+    "purpose": "Candidate Nomination Petitions",
+    "amount": "936.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Salt lake City' with the filer's lower-case 'lake' (no vendor_city field in the row contract)."
+   },
+   {
+    "line_no": "2",
+    "date": "4/10/2026",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Constituent Outreach",
+    "amount": "21.45",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'USA' - the filer uses that for online vendors."
+   },
+   {
+    "line_no": "3",
+    "date": "4/11/2026",
+    "vendor_raw": "Hostinger",
+    "purpose": "Website Hosting",
+    "amount": "7.59",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'USA'."
+   },
+   {
+    "line_no": "4",
+    "date": "4/11/2026",
+    "vendor_raw": "Bell Printing & Design",
+    "purpose": "Campaign Materials",
+    "amount": "1212.17",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Layton'."
+   },
+   {
+    "line_no": "5",
+    "date": "4/13/2026",
+    "vendor_raw": "Farr Better Ice Cream",
+    "purpose": "Convention Supplies",
+    "amount": "351.01",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   },
+   {
+    "line_no": "6",
+    "date": "4/23/2026",
+    "vendor_raw": "Bell Printing & Design",
+    "purpose": "Campaign Materials",
+    "amount": "453.99",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Layton'."
+   },
+   {
+    "line_no": "7",
+    "date": "5/6/2026",
+    "vendor_raw": "Wright Signs",
+    "purpose": "Signage",
+    "amount": "3536.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   },
+   {
+    "line_no": "8",
+    "date": "5/11/2026",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Constituent Outreach",
+    "amount": "28.42",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'USA'."
+   },
+   {
+    "line_no": "9",
+    "date": "5/15/2026",
+    "vendor_raw": "Wright Signs",
+    "purpose": "Signage",
+    "amount": "3487.12",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   },
+   {
+    "line_no": "10",
+    "date": "5/16/2026",
+    "vendor_raw": "Costco",
+    "purpose": "Campaign Supplies",
+    "amount": "678.04",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   }
+  ],
+  "notes": "2026-cycle filing, three pages: p1 = the county's new 'Campaign Financial Summary' cover (TYPED, 'May 26 - Pre-Primary Election' box marked with an X, signature dated 5/26/2026), p2 = Form A, p3 = Form B. UNUSUAL FOR THIS CORPUS AND WORTH RECORDING: the cover is a PORTRAIT page but BOTH SCHEDULES ARE TRUE LANDSCAPE PAGES CARRYING /Rotate 90 - the only rotated-page filing among the nine in this chunk apart from Michael Thomas's (/Rotate 270). Everything on all three pages is typed; there is no handwriting except the signature. Neither schedule prints a per-page subtotal; each is a single sheet with one grand total, and both close to the cent against the cover. No in-kind item is labelled anywhere on this filing. The county REDACTED the candidate's street address and city/zip on the cover and the DONOR STREET ADDRESSES on Form A (black bars) - donor city/state/zip survive the redaction and are what is carried here; nothing behind a government redaction was recovered. Three filer errors are retained verbatim and NOT repaired: the malformed date '5/4/20269', the misspelled donor 'Norther Wasatch Association of Realtors', and the city 'Bethesada, MD'. SUPERSEDE CAUTION: this filer also has a 2026-07-23 re-file in this corpus which supersedes a different original; this May 26 pre-primary report is its own document and is transcribed on its own terms.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     83.8,
+     93.75
+    ],
+    "cells": [
+     [
+      6.3,
+      13.86
+     ],
+     [
+      13.86,
+      44.57
+     ],
+     [
+      44.57,
+      83.8
+     ],
+     [
+      83.8,
+      93.75
+     ]
+    ],
+    "rows": [
+     [
+      16.94,
+      20.06
+     ],
+     [
+      20.06,
+      23.29
+     ],
+     [
+      23.29,
+      26.5
+     ],
+     [
+      26.5,
+      29.68
+     ],
+     [
+      29.68,
+      32.88
+     ],
+     [
+      32.88,
+      36.06
+     ],
+     [
+      36.06,
+      39.24
+     ],
+     [
+      39.24,
+      42.44
+     ],
+     [
+      42.44,
+      45.65
+     ],
+     [
+      45.65,
+      48.82
+     ],
+     [
+      48.82,
+      52.0
+     ],
+     [
+      52.0,
+      55.18
+     ]
+    ],
+    "measure_note": "True LANDSCAPE page (/Rotate 90; poppler renders 2200 x 1700 at 200 dpi), so unlike the scanned archive sheets the rows advance NORMALLY top-to-bottom and the axis is y. rowbands detects the printed rules; the table's own grid is [13.76 top border, 16.94, 20.06, 23.29, 26.50, 29.68, 32.88, 36.06, 39.24, 42.44, 45.65, 48.82, 52.00, 55.18] on a constant ~3.19 pct pitch. TWO DETECTED RULES WERE DISCARDED AS ARTEFACTS: 31.41 and 32.18 are the COUNTY'S BLACK REDACTION BARS over the donor street addresses, not table rules - they sit inside a single band and break the otherwise exact pitch (29.68 + 3.19 = 32.87 = the detected 32.88). 11.24 is the rule under the page title, outside the table. Header row = [13.76,16.94]; row 1 is the grey shaded strip below it; the filer's seven entries are rows 2-8. Column bands from the vertical rules (6.30 / 13.86 / 44.57 / 83.80 / 93.75). MEASURED, then PROVED with a scratchpad raster crop rather than make_snippet: pages 2 and 3 of this PDF carry /Rotate 90, and scripts/campaign_finance/make_snippet.py maps pct->pixels with pdfinfo's UNROTATED MediaBox (612 x 792) while pdftoppm's -x/-y/-W/-H address the ROTATED raster, so its --value crop lands in the wrong cell on a rotated page. Verified: a make_snippet crop aimed at this page's row 2 amount returned the Address column of a different row. The bands below are in the frame the brief specifies - percentages of the page AS POPPLER RENDERS IT, rotation included - which is what rowbands measures and what a re-render reproduces; only the verification tool disagreed, and the shared script was left untouched."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     83.05,
+     93.7
+    ],
+    "cells": [
+     [
+      6.3,
+      15.27
+     ],
+     [
+      15.27,
+      51.52
+     ],
+     [
+      51.52,
+      62.16
+     ],
+     [
+      62.16,
+      83.05
+     ],
+     [
+      83.05,
+      93.7
+     ]
+    ],
+    "rows": [
+     [
+      20.82,
+      23.74
+     ],
+     [
+      23.74,
+      26.76
+     ],
+     [
+      26.76,
+      29.76
+     ],
+     [
+      29.76,
+      32.76
+     ],
+     [
+      32.76,
+      35.76
+     ],
+     [
+      35.76,
+      38.74
+     ],
+     [
+      38.74,
+      41.71
+     ],
+     [
+      41.71,
+      44.71
+     ],
+     [
+      44.71,
+      47.71
+     ],
+     [
+      47.71,
+      50.71
+     ],
+     [
+      50.71,
+      53.68
+     ],
+     [
+      53.68,
+      56.65
+     ],
+     [
+      56.65,
+      59.65
+     ]
+    ],
+    "measure_note": "Same true-landscape page (/Rotate 90), axis y. Grid: 16.44 top border, then 20.82, 23.74, 26.76, 29.76, 32.76, 35.76, 38.74, 41.71, 44.71, 47.71, 50.71, 53.68, 56.65, 59.65 on a constant ~2.99 pct pitch; 14.09 is the title rule outside the table. The header row is TALLER than one pitch - [16.44,20.82], 4.38 pct - because Form B's first column header 'Date of Expenditure' wraps to two lines. Row 1 is the grey shaded strip; the filer's ten entries are rows 2-11, and rows 12-13 are printed but empty. Column bands from the vertical rules (6.30 / 15.27 / 51.52 / 62.16 / 83.05 / 93.70). MEASURED, then PROVED with a scratchpad raster crop rather than make_snippet: pages 2 and 3 of this PDF carry /Rotate 90, and scripts/campaign_finance/make_snippet.py maps pct->pixels with pdfinfo's UNROTATED MediaBox (612 x 792) while pdftoppm's -x/-y/-W/-H address the ROTATED raster, so its --value crop lands in the wrong cell on a rotated page. Verified: a make_snippet crop aimed at this page's row 2 amount returned the Address column of a different row. The bands below are in the frame the brief specifies - percentages of the page AS POPPLER RENDERS IT, rotation included - which is what rowbands measures and what a re-render reproduces; only the verification tool disagreed, and the shared script was left untouched."
+   }
+  }
+ }
+]

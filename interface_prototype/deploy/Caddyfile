@@ -1,0 +1,46 @@
+# Caddy config for the civic-data service.
+#   sudo cp Caddyfile /etc/caddy/Caddyfile
+#   sudo systemctl reload caddy
+#
+# Caddy obtains and renews the TLS certificate automatically; point
+# data.municipalsky.com's A record at this box first, or the ACME challenge
+# fails and the site never comes up.
+
+data.municipalsky.com {
+	encode zstd gzip
+
+	# Server-Sent Events must not be buffered or compressed — either turns a
+	# streamed answer into a blank page that fills in all at once at the end.
+	# `flush_interval -1` disables response buffering for the stream.
+	@sse path /api/chat
+	handle @sse {
+		reverse_proxy 127.0.0.1:8787 {
+			flush_interval -1
+			transport http {
+				# A question can legitimately run past a minute (the measured
+				# worst case was 70s). The default 30s idle would sever it.
+				read_timeout 5m
+			}
+		}
+	}
+
+	handle {
+		reverse_proxy 127.0.0.1:8787
+	}
+
+	header {
+		# The service replies with its own CORS headers, scoped to the allowed
+		# origin. Nothing here should widen that.
+		Referrer-Policy "no-referrer"
+		X-Content-Type-Options "nosniff"
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		-Server
+	}
+
+	log {
+		output file /var/log/caddy/civic-data.log {
+			roll_size 20mb
+			roll_keep 5
+		}
+	}
+}

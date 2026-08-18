@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:04:40Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "John B. Bond",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "October 21st - 28th",
@@ -49,5 +49,324 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed form, checkbox hand-ticked; RECEIVED stamp OCT 27 2014, hand-dated 10/24/14."
+ "notes": "Typed form, checkbox hand-ticked; RECEIVED stamp OCT 27 2014, hand-dated 10/24/14.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "20-Jan-14",
+   "donor_raw": "John Bond",
+   "donor_city": "Roy",
+   "donor_state": "UT",
+   "amount": "1562.19",
+   "confidence": "high",
+   "geometry": "pct:17.85,4.74,3.20,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=17.85-21.05 (1 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "13-Mar-14",
+   "donor_raw": "Nila and Ralph Dayton",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:21.05,4.74,3.17,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=21.05-24.22 (2 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "5-Sep-14",
+   "donor_raw": "Weber County Republican Party",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "3000.00",
+   "confidence": "high",
+   "geometry": "pct:24.22,4.74,3.14,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=24.22-27.36 (3 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "10-Sep-14",
+   "donor_raw": "Christie Moore",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "130.00",
+   "confidence": "high",
+   "geometry": "pct:27.36,4.74,3.17,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=27.36-30.53 (4 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "29-Sep-14",
+   "donor_raw": "Friends of Kerry Gibson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "confidence": "high",
+   "geometry": "pct:30.53,4.74,3.15,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=30.53-33.68 (5 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "29-Sep-14",
+   "donor_raw": "Karen and Val Lofgreen",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "confidence": "high",
+   "geometry": "pct:33.68,4.74,3.14,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=33.68-36.82 (6 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "3-Oct-14",
+   "donor_raw": "David Duncan",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "200.00",
+   "confidence": "high",
+   "geometry": "pct:36.82,4.74,3.11,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=36.82-39.93 (7 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "8-Oct-14",
+   "donor_raw": "Preserve Ogden Valley- Summit",
+   "donor_city": "Eden",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "confidence": "high",
+   "geometry": "pct:39.93,4.74,3.20,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=39.93-43.13 (8 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "9",
+   "date": "20-Oct-14",
+   "donor_raw": "Mark Brinton",
+   "donor_city": "Sunset",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:43.13,4.74,3.14,10.70@p2",
+   "geometry_frame": "p2 axis=x cell=4.74-15.44 rowband=43.13-46.27 (9 of 22 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "20-Jan-14",
+   "vendor_raw": "4Imprint",
+   "purpose": "Pens",
+   "amount": "295.71",
+   "confidence": "high",
+   "geometry": "pct:19.85,3.21,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=19.85-22.93 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "27-Feb-14",
+   "vendor_raw": "FedEx Office",
+   "purpose": "Copies",
+   "amount": "6.55",
+   "confidence": "high",
+   "geometry": "pct:22.93,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=22.93-25.98 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "28-Feb-14",
+   "vendor_raw": "Dingman Professional Printing",
+   "purpose": "Flyers, Magnets",
+   "amount": "659.26",
+   "confidence": "high",
+   "geometry": "pct:25.98,3.21,3.12,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=25.98-29.10 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "28-Feb-14",
+   "vendor_raw": "Dingman Professional Printing",
+   "purpose": "Flyers",
+   "amount": "1205.27",
+   "confidence": "high",
+   "geometry": "pct:29.10,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=29.10-32.15 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "1-Mar-14",
+   "vendor_raw": "Office Max",
+   "purpose": "Envelopes, Labels",
+   "amount": "75.14",
+   "confidence": "high",
+   "geometry": "pct:32.15,3.21,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=32.15-35.23 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "1-Mar-14",
+   "vendor_raw": "U.S. Post Office",
+   "purpose": "Stamps",
+   "amount": "343.00",
+   "confidence": "high",
+   "geometry": "pct:35.23,3.21,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=35.23-38.31 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "1-Mar-14",
+   "vendor_raw": "Walmart",
+   "purpose": "Storage bags",
+   "amount": "9.94",
+   "confidence": "high",
+   "geometry": "pct:38.31,3.21,3.06,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=38.31-41.37 (7 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "14-Mar-14",
+   "vendor_raw": "Weber County Clerk/Auditor",
+   "purpose": "Filing fee",
+   "amount": "803.32",
+   "confidence": "high",
+   "geometry": "pct:41.37,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=41.37-44.42 (8 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "9",
+   "date": "3-Apr-14",
+   "vendor_raw": "Dingman Professional Printing",
+   "purpose": "Flyers, Name badges",
+   "amount": "344.02",
+   "confidence": "high",
+   "geometry": "pct:44.42,3.21,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=44.42-47.50 (9 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "10",
+   "date": "9-Apr-14",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Booth rental",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:47.50,3.21,3.12,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=47.50-50.62 (10 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "11",
+   "date": "11-Apr-14",
+   "vendor_raw": "Office Max",
+   "purpose": "Name badges",
+   "amount": "44.94",
+   "confidence": "high",
+   "geometry": "pct:50.62,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=50.62-53.67 (11 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "12",
+   "date": "17-Sep-14",
+   "vendor_raw": "Chris Carter",
+   "purpose": "Website",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:53.67,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=53.67-56.72 (12 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "13",
+   "date": "17-Sep-14",
+   "vendor_raw": "Dingman Professional Printing",
+   "purpose": "Signs",
+   "amount": "2194.70",
+   "confidence": "high",
+   "geometry": "pct:56.72,3.21,3.06,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=56.72-59.78 (13 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "14",
+   "date": "29-Sep-14",
+   "vendor_raw": "Home Depot",
+   "purpose": "Signs",
+   "amount": "38.34",
+   "confidence": "high",
+   "geometry": "pct:59.78,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=59.78-62.83 (14 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "15",
+   "date": "24-Oct-14",
+   "vendor_raw": "Ogden Valley News",
+   "purpose": "Advertising",
+   "amount": "62.00",
+   "confidence": "high",
+   "geometry": "pct:62.83,3.21,3.05,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=3.21-13.90 rowband=62.83-65.88 (15 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT (6,242.19)",
+     "detail": "9 Form A rows sum to 6,242.19 = printed schedule total = the cover's This-Report column; cumulative 9,958.13 is carried forward and not itemized here"
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT (6,382.19)",
+     "detail": "15 Form B rows sum to 6,382.19 = printed schedule total = the cover's This-Report column; cumulative 10,098.13 carried forward"
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 15,
+   "geometry": {
+    "measured": 24,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Typed schedules, rotated landscape scan; PERIOD schedules behind a CUMULATIVE cover. Row 1 of Form A is the candidate's own 1,562.19 self-contribution. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

@@ -163,6 +163,9 @@ by `date` (+ `body`). Full write-up: `EXPAND_SOURCES_REPORT.md`.
   `source` stays `laserfiche`, text unchanged). The 3 Jan Formal dates PMN never posted stay
   honestly URL-less.**
 - **`transcripts/`** — **ASR**, 10 sampled / **1,142 videos mapped** (SLC Live Meetings YouTube, 2011+; the repo's largest map).
-- **`campaign_finance/`** — **8 filings (2003 cycle), STRUCTURED 2026-08-02** (Wayback-recovered Recorder PDFs — the adversarial re-hunt falsified "no PDFs exist"; 222+162 itemized rows, geometry-anchored, validate PASS). 2005+ still absent: POST-only-era GRAMA lead + the 2019+ portal outage — SLC's JSON WebAPI
+- **`campaign_finance/`** — **10 filings (2003 cycle), STRUCTURED 2026-08-02, EXTENDED 2026-08-14** (Wayback-recovered Recorder PDFs — the adversarial re-hunt falsified "no PDFs exist"; **248+176** itemized rows, geometry-anchored, validate PASS. 10 of 11 index candidates; `Dale_Lambert` never captured = permanent gap). 2005+ still absent: POST-only-era GRAMA lead + the 2019+ portal outage — SLC's JSON WebAPI
   (`dotnet.slcgov.com/Attorneys/CampaignFinance_Public/`) is API-reverse-engineered with a
-  scaffolded harvester, **run it the day the backend answers** (twice-daily watcher armed 2026-08-02).
+  scaffolded harvester, **run it the day the backend answers** (re-probed 2026-08-14: still
+  503, body byte-identical to the retained snapshot; the cron watcher was canceled 2026-08-03,
+  so this is a refresh-time check). Also holds non-filing context: 15 §2.46.080 limit/decline
+  notices and 2025+2021 declared-candidate roster snapshots (no money).

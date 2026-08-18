@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2024 sheet; same figures as the filer's Pre-Election copy (doc 24247), name written in full as 'Roger Lynn Armstrong'. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typed 2024 sheet; same figures as the filer's Pre-Election copy (doc 24247), name written in full as 'Roger Lynn Armstrong'. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "339.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,25.80,72.47,2.82@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "339.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,20.72,78.56,2.90@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "339.46",
+    "itemized": "339.46",
+    "result": "exact",
+    "detail": "exact - one self-funding row equal to the page TOTAL and the cover"
+   },
+   "expenditures": {
+    "stated": "339.46",
+    "itemized": "339.46",
+    "result": "exact",
+    "detail": "exact - one filing-fee row equal to the page TOTAL and the cover"
+   }
+  },
+  "page_gates": "Both schedule pages print an in-table TOTAL of $339.46 and each carries exactly one row of that amount; the cover states 339.46 on both sides. Three agreeing figures per side.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2024 sheet, one row a side: the incumbent paid his own $339.46 filing fee and the campaign spent nothing else. THE PAGES ARE SWAPPED on this Post-Election copy: page 2 is the Itemized EXPENSE Report and page 3 the Itemized CONTRIBUTION Report - page position is not a reliable classifier even inside one cycle and one filer's pair. Otherwise it is the Pre-Election sheet (24247) re-filed unchanged; never sum the two."
+ }
 }

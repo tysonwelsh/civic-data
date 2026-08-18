@@ -1,0 +1,1587 @@
+[
+ {
+  "index_path": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+  "page_start": 8,
+  "page_end": 13,
+  "key": "702e3296",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13
+  ],
+  "itemized_pages_A": "9,10",
+  "itemized_pages_B": "13",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "Form A's own printed chain, which closes on the cover's CUMULATIVE line-1 cell: June block 'Total $62,284' (p9) + July block 'Sub Total $10,950' (p9) = the p10 'Total / Nov. Report $73,234' = the cover's 'Totals from Last Report'; + the 11/19/18 $400 row = p10's 'Total Contributions / Year End Report $73,634' = the cover's CUMULATIVE 73,634.00",
+    "detail": "TRACED DELTA of exactly 1,000.00, retained verbatim as the FILER's arithmetic and never adjusted. The 31 transcribed Form A rows sum to 74,634.00 against the printed 73,634.00. The June block closes to the cent (24 rows = 62,284.00 = its own printed Total). The July block's six rows sum to 11,950.00 against the filer's own printed Sub Total of 10,950.00: his subtotal OMITS ITS OWN LAST ROW, 8/23/18 WC GOP $1,000.00 (the Rowley pattern). That 10,950.00 is what he then carries into 73,234.00 and into the cover, so the cover is internally consistent with his page arithmetic and the $1,000 row is genuinely un-summed rather than mis-read. Cover line 1 is a 3-line form (contrib_all), so there is no <=$50 aggregate line to explain any part of the residual. This is a FINAL (Jan 7th, 2019) report on an officeholder account, but the 'Totals from Last Report' column here is this same 2018 cycle's earlier reports - Form A restates the WHOLE cycle, so the schedule is cumulative-scoped, not period-scoped."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Form B's own printed 'Grand Total $70,488.53' on p13, against the cover's line-2 CUMULATIVE cell of 70,017.23",
+    "detail": "TRACED DELTA of exactly 471.30, retained verbatim. The 55 transcribed Form B rows sum to 70,488.53, matching p13's own printed Grand Total to the cent, and every one of its three internal anchors closes exactly: block 1 = 52,307.95 ('Filed 06/19/2018 Total'), block 2 = 15,148.28 ('Sub Total', running Grand Total 67,456.23), block 3 = 3,032.30 ('Sub Total', Grand Total 70,488.53). The schedule is internally perfect. The cover's 70,017.23 is LOWER by 471.30 because the packet binds TWO copies of the same Form B: p12 is the 12/21/2018 year-end version whose third block has only 3 rows (Sub Total 2,561.00, Grand Total 70,017.23 - exactly the cover's This-Report and Cumulative cells), and p13 is a later 12/31/2018 'File Final Report' version of the identical schedule with 3 MORE rows: 11/15/18 Curtis Wells Campaign 250.00 + 12/24/18 Zucca 21.30 + 12/24/18 JW Hats 200.00 = 471.30. The filer updated his schedule and did not update his cover. The fuller p13 copy is transcribed (it is a strict superset of p12, so nothing is double-counted and nothing is dropped); the cover is left as the module already publishes it."
+   }
+  },
+  "escalations": 7,
+  "escalation_note": "900-1200 dpi --value tight crops: p9 band 5 (Dixon Pitcher / $500) and band 28 (Valley Enterprise LLC / $1,000) to PROVE the p9 row grid at its first and last June data row; p10 band 10 (Shanna Francis / Eden Utah / $400) to prove the continuation sheet; p13 bands 3, 4 and 61 to prove the p13 text-line frame at its first and last data rows; and three 1200 dpi crops to settle p13's odd cells - the 4/14/18 Costco amount (655.40, NOT the 555.40 a 200 dpi full-page read suggested - the block's own 52,307.95 total decides it and the crop confirms), the literal '11/21?2018' date, and the three-digit-year '9/01/208' date. No arithmetic dispute was created by any crop; both deltas were traced on the page.",
+  "frames": {
+   "9": {
+    "axis": "y",
+    "cell": [
+     82.03,
+     93.25
+    ],
+    "cells": [
+     [
+      3.76,
+      14.33
+     ],
+     [
+      14.33,
+      35.29
+     ],
+     [
+      35.29,
+      60.37
+     ],
+     [
+      60.37,
+      82.03
+     ],
+     [
+      82.03,
+      93.25
+     ]
+    ],
+    "rows": [
+     [
+      7.54,
+      9.04
+     ],
+     [
+      9.04,
+      10.84
+     ],
+     [
+      10.84,
+      12.64
+     ],
+     [
+      12.64,
+      14.4
+     ],
+     [
+      14.4,
+      16.17
+     ],
+     [
+      16.17,
+      17.93
+     ],
+     [
+      17.93,
+      19.73
+     ],
+     [
+      19.73,
+      21.5
+     ],
+     [
+      21.5,
+      23.26
+     ],
+     [
+      23.26,
+      25.01
+     ],
+     [
+      25.01,
+      26.81
+     ],
+     [
+      26.81,
+      28.56
+     ],
+     [
+      28.56,
+      30.34
+     ],
+     [
+      30.34,
+      32.12
+     ],
+     [
+      32.12,
+      33.9
+     ],
+     [
+      33.9,
+      35.67
+     ],
+     [
+      35.67,
+      37.45
+     ],
+     [
+      37.45,
+      39.2
+     ],
+     [
+      39.2,
+      40.98
+     ],
+     [
+      40.98,
+      42.73
+     ],
+     [
+      42.73,
+      44.51
+     ],
+     [
+      44.51,
+      46.29
+     ],
+     [
+      46.29,
+      48.02
+     ],
+     [
+      48.02,
+      49.79
+     ],
+     [
+      49.79,
+      51.57
+     ],
+     [
+      51.57,
+      53.35
+     ],
+     [
+      53.35,
+      55.13
+     ],
+     [
+      55.13,
+      56.88
+     ],
+     [
+      56.88,
+      58.63
+     ],
+     [
+      58.63,
+      60.43
+     ],
+     [
+      60.43,
+      62.19
+     ],
+     [
+      62.19,
+      63.96
+     ],
+     [
+      63.96,
+      65.74
+     ],
+     [
+      65.74,
+      67.52
+     ],
+     [
+      67.52,
+      69.29
+     ],
+     [
+      69.29,
+      71.07
+     ],
+     [
+      71.07,
+      72.82
+     ],
+     [
+      72.82,
+      74.6
+     ],
+     [
+      74.6,
+      76.36
+     ],
+     [
+      76.36,
+      78.15
+     ],
+     [
+      78.15,
+      79.91
+     ],
+     [
+      79.91,
+      81.69
+     ],
+     [
+      81.69,
+      83.46
+     ],
+     [
+      83.46,
+      85.24
+     ],
+     [
+      85.24,
+      86.99
+     ],
+     [
+      86.99,
+      88.77
+     ],
+     [
+      88.77,
+      90.52
+     ],
+     [
+      90.52,
+      92.26
+     ]
+    ],
+    "measure_note": "UNROTATED portrait sheet (pdfinfo 'Page 9 rot: 0'), so rows advance top-to-bottom (axis y) and the AMOUNT column band is measured on x. The printed grid prints a DASHED mid-line inside every row, so plain rule detection returns ~2 rules per row at a 0.88 pct pitch; the true row pitch is 1.77 pct and the frame keeps only the solid rules (7.54, 9.04, 10.84, 12.64, 14.40, 16.17, ... 92.26 - 49 rules, 48 bands), which is confirmed independently by the ink runs in the AMOUNT column: 24 June amounts land one per band in bands 5-28 and the six July amounts in bands 41-46, with no run ever straddling a band edge. PROVED with --value crops at the first (band 5, '3/15/18 Dixon Pitcher ... $500') and last (band 28, '6/12/18 Valley Enterprise LLC ... $1,000') June data rows. Bands 1-4 are the table border, the two header rows and one blank row; band 30 is 'Filed June 19, 2018 / Total / $62,284' and band 48 the July 'Sub Total / $10,950'. Column bands come from the vertical rules measured across the data area (3.76 / 14.33 / 35.29 / 60.37 / 82.03 / 93.25)."
+   },
+   "10": {
+    "axis": "y",
+    "cell": [
+     81.8,
+     93.1
+    ],
+    "rows": [
+     [
+      8.54,
+      10.32
+     ],
+     [
+      10.32,
+      12.1
+     ],
+     [
+      12.1,
+      13.87
+     ],
+     [
+      13.87,
+      15.65
+     ],
+     [
+      15.65,
+      17.43
+     ],
+     [
+      17.43,
+      19.2
+     ],
+     [
+      19.2,
+      20.98
+     ],
+     [
+      20.98,
+      22.73
+     ],
+     [
+      22.73,
+      24.53
+     ],
+     [
+      24.53,
+      26.26
+     ],
+     [
+      26.26,
+      28.04
+     ],
+     [
+      28.04,
+      29.82
+     ],
+     [
+      29.82,
+      31.59
+     ]
+    ],
+    "measure_note": "UNROTATED portrait sheet; same printed Form A grid as p9, same 1.78 pct pitch, and here rule detection returns the solid rules cleanly (14 rules -> 13 bands, 8.54 .. 31.59). The three inked bands are 8 ('Total / Nov. Report / $73,234'), 10 (the 11/19/18 Shanna Francis $400 entry) and 12 ('Total Contributions / Year End Report / $73,634'), each confirmed by an AMOUNT-column ink run inside the band; band 10 was PROVED with a 600 dpi full-row crop. The sheet's vertical rules give the AMOUNT column as 81.80-93.10."
+   },
+   "13": {
+    "axis": "y",
+    "cell": [
+     57.5,
+     66.0
+    ],
+    "rows": [
+     [
+      6.62,
+      7.84
+     ],
+     [
+      7.84,
+      9.02
+     ],
+     [
+      9.02,
+      10.18
+     ],
+     [
+      10.18,
+      11.39
+     ],
+     [
+      11.39,
+      12.53
+     ],
+     [
+      12.53,
+      13.69
+     ],
+     [
+      13.69,
+      14.87
+     ],
+     [
+      14.87,
+      16.06
+     ],
+     [
+      16.06,
+      17.22
+     ],
+     [
+      17.22,
+      18.38
+     ],
+     [
+      18.38,
+      19.57
+     ],
+     [
+      19.57,
+      20.77
+     ],
+     [
+      20.77,
+      21.89
+     ],
+     [
+      21.89,
+      23.08
+     ],
+     [
+      23.08,
+      24.26
+     ],
+     [
+      24.26,
+      25.42
+     ],
+     [
+      25.42,
+      26.61
+     ],
+     [
+      26.61,
+      27.77
+     ],
+     [
+      27.77,
+      28.93
+     ],
+     [
+      28.93,
+      30.09
+     ],
+     [
+      30.09,
+      31.3
+     ],
+     [
+      31.3,
+      32.41
+     ],
+     [
+      32.41,
+      33.6
+     ],
+     [
+      33.6,
+      34.81
+     ],
+     [
+      34.81,
+      35.95
+     ],
+     [
+      35.95,
+      37.13
+     ],
+     [
+      37.13,
+      38.29
+     ],
+     [
+      38.29,
+      39.48
+     ],
+     [
+      39.48,
+      40.66
+     ],
+     [
+      40.66,
+      41.8
+     ],
+     [
+      41.8,
+      42.98
+     ],
+     [
+      42.98,
+      44.15
+     ],
+     [
+      44.15,
+      45.33
+     ],
+     [
+      45.33,
+      46.47
+     ],
+     [
+      46.47,
+      47.63
+     ],
+     [
+      47.63,
+      49.64
+     ],
+     [
+      49.64,
+      51.73
+     ],
+     [
+      51.73,
+      53.35
+     ],
+     [
+      53.35,
+      55.13
+     ],
+     [
+      55.13,
+      56.31
+     ],
+     [
+      56.31,
+      57.47
+     ],
+     [
+      57.47,
+      58.63
+     ],
+     [
+      58.63,
+      59.82
+     ],
+     [
+      59.82,
+      60.98
+     ],
+     [
+      60.98,
+      62.14
+     ],
+     [
+      62.14,
+      63.33
+     ],
+     [
+      63.33,
+      64.49
+     ],
+     [
+      64.49,
+      65.65
+     ],
+     [
+      65.65,
+      66.83
+     ],
+     [
+      66.83,
+      68.0
+     ],
+     [
+      68.0,
+      69.77
+     ],
+     [
+      69.77,
+      71.53
+     ],
+     [
+      71.53,
+      74.44
+     ],
+     [
+      74.44,
+      77.43
+     ],
+     [
+      77.43,
+      79.13
+     ],
+     [
+      79.13,
+      80.89
+     ],
+     [
+      80.89,
+      82.05
+     ],
+     [
+      82.05,
+      83.23
+     ],
+     [
+      83.23,
+      84.4
+     ],
+     [
+      84.4,
+      85.56
+     ],
+     [
+      85.56,
+      86.74
+     ],
+     [
+      86.74,
+      89.07
+     ],
+     [
+      89.07,
+      91.48
+     ]
+    ],
+    "measure_note": "UNROTATED portrait sheet (rot: 0), and this sheet is the filer's OWN TYPED SPREADSHEET substituted for the printed Form B - there is NO printed grid at all, so the frame is measured from the page's own text lines: 63 ink runs in the x=8-70 pct window, tiled to their midpoints. The mapping is unambiguous because the run count matches the printed structure exactly - runs 1-2 are the two header lines, 3-36 the 34 rows of block 1, 37-38 its total line and the 'July Report' banner, 39-53 the 15 rows of block 2, 54-55 its Sub Total / Grand Total, 56-61 the 6 rows of block 3, 62-63 its Sub Total and the final Grand Total. PROVED with 900-1200 dpi --value crops at bands 3 ('3/15/18 Weber County ... $681.00'), 4 ('3/16/18 Josh Harrison ... $3,600.00') and 61 ('12/24/18 JW Hats ... $200.00') - the first two and the last data rows. The AMOUNT column band (57.5-66.0) was measured from the x-axis ink runs (amount text occupies 59.4-64.2) and verified to hold in block 3 as well as block 1."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "3/15/18",
+    "donor_raw": "Dixon Pitcher",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "3/20/18",
+    "donor_raw": "Chip Nelson",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "3/22/18",
+    "donor_raw": "Christie Moore",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "200",
+    "page": 9,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "4/2/18",
+    "donor_raw": "Dave Grant",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "4/10/18",
+    "donor_raw": "R & O Construction",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "4/14/18",
+    "donor_raw": "Rick Fairbanks",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "4/20/18",
+    "donor_raw": "Transfer from State Fund",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "35000",
+    "page": 9,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "4/28/18",
+    "donor_raw": "Rich & June Brewer",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "5/2/18",
+    "donor_raw": "Edge Commerce LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "10000",
+    "page": 9,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "10",
+    "date": "5/22/18",
+    "donor_raw": "Froerer & Miles",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300",
+    "page": 9,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "11",
+    "date": "5/23/18",
+    "donor_raw": "H2 Commerce",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1014",
+    "page": 9,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "5/29/18",
+    "donor_raw": "Dan James",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100",
+    "page": 9,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "13",
+    "date": "5/30/18",
+    "donor_raw": "Ray Kimber",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "5/30/18",
+    "donor_raw": "RPAC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5000",
+    "page": 9,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "15",
+    "date": "6/1/18",
+    "donor_raw": "NWAOR (In Kind)",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "270",
+    "page": 9,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "the filer's own in-kind tag is inside the NAME cell ('NWAOR (In Kind)') and is kept verbatim; the row counts toward the schedule's printed total, as the form directs"
+   },
+   {
+    "line_no": "16",
+    "date": "6/1/18",
+    "donor_raw": "Craig Peterson",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "250",
+    "page": 9,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "17",
+    "date": "6/4/18",
+    "donor_raw": "Jeff Harrison",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "6/4/18",
+    "donor_raw": "Scott Parkinson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100",
+    "page": 9,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "19",
+    "date": "6/12/18",
+    "donor_raw": "Roe Ranch LLC",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "1500",
+    "page": 9,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "6/12/18",
+    "donor_raw": "John Lewis",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "21",
+    "date": "6/12/18",
+    "donor_raw": "Mark Stehr",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "250",
+    "page": 9,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "6/12/18",
+    "donor_raw": "Verl Creager",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "200",
+    "page": 9,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "6/12/18",
+    "donor_raw": "James Reed",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "100",
+    "page": 9,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "6/12/18",
+    "donor_raw": "Valley Enterprise LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "25",
+    "date": "6/21/18",
+    "donor_raw": "JEC Development Company",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 41,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE"
+   },
+   {
+    "line_no": "26",
+    "date": "6/21/18",
+    "donor_raw": "Northern Wasatch Inv. LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150",
+    "page": 9,
+    "row": 42,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE"
+   },
+   {
+    "line_no": "27",
+    "date": "6/21/18",
+    "donor_raw": "Lock it up self storage",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300",
+    "page": 9,
+    "row": 43,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE"
+   },
+   {
+    "line_no": "28",
+    "date": "6/30/18",
+    "donor_raw": "RPAC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5000",
+    "page": 9,
+    "row": 44,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE"
+   },
+   {
+    "line_no": "29",
+    "date": "8/6/18",
+    "donor_raw": "Northern Wasatch Inv. LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5000",
+    "page": 9,
+    "row": 45,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE"
+   },
+   {
+    "line_no": "30",
+    "date": "8/23/18",
+    "donor_raw": "WC GOP",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "1000",
+    "page": 9,
+    "row": 46,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "in the filer's 'July Report' block on Form A; the SAME six rows are printed a second time on p11 under the heading 'Oct. 23rd Report Contributions.' with the same $10,950 sub total - one set of contributions restated in two of his periodic reports, transcribed ONCE. THIS IS THE ROW THE FILER'S OWN SUB TOTAL OMITS: the six rows sum to 11,950.00 against his printed 10,950.00 sub total"
+   },
+   {
+    "line_no": "31",
+    "date": "11/19/18",
+    "donor_raw": "Shanna Francis",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "400",
+    "page": 10,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Form A continuation sheet; the filer wrote 'Eden Utah' in the ADDRESS column and left the CITY, STATE, ZIP column empty - the city/state recorded here are that value, and no street address exists on this row"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "3/15/18",
+    "vendor_raw": "Weber County",
+    "purpose": "Filing Fee",
+    "amount": "681.00",
+    "page": 13,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "3/16/18",
+    "vendor_raw": "Josh Harrison",
+    "purpose": "Signatures",
+    "amount": "3600.00",
+    "page": 13,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "3/30/18",
+    "vendor_raw": "Brooke Diven",
+    "purpose": "Staff",
+    "amount": "2500.00",
+    "page": 13,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "4/14/18",
+    "vendor_raw": "Costco",
+    "purpose": "Convention",
+    "amount": "655.40",
+    "page": 13,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "4/15/18",
+    "vendor_raw": "Convention (Visa)",
+    "purpose": "Convention",
+    "amount": "146.89",
+    "page": 13,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "4/20/18",
+    "vendor_raw": "Shadow Valley Elem",
+    "purpose": "Donation",
+    "amount": "250.00",
+    "page": 13,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "5/1/18",
+    "vendor_raw": "Brooke Diven",
+    "purpose": "Staff",
+    "amount": "2500.00",
+    "page": 13,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "5/1/18",
+    "vendor_raw": "Kasidy Gibson",
+    "purpose": "Staff",
+    "amount": "600.00",
+    "page": 13,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "5/1/18",
+    "vendor_raw": "Saunder Outdoor",
+    "purpose": "Billboard",
+    "amount": "1500.00",
+    "page": 13,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "10",
+    "date": "5/2/18",
+    "vendor_raw": "Nathan Diven",
+    "purpose": "Campaign",
+    "amount": "120.00",
+    "page": 13,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "11",
+    "date": "5/2/18",
+    "vendor_raw": "OGCC",
+    "purpose": "Campaign Event",
+    "amount": "400.00",
+    "page": 13,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "5/7/18",
+    "vendor_raw": "Froerer & Miles",
+    "purpose": "Legal Fees",
+    "amount": "625.00",
+    "page": 13,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "13",
+    "date": "5/8/18",
+    "vendor_raw": "Gather Signatures",
+    "purpose": "Signatures",
+    "amount": "4776.00",
+    "page": 13,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "5/14/18",
+    "vendor_raw": "Weber County Clerk",
+    "purpose": "Fees",
+    "amount": "121.00",
+    "page": 13,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "15",
+    "date": "5/14/18",
+    "vendor_raw": "Wright Signs",
+    "purpose": "Signs",
+    "amount": "2208.21",
+    "page": 13,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "16",
+    "date": "5/14/18",
+    "vendor_raw": "Costco",
+    "purpose": "Weed Day",
+    "amount": "191.00",
+    "page": 13,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "17",
+    "date": "5/17/18",
+    "vendor_raw": "Kevin Johnson",
+    "purpose": "Videos",
+    "amount": "1000.00",
+    "page": 13,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "5/23/18",
+    "vendor_raw": "Kelly Froerer",
+    "purpose": "Staff",
+    "amount": "800.00",
+    "page": 13,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "19",
+    "date": "5/24/18",
+    "vendor_raw": "Saunder Outdoor",
+    "purpose": "Outside Signs",
+    "amount": "2500.00",
+    "page": 13,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "5/30/18",
+    "vendor_raw": "Brooke Diven",
+    "purpose": "Staff",
+    "amount": "2700.00",
+    "page": 13,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "21",
+    "date": "5/30/18",
+    "vendor_raw": "Satl Lake Mailing (Visa)",
+    "purpose": "Mailer",
+    "amount": "6704.00",
+    "page": 13,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "5/30/18",
+    "vendor_raw": "Wright Signs",
+    "purpose": "Signs",
+    "amount": "886.00",
+    "page": 13,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "5/30/18",
+    "vendor_raw": "Facebook Post",
+    "purpose": "Social Media",
+    "amount": "600.00",
+    "page": 13,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "5/30/18",
+    "vendor_raw": "WSU Printing",
+    "purpose": "Printing",
+    "amount": "55.00",
+    "page": 13,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "25",
+    "date": "5/30/18",
+    "vendor_raw": "Utah Honor Flight",
+    "purpose": "Donation",
+    "amount": "200.00",
+    "page": 13,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "26",
+    "date": "6/1/18",
+    "vendor_raw": "Acme Advertising",
+    "purpose": "Ads",
+    "amount": "3000.00",
+    "page": 13,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "27",
+    "date": "6/1/18",
+    "vendor_raw": "Visa",
+    "purpose": "Sign, Meet & Greet Food",
+    "amount": "943.45",
+    "page": 13,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "28",
+    "date": "6/1/18",
+    "vendor_raw": "Saunder Outdoor",
+    "purpose": "Billboard",
+    "amount": "1000.00",
+    "page": 13,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "29",
+    "date": "6/4/18",
+    "vendor_raw": "Kelly Froerer",
+    "purpose": "Staff",
+    "amount": "1000.00",
+    "page": 13,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "30",
+    "date": "6/11/18",
+    "vendor_raw": "Lowes",
+    "purpose": "Supplies",
+    "amount": "325.00",
+    "page": 13,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "31",
+    "date": "6/11/18",
+    "vendor_raw": "Wright Signs",
+    "purpose": "Signs",
+    "amount": "1950.00",
+    "page": 13,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "32",
+    "date": "6/11/18",
+    "vendor_raw": "Facebook Post",
+    "purpose": "Ads",
+    "amount": "365.00",
+    "page": 13,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "33",
+    "date": "6/11/18",
+    "vendor_raw": "Salt Lake Mailing",
+    "purpose": "Mailer",
+    "amount": "6754.00",
+    "page": 13,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "34",
+    "date": "6/12/18",
+    "vendor_raw": "Ogden Valley News",
+    "purpose": "Ads",
+    "amount": "651.00",
+    "page": 13,
+    "row": 36,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "35",
+    "date": "6/21/18",
+    "vendor_raw": "Zac Perry",
+    "purpose": "Video",
+    "amount": "200.00",
+    "page": 13,
+    "row": 39,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "36",
+    "date": "6/23/18",
+    "vendor_raw": "Tessa Carver",
+    "purpose": "Staff",
+    "amount": "510.00",
+    "page": 13,
+    "row": 40,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "37",
+    "date": "6/30/18",
+    "vendor_raw": "Brooke Diven",
+    "purpose": "Staff",
+    "amount": "2500.00",
+    "page": 13,
+    "row": 41,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "38",
+    "date": "6/30/18",
+    "vendor_raw": "Kelly Froerer",
+    "purpose": "Staff",
+    "amount": "500.00",
+    "page": 13,
+    "row": 42,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "39",
+    "date": "7/3/18",
+    "vendor_raw": "Kevin Johnson",
+    "purpose": "Video",
+    "amount": "1000.00",
+    "page": 13,
+    "row": 43,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "40",
+    "date": "7/3/18",
+    "vendor_raw": "Dan McDonald",
+    "purpose": "Fees",
+    "amount": "1230.00",
+    "page": 13,
+    "row": 44,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "41",
+    "date": "7/3/08",
+    "vendor_raw": "Acme Advertising",
+    "purpose": "Ads",
+    "amount": "2350.00",
+    "page": 13,
+    "row": 45,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date printed '7/3/08' - well-formed but a decade before the cycle; kept verbatim"
+   },
+   {
+    "line_no": "42",
+    "date": "6/30/18",
+    "vendor_raw": "Zions Bank",
+    "purpose": "Parade Supplies",
+    "amount": "219.52",
+    "page": 13,
+    "row": 46,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "43",
+    "date": "7/13/18",
+    "vendor_raw": "Lowes",
+    "purpose": "Parade Supplies",
+    "amount": "266.12",
+    "page": 13,
+    "row": 47,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "44",
+    "date": "7/1/08",
+    "vendor_raw": "Dan McDonald",
+    "purpose": "Atty. Fees",
+    "amount": "2310.00",
+    "page": 13,
+    "row": 48,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date printed '7/1/08' - well-formed but a decade before the cycle; kept verbatim"
+   },
+   {
+    "line_no": "45",
+    "date": "8/1/18",
+    "vendor_raw": "Megan Greenfield",
+    "purpose": "Staff",
+    "amount": "252.64",
+    "page": 13,
+    "row": 49,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "46",
+    "date": "8/1/18",
+    "vendor_raw": "Boy Scouts of America",
+    "purpose": "Donation",
+    "amount": "1000.00",
+    "page": 13,
+    "row": 50,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "47",
+    "date": "9/01/208",
+    "vendor_raw": "Dan McDonald",
+    "purpose": "Fees",
+    "amount": "2110.00",
+    "page": 13,
+    "row": 51,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date printed '9/01/208' (three-digit year) - malformed, kept verbatim, never repaired; confirmed on a 1200 dpi tight crop"
+   },
+   {
+    "line_no": "48",
+    "date": "10/18/18",
+    "vendor_raw": "Special Olypics",
+    "purpose": "Donation",
+    "amount": "500.00",
+    "page": 13,
+    "row": 52,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer's spelling 'Special Olypics' is verbatim"
+   },
+   {
+    "line_no": "49",
+    "date": "9/25/18",
+    "vendor_raw": "Jason Allan",
+    "purpose": "Donation",
+    "amount": "200.00",
+    "page": 13,
+    "row": 53,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "50",
+    "date": "Oct. 24, 2018",
+    "vendor_raw": "Dan McDonald",
+    "purpose": "Staff",
+    "amount": "1260.00",
+    "page": 13,
+    "row": 56,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer wrote the date in long form; kept verbatim"
+   },
+   {
+    "line_no": "51",
+    "date": "11/21?2018",
+    "vendor_raw": "Dan McDonald",
+    "purpose": "Staff",
+    "amount": "755.00",
+    "page": 13,
+    "row": 57,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the date is printed literally as '11/21?2018' - a typed question mark where the separator belongs; confirmed on a 1200 dpi tight crop and kept verbatim"
+   },
+   {
+    "line_no": "52",
+    "date": "11/22/18",
+    "vendor_raw": "Ogden Valley News",
+    "purpose": "Adds",
+    "amount": "546.00",
+    "page": 13,
+    "row": 58,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer's spelling 'Adds' is verbatim"
+   },
+   {
+    "line_no": "53",
+    "date": "11/15/18",
+    "vendor_raw": "Curtis Wells Campaign",
+    "purpose": "Donation",
+    "amount": "250.00",
+    "page": 13,
+    "row": 59,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "only on the p13 revision of Form B; the vendor's city column prints 'Garlield County' (the filer's typo, verbatim)"
+   },
+   {
+    "line_no": "54",
+    "date": "12/24/18",
+    "vendor_raw": "Zucca",
+    "purpose": "Brad Mortenson Lunch",
+    "amount": "21.30",
+    "page": 13,
+    "row": 60,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "only on the p13 revision of Form B"
+   },
+   {
+    "line_no": "55",
+    "date": "12/24/18",
+    "vendor_raw": "JW Hats",
+    "purpose": "Hats for County",
+    "amount": "200.00",
+    "page": 13,
+    "row": 61,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "only on the p13 revision of Form B"
+   }
+  ],
+  "notes": "SIX-page filing and NOT a plain cover+A+B: p8 is the 3-line cover (January 7th, 2019 final report, RECEIVED JAN 04 2019, signed 01/06/19); p9-p10 are Form A, a printed-grid schedule that restates the WHOLE 2018 cycle in four labelled blocks (June / July / Nov. / Year End); p11 is a loose October-report sheet that reprints the Oct-report EXPENDITURE block (already contained in p12/p13) above a heading 'Oct. 23rd Report Contributions.' whose six rows and $10,950 sub total are a verbatim reprint of Form A's July block - transcribed ONCE, from Form A; and p12 and p13 are TWO COPIES OF THE SAME FORM B, the filer's own typed spreadsheet, differing only in the final block (p12 ends 12/21/2018 at Grand Total 70,017.23, p13 ends 12/31/2018 at 70,488.53). The fuller p13 copy is the transcribed side. Donor street addresses printed in Form A's ADDRESS column are deliberately NOT carried (PRIVACY.md: city/state only). Form B has no city field in the record schema, so the vendor cities the filer typed are not carried except where a note needs them."
+ }
+]

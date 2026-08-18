@@ -52,6 +52,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover; the Last Report expenditure cell alone is EMPTY (the other Last cells print $0.00)."
+ "itemized_transcribed": true,
+ "notes": "Typed cover; the Last Report expenditure cell alone is EMPTY (the other Last cells print $0.00).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-03-12",
+   "donor_raw": "Michael Howard",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "587.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.59,23.92,82.44,2.02@p2",
+   "geometry_fit": "measured",
+   "note": "self-funding - the donor is the candidate. Row highlighted yellow on the page.",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-12",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Auditor Filing Fee",
+   "amount": "587.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.71,23.91,82.28,2.02@p3",
+   "geometry_fit": "measured",
+   "note": "Row highlighted yellow on the page. Verified at 900 dpi tight crop.",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "587.08",
+    "itemized": "587.08",
+    "result": "exact",
+    "detail": "exact - one row of 587.08 equals the page's printed >$50 box AND the cover's 587.08. This IS a split50 sheet, but no structural residual arises here: the <=$50 aggregate box is left blank on the page and the cover cache carries it as $0.00, so the >$50 itemization is the whole of the stated total."
+   },
+   "expenditures": {
+    "stated": "587.08",
+    "itemized": "587.08",
+    "result": "exact",
+    "detail": "exact - one row of 587.08 equals the page's printed 'Total amount of expenditures $587.08' and the cover"
+   }
+  },
+  "page_gates": "p2 prints the split50 pair of boxes: 'Total amount from donors giving more than $50' = $587.08 (filled) and 'Total amount from donors giving $50 or less' = EMPTY on the page. The single itemized row reproduces the >$50 box to the cent. p3 prints 'Total amount of expenditures $587.08' and its single row reproduces it. The cover states 587.08 / 587.08 / balance 0.00, so all three gates agree.",
+  "escalations": 1,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A fully TYPED sheet with a faithful scanner OCR layer; both ledger pages were still read full-page at 200 dpi, and the expense row was re-read on a 900 dpi tight crop as the geometry spot-check (reproduced '3/12/18 | Summit County Clerk | Auditor Filing Fee | $587.08'). NO template specimen rows on this filing - the filer used a clean form, and the single real row on each page is HIGHLIGHTED YELLOW by the filer or the clerk. THE WHOLE CAMPAIGN IS ONE SELF-FUNDING TRANSACTION: the candidate contributed $587.08 to himself on 3/12/18 and spent exactly that on the Auditor filing fee the same day, closing to a zero balance. Privacy: the Mailing Address column carries a street address; only city/state are retained. The split50 <=$50 box is BLANK on the page (not a written zero), which under the zero-glyph ruling is a blank, not a numeral - the cover cache's $0.00 for that line is the cover's own figure, not this page's."
+ }
 }

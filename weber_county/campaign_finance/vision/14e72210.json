@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:04:40Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "John E. Ulibarri II",
  "office_stated": "Assessor",
  "report_type_stated": "October 21st - 28th",
@@ -49,5 +49,189 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "FILER LABEL CONFLICT retained verbatim: the 'October 21st - 28th' box is ticked but the form is signed 12/29/2014 and the clerk RECEIVED stamp is DEC 29 2014 - i.e. it is filed in the January-final window. Neither value was corrected."
+ "notes": "FILER LABEL CONFLICT retained verbatim: the 'October 21st - 28th' box is ticked but the form is signed 12/29/2014 and the clerk RECEIVED stamp is DEC 29 2014 - i.e. it is filed in the January-final window. Neither value was corrected.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "2/14/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "326.21",
+   "confidence": "high",
+   "geometry": "pct:17.36,4.03,3.07,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=17.36-20.43 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "3/3/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "477.12",
+   "confidence": "high",
+   "geometry": "pct:20.43,4.03,3.06,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=20.43-23.49 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "3/13/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "803.32",
+   "confidence": "high",
+   "geometry": "pct:23.49,4.03,3.07,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=23.49-26.56 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "4/3/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "65.15",
+   "confidence": "high",
+   "geometry": "pct:26.56,4.03,3.07,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=26.56-29.63 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "4/9/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "70.28",
+   "confidence": "high",
+   "geometry": "pct:29.63,4.03,3.07,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=29.63-32.70 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "4/11/2014",
+   "donor_raw": "John Ulibarri (Loan from personal account)",
+   "donor_city": "South Ogden",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:32.70,4.03,3.06,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.03-14.74 rowband=32.70-35.76 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "2/14/2014",
+   "vendor_raw": "4Imprint",
+   "purpose": "Promotional Materials",
+   "amount": "326.21",
+   "confidence": "high",
+   "geometry": "pct:18.35,2.32,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=18.35-21.43 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "3/3/2014",
+   "vendor_raw": "Bell Photography",
+   "purpose": "Promotional Materials",
+   "amount": "477.12",
+   "confidence": "high",
+   "geometry": "pct:21.43,2.32,3.06,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=21.43-24.49 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "3/13/2014",
+   "vendor_raw": "Weber County Clerk/Auditor",
+   "purpose": "Filing Fee",
+   "amount": "803.32",
+   "confidence": "high",
+   "geometry": "pct:24.49,2.32,3.11,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=24.49-27.60 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "4/3/2014",
+   "vendor_raw": "Candy Crate",
+   "purpose": "Promotional Materials",
+   "amount": "65.15",
+   "confidence": "high",
+   "geometry": "pct:27.60,2.32,3.08,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=27.60-30.68 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "4/9/2014",
+   "vendor_raw": "Bell Photography",
+   "purpose": "Promotional Materials",
+   "amount": "70.28",
+   "confidence": "high",
+   "geometry": "pct:30.68,2.32,3.11,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=30.68-33.79 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "4/11/2014",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Convention Booth Fee",
+   "amount": "150.00",
+   "confidence": "high",
+   "geometry": "pct:33.79,2.32,3.09,10.69@p3",
+   "geometry_frame": "p3 axis=x cell=2.32-13.01 rowband=33.79-36.88 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "this == cumulative (1,892.08)",
+     "detail": "6 Form A rows sum to 1,892.08 = printed schedule total = cover line 1 (both columns)"
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "this == cumulative (1,892.08)",
+     "detail": "6 Form B rows sum to 1,892.08 = printed schedule total = cover line 3 (both columns)"
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 6,
+   "geometry": {
+    "measured": 12,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Typed schedules, rotated landscape scan. Entirely self-funded (six loans from the candidate's own account), each matched one-for-one by a Form B line of the same date and amount. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

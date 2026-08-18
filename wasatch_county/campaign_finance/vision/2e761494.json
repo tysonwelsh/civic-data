@@ -1,66 +1,119 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_KendallCrittenden.pdf",
-    "cache_key": "2e761494",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Kendall Crittenden",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_KendallCrittenden.pdf",
+  "cache_key": "2e761494",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "district_verbatim": {
-      "value": "Seat D",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "June 18, 2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: slashed-Ø = 0.00 = rows 0.00 — GATE PASSES. Table B TOTAL: slashed-Ø = 0.00 = rows 0.00 — GATE PASSES. Cover: 0 - 0 = 0 (slashed Ø on all three lines) — closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, handwritten. Cover: Kendall Crittenden (signature reads 'Kendace Crittenden'), County Council Seat D, Republican, Heber City UT; Primary Report box checked; signed June 18, 2024; both acknowledgement lines initialled. A JUDGEMENT CALL WORTH STATING: the FIRST body row of each table is not empty — it carries a slashed-Ø in the name column and another in the amount column (Table A) / payee and amount (Table B). I did NOT emit these as rows. A nil mark written into a schedule's first line is the filer saying 'no entries', not a donor named Ø with a $0 gift, and emitting it would invent a contributor. They are recorded here instead and the schedules are reported as zero-row. The TOTAL cells' slashed zeros DO promote to 0.00 under the owner's 2026-08-02 ruling, so both sides reconcile exactly against the stated zeros. Five slashed-Ø glyphs on the cover and six on page 2."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Kendall Crittenden",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "district_verbatim": {
+   "value": "Seat D",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "June 18, 2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": []
 }

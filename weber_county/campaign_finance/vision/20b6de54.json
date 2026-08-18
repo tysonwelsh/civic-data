@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "JAMES H. \"Jim\" HARVEY",
  "office_stated": "WEBER County Commission - SEAT C",
  "report_type_stated": "October 29",
@@ -44,5 +44,174 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN. Each column adds internally. Contributions minus expenditures (21,540.04) does not equal the printed ending balance (21,840.01) - filer arithmetic, retained."
+ "notes": "HANDWRITTEN. Each column adds internally. Contributions minus expenditures (21,540.04) does not equal the printed ending balance (21,840.01) - filer arithmetic, retained.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "10/11",
+   "donor_raw": "Bruce Nilson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "5000",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "low",
+   "geometry": "pct:15.15,5.77,3.14,10.73@p92",
+   "geometry_frame": "p92 axis=x cell=5.77-16.50 rowband=15.15-18.29 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "AMOUNT SETTLED BY ARITHMETIC, NOT BY THE GLYPH. The cell reads '$5,' + three loop glyphs + a trailing dash; at 1400 dpi the loop group is bistable between three slashed zeros (5,000) and '4' + two zeros (5,400). The schedule's own printed total 13,100, the cover's This Report cell 13,100, and the cover's cumulative arithmetic (68,710.05 - 55,610.05) all agree, and the other three rows are unambiguous, so this row is 5,000 - GOTCHAS: arithmetic closure outranks a glyph re-read at any resolution. confidence=low and needs_review=1 record the glyph-level doubt. The date carries NO YEAR as the filer wrote it and none was supplied. The Address column holds only 'Ogden, UT' - the filer wrote no street address at all on this schedule (left empty by the FILER, not redacted by the county)."
+  },
+  {
+   "line_no": "2",
+   "date": "10/ \"",
+   "donor_raw": "Lynne Const.",
+   "donor_city": "Roy",
+   "donor_state": "UT",
+   "amount": "2500",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "low",
+   "geometry": "pct:18.29,5.77,3.18,10.73@p92",
+   "geometry_frame": "p92 axis=x cell=5.77-16.50 rowband=18.29-21.47 (3 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "TWO honest uncertainties, neither guessed away. (1) The DATE cell is a DITTO MARK - the filer wrote '10/' followed by a double-prime repeating the row above (10/11); it is kept verbatim and no date was fabricated from it. (2) The NAME is indistinct in the middle letters: 'Lynne Const.' is the reading taken, but 'Lyne Const.' is equally supportable at 1500 dpi - flagged rather than resolved. The amount itself is unambiguous ('$2,5' + two slashed zeros + dash = 2,500). Address column holds only 'Roy, UT' (no street written by the filer)."
+  },
+  {
+   "line_no": "3",
+   "date": "10/15",
+   "donor_raw": "William Behnken",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "600",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:21.47,5.77,3.18,10.73@p92",
+   "geometry_frame": "p92 axis=x cell=5.77-16.50 rowband=21.47-24.65 (4 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "'$6' + two slashed zeros + trailing dash = 600 (zero-glyph ruling; the trailing dash is the filer's no-cents mark). Date carries no year. Address column holds only 'Ogden, UT'."
+  },
+  {
+   "line_no": "4",
+   "date": "10/22",
+   "donor_raw": "John E. Lindquist",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "5000",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:24.65,5.77,3.20,10.73@p92",
+   "geometry_frame": "p92 axis=x cell=5.77-16.50 rowband=24.65-27.85 (5 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "'$5,' + three slashed zeros + trailing dash = 5,000, read cleanly at 1400 dpi. Date carries no year. Address column holds only 'Ogden, UT'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "10/11",
+   "vendor_raw": "Wright Signs",
+   "purpose": "4x4 Signs",
+   "amount": "1499.33",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:19.07,4.41,3.12,10.73@p93",
+   "geometry_frame": "p93 axis=x cell=4.41-15.14 rowband=19.07-22.19 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "cents written as a superscript '33'. The separate City column prints 'Ogden' (no vendor_city field in the row contract). Date carries no year."
+  },
+  {
+   "line_no": "2",
+   "date": "03/10",
+   "vendor_raw": "Campaign - Ricky Hatch",
+   "purpose": "Campaign Donation",
+   "amount": "500",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:22.19,4.41,2.96,10.73@p93",
+   "geometry_frame": "p93 axis=x cell=4.41-15.14 rowband=22.19-25.15 (3 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE KEPT VERBATIM AND NOT CORRECTED: the cell reads '03/10' (leading and trailing glyphs are slashed zeros) on a report whose own window is October 4-23, so it is either a day-first '3 October' or a filer slip. Well-formed but out of window = kept verbatim (brief section 6). It also carries no year. Amount is '$5' + two slashed zeros + dash = 500. City column prints 'Ogden'. Payee is the campaign of Ricky Hatch, the Weber County Clerk/Auditor."
+  },
+  {
+   "line_no": "3",
+   "date": "10/16",
+   "vendor_raw": "Weber Co. Clerk",
+   "purpose": "Voter lists",
+   "amount": "165",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:25.15,4.41,3.11,10.73@p93",
+   "geometry_frame": "p93 axis=x cell=4.41-15.14 rowband=25.15-28.26 (4 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "'$165' with a trailing dash for the cents position. City column prints 'Ogden'. Date carries no year."
+  },
+  {
+   "line_no": "4",
+   "date": "10/23",
+   "vendor_raw": "UT GOP",
+   "purpose": "Postage STAMP.",
+   "amount": "3777.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:28.26,4.41,3.10,10.73@p93",
+   "geometry_frame": "p93 axis=x cell=4.41-15.14 rowband=28.26-31.36 (5 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "ESCALATED: at 200 dpi full page this cell reads '$3,177.5'; at 1800 dpi it resolves to '$3,777' with a trailing dash (three sevens, no cents), and the schedule's printed total closes on 3,777.00 exactly (8,477.55 minus the other four rows). Arithmetic and the high-dpi read agree. City column prints 'SALT LAKE'. Purpose kept verbatim including the filer's trailing period. Date carries no year."
+  },
+  {
+   "line_no": "5",
+   "date": "10/25",
+   "vendor_raw": "River Print",
+   "purpose": "Postcard Printing",
+   "amount": "2536.22",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:31.36,4.41,3.14,10.73@p93",
+   "geometry_frame": "p93 axis=x cell=4.41-15.14 rowband=31.36-34.50 (6 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "cents written as a superscript '22'. City column prints 'Ogden'. Date carries no year."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    91,
+    92,
+    93
+   ],
+   "itemized_pages_A": "92",
+   "itemized_pages_B": "93",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report): $13,100 -'",
+     "detail": "the 4 Form A rows (5,000 + 2,500 + 600 + 5,000) sum to 13,100 = the schedule's own printed total = the cover's Totals for THIS REPORT cell on line 1; the cover's CUMULATIVE 68,710.05 = 55,610.05 carried from prior reports + 13,100, and those prior periods are not itemized here (officeholder account). NOTE HOW ROW 1 WAS SETTLED: its leading figure is bistable between 5,000 and 5,400 even at 1400 dpi (the filer's slashed zeros and his 4 are similar loops). Three independently printed figures fix it at 5,000 - the schedule's own total 13,100, the cover's This Report 13,100, and the cover's cumulative 68,710.05 minus 55,610.05 - so 13,100 - 2,500 - 600 - 5,000 = 5,000. Arithmetic closure outranks the glyph read (GOTCHAS, the Rhodes reversal); no figure was nudged."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of report): $8,477 55'",
+     "detail": "the 5 Form B rows (1,499.33 + 500 + 165 + 3,777.00 + 2,536.22) sum to 8,477.55 = the schedule's own printed total = the cover's THIS REPORT cell on line 2, and the cover's cumulative 47,170.01 = 38,692.46 + 8,477.55 confirms it a third time. Row 4 (UT GOP) reads as '3,177.5' at 200 dpi full page and as '$3,777 -' on an 1800 dpi tight crop; the arithmetic is decisive for 3,777.00 (8,477.55 - 1,499.33 - 500 - 165 - 2,536.22 = 3,777.00). Cumulative 47,170.01 is not itemized here."
+    }
+   },
+   "escalations": 14,
+   "escalation_note": "700-1800 dpi crops. Structural: amount-column strips on p92 and p93 to locate the header/grey/entry bands, and a probe showing the p93 rule detected at 12.66 pct falls INSIDE the header cell (a false rule thrown by the three-line 'Date of Expenditure' header text) so it is excluded from the frame. Value escalations: every amount cell on both schedules at 1100-1200 dpi, then 1400 dpi on p92 row 1 and 1800 dpi on p93 rows 5 and 6 where the leading digits are bistable; the p92 and p93 schedule TOTAL cells at 900 dpi. Legibility escalations: p92 name column row 3 at 1100 and 1500 dpi ('Lynne Const.' vs 'Lyne Const.', unresolved - flagged, not guessed), the p92 date column (row 3 is a DITTO mark), and the p93 date / city / purpose / payee columns at 900-1200 dpi.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "HANDWRITTEN 2024 3-line form, three pages: p91 cover ('October 29' box ticked, signed 28 Oct. 2024), p92 FORM A, p93 FORM B. Unlike this filer's April filing in the same archive, the county did NOT redact the cover here - the street address and cell phone are printed in the clear (retained as published, per PRIVACY.md; nothing from the cover is carried into these rows). OFFICEHOLDER ACCOUNT: the cover opens from 55,610.05 / 38,692.46 carried forward, so both schedules itemize the PERIOD only and both sides are period-exact. FILER ARITHMETIC ON THE COVER, RETAINED: 68,710.05 - 47,170.01 = 21,540.04 but the printed cumulative ending balance is 21,840.01 (a 299.97 filer discrepancy already recorded in the stated-totals cache); it is NOT a schedule problem - each schedule closes exactly to its own printed total. NO YEAR APPEARS ON ANY TRANSACTION DATE on either schedule (the filer wrote 10/11, 10/15, 10/22, 10/16, 10/23, 10/25 and one ditto mark); every date is kept verbatim and no year was inferred from the report date. THE FILER WROTE NO STREET ADDRESSES ON FORM A - the Address column holds city and state only - so the blank street is the filer's own omission, not a privacy trim. Neither schedule prints a per-page subtotal."
+  }
+ }
 }

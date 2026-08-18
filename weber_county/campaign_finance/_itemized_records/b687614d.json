@@ -1,0 +1,320 @@
+[
+ {
+  "index_path": "raw/wayback/wb20160824031350_Allred_financials.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "b687614d",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17 - INDEPENDENT RE-READ, addendum section C)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "2",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1. of report): 4,067.20' on p3, equal to the cover's LINE 1 cells (Totals for This Report 4,067.20 = Cumulative 4,067.20)",
+    "detail": "5 Form A rows (1,000.00 + 250.00 + 250.00 + 200.00 + 2,367.20) sum to 4,067.20 exactly = the schedule's printed total = the cover's line-1 This-Report and Cumulative cells, which are equal because the Last Report column is the filer's own '-' nil mark throughout (this is the filer's first report of the cycle). THE LINE-1/LINE-2 BASIS RULE: this is the 4-line form, so Form A itemizes only line 1 (donors above $50) and the residual against the published stated_total_contributions would be line 2 - but here line 2 (the <=$50 aggregate) is also printed '-', a NIL MARK, so there is no residual at all and no unitemized remainder to explain. Per the zero-glyph ruling the '-' cells stay BLANK, never 0. No in-kind rows are labelled, so both in-kind conventions give the same figure."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 3. of report): 4,067.20' on p2, equal to the cover's line-3 cells (This Report 4,067.20 = Cumulative 4,067.20)",
+    "detail": "11 Form B rows (500.00 + 153.33 + 500.00 + 466.36 + 678.00 + 240.75 + 20.00 + 565.83 + 479.33 + 313.60 + 150 = 4,067.20) sum exactly to the schedule's printed total = the cover's line-3 This-Report and Cumulative cells. The campaign raised and spent the identical figure and the cover's line-4 ending balance is the filer's '-' nil mark, kept blank."
+   }
+  },
+  "escalations": 7,
+  "escalation_note": "Seven crops. THREE were exploratory and are the reason this filing took longer than its 16 rows suggest: both schedules are rotated sheets on which the ROWS RUN RIGHT-TO-LEFT in the rendered page (row 1 is at the RIGHT edge, next to the header strip), which no other filing in this chunk does, and my first two probes at the left-hand bands came back blank because I had assumed the usual left-to-right order. A full-width strip crop of the amount column (pct:0,80,100,20@p2) settled the orientation by showing all eleven amounts descending right-to-left. FOUR were A3 proofs, two per schedule page: p2 row 1 rendered '$500.00' and row 11 rendered '$150'; p3 row 1 rendered '$1,000.00' and row 5 rendered '$2,367.20'. No legibility escalation was needed - both sides closed exactly on the first full-page read.",
+  "frames": {
+   "3": {
+    "axis": "x",
+    "cell": [
+     84.81,
+     95.0
+    ],
+    "cells": [
+     [
+      84.81,
+      95.0
+     ]
+    ],
+    "rows": [
+     [
+      79.74,
+      82.91
+     ],
+     [
+      76.6,
+      79.74
+     ],
+     [
+      73.46,
+      76.6
+     ],
+     [
+      70.32,
+      73.46
+     ],
+     [
+      67.12,
+      70.32
+     ]
+    ],
+    "measure_note": "ROTATED LANDSCAPE Form A: text reads bottom-to-top and the table's ROWS advance ALONG X, so axis='x' - COLUMN bands are the horizontal rules and ROW bands the vertical ones. CRITICAL AND UNUSUAL: the rows run RIGHT-TO-LEFT. Row 1 is v_rules[22..23] = [79.74,82.91], hard against the header/hatched strip at the right edge, and each later row sits one band FURTHER LEFT; the general rule for this sheet is row n = v_rules[23-n .. 24-n]. Only the 5 used rows are stored. The amount column band [84.81,95.0] is hand-measured (the h_rules on this page are mostly the rotated text's own dark runs and cannot be read as a grid), so cells claims that one measured column only. PROOF (A3): pct:79.74,84.81,3.17,10.2@p3 rendered '$1,000.00' (row 1) and pct:67.12,84.81,3.2,10.2@p3 rendered '$2,367.20' (row 5) - the recorded first and last amounts, which also confirms the right-to-left direction rather than assuming it."
+   },
+   "2": {
+    "axis": "x",
+    "cell": [
+     86.06,
+     96.5
+    ],
+    "cells": [
+     [
+      86.06,
+      96.5
+     ]
+    ],
+    "rows": [
+     [
+      77.86,
+      80.92
+     ],
+     [
+      74.81,
+      77.86
+     ],
+     [
+      71.76,
+      74.81
+     ],
+     [
+      68.64,
+      71.76
+     ],
+     [
+      65.59,
+      68.64
+     ],
+     [
+      62.48,
+      65.59
+     ],
+     [
+      59.42,
+      62.48
+     ],
+     [
+      56.31,
+      59.42
+     ],
+     [
+      53.26,
+      56.31
+     ],
+     [
+      50.23,
+      53.26
+     ],
+     [
+      47.18,
+      50.23
+     ]
+    ],
+    "measure_note": "Same rotated geometry and the same RIGHT-TO-LEFT row order on Form B: row n = v_rules[23-n .. 24-n], so row 1 = [77.86,80.92] and row 11 = [47.18,50.23]. The 27 detected v_rules are a clean, evenly pitched (~3.06 pct) row grid covering the sheet's 26 printed rows; only the 11 used rows are stored, and the header strip and shaded spacer (the bands right of 80.92) are excluded. The amount column band [86.06,96.5] is anchored on the one clean h_rule at 86.06 plus a hand-measured table edge. PROOF (A3): pct:77.86,86.06,3.06,10.4@p2 rendered '$500.00' (row 1) and pct:47.18,86.06,3.05,10.4@p2 rendered '$150' (row 11)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "donor_raw": "Gordon T. Allred",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+   },
+   {
+    "line_no": "2",
+    "donor_raw": "David Wilson",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+   },
+   {
+    "line_no": "3",
+    "donor_raw": "Branden Miles",
+    "donor_city": "West Point",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window."
+   },
+   {
+    "line_no": "4",
+    "donor_raw": "Aaron Allred",
+    "donor_city": "Garland",
+    "donor_state": "TX",
+    "amount": "200.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window. the only out-of-state donor on this filing"
+   },
+   {
+    "line_no": "5",
+    "donor_raw": "Chris Allred (Loan to Campaign Fund)",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "2367.20",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer left the Date column EMPTY on every Form A row - no date exists to transcribe, and none was inferred from the report window. the CANDIDATE's own loan; the filer wrote the characterisation '(Loan to Campaign Fund)' inside the name cell and it is kept verbatim - it is reported as a contribution on Form A, not carried as debt, and this record does not reclassify it"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "4/9/2013",
+    "vendor_raw": "Weber County Republican Party",
+    "vendor_city": "Ogden",
+    "purpose": "Lincoln Day Dinner Sponsor",
+    "amount": "500.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "4/9/2013",
+    "vendor_raw": "Wright Signs",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "153.33",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "2/18/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "vendor_city": "Ogden",
+    "purpose": "Lincoln Day Dinner Sponsor",
+    "amount": "500.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "3/14/2014",
+    "vendor_raw": "Bell Printing & Design",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Brochures/Cards",
+    "amount": "466.36",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "3/14/2014",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Candidate Filing Fee",
+    "amount": "678.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "3/18/2014",
+    "vendor_raw": "TSI Specialties",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign T shirts",
+    "amount": "240.75",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "3/25/2013",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Precinct Map",
+    "amount": "20.00",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "note": "the filer dated this row 3/25/2013 between two 3/2014 rows - well-formed but out of sequence; kept verbatim, not repaired"
+   },
+   {
+    "line_no": "8",
+    "date": "3/27/2014",
+    "vendor_raw": "Bell Printing & Design",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Brochures/Fliers",
+    "amount": "565.83",
+    "page": 2,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "3/31/2014",
+    "vendor_raw": "Wright Signs",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "479.33",
+    "page": 2,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "3/31/2014",
+    "vendor_raw": "USPS",
+    "vendor_city": "Ogden",
+    "purpose": "Postage for fliers",
+    "amount": "313.60",
+    "page": 2,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "4/12/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "vendor_city": "Ogden",
+    "purpose": "Convention Booth",
+    "amount": "150",
+    "page": 2,
+    "row": 11,
+    "confidence": "medium",
+    "note": "the filer wrote '$150' with no cents; kept verbatim"
+   }
+  ],
+  "notes": "RE-DO under addendum section C: this is an INDEPENDENT second read. The withdrawn 2026-08-14 record was not opened and no value in it was consulted; the pages were read fresh and the geometry re-derived from scratch (which is how the right-to-left row order was found rather than inherited). 2014 4-line form variant, typed schedules with a handwritten signature/date ('Oct. 27 '14'); p1 cover, p2 FORM B and p3 FORM A - PAGE ORDER IS NOT FORM ORDER on this filing, exactly the trap the brief warns about, and each page was classified from its own printed header. The filer's '-' nil marks in the Last Report column and on lines 2 and 4 are kept BLANK, never 0 (the weber-dash-nil control). FORM A CARRIES NO DATES AT ALL: the Date column is empty on all five rows, so no date is recorded and none was inferred from the report window. PRIVACY: Form A prints full donor street addresses in the clear (this 2014 wayback copy is unredacted, unlike the 2024/2026 county scans) - they are NOT carried; city and state only, including the one Texas donor. Two filer quirks kept verbatim: an expenditure written '$150' with no cents, and an expenditure dated 3/25/2013 sitting between two March-2014 rows. The candidate's own 2,367.20 loan is reported as a Form A contribution by the filer and is left where the filer put it."
+ }
+]

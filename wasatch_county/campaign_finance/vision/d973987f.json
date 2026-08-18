@@ -1,79 +1,205 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_S-Farrell.pdf",
-    "cache_key": "d973987f",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Steve Farrell",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_S-Farrell.pdf",
+  "cache_key": "d973987f",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "317.00",
+     "itemized": "318.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1.00 - 2 row(s) sum to 318.00 against published stated total, which prints 317.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: DELTA 1.00 — the 2 rows sum 318.00 (266.00 + 52.00) against a printed Table A TOTAL of '317,00' and a cover line 1 of '$317.00'. Both amounts were re-read at 1200 dpi and are unambiguous (266 has two clear 6-loops; the 52 has a clear 2, not a 1). This is the FILER'S arithmetic, not a transcription error, and neither figure was adjusted. Both stated and itemized are retained verbatim",
+     "published_stated": "317.00",
+     "csv_reconciles": "False",
+     "csv_delta": "1.00"
     },
-    "office_verbatim": {
-      "value": "County Council Seat A",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "County large",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "GOP",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Midway",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "3/31/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "317.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "317.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "317.00",
+     "itemized": "318.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1.00 - 2 row(s) sum to 318.00 against published stated total, which prints 317.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: DELTA 1.00 — identical situation on Table B: the same two amounts (266.00 + 52.00 = 318.00) against a printed TOTAL of '317.00' and cover line 2 '$317.00'. Re-read at 1200 dpi; not adjusted",
+     "published_stated": "317.00",
+     "csv_reconciles": "False",
+     "csv_delta": "1.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 317.00 vs rows 318.00 — GATE DOES NOT CLOSE, off by 1.00; p2 Table B TOTAL: 317.00 vs rows 318.00 — GATE DOES NOT CLOSE, off by 1.00. The cover is internally consistent with its own 317.00 figures (317.00 - 317.00 = 0, and the balance cell prints a circled '0'), so the filer carried 317.00 forward everywhere; only the row sum disagrees.",
+   "escalations": 5,
+   "escalation_note": "1200dpi crops of the Table A amount cells, the Table A TOTAL cell, the Table B amount cells and the struck row-slot 0; an 800dpi re-crop of the Table B TOTAL cell",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 4,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "HUMAN LOOK RECOMMENDED: both sides carry a 1.00 delta between the filer's own printed TOTAL (317.00) and his own two rows (266.00 + 52.00 = 318.00). Escalated to 1200 dpi on every amount; nothing is illegible and no single-digit re-read closes it (266 → 265 or 52 → 51 would each close it, but neither is what the page shows). Recorded as the filer's arithmetic per the cardinal rule. TABLE A ROW SLOT 0 IS FULLY STRUCK OUT — a dense scribble in the Date column obliterating whatever was written; nothing survives the strikeout at 1200 dpi, so no row is emitted for it and the fact is recorded here. DATES CARRY NO YEAR: the filer wrote 'Jan 8' and 'Mar 30', so every date field is BLANK with the verbatim in the row note — the year is never filled from the report period. Both Table A rows put text in the In-Kind / Tangible items column ('Filing Fee', 'Printing') that duplicates the Table B purposes exactly, i.e. the candidate paying campaign costs personally; in_kind is set from the column as printed and the cell is quoted verbatim, but this may be a DESCRIPTION rather than an in-kind good — not resolved. Page 3 carries only the boilerplate 'If additional space is needed...' line, no table. Cover: 'Steve Farrell', County Council Seat A, District written 'County large', party 'GOP'; Partisan Convention box only, convention date April 7, 2026."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Steve Farrell",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "County Council Seat A",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "County large",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "GOP",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Midway",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "3/31/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "317.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "317.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "266.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "date printed 'Jan 8' — NO YEAR, so the date field is blank; In-Kind column reads verbatim 'Filing Fee'; candidate self-funding. Row slot 1, because slot 0 is the struck-out entry. Amount re-read at 1200 dpi as 266.00",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 2,
+   "date": "",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "52.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "note": "date printed 'Mar 30' — NO YEAR, so the date field is blank; In-Kind column reads verbatim 'Printing'. Amount re-read at 1200 dpi as 52.00; a reading of 51.00 would close the printed TOTAL but the second digit is plainly a 2, not the plain vertical this hand uses for 1 (cf. the 1 in the TOTAL '317.00'), so the glyph was NOT bent to the total",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "266.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "date printed 'Jan 8' — NO YEAR, field left blank; vendor spelled 'Wasatch County' on the face",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "vendor_raw": "UPS",
+   "purpose": "Printing",
+   "amount": "52.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "date printed 'Mar 30' — NO YEAR, field left blank; same 52.00 glyph question as contribution line 2, resolved the same way",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

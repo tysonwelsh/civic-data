@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2026 sheet over a busy RECEIVED MAY 18 2026 stamp (index text_quality=low; legible at 200dpi). The Current campaign-balance cell has '1,066.44' struck out and '0.00' written below it — the struck figure is NOT transcribed as the value. Address redacted by the county. Last and Cumulative cells print the Excel zero-dash. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2026 sheet over a busy RECEIVED MAY 18 2026 stamp (index text_quality=low; legible at 200dpi). The Current campaign-balance cell has '1,066.44' struck out and '0.00' written below it — the struck figure is NOT transcribed as the value. Address redacted by the county. Last and Cumulative cells print the Excel zero-dash. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2026-01-07",
+   "donor_raw": "Kacey Bates",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1066.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,26.13,85.00,1.93@p2",
+   "geometry_fit": "declared",
+   "note": "self-funding. ADDRESS REDACTED BY THE COUNTY: the cell is covered by a solid black bar, so city and state are unknown, not empty. Date escalated to 2000 dpi; reads 01-07-26.",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2026-01-12",
+   "vendor_raw": "Summit County",
+   "purpose": "Filing fee",
+   "amount": "1066.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.15,28.19,81.03,2.15@p3",
+   "geometry_fit": "measured",
+   "note": "FILER'S OWN CORRECTION: an original payee entry is struck out with heavy blue scribble and 'Summit County' written above it; the struck text is illegible at 1600 dpi and is not guessed. The surviving correction is transcribed.",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1066.44",
+    "itemized": "1066.44",
+    "result": "exact",
+    "detail": "exact - 1 row (Kacey Bates, self, 1,066.44) = the schedule's own printed 'TOTAL CONTRIBUTIONS' box AND the cover's current-report figure. The cover's cumulative column is blank on this filing (a dash), so the current column is the gate; there is only one reporting period in play and no period-vs-cumulative question arises."
+   },
+   "expenditures": {
+    "stated": "1066.44",
+    "itemized": "1066.44",
+    "result": "exact",
+    "detail": "exact - 1 row (Summit County, filing fee, 1,066.44) = the schedule's own 'TOTAL EXPENSES' box AND the cover. In + out are the same figure and the cover's balance is 0.00, so the filing closes three ways."
+   }
+  },
+  "page_gates": "Each 2026 schedule prints its total as a labelled last row inside the grid. p2 ends in 'TOTAL CONTRIBUTIONS  $1,066.44' and the single row is 1,066.44 - exact, and equal to the cover. p3 ends in 'TOTAL EXPENSES  $1,066.44' and the single row is 1,066.44 - exact, and equal to the cover. The candidate self-funded the Sheriff filing fee exactly and the cover's balance is 0. No specimen rows exist on the 2026 form.",
+  "escalations": 7,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 1,
+   "declared": 1,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "THIS IS THE TRUE COUNTY REDACTION CASE and it looks nothing like the 2022 white-out: on p2 the donor row's ADDRESS cell is covered by a SOLID BLACK BAR spanning the whole column width, applied over the scan (the file name's '_Redacted' suffix is literal here). donor_city/donor_state are therefore blank BECAUSE THE COUNTY REDACTED THEM, not because the filer left them empty - a different fact, and the distinction is recorded on the row itself. Everything else on both pages is intact. FILER'S OWN CORRECTION ON THE EXPENSE ROW: the 'Person or Organization' cell contains an original entry struck out with heavy blue scribble and 'Summit County' written above it in the row above; a second struck blue scribble precedes it. The struck original was escalated to a 1600 dpi tight crop and remains ILLEGIBLE (two ink layers over each other) - it is recorded as illegible rather than guessed, and the surviving correction governs (clerk-correction precedent), so vendor_raw is 'Summit County' with 'Filing fee' in the Purpose column. Note that the correction moves the payee OUT of the purpose column - the same payee/purpose confusion seen on the Franchek 2022 pair, here caught and fixed by the filer. DATES: this filer writes a cursive 6 that closes like a lowercase 'e' (the same loop appears in '1,066.44'), so the year on both rows resolves to 26. The contribution row reads 01-07-26 and the expense row 01-12-26 - two different days, escalated at 1600 and 2000 dpi; the contribution row's day glyph is the weaker of the two and is carried at date=low. Scan quality is poor overall (index text_quality 'low': a blue stamp bleeds through the header and the page is faintly double-imaged) and that, plus the redaction bar, is what took seven escalations. GEOMETRY: p3 is MEASURED (band 5, the dated row; the 'Summit County' correction sits in band 4 immediately above it). p2 is DECLARED because the black redaction bar spans the address column and merges the header and data bands into one 3.84-high block for rowbands; the declared frame (y0 24.20, pitch 1.93) is taken from the page's own regular rules below the block (1.93-1.95 throughout) and band 2 was crop-verified to frame the donor row."
+ }
 }

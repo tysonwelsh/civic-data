@@ -150,6 +150,100 @@ def _records(lines, head_rx, stop_rxs):
     return recs
 
 
+# ---------------------------------------------------------------- the SINGLE-ENTRY fallback
+# Polimorphic numbers its itemized blocks `Itemized Contribution Report (#1)`, `(#2)` … ONLY
+# when a filing has more than one entry on that side.  A filing with exactly ONE entry prints
+# the same labelled fields with **no block header at all**, directly under the form's own
+# disclosure question:
+#
+#     Do you have contributions to disclose      Yes
+#     for this reporting period?
+#     Do you want to upload a CSV of             Fill Out Below
+#     contributions or fill them out below?
+#     Date of Contribution                       January 02, 2026
+#     Name of Contributor                        Chris Allred
+#     Amount                                     1147.66
+#     Donor's City                               Ogden
+#     Do you have any expenditures to            Yes
+#     …
+#
+# Before 2026-08-14 this family sliced on the header only, so a single-entry side returned NO
+# rows and `build_finance.py` gated the whole side out with an honest "FAMILY LIMITATION" note
+# (weber `CLAUDE.md`, the Allred 1,147.66 case).  The limitation is now FIXED rather than
+# documented: when a side yields zero header-delimited records, the side's own disclosure
+# question delimits ONE block instead.
+#
+# The fallback is deliberately narrow, because a wrong slice is a wrong value:
+#   * it fires ONLY when the header-based pass found NOTHING for that side;
+#   * the block runs from the side's LAST disclosure question to the FIRST of: the other
+#     side's question, either block header, or any summary label — so it can never swallow the
+#     other side's fields or the summary;
+#   * it emits a row only when the block contains EXACTLY ONE `Amount` line.  Zero Amount lines
+#     is the honest "the filer disclosed nothing here" state (Ryan Arbon 2026 answers **No** to
+#     both questions while stating 879.97 on both sides — an internal source inconsistency that
+#     is RECORDED, never resolved by inventing a row).  Two or more Amount lines with no header
+#     is a shape this family does not recognise: nothing is emitted and the note says so.
+# NB the label column WRAPS mid-phrase — Allred's expenditure question prints as
+# "Do you have any expenditures to" / "disclose for this reporting period?" on two lines — so
+# these anchors stop at "to" and never require the wrapped word.
+_Q_CONTRIB = re.compile(
+    r"Do\s+you\s+have\s+(?:any\s+)?contributions\s+to\b"
+    r"|Do\s+you\s+want\s+to\s+upload\s+a\s+CSV\s+of\s+contributions", re.I)
+_Q_EXPEND = re.compile(
+    r"Do\s+you\s+have\s+(?:any\s+)?expenditures\s+to\b"
+    r"|Do\s+you\s+want\s+to\s+upload\s+a\s+CSV\s+of\s+expenditures", re.I)
+_CSV_GATE = re.compile(r"upload\s+a\s+CSV\s+of", re.I)
+_GATE_SIDE = re.compile(r"(contributions|expenditures)\s+or\s+fill\s+them\s+out\s+below", re.I)
+
+
+def _question_starts(lines, side):
+    """Line numbers of this side's disclosure questions, in document order.
+
+    The label column WRAPS, so the CSV gate can print as `Do you want to upload a CSV of` on one
+    line and `contributions or fill them out below?` on the next; both spellings are matched and
+    the side is taken from whichever line names it.
+    """
+    want = "contributions" if side == "contrib" else "expenditures"
+    out = []
+    for k, ln in enumerate(lines):
+        rx = _Q_CONTRIB if side == "contrib" else _Q_EXPEND
+        if rx.search(ln) and want[:7] in ln.lower():
+            out.append(k)
+        elif _CSV_GATE.search(ln):
+            m = _GATE_SIDE.search(ln)
+            nxt = _GATE_SIDE.search(lines[k + 1]) if k + 1 < len(lines) else None
+            named = (m or nxt)
+            if named and named.group(1).lower() == want:
+                out.append(k)
+    return out
+
+
+def _single_record_fallback(lines, side):
+    starts = _question_starts(lines, side)
+    if not starts:
+        return [], ""
+    other = _Q_EXPEND if side == "contrib" else _Q_CONTRIB
+    stops = [_C_HEAD, _E_HEAD, other] + list(_SUM.values())
+    block = []
+    for k in range(starts[-1] + 1, len(lines)):
+        if any(rx.search(lines[k]) for rx in stops):
+            break
+        block.append((k, lines[k]))
+    n_amt = sum(1 for _, ln in block if _F_AMOUNT.search(ln))
+    if n_amt == 1:
+        return [(1, block)], (
+            "%s: no `Itemized … Report (#n)` header in this filing — Polimorphic omits it for a "
+            "SINGLE-ENTRY side, so the one entry was sliced from the form's own disclosure "
+            "question instead (family single-entry fallback, 2026-08-14)"
+            % ("contributions" if side == "contrib" else "expenditures"))
+    if n_amt > 1:
+        return [], (
+            "%s: %d `Amount` lines appear with NO `Itemized … Report (#n)` header — a shape this "
+            "family does not recognise. NOTHING emitted for that side rather than a guessed "
+            "slice." % ("contributions" if side == "contrib" else "expenditures", n_amt))
+    return [], ""
+
+
 def _field(block, rx):
     for k, ln in block:
         m = rx.search(ln)
@@ -182,6 +276,16 @@ def parse(text: str, meta: dict) -> dict:
 
     method = meta.get("extract_method", "weber_polimorphic/text")
     crows, erows, skipped = [], [], []
+
+    # SINGLE-ENTRY fallback — see the block comment above `_Q_CONTRIB`.
+    if not crecs:
+        crecs, why = _single_record_fallback(lines, "contrib")
+        if why:
+            skipped.append(why)
+    if not erecs:
+        erecs, why = _single_record_fallback(lines, "expend")
+        if why:
+            skipped.append(why)
 
     for idx, block in crecs:
         _, _, dtok = _field(block, _F_DATE_C)

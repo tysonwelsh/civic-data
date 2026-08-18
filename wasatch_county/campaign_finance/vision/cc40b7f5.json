@@ -1,70 +1,123 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_SherrieBercuson.pdf",
-    "cache_key": "cc40b7f5",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Sherrie Bercuson",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_SherrieBercuson.pdf",
+  "cache_key": "cc40b7f5",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "100.00",
+     "itemized": "0.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta -100.00 - 0 row(s) sum to 0.00 against published stated total, which prints 100.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: cover line 1 prints '100.00 (self)'; Table A on p2 is entirely BLANK (12 empty row slots) and its printed TOTAL cell carries a hand-drawn zero-loop glyph. Filer stated a $100 self-contribution on the cover and itemized nothing. Delta 100.00 is the FILER's, not a transcription gap; both figures retained verbatim.",
+     "published_stated": "100.00",
+     "csv_reconciles": "False",
+     "csv_delta": "-100.00"
     },
-    "district_verbatim": {
-      "value": "Seat E",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Democrat",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/14/24",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "100.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "100.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: hand zero-glyph (read 0) = 0 rows -> GATE PASSES. p2 Table B TOTAL: circled zero glyph (read 0) = 0 rows -> GATE PASSES. Cover line 1 (100.00) does NOT agree with Table A's own total -- filer inconsistency, named not resolved.",
+   "escalations": 2,
+   "escalation_note": "p2 Table A TOTAL cell and Table B TOTAL cell each re-rendered as 600 dpi crops; both show a single hand-drawn closed loop (Table A's is retraced/doubled), no digits '1' or '00' present -- neither cell reads 100.00.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten filing. Cover: Sherrie Bercuson, 'Wasatch Council', District 'Seat', Democrat, Midway UT; Primary Report box checked; signed 6/14/24. Line 1 verbatim '100.00 (self)', line 2 a zero glyph, line 3 '100.00'. Both schedules printed and empty -- a real zero on the schedules, and the cover's $100 self-contribution is unitemized."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Sherrie Bercuson",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The contribution figure is annotated '(self)' on the face."
+  "district_verbatim": {
+   "value": "Seat E",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Democrat",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/14/24",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "100.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "100.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The contribution figure is annotated '(self)' on the face.",
+ "contributions": [],
+ "expenditures": []
 }

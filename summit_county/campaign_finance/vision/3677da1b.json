@@ -52,6 +52,65 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover; identical figures to the filer's Pre-Election sheet (doc 8195), re-dated 11/26/18 (date highlighted on the published PDF)."
+ "itemized_transcribed": true,
+ "notes": "Typed cover; identical figures to the filer's Pre-Election sheet (doc 8195), re-dated 11/26/18 (date highlighted on the published PDF).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-10",
+   "vendor_raw": "Summit County",
+   "purpose": "Filing Fee",
+   "amount": "587.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.64,25.26,82.17,2.36@p2",
+   "geometry_fit": "measured",
+   "note": "Verified at 900 dpi tight crop. Vendor written 'Summit County' (not 'Summit County Clerk').",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0.00",
+    "itemized": "0.00",
+    "result": "exact",
+    "detail": "exact and EMPTY BY THE SOURCE - the contribution schedule page exists, carries no line at all, and prints $0.00 in BOTH split50 boxes (>$50 and <=$50), matching the cover. A real zero, not an untranscribed page, and no split50 residual arises because the <=$50 aggregate is itself zero."
+   },
+   "expenditures": {
+    "stated": "587.08",
+    "itemized": "587.08",
+    "result": "exact",
+    "detail": "exact - one row of 587.08 equals the page's printed 'Total amount of expenditures $587.08' and the cover"
+   }
+  },
+  "page_gates": "PAGE ORDER IS REVERSED here too - p2 is the ITEMIZED EXPENSE REPORT, p3 the ITEMIZED CONTRIBUTION REPORT. p2 prints 'Total amount of expenditures $587.08' and its single row reproduces it. p3 prints both split50 boxes as an explicit $0.00 / $0.00 over a completely empty grid, matching the cover's 0.00.",
+  "escalations": 1,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 1,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "RE-FILED UNCHANGED. This Post-Election report is the SAME SHEET as Kent Jones's Pre-Election filing 8195 re-submitted: same reversed page order, same single expense row (3/10/18 Summit County, Filing Fee, $587.08), same empty contribution grid with two printed $0.00 boxes, same cover (0.00 / 587.08 / -587.08). Documented Summit re-file behaviour, not a duplication defect; the two were read and transcribed independently. Fully TYPED with a faithful OCR layer; both pages read full-page at 200 dpi and the expense row re-read on a 900 dpi tight crop as the geometry spot-check. No template specimen rows. The negative cover balance is structural: the candidate recorded no contribution at all (an itemized zero printed twice on the page) while paying the $587.08 filing fee."
+ }
 }

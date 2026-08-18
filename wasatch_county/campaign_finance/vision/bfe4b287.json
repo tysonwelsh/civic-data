@@ -1,66 +1,119 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_MarcyMurray.pdf",
-    "cache_key": "bfe4b287",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Marcy Murray",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_MarcyMurray.pdf",
+  "cache_key": "bfe4b287",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Recorder",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/14/2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: slashed-Ø = 0.00 = rows 0.00 — GATE PASSES. Table B TOTAL: slashed-Ø = 0.00 = rows 0.00 — GATE PASSES. Cover: 0 - 0 = 0 — closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, handwritten. Cover: Marcy Murray, Name of Office 'Recorder', Republican, Heber UT; Primary Report box checked; signed 6/14/2024; both acknowledgement lines initialled. Same nil-mark pattern as Crittenden and handled identically: the first body row of BOTH tables is filled with slashed-Ø in every one of its four cells (date, name/payee, amount, in-kind/purpose). Those are nil marks, not entries — no rows emitted, because a Ø in a name column is not a contributor. The TOTAL cells' slashed zeros do read as 0.00 and both sides reconcile exactly. ONE PLACEMENT ODDITY worth recording: on both tables the TOTAL figure is written in the FOURTH column (In-Kind / Purpose) rather than in the Amount column, straddling the cell boundary — read positionally it sits outside the Amount column, but it is unambiguously the total for the row labelled TOTAL:, and it is a zero either way, so nothing turns on it."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Marcy Murray",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "Recorder",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/14/2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": []
 }

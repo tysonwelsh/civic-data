@@ -1,0 +1,181 @@
+{
+ "sha256": "558ac03723178122682aaacc74f374aa4ebf6baaade93c548dd4a011e16c4d1f",
+ "source_pdf": "raw/juab_2010_primary/Mike_Price_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Mike_Price_10-28-10.pdf",
+   "candidate": "Michael \"Mike\" Price",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [
+  {
+   "date": "9/23/2010",
+   "payee": "Premium Graphicx / PG Sales",
+   "purpose": "100 = 18\"x24\" Campaign Yard Signs",
+   "amount": "425.00",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.86,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/25/2010",
+   "payee": "Salt Creek Signs",
+   "purpose": "1 = Vinyl Banner",
+   "amount": "64.00",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.18,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/27/2010",
+   "payee": "Salt Creek Signs",
+   "purpose": "1 = Vinyl Banner",
+   "amount": "64.00",
+   "confidence": "high",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:5.00,13.50,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/25/2010",
+   "payee": "Moroni Feed True Value",
+   "purpose": "2 = 5'5\" T Bar Fence Post",
+   "amount": "14.00",
+   "confidence": "high",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:5.00,15.81,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/26/2010",
+   "payee": "Cal Ranch (Spanish Fork)",
+   "purpose": "2 = 6' T Bar Fence Post Rope",
+   "amount": "12.00",
+   "confidence": "high",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:5.00,18.13,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/14/2010",
+   "payee": "Remember Your Memories",
+   "purpose": "100 = 2 sided copies",
+   "amount": "15.50",
+   "confidence": "high",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:5.00,20.45,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/24/10",
+   "payee": "Nephi Times News",
+   "purpose": "Newspaper Ad",
+   "amount": "104.00",
+   "confidence": "high",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:5.00,22.77,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/22/10",
+   "payee": "Eureka City",
+   "purpose": "Memorial Hall Rental",
+   "amount": "30.00",
+   "confidence": "high",
+   "line_no": 8,
+   "printed_row": 8,
+   "geometry": "pct:5.00,25.09,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/25/10",
+   "payee": "Remember Your Memories",
+   "purpose": "100 - 1 sided copies",
+   "amount": "10.00",
+   "confidence": "high",
+   "note": "an earlier payee on this line is struck through and replaced",
+   "line_no": 9,
+   "printed_row": 9,
+   "geometry": "pct:5.00,27.40,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/26/10",
+   "payee": "Nephi City",
+   "purpose": "City Park Bowery Rental",
+   "amount": "10.00",
+   "confidence": "high",
+   "line_no": 10,
+   "printed_row": 10,
+   "geometry": "pct:5.00,29.72,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "0",
+     "basis": "lines 1+2 both 0; Form A present and blank"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "748.50",
+     "basis": "line 3 cumulative (the surviving, unstruck figure)"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Mike_Price_10-28-10.pdf|p2": 9.315,
+    "raw/juab_2010_primary/Mike_Price_10-28-10.pdf|p3": 8.86
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "SECOND, INDEPENDENT CLOSURE: the cover's struck-through earlier expense figure 594.50 is exactly the sum of Form B rows 1-6 \u2014 the filer totalled six rows, then added four more and restated 748.50. Both figures are explained by the schedule."
+  }
+ }
+}

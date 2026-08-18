@@ -1,71 +1,285 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_E-Mainord.pdf",
-    "cache_key": "5c9604d7",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Eric Mainord",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_E-Mainord.pdf",
+  "cache_key": "5c9604d7",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2900.00",
+     "itemized": "2900.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2900.00 = 2900.00, published stated total)",
+     "published_stated": "2900.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Sheriff",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "GOP",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "3-31-26",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 7 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "2900.00",
-        "confidence": "medium"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "2162.79",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "737.21",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2162.79",
+     "itemized": "2228.79",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 66.00 - 5 row(s) sum to 2228.79 against published stated total, which prints 2162.79. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: FILER ARITHMETIC DELTA OF 66.00. The five Table B rows (975.00 + 899.56 + 149.33 + 84.47 + 120.43) sum to 2228.79; the cover states 2162.79 and Table B prints no total of its own. The cover is internally coherent (2900.00 - 2162.79 = 737.21, the printed balance), so the stated figure is not a slip of one cell; the ledger simply does not add to it. Row 2 was escalated to 600 dpi specifically because 833.56 would close the gap exactly -- the glyph is unambiguously '899' + superscript '56' at that resolution, so NO row was adjusted to make it close. Both figures retained verbatim.",
+     "published_stated": "2162.79",
+     "csv_reconciles": "False",
+     "csv_delta": "66.00"
     }
+   },
+   "page_subtotal_gates": "p3 Table A TOTAL: cell BLANK -- no page gate (rows nonetheless equal the cover exactly). p3 Table B TOTAL: cell BLANK -- no page gate, which is why the 66.00 residual cannot be localised to a page.",
+   "escalations": 4,
+   "escalation_note": "600 dpi crops of the p3 Table A amount column and the p3 Table B amount column; 900 dpi crops of the Table A name column (twice, repositioned) to settle the terminal-letter habit in the donor surnames.",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 5,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 9,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten, legible. Eric Mainord, Sheriff, GOP, Heber City; clerk RCVD stamp 'MAR 31 '26 AM10:45'; Partisan Convention Report box checked, convention date 'April 7 2026'; signed 3-31-26; cover 2900.00 / 2162.79 / 737.21; this 2026 vintage cites Utah Code 17-70-4. PDF pages 2 and 4 are BLANK scan pages (no content, not missing schedules) -- the ledger is entirely on p3. THIS FILER WRITES A TERMINAL 'n' AS AN OPEN u-SHAPE (visible in 'Matson' and 'Fredrickson'), which is the basis for reading the fourth surname as 'Kern'; it is flagged low-confidence rather than resolved. All amounts use superscript cents. Table A has no address column on this form family, so donor_city/donor_state are structurally absent."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Eric Mainord",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The PDF's OCR renders the contribution cell 'L7D0'; the vision read is 2,900.00, which is the only value consistent with the printed expenditure and balance (2900.00 - 2162.79 = 737.21). Recorded at medium confidence."
+  "office_verbatim": {
+   "value": "Sheriff",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "GOP",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "3-31-26",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 7 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "2900.00",
+    "confidence": "medium"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "2162.79",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "737.21",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The PDF's OCR renders the contribution cell 'L7D0'; the vision read is 2,900.00, which is the only value consistent with the printed expenditure and balance (2900.00 - 2162.79 = 737.21). Recorded at medium confidence.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2026-03-12",
+   "donor_raw": "Lynn David",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount written '1000' + superscript '00'; In-Kind column empty. Given name could also read 'Lyna' -- terminal glyph is this filer's open-u 'n'.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2026-03-05",
+   "donor_raw": "Andy Matson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "surname ends in the filer's open-u 'n' ('Matsou' as drawn); amount '1000' + superscript '00'.",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2026-03-22",
+   "donor_raw": "Shane Fredrickson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "given name drawn 'Shaue' and surname 'Fredricksou' -- both terminal open-u 'n'; amount '400' + superscript '00'.",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2026-03-23",
+   "donor_raw": "Sue Kern",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "surname glyphs at 900 dpi read 'Kera'/'Kern' -- the final stroke is the same open-u the filer uses for terminal 'n' elsewhere on this page, so transcribed 'Kern' at LOW confidence with the ambiguity named; not resolved. Amount '500' + superscript '00' with an underline.",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2026-02-12",
+   "vendor_raw": "Black Peak Political",
+   "purpose": "",
+   "amount": "975.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "amount '975' + superscript '00'; purpose column blank (optional on this form).",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2026-01-07",
+   "vendor_raw": "Wasatch County",
+   "purpose": "",
+   "amount": "899.56",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "amount '899' + superscript '56', verified at 600 dpi. This is the row whose alternative reading (833.56) would have closed the filing's 66.00 delta -- the crop does not support it, so the delta stands as the filer's arithmetic. Payee is almost certainly the candidate filing fee but no purpose is printed, so none was supplied.",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2026-02-27",
+   "vendor_raw": "Fed Ex Office",
+   "purpose": "",
+   "amount": "149.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "amount '149' + superscript '33'.",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2026-02-27",
+   "vendor_raw": "Zurchers",
+   "purpose": "",
+   "amount": "84.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "amount '84' + superscript '47'.",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2026-01-18",
+   "vendor_raw": "Vista Print",
+   "purpose": "",
+   "amount": "120.43",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "amount '120' + superscript '43'.",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

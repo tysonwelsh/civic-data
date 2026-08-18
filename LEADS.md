@@ -53,6 +53,28 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 
 ## Acquisition backfills (bounded, source-dependent)
 
+- 2026-08-14 — **`webdme.slcgov.com` is a NEW, undocumented SLC Laserfiche WebLink host
+  (v11.0.2411.10) carrying EIGHT live, anonymously-readable public apps**: `AgendasMinutes`
+  (City Council, RDA, CRA, LBA, Board of Canvassers, Redistricting Committee, Mayor Boards),
+  `OrdinancesResolutions`, `AdoptedLegislation`, `BoardsCommissions` (47 bodies incl. Planning
+  Commission + Historic Landmark), `PlanningBoardsCommissions`, `Planning`, `GeneralBusiness`,
+  `BldgPermitHistory`. OBSERVED: anonymous full-text search works (`SearchService.aspx/
+  GetSearchListing`, `{LF:Basic~="…", option="DFANLT"}` → 397 hits for "campaign finance"),
+  as does folder walking (`FolderListingService.aspx/GetFolderListing2` + `GetRootFolderId`);
+  call shapes recovered from `app/dist/browse/main.js`. Rights are PER-ENTRY, so each app
+  exposes only its own subtree. Relevant because slc's `packets/` layer records Council
+  packets as INDEX-ONLY/monolithic on PrimeGov and `fts_packet` has 0 SLC rows — this host
+  serves the same Meeting Materials as addressable Laserfiche entries. Discovered via the
+  2021 declared-candidates roster's "Declaration Packet" links. Evidence:
+  `slc_city_council/campaign_finance/RECON_2026-08-02.md` §2026-08-14 addendum.
+- 2026-08-14 — **`CityElections` is the one RETIRED app on that host** (404 while all eight
+  siblings return 200; its 2021 `DocView` ids resolve to id 0 / name null from a live app
+  session). Its 2021 subtree held per-candidate Declaration-of-Candidacy packets, linked from
+  the city's own roster page and captured 30× by Wayback (DocView shells only, no PDFs). A
+  GRAMA ask for the CityElections subtree would cover the declaration packets; NOT campaign
+  finance — no CF or elections-filings subtree is publicly exposed anywhere on the host
+  (checked all 8 app roots; the only election-adjacent folders are Board of Canvassers and
+  Board of Municipal Canvassers, i.e. certification).
 - **Phase-4 counties**: per-city election re-point to the 6 new county canonicals (evidence
   banked for 8 cities; the 7-city general half of L3200 lives here too); utah_county PC
   minutes 46 meetings 2020–24 (host NXDOMAIN); OCR-gated depth backfills (cache 2015–20 +
@@ -267,6 +289,188 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 - **west_jordan PC roster regeneration** over the merged 2020+ span (optional). (L3015)
 - **Riverton Timberline DA staff report** — per-object auth-wall; GRAMA or portal change.
   (L1093)
+- 2026-08-14 (juab itemization wave, county CLOSED — 24 filings, +160 rows, 34/48 sides
+  exact): five observations, evidence in `_backups/2026-08-14-tranche3-juab/` + the county
+  AVAILABILITY verification section:
+  - the amount-cell ink screen shows a systematic −1-row bias on ruled handwritten forms
+    (filers write ABOVE the rule) — a future geometry gate should score against the ink
+    centroid, not the band (geocheck2.py: 21 false −1 flags vs 2 true +1).
+  - no automated ROW-COUNT gate exists for handwritten ruled county forms — two detectors
+    built and rejected (firstink.py header false-positives; amountbands.py 33/39 pages
+    mis-counted).
+  - juab GRAMA ask gains two citable targets: Painter's earlier 2014 report (proved to
+    exist by his own cumulative column) and Garrett-2014's missing Form A page ($250.00
+    stated, no schedule in the county's 2-page scan).
+  - donor-alias candidate: Juab County Democratic Party under 3 spellings across 4 rows —
+    fold into the donor-alias crosswalk lead above.
+  - the Carr 5-5-PG contribution basis (line 1 >$50 itemized + line 2 ≤$50 aggregate never
+    itemized) is a STATEWIDE property of the 17-16-6.5 form — wasatch/summit/washington
+    itemization will hit the same false `reconciles_contrib=False` pattern; candidate for
+    a shared `recon_basis` column instead of per-module notes. (CONFIRMED same-day by the
+    wasatch wave, which met it independently and made its reconciliation anchor-aware.)
+- 2026-08-14 (wasatch itemization wave, county CLOSED — 111/111 filings itemized, 851 rows,
+  168 sides exact / 20 verbatim deltas / 0 withheld; evidence in the county AVAILABILITY
+  verification section + `_backups/2026-08-14-tranche3-phaseb/wasatch/`):
+  - `index.csv.needs_review=1` on all 111 rows is now STALE (both layers complete) —
+    retire/redefine in `build_index.py` (derived; not a hand edit).
+  - Searle 2022-06 contributions −$50.00: the wave's only unexplained residual (the closing
+    reading was REJECTED — born-digital prints $230.00 unambiguously).
+  - Park 2024-11 binds two apparently IDENTICAL report faces (same figures/boxes/10-11-24
+    signature) — needs an owner call on true-duplicate status.
+  - Armer 2020-10 p5 "The Peak radio Ad": amount cell genuinely empty; filing arithmetic
+    implies exactly $268.00 — would need a documented override, never a transcription.
+  - Woodard 2026-06 donor "Marte Bona": bistable r/u at the scan's native ceiling; needs
+    the paper original.
+  - the county's 2018/2020 Form B template MISLABELS its payee column "Name of Contributor"
+    — carry this if anyone parses `wasatch_fcr_3line`.
+  - `_backups/` is gitignored yet wasatch's + SLCo's CLAUDE.md cite it as the rebuild
+    recipe — move the records somewhere tracked or say the recipe depends on an untracked
+    local dir.
+  - `donor_state` name→USPS normalization implemented module-locally; likely wanted in the
+    shared `normalize_donors`.
+  - Woodard 2026-03's Table-A In-Kind column holds DESCRIPTIONS ("Loan", "Candidate
+    Filing") of cash contributions; `in_kind=True` follows the column as printed — repo-wide
+    question about that column's semantics.
+- 2026-08-14 (summit itemization wave, CHECKPOINT — 24 of 116 scans itemized, 335 rows,
+  39 sides exact / 5 deltas traced / 3 withheld on the grain question; resume kit at
+  `_backups/2026-08-14-tranche3/summit-b/` incl. AGENT_BRIEF + per-filing shapes; residue
+  derived by `wave_stats.py --residue`: 2014×20 · 2016×10 · 2018×16 · 2020×12 · 2022×19 ·
+  2024×4 · 2026×11 — finishing the 4-filing 2024 residue closes that cycle):
+  - **RULING RATIFIED BY THE OWNER 2026-08-17 — see the RECONCILIATION-BASIS RULE block
+    below; this lead is CLOSED.** Original framing retained verbatim for the record:
+  - the [GATED] period-vs-cumulative grain question is now DECIDABLE ON EVIDENCE:
+    24390 Wolbach prints a period-only contribution page AND a fully reconciled cumulative
+    expense page on ONE filing (the form gives no cumulative contribution ledger);
+    24384 McKenna's period figures are provable to the cent by differencing its two covers.
+    Proposed rule for owner ratification: publish the cumulative ledger where the form
+    prints one; withhold where only a period ledger exists; never difference covers to
+    synthesize rows. Withheld transcriptions are PARKED in `_meta_itemized.withheld_rows`
+    so a ruling applies without re-reading pages.
+
+- 2026-08-17 (summit wave CLOSED + **RECONCILIATION-BASIS RULE RATIFIED BY THE OWNER**):
+  the summit scan queue closed at 116/116 (131/131 filings itemized; 2,519 rows;
+  165 of 196 sides exact) and the owner ratified the rule that unblocks the parked sides:
+  > **Reconcile each itemized side against the printed cover figure that MATCHES ITS OWN
+  > SCOPE** — the cover's CURRENT-REPORT column for a period-scoped ledger, the CUMULATIVE
+  > column for a cumulative ledger. Tag published rows with `is_incremental` accordingly.
+  > **Never synthesize a figure by differencing covers.** Withhold only where NEITHER
+  > printed figure closes.
+  The decisive facts: period rows are DISJOINT from the prior filing's rows (they do not
+  overlap, so publishing both does not double-count — McKenna 24232's 176 rows run to
+  10/29 and 24384's 5 rows run 10/29-12/5, summing to the cover's cumulative exactly);
+  the period figure is **printed natively in the cover's Current Report column**, so no
+  differencing is required; and `is_incremental` is an EXISTING repo-wide column
+  (populated across ~all entities; summit already carried 42 True rows), so the rule needs
+  no schema change. What had actually blocked publication was a RECONCILIATION-BASIS
+  MISMATCH — the gate compared a period ledger against the cumulative `stated_total_*` —
+  not any defect in the rows.
+  - **in-kind treatment is PER-FILER, not a form property** (wave finding, 2026-08-17,
+    narrows the leg-1 McKenna precedent): in-kind is a separate schedule with a
+    monetary-only cover on some filings (24232/24384) and entered INLINE inside both the
+    schedule total and the cover on others (4020, 4278, 8191, 1268, 11110, 20758,
+    24234/24708). Since `itemized_contrib_sum` is monetary-only, the inline filings publish
+    a sum below their stated total BY CONSTRUCTION. The contract should settle in-kind per
+    filing from its own arithmetic, never from cycle or form family. Applies beyond summit.
+  - the `<=$50` aggregate is sometimes itemized after all (1082 second sheet, 1098
+    interleaved, 1244 as anonymised "$50 or less donor" rows).
+  - rotated/transposed scans (20641 90 deg, 26742 `/Rotate 270`) handled by an explicit
+    `"transposed": true` geometry path.
+  - **1250 Trussell 2014 — the Amount column is physically OFF THE SCAN** (landscape sheet
+    fed portrait); the same sheet is complete on 1058, so a better county copy or a GRAMA
+    request is the only honest recovery. Withheld as a scanner defect, NOT a grain case.
+  - two vocabularies for `recon.result` on withheld/`none` sides (`withheld`/`none` on 24
+    sides vs `unknown` on 12); `_meta_itemized.sides` is authoritative — a normalization
+    candidate before the weber/utah waves.
+  - new CALIBRATION SPECIMEN candidates: *20762 Furse* (printed right-hand columns sit one
+    row high — field-shift positive control, only two independent arithmetic gates settle
+    it); *1250 Trussell* (cropped amount column — negative control, correct behaviour is
+    WITHHOLD, recovery = fail); *4278 Adair* (the printed total's cents sit OUTSIDE the box
+    rule, so a box-tight escalation crop clips them — escalation-crop trap); *4020 Adair*
+    (in-kind required INSIDE the printed total — positive control against the monetary-only
+    assumption).
+
+- 2026-08-17 (summit RECONCILIATION-BASIS RULE applied — 16 sides / 81 rows promoted,
+  5 correctly still withheld):
+  - **SHARED-SCRIPT CHANGE, owner should review:** `scripts/campaign_finance/`
+    `validate_finance.py` check 6 asserted `reconciles_*=True ⇒ itemized_sum ~=
+    stated_total_*`, which a PERIOD-basis reconciliation structurally cannot satisfy
+    against a cumulative stated total (17 FAILs on first run). It now admits ONE declared
+    and evidenced exception: every published row on the side carries `is_incremental=True`
+    AND `filing_totals.notes` contains the literal marker `ITEMIZED <side> PERIOD-SCOPED
+    (is_incremental=True)`; then `recon_delta_*` carries the test. Absent that declaration
+    the original test is unchanged. All 38 CF modules re-run: every one still PASSes, none
+    newly relaxed, summit is the only opt-in. **SCHEMA.md §4 was NOT updated to record the
+    exception — that is owed.** A future revision could add a machine-readable
+    `stated_period_*` column so the basis is not carried only in `notes`.
+  - **`split50` structural ceiling:** on the pre-2022 sheet the ledger itemizes only the
+    `>$50` donors while the module's contribution figure sums BOTH printed lines, so a
+    split50 CONTRIBUTION side can close on the period basis only when the `<=$50` Current
+    cell is 0 or blank (1264/1265/1274/4278 closed; 1268 did not). Worth a documented
+    sub-rule if more such filings appear.
+  - **1268 Yost 2014** — the filer's cover Current `<=$50` cell (75.00) contradicts the
+    schedule's own `<=$50` box (25.00); neither figure closes, so the side stays withheld.
+    Candidate for a targeted re-read.
+  - **4278 Adair 2016 expenditures** — a single **+0.30** keeps 10 rows unpublished; all
+    amounts were already escalated, so this is almost certainly filer arithmetic. Candidate
+    for extending the vision-tier "delta, published with reconciles=False" contract to
+    withheld-then-promoted sides (owner call).
+  - **Donor-type gap:** Wolbach 24390's `donor_raw` is literally "Personal Contribution",
+    so `normalize_donors` does not type it `candidate-self` and `self_funded_amount` stays
+    0.00 though it is plainly the filer's own money. Generic-self-label handling belongs in
+    the SHARED normalizer.
+  - **REPO-WIDE SURVEY NOW WORTH RUNNING:** the same period-ledger-under-a-cumulative-cover
+    shape is described in washington_county's caveat ("summary rows are per-period, ledgers
+    restate cycle-to-date") and possibly wasatch/weber. Now that the rule exists, survey
+    every county for sides withheld or mis-gated on this basis.
+
+- 2026-08-17 (weber wave resumed — 83 of 93 scans itemized, 3 chunk agents; NOT fully
+  closed, 10 scans + 18 geometry re-measures outstanding, see TODO [DEBT]):
+  - **the "93 vs 197" discrepancy is RESOLVED and neither prior number was the queue:**
+    `index.csv`'s 197 rows = 98 county-office + 91 school-board + 7 `unclear` + 1
+    document-grain duplicate; of the 98 county filings 5 are born-digital Polimorphic
+    e-filings owned by `weber_polimorphic`. 197 − 91 − 7 − 1 − 5 = **93** = the vision queue.
+    The school-board/`unclear` rows are INVENTORY of the county's mixed compilation PDFs,
+    not coverage — do not read them as a gap.
+  - **WEBER ALREADY IMPLEMENTED THE RATIFIED BASIS RULE** (`period-exact` IS
+    "reconcile against the matching-scope printed figure"; nothing is ever differenced) —
+    the ruling codified existing practice. ONE divergence found and corrected: a verified
+    period side used to leave `reconciles_*` BLANK, under-reporting a real reconciliation as
+    unknown. 64 sides now publish `reconciles_*=True` + `is_incremental=True` + the check-6
+    marker. Bolos closes only WITH in-kind — the per-filer in-kind finding holds here too.
+  - **strongest cross-channel evidence yet for the vision tier:** Harvey's 2016 filing
+    exists on TWO channels and two agents transcribed them hours apart with no knowledge of
+    each other — **all 60 donor and 101 vendor rows agree on name and amount**, differing
+    only in whitespace.
+  - the workdir's `checkpoint.py` is SUMMIT's copy (points at `summit_county`,
+    `_meta_itemized`, a `cover_totals.csv` weber lacks) — a `checkpoint_weber.py` was
+    written; the wave-kit copies are not county-portable and should not be assumed so.
+  - CALIBRATION-SPECIMEN candidates: the **swapped-cover pair** (two internally consistent
+    covers filed under each other's key — detectable ONLY by chaining Last-Report to
+    Cumulative); **rows running right-to-left** on a rotated schedule; **"0 in every
+    This-Report cell"** making a final report cumulative-scoped (the `exact` case reached
+    from the opposite direction); and the **wrong-column pointer that still sums correctly**
+    — a negative control for GEOMETRY, since arithmetic closure cannot detect it.
+  - smaller finds: Harvey's 2024 blank cover cell resolves to 24,300.00 and could be filled;
+    `8a163a02`'s cache note still mislabels it a second June-16 report; 2024 covers carry a
+    stale 2022 template year; 2026 filings begin carrying **"Ogden Valley City"**,
+    incorporated off the 2024 ballot (registry/entities.csv implication — new Utah city).
+  - **CROSS-COUNTY SWEEP THIS WAVE EARNED (act before the utah wave):** the swapped Gibson
+    pair proves the 2026-08-01 vision-totals tranche can file a CORRECT reading under the
+    WRONG KEY — both covers were internally consistent, so no arithmetic gate could see it.
+    Cheap detector, no vision cost: for every candidate with consecutive filings in a cycle,
+    chain **Last-Report vs the prior filing's Cumulative** and flag breaks. Run it over all
+    8 counties' cover tranches (1,911 cf_filing stated-totals rows), not just weber.
+  - THREE new calibration-specimen candidates: `summit-specimen-row` (the blank form's
+    printed Jon-and-Jane-Doe example rows — correct answer DROP, proof = the total closes
+    only without them); `summit-two-digit-bistable` (1065 Martin — TWO different re-readings
+    each close the page exactly, so arithmetic alone is insufficient and tight-crop
+    escalation is REQUIRED); `summit-swapped-pages` (expense p2 / contributions p3 —
+    page position is not a classifier).
+  - utah_county index may carry one row binding TWO reports: a 2018 Schedule B bound into
+    `2020_SakievichTom6.23.20_Redacted.pdf` p6 (verify before the utah wave).
+  - `rowbands.py`/`fitgrid.py` (printed-rule detection → measured pct: geometry + a
+    row-count gate) are county-agnostic — promotion candidates for
+    `scripts/campaign_finance/` before the weber/utah waves.
 
 ## Routine (fold into the quarterly refresh — next run early Oct 2026)
 
@@ -289,7 +493,7 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 | magna 2025-11-18 CRA approved copy | PMN | approved version | 2026-07-20 | draft rejected |
 | SLC 8 comment pages (5 content-filter + 3 other) | — | retry with newer models | 2026-07-16 | permanent-gap candidate |
 | ogden/logan/orem CF cycle publications | city portals | 2025 cycles posted | 2026-07-19 | — |
-| SLC campaign-finance portal | dotnet.slcgov.com | **WebAPI answers → harvest is turnkey** (endpoints in slc AVAILABILITY.md; JSON-native) | 2026-08-03 | shell 200 / API still 503 (probed 2026-08-03). The twice-daily cron watcher was CANCELED by the owner 2026-08-03 — back to refresh-time checks of THE API, not the landing page. slc now holds the 2003 cycle only (cf-honest-zero caveat rewritten); GRAMA covers 2005–2017 + 2019+ if the API stays down |
+| SLC campaign-finance portal | dotnet.slcgov.com | **WebAPI answers → harvest is turnkey** (endpoints in slc AVAILABILITY.md; JSON-native) | 2026-08-14 | shell 200 / API still 503 (re-probed 2026-08-14, `GetElections`). **No movement in 12 days:** the 503 body is byte-identical to the 2026-08-02 retained snapshot except Cloudflare's rotating email-obfuscation token, and its embedded balance table still reads "Balance as of April 2026" — the city has not refreshed even its own rendered figures. Predecessor `CandidateReporting` still HTTP 500; sibling candidate app still 401 (server + DB alive, public read surface off). The twice-daily cron watcher was CANCELED by the owner 2026-08-03 — refresh-time checks of THE API, not the landing page. slc holds the 2003 cycle only; GRAMA covers 2005–2017 + 2019+ if the API stays down |
 | millcreek even-year SOVC | SLCo | acquisition would unblock its re-point exception | 2026-07-19 | — |
 | CivicPlus platform (murray/SSL/MSD 500s) | portals | re-verify, nothing marked dead | 2026-07-19 | correlated outage |
 | `wasatch.utah.gov` legacy DNN host (serves 2018–2024-June wasatch CF PDFs live) | direct Portals/ URLs | host dies → 104 filings become archive-only; re-mirror check | 2026-08-01 | live; link-rot risk |

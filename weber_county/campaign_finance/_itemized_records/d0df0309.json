@@ -1,0 +1,318 @@
+[
+ {
+  "index_path": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+  "page_start": 19,
+  "page_end": 21,
+  "key": "d0df0309",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   19,
+   20,
+   21
+  ],
+  "itemized_pages_A": "20",
+  "itemized_pages_B": "21",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): 636.46'",
+    "detail": "the single Form A row (636.46) sums to the schedule's own printed total 636.46, which equals BOTH the cover's This Report and its Cumulative cell on line 1 (3-line 2020 form, one contrib_all cell, no <=$50 aggregate line)"
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of report): 636.46'",
+    "detail": "the single Form B row (636.46) sums to the schedule's printed total 636.46 = the cover's This Report = Cumulative on line 2"
+   }
+  },
+  "escalations": 2,
+  "escalation_note": "900 dpi tight --value crops at p20 row 2 and p21 row 2 amount cells, run as the geometry spot-verification (not a legibility dispute); both reproduce 636.46",
+  "frames": {
+   "20": {
+    "axis": "x",
+    "cell": [
+     6.59,
+     16.82
+    ],
+    "cells": [
+     [
+      6.59,
+      16.82
+     ],
+     [
+      16.82,
+      57.14
+     ],
+     [
+      57.14,
+      85.95
+     ],
+     [
+      85.95,
+      93.66
+     ]
+    ],
+    "rows": [
+     [
+      14.21,
+      17.24
+     ],
+     [
+      17.24,
+      20.29
+     ],
+     [
+      20.29,
+      23.35
+     ],
+     [
+      23.35,
+      26.35
+     ],
+     [
+      26.35,
+      29.41
+     ],
+     [
+      29.41,
+      32.53
+     ],
+     [
+      32.53,
+      35.59
+     ],
+     [
+      35.59,
+      38.65
+     ],
+     [
+      38.65,
+      41.71
+     ],
+     [
+      41.71,
+      44.79
+     ],
+     [
+      44.79,
+      47.88
+     ],
+     [
+      47.88,
+      50.94
+     ],
+     [
+      50.94,
+      53.88
+     ],
+     [
+      53.88,
+      56.82
+     ],
+     [
+      56.82,
+      59.74
+     ],
+     [
+      59.74,
+      62.68
+     ],
+     [
+      62.68,
+      65.68
+     ],
+     [
+      65.68,
+      68.71
+     ],
+     [
+      68.71,
+      71.76
+     ],
+     [
+      71.76,
+      74.76
+     ],
+     [
+      74.76,
+      77.71
+     ],
+     [
+      77.71,
+      80.59
+     ],
+     [
+      80.59,
+      83.41
+     ],
+     [
+      83.41,
+      86.29
+     ]
+    ],
+    "measure_note": "rowbands' adaptive rule detector run on the page ROTATED 90 deg (these archive sheets render landscape, so the ROW rules are the VERTICAL ones): 27 printed rules at a constant ~3.0%% pitch; the first band after the column-header band is row 1. Column bands come from the un-rotated horizontal rules. Proved with a 900 dpi --value crop at the transcribed row's amount cell, which reproduces 636.46 on both sheets."
+   },
+   "21": {
+    "axis": "x",
+    "cell": [
+     5.18,
+     15.41
+    ],
+    "cells": [
+     [
+      5.18,
+      15.41
+     ],
+     [
+      15.41,
+      33.45
+     ],
+     [
+      33.45,
+      43.73
+     ],
+     [
+      43.73,
+      87.07
+     ],
+     [
+      87.07,
+      94.77
+     ]
+    ],
+    "rows": [
+     [
+      16.03,
+      18.97
+     ],
+     [
+      18.97,
+      21.88
+     ],
+     [
+      21.88,
+      24.82
+     ],
+     [
+      24.82,
+      27.85
+     ],
+     [
+      27.85,
+      30.94
+     ],
+     [
+      30.94,
+      34.0
+     ],
+     [
+      34.0,
+      37.06
+     ],
+     [
+      37.06,
+      40.0
+     ],
+     [
+      40.0,
+      43.0
+     ],
+     [
+      43.0,
+      45.91
+     ],
+     [
+      45.91,
+      48.82
+     ],
+     [
+      48.82,
+      51.76
+     ],
+     [
+      51.76,
+      54.76
+     ],
+     [
+      54.76,
+      57.76
+     ],
+     [
+      57.76,
+      60.76
+     ],
+     [
+      60.76,
+      63.71
+     ],
+     [
+      63.71,
+      66.71
+     ],
+     [
+      66.71,
+      69.71
+     ],
+     [
+      69.71,
+      72.62
+     ],
+     [
+      72.62,
+      75.59
+     ],
+     [
+      75.59,
+      78.47
+     ],
+     [
+      78.47,
+      81.41
+     ],
+     [
+      81.41,
+      84.41
+     ],
+     [
+      84.41,
+      87.29
+     ]
+    ],
+    "measure_note": "rowbands' adaptive rule detector run on the page ROTATED 90 deg (these archive sheets render landscape, so the ROW rules are the VERTICAL ones): 27 printed rules at a constant ~3.0%% pitch; the first band after the column-header band is row 1. Column bands come from the un-rotated horizontal rules. Proved with a 900 dpi --value crop at the transcribed row's amount cell, which reproduces 636.46 on both sheets."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "3/13/2020",
+    "donor_raw": "John Ulibarri (Loan to campaign)",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "636.46",
+    "page": 20,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "typed entry; the filer's own '(Loan to campaign)' tag is kept inside the name cell as printed. Street address on the Address column deliberately not carried (PRIVACY.md: city/state only)."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "3/13/2020",
+    "vendor_raw": "Weber County Elections",
+    "purpose": "Filing fee",
+    "amount": "636.46",
+    "page": 21,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Form B's separate City column prints 'Ogden' (no vendor_city field in the row contract)."
+   }
+  ],
+  "notes": "Typed 2020 3-line form. Both schedules are ROTATED landscape sheets bound after the cover: p20 = FORM A (contributions), p21 = FORM B (expenditures), each with 24 printed data rows of which only row 2 is filled \u2014 row 1 on both sheets is an EMPTY printed row that the scan renders as a grey band (a shaded strip, not an entry), so the single entry indexes as row 2 on each sheet. The whole filing is one self-loan in and one filing-fee payment out, both dated 3/13/2020. Cover carries the filer label conflict already recorded in the stated-totals cache (the 'October 20 - Oct 27' box is ticked but it is signed December 10, 2020) and dashes, not zeros, on the Ending Balance line (kept BLANK per the zero-glyph ruling)."
+ }
+]

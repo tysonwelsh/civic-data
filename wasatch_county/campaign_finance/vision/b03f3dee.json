@@ -1,90 +1,461 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_DecJLee.pdf",
-    "cache_key": "b03f3dee",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "December 2020 (30 days after General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jennifer Lee",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_DecJLee.pdf",
+  "cache_key": "b03f3dee",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "December 2020 (30 days after General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_05.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "612.79",
+     "itemized": "612.79",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (612.79 = 612.79, the cover's own total contributions line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 4139.36 this reads as a -3526.57 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "4139.36",
+     "csv_reconciles": "False",
+     "csv_delta": "-3526.57"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "12-3-2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "30 Days after the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "3,526.57",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "612.79",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "4,139.36",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "2,109.80",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2,007.70",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "4,117.50",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "1,416.77",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "1,394.91",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "21.86",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2007.70",
+     "itemized": "2007.70",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (2007.70 = 2007.70, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 4117.50 this reads as a -2109.80 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "4117.50",
+     "csv_reconciles": "False",
+     "csv_delta": "-2109.80"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant, but the THIS-REPORT-column gate fires on both sides and both PASS to the cent. Form A: 132.00 + 25.00 + 25.00 + 25.00 + 30.00 + 20.00 + 20.00 + 20.00 + 315.79 = 612.79. Form B: 25.00 x5 + 371.88 + 15.00 + 994.25 + 501.57 = 2007.70. The cover's balance line also closes: 1416.77 + (1394.91) = 21.86.",
+   "escalations": 0,
+   "escalation_note": "born-digital typed filing, fully legible at 200 dpi; row geometry read off the measured rule grid (Form A first line y=469, Form B first line y=395, pitch 42 px)",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 9,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 18,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime, BORN-DIGITAL (typed, not handwritten) -- the cleanest filing in this chunk. Jennifer Lee, Wasatch County Clerk/Auditor, Democrat, dated 12-3-2020, '30 Days after the General Election' checked. Like Armer's December filing, the schedules are PERIOD-SCOPED under a cumulative cover, so both sides are honest deltas whose residual equals the cover's LAST-REPORT column to the cent. Form B's 'Name of Expenditure' column is used as 'Payee: purpose' ('Facebook: Digital Ad', 'Wave Publishing: Newspaper Ads', 'PDQ Printing: Mailer', 'Jennifer Lee: Repay Loans'); the whole string is kept verbatim in vendor_raw rather than split, because splitting would be an inference. The last expenditure is the candidate repaying her own campaign loans."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jennifer Lee",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. The expense LAST REPORT figure (2,109.80) does not equal her October cumulative expense (1,608.23) \u2014 kept verbatim."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "12-3-2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "30 Days after the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "3,526.57",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "612.79",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "4,139.36",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "2,109.80",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2,007.70",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "4,117.50",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "1,416.77",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "1,394.91",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "21.86",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. The expense LAST REPORT figure (2,109.80) does not equal her October cumulative expense (1,608.23) — kept verbatim.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-10-23",
+   "donor_raw": "Wasatch County Democratic Party (in-kind)",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "132.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "'(in-kind)' printed as part of the name cell; PO Box address discarded, city/state kept. Same 132.00 in-kind party donation Aimee Armer reports on her own 2020-12 Form A.",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2020-11-03",
+   "donor_raw": "Laurie Reed",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street/apartment discarded at read time.",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2020-11-03",
+   "donor_raw": "Sherry Sabol",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street/apartment discarded at read time.",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2020-11-03",
+   "donor_raw": "Michael Dorsey",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street discarded at read time.",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2020-11-03",
+   "donor_raw": "Lauri Sibulkin",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street discarded at read time.",
+   "geometry": "pct:10.00,27.20,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2020-11-03",
+   "donor_raw": "Dan Obradovich",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street discarded at read time.",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2020-11-03",
+   "donor_raw": "Valerie Thurnell",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street/unit discarded at read time.",
+   "geometry": "pct:10.00,31.30,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2020-11-03",
+   "donor_raw": "Jeffrey Stern",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street/unit discarded at read time.",
+   "geometry": "pct:10.00,33.35,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2020-12-03",
+   "donor_raw": "Wasatch County Democratic Party",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "315.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "PO Box address discarded.",
+   "geometry": "pct:10.00,35.40,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-10-28",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'. Payee and purpose are combined in the one printed column; kept verbatim rather than split.",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-10-30",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'.",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-11-02",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'. Two separate 11-2-2020 Facebook rows are printed (this and line 4) -- both retained as filed, not deduplicated.",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2020-11-02",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'. Duplicate-looking of line 3 but printed as its own row; both counted, and the side still reconciles exactly.",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-11-03",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'.",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2020-11-03",
+   "vendor_raw": "Wave Publishing: Newspaper Ads",
+   "purpose": "",
+   "amount": "371.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "Heber City address discarded per the no-address rule for expenditures.",
+   "geometry": "pct:10.00,26.00,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 6,
+   "date": "2020-11-06",
+   "vendor_raw": "Facebook: Digital Ad",
+   "purpose": "",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell 'www.facebook.com'.",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 7,
+   "date": "2020-11-09",
+   "vendor_raw": "PDQ Printing: Mailer",
+   "purpose": "",
+   "amount": "994.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "Las Vegas NV address discarded. Same 994.25 mailer charge Aimee Armer books on 11/16/2020 as 'Postcard Mailing' to the same Las Vegas vendor.",
+   "geometry": "pct:10.00,30.20,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 8,
+   "date": "2020-12-03",
+   "vendor_raw": "Jennifer Lee: Repay Loans",
+   "purpose": "",
+   "amount": "501.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "candidate repaying her own campaign loans; her home address printed in the address cell is discarded.",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

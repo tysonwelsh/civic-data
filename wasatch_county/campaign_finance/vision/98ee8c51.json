@@ -1,79 +1,204 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_S-Farrell-elimination.pdf",
-    "cache_key": "98ee8c51",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Steve Farrell",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_S-Farrell-elimination.pdf",
+  "cache_key": "98ee8c51",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "317.00",
+     "itemized": "318.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1.00 - 2 row(s) sum to 318.00 against published stated total, which prints 317.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: DELTA of 1.00 — the 2 Table A rows read 266.00 + 52.00 = 318.00 against the filer's own printed Table A TOTAL of 317.00 (also cover line 1). Both figures retained verbatim; neither adjusted. Cause: FILER ARITHMETIC. Evidence it is not a misread: the same two amounts are written a second time on Table B and re-read identically at 1200 dpi, and the filer prints 317.00 in four separate places (Table A TOTAL, Table B TOTAL, cover line 1, cover line 2) — a consistent single-dollar addition slip, not a digit this transcription got wrong",
+     "published_stated": "317.00",
+     "csv_reconciles": "False",
+     "csv_delta": "1.00"
     },
-    "office_verbatim": {
-      "value": "County Council seat A",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "at large",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "GOP",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Midway",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/16/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report",
-      "Candidate Withdrawal/Disqualification/Elimination Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "317.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "317.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "317.00",
+     "itemized": "318.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1.00 - 2 row(s) sum to 318.00 against published stated total, which prints 317.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: DELTA of 1.00 — the 2 Table B rows read 266.00 + 52.00 = 318.00 against the printed Table B TOTAL of 317.00 (also cover line 2). Identical to the contribution side because this filing is a pure pass-through: the candidate funded each expense himself and booked the same two amounts on both schedules",
+     "published_stated": "317.00",
+     "csv_reconciles": "False",
+     "csv_delta": "1.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: 317.00 vs rows 318.00 — GATE DOES NOT CLOSE, off by 1.00. Table B TOTAL: 317.00 vs rows 318.00 — GATE DOES NOT CLOSE, off by 1.00. Both re-read at 600 dpi and again at 1200 dpi before being accepted; no row was adjusted to make either close. Cover identity DOES close on the filer's own figures (317.00 - 317.00 = 0, and he printed a slashed zero on line 3).",
+   "escalations": 5,
+   "escalation_note": "p2 Table A amount pair at 600 dpi; p2 Table B amount pair at 600 dpi; Table A TOTAL at 600 dpi; then Table A rows 1 and 2 individually at 1200 dpi; then Table B row 2 at 1200 dpi as an independent second instance of the same handwritten figure",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 4,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Scanned handwritten filing. Steve Farrell, County Council Seat A (at large), GOP, Midway. THE PORTAL LABEL AND THE FORM DISAGREE, as this module already documents: the file is published as the Elimination Report, and the form has BOTH the Partisan Convention Report box AND the Candidate Withdrawal/Disqualification/Elimination box checked. Recorded as observed; not resolved here. Signed 6/16/2026. THE $1.00 DELTA IS THE FILER'S, AND IT IS THE ONE THING A HUMAN MAY WANT TO SEE. The two amounts (266.00 and 52.00) are written twice each — once on Table A, once on Table B — and I re-read every instance at 600 dpi and then at 1200 dpi. 266.00 is unambiguous (the two 6s are identical closed loops; a 5 in this hand has a flat top bar and open bowl, nothing like them). The second amount's middle glyph was the doubtful one: at 600 dpi on Table A it could pass for a 7, but the 1200 dpi read of the Table B instance shows the flat baseline stroke of a 2 clearly, and both instances are the same shape. So the rows are 266.00 and 52.00. Under gate (c) I checked whether any single-digit alternative closes the printed total: 265.00 + 52.00 would give exactly 317.00, but the '6' is not a doubtful glyph, and 266.00 + 57.00 = 323.00 is worse. Since no doubtful reading closes the identity, arithmetic gives no help and the glyph read stands with the delta recorded — exactly the honest-delta case, not a Rhodes-rule case. The filer added 266 + 52 as 317. Table A row slot 0 carries a struck-through scribble in the DATE cell with the name, amount and in-kind cells all empty; nothing survives the strikeout, so it is not emitted as a row (noted, per the module's strikeout rule). Both dates are written as 'Jan 8' and 'Mar 30' with NO YEAR — left BLANK per the date rule, verbatim in the row notes; the year is never filled from the 2026 report date. Table A's In-Kind column is filled ('Filing Fee', 'Printing'), so in_kind is set true from the column as printed per gate (g), with the caveat that the filer may be using it to state the PURPOSE of a self-funded cash contribution rather than a tangible in-kind good — the matching Table B rows spend the same amounts on the same things. Form prints no address column, so donor_city/donor_state are blank by design."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Steve Farrell",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "THE DOCUMENTED DOUBLE-CHECKBOX FILING: both the Partisan Convention Report box and the Candidate Withdrawal/Disqualification/Elimination box are marked on a 'select only one' form. The county publishes it as 'S. Farrell Elimination Report'; the published label is kept and the contradiction recorded, not resolved. Stated totals are identical to his March 2026 filing."
+  "office_verbatim": {
+   "value": "County Council seat A",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "at large",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "GOP",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Midway",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/16/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report",
+   "Candidate Withdrawal/Disqualification/Elimination Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "317.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "317.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "THE DOCUMENTED DOUBLE-CHECKBOX FILING: both the Partisan Convention Report box and the Candidate Withdrawal/Disqualification/Elimination box are marked on a 'select only one' form. The county publishes it as 'S. Farrell Elimination Report'; the published label is kept and the contradiction recorded, not resolved. Stated totals are identical to his March 2026 filing.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "266.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim 'Jan 8' — month and day only, NO YEAR, so date left BLANK (never inferred from the report date). Self-contribution by the candidate. In-Kind / Tangible items cell reads verbatim 'Filing Fee' -> in_kind set true from the column as printed, though it may be the filer stating the purpose of a cash self-funding rather than a tangible good; the matching Table B row pays Wasatch County 266.00 for the same. Amount re-read at 600 and 1200 dpi: '266.00' unambiguous. Row sits in slot 1 — slot 0 holds a struck-through scribble in the date cell and no other content. Part of the 1.00 filing delta (see recon)",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 2,
+   "date": "",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "52.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim 'Mar 30' — month and day only, NO YEAR, date left BLANK. Self-contribution. In-Kind cell reads verbatim 'Printing' -> in_kind true from the column as printed (same caveat as row 1). AMOUNT WAS THE DISPUTED GLYPH: at 600 dpi the middle digit could read 7; the 1200 dpi crop of the identical figure on Table B shows the flat baseline of a 2, so 52.00. Neither 52 nor 57 closes the printed TOTAL of 317.00, so no arithmetic reading was available and the glyph read stands with the delta recorded verbatim",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "266.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim 'Jan 8' — no year printed, date left BLANK. Amount re-read at 600 and 1200 dpi as 266.00. Offsets the candidate's own 'Jan 8' contribution of the same amount. Part of the 1.00 filing delta (see recon)",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "vendor_raw": "UPS",
+   "purpose": "Printing",
+   "amount": "52.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim 'Mar 30' — no year printed, date left BLANK. This is the 1200 dpi instance that settled the 2-vs-7 question for both schedules: the glyph shows a 2's flat baseline stroke. Amount 52.00. Offsets the candidate's own 'Mar 30' contribution of the same amount",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Born-digital 2026 sheet; address and city/state/zip redacted by the county. Zero cells print the Excel zero-dash '-' rather than 0.00 — recorded as printed. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Born-digital 2026 sheet; address and city/state/zip redacted by the county. Zero cells print the Excel zero-dash '-' rather than 0.00 — recorded as printed. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2026-01-02",
+   "donor_raw": "Cindy Keyes",
+   "donor_city": "Peoa",
+   "donor_state": "UT",
+   "amount": "843.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.34,26.61,81.45,2.02@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate's own self-funding; address cell reads 'Peoa UT 84061' - city and state taken verbatim from the page, no street line was written and the zip is not stored",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2026-01-02",
+   "vendor_raw": "Cindy Keyes",
+   "purpose": "Candidate Filing Fee",
+   "amount": "843.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.24,26.55,81.44,2.15@p3",
+   "geometry_fit": "measured",
+   "note": "the payee named on the form is the CANDIDATE, not the county clerk; kept verbatim",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "843.42",
+    "itemized": "843.42",
+    "result": "exact",
+    "detail": "one row - the candidate's own 843.42 on 1/2/2026 - equal both to the schedule's own printed TOTAL CONTRIBUTIONS box and to the cover's stated figure. A wholly self-funded filing: the single contribution exactly funds the single expense."
+   },
+   "expenditures": {
+    "stated": "843.42",
+    "itemized": "843.42",
+    "result": "exact",
+    "detail": "one row - 'Cindy Keyes / Candidate Filing Fee' 843.42 on 1/2/2026 - equal both to the printed TOTAL EXPENSES box and to the cover's stated figure."
+   }
+  },
+  "page_gates": "Three figures agree to the cent on each side, which is the cleanest close available on this form. CONTRIBUTIONS: the single row 843.42, the page's own printed 'TOTAL CONTRIBUTIONS $ 843.42' box (filled in here, unlike the Olson 2026 sibling where it was left as a dash), and the cover's stated 843.42. EXPENSES: the single row 843.42, the page's printed 'TOTAL EXPENSES $ 843.42', and the cover's 843.42. The cover's Campaign Balance box reads '$ -' in all three columns, consistent with the two sides cancelling. Escalated twice at 800 dpi, tight crops of p2 band 4 and p3 band 4, purely as the geometry spot-check; both reproduced the full-page read exactly.",
+  "escalations": 2,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A TYPED 2026 filing on the county's own form, and the only one in this chunk whose section-total boxes the filer actually completed - which is what lets both sides gate internally as well as against the cover. NOT ACTUALLY REDACTED ON THE SCHEDULE PAGES despite the '_Redacted.pdf' filename the county publishes it under: neither p2 nor p3 carries any black-marker block, and the contributor's ADDRESS cell prints 'Peoa UT 84061' - city, state and zip with NO street line, i.e. what the filer chose to write. donor_city='Peoa' and donor_state='UT' are therefore read directly from the page and are honest values, not inferred from the zip; the zip itself is not stored. Contrast the Olson 2026 filing (27205) in the same cycle, where the address block IS blacked out by the county. THE EXPENSE PAYEE IS THE CANDIDATE HERSELF: the 'PERSON OR ORGANIZATION' cell reads 'Cindy Keyes', not the county clerk, against the purpose 'Candidate Filing Fee' - a filer convention (she recorded reimbursing herself, or simply named herself as the person who paid), kept verbatim and not normalised to 'Summit County Clerk'. Both pages fill the form's 'Full Name of Candidate:' box with 'Cindy M Keyes'. No specimen rows survive; every other ruled line on both schedules is genuinely blank. The cover carries the same 843.42 in the current-report AND cumulative columns with '$ -' for the last report, so this is the cycle's first filing and no period-vs-cumulative question arises."
+ }
 }

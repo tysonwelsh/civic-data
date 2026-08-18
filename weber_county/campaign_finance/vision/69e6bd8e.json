@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:51:39Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Ricky D. Hatch",
  "office_stated": "Clerk/Auditor",
  "report_type_stated": "7 days before the candidates' convention - Convention",
@@ -44,5 +44,171 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED; all columns reconcile. Address NOT redacted on this copy; the printed city is 'Ogden Valley City, UT 84317' - the municipality incorporated from the 2024 ballot (see weber_county/CLAUDE.md 'Ogden Valley incorporation' watch item). The 'Last Report' column carries an officeholder balance forward from a prior cycle."
+ "notes": "2026 form variant, TYPED; all columns reconcile. Address NOT redacted on this copy; the printed city is 'Ogden Valley City, UT 84317' - the municipality incorporated from the 2024 ballot (see weber_county/CLAUDE.md 'Ogden Valley incorporation' watch item). The 'Last Report' column carries an officeholder balance forward from a prior cycle.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "12/31/2025",
+   "donor_raw": "Ricky Hatch-Loan to campaign",
+   "donor_city": "Ogden Valley City",
+   "donor_state": "UT",
+   "amount": "825.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.59,20.34,11.32,1.74@p2",
+   "geometry_frame": "p2 axis=y cell=81.59-92.91 rowband=20.34-22.08 (1 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The candidate's own loan to the campaign, exactly as the filer labelled it in the Name-of-Contributor cell. The filer printed a full STREET address; per PRIVACY.md only city/state are carried. Dated in DECEMBER 2025, before the 2026 cycle's first report - kept verbatim."
+  },
+  {
+   "line_no": "2",
+   "date": "2/2/2026",
+   "donor_raw": "Ricky Hatch-Loan to campaign",
+   "donor_city": "Ogden Valley City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.59,22.08,11.32,1.73@p2",
+   "geometry_frame": "p2 axis=y cell=81.59-92.91 rowband=22.08-23.81 (2 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Street address printed by the filer, not carried (privacy)."
+  },
+  {
+   "line_no": "3",
+   "date": "3/13/2026",
+   "donor_raw": "Ricky Hatch-Loan to campaign",
+   "donor_city": "Ogden Valley City",
+   "donor_state": "UT",
+   "amount": "268.13",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.59,23.81,11.32,1.74@p2",
+   "geometry_frame": "p2 axis=y cell=81.59-92.91 rowband=23.81-25.55 (3 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Street address printed by the filer, not carried (privacy)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "31-Dec",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Printing fee",
+   "amount": "2.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,18.41,10.41,1.73@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=18.41-20.14 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden, UT. The Purchase Date cell carries NO YEAR ('31-Dec') - kept verbatim; a year is never filled in from the report date."
+  },
+  {
+   "line_no": "2",
+   "date": "31-Dec",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Monthly service charge",
+   "amount": "10.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,20.14,10.41,1.72@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=20.14-21.86 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden, UT. The Purchase Date cell carries NO YEAR ('31-Dec') - kept verbatim; a year is never filled in from the report date."
+  },
+  {
+   "line_no": "3",
+   "date": "2-Jan",
+   "vendor_raw": "Weber County",
+   "purpose": "Candidate filing fee",
+   "amount": "888.22",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,21.86,10.41,1.78@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=21.86-23.64 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden, UT. The Purchase Date cell carries NO YEAR ('2-Jan') - kept verbatim; a year is never filled in from the report date."
+  },
+  {
+   "line_no": "4",
+   "date": "30-Jan",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Monthly service charge",
+   "amount": "10.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,23.64,10.41,1.72@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=23.64-25.36 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden, UT. The Purchase Date cell carries NO YEAR ('30-Jan') - kept verbatim; a year is never filled in from the report date."
+  },
+  {
+   "line_no": "5",
+   "date": "11-Feb",
+   "vendor_raw": "Site5",
+   "purpose": "Website hosting fee",
+   "amount": "27.99",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,25.36,10.41,1.73@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=25.36-27.09 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Texas. The Purchase Date cell carries NO YEAR ('11-Feb') - kept verbatim; a year is never filled in from the report date."
+  },
+  {
+   "line_no": "6",
+   "date": "11-Feb",
+   "vendor_raw": "Site5",
+   "purpose": "Website hosting fee",
+   "amount": "263.18",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:78.00,27.09,10.41,1.77@p3",
+   "geometry_frame": "p3 axis=y cell=78.00-88.41 rowband=27.09-28.86 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Texas. The Purchase Date cell carries NO YEAR ('11-Feb') - kept verbatim; a year is never filled in from the report date."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "cover 'Campaign Financial Summary' line 1 Total Contributions, THIS REPORT cell = 1,143.13 (Last Report 23,859.94, Cumulative Total 25,003.07)",
+     "detail": "3 Form A rows (825.00 + 50.00 + 268.13) sum to 1,143.13 = the cover's This-Report cell exactly. The 2026 form variant prints NO schedule-level total on Form A itself, so the cover's matching-scope cell IS the anchor; no figure was synthesized by differencing covers. Period-scoped: the cover's Last-Report column carries 23,859.94 forward from this OFFICEHOLDER's earlier account, and 23,859.94 + 1,143.13 = 25,003.07 = the printed Cumulative Total, so the cover's own arithmetic closes and the pre-2026 money is simply not itemized here. No in-kind line on the sheet, so monetary-only and monetary-plus-in-kind give the same 1,143.13."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "cover 'Campaign Financial Summary' line 2 Total Campaign Expenditures, THIS REPORT cell = 1,201.39 (Last Report 20,694.22, Cumulative Total 21,895.61)",
+     "detail": "6 Form B rows (2.00 + 10.00 + 888.22 + 10.00 + 27.99 + 263.18) sum to 1,201.39 = the cover's This-Report cell exactly. Again no schedule-level total is printed on the 2026 Form B, so the cover's matching-scope cell is the anchor. 20,694.22 + 1,201.39 = 21,895.61 as printed, and line 3's This-Report cell is the NEGATIVE (58.26) in accounting parentheses = 1,143.13 - 1,201.39, so the whole cover closes in all three columns."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "4 tight --value crops at 900 dpi, all for GEOMETRY PROOF - both schedules are machine-typed spreadsheet prints and fully legible at 200 dpi full-page; no cell was in dispute. Crops rendered p2 row 1 ('825.00') and p2 row 3 ('268.13'), and p3 row 1 ('2.00') and p3 row 6 ('263.18').",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Ricky D. Hatch, Weber County Clerk/Auditor, 2026 cycle, '7 days before the candidates' convention - Convention' report, signed April 3, 2026. This is the NEW 2026 FORM VARIANT: an unrotated portrait cover with a boxed 'Campaign Financial Summary' (Last Report / This Report / Cumulative Total) and machine-typed spreadsheet schedules - Form A on p2 (Date | Name of Contributor | Address | Amount) and Form B on p3 (Purchase Date | Person/Organization | City | Purpose | Amount). NEITHER schedule prints a total of its own, unlike every earlier Weber form; the cover's matching-scope This-Report cell is therefore the only printed anchor for each side, and both close exactly. All three contribution rows are the candidate's OWN LOANS to the campaign, so this filing itemizes no third-party donor at all. The cover here is NOT redacted by the county (unusual in this corpus) and prints the candidate's street address; Form A repeats that address on all three rows. Per PRIVACY.md only city/state are carried - and the city is 'Ogden Valley City, UT', the municipality incorporated off the 2024 ballot (weber_county's Ogden Valley incorporation watch item), which is a genuine source property worth noting: 2026 filings start carrying the new city name for addresses that earlier filings would have written as Eden/Huntsville/unincorporated Weber. Form B's Purchase Date column carries NO YEAR at all ('31-Dec', '2-Jan', '30-Jan', '11-Feb'); those are kept verbatim and the build will blank them with needs_review rather than inferring 2025/2026 from the report date."
+  }
+ }
 }

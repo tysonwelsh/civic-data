@@ -1,63 +1,153 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_JamesCKaiserman.pdf",
-    "cache_key": "18e87968",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James C. Kaiserman",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_JamesCKaiserman.pdf",
+  "cache_key": "18e87968",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "653.00",
+     "itemized": "653.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (653.00 = 653.00, published stated total)",
+     "published_stated": "653.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "June 14, 2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report",
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "653.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "653.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "653.00",
+     "itemized": "653.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (653.00 = 653.00, published stated total)",
+     "published_stated": "653.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL row is BLANK — no gate available on that side (the cover figure is used instead, and matches). Table B TOTAL: 653.00 = the one row 653.00 — GATE PASSES. Cover identity: 653.00 - 653.00 = 0 = printed balance (a plain handwritten '0') — closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, handwritten in cursive. Cover: James C. Kaiserman, Wasatch County Surveyor, 'Rep.', Heber City UT; District field holds a dash; signed June 14, 2024; both acknowledgement lines initialled 'JK'. TWO reporting-period boxes checked — Partisan Convention AND Primary — matching the module CLAUDE.md's record of this filer ignoring 'select only one'. The candidate's signature is also written across the top of page 2. SUPERSCRIPT CENTS throughout: every money figure is written as '653' with a raised, underlined 'oo' (Table A row, Table B row, Table B TOTAL, cover lines 1 and 2) — transcribed as 653.00 per §3(f) with the convention named here. IN-KIND COLUMN IS NOT AN IN-KIND GOOD: Table A's In-Kind/Tangible cell reads 'Cash', which describes the FORM of a cash contribution, so in_kind is FALSE and the cell is quoted verbatim in the row note — this is exactly the §3(g) trap. AMOUNT READ POSITIONALLY (column 3), not as the last column. The whole filing is a single self-funded $653 filing fee paid straight back to the county: the contribution and the expenditure are the same money. FIELD-SHIFT SCREEN: passed — 1 date/1 name/1 amount per table."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James C. Kaiserman",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "TWO period boxes are checked (Partisan Convention and Primary) on a form that says 'select only one' \u2014 recorded, not resolved."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "June 14, 2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report",
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "653.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "653.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "TWO period boxes are checked (Partisan Convention and Primary) on a form that says 'select only one' — recorded, not resolved.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-01-02",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "653.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '01-02-24'. Amount written '653' with raised underlined 'oo' cents. In-Kind/Tangible cell reads verbatim 'Cash' — a description of a cash gift, NOT an in-kind good, so in_kind=false. Self-contribution by the candidate",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-01-02",
+   "vendor_raw": "Wasatch County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "653.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "date printed '01-02-24'. Amount written '653' with raised underlined 'oo' cents",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

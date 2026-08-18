@@ -1,0 +1,62 @@
+[{
+  "index_path": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+  "page_start": 37,
+  "page_end": 39,
+  "key": "d9dfa9ee",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [37, 38, 39],
+  "itemized_pages_A": "38",
+  "itemized_pages_B": "39",
+  "sides": { "contributions": "transcribed", "expenditures": "transcribed" },
+  "recon": {
+    "contributions": { "result": "period-exact",
+                       "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 5,000.00, which equals the cover's 'Totals for This Report' line-1 cell (5,000.00)",
+                       "detail": "The single Form A row (Utah Forward PAC, 5,000.00) sums to 5,000.00 = the schedule's printed total = the cover's This-Report cell. The cover's CUMULATIVE line-1 cell is 13,895.18 because 8,895.18 was carried in the 'Totals from Last Report' column from Froerer's earlier 2022 report; the 13,895.18 - 5,000.00 = 8,895.18 residual is prior-period money this schedule does not itemize. 2022 form is the 3-line variant, so there is no separate <=$50 aggregate cell and contrib_all is the anchor." },
+    "expenditures":  { "result": "exact",
+                       "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 9,624.58, which equals BOTH the cover's This-Report and its Cumulative line-2 cells (9,624.58)",
+                       "detail": "6 Form B rows: 1,000.00 + 500.00 + 1,215.00 + 3,254.58 + 66.00 + 3,589.00 = 9,624.58, to the cent. The cover's line-2 'Totals from Last Report' cell is a bare dash (the filer restarted the expenditure count at this report), so this-report and cumulative are the same figure and the side is exact rather than period-exact." }
+  },
+  "escalations": 5,
+  "escalation_note": "900 dpi --value crops on p38 (row-1 date cell and row-1 amount cell) to prove the extrapolated row grid on a rotated sheet whose vertical rules the default detector under-reports; 500-700 dpi --value crops on p39 for the amount-column band and for the p39 row-4 / row-6 name cells ('Weber County Jr. Livestock Donation' and the one-word vendor 'Arena', both confirmed verbatim). No amount was in doubt; every escalation was legibility/geometry, and the printed schedule totals gated both sides.",
+  "frames": {
+    "38": { "axis": "x",
+            "cell": [85.34, 95.98],
+            "cells": [[4.89, 13.02], [13.02, 43.25], [43.25, 85.34], [85.34, 95.98]],
+            "rows": [[79.26,82.43],[76.21,79.26],[73.03,76.21],[69.88,73.03],[66.79,69.88],[63.65,66.79],[60.50,63.65],[57.35,60.50],[54.21,57.35],[51.03,54.21],[47.94,51.03],[44.88,47.94],[41.82,44.88],[38.76,41.82],[35.71,38.76],[32.56,35.71],[29.49,32.56],[26.32,29.49],[23.26,26.32],[20.32,23.26],[17.18,20.32],[14.12,17.18],[11.26,14.12]],
+            "measure_note": "Form A is bound ROTATED (landscape): the printed column separators are the page's HORIZONTAL rules and the table's row separators are its VERTICAL rules, so axis='x' and rows advance RIGHT-TO-LEFT across the rendered page (row 1 is the rightmost data band, next to the header strip). Column bands from a horizontal-rule projection taken over the blank x-window 15-40% (5 rules: 4.89/13.02/43.25/85.34/95.98 = Date | Name of Contributor | Address | Amount). Row bands from a vertical-rule projection at coverage 0.35 over the table's y-extent, which returns 27 rules on a regular 3.06-3.17 pct pitch (the default 0.60 threshold returns only 1 on this sheet); the two rules right of the row grid bound the shaded scan-fold strip and the printed header strip, which are NOT data rows. PROVED with two 900 dpi --value crops at the intersection of band 1 with the Date column (reproduces '7/5/2022') and with the Amount column (reproduces '5,000.00')."
+          },
+    "39": { "axis": "x",
+            "cell": [86.50, 97.16],
+            "cells": [[3.50, 11.64], [11.64, 57.05], [57.05, 67.73], [67.73, 86.50], [86.50, 97.16]],
+            "rows": [[77.71,80.82],[74.65,77.71],[71.62,74.65],[68.65,71.62],[65.59,68.65],[62.47,65.59],[59.41,62.47],[56.35,59.41],[53.24,56.35],[50.12,53.24],[47.06,50.12],[44.00,47.06],[41.00,44.00],[37.94,41.00],[34.88,37.94],[31.82,34.88],[28.76,31.82],[25.68,28.76],[22.56,25.68],[19.53,22.56],[16.41,19.53],[13.29,16.41],[10.29,13.29]],
+            "measure_note": "Same rotated-landscape geometry as p38. Column bands from the horizontal-rule projection over the blank x-window 15-40% (6 rules: 3.50/11.64/57.05/67.73/86.50/97.16 = Date of Expenditure | Person or Organization | City | Purpose of Expenditure | Amount). Row bands from the vertical-rule projection at coverage 0.40 (27 rules, pitch ~3.06); the rules at 83.97/88.94/91.44 bound the shaded fold strip and the header strip and are not data rows. PROVED with a 500 dpi --value crop spanning x 74.65-91.65 x y 82-99, which reproduces the 'Amount' header in the header strip and 1,000.00 / 500.00 inside bands 1 and 2 respectively."
+          }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "7/5/2022", "donor_raw": "Utah Forward PAC",
+      "donor_city": "Ogden", "donor_state": "UT", "amount": "5000.00",
+      "page": 38, "row": 1, "confidence": "medium", "in_kind": false,
+      "note": "Typed (not handwritten) schedule row. The Address cell prints a PO box, which is deliberately NOT carried (PRIVACY.md: donor city/state only); the city/state written here are the filer's own, from that same cell." }
+  ],
+  "expenditures": [
+    { "line_no": "1", "date": "10/20/2022", "vendor_raw": "Kevin Johnson", "purpose": "Social Media Post",
+      "amount": "1000.00", "page": 39, "row": 1, "confidence": "medium", "in_kind": false,
+      "note": "City column: Ogden" },
+    { "line_no": "2", "date": "10/12/2022", "vendor_raw": "Kelly Froerer", "purpose": "Sign Instalation",
+      "amount": "500.00", "page": 39, "row": 2, "confidence": "medium", "in_kind": false,
+      "note": "City column: Ogden. 'Instalation' is the filer's own spelling, retained verbatim." },
+    { "line_no": "3", "date": "10/25/2022", "vendor_raw": "Ogden Standard Ex", "purpose": "Newspaper Ads",
+      "amount": "1215.00", "page": 39, "row": 3, "confidence": "medium", "in_kind": false,
+      "note": "City column: Ogden. The filer abbreviated the vendor as written ('Ogden Standard Ex'); not expanded." },
+    { "line_no": "4", "date": "8/19/2022", "vendor_raw": "Weber County Jr. Livestock Donation", "purpose": "Donation",
+      "amount": "3254.58", "page": 39, "row": 4, "confidence": "medium", "in_kind": false,
+      "note": "City column: Ogden. The word 'Donation' really is printed twice - once inside the payee cell (confirmed at 700 dpi) and once in the Purpose column; both retained verbatim." },
+    { "line_no": "5", "date": "8/15/2022", "vendor_raw": "American Express", "purpose": "Campaign Supplies",
+      "amount": "66.00", "page": 39, "row": 5, "confidence": "medium", "in_kind": false,
+      "note": "City column: Salt Lake" },
+    { "line_no": "6", "date": "7/29/2022", "vendor_raw": "Arena", "purpose": "Campaign Work",
+      "amount": "3589.00", "page": 39, "row": 6, "confidence": "medium", "in_kind": false,
+      "note": "City column: Salt Lake. The payee cell holds the single word 'Arena' (confirmed at 700 dpi) - not a truncation of a longer read." }
+  ],
+  "notes": "Typed 2022 Weber 3-line cover (p37) + FORM A on p38 + FORM B on p39, both bound rotated 90 degrees. The cover's 'October 25 - Nov 1' box is marked 'X X'. No page on this filing prints a per-page SUBTOTAL - each schedule prints one grand total at its foot, and that is the gate used. No in-kind row and no negative/parenthesised amount on either schedule. Candidate and committee-secretary addresses/phones print on the cover face and are not carried (PRIVACY.md)."
+}]

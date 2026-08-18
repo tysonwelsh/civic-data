@@ -1,0 +1,413 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 15,
+  "page_end": 18,
+  "key": "f8d48cab",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   15,
+   16,
+   17,
+   18
+  ],
+  "itemized_pages_A": "17",
+  "itemized_pages_B": "18",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 3,873.35' on p17, equal to BOTH the cover summary's 'This Report' and 'Totals:' cells for line 1 (3,873.35)",
+    "detail": "6 printed Form A rows: 803.35 + 300.00 + 500.00 + 250.00 + 20.00 + 2,000.00 = 3,873.35, to the cent. The 2024 cover is the 3-LINE variant (a single 'Total contributions from all donors' cell, no separate <=$50 aggregate line), so the anchor is contrib_all and there is no line-1/line-2 residual. The 'Last Report' column is BLANK on this filing (it is the first report of the cycle, the '7 days before convention' box, covering transactions from January 1, 2024), so This Report == Totals and 'exact' is the right verdict."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 2,853.35' on p18, equal to BOTH the cover's 'This Report' and 'Totals:' cells for line 2 (2,853.35)",
+    "detail": "5 printed Form B rows: 19.59 + 783.76 + 25.00 + 2,000.00 + 25.00 = 2,853.35, to the cent. The cover's balance closes the same way: 3,873.35 - 2,853.35 = 1,020.00, the printed line-3 figure."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "700 dpi crops of the first and last transcribed band on each schedule (p17 rows 1 and 6 reproduce 803.35 and 2,000.00; p18 rows 1 and 5 reproduce 19.59 and 25.00), proving the measured row grid and the row indexing on both sheets. No value was in doubt - both sides closed exactly on the first full-page read.",
+  "frames": {
+   "17": {
+    "axis": "y",
+    "cell": [
+     81.68,
+     91.68
+    ],
+    "cells": [
+     [
+      6.12,
+      13.65
+     ],
+     [
+      13.65,
+      42.08
+     ],
+     [
+      42.08,
+      81.68
+     ],
+     [
+      81.68,
+      91.68
+     ]
+    ],
+    "rows": [
+     [
+      32.43,
+      34.3
+     ],
+     [
+      34.3,
+      36.18
+     ],
+     [
+      36.18,
+      38.07
+     ],
+     [
+      38.07,
+      39.93
+     ],
+     [
+      39.93,
+      41.8
+     ],
+     [
+      41.8,
+      43.66
+     ],
+     [
+      43.66,
+      45.52
+     ],
+     [
+      45.52,
+      47.36
+     ],
+     [
+      47.36,
+      49.25
+     ],
+     [
+      49.25,
+      51.11
+     ],
+     [
+      51.11,
+      53.0
+     ],
+     [
+      53.0,
+      54.8
+     ],
+     [
+      54.8,
+      56.59
+     ],
+     [
+      56.59,
+      58.36
+     ],
+     [
+      58.36,
+      60.16
+     ],
+     [
+      60.16,
+      61.98
+     ],
+     [
+      61.98,
+      63.8
+     ],
+     [
+      63.8,
+      65.61
+     ],
+     [
+      65.61,
+      67.43
+     ],
+     [
+      67.43,
+      69.23
+     ],
+     [
+      69.23,
+      71.02
+     ],
+     [
+      71.02,
+      72.82
+     ],
+     [
+      72.82,
+      74.61
+     ]
+    ],
+    "measure_note": "A PORTRAIT typed sheet (not one of Weber's rotated landscape schedules), so rows advance top-to-bottom and axis='y'. Horizontal rules came out clean at the default detection; the COLUMN rules needed the vertical-coverage threshold relaxed to 0.40 over the table's own y-extent (the default 0.60 returns none on this page) and give 6.12/13.65/42.08/81.68/91.68 = table left edge | Date | Name of Contributor | Address | Amount; cell is the Amount band. Three detected bands are NOT data rows and are excluded so that row index == printed data-row index: [27.39,28.77] is the gap under the sheet's own title rule, [28.77,30.61] is the column-header row and [30.61,32.43] is the printed grey banner. Rows 1-6 are the filled entries; bands 7-23 are the sheet's trailing BLANK rows, measured and kept for provenance. PROVED with 700 dpi crops of bands 1 and 6, reproducing 803.35 and 2,000.00."
+   },
+   "18": {
+    "axis": "y",
+    "cell": [
+     82.65,
+     92.65
+    ],
+    "cells": [
+     [
+      4.76,
+      12.47
+     ],
+     [
+      12.47,
+      54.91
+     ],
+     [
+      54.91,
+      65.06
+     ],
+     [
+      65.06,
+      82.65
+     ],
+     [
+      82.65,
+      92.65
+     ]
+    ],
+    "rows": [
+     [
+      37.05,
+      38.89
+     ],
+     [
+      38.89,
+      40.66
+     ],
+     [
+      40.66,
+      42.45
+     ],
+     [
+      42.45,
+      44.27
+     ],
+     [
+      44.27,
+      46.07
+     ],
+     [
+      46.07,
+      47.89
+     ],
+     [
+      47.89,
+      49.7
+     ],
+     [
+      49.7,
+      51.52
+     ],
+     [
+      51.52,
+      53.34
+     ],
+     [
+      53.34,
+      55.14
+     ],
+     [
+      55.14,
+      56.93
+     ],
+     [
+      56.93,
+      58.73
+     ],
+     [
+      58.73,
+      60.55
+     ],
+     [
+      60.55,
+      62.36
+     ],
+     [
+      62.36,
+      64.18
+     ],
+     [
+      64.18,
+      66.0
+     ],
+     [
+      66.0,
+      67.8
+     ],
+     [
+      67.8,
+      69.61
+     ],
+     [
+      69.61,
+      71.39
+     ],
+     [
+      71.39,
+      73.16
+     ],
+     [
+      73.16,
+      74.98
+     ]
+    ],
+    "measure_note": "PORTRAIT typed sheet, axis='y'. Column rules at the relaxed 0.40 vertical coverage: 4.76/12.47/54.91/65.06/82.65/92.65 = table left edge | Date of Expenditure | Person or Organization | City | Purpose of Expenditure | Amount; cell is the Amount band. NOTE the header strip is NOT the same width as Form A's on the same filing: Form B's 'Date of Expenditure' label wraps onto THREE lines, so its header band [29.93,35.20] is about 2.9 row-pitches while Form A's is one, and the grey banner then runs [35.20,37.05]. Data therefore starts at 37.05 on this sheet and at 32.43 on p17. Two short detected rules inside the header (32.43, 32.86) are text-line artefacts and were discarded against the constant 1.82-pct pitch. Rows 1-5 are the filled entries, bands 6-21 the trailing BLANK rows. PROVED with 700 dpi crops of bands 1 and 5, reproducing 19.59 and 25.00."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/9/2024",
+    "donor_raw": "For Ogden",
+    "donor_city": "Ogden",
+    "donor_state": "Utah",
+    "amount": "803.35",
+    "page": 17,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "A committee/PAC contributor ('For Ogden'), as written."
+   },
+   {
+    "line_no": "2",
+    "date": "2/1/2024",
+    "donor_raw": "Kerry Wayne",
+    "donor_city": "Marriott-Slaterville City",
+    "amount": "300.00",
+    "page": 17,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The address cell prints city + ZIP with NO state - donor_state honestly blank, left empty by the FILER."
+   },
+   {
+    "line_no": "3",
+    "date": "2/9/2024",
+    "donor_raw": "Monica Hall",
+    "donor_city": "Ogden",
+    "donor_state": "Utah",
+    "amount": "500.00",
+    "page": 17,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "3/23/2024",
+    "donor_raw": "Jeremy Thompson",
+    "donor_city": "Roy",
+    "donor_state": "Utah",
+    "amount": "250.00",
+    "page": 17,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Printed OUT OF DATE ORDER, above the 3/15/2024 line - the filer's own sequence, retained."
+   },
+   {
+    "line_no": "5",
+    "date": "3/15/2024",
+    "donor_raw": "Deana Froerer",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 17,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Same person the campaign pays 2,000.00 as MANAGER on Form B (3/22/2024) - both entries are the filer's and are recorded as printed, with no inference drawn."
+   },
+   {
+    "line_no": "6",
+    "date": "3/22/2024",
+    "donor_raw": "Pennsylvania, LLC",
+    "donor_city": "Ogden",
+    "donor_state": "Utah",
+    "amount": "2000.00",
+    "page": 17,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/9/2024",
+    "vendor_raw": "WEBER CO SERVICE FEE",
+    "purpose": "FILING FEE SERVICE FEE",
+    "amount": "19.59",
+    "page": 18,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: OGDEN."
+   },
+   {
+    "line_no": "2",
+    "date": "1/9/2024",
+    "vendor_raw": "WEBER CO ELECTIONS FEE",
+    "purpose": "FILING FEE",
+    "amount": "783.76",
+    "page": 18,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: OGDEN."
+   },
+   {
+    "line_no": "3",
+    "date": "2/3/2024",
+    "vendor_raw": "CALLHUB ONLINE SERVICE",
+    "purpose": "SOFTWARD/APP",
+    "amount": "25.00",
+    "page": 18,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: ONLINE. 'SOFTWARD/APP' is the filer's own spelling - verbatim."
+   },
+   {
+    "line_no": "4",
+    "date": "3/22/2024",
+    "vendor_raw": "DEANA FROERER",
+    "purpose": "MANAGER",
+    "amount": "2000.00",
+    "page": 18,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: OGDEN. Same person who appears as a 20.00 donor on Form A (3/15/2024)."
+   },
+   {
+    "line_no": "5",
+    "date": "3/28/2024",
+    "vendor_raw": "CALLHUB ONLINCE SERVICE",
+    "purpose": "SOFTWARD/APP",
+    "amount": "25.00",
+    "page": 18,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: ONLINE. 'ONLINCE' and 'SOFTWARD/APP' are the filer's own spellings - verbatim; the 2/3 line spells the same vendor 'CALLHUB ONLINE SERVICE'."
+   }
+  ],
+  "notes": "Four-page filing: p15 cover, p16 the summary block (the 2024 form runs the Last/This/Totals table onto the SECOND page), p17 Form A, p18 Form B. Both schedules are PORTRAIT typed sheets - Van Wagoner filled the county's fillable form rather than handwriting it - so the rows read top-to-bottom, unlike the rotated landscape schedules used elsewhere in this corpus. Donor STREET addresses printed on Form A are deliberately NOT carried (PRIVACY.md: donor_city / donor_state only). donor_state is recorded EXACTLY as the filer printed it, which on this sheet is 'Utah' spelled out on four rows and 'UT' on one; the Kerry Wayne row prints no state at all and is honestly blank - left empty by the filer, not redacted. The COUNTY's own redactions on this filing are on the COVER (p15: the candidate's street address and cell number are blacked out) and touch no schedule row. Report type box checked: '7 days before convention'."
+ }
+]

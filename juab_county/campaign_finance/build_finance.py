@@ -3,14 +3,19 @@
 
 DERIVED layer. Regenerate with:  python3 juab_county/campaign_finance/build_finance.py
 
-Emits, from the two curated inputs:
+Emits, from the curated inputs:
   vision/_download_log.json  (folder, filename, source_url, status, sha256, bytes)
-  vision/transcripts.json    (hand-verified vision transcription of every county-office filing)
+  vision/transcripts.json    (hand-verified vision transcription of every county-office filing —
+                              the COVER / stated-totals layer)
+  vision/<sha256>.json       ITEMIZED caches, one per source PDF, written by
+                              make_itemized_caches.py (tranche 3 phase B, 2026-08-14) — the
+                              Form A / Form B donor and vendor lines, each row carrying
+                              `pct:` geometry (SCHEMA.md §2a)
 
   index.csv           one row per ACQUIRED file (all 82), with source URL + fetch timestamp + sha256
   filing_totals.csv   one row per COUNTY-OFFICE filing (schema: scripts/campaign_finance/SCHEMA.md §4)
-  contributions.csv   one row per itemized contribution line (§2)
-  expenditures.csv    one row per itemized expenditure line (§3)
+  contributions.csv   one row per itemized contribution line (§2, + trailing `geometry`)
+  expenditures.csv    one row per itemized expenditure line (§3, + trailing `geometry`)
 
 Why a module-local builder and not the shared engine: `scripts/campaign_finance/` dispatches on
 form FAMILY (provo_form / lehi_formab / easyvote_schedab). Juab's filings are the handwritten
@@ -18,23 +23,29 @@ form FAMILY (provo_form / lehi_formab / easyvote_schedab). Juab's filings are th
 carry, and adding one would mean editing shared code. The COLUMN CONTRACT of SCHEMA.md is honored
 exactly so these CSVs drop into the shared model unchanged if the family is ever registered.
 """
-import csv, hashlib, json, os, datetime, decimal
+import csv, glob, hashlib, json, os, sys, datetime, decimal
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 D = lambda *p: os.path.join(HERE, *p)
 ENTITY = "juab_county"
 
+sys.path.insert(0, os.path.abspath(os.path.join(HERE, "..", "..", "scripts", "campaign_finance")))
+from common import split_city_state              # shared, read-only: SCHEMA.md §2b
+from normalize_donors import classify_donor_type, tier1  # shared, read-only: SCHEMA.md §5
+
 
 def _donor_city_state(address):
-    """PRIVACY.md: derive donor city/state from a transcribed address WITHOUT carrying
-    the street/PO-box portion into the structured layer. Only a city the filer actually
-    wrote is emitted ('' otherwise — blank is honest, never inferred)."""
+    """PRIVACY.md: derive donor city/state from a transcribed address WITHOUT carrying the
+    street/PO-box portion into the structured layer. Delegates to the repo's single
+    privacy-safe address reader (`common.split_city_state`, SCHEMA.md §2b), after folding a
+    spelled-out "Utah" to "UT" — several Juab filers write the state in full, which the
+    shared reader would otherwise keep as part of the city. A city the filer did not write
+    stays blank, and a state the filer did not write stays blank (never inferred from the
+    county)."""
     import re
-    m = re.search(r",?\s*([A-Za-z .]+?)[,\s]+(Utah|UT)\.?\s*(\d{5})?\s*$",
-                  (address or "").strip())
-    if m:
-        return {"donor_city": m.group(1).strip().title(), "donor_state": "UT"}
-    return {"donor_city": "", "donor_state": ""}
+    s = re.sub(r"\bUtah\b\.?", "UT", (address or "").strip(), flags=re.I)
+    city, state = split_city_state(s)
+    return {"donor_city": city, "donor_state": state}
 
 
 def money(s):
@@ -50,6 +61,25 @@ def load():
     dl = json.load(open(D("vision", "_download_log.json")))
     tr = json.load(open(D("vision", "transcripts.json")))
     return dl, tr
+
+
+def load_itemized():
+    """ITEMIZED caches, keyed (source path, candidate).
+
+    One cache file per SOURCE PDF, named for its sha256, written only by
+    make_itemized_caches.py. `applies_to` names every filing the document carries, so a
+    multi-filing bundle resolves to several keys off one cache (the 2020 bundles' shape).
+    Absence of a cache means the filing was NEVER ATTEMPTED — never "no donors".
+    """
+    out = {}
+    for p in sorted(glob.glob(D("vision", "*.json"))):
+        base = os.path.basename(p)
+        if base in ("transcripts.json", "_download_log.json"):
+            continue
+        c = json.load(open(p))
+        for a in c.get("applies_to", []):
+            out[(a["path"], a["candidate"])] = c
+    return out
 
 
 def build_index(dl, tr):
@@ -109,11 +139,20 @@ def build_index(dl, tr):
     return rows
 
 
-def build_finance(tr):
+def build_finance(tr, items=None):
+    items = items or {}
     cont, exp, tot = [], [], []
     for f in tr["filings"]:
         if f["tier"] != "county_office":
             continue
+        cache = items.get((f["path"], f["candidate"]))
+        cmeta = (cache or {}).get("_meta", {}).get("itemized", {})
+        # rows: the itemized cache wins where one exists; the 2020 layer stays inline in
+        # transcripts.json and is untouched.
+        if cache is not None:
+            f = dict(f, contributions=cache.get("contributions", []),
+                     expenditures=cache.get("expenditures", []),
+                     itemized_transcribed=True)
         doc_id = "%s|%s|%s" % (f["path"], f.get("bundle_pages", ""), f["candidate"])
         # source_filing must resolve to an index.csv path (validate_finance contract,
         # conformance fix 2026-08-01); the bundle page range stays in document_id.
@@ -131,6 +170,7 @@ def build_finance(tr):
         n_c = n_e = 0
         sum_c = decimal.Decimal(0)
         sum_e = decimal.Decimal(0)
+        self_funded = decimal.Decimal(0)
         any_blank_c = any_blank_e = False
 
         for i, c in enumerate(f.get("contributions", []), 1):
@@ -141,22 +181,30 @@ def build_finance(tr):
                 sum_c += amt
             n_c += 1
             rowconf = c.get("confidence", conf)
+            in_kind = bool(c.get("in_kind"))
+            dtype = (classify_donor_type(c.get("donor", ""), f["candidate"])
+                     if c.get("donor") else "unknown")
+            if dtype in ("candidate-self", "loan") and amt is not None:
+                self_funded += amt
             cont.append({
                 "candidate": f["candidate"], "office": f["office_std"], "seat": f["office_district"],
                 "election_year": f["election_year"], "filing_date": f["filing_date"],
                 "reporting_period": "", "date": c.get("date", ""),
-                "donor_raw": c.get("donor", ""), "donor_normalized": c.get("donor", ""),
+                "donor_raw": c.get("donor", ""), "donor_normalized": tier1(c.get("donor", "")),
                 # PRIVACY.md: structured rows carry donor city/state ONLY (coordinator
                 # fix 2026-08-01) — the verbatim address stays in the raw scans and
                 # vision/transcripts.json, never in this derived CSV.
-                "donor_type": "individual" if c.get("donor") else "unknown",
+                "donor_type": dtype,
                 **_donor_city_state(c.get("address", "")),
                 "donor_district": "",
-                "amount": c.get("amount", ""), "in_kind": "False", "is_incremental": "False",
+                "amount": c.get("amount", ""), "in_kind": str(in_kind),
+                "is_incremental": "False",
                 "source_filing": src, "document_id": doc_id, "line_no": i,
                 "extraction_confidence": rowconf,
                 "extract_method": "carr_5_5_pg/vision",
-                "needs_review": "1" if (rowconf != "high" or not c.get("amount")) else "0",
+                "needs_review": "1" if (rowconf != "high" or not c.get("amount")
+                                        or c.get("needs_review")) else "0",
+                "geometry": c.get("geometry", ""),
             })
         for i, e in enumerate(f.get("expenditures", []), 1):
             amt = money(e.get("amount"))
@@ -170,30 +218,70 @@ def build_finance(tr):
                 "candidate": f["candidate"], "office": f["office_std"], "seat": f["office_district"],
                 "election_year": f["election_year"], "filing_date": f["filing_date"],
                 "reporting_period": "", "date": e.get("date", ""),
-                "vendor_raw": e.get("payee", ""), "vendor_normalized": e.get("payee", ""),
+                "vendor_raw": e.get("payee", ""), "vendor_normalized": tier1(e.get("payee", "")),
                 "purpose": e.get("purpose", ""), "amount": e.get("amount", ""),
-                "in_kind": "False", "is_incremental": "False",
+                "in_kind": str(bool(e.get("in_kind"))), "is_incremental": "False",
                 "source_filing": src, "document_id": doc_id, "line_no": i,
                 "extraction_confidence": rowconf,
                 "extract_method": "carr_5_5_pg/vision",
-                "needs_review": "1" if (rowconf != "high" or not e.get("amount")) else "0",
+                "needs_review": "1" if (rowconf != "high" or not e.get("amount")
+                                        or e.get("needs_review")) else "0",
+                "geometry": e.get("geometry", ""),
             })
 
-        def recon(stated, isum, n, blank, transcribed):
-            # blank = honest unknown, never a fabricated mismatch (SCHEMA.md §"Totals-only filings")
-            if not transcribed or n == 0 or blank or stated is None:
+        sides = cmeta.get("sides", {})
+
+        def recon(stated, isum, side, blank, transcribed, n):
+            """Reconcile the CSV's own stated column against the itemized sum.
+
+            The CSV's `stated_total_contributions` is the form's lines 1 + 2 (donors over
+            $50 PLUS the aggregate of gifts of $50 or less). Form A itemizes only the
+            over-$50 donors unless the filer chose to list the small ones too, so a
+            `False` here can mean either a real disagreement or that basis difference —
+            the cache's `_meta.itemized.reconciliation` names which, and the row note
+            repeats it. Blank stays blank: an honest unknown, never a fabricated mismatch
+            (SCHEMA.md 'Totals-only filings').
+            """
+            if not transcribed or blank or stated is None:
+                return "", ""
+            if side in sides:
+                # cache-backed filing: only a side the transcriber actually READ can gate
+                if sides[side] != "transcribed":
+                    return "", ""
+            elif not n:
+                # legacy inline layer (the 2020 filings): no row set, no verdict
                 return "", ""
             return ("True" if abs(isum - stated) <= decimal.Decimal("0.01") else "False",
                     str(isum - stated))
 
         tflag = f["itemized_transcribed"]
-        rc, dc = recon(stated_contrib, sum_c, n_c, any_blank_c, tflag)
-        re_, de = recon(stated_expend, sum_e, n_e, any_blank_e, tflag)
+        rc, dc = recon(stated_contrib, sum_c, "contributions", any_blank_c, tflag, n_c)
+        re_, de = recon(stated_expend, sum_e, "expenditures", any_blank_e, tflag, n_e)
 
         notes = f["notes"]
         if not tflag:
             notes = ("itemized Form A/B pages NOT yet transcribed (see AVAILABILITY.md "
                      "'Itemized transcription queue'); stated totals only. " + notes).strip()
+        elif cmeta:
+            bits = []
+            for side, key in (("contributions", "contributions"), ("expenditures", "expenditures")):
+                r = cmeta.get("reconciliation", {}).get(key, {})
+                state = sides.get(side, "")
+                if state == "none":
+                    bits.append("%s: NO SCHEDULE PAGE in the document (%s)"
+                                % (side.upper(), r.get("reason", "")))
+                elif r.get("result") == "exact":
+                    bits.append("%s: itemized EXACT vs %s" % (side.upper(), r.get("basis", "the stated total")))
+                elif r.get("result") == "delta":
+                    bits.append("%s: itemized %s vs stated %s, delta %s — %s"
+                                % (side.upper(), r.get("itemized"), r.get("stated"),
+                                   r.get("delta"), r.get("cause", "")))
+                else:
+                    bits.append("%s: reconciliation UNKNOWN (%s)" % (side.upper(), r.get("reason", "")))
+            note_extra = cmeta.get("notes", "")
+            notes = " | ".join(x for x in (
+                "ITEMIZED %s." % cmeta.get("wave", ""),
+                " ".join(bits), note_extra, notes) if x).strip()
         # exact TOTALS_HEADER contract (validate_finance conformance fix 2026-08-01):
         # the module-local face fields (office_verbatim/party/residence_city/addressee/
         # itemized_transcribed) live in vision/transcripts.json + notes, not as extra
@@ -206,11 +294,12 @@ def build_finance(tr):
             "stated_total_expenditures": "" if stated_expend is None else str(stated_expend),
             "stated_beginning_balance": "",
             "stated_ending_balance": f["stated"].get("ending_balance_cum", ""),
-            "itemized_contrib_sum": str(sum_c) if (tflag and n_c) else "",
-            "itemized_expend_sum": str(sum_e) if (tflag and n_e) else "",
+            # a side the transcriber READ and found empty is a real 0, not a blank
+            "itemized_contrib_sum": (str(sum_c) if (tflag and (n_c or sides.get("contributions") == "transcribed")) else ""),
+            "itemized_expend_sum": (str(sum_e) if (tflag and (n_e or sides.get("expenditures") == "transcribed")) else ""),
             "reconciles_contrib": rc, "reconciles_expend": re_,
             "recon_delta_contrib": dc, "recon_delta_expend": de,
-            "self_funded_amount": "",
+            "self_funded_amount": str(self_funded) if self_funded else "",
             "n_contrib_rows": n_c, "n_expend_rows": n_e,
             "source_filing": src, "document_id": doc_id,
             "extraction_confidence": conf, "notes": notes,
@@ -219,17 +308,24 @@ def build_finance(tr):
 
     tot.sort(key=lambda r: (r["election_year"], r["office"], r["candidate"]))
     write(D("filing_totals.csv"), tot)
-    write(D("contributions.csv"), cont)
-    write(D("expenditures.csv"), exp)
+    write(D("contributions.csv"), cont, optional_last="geometry")
+    write(D("expenditures.csv"), exp, optional_last="geometry")
     return tot, cont, exp
 
 
-def write(path, rows):
+def write(path, rows, optional_last=None):
+    """SCHEMA.md §2a: a trailing OPTIONAL column is emitted only when at least one row
+    actually carries a value, so the historical header is preserved byte-for-byte when the
+    layer that fills it is absent."""
     if not rows:
         open(path, "w").write("")
         return
+    cols = list(rows[0].keys())
+    if optional_last and optional_last in cols and not any(r.get(optional_last) for r in rows):
+        cols.remove(optional_last)
+        rows = [{k: v for k, v in r.items() if k != optional_last} for r in rows]
     with open(path, "w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
+        w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
 
@@ -250,9 +346,11 @@ def verify(idx):
 
 if __name__ == "__main__":
     dl, tr = load()
+    items = load_itemized()
     idx = build_index(dl, tr)
-    tot, cont, exp = build_finance(tr)
+    tot, cont, exp = build_finance(tr, items)
     bad = verify(idx)
+    print("itemized caches   %3d loaded (vision/<sha256>.json)" % len({id(v) for v in items.values()}))
     print("index.csv         %3d rows (%d county-office filings, %d school-board files)" % (
         len(idx), sum(1 for r in idx if r["tier"] == "county_office"),
         sum(1 for r in idx if r["tier"] == "school_board")))

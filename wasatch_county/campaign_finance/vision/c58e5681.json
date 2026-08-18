@@ -1,78 +1,127 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_J-Tugaw.pdf",
-    "cache_key": "c58e5681",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joseph A. Tugaw",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_J-Tugaw.pdf",
+  "cache_key": "c58e5681",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "The filing is ONE page — the cover only. The 'Table A on page 2' schedule sheet was not filed with this report, so there is no contribution schedule in the document to transcribe. This is a missing schedule, NOT a transcribed zero (though the cover independently states $0.00).",
+    "expenditures": "Same — the filing is cover-only; no Table B page exists in the document. Cover states $0.00."
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "",
+     "result": "unknown",
+     "anchor": "published stated total",
+     "detail": "The filing is ONE page — the cover only. The 'Table A on page 2' schedule sheet was not filed with this report, so there is no contribution schedule in the document to transcribe. This is a missing schedule, NOT a transcribed zero (though the cover independently states $0.00)."
     },
-    "office_verbatim": {
-      "value": "County Council - Seat F",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Democrat",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber City",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "June 16, 2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "",
+     "result": "unknown",
+     "anchor": "published stated total",
+     "detail": "Same — the filing is cover-only; no Table B page exists in the document. Cover states $0.00."
     }
+   },
+   "page_subtotal_gates": "none — the document prints no Table A or Table B, therefore no TOTAL row to gate against.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Single-page, born-digital, typed cover. Joseph A. Tugaw, County Council - Seat F, Democrat, Heber City. Primary Report box checked; signed 'June 16, 2026' in blue ink. All three cover lines print $0.00 ($0.00 contributions / $0.00 expenditures / $0.00 balance), which is internally consistent. Because the filer submitted no page-2 tables, both sides are recorded as 'none' (schedule absent) rather than 'transcribed' with zero rows — the honest distinction required by the brief. The cover's own $0.00 figures already live in filing_totals.csv and are untouched here."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joseph A. Tugaw",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed."
+  "office_verbatim": {
+   "value": "County Council - Seat F",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Democrat",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber City",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "June 16, 2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed.",
+ "contributions": [],
+ "expenditures": []
 }

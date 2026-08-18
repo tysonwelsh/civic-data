@@ -52,6 +52,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "The filer's Pre-Election sheet (doc 8194) re-filed as the Final report; the typed date 10/12/18 stands and '12/2/18' is hand-added below it (highlighted on the published PDF). Last Report expenditure cell EMPTY, as on 8194."
+ "itemized_transcribed": true,
+ "notes": "The filer's Pre-Election sheet (doc 8194) re-filed as the Final report; the typed date 10/12/18 stands and '12/2/18' is hand-added below it (highlighted on the published PDF). Last Report expenditure cell EMPTY, as on 8194.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-03-12",
+   "donor_raw": "Michael Howard",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "587.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.68,23.97,82.41,2.02@p2",
+   "geometry_fit": "measured",
+   "note": "self-funding - the donor is the candidate. Row highlighted yellow. Verified at 900 dpi tight crop.",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-12",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Auditor Filing Fee",
+   "amount": "587.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.45,23.98,82.51,1.91@p3",
+   "geometry_fit": "measured",
+   "note": "Row highlighted yellow on the page.",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "587.08",
+    "itemized": "587.08",
+    "result": "exact",
+    "detail": "exact - one row of 587.08 equals the page's printed >$50 box AND the cover's 587.08. split50 sheet, but no structural residual: the <=$50 aggregate box is blank on the page and the cover carries $0.00 for it, so the >$50 itemization is the whole stated total."
+   },
+   "expenditures": {
+    "stated": "587.08",
+    "itemized": "587.08",
+    "result": "exact",
+    "detail": "exact - one row of 587.08 equals the page's printed 'Total amount of expenditures $587.08' and the cover"
+   }
+  },
+  "page_gates": "p2's split50 pair: 'Total amount from donors giving more than $50' = $587.08 (filled), 'Total amount from donors giving $50 or less' = EMPTY on the page; the single itemized row reproduces the >$50 box exactly. p3 prints 'Total amount of expenditures $587.08' and its single row reproduces it. Cover 587.08 / 587.08 / balance 0.00 agrees with both.",
+  "escalations": 1,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "RE-FILED UNCHANGED. This Post-Election report is the SAME SHEET as Michael Howard's Pre-Election filing 8194 re-submitted: identical single contribution row, identical single expense row, identical printed boxes and identical cover (587.08 / 587.08 / 0.00). Documented Summit re-file behaviour, not a duplication defect; the two were read and transcribed independently. Fully TYPED with a faithful scanner OCR layer; both pages were still read full-page at 200 dpi and the contribution row re-read on a 900 dpi tight crop as the geometry spot-check (reproduced '3/12/18 | Michael Howard | ... Park City UT | 84098 | $587.08'). No template specimen rows; both real rows are HIGHLIGHTED YELLOW. The whole campaign is one self-funding transaction closing to a zero balance. Privacy: only city/state kept from the Mailing Address column. The <=$50 box is BLANK on the page (not a written zero) - a blank, not a numeral, under the zero-glyph ruling."
+ }
 }

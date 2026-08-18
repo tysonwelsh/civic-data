@@ -47,6 +47,65 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "The filer's Pre-Election sheet (doc 8196) re-filed as the Post-Election report, re-dated 11/26/18; identical single filled cell ('$293 54/100'). Contributions and balance rows EMPTY."
+ "itemized_transcribed": true,
+ "notes": "The filer's Pre-Election sheet (doc 8196) re-filed as the Post-Election report, re-dated 11/26/18; identical single filled cell ('$293 54/100'). Contributions and balance rows EMPTY.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-07-25",
+   "vendor_raw": "filing fee",
+   "purpose": "",
+   "amount": "293.54",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,28.58,84.00,1.91@p3",
+   "geometry_fit": "declared",
+   "note": "handwritten. The filer wrote the PURPOSE ('filing fee') into the 'Person or Organization' column and left the 'Purpose of Expenditure' cell holding only a long hand-drawn horizontal dash - transcribed exactly as placed, with no column repair, and the dash left BLANK as a nil mark. The amount is written '293 54' in the cents-superscript style with no printed decimal point; the cover's stated $293.54 confirms it. Date written in full as 7/25/2018",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "",
+    "itemized": "0.00",
+    "result": "unknown",
+    "detail": "NO FIGURE EXISTS TO RECONCILE AGAINST, so no verdict is claimed and no mismatch is fabricated. The cover's contribution row is verified genuinely EMPTY, the contribution schedule prints no total box, and the schedule carries no transactions: its only printed line is the blank form's SPECIMEN row ('8/25/10 Jon and Jane Doe, PO Box 128, Coalville UT 84017, $435.00'), dropped. The filer's one affirmative mark is a hand-drawn SLASHED ZERO in the Amount column of the row below the specimen (p2 band 3), which under the zero-glyph ruling denotes 0. The side is therefore 'transcribed' with ZERO rows - the schedule exists and is blank of transactions - but nothing is promoted to a stated total."
+   },
+   "expenditures": {
+    "stated": "293.54",
+    "itemized": "293.54",
+    "result": "exact",
+    "detail": "exact - the single handwritten row (7/25/2018, filing fee, 293.54) reproduces the module's stated cover figure to the cent. The page's own total box was left EMPTY by the filer, so the cover is the only printed gate. The printed specimen row ($512.00) is dropped and the gate closing only without it is the proof."
+   }
+  },
+  "page_gates": "p2 'Campaign Finacial Report 2018 / ITEMIZED CONTRIBUTION REPORT' prints NO total box, and the COVER states no contribution figure, so there is NOTHING to gate this side on; the page holds only the blank form's printed SPECIMEN row plus a hand-drawn slashed zero. p3 ITEMIZED EXPENSE REPORT: the printed 'Total amount of expenditures' box is EMPTY, so the only gate is the cover's $293.54 - and the single handwritten row is $293.54, exact. Dropping the printed specimen is what makes the gate close (293.54 + 512.00 = 805.54 is stated nowhere).",
+  "escalations": 1,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 0,
+   "declared": 1,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "RE-FILE: Rhonda Francis's Post-Election report reproduces her Pre-Election filing 8196 UNCHANGED - the same two schedule sheets with the same untouched printed specimen rows, the same single handwritten filing-fee line, the same slashed zero, and the same empty expenditure total box; the cover likewise restates $293.54 with no contribution figure. Transcribed independently from its own pages; the identical content is the source's behaviour (Summit's 2018 re-filer pattern, also seen on the Glenn Wright pair 8191/8355), not a duplicate transcription. THE COVER STATES NO CONTRIBUTION TOTAL AT ALL, so the contribution side has no gate. FIELD-SHIFT SCREEN on p3: columns are assignable but the filer misused one - 'filing fee' (a purpose) is written in the 'Person or Organization' column while the 'Purpose of Expenditure' cell holds only a long hand-drawn horizontal dash; transcribed exactly where written, never moved, and the dash left BLANK as a nil mark. The amount is in the cents-superscript style '293 54' with no printed decimal point; the cover's 293.54 settles it (arithmetic over glyph). GEOMETRY: p3's ROW rules detect cleanly (35 bands) but only TWO vertical rules are found, which would clip the resolved box to the Date column alone and defeat crop verification; so this side uses a DECLARED frame (x 8.0, y0 24.75, pitch 1.913, w 84.0) validated against the measured bands - it predicts 24.75 / 26.66 / 28.58 / 30.49 against measured 24.75 / 26.62 / 28.57 / 30.48, a worst deviation of 0.04pp - and the rows are marked geometry_fit=declared, never presented as measured. The declared box for band 3 was rendered at 900 dpi and re-read: date and amount both reproduce (1 escalation)."
+ }
 }

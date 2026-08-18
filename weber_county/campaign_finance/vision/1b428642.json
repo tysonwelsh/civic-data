@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:43:43Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Jared Preisler",
  "office_stated": "Weber County Assessor",
  "report_type_stated": "7 days before the candidates' convention - Convention",
@@ -44,5 +44,138 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED summary. Address is NOT redacted on this copy (printed in full) - the county's 2026 redaction is applied inconsistently across filings."
+ "notes": "2026 form variant, TYPED summary. Address is NOT redacted on this copy (printed in full) - the county's 2026 redaction is applied inconsistently across filings.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/6/2026",
+   "donor_raw": "Jared & Lisa Preisler",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "480.84",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:84.91,15.03,10.68,3.29@p2",
+   "geometry_frame": "p2 axis=y cell=84.91-95.59 rowband=15.03-18.32 (1 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding; the same-day Form B rows (469.11 filing fee + 11.73 service fee = 480.84) show this contribution funded the filing fee exactly"
+  },
+  {
+   "line_no": "2",
+   "date": "2/1/2026",
+   "donor_raw": "Jared & Lisa Preisler",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "373.23",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:84.91,18.32,10.68,3.30@p2",
+   "geometry_frame": "p2 axis=y cell=84.91-95.59 rowband=18.32-21.62 (2 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding; matches the same-day Wix.com website fee on Form B"
+  },
+  {
+   "line_no": "3",
+   "date": "3/25/2026",
+   "donor_raw": "Jared & Lisa Preisler",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:84.91,21.62,10.68,3.29@p2",
+   "geometry_frame": "p2 axis=y cell=84.91-95.59 rowband=21.62-24.91 (3 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding; matches the same-day Lincoln Day Lunch payment on Form B"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/6/2026",
+   "vendor_raw": "Weber County Elections",
+   "purpose": "Filing Fee",
+   "amount": "469.11",
+   "confidence": "medium",
+   "geometry": "pct:74.09,27.85,8.59,2.56@p3",
+   "geometry_frame": "p3 axis=y cell=74.09-82.68 rowband=27.85-30.41 (1 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "1/6/2026",
+   "vendor_raw": "Weber County Elections",
+   "purpose": "Service Fee",
+   "amount": "11.73",
+   "confidence": "medium",
+   "geometry": "pct:74.09,30.41,8.59,2.53@p3",
+   "geometry_frame": "p3 axis=y cell=74.09-82.68 rowband=30.41-32.94 (2 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "2/1/2026",
+   "vendor_raw": "Wix.com",
+   "purpose": "Website Yearly Fee",
+   "amount": "373.23",
+   "confidence": "medium",
+   "geometry": "pct:74.09,32.94,8.59,2.59@p3",
+   "geometry_frame": "p3 axis=y cell=74.09-82.68 rowband=32.94-35.53 (3 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer prints the city unspaced as 'SanFrancisco' - verbatim"
+  },
+  {
+   "line_no": "4",
+   "date": "3/25/2026",
+   "vendor_raw": "Weber County Republican Party",
+   "purpose": "Lincoln Day Lunch",
+   "amount": "2000.00",
+   "confidence": "medium",
+   "geometry": "pct:74.09,35.53,8.59,2.59@p3",
+   "geometry_frame": "p3 axis=y cell=74.09-82.68 rowband=35.53-38.12 (4 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 2,854.07' on p2, equal to the cover's Cumulative Total cell ($2,854.07)",
+     "detail": "3 Form A rows (480.84 + 373.23 + 2,000.00) sum to 2,854.07 exactly = the schedule's printed total = the cover's This-Report AND Cumulative cells (Last Report 0.00, so the two coincide on this opening convention report). 2026 is the 3-line variant - one contributions cell, no separate <=$50 aggregate line. No in-kind rows are labelled, so both in-kind conventions give the same figure."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 2,854.07' on p3, equal to the cover's Cumulative Total cell ($2,854.07)",
+     "detail": "4 Form B rows (469.11 + 11.73 + 373.23 + 2,000.00) sum to 2,854.07 exactly = the schedule's printed total = the cover's This-Report AND Cumulative cells. The two sides are equal and the ending balance is 0.00 because this is a pure pass-through campaign: each self-funded contribution is drawn to cover a specific same-day payment."
+    }
+   },
+   "escalations": 6,
+   "escalation_note": "Six tight crops, all A3 indexing proofs: p2 row 1 rendered 480.84 and row 3 rendered 2,000.00 via make_snippet --value at 900 dpi. TOOL LIMITATION FOUND ON p3: that page is 612x792 pts with /Rotate 270, so poppler renders it LANDSCAPE while make_snippet.py sizes its crop from the UNROTATED pdfinfo page size - a pct box in the rendered frame resolves to the wrong place (my first two p3 proofs landed on the City/Purpose columns of row 4 instead of the Amount column of rows 1 and 4). The stored geometry follows the contract (pct of the page AS POPPLER RENDERS IT, rotation included), and the proof was therefore taken with a DIRECT pdftoppm crop in the rendered frame at 900 dpi (rendered page 9900x7650 px): -x 7335 -y 2130 -W 850 -H 196 rendered '$469.11' (row 1) and -x 7335 -y 2718 rendered '$2,000.00' (row 4), both the recorded amounts. scripts/campaign_finance/ is frozen for this wave so nothing was changed - reporting instead.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 4,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2026 form, TYPED throughout: p1 cover (signed 'April 2, 2026'), p2 Form A, p3 Form B - the county's own Form A/Form B grid, unlike the spreadsheet-printout schedules other 2026 filers used. This copy is NOT redacted (the candidate's street address prints in full on the cover), confirming the county's 2026 redaction is applied inconsistently across filings. PRIVACY: donor street addresses on Form A are not carried; city/state only. SOURCE ODDITY worth noting: all three Form A rows are the same self-funding couple at the same street, but the filer typed the house number as 3033, 3034 and 3035 on successive rows while the cover prints 3033 - an obvious typing slip in a field this record does not carry, so it changes nothing here. Every contribution matches a same-day expenditure and the ending balance is 0.00."
+  }
+ }
 }

@@ -1,0 +1,149 @@
+{
+ "sha256": "443816ebf19dd117347abed8cec75fd35149ac92269a6ac282d9fbbd59c37215",
+ "source_pdf": "raw/juab_2014_Nephi/Clintonpainter_Nephi_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Nephi/Clintonpainter_Nephi_Juab.pdf",
+   "candidate": "Clinton L Painter",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [
+  {
+   "date": "10/6",
+   "payee": "Choice Hardware",
+   "purpose": "T-Posts for Banners",
+   "amount": "68.96",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.45,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/1",
+   "payee": "Eureka City",
+   "purpose": "Ad in Newsletter",
+   "amount": "24.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.54,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "8/20",
+   "payee": "Juab High School",
+   "purpose": "Tail Gate Sponsorship",
+   "amount": "250.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:11.50,18.63,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/3",
+   "payee": "The Times News",
+   "purpose": "4 Newspaper Ads",
+   "amount": "222.75",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:11.50,20.72,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/1",
+   "payee": "Custom Signworks",
+   "purpose": "Signs, Shirts, Brochures",
+   "amount": "963.07",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:11.50,22.81,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "6/13",
+   "payee": "Custom Signworks",
+   "purpose": "Signs",
+   "amount": "63.75",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:11.50,24.91,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "9/22",
+   "payee": "Remember Your Memories",
+   "purpose": "Brochures",
+   "amount": "54.98",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:11.50,27.00,79.50,2.09@p3",
+   "in_kind": false
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "0",
+     "basis": "lines 1+2 both 0; Form A present and blank"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "1647.51",
+     "basis": "the TOTALS FOR THIS REPORT column of line 3 \u2014 NOT the cumulative. Form B itemizes this report's period only; the cumulative 2673.08 = 1025.57 (from last report) + 1647.51 (this report), and the page's own addition is internally consistent."
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2014_Nephi/Clintonpainter_Nephi_Juab.pdf|p2": 14.309,
+    "raw/juab_2014_Nephi/Clintonpainter_Nephi_Juab.pdf|p3": 14.445
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "PRIOR-REPORT GAP, honest and documented: $1,025.57 of this candidate's cumulative expenditures were itemized on an earlier 2014 report that the state folder does not hold (juab_2014_* carries one report per candidate). That money is stated, not itemized, and the missing detail is a posting gap upstream, not an extraction gap."
+  }
+ }
+}

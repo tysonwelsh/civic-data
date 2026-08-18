@@ -1,77 +1,165 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_J-Granger.pdf",
-    "cache_key": "ba79fda2",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joey D. Granger",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_J-Granger.pdf",
+  "cache_key": "ba79fda2",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Clerk/Auditor",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "Wasatch",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "3/31/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "853.57",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "-853.57",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "853.57",
+     "itemized": "853.57",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (853.57 = 853.57, published stated total)",
+     "published_stated": "853.57",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL row: blank (a 'Ø' sits in the first row's Amount cell instead) — no printed figure to gate, cover states 0; p2 Table B TOTAL: 853.57 = rows 853.57 — GATE PASSES. Cover identity 0 - 853.57 = -853.57 matches the printed balance '-853.57'.",
+   "escalations": 0,
+   "escalation_note": "none needed — Table B is legible handwriting and both amounts are gated by the printed TOTAL",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten 2-page filing. Table A is genuinely empty (a real zero, per the zero-glyph ruling: the 'Ø' in the first Amount cell denotes 0). Table B expenditure 703.57 could be misread as 103.57 at 200dpi; the printed TOTAL 853.57 minus the 150.00 second row closes on exactly 703.57, so arithmetic gates it (Rhodes rule). NO reporting-period box is checked on this cover, although a convention date 'April 7, 2026' is written in — consistent with the module's existing note that Granger-March marks none. Clerk received-stamp 'MAR 31 '26 PM 03:07 RCVD WC' on the cover."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joey D. Granger",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "No period box marked (the Convention Date line is filled). Clerk stamp MAR 31 '26."
+  "office_verbatim": {
+   "value": "Clerk/Auditor",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "Wasatch",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "3/31/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "853.57",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "-853.57",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "No period box marked (the Convention Date line is filled). Clerk stamp MAR 31 '26.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-02",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "703.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date written '1.2.2026' (dot-separated); leading digit 7/1 ambiguous by glyph but the printed TOTAL closes on exactly 703.57",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-02-26",
+   "vendor_raw": "Wasatch GOP",
+   "purpose": "Lincoln Day Sponsor",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date written '2.26.2026'; amount written '150.ᵒᵒ' (superscript cents)",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

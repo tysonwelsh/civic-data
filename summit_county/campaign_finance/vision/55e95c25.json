@@ -47,6 +47,118 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Very dark/mottled photocopy (index text_quality=low). The cover box is still readable: the Current contributions cell holds a struck-out figure that cannot be resolved (NULL, never guessed), Last and Cumulative read $500. The surname is written as a scrawl reading 'Frendelc'/'Franchek'; index candidate name is Michael J Franchek. Same sheet content as the filer's Post-Election copy (doc 20751), which is a clean photograph of the same form. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Very dark/mottled photocopy (index text_quality=low). The cover box is still readable: the Current contributions cell holds a struck-out figure that cannot be resolved (NULL, never guessed), Last and Cumulative read $500. The surname is written as a scrawl reading 'Frendelc'/'Franchek'; index candidate name is Michael J Franchek. Same sheet content as the filer's Post-Election copy (doc 20751), which is a clean photograph of the same form. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "",
+   "donor_raw": "Michael Franchek (self)",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=unreadable;name=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.50,24.58,80.50,1.81@p2",
+   "geometry_fit": "declared",
+   "note": "DATE NOT TRANSCRIBED: the cell is written over a struck-out first digit and escalated twice (1200 and 1400 dpi tight crops) without resolving; it reads approximately '?/24/1?' with the month digit struck through and the year not securely legible - and note the printed SPECIMEN row directly above uses the year 10 (8/25/10), so a '10'-looking year here cannot be trusted either. No year is ever filled in from the report date. Street address written with no city/state; not redacted. Amount $500 confirmed by the filer's own handwritten schedule total and by the cover's cumulative figure.",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-07-01",
+   "vendor_raw": "Filing fees",
+   "purpose": "Summit County",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,36.55,75.00,3.20@p3",
+   "geometry_fit": "declared",
+   "note": "FILER SWAPPED THE COLUMNS on this row: 'Filing fees' is written in the Person or Organization column and 'Summit County' in the Purpose of Expenditure column - transcribed by column position as printed, not silently corrected. Date escalated to 900 and 1400 dpi tight crops; reads 7/1/22 but the day field is cramped and carried at date=low.",
+   "page": 3,
+   "band": 1
+  },
+  {
+   "line_no": 2,
+   "date": "2022-07-10",
+   "vendor_raw": "Lindsay Harren",
+   "purpose": "Social Media Consulting",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;name=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,39.75,75.00,3.20@p3",
+   "geometry_fit": "declared",
+   "note": "surname escalated to 800 and 1200 dpi tight crops and stays ambiguous (reads 'Harren', could be 'Warren'); transcribed as written. This is the one row on the page whose two columns are in the intended order.",
+   "page": 3,
+   "band": 2
+  },
+  {
+   "line_no": 3,
+   "date": "2022-07-15",
+   "vendor_raw": "Travel/fuel",
+   "purpose": "Chevron",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,42.95,75.00,3.20@p3",
+   "geometry_fit": "declared",
+   "note": "FILER SWAPPED THE COLUMNS on this row: 'Travel/fuel' is in the Person or Organization column and 'Chevron' in the Purpose column - transcribed by column position as printed.",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "500",
+    "itemized": "500.00",
+    "result": "exact",
+    "detail": "exact - the one real donor row (Michael Franchek, self, 500.00) equals the filer's own handwritten 'Total $500' at the foot of the schedule AND the cover's CUMULATIVE contribution figure of $500. Note the cover's CURRENT-report contribution cell is a struck-out figure that the 2026-08-01/02 cover tranche recorded as ILLEGIBLE - that cell is NOT repaired here; the gate used is the cumulative column, which the ledger reproduces."
+   },
+   "expenditures": {
+    "stated": "503.02",
+    "itemized": "503.02",
+    "result": "exact",
+    "detail": "exact - 3 rows (303.02 filing fee + 150.00 social media consulting + 50.00 fuel) sum to 503.02 = the page's own boxed 'Total amount of expenditures' (handwritten), the loose $503.02 the filer also wrote in the Amount column lower down, and the cover. Cover balance 3.02 = 503.02 in fees paid from 500.00 raised is the filer's own arithmetic and is not touched here."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT carries the filer's OWN handwritten total near the foot of the grid - the word 'Total' written in the Mailing Address column with '$500' in the Amount column - and the single real donor row is $500, so the schedule closes on its own written total AND on the cover's cumulative $500. p3 ITEMIZED EXPENSE REPORT prints the boxed 'Total amount of expenditures' with a handwritten $503.02 in it, repeats $503.02 in the Amount column further down the grid, and the 3 real rows (303.02 + 150.00 + 50.00) reproduce it exactly; the cover states 503.02. BOTH pages still carry the blank form's SPECIMEN row ('8/25/10 Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00' and '8/25/10 Name of Business / Campaign signs and flyers / $512.00') and both totals close ONLY with the specimens dropped.",
+  "escalations": 9,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 0,
+   "declared": 4,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "HEAVY, FOGGED SCAN (index text_quality 'low'; the page is dark from edge to edge and the handwriting is large and over-inked) - the worst-legibility filing in this chunk, and the reason for 9 escalation crops. GEOMETRY IS DECLARED, NOT MEASURED, ON BOTH PAGES: rowbands finds NO rules at all in the upper half of either page (p2 returns 12 bands, all below y=63%; p3 returns 27 bands, all below y=48%), because the fog swallows the printed rules where the data actually is. The frames declared here are fitted to the page's OWN surviving rules and then verified by cropping every band that carries a row: p2 pitch 1.81 / y0 19.15 (fitgrid on p2 reports pitch 1.8483 explaining 13 of 15 detected rules; a direct dark-row probe of the 15-45% window gives a regular run at 26.15, 28.02, 29.74, 31.56, 33.46, 35.26, 37.06, 38.76, 40.60, 42.40, 44.26 - mean spacing 1.81 - which extrapolates up to a table-top rule at 19.1, matching the visible grid); p3 y0 36.55 with pitch 3.20, which is the WRITTEN-ROW pitch, not the printed-band pitch - on p3 each handwritten row occupies one tall band followed by a thin empty one, so band 1/2/3 of the declared frame are the three written rows and each declared box was crop-verified to contain its row. Both frames carry force_declared so no row can silently resolve against the junk bands detected lower down the page. A SOURCE PROPERTY WORTH RECORDING: on the p3 expense sheet the filer SWAPPED the 'Person or Organization' and 'Purpose of Expenditure' columns on two of three rows - line 1 has 'Filing fees' in the payee column and 'Summit County' in the purpose column, line 3 has 'Travel/fuel' as payee and 'Chevron' as purpose, while line 2 is in the intended order. The columns themselves are unambiguous (printed headers, printed rules), so this is the FILER's transposition, not a field shift in the read: the cells are transcribed by COLUMN POSITION exactly as printed and the swap is flagged per row rather than silently corrected. The candidate is indexed as 'Franchek' and the portal also renders him 'Frendelc'; the ledger's own handwriting reads Michael Franchek. NO CITY IS INFERRED: the p2 donor row's Mailing Address cell holds a street address with no city or state written after it (the sheet's separate Zip Code cell is filled), so donor_city/donor_state are honestly BLANK - and this filing is NOT redacted, the address simply was not completed with a city."
+ }
 }

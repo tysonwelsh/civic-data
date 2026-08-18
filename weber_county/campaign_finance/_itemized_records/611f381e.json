@@ -1,0 +1,58 @@
+[{
+  "index_path": "raw/wayback/wb20160824055040_Ebert_financials.pdf",
+  "page_start": 1, "page_end": 3,
+  "key": "611f381e",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+  "pages_read": [1, 2, 3],
+  "itemized_pages_A": "2", "itemized_pages_B": "3",
+  "sides": { "contributions": "transcribed", "expenditures": "transcribed" },
+  "recon": {
+    "contributions": { "result": "exact",
+      "anchor": "Form A's own printed 'Total Contributions: (to line 1. of report):' $6,230.00, equal to the cover's line-1 Totals For This Report 6,230.00 AND its Cumulative Totals 6,230.00 (the Totals From Last Report column is a bare dash = NIL)",
+      "detail": "6 Form A rows on p2: 130.00 + 1500.00 + 1000.00 + 2500.00 + 1000.00 + 100.00 = 6,230.00 = the schedule's printed total = the cover's line-1 This-Report cell = its Cumulative cell. Cover line 2 (the <=$50 aggregate) is a bare dash on all three columns, so there is no line-1/line-2 residual. No row is labelled in-kind; the monetary-only convention closes exactly, and since no row carries an in-kind tag the in-kind-inclusive convention yields the identical figure." },
+    "expenditures": { "result": "exact",
+      "anchor": "Form B's own printed 'Total Expenditures: (to line 3, of report):' $6,948.22, equal to the cover's line-3 Totals For This Report 6,948.22 AND its Cumulative Totals 6,948.22",
+      "detail": "18 Form B rows on p3 sum to 6,948.22 = the schedule's printed total = the cover's line-3 This-Report cell = its Cumulative cell. Cross-check: the cover's line-4 Ending Balance is printed in accounting parentheses as (718.22), and 6,230.00 - 6,948.22 = -718.22, so the filer's own three printed figures are internally consistent. NOTE the read that got there: on the 200 dpi full-page pass row 4 (4/6/2014 Wright Signs, Signs) read as 70.39 and the 18 rows then summed to 6,248.22 — exactly 700.00 short of the printed total. The arithmetic gate was treated as governing (GOTCHAS: arithmetic closure outranks glyph reading), the amount column was re-cropped at 700 dpi, and the cell reads $770.39: a leading 7 lost to the downsample, not a filer error. With 770.39 the 18 rows close exactly. No row is labelled in-kind; monetary-only is the convention that closed." }
+  },
+  "escalations": 1,
+  "escalation_note": "One escalation, driven by arithmetic rather than by doubt about legibility: a 700 dpi crop of the whole p3 Amount column (pct:25,85,60,14@p3) after the full-page read left the side 700.00 short. It resolved p3 row 4 as $770.39 (not $70.39) and simultaneously re-verified the other 17 figures in one image. All other crops taken were the mandatory geometry proofs.",
+  "frames": {
+    "2": { "axis": "x",
+           "cell": [84.31, 95.03],
+           "rows": [[80.62,83.73],[77.45,80.62],[74.31,77.45],[71.17,74.31],[67.97,71.17],[64.77,67.97]],
+           "measure_note": "Landscape sheet rendered portrait: ROW bands are rowbands.py's v_rules_pct and the AMOUNT column band comes from h_rules_pct. Rows advance from HIGH x to LOW x (row 1 is the highest band). v_rules pitch is a constant ~3.11 and no band had to be extrapolated. Trimmed the two non-data bands at the head of the table before index-aligning — the 'Amount'/'Date' HEADER band [86.85,89.90] and the shaded/hatched spacer band [83.73,86.85] (addendum 2026-08-18 §2.2); leaving either in would have pointed every row one or two rows early. cell = the AMOUNT column, the LAST column of the printed Form A table, bounded by the printed rules h=84.31 and the table's bottom border h=95.03. deskew_deg 0.2. PROOF (900 dpi --value): first row pct:80.62,84.31,3.11,10.72@p2 rendered '$130.00' (recorded 130.00); last row pct:64.77,84.31,3.20,10.72@p2 rendered '$100.00' (recorded 100.00). 'cells' is deliberately OMITTED: only the amount column's two bounding rules were crop-verified; the interior column boundaries were estimated, and an estimate is not written as a measurement." },
+    "3": { "axis": "x",
+           "cell": [87.06, 97.79],
+           "rows": [[78.98,82.03],[75.87,78.98],[72.78,75.87],[69.70,72.78],[66.59,69.70],[63.48,66.59],[60.39,63.48],[57.31,60.39],[54.26,57.31],[51.15,54.26],[48.09,51.15],[45.04,48.09],[41.93,45.04],[38.87,41.93],[35.76,38.87],[32.65,35.76],[29.54,32.65],[26.42,29.54]],
+           "measure_note": "Same rotated-landscape geometry as p2 (axis x, rows high-x to low-x), v_rules pitch a constant ~3.07 across all 18 data bands, no extrapolation needed. Header band [85.14,90.08] and hatched spacer band [82.03,85.14] trimmed before index-aligning. cell = the AMOUNT column (last column of Form B), bounded by printed rules h=87.06 and the table's bottom border h=97.79. deskew_deg 0.1. PROOF (900 dpi --value): first row pct:78.98,87.06,3.05,10.73@p3 rendered '$603.91' (recorded 603.91); last row pct:26.42,87.06,3.12,10.73@p3 rendered '1033.28' (recorded 1033.28). The 700 dpi column-wide crop independently confirmed the middle of the list: the 18 figures appear in exactly the stored row order, right-to-left, with $770.39 in band 4. 'cells' omitted for the same reason as p2." }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "4/5/14", "donor_raw": "Christie Moore", "donor_city": "North Ogden", "donor_state": "UT", "amount": "130.00", "page": 2, "row": 1, "confidence": "medium", "in_kind": false },
+    { "line_no": "2", "date": "4/14/14", "donor_raw": "Northern Wasatch Assoc of Realtors", "donor_city": "Ogden", "donor_state": "UT", "amount": "1500.00", "page": 2, "row": 2, "confidence": "medium", "in_kind": false },
+    { "line_no": "3", "date": "5/1/14", "donor_raw": "Randall Moulding", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 2, "row": 3, "confidence": "medium", "in_kind": false },
+    { "line_no": "4", "date": "5/27/14", "donor_raw": "Summit Group", "donor_city": "Eden", "donor_state": "UT", "amount": "2500.00", "page": 2, "row": 4, "confidence": "medium", "in_kind": false },
+    { "line_no": "5", "date": "9/10/14", "donor_raw": "Weber County Republican Party", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 2, "row": 5, "confidence": "medium", "in_kind": false },
+    { "line_no": "6", "date": "10/11/14", "donor_raw": "Dale Chugg", "donor_city": "Farr West", "donor_state": "UT", "amount": "100.00", "page": 2, "row": 6, "confidence": "medium", "in_kind": false }
+  ],
+  "expenditures": [
+    { "line_no": "1", "date": "3/14/2014", "vendor_raw": "Weber County", "vendor_city": "Ogden", "purpose": "Filing Fee", "amount": "603.91", "page": 3, "row": 1, "confidence": "medium" },
+    { "line_no": "2", "date": "3/14/2014", "vendor_raw": "Bell Printing", "vendor_city": "Ogden", "purpose": "Flyers/Cards", "amount": "809.40", "page": 3, "row": 2, "confidence": "medium" },
+    { "line_no": "3", "date": "3/15/2014", "vendor_raw": "Office Max", "vendor_city": "Ogden", "purpose": "Envelopes/Labels", "amount": "96.67", "page": 3, "row": 3, "confidence": "medium" },
+    { "line_no": "4", "date": "4/6/2014", "vendor_raw": "Wright Signs", "vendor_city": "Ogden", "purpose": "Signs", "amount": "770.39", "page": 3, "row": 4, "confidence": "medium", "note": "Read as 70.39 on the 200 dpi full-page pass, which left the side 700.00 short of the schedule's printed total; a 700 dpi crop of the Amount column resolves the leading digit and the cell reads $770.39. Arithmetic closure and the crop agree." },
+    { "line_no": "5", "date": "4/8/2014", "vendor_raw": "USPS", "vendor_city": "Ogden", "purpose": "Postage", "amount": "98.00", "page": 3, "row": 5, "confidence": "medium" },
+    { "line_no": "6", "date": "4/10/2014", "vendor_raw": "USPS", "vendor_city": "Ogden", "purpose": "Postage", "amount": "98.00", "page": 3, "row": 6, "confidence": "medium" },
+    { "line_no": "7", "date": "4/12/2014", "vendor_raw": "Weber County GOP", "vendor_city": "Ogden", "purpose": "Convention Table", "amount": "150.00", "page": 3, "row": 7, "confidence": "medium" },
+    { "line_no": "8", "date": "4/18/2014", "vendor_raw": "Bell Printing", "vendor_city": "Ogden", "purpose": "T-Shirts", "amount": "557.00", "page": 3, "row": 8, "confidence": "medium" },
+    { "line_no": "9", "date": "4/18/2014", "vendor_raw": "Bell Printing", "vendor_city": "Ogden", "purpose": "Stickers", "amount": "88.67", "page": 3, "row": 9, "confidence": "medium" },
+    { "line_no": "10", "date": "5/6/2014", "vendor_raw": "Lynda Pipkin", "vendor_city": "North Ogden", "purpose": "Website", "amount": "250.00", "page": 3, "row": 10, "confidence": "medium" },
+    { "line_no": "11", "date": "5/6/2014", "vendor_raw": "Natalie Slater", "vendor_city": "Farr West", "purpose": "Social Media/Contacts", "amount": "200.00", "page": 3, "row": 11, "confidence": "medium" },
+    { "line_no": "12", "date": "6/11/2014", "vendor_raw": "Wright Signs", "vendor_city": "Ogden", "purpose": "Signs", "amount": "1396.53", "page": 3, "row": 12, "confidence": "medium" },
+    { "line_no": "13", "date": "6/27/2014", "vendor_raw": "Lowes", "vendor_city": "Ogden", "purpose": "Zip Ties for signs", "amount": "13.53", "page": 3, "row": 13, "confidence": "medium" },
+    { "line_no": "14", "date": "6/27/2014", "vendor_raw": "WinCo", "vendor_city": "Ogden", "purpose": "Parade Candy", "amount": "52.05", "page": 3, "row": 14, "confidence": "medium" },
+    { "line_no": "15", "date": "6/27/2014", "vendor_raw": "WinCo", "vendor_city": "Ogden", "purpose": "Parade Candy", "amount": "80.79", "page": 3, "row": 15, "confidence": "medium" },
+    { "line_no": "16", "date": "7/29/2014", "vendor_raw": "Brad Dee", "vendor_city": "Washington Terrace", "purpose": "Donation", "amount": "250.00", "page": 3, "row": 16, "confidence": "medium" },
+    { "line_no": "17", "date": "7/30/2014", "vendor_raw": "Friends of the Fairgrounds", "vendor_city": "Ogden", "purpose": "Sign", "amount": "400.00", "page": 3, "row": 17, "confidence": "medium" },
+    { "line_no": "18", "date": "7/30/2014", "vendor_raw": "Weber County Fair", "vendor_city": "Ogden", "purpose": "Jr. Livestock Program", "amount": "1033.28", "page": 3, "row": 18, "confidence": "medium" }
+  ],
+  "notes": "INDEPENDENT RE-READ (2026-08-18 close-out leg). The 2026-08-14 record for this key was withdrawn for geometry defects; that quarantined record was NOT opened and no value was carried from it. Every figure was read fresh off the 200 dpi full-page renders and every band was re-measured and crop-proved. This read landed on the same two gate figures the audit named (contributions 6,230.00 on p2, expenditures 6,948.22 over 18 rows on p3), reached independently and only after the arithmetic forced the p3 row-4 escalation described in recon.expenditures.detail. FORM ORDER on this filing is the conventional one: p2 = Form A, p3 = Form B. Typed form; RECEIVED stamp OCT 24 2014; candidate signed 10/24/14 and the committee secretary 10/22/2014. The two schedules use DIFFERENT date shapes and both are kept verbatim: Form A writes M/D/YY (4/5/14), Form B writes M/D/YYYY (3/14/2014). Form B's last three amounts (250.00, 400.00, 1033.28) are printed WITHOUT the dollar sign the other fifteen carry — a filer typography difference, not a different unit. PRIVACY: Form A prints a full street address for every donor; only the city/state component is carried, per PRIVACY.md. Form B has a City column but no state column, so vendor_state is honestly BLANK — left empty BY THE FORM, not redacted by the county. Cover line 2 and the whole 'Totals From Last Report' column are bare dashes: NIL MARKS, left BLANK per the zero-glyph ruling, never 0. The cover's line-4 Ending Balance (718.22) is printed in accounting parentheses and is genuinely negative — the campaign closed this report 718.22 in deficit."
+}]

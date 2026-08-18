@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:08:05Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "John B. Bond",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "January 5, 2021 (final report)",
@@ -44,5 +44,50 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN 2020 3-line form, one page (p18) of the 2020 archive."
+ "notes": "HANDWRITTEN 2020 3-line form, one page (p18) of the 2020 archive.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    18
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "THE DOCUMENT HAS NO FORM A. This filing is ONE PAGE - p18 of the 37-page 2020 consolidated cycle archive - and that page is the COVER ONLY: the 2020 3-line 'CAMPAIGN FINANCIAL REPORT: 2020, Weber County & Local School Board Candidates, County Office and Local School Board' summary sheet, filled out in ink (Full Name 'John B. Bond', office 'Weber County Treasurer', committee secretary 'John B. Bond', candidate signature, date '10 Dec 20', and the 'January 5, 2021 (final report)' schedule box marked). Below the schedule box it prints the three-column summary and nothing else; there is no 'Form A: Itemized Report of Contributions' sheet anywhere in this filing. The page-range boundary was verified at the source rather than assumed: p17 is the tail of the PRECEDING filer's Form A (a contributions sheet whose rows include '(Personal JHH loan to campaign)' entries and which closes on its own printed 'Total Contributions: (to line 1 of report) 28,610.05'), and p19 is the NEXT filer's cover ('Full Name: John E. Ulibarri', office 'Assessor', signed December 10, 2020, totals 636.46). Bond's document therefore begins and ends on p18. pdfinfo reports 37 pages for the archive, consistent with it holding many single filings end to end. This is NON-EXISTENCE of the page, not a blank page the filer left empty and not a page we failed to read.",
+    "expenditures": "THE DOCUMENT HAS NO FORM B, for exactly the same reason and on the same evidence: the filing is the single cover page p18, bounded by another filer's Form A on p17 and John E. Ulibarri's cover on p19. No 'Form B: Itemized Report of Expenditures' sheet exists in this filing."
+   },
+   "recon": {
+    "contributions": {
+     "result": "no-schedule-page",
+     "anchor": "the cover's own printed line 1, 'Total contributions from all donors': Totals from Last Report 2,586.18 + Totals for This Report 0.00 = Cumulative Totals 2,586.18",
+     "detail": "No itemization is owed by this document and none is claimed. The cover states 0.00 raised in THIS reporting period against a 2,586.18 cumulative carried forward from the previous report, and a 0.00 ending balance on all three columns - i.e. this is the January 5, 2021 FINAL report of a closed-out account with no period activity. A period-scoped schedule for a 0.00 period would legitimately have been blank, but that is not what happened here: no such sheet was filed at all, so the side is no-schedule-page and NOT empty-schedule. The 2,586.18 cumulative belongs to earlier reports of this cycle and is not itemizable from this document; it was NOT reconstructed by differencing covers."
+    },
+    "expenditures": {
+     "result": "no-schedule-page",
+     "anchor": "the cover's own printed line 2, 'Total Campaign Expenditures': Totals from Last Report 2,586.18 + Totals for This Report 0.00 = Cumulative Totals 2,586.18",
+     "detail": "Same finding as the contributions side: 0.00 spent in this period against a 2,586.18 cumulative carried forward, ending balance 0.00, and no Form B sheet in the document to itemize either figure. No rows, no sum claimed."
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "No cell was in doubt: the only page is the cover, its handwritten summary figures agree with the stated-totals cache already published for this key, and the page-range boundary question was settled by rendering the neighbouring pages 17 and 19 rather than by cropping a cell.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Single-page handwritten filing (John B. Bond, Weber County Treasurer, 2020, final report signed '10 Dec 20'). The question this filing poses - empty-schedule or no-schedule-page - is answered NO-SCHEDULE-PAGE on the evidence of the document itself plus its neighbours in the combined archive (p17 = the previous filer's Form A, p19 = John E. Ulibarri's cover). The handwritten zeros on the cover are written digits ('0 - 00' with a decimal dash between dollars and cents, in the filer's hand), not the bare-dash nil mark that weber's dash-balance rule keeps blank - but no cover figure is re-recorded here in any case; the stated-totals tranche of 2026-08-01 owns those cells and this record does not touch them. No frames block is written because no row exists to point at."
+  }
+ }
 }

@@ -52,6 +52,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover, all three columns printed; candidate name highlighted on the published PDF. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. Only '12/8' is written (the filer omitted the year), so it is kept verbatim and the derived filing_date stays BLANK — never completed from the cycle year."
+ "itemized_transcribed": true,
+ "notes": "Typed cover, all three columns printed; candidate name highlighted on the published PDF. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. Only '12/8' is written (the filer omitted the year), so it is kept verbatim and the derived filing_date stays BLANK — never completed from the cycle year.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "330.00",
+    "itemized": "",
+    "result": "none",
+    "detail": "no contribution schedule page exists in this document - nothing to reconcile, and never a zero. The cover's own $270.00 (>$50) + $60.00 (<=$50) = the module's stated 330.00; the donors behind it are itemized only on this candidate's Pre-Election filing 8192, whose single $270.00 in-kind row reproduces the >$50 box."
+   },
+   "expenditures": {
+    "stated": "1068.53",
+    "itemized": "",
+    "result": "none",
+    "detail": "no expense schedule page exists in this document - nothing to reconcile. The cover states Current $1,031.13 + Last $37.40 = Cumulative $1,068.53; only the $1,031.13 half is itemized anywhere in the corpus (14 rows on sibling 8192 p3, which close on it exactly). The $37.40 increment this Post-Election report adds is itemized NOWHERE."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered and read once to CLASSIFY it, not for money, and it is the 2018 typed cover form and nothing else (candidate block, the four-row Current/Last/Cumulative money grid, the oath, the hand-signed 'J M' initials and the hand-written date). No ITEMIZED CONTRIBUTION REPORT sheet and no ITEMIZED EXPENSE REPORT sheet exist in this PDF, so BOTH sides are 'none' - NON-EXISTENCE OF THE SCHEDULE, never a zero.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Josh Mann, Summit County Council Seat E, 2018 Post-Election. A COVER-ONLY filing: one page, no schedules attached. COVER-SIDE PROPERTIES, already published by the cover tranche and NOT re-derived here - the candidate-name line and the signature date are struck through with an orange highlighter/marker by the county, and the date line reads '12/8' with NO YEAR (the brief flags both; no ledger exists on this filing for the same dating habit to reappear in). One source property worth naming: the column LABELS look inverted against the pair's chronology - the Post-Election cover repeats the Pre-Election filing's $1,031.13 in the 'Current Report' column and puts the new $37.40 of post-election activity in 'Last Report', with 'Cumulative Totals' $1,068.53 correctly the sum of the two. The cover is transcribed as printed either way; only the reading of which period the $37.40 belongs to is affected, and no itemized rows depend on it."
+ }
 }

@@ -52,6 +52,116 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Campaign balance: the Current and Cumulative cells are written then struck through/scribbled over by the filer — value not readable, left null (Last Report cell reads 0). Contribution cells are a handwritten '0' (no dollar sign, no cents)."
+ "itemized_transcribed": true,
+ "notes": "Campaign balance: the Current and Cumulative cells are written then struck through/scribbled over by the filer — value not readable, left null (Last Report cell reads 0). Contribution cells are a handwritten '0' (no dollar sign, no cents).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-03-11",
+   "vendor_raw": "Acme Threadware",
+   "purpose": "Banners + pencils",
+   "amount": "324.37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.23,25.50,83.31,2.07@p3",
+   "geometry_fit": "measured",
+   "note": "vendor name is handwritten and runs to the cell edge; read 'Acme Threadware' (the trailing letters are cramped). Amount escalated to 1200 dpi: 324.37",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2014-03-13",
+   "vendor_raw": "PC Printink",
+   "purpose": "Brochures",
+   "amount": "70.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.23,27.46,83.31,2.07@p3",
+   "geometry_fit": "measured",
+   "note": "amount escalated to 1200 dpi",
+   "page": 3,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2014-03-20",
+   "vendor_raw": "SHEDZ",
+   "purpose": "Software Set up",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.23,29.42,83.31,2.00@p3",
+   "geometry_fit": "measured",
+   "note": "written '200 -' - the trailing dash is the filers' shorthand for '.00', not a nil mark; escalated to 1200 dpi",
+   "page": 3,
+   "band": 6
+  },
+  {
+   "line_no": 4,
+   "date": "2014-03-14",
+   "vendor_raw": "Clerk office",
+   "purpose": "Sign up",
+   "amount": "781.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.23,31.31,83.31,2.05@p3",
+   "geometry_fit": "measured",
+   "note": "the Summit County filing fee; printed OUT OF DATE ORDER after the 3-20 row. Escalated to 1200 dpi",
+   "page": 3,
+   "band": 7
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0",
+    "itemized": "0.00",
+    "result": "exact",
+    "detail": "exact - a genuine zero. Both boxed totals hold a handwritten written zero (an oval '0', a glyph that DENOTES the digit, not a dash) and the ledger holds no transaction row"
+   },
+   "expenditures": {
+    "stated": "1178.28",
+    "itemized": "1376.28",
+    "result": "delta",
+    "detail": "delta +198.00, and it is THE FILER'S ARITHMETIC, not a misread. Arithmetic alone could not settle it: two different single-digit re-readings each close the page exactly (126.37 for the Acme row, or 2.00 for the SHEDZ row - the two differ by exactly the same 198.00), which is precisely the correlated-error trap the calibration suite screens for. So each cell was escalated to a TIGHT 1200 dpi CROP and read: 324.37 (a clear leading 3), 70.88, '200 -' (the filers' written-dash shorthand for .00), 781.03, and the total box a clear 1178.28. The four cells are certain; the filer's own sum is 198.00 short of his rows and his cover repeats his sum. Both figures retained verbatim."
+   }
+  },
+  "page_gates": "p2 (contributions) prints a handwritten written ZERO in BOTH boxed totals ('>$50' and '<=$50') and carries NO handwritten ledger row at all - only the form's printed grey specimen row (Jon and Jane Doe $435.00). Real zero, gates against the cover's 0. p3 (expenditures) prints a handwritten boxed 'Total amount of expenditures 1178.28'; its FOUR handwritten rows sum to 1,376.28. The gate therefore FAILS by exactly $198.00 and the failure was chased to the page: all four amount cells AND the total box were re-rendered as TIGHT CROPS at 1200 dpi and every one is unambiguous.",
+  "escalations": 5,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 4,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Handwritten expense ledger over a printed grid; the contribution sheet is untouched apart from the form's own printed specimen row. The 781.03 'Clerk office / Sign up' row is the county filing fee and matches Trussell's 2014 filing fee to the cent, which corroborates the read. The SHEDZ amount is written '200' followed by a long dash - the handwritten shorthand for 'and no cents', so 200.00, never blank. text_quality='low' in index.csv refers to the OCR sidecar, not to this page: at 1200 dpi every cell is legible."
+ }
 }

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "JAMES H. \"Jim\" HARVEY",
  "office_stated": "WEBER County Commission - SEAT C",
  "report_type_stated": "December 5 (final report)",
@@ -44,5 +44,207 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN final report. Line-3 'last report' is written 47,170.04 where the October report's cumulative was 47,170.01 - a 3-cent filer discrepancy, retained verbatim. This 77,060.05 cumulative INCLUDES the 28,610.05 carried in from the 2020 cycle - do not read it as 2024 fundraising."
+ "notes": "HANDWRITTEN final report. Line-3 'last report' is written 47,170.04 where the October report's cumulative was 47,170.01 - a 3-cent filer discrepancy, retained verbatim. This 77,060.05 cumulative INCLUDES the 28,610.05 carried in from the 2020 cycle - do not read it as 2024 fundraising.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "10/30",
+   "donor_raw": "NORTHERN WASATCH B.O.R.",
+   "donor_city": "So. Ogden",
+   "amount": "3500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:15.53,5.20,3.15,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=15.53-18.68 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Filer wrote the DATE WITH NO YEAR ('10/30'); kept verbatim -- a year is never filled in from the report date. The Address column carries a CITY ONLY on every row of this sheet (the filer entered no street line at all -- left empty by the filer, not redacted by the county) and no state, so donor_state is honestly blank."
+  },
+  {
+   "line_no": "2",
+   "date": "10/31",
+   "donor_raw": "WASATCH FRONT KIA",
+   "donor_city": "Riverdale",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:18.68,5.20,3.14,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=18.68-21.82 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim; city-only address, no state on the form."
+  },
+  {
+   "line_no": "3",
+   "date": "11/01",
+   "donor_raw": "David Wilson",
+   "donor_city": "Ogden",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:21.82,5.20,3.15,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=21.82-24.97 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. This is a $50 donor and it IS itemized: the 2024 3-line form has one contrib_all cell and no separate '<=$50 aggregate' line, so the schedule itemizes everything."
+  },
+  {
+   "line_no": "4",
+   "date": "11/05",
+   "donor_raw": "GEORGE PENROD",
+   "donor_city": "West Weber",
+   "amount": "2500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:24.97,5.20,3.18,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=24.97-28.15 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim; city-only address."
+  },
+  {
+   "line_no": "5",
+   "date": "10/29",
+   "donor_raw": "H & P INN",
+   "donor_city": "Riverdale",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:28.15,5.20,3.20,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=28.15-31.35 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. Filer wrote the city as two words, 'River dale'; recorded as Riverdale."
+  },
+  {
+   "line_no": "6",
+   "date": "11/02",
+   "donor_raw": "STOKES STRATEGIES",
+   "donor_city": "Ogden",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:31.35,5.20,3.15,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=31.35-34.50 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim; city-only address."
+  },
+  {
+   "line_no": "7",
+   "date": "10/29",
+   "donor_raw": "Comfort Suites of Ogden",
+   "donor_city": "Farr West",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:34.50,5.20,3.18,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=34.50-37.68 (7 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. The city cell says Farr West even though the donor NAME says 'of Ogden'; both are kept as the filer wrote them."
+  },
+  {
+   "line_no": "8",
+   "date": "11/01",
+   "donor_raw": "Lock it up Self Storage 3 LLC",
+   "donor_city": "Ogden",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:37.68,5.20,3.11,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=37.68-40.79 (8 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim; city-only address."
+  },
+  {
+   "line_no": "9",
+   "date": "11/01",
+   "donor_raw": "Lock it up self Storage LC",
+   "donor_city": "Ogden",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:40.79,5.20,3.15,10.71@p142",
+   "geometry_frame": "p142 axis=x cell=5.20-15.91 rowband=40.79-43.94 (9 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. Rows 8 and 9 are two SEPARATE entries the filer wrote as distinct entities ('Self Storage 3 LLC' vs 'self Storage LC'); they are kept as two rows, not merged."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "30 Oct.",
+   "vendor_raw": "TEXT EXPERTS / Text em All",
+   "purpose": "Txt msgs",
+   "amount": "3200.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:19.35,4.27,3.09,10.68@p143",
+   "geometry_frame": "p143 axis=x cell=4.27-14.95 rowband=19.35-22.44 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. City cell (not a stored field for expenditures) reads Austin, TEXAS -- the filer wrote 'Austin' and then wrote 'TEXAS' across it in the same cell. Amount was bistable 3,200 / 3,240 on the full page; the schedule's own total (6,741.67) admits only 3,200, and the 1200 dpi crop shows two slashed zeros."
+  },
+  {
+   "line_no": "2",
+   "date": "2 Dec.",
+   "vendor_raw": "Jill Roberts / XALISCO",
+   "purpose": "Food for OS ppl.",
+   "amount": "1666.67",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:22.44,4.27,3.06,10.68@p143",
+   "geometry_frame": "p143 axis=x cell=4.27-14.95 rowband=22.44-25.50 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. City cell reads Ogden. PURPOSE IS A GENUINELY DOUBTFUL READ even at 1400 dpi: the last two tokens are bistable between 'OS ppl.' and 'OS pol.' (the abbreviation itself is not expanded anywhere on the document); recorded as the better of the two and flagged here rather than guessed silently. The amount is not in doubt -- it is fixed by the schedule total."
+  },
+  {
+   "line_no": "3",
+   "date": "29 Oct.",
+   "vendor_raw": "EXACT DATA",
+   "purpose": "Email",
+   "amount": "1875.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:25.50,4.27,3.06,10.68@p143",
+   "geometry_frame": "p143 axis=x cell=4.27-14.95 rowband=25.50-28.56 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Year-less date, verbatim. City cell reads Chicago."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    141,
+    142,
+    143
+   ],
+   "itemized_pages_A": "142",
+   "itemized_pages_B": "143",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report)' = $8,350.00, which is the cover's TOTALS FOR THIS REPORT line-1 cell (8,350.00)",
+     "detail": "9 Form A rows sum to 3500.00+500.00+50.00+2500.00+500.00+300.00+500.00+250.00+250.00 = 8,350.00, exactly the schedule's own printed total and exactly the cover's This-Report line-1 cell. The cover's CUMULATIVE line-1 cell is 77,060.05 and its Last-Report cell 68,710.05 (68,710.05 + 8,350.00 = 77,060.05, so the cover closes on itself); that cumulative carries Harvey's officeholder account forward from prior cycles and is NOT itemized on this schedule. Period scope, so the This-Report column is the matching-scope anchor -- no figure was differenced across filings. 3-line form variant: a single contrib_all cell, no separate <=$50 aggregate line, so no line-1/line-2 residual. IN-KIND: no row on this sheet carries an in-kind label, so the monetary-only and the monetary-plus-in-kind conventions are numerically identical here; monetary-only closes."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of report)' = $6,741.67, which is the cover's TOTALS FOR THIS REPORT line-2 cell (6,741.67)",
+     "detail": "3 Form B rows sum to 3200.00 + 1666.67 + 1875.00 = 6,741.67, exactly the schedule's own printed total and exactly the cover's This-Report line-2 cell; cumulative 53,911.71 (= 47,170.04 last + 6,741.67 this) is the carried-forward officeholder account and is not itemized here. ARITHMETIC DECIDED A GLYPH: row 1's amount is bistable at full-page resolution between 3,200 and 3,240; only 3,200 closes the schedule's own printed total, and the 1200 dpi tight --value crop then confirmed the trailing pair as two SLASHED ZEROS ('3,200 -'), i.e. legibility and arithmetic agree. No in-kind label on this sheet; monetary-only closes."
+    }
+   },
+   "escalations": 7,
+   "escalation_note": "900-1400 dpi tight --value crops: p142 row1 and row9 amount cells (geometry proof), the whole p142 Date / Name / Address columns (field-shift screen), p143 rows 1 and 3 amount cells (geometry proof), p143 row1 amount at 1200 dpi (the 3,200 vs 3,240 bistable leading pair), p143 row1 City cell at 1400 dpi (two words written over each other) and p143 row2 Purpose cell at 1400 dpi (still ambiguous -- recorded with a note).",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 12,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "James H. 'Jim' Harvey, Weber County Commission Seat C, 2024 December-5 FINAL report, handwritten; signed '4 Dec. 2024'. p141 = cover (3-line variant), p142 = Form A (9 rows), p143 = Form B (3 rows). ON THE COVER READ FLAGGED IN THE TASK BRIEF: this filing's line-1 This-Report cell is NOT ambiguous and there is no 24,300 / 24,000 question on it -- it reads 8,350.00, Form A's own printed total is 8,350.00, and the cover's own arithmetic closes (68,710.05 + 8,350.00 = 77,060.05), so all three independent figures agree. (The 24,300 / 24,000 note must belong to a different Harvey filing.) The 3-cent line-3 discrepancy the 2026-08-01 totals tranche recorded (Last-Report ending balance written 47,170.04 against the October report's 47,170.01) is on the COVER only and does not touch either schedule; both schedules close exactly. Both sides are PERIOD-scoped behind a CUMULATIVE cover -- Harvey's officeholder account carries forward from earlier cycles, so the cumulative column must never be read as money raised or spent in 2024. Donor street addresses: none printed; the filer used the Address column for a city only."
+  }
+ }
 }

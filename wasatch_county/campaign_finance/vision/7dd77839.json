@@ -1,85 +1,161 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_JuneJGranger.pdf",
-    "cache_key": "7dd77839",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "June 2020 (7 days before Primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joey Diane Granger",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_JuneJGranger.pdf",
+  "cache_key": "7dd77839",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "June 2020 (7 days before Primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_03.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (0.00 = 0, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the Primary Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "-246.08",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "-246.08",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "-246.08",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "-246.08",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "-246.08",
+     "itemized": "246.08",
+     "result": "delta",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "delta 492.16 - 1 row(s) sum to 246.08 against the cover's own total expenses line, CUMULATIVE column, which prints -246.08. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: MAGNITUDE MATCHES, SIGN DOES NOT -- not adjusted. The single Form B row is a POSITIVE $246.08 ('Filing fee-Wasatch County', 3/19/2020); the cover states the expense as NEGATIVE -246.08 in both the THIS REPORT and CUMULATIVE columns, and carries the same -246.08 down to the balance line. This filer wrote her expense as a negative cash-flow figure; the known Wasatch filer-error already documented for this filing. Both figures retained verbatim; the row is published at its printed positive value and the stated total at its printed negative value.",
+     "published_stated": "-246.08",
+     "csv_reconciles": "False",
+     "csv_delta": "492.16"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row and no filer page footer. Cover identity as the filer wrote it: 0 + (-246.08) = -246.08 balance -- internally consistent on her sign convention, which is why the sign is hers and not a misread.",
+   "escalations": 0,
+   "escalation_note": "none needed -- born-digital typed cover and schedules.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 1,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime; born-digital. Joey Diane Granger (index.csv publishes 'Joey D Granger'), County Clerk/Auditor, Republican, signed 6/23/2020, '7 Days preceding the Primary Election' checked. 7-page PDF: p1 cover, p2 blank Form A, p3 Form B with one row, pp4-7 the text of Utah Code 17-16-6.5 (confirmed statute, no figures). The Form B address cell is empty on this filing. FIELD-SHIFT SCREEN: passed (1 date / 1 name / 1 amount)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joey Diane Granger",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. Expenses are stated as a NEGATIVE (-246.08) \u2014 verbatim."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the Primary Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "-246.08",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "-246.08",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "-246.08",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "-246.08",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. Expenses are stated as a NEGATIVE (-246.08) — verbatim.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-19",
+   "vendor_raw": "Filing fee-Wasatch County",
+   "purpose": "",
+   "amount": "246.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed POSITIVE $246.08 while the cover states the expense as -246.08 -- the row is recorded as printed; see recon",
+   "geometry": "pct:13.24,15.80,71.46,2.27@p3",
+   "geometry_fit": "bbox"
+  }
+ ]
 }

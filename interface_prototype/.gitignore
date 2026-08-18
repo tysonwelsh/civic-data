@@ -1,0 +1,4 @@
+# Per-session query audit trail written by agent/guard.py. Useful while a
+# session is live (it is the "where did this number come from" record), but
+# it is session data, not a repo artifact.
+logs/

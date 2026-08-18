@@ -47,6 +47,172 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2022 single-total sheet; this Post-Election copy is NOT redacted (the Pre-Election copy, doc 20636, was). Column-order cross-check: Last Report reproduces doc 20636's Current figures exactly. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typed 2022 single-total sheet; this Post-Election copy is NOT redacted (the Pre-Election copy, doc 20636, was). Column-order cross-check: Last Report reproduces doc 20636's Current figures exactly. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-24",
+   "donor_raw": "Stewart Grow",
+   "donor_city": "Peoa",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.32,20.82,82.25,2.15@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2022-02-25",
+   "donor_raw": "Dorothy Adams",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.32,22.64,82.25,2.15@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2022-02-26",
+   "donor_raw": "Red Barn Landscaping",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.32,24.46,82.25,2.15@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 4,
+   "date": "2022-10-24",
+   "donor_raw": "Cindy M Keyes",
+   "donor_city": "Peoa",
+   "donor_state": "UT",
+   "amount": "991.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.32,26.28,82.25,2.17@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate's own money, exactly equal to the outstanding expense balance - the cover's campaign balance is 0.00",
+   "page": 2,
+   "band": 6
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "666.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.15,30.08,78.93,2.05@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-09",
+   "vendor_raw": "PC Printink",
+   "purpose": "Campaign Printing",
+   "amount": "305.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.15,31.92,78.93,2.07@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2022-10-09",
+   "vendor_raw": "Square Space",
+   "purpose": "Campaign Website",
+   "amount": "270.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.15,33.78,78.93,2.07@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1241.79",
+    "itemized": "1241.79",
+    "result": "exact",
+    "detail": "exact - 4 rows sum to 1,241.79 = the cover's CUMULATIVE contribution total. The current-report column is 0.00, so the ledger is demonstrably cumulative rather than period-scoped; it is the same four rows the Pre-Election filing 20636 carries. Specimen row $435.00 excluded."
+   },
+   "expenditures": {
+    "stated": "1241.79",
+    "itemized": "1241.79",
+    "result": "exact",
+    "detail": "exact - 3 rows sum to 1,241.79 = the page's OWN printed box AND the cover's cumulative expenditure total (current report 0.00). Same three rows as 20636. Specimen row $512.00 excluded."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT prints NO section total of its own; the gate is the cover's CUMULATIVE contribution figure 1,241.79, which the 4 real rows reproduce to the cent. p3 ITEMIZED EXPENSE REPORT prints its OWN boxed total above the grid, 'Total amount of expenditures 1,241.79', matching the cover's cumulative expenditure figure; the 3 real rows reproduce it to the cent. Both pages carry the blank form's SPECIMEN row still in place and HIGHLIGHTED IN YELLOW by the county - p2 '8/25/10 Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00', p3 '8/25/10 Name of Business / Campaign signs and flyers / $512.00' - and both totals close ONLY with the specimens dropped. GRAIN: the cover's CURRENT-REPORT column is 0.00 on both sides (last_report 1,241.79, cumulative 1,241.79), so this Post-Election ledger is CUMULATIVE, not period-scoped - it reproduces the cumulative figure exactly and reports zero new activity in the post-election window. Cover-differenced against the same candidate's Pre-Election filing 20636, whose ledger is the SAME four contributions and three expenses.",
+  "escalations": 0,
+  "n_contrib_rows": 4,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 7,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Cindy Marchant Keyes, County Auditor, 2022 Post-Election. The county's blank form typed into, 3 pages (p1 cover, p2 contributions, p3 expenses), ~40 and ~35 empty ruled rows following the data. No embedded text layer (draft.py returned nothing); both ledger pages read full-page at 200 dpi. SOURCE PROPERTY WORTH RECORDING: this Post-Election copy is NOT redacted - the Mailing Address and Zipcode columns are fully legible - while the SAME filer's Pre-Election copy (20636) of the SAME ledger is county-redacted in those columns. The county's redaction pass was applied per-document, not per-candidate. Nothing was back-filled: 20636's rows keep their honestly blank city/state, and this filing's rows carry the city/state its own page prints. The Mailing Address column here holds CITY + STATE only ('Peoa UT', 'Park City UT') with no street, so donor_city/donor_state are read straight from it; the specimen row's PO box is dropped with the specimen. The county's blank form prints its own title typo, '2022 Campaign Finacial Report', on p2. GEOMETRY IS MEASURED: rowbands detects 40 uniform bands on p2 and 35 on p3, and on this filing the detected vertical rules span the WHOLE table (7.32-89.57% on p2, 10.15-89.08% on p3), so no declared frame is needed. Band 1 is the column header and band 2 the specimen on both pages; real rows are bands 3-6 (p2) and 3-5 (p3). Verified end to end at 500 dpi: p2 band 3 -> '2/24/22 Stewart Grow / Peoa UT / 84061 / $100.00', p2 band 6 -> '10/24/22 Cindy M Keyes / Peoa UT / 84061 / $991.79', p3 band 5 -> '10/9/22 Square Space / Campaign Website / $270.24'."
+ }
 }

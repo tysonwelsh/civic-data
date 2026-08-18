@@ -1,0 +1,331 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "03f2e863",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): 3000 -'",
+    "detail": "the 2 Form A rows (500 + 2,500) sum to 3,000 = the schedule's own printed total = the cover's Totals for THIS REPORT cell on line 1 ($3000-). The cover's CUMULATIVE cell is 31,610.05 = 28,610.05 'Totals from Last Report' + 3,000, and that opening figure is EXACTLY this officeholder's 2020 closing cumulative - an account carried across cycles - so the schedule is period-scoped and the pre-2024 money is not itemized here (and must never be read off the cumulative column as 2024 fundraising)."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of report): 783 . 76'",
+    "detail": "the single Form B row ($783.76) equals the schedule's own printed total 783.76 = the cover's THIS REPORT cell on line 2; cumulative 22,002.22 = 21,218.46 carried from the 2020 account + 783.76, not itemized here"
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "700-900 dpi tight crops: amount-column strips on p2 and p3 to establish the band structure below the header; --value cell crops at p2 row 2 (reproduces '5 slashed-0 slashed-0 -'), p2 row 3 ('2,5 slashed-0 slashed-0 -'), p3 row 2 ('$783 superscript-76 -') and the p2 schedule total cell ('3 slashed-0 slashed-0 slashed-0 -'); plus two 900 dpi crops of the p2 name and address columns to settle the handwritten donor names and city/state. No arithmetic dispute arose - both sides close to the printed anchor on the first read.",
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     7.72,
+     17.79
+    ],
+    "cells": [
+     [
+      7.72,
+      17.79
+     ],
+     [
+      17.79,
+      57.49
+     ],
+     [
+      57.49,
+      85.89
+     ],
+     [
+      85.89,
+      93.5
+     ]
+    ],
+    "rows": [
+     [
+      13.85,
+      17.05
+     ],
+     [
+      17.05,
+      20.37
+     ],
+     [
+      20.37,
+      23.58
+     ],
+     [
+      23.58,
+      26.9
+     ],
+     [
+      26.9,
+      30.14
+     ],
+     [
+      30.14,
+      33.4
+     ],
+     [
+      33.4,
+      36.55
+     ],
+     [
+      36.55,
+      39.78
+     ],
+     [
+      39.78,
+      42.99
+     ],
+     [
+      42.99,
+      46.28
+     ],
+     [
+      46.28,
+      49.52
+     ],
+     [
+      49.52,
+      52.84
+     ],
+     [
+      52.84,
+      55.99
+     ],
+     [
+      55.99,
+      59.16
+     ],
+     [
+      59.16,
+      62.27
+     ],
+     [
+      62.27,
+      65.45
+     ],
+     [
+      65.45,
+      68.5
+     ],
+     [
+      68.5,
+      71.64
+     ],
+     [
+      71.64,
+      74.79
+     ],
+     [
+      74.79,
+      77.99
+     ],
+     [
+      77.99,
+      81.17
+     ],
+     [
+      81.17,
+      84.34
+     ],
+     [
+      84.34,
+      87.42
+     ],
+     [
+      87.42,
+      90.57
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet, but rotated the OPPOSITE way from the 2022 archive sheets: here the sheet's top edge is the image's LEFT edge, so the row index INCREASES as x INCREASES (rows advance left-to-right; on the 2022 sheets they advance right-to-left). Printed ROW rules are the page's vertical rules; rowbands detected 27 of them, 8.22..90.57. The FIRST detected rule (8.22) is NOT a table rule - it is the filer's handwritten underline beneath his '8 APR 24' annotation outside the table, confirmed on a 700 dpi crop - so the table's outer border is 10.76 and the header row ('Amount | Address | Name of Contributor | Date', all single-line) is [10.76,13.85]. Row 1 is the SHADED grey strip immediately below the header (an empty printed row the scan renders grey, not an entry - the convention set by record d0df0309); the filer's two entries are therefore rows 2 and 3. Constant ~3.2 pct pitch throughout; nothing extrapolated. Column bands measured with coverage restricted to the table's own x-extent (7.72 / 17.79 / 57.49 / 85.89 / 93.50). PROVED with 900 dpi --value crops at rows 2 and 3, which reproduce the two amounts."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     6.27,
+     16.32
+    ],
+    "cells": [
+     [
+      6.27,
+      16.32
+     ],
+     [
+      16.32,
+      34.07
+     ],
+     [
+      34.07,
+      44.1
+     ],
+     [
+      44.1,
+      86.8
+     ],
+     [
+      86.8,
+      94.44
+     ]
+    ],
+    "rows": [
+     [
+      18.02,
+      21.31
+     ],
+     [
+      21.31,
+      24.43
+     ],
+     [
+      24.43,
+      27.54
+     ],
+     [
+      27.54,
+      30.68
+     ],
+     [
+      30.68,
+      33.83
+     ],
+     [
+      33.83,
+      37.06
+     ],
+     [
+      37.06,
+      40.24
+     ],
+     [
+      40.24,
+      43.44
+     ],
+     [
+      43.44,
+      46.58
+     ],
+     [
+      46.58,
+      49.76
+     ],
+     [
+      49.76,
+      52.9
+     ],
+     [
+      52.9,
+      56.08
+     ],
+     [
+      56.08,
+      59.19
+     ],
+     [
+      59.19,
+      62.36
+     ],
+     [
+      62.36,
+      65.51
+     ],
+     [
+      65.51,
+      68.71
+     ],
+     [
+      68.71,
+      71.83
+     ],
+     [
+      71.83,
+      74.97
+     ],
+     [
+      74.97,
+      78.11
+     ],
+     [
+      78.11,
+      81.26
+     ],
+     [
+      81.26,
+      84.4
+     ],
+     [
+      84.4,
+      87.58
+     ],
+     [
+      87.58,
+      90.69
+     ],
+     [
+      90.69,
+      93.8
+     ]
+    ],
+    "measure_note": "Same rotated-landscape geometry as p2. 27 vertical rules detected, 8.16..93.80; as on p2 the first (8.16) is the filer's handwritten '8 APR 24' underline outside the table, so the table border is 10.73. The header row here is much TALLER than one pitch - [10.73,18.02], 7.29 pct - because Form B's first column header 'Date of Expenditure' wraps to three printed lines; verified on a 700 dpi crop showing the 'Amount' header occupying that whole band. Row 1 is the shaded grey strip below it and the filer's single entry is row 2. Constant ~3.14 pct pitch below that; nothing extrapolated. Column bands measured with restricted coverage (6.27 / 16.32 / 34.07 / 44.10 / 86.80 / 94.44). PROVED with a 900 dpi --value crop at row 2, which reproduces $783.76."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/2/24",
+    "donor_raw": "GAGE FROERER Campaign Fund",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "handwritten in blue ink. The amount cell prints '5' followed by two SLASHED-ZERO glyphs and a trailing dash for the cents position: transcribed 500 under the zero-glyph ruling (the slashed zeros denote the digit zero; the trailing dash is the filer's no-cents mark and adds nothing). Donor is the campaign fund of Gage Froerer, this filer's fellow Weber County Commissioner. Address is a PO box in Huntsville, deliberately not carried (PRIVACY.md: city/state only)."
+   },
+   {
+    "line_no": "2",
+    "date": "1/26/24",
+    "donor_raw": "NWAOR PAC Acct",
+    "donor_city": "Ogden",
+    "donor_state": "",
+    "amount": "2500",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "handwritten. Same slashed-zero + trailing-dash amount convention as line 1: '2,5' + two slashed zeros + '-' = 2,500. donor_state is BLANK because the FILER wrote no state - his address cell ends 'Ste-1 Ogden 84403' with the state omitted (left empty by the filer, NOT redacted by the county). Street address not carried. 'NWAOR' is the filer's own abbreviation, kept verbatim."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "2 Jan. '24",
+    "vendor_raw": "Filing FEE - WEBER Co.",
+    "purpose": "Filing",
+    "amount": "783.76",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date kept VERBATIM as the filer wrote it ('2 Jan. \u201924'); it is not one of the two shapes the build normalizes (M/D/YY(YY), D-Mon-YY), so it will surface as unparseable rather than be repaired here. The amount is written '$783' with a superscript '76' - i.e. 783.76 - matching the schedule's own printed total '783 . 76'. The separate City column prints 'Ogden' (no vendor_city field in the row contract). The filer put the payee description in the name column and 'Filing' in the purpose column."
+   }
+  ],
+  "notes": "HANDWRITTEN blue-ink 2024 3-line form, three pages: p1 cover ('7 days before convention' box ticked, signed 8 April 2024), p2 FORM A, p3 FORM B - form order and page order agree. The county REDACTED the candidate's street address and cell phone on the cover before publishing (black bars); nothing behind that redaction was recovered or inferred. OFFICEHOLDER ACCOUNT: the cover's 'Totals from Last Report' column (28,610.05 / 21,218.46 / 7,391.59) is this filer's 2020 CLOSING cumulative, so both schedules itemize the PERIOD only and the cumulative column double-counts the 2020 cycle - this is why both sides are period-exact rather than exact. Neither schedule prints a per-page subtotal; each prints one grand total at the foot and both close to the cent (Form B) or to the dollar as written (Form A) against the cover. No in-kind items are labelled. Donor street addresses / PO box on Form A are deliberately NOT carried (PRIVACY.md: city/state only)."
+ }
+]

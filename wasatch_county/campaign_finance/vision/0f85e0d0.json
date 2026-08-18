@@ -1,82 +1,603 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_R-Kahler.pdf",
-    "cache_key": "0f85e0d0",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Rachel Anne Kahler",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_R-Kahler.pdf",
+  "cache_key": "0f85e0d0",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2,3",
+   "itemized_pages_B": "2,3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4745.00",
+     "itemized": "4745.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (4745.00 = 4745.00, published stated total)",
+     "published_stated": "4745.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Council",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "Seat A",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber City",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/16/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "4,745.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "2854.92",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "1,890.08",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2854.92",
+     "itemized": "2854.92",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2854.92 = 2854.92, published stated total)",
+     "published_stated": "2854.92",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL (p2): 4745 = p2 rows 1,675.00 + p3 continuation rows 3,070.00 = 4,745.00 — GATE PASSES, and this is what establishes that the unheadered p3 block is Table A continuation rather than a separate document. Table B: its 3 rows and 9 empty slots fill p2 and its TOTAL row CONTINUES ONTO PAGE 3, printing 2,854.92 = rows 2,854.92 — GATE PASSES. Cover identity also closes: 4,745.00 - 2,854.92 = 1,890.08 = printed balance.",
+   "escalations": 0,
+   "escalation_note": "born-digital typed filing; all three pages legible at 200 dpi full-page",
+   "n_contrib_rows": 23,
+   "n_expend_rows": 3,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 26,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Born-digital typed filing, Rachel Anne Kahler, Wasatch County Council Seat A, Republican, Heber City. Primary Report marked with a typed 'X' beside the box; initialled RK twice; signed 6/16/2026. THIS IS THE PAGE-3 CONTINUATION SPECIMEN, and it continues in TWO different ways at once: (1) Table B's TOTAL row spills onto page 3 exactly as the brief warns — page 2's Table B frame ends with no TOTAL, and 2,854.92 prints at the top of page 3; and (2) Table A overflows its 12 printed slots, so the filer used the last slot to write 'See additional information below' and appended an UNHEADERED 12-row continuation table lower on page 3, whose columns are date | name | amount | (empty) | 'Donation'. Both continuations were confirmed by the printed totals, not assumed. The 'See additional information below' slot is a POINTER, not a ledger line — no date, no amount — so it is not emitted as a row; the rows it points to are (line_no 12-23 below). Amount column read POSITIONALLY on both blocks: on p2 the Amount cell holds bare integers (200, 500, 50 ...) while the trailing In-Kind column holds the word 'Donation'; on the p3 block the money is in the third column ($500.00 style) with 'Donation' again trailing. Per gate (g) the In-Kind cell here is a DESCRIPTION of a cash gift, not an in-kind good, so in_kind is false throughout with the cell quoted. Rows are not in date order in either block (p3 runs 5/15/2026 before 5/9/2026). Row 1 is the candidate's own $200 self-contribution. Form prints no address column, so donor_city/donor_state are blank by design. NOTE for the wave lead: Kahler's MARCH 2026 filing is this module's zero-glyph calibration specimen (both totals printed as the written word 'zero'); this JUNE filing is a different, fully-populated report and shares nothing with it but the filer."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Rachel Anne Kahler",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. Her March 2026 filing printed no figures at all, so these are her first stated totals."
+  "office_verbatim": {
+   "value": "Wasatch County Council",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "Seat A",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber City",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/16/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "4,745.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "2854.92",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "1,890.08",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. Her March 2026 filing printed no figures at all, so these are her first stated totals.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-04-06",
+   "donor_raw": "Rachel Kahler",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed as bare '200' in the Amount column; In-Kind column reads verbatim 'Donation' — a description of a cash gift, so in_kind=false. Self-contribution by the candidate (cover names her Rachel Anne Kahler)",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-04-12",
+   "donor_raw": "Mike Wood",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '500'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-04-12",
+   "donor_raw": "Bonnie Vance",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '200'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-04-12",
+   "donor_raw": "Dori Bowman",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '50'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-04-12",
+   "donor_raw": "Seth Glick",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '50'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-04-12",
+   "donor_raw": "Todd Anderson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '150'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,30.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-04-12",
+   "donor_raw": "Ron Carlile",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '75'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,33.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2026-04-12",
+   "donor_raw": "Russ Watts",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '100'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,35.65,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2026-04-12",
+   "donor_raw": "Marilyn Fowler",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "name cell printed with a leading space (' Marilyn Fowler'); leading space trimmed in donor_raw, noted here. Amount printed '100'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,38.10,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 2,
+   "row_i": 9,
+   "date": "2026-04-12",
+   "donor_raw": "Troy Johnson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '50'; In-Kind cell 'Donation'",
+   "geometry": "pct:5.00,40.55,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 2,
+   "row_i": 10,
+   "date": "2026-04-12",
+   "donor_raw": "Angela Ritchie",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '200'; In-Kind cell 'Donation'. Last filled slot on p2; the slot below it (row_i 11) holds the pointer text 'See additional information below' and is NOT a row",
+   "geometry": "pct:5.00,43.00,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 3,
+   "row_i": 0,
+   "date": "2026-04-13",
+   "donor_raw": "Jeff Danley",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "first row of the UNHEADERED page-3 continuation block that the p2 pointer refers to; row_i restarts at 0 for that block. Amount printed '$500.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,3.00,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 13,
+   "page": 3,
+   "row_i": 1,
+   "date": "2026-04-13",
+   "donor_raw": "Kelleen Potter",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$100.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,5.45,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 14,
+   "page": 3,
+   "row_i": 2,
+   "date": "2026-04-13",
+   "donor_raw": "Zachary Hall",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$100.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,7.90,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 15,
+   "page": 3,
+   "row_i": 3,
+   "date": "2026-04-14",
+   "donor_raw": "Billie Sue Morris",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$100.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,10.35,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 16,
+   "page": 3,
+   "row_i": 4,
+   "date": "2026-04-14",
+   "donor_raw": "Kim Jensen",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$30.00'; trailing cell 'Donation'. Surname Jensen recurs across this corpus — resolve on full name only, never surname",
+   "geometry": "pct:5.00,12.80,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 17,
+   "page": 3,
+   "row_i": 5,
+   "date": "2026-04-15",
+   "donor_raw": "John Flynn",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$50.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,15.25,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 18,
+   "page": 3,
+   "row_i": 6,
+   "date": "2026-04-18",
+   "donor_raw": "Paul Cannon",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$150.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,17.70,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 19,
+   "page": 3,
+   "row_i": 7,
+   "date": "2026-04-22",
+   "donor_raw": "Micaela Carriel",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$250.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,20.15,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 20,
+   "page": 3,
+   "row_i": 8,
+   "date": "2026-05-15",
+   "donor_raw": "Robyn Probst",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$1,500.00' — the largest single contribution on the filing. Printed out of date order, before the 5/9 row; printed order preserved in line_no. Trailing cell 'Donation'",
+   "geometry": "pct:5.00,22.60,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 21,
+   "page": 3,
+   "row_i": 9,
+   "date": "2026-05-09",
+   "donor_raw": "JoyLynn Jeppson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5/9/2026' (cell right-aligned with a leading space); amount printed '$150.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,25.05,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 22,
+   "page": 3,
+   "row_i": 10,
+   "date": "2026-05-10",
+   "donor_raw": "Tori Broughton",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$100.00'; trailing cell 'Donation'. Name matches a 2024 Wasatch county-office FILER (Tori Broughton) — recorded as printed; any person-linking is the wave lead's call, not asserted here",
+   "geometry": "pct:5.00,27.50,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 23,
+   "page": 3,
+   "row_i": 11,
+   "date": "2026-05-31",
+   "donor_raw": "Diann Glenn",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "final row of the p3 continuation block; amount printed '$40.00'; trailing cell 'Donation'",
+   "geometry": "pct:5.00,29.95,90.00,2.45@p3",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-05-11",
+   "vendor_raw": "HM Design",
+   "purpose": "Campaign Yard Signs & Banners",
+   "amount": "2454.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '2454.42' (no thousands comma)",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-05-20",
+   "vendor_raw": "Midway Special Event Veterans Flag",
+   "purpose": "America 250 Flags on Memorial Hill",
+   "amount": "185.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee cell may be clipped at the column edge but reads as a complete phrase; transcribed verbatim",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-06-01",
+   "vendor_raw": "The UPS Store",
+   "purpose": "Flyers",
+   "amount": "215.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "last filled Table B slot; the table's TOTAL row is not on this page — it prints at the top of page 3",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

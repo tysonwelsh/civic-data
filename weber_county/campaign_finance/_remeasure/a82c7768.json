@@ -1,0 +1,11 @@
+{"key": "a82c7768",
+ "frames": {
+   "3": {"axis": "x",
+         "cell": [85.95, 96.59],
+         "cells": [[3.27,11.41],[11.41,56.57],[56.57,67.2],[67.2,85.95],[85.95,96.59]],
+         "rows": [[79.71,82.76],[76.65,79.71],[73.65,76.65],[70.59,73.65],[67.53,70.59],[64.47,67.53],[61.44,64.47]],
+         "measure_note": "Rotated landscape Form B: read full-page render first. Rows advance along page-X (axis x) from v_rules_pct; columns along page-Y from h_rules_pct. Defect worked around: the withdrawn frame put the NAME column ([11.48,56.64], 45pct wide) in `cell`; on weber Form B the Amount column is the LAST printed column = h band [85.95,96.59]. Also trimmed the two non-data bands rowbands returned at the high-pct end (the header strip [85.88,90.88] and the grey shaded spacer [82.76,85.88]) before index-aligning, so rows[0] is the first DATA row. No deskew drift issue (bands reproduced exactly in the crops). Proof crops run at 900 dpi --value from the geometry stored here."}
+ },
+ "proof": "p3: first-row crop pct:79.71,85.95,3.05,10.64@p3 rendered 37.00 (recorded 37.00); last-row crop pct:76.65,85.95,3.06,10.64@p3 rendered 25.00 (recorded 25.00). Both rows on the page proved (only 2 transcribed rows).",
+ "unmeasurable": {}
+}

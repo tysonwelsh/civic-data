@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:06:59Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Ricky D. Hatch",
  "office_stated": "Clerk/Auditor",
  "report_type_stated": "January 5th, 2015 (final report)",
@@ -50,5 +50,67 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed form; the final-report box is marked 'XX'."
+ "notes": "Typed form; the final-report box is marked 'XX'.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "11/4/2014",
+   "vendor_raw": "Phonevite",
+   "purpose": "Phone Calling Services",
+   "amount": "37.00",
+   "confidence": "high",
+   "geometry": "pct:79.71,85.95,3.05,10.64@p3",
+   "geometry_frame": "p3 axis=x cell=85.95-96.59 rowband=79.71-82.76 (1 of 7 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "11/4/2014",
+   "vendor_raw": "AvikeySoft",
+   "purpose": "Phone Calling Services",
+   "amount": "25.00",
+   "confidence": "high",
+   "geometry": "pct:76.65,85.95,3.06,10.64@p3",
+   "geometry_frame": "p3 axis=x cell=85.95-96.59 rowband=76.65-79.71 (2 of 7 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT (62.00)",
+     "detail": "37.00 + 25.00 = 62.00 = printed schedule total = the cover's This-Report column; cumulative 10,813.73 is carried forward"
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "FINAL (January 5th, 2015) report. Form A (p2) is present and ENTIRELY BLANK with a bare nil dash as its printed total, matching the cover's dash \u2014 empty by the document. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

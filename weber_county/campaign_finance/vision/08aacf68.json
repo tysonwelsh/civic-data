@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:09:26Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Leann H. Kilts",
  "office_stated": "Weber County Recorder/SURVEYOR",
  "report_type_stated": "January 5, 2021 (final report)",
@@ -44,5 +44,74 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN 2020 3-line form. Line-4 'this report' is written 1,655.00 positive though the balance DECREASES by that amount (2,500.67 -> 845.67); the filer's sign convention, retained."
+ "notes": "HANDWRITTEN 2020 3-line form. Line-4 'this report' is written 1,655.00 positive though the balance DECREASES by that amount (2,500.67 -> 845.67); the filer's sign convention, retained.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "11/17/20",
+   "vendor_raw": "Weber Co Republican Women",
+   "purpose": "scholarship",
+   "amount": "320.00",
+   "confidence": "medium",
+   "geometry": "pct:17.71,3.25,3.14,10.70@p27",
+   "geometry_frame": "p27 axis=x cell=3.25-13.95 rowband=17.71-20.85 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "11/17/20",
+   "vendor_raw": "Leann Kilts",
+   "purpose": "reimbursement loan",
+   "amount": "1335.00",
+   "confidence": "medium",
+   "geometry": "pct:20.85,3.25,3.12,10.70@p27",
+   "geometry_frame": "p27 axis=x cell=3.25-13.95 rowband=20.85-23.97 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The filer's own City cell reads 'PlainCity' (no space) \u2014 Plain City, UT, the candidate's own town; this row is the candidate reimbursing herself for a campaign loan."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    25,
+    26,
+    27,
+    28
+   ],
+   "itemized_pages_A": "26",
+   "itemized_pages_B": "27",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT, line 1 (a slashed zero = 0); the Form A page's own 'Total Contributions: (to line 1 of report)' cell is BLANK",
+     "detail": "The Form A schedule (p26) is a completely blank printed grid \u2014 no rows, no ink anywhere, and the schedule's own total cell is empty. Zero rows sum to 0.00, which is the cover's This-Report contributions cell (written as a slashed zero followed by a dash). The cumulative cell 2,637.03 equals the Totals-from-Last-Report cell 2,637.03 unchanged, i.e. everything raised was raised in earlier periods this final report never itemizes. 3-line form, so a single contrib_all cell and no <=$50 aggregate line."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 1655.00', which equals the cover's Totals-for-THIS-REPORT line 2 (1,655.00)",
+     "detail": "2 Form B rows: 320.00 + 1335.00 = 1,655.00 exactly = the schedule's printed total = the cover's This-Report cell. The cover's cumulative 1,791.36 = 136.36 (Totals from Last Report) + 1,655.00, so the schedule is period-scoped behind a cumulative cover and the 136.36 of earlier spending is not itemized here."
+    }
+   },
+   "escalations": 2,
+   "escalation_note": "p27 row-1 amount column at 900 dpi tight crop (confirmed 320.00 / 1335.00 and which band is data row 1 vs the printed shaded separator strip); p27 row-2 date cell at 1800 dpi tight crop \u2014 at 200 dpi its year read bistably as '00' vs '20', and the tight crop resolves a cursive looped 2 (11/17/20), matching row 1.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Handwritten 2020 3-line county form. p25 cover (report-type box checked: January 5, 2021 final report), p26 Form A BLANK, p27 Form B with 2 rows. Form B prints a City column but no state; state is honestly blank on both rows (the form has no state field \u2014 not a redaction and not a filer omission). ** SOURCE PROPERTY THE BRIEF DOES NOT LIST: p28, the last page of this filing's declared index range, is NOT part of the Kilts filing \u2014 it is a typed 2020 cover page for a DIFFERENT candidate, ALEX MCDONALD, Weber County Commissioner (final report box checked; cumulative 46,379.27 contributions / 46,838.38 expenditures / (459.11) balance; unsigned, no schedule pages follow it \u2014 p29 begins the Nancy Blair school-board filing). Alex McDonald appears NOWHERE in index.csv or filing_attribution.csv, so this is an unindexed county-office filing bound inside another filing's page range. Nothing from p28 is transcribed here; the Kilts filing is really pp.25-27. ** Donor/vendor street addresses are not carried (PRIVACY.md: city/state only)."
+  }
+ }
 }

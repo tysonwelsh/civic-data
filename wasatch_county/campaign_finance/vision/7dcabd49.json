@@ -1,64 +1,117 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_MarkNelson.pdf",
-    "cache_key": "7dcabd49",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Mark B. Nelson",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_MarkNelson.pdf",
+  "cache_key": "7dcabd49",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "district_verbatim": {
-      "value": "Seat E",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "June 17, 2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": []
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Neither table prints a TOTAL figure (both cells empty), so no page gate fires. Cover gate: line 1 $0, line 2 $0, line 3 $0, and 0 - 0 = 0 — closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, TYPED cover (born-digital text) on a scanned sheet, county date-stamped 'JUN 18 '24 AM 11:42 RCVD WC' upside-down in the top-right margin. Cover: Mark B. Nelson, Wasatch County Council Seat E, Midway UT; Phone and Political Party left blank; NO reporting-period box checked (matches the module's list); signed June 17, 2024; both acknowledgement lines initialled. The two schedules each carry a single handwritten word — 'None' — struck diagonally across the table body, with the TOTAL cells left empty. I have treated the schedules as genuinely empty (§5 blank schedule = a real zero) and taken the ZERO from the cover's typed $0, not from the word 'None': the zero-glyph ruling promotes 'zero', a slashed Ø or '-0-', and 'None' is not on that list, so it is recorded as an annotation rather than converted into a numeral. The result is the same 0.00 either way, but the reasoning is worth keeping straight."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Mark B. Nelson",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed ('$0' on each line). No period box marked."
+  "district_verbatim": {
+   "value": "Seat E",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "June 17, 2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": []
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed ('$0' on each line). No period box marked.",
+ "contributions": [],
+ "expenditures": []
 }

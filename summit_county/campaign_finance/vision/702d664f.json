@@ -52,6 +52,174 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover; Last Report and Cumulative columns left blank."
+ "itemized_transcribed": true,
+ "notes": "Typed cover; Last Report and Cumulative columns left blank.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-03-09",
+   "donor_raw": "2014 Campaign",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2309.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,15.02,42.00,1.41@p2",
+   "geometry_fit": "measured",
+   "note": "the Mailing Address cell holds a DESCRIPTION, not an address - 'Unspent funds from the 2014 campaign' - so donor_city/donor_state are honestly blank; this row is the candidate's own carried-over 2014 committee balance, not an outside donation",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2018-03-09",
+   "donor_raw": "Jeremiah Wilson",
+   "donor_city": "Draper",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,15.98,42.00,1.41@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2018-03-09",
+   "donor_raw": "James Peterson",
+   "donor_city": "Bountifu",
+   "donor_state": "UT",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,16.93,42.00,1.37@p2",
+   "geometry_fit": "measured",
+   "note": "city printed 'Bountifu' - the filer's typo for Bountiful, kept verbatim",
+   "page": 2,
+   "band": 6
+  },
+  {
+   "line_no": 4,
+   "date": "2018-03-09",
+   "donor_raw": "Ian Campbell",
+   "donor_city": "Sandy",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,17.84,42.00,1.41@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 7
+  },
+  {
+   "line_no": 5,
+   "date": "2018-03-22",
+   "donor_raw": "Josh Crosby",
+   "donor_city": "Herriman",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,18.80,42.00,1.41@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 8
+  },
+  {
+   "line_no": 6,
+   "date": "2018-10-18",
+   "donor_raw": "Richelle Skaggs",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,19.76,42.00,1.44@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 9
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "File fees for Sheriff",
+   "amount": "687.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.32,15.19,40.95,0.98@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "5809.71",
+    "itemized": "5809.71",
+    "result": "exact",
+    "detail": "exact - 6 rows sum to 5,809.71 = the page's own '>$50' box, the page's in-grid total, AND the cover. split50 form, but its '<=$50' box is 0.00, so unlike the usual pre-2022 filing there is no unitemized aggregate residual here."
+   },
+   "expenditures": {
+    "stated": "687.52",
+    "itemized": "687.52",
+    "result": "exact",
+    "detail": "exact - the single row (Summit County Clerk, file fees) reproduces the page's own printed 'Total amount of expenditures' box and the cover."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT is the pre-2022 split50 form and prints TWO boxed totals above the grid - 'Total amount from donors giving more than $50' $5,809.71 and 'giving $50 or less' $0.00 - plus a THIRD printed total inside the grid itself, $5,809.71, four rows under the last entry. The 6 rows reproduce all three to the cent. Because the <=$50 box is 0.00 there is NO structural residual on this filing: the >$50 box, the in-grid total and the module's stated total are the same number. p3 ITEMIZED EXPENSE REPORT prints 'Total amount of expenditures $687.52' and its single row reproduces it. No specimen rows on the 2018 form. GLYPH-VS-ARITHMETIC: the county scanner's OCR layer reads the first contribution as $2,109.71, which would leave the side 200.00 short of every printed total; the full-page read at 200 dpi and a 700 dpi row crop both show $2,309.71, and 2,309.71 + 100 + 200 + 100 + 100 + 3,000 = 5,809.71 exactly. The OCR layer was not trusted (draft.py is not a reader).",
+  "escalations": 2,
+  "n_contrib_rows": 6,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 7,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Justin Martinez, County Sheriff, 2018 Pre-Election. 3 pages, TYPED on the county's pre-2022 split50 form (no handwriting anywhere). The scan carries the county's OCR text layer but it is unreliable on figures - it turned $2,309.71 into $2,109.71 and dropped one contributor's name entirely - so every value here comes from the page image, with the arithmetic gate deciding. NOT REDACTED and no privacy problem in the source: the Mailing Address column prints full street addresses, which were discarded AT READ TIME; only donor_city and donor_state were kept. The first contribution row is not an outside donation at all - it is the candidate's unspent 2014 committee balance rolled forward, and its address cell holds that description instead of an address. GEOMETRY: p2's vertical rules are not detected at all (rowbands returns no column rules), so the record supplies x/w while the 82 measured bands - the form's own empty rows, pitch 0.96 - carry y; data rows are bands 4-9 (band 3 is the column header). p3's rules ARE detected across the full table (8.3-49.2%), so its single row is fully measured at band 2. Verified at 700 dpi: p2 band 4 -> '3/9/18 2014 Campaign / Unspent funds from the 2014 campaign / $2,309.71', p2 band 9 -> '10/18/18 Richelle Skaggs / Salt Lake City / 84115 / $3,000.00'."
+ }
 }

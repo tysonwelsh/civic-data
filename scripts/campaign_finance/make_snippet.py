@@ -48,6 +48,9 @@ import tempfile
 import xml.etree.ElementTree as ET
 
 PT_PER_INCH = 72.0
+SPLASH_MAX_BYTES = 2 ** 31   # poppler splash: rowSize*height must fit int32
+SPLASH_BYTES_PER_PX = 3      # RGB8 row stride
+SPLASH_SAFETY = 0.95         # stay clear of the exact boundary
 ROW_PAD_PCT = 0.6      # vertical padding around the value band, in % of page height
 VALUE_PAD_PCT = 0.35
 
@@ -64,8 +67,12 @@ RE_PX = re.compile(r"^p(\d+):(\d+),(\d+),(\d+),(\d+)@(\d+)dpi$")
 RE_CELL = re.compile(r"^[^!]+![A-Z]+\d+$")
 
 
-def page_size_pts(pdf, page):
-    """(width_pts, height_pts) of one page via pdfinfo -f/-l."""
+def page_box_pts(pdf, page):
+    """(mediabox_width_pts, mediabox_height_pts, rotation_degrees) of one page.
+
+    These are the values pdfinfo prints: the UNROTATED MediaBox plus the page's /Rotate.
+    Callers almost always want `page_size_pts` (the RENDERED frame) instead.
+    """
     out = subprocess.run(["pdfinfo", "-f", str(page), "-l", str(page), pdf],
                          capture_output=True, text=True, check=True).stdout
     m = re.search(r"Page +\d+ +size: +([\d.]+) x ([\d.]+) pts", out)
@@ -73,7 +80,30 @@ def page_size_pts(pdf, page):
         m = re.search(r"Page size: +([\d.]+) x ([\d.]+) pts", out)
     if not m:
         die("could not read page size from pdfinfo")
-    return float(m.group(1)), float(m.group(2))
+    r = re.search(r"Page +\d+ +rot: +(-?\d+)", out) or re.search(r"Page rot: +(-?\d+)", out)
+    rot = int(r.group(1)) % 360 if r else 0
+    return float(m.group(1)), float(m.group(2)), rot
+
+
+def page_size_pts(pdf, page):
+    """(width_pts, height_pts) of one page AS POPPLER RENDERS IT — /Rotate APPLIED.
+
+    pdfinfo prints the UNROTATED MediaBox, but every consumer of this function works in
+    the RENDERED frame:
+
+      * `pdftoppm` rasterizes with /Rotate applied, and its -x/-y/-W/-H crop window is in
+        that rendered raster; and
+      * `pdftotext -bbox` emits WORD coordinates in that same rotated frame (only its
+        <page> header keeps the unrotated MediaBox — verified against a /Rotate 90
+        specimen: a word at unrotated y_top 74.77-96.97 pts on a 612x792 page reports
+        xMin/xMax 695.03/717.23, i.e. 792 - y_top, which exceeds the reported page width).
+
+    On a /Rotate 90|270 page the axes are therefore SWAPPED relative to pdfinfo, and a
+    `pct:` box measured against the render resolved somewhere else entirely. Swapping
+    here fixes the pct, px and span paths at once. On /Rotate 0|180 it is a no-op.
+    """
+    w, h, rot = page_box_pts(pdf, page)
+    return (h, w) if rot in (90, 270) else (w, h)
 
 
 def bbox_words(pdf, page):
@@ -175,6 +205,36 @@ def region_string(page, pct_box):
     return f"{page}/pct:{x:.2f},{y:.2f},{w:.2f},{h:.2f}"
 
 
+def _fit_dpi(pw_pts, ph_pts, dpi):
+    """Clamp `dpi` so the FULL-PAGE raster stays inside poppler's splash allocation guard.
+
+    `pdftoppm -x/-y/-W/-H` crops a window out of a page it still rasterizes WHOLE, so the
+    ceiling is set by the page, not by the crop. Splash allocates rowSize*height bytes with
+    rowSize = 3*width (RGB8) and guards that product against int32. Past it poppler prints
+    "Bogus memory allocation size" to stderr, EXITS 0, and writes an all-white PNG — a
+    silent blank that reads as evidence of absence.
+
+    This bites oversized-MediaBox pages, where a scan is placed at ~1 pt per source pixel:
+    weber_county 2026_ugd_92078f_f36d6ca9.pdf is 2310 x 3012 pts, so `--dpi 900` asks for a
+    28875 x 37650 raster and returns blank (measured 2026-08-18; the same page renders
+    normally to 700 dpi, and a letter page holds to 2000 dpi).
+
+    Clamping keeps the requested REGION exactly and only lowers its resolution to the most
+    poppler can give, with a printed notice. Returns `dpi` unchanged where it already fits.
+    """
+    budget = SPLASH_MAX_BYTES / SPLASH_BYTES_PER_PX          # max full-page pixels
+    want = (pw_pts / PT_PER_INCH) * (ph_pts / PT_PER_INCH)   # px per dpi^2
+    if want <= 0 or want * dpi * dpi < budget:
+        return dpi
+    fit = int((budget / want) ** 0.5 * SPLASH_SAFETY)
+    fit = max(72, fit)
+    print(f"dpi clamped {dpi} -> {fit}: a {int(pw_pts / PT_PER_INCH * dpi)} x "
+          f"{int(ph_pts / PT_PER_INCH * dpi)} px full-page raster exceeds poppler's "
+          f"allocation guard (oversized MediaBox {pw_pts:.0f} x {ph_pts:.0f} pts); "
+          f"the region is unchanged, only its resolution")
+    return fit
+
+
 def cut_png(pdf, page, pct_box, out, dpi, row_mode):
     pw_pts, ph_pts = page_size_pts(pdf, page)
     x, y, w, h = pct_box
@@ -186,15 +246,21 @@ def cut_png(pdf, page, pct_box, out, dpi, row_mode):
     if not row_mode:
         x = max(0.0, x - pad)
         w = min(100.0 - x, w + 2 * pad)
+    dpi = _fit_dpi(pw_pts, ph_pts, dpi)
     scale = dpi / PT_PER_INCH
     px = {"x": int(x / 100 * pw_pts * scale), "y": int(y / 100 * ph_pts * scale),
           "W": max(1, int(w / 100 * pw_pts * scale)),
           "H": max(1, int(h / 100 * ph_pts * scale))}
-    subprocess.run(["pdftoppm", "-png", "-r", str(dpi), "-f", str(page), "-l", str(page),
-                    "-x", str(px["x"]), "-y", str(px["y"]),
-                    "-W", str(px["W"]), "-H", str(px["H"]),
-                    "-singlefile", pdf, out[:-4] if out.endswith(".png") else out],
-                   check=True, capture_output=True)
+    r = subprocess.run(["pdftoppm", "-png", "-r", str(dpi), "-f", str(page), "-l", str(page),
+                        "-x", str(px["x"]), "-y", str(px["y"]),
+                        "-W", str(px["W"]), "-H", str(px["H"]),
+                        "-singlefile", pdf, out[:-4] if out.endswith(".png") else out],
+                       check=True, capture_output=True, text=True)
+    if "Bogus memory allocation" in (r.stderr or ""):
+        # Belt-and-braces: _fit_dpi should have prevented this. Never let a silently
+        # BLANK crop out the door — a white PNG reads as evidence of absence.
+        die(f"poppler refused the page raster at {dpi} dpi (\"Bogus memory allocation "
+            f"size\"); the crop would be BLANK, not empty. Lower --dpi.")
 
 
 def main():

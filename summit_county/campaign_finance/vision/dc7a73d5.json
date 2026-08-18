@@ -47,6 +47,118 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2024 sheet — the typed counterpart of the filer's handwritten Pre-Election sheet (doc 24233), same figures. Previous Report column left blank. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typed 2024 sheet — the typed counterpart of the filer's handwritten Pre-Election sheet (doc 24233), same figures. Previous Report column left blank. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "947.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,26.08,84.00,2.82@p2",
+   "geometry_fit": "measured",
+   "note": "date cell prints only '2024' - a YEAR with no month or day; left BLANK per the strict-date rule",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "754.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.90,21.06,35.54,2.79@p3",
+   "geometry_fit": "measured",
+   "note": "date printed '1.2.24' with dot separators",
+   "page": 3,
+   "band": 2
+  },
+  {
+   "line_no": 2,
+   "date": "2024-03-12",
+   "vendor_raw": "Richards Signs",
+   "purpose": "yard signs",
+   "amount": "157.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.90,23.85,35.54,2.79@p3",
+   "geometry_fit": "measured",
+   "note": "date printed '3.12.24'",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 3,
+   "date": "2024-03-17",
+   "vendor_raw": "Winco Foods",
+   "purpose": "candy for tables",
+   "amount": "34.32",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.90,26.64,35.54,2.79@p3",
+   "geometry_fit": "measured",
+   "note": "date printed '3.17.24'",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "947.20",
+    "itemized": "947.20",
+    "result": "exact",
+    "detail": "exact - one self-funding row equal to the page TOTAL and the cover"
+   },
+   "expenditures": {
+    "stated": "947.20",
+    "itemized": "947.20",
+    "result": "exact",
+    "detail": "exact - 754.95 + 157.93 + 34.32 = 947.20"
+   }
+  },
+  "page_gates": "p2 prints TOTAL: $947.20 against one row of $947.20; p3 prints TOTAL: $947.20 and its three rows sum to 947.20 (754.95 + 157.93 + 34.32). The cover states 947.20 on both sides.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2024 sheet. The contribution row's DATE CELL HOLDS ONLY A YEAR ('2024') - no month, no day - so the date is recorded BLANK with the verbatim in the row note and flagged, never completed to a day. The expense dates use DOT separators ('1.2.24', '3.12.24', '3.17.24'), a format the born-digital date grammar does not know and the field-shift specimen's class; read here by a human eye, so no shift occurred. Entirely self-funded: the filing fee plus yard signs and candy."
+ }
 }

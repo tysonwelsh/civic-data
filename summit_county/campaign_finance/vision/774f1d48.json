@@ -52,6 +52,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover, all three columns printed."
+ "itemized_transcribed": true,
+ "notes": "Typed cover, all three columns printed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-03-09",
+   "donor_raw": "Christopher F. Robinson",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "254.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.94,21.24,75.76,1.77@p2",
+   "geometry_fit": "measured",
+   "note": "self-funding - the donor is the candidate. Verified at 900 dpi tight crop; P.O. box discarded per the privacy contract.",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "254.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.01,21.24,75.34,1.87@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "254.00",
+    "itemized": "254.00",
+    "result": "exact",
+    "detail": "exact - one row of 254.00 equals the page's printed >$50 box AND the cover's 254.00. This is a split50 sheet but NO structural residual arises: the <=$50 aggregate box is printed as an explicit $0.00, so the >$50 itemization is the entire stated total."
+   },
+   "expenditures": {
+    "stated": "254.00",
+    "itemized": "254.00",
+    "result": "exact",
+    "detail": "exact - one row of 254.00 equals the page's printed 'Total amount of expenditures $254.00' and the cover"
+   }
+  },
+  "page_gates": "p2's split50 pair is filled on BOTH sides: 'more than $50' = $254.00 and '$50 or less' = $0.00, so the itemization is the whole of the contribution total. The single row reproduces the >$50 box to the cent. p3 prints 'Total amount of expenditures $254.00' and its single row reproduces it. Cover 254.00 / 254.00 / balance 0.00 agrees with both pages.",
+  "escalations": 1,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A SHORT-GRID variant of the 2018 form: instead of ~36 empty rows, this sheet prints only 6 contribution bands and 4 expense bands, so the row-band count itself is a tight check (1 filled + the rest empty). Fully TYPED with a faithful OCR layer; both pages read full-page at 200 dpi and the contribution row re-read on a 900 dpi tight crop as the geometry spot-check (reproduced '3/9/18 | Christopher F. Robinson | ... Park City, UT | 84098 | $254.00'). No template specimen rows. Every page carries a printed footer block with the candidate's name and mailing address and 'Date Printed: 10/19/18' - a genuine print-date, not a transaction date, and not transcribed as one. THE WHOLE CAMPAIGN IS ONE SELF-FUNDING TRANSACTION: the candidate contributed $254.00 to himself on 3/9/18 and paid exactly that to the Summit County Clerk as the filing fee the same day, closing to a zero balance. Privacy: the Mailing Address column carries a P.O. box, which is discarded at read time - only city/state are retained."
+ }
 }

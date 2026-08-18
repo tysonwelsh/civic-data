@@ -150,9 +150,15 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
   **wave-B2 vision itemization of SLCo's handwritten legacy era — QUEUE CLOSED 2026-08-03**
   (22,871 rows over 496 of 496 clerk-legacy filings, double-gated + geometry-anchored;
   855 sides exact-reconciled, 80 filer-arithmetic deltas verbatim, 8 sides across 5
-  filings are documented no-schedule-page gaps ~$121k/$120k) — the other counties'
-  scanned majorities are NOT itemized (Phase B continues): empty itemized = NOT TRANSCRIBED, never "no donors". Salt Lake CITY's first
-  CF rows also exist (2003 cycle, 222+162 rows — see slc's caveat). Read
+  filings are documented no-schedule-page gaps ~$121k/$120k). **FOUR MORE COUNTIES CLOSED
+  2026-08-14..18** (Phase B waves, same B2 contract): **juab 27/27** (187 rows) ·
+  **wasatch 111/111** (851) · **summit 131/131 filings, queue closed 2026-08-17**
+  (2,600 vision rows, 100% geometry; 5 sides withheld with stated reasons) ·
+  **weber 98/98, closed 2026-08-18** (2,616 rows, 100% geometry, ZERO withheld).
+  Still NOT itemized beyond their born-digital slices: **utah, cache (pre-2022),
+  washington** — empty itemized there = NOT TRANSCRIBED, never "no donors". Salt Lake CITY's first
+  CF rows also exist (2003 cycle, **10 filings / 248+176 rows** after the 2026-08-14
+  IA-interstitial retry cleared the last 2 blocked filings — see slc's caveat). Read
   each county's `cf-*` caveat row + `campaign_finance/AVAILABILITY.md` before comparing
   across counties: regimes differ (cumulative vs per-period, sometimes per candidate).
 - **Adopted ordinances** (what did Ordinance X do; who voted for it): `gov.db`

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:11:00Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Bahram Rahimzadegan",
  "office_stated": "Recorder / Surveyor",
  "report_type_stated": "December 5 (final report)",
@@ -44,5 +44,158 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN final report; nothing new since October. County-redacted address."
+ "notes": "HANDWRITTEN final report; nothing new since October. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/2/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:15.20,3.90,2.80,10.85@p123",
+   "geometry_frame": "p123 axis=x cell=3.90-14.75 rowband=15.20-18.00 (1 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding"
+  },
+  {
+   "line_no": "2",
+   "date": "1/20/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:18.00,3.90,2.80,10.85@p123",
+   "geometry_frame": "p123 axis=x cell=3.90-14.75 rowband=18.00-20.80 (2 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding"
+  },
+  {
+   "line_no": "3",
+   "date": "7/23/2024",
+   "donor_raw": "Leann Kilts",
+   "donor_city": "Plain City",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:20.80,3.90,3.00,10.85@p123",
+   "geometry_frame": "p123 axis=x cell=3.90-14.75 rowband=20.80-23.80 (3 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Canidate Filing Fee",
+   "amount": "747.61",
+   "confidence": "medium",
+   "geometry": "pct:19.70,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=19.70-22.76 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Filing Service Fee",
+   "amount": "18.69",
+   "confidence": "medium",
+   "geometry": "pct:22.76,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=22.76-25.82 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Test Flyer Print",
+   "amount": "1.48",
+   "confidence": "medium",
+   "geometry": "pct:25.82,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=25.82-28.88 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Print Flyers",
+   "amount": "22.94",
+   "confidence": "medium",
+   "geometry": "pct:28.88,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=28.88-31.94 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "4/1/2024",
+   "vendor_raw": "Weber County Republican GOP Website",
+   "purpose": "Convention Table Fee",
+   "amount": "100.00",
+   "confidence": "medium",
+   "geometry": "pct:31.94,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=31.94-35.00 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "10/2/2024",
+   "vendor_raw": "Smiths Food",
+   "purpose": "Candy for Canidate Meet",
+   "amount": "16.47",
+   "confidence": "medium",
+   "geometry": "pct:35.00,1.64,3.06,10.70@p124",
+   "geometry_frame": "p124 axis=x cell=1.64-12.34 rowband=35.00-38.06 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    122,
+    123,
+    124
+   ],
+   "itemized_pages_A": "123",
+   "itemized_pages_B": "124",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 1,450.00' on p123, equal to the cover's Cumulative Totals cell (1450.00)",
+     "detail": "3 Form A rows (1,000.00 + 300.00 + 150.00) sum to 1,450.00 exactly = the schedule's printed total = the cover's CUMULATIVE column. This is the scope case the rubric calls 'exact', and it is the opposite of the period-scoped filings elsewhere in this chunk: this is a December-5 FINAL report on which the filer wrote 0 in the whole This-Report column (nothing happened between the October report and the final), so the only cover figure the schedule can match is the cumulative one - and it matches to the cent, over a schedule that restates the entire cycle back to 1/2/2024. Anchoring on This Report (0) would be the wrong-scope figure. Nothing was synthesized by differencing covers. 2024 3-line variant, no separate <=$50 aggregate line. No in-kind rows, so both in-kind conventions agree."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 907.19' on p124, equal to the cover's Cumulative Totals cell (907.19)",
+     "detail": "6 Form B rows (747.61 + 18.69 + 1.48 + 22.94 + 100.00 + 16.47) sum to 907.19 exactly = the schedule's printed total = the cover's Cumulative column, with 0 written in This Report for the same reason. The schedule restates the whole cycle 1/5/2024-10/2/2024."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "Four 700 dpi tight --value crops, two per schedule page, all A3 indexing proofs: p123 row 1 rendered '1,000.00' and row 3 rendered '150.00'; p124 row 1 rendered '747.61' and row 6 rendered '16.47'. No legibility escalation was needed: the cover is handwritten but both schedules are typed, and both sides closed exactly on the first full-page read. (These three pages are ordinary 612x792 pt letter pages - unlike pp.161-164 of this same archive, whose 2550x3300 pt mediabox defeats a 900 dpi crop.)",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "HANDWRITTEN cover (signed 12/3/24, December-5 final report) over TYPED schedules; p122 cover, p123 Form A, p124 Form B, both schedules bound as rotated landscape sheets. The filer wrote a bare '0' in every This-Report cell and the cover's three columns close (1450.00 + 0 = 1450.00; 907.19 + 0 = 907.19; 542.81 + 0 = 542.81), so both schedules are CUMULATIVE-scoped restatements of the whole cycle - the only two 'exact' (rather than period-exact) sides among the 2024 filings in this chunk. PRIVACY: the county blacked out the candidate's whole address block on the cover, but Form A prints donor street addresses in the clear - they are NOT carried (city/state only), and the county's redaction is again shown to be applied to the cover but not to the schedules. The candidate self-funded 1,300 of the 1,450 raised. Two filer misspellings are kept verbatim ('Canidate Filing Fee', 'Candy for Canidate Meet'), as is the payee 'Weber County Republican GOP Website' for what the purpose column calls a convention table fee. The cover's December-5 checkbox carries the county's own stale year ('through December 31, 2022' on a 2024 form) - a form-template defect seen on every 2024 cover in this chunk."
+  }
+ }
 }

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:05:38Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Neil Hansen",
  "office_stated": "clerk/auditor",
  "report_type_stated": "",
@@ -49,5 +49,98 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN form; NO report-type box is checked (honest blank, not inferred). RECEIVED stamp OCT 27 2014. Line-1 'Totals for This Report' cell was written over a scribbled-out earlier figure with 722.22 written above it - read as 722.22 at medium confidence; the cumulative cell reads 722.22 clearly. Office written lower-case 'clerk/auditor'."
+ "notes": "HANDWRITTEN form; NO report-type box is checked (honest blank, not inferred). RECEIVED stamp OCT 27 2014. Line-1 'Totals for This Report' cell was written over a scribbled-out earlier figure with 722.22 written above it - read as 722.22 at medium confidence; the cumulative cell reads 722.22 clearly. Office written lower-case 'clerk/auditor'.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3-20-14",
+   "donor_raw": "Debbie Hansen",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "552.22",
+   "confidence": "high",
+   "geometry": "pct:80.62,83.78,3.00,10.32@p2",
+   "geometry_frame": "p2 axis=x cell=83.78-94.10 rowband=80.62-83.62 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "4-11-14",
+   "donor_raw": "Debbie Hansen",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "170.00",
+   "confidence": "medium",
+   "geometry": "pct:77.57,83.78,3.05,10.32@p2",
+   "geometry_frame": "p2 axis=x cell=83.78-94.10 rowband=77.57-80.62 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "surname re-read at a 600 dpi tight crop; the second row's capital is looped and reads slightly differently from row 1's, but the same hand and the same address make 'Hansen' the reading"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3-20-14",
+   "vendor_raw": "Weber Co Clerk Office",
+   "purpose": "Filing Fee",
+   "amount": "552.22",
+   "confidence": "high",
+   "geometry": "pct:78.77,85.03,3.03,10.28@p3",
+   "geometry_frame": "p3 axis=x cell=85.03-95.31 rowband=78.77-81.80 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "4-11-14",
+   "vendor_raw": "Weber Co Democrats",
+   "purpose": "Donation",
+   "amount": "170.00",
+   "confidence": "high",
+   "geometry": "pct:75.84,85.03,2.93,10.28@p3",
+   "geometry_frame": "p3 axis=x cell=85.03-95.31 rowband=75.84-78.77 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "this == cumulative (722.22)",
+     "detail": "552.22 + 170.00 = 722.22 = the schedule's printed total and the cover's line 1 in both columns"
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "this == cumulative (722.22)",
+     "detail": "552.22 + 170.00 = 722.22 = printed schedule total = cover line 3"
+    }
+   },
+   "escalations": 1,
+   "escalation_note": "one TIGHT CROP at 600 dpi on the two Form A donor-name cells (a legibility question the page's arithmetic cannot decide); the amounts themselves needed no escalation",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 4,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Handwritten schedules on a rotated landscape scan. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

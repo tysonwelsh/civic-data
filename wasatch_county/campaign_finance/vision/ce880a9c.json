@@ -1,114 +1,362 @@
 {
-  "_meta": {
-    "index_path": "raw/2010/2010_James-Koson-6-15-10.pdf",
-    "cache_key": "ce880a9c",
-    "entity": "wasatch_county",
-    "election_year": "2010",
-    "reporting_period_index": "June 2010 (pre-primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James Wade Koson",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2010/2010_James-Koson-6-15-10.pdf",
+  "cache_key": "ce880a9c",
+  "entity": "wasatch_county",
+  "election_year": "2010",
+  "reporting_period_index": "June 2010 (pre-primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_01_2010.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5",
+     "itemized": "2250.00",
+     "result": "delta",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "delta 2245.00 - 5 row(s) sum to 2250.00 against cover line 1 (>$50, from form A), CUMULATIVE column, which prints 5. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: delta 2245.00 - FILER ERROR, proven by the document itself. The cover's line-1 cell reads a bare '5' in BOTH the THIS REPORT and CUMULATIVE columns (re-read on the full cover page; there is no larger figure hiding in the cell - the same filer writes '2,250' with a comma two lines below). Form A itemizes exactly FIVE contributions totalling 2,250.00, and the filer's own line-3 expenses (2,250) with a line-4 balance of 0 can only close if contributions were 2,250. The filer wrote the NUMBER OF CONTRIBUTORS in the dollar cell. Both figures retained verbatim; no row adjusted and the stated total is NOT recomputed.",
+     "published_stated": "5",
+     "csv_reconciles": "False",
+     "csv_delta": "2245.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Attorney",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "County wide",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Midway",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Brent Titcomb, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "15 June 2010",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "5",
-        "confidence": "medium"
-      },
-      "cumulative": {
-        "value": "5",
-        "confidence": "medium"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2,250",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2,250",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2250",
+     "itemized": "2250.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (2250.00 = 2250, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "2250",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "no per-page subtotal on this form; Form B closes exactly on the cover, and Form A closes on the balance identity (2250 in - 2250 out = 0 printed)",
+   "escalations": 0,
+   "escalation_note": "cover page re-read in full to test whether line 1 held a larger figure - it does not",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 6,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten, light pencil-like hand. ONE PRINTED ROW OF FORM B CARRIES TWO PAYEES AND TWO AMOUNTS ('Wasatch County, CRC Design' / 'Application Fee, signs' / '$450, $200') - split into two rows here, both anchored to the same printed row slot, because they are two distinct expenditures the filer wrote on one line. Amounts are written without cents ('1,000', '650', '200') - transcribed as .00. A word preceding 'Wasatch County Attorney' in the office field is scribbled out (recorded in the cover cache)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James Wade Koson",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Line 1 (>$50) reads as a bare '5' in both the THIS REPORT and CUMULATIVE columns \u2014 transcribed verbatim at medium confidence; it does not reconcile with the $2,250 of expenses and $0 balance the same filer printed. A word preceding 'Wasatch County Attorney' in the office field is scribbled out."
+  "office_verbatim": {
+   "value": "Wasatch County Attorney",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "County wide",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Midway",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Brent Titcomb, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "15 June 2010",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "5",
+    "confidence": "medium"
+   },
+   "cumulative": {
+    "value": "5",
+    "confidence": "medium"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2,250",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2,250",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Line 1 (>$50) reads as a bare '5' in both the THIS REPORT and CUMULATIVE columns — transcribed verbatim at medium confidence; it does not reconcile with the $2,250 of expenses and $0 balance the same filer printed. A word preceding 'Wasatch County Attorney' in the office field is scribbled out.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2010-06-05",
+   "donor_raw": "J. Wade Kolson",
+   "donor_city": "Midway",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "note": "written '1,000'; address is a PO box in Midway 84049 - box discarded per PRIVACY, city kept",
+   "geometry": "pct:6.00,9.30,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2010-05-01",
+   "donor_raw": "Jim and Valerie Kolson",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "650.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 0,
+   "note": "written '650'; street discarded per PRIVACY",
+   "geometry": "pct:6.00,11.57,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2010-05-15",
+   "donor_raw": "Jim and Linda Whitaker",
+   "donor_city": "Midway",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 0,
+   "note": "written '200'; the filer printed only 'Midway 84049' in the address cell",
+   "geometry": "pct:6.00,13.84,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2010-05-15",
+   "donor_raw": "Bill and Beverly Probst",
+   "donor_city": "Midway",
+   "donor_state": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=high",
+   "verified": 0,
+   "note": "surname read from a cramped hand as 'Probst'; date cell reads '5/15/10' with the day digits crowded",
+   "geometry": "pct:6.00,16.11,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2010-05-15",
+   "donor_raw": "Cecil Duvall",
+   "donor_city": "Midway",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "note": "written '100'",
+   "geometry": "pct:6.00,18.38,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2010-06-05",
+   "vendor_raw": "CRC Design",
+   "purpose": "signs",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "written '1,000'",
+   "geometry": "pct:6.00,7.90,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2010-05-01",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Application Fee",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "FIRST of two expenditures the filer wrote on ONE printed row ('Wasatch County, CRC Design' / 'Application Fee, signs' / '$450, $200'); split, geometry points at the shared row slot",
+   "geometry": "pct:6.00,10.18,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 1,
+   "date": "2010-05-01",
+   "vendor_raw": "CRC Design",
+   "purpose": "signs",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "SECOND expenditure on the same printed row as line 2",
+   "geometry": "pct:6.00,10.18,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 2,
+   "date": "2010-05-15",
+   "vendor_raw": "CRC Design",
+   "purpose": "signs",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,12.46,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 3,
+   "date": "2010-05-15",
+   "vendor_raw": "CRC Design",
+   "purpose": "signs",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,14.74,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 4,
+   "date": "2010-05-15",
+   "vendor_raw": "The Store",
+   "purpose": "refreshments for calling night",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,17.02,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

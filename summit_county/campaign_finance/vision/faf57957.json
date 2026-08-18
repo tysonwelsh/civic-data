@@ -47,6 +47,172 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2022 single-total sheet; address redacted by the county. Carries the clerk's printed instruction box confirming the Last-Report column semantics. Last Report column left blank."
+ "itemized_transcribed": true,
+ "notes": "Typed 2022 single-total sheet; address redacted by the county. Carries the clerk's printed instruction box confirming the Last-Report column semantics. Last Report column left blank.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-24",
+   "donor_raw": "Stewart Grow",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,22.40,76.10,1.73@p2",
+   "geometry_fit": "declared",
+   "note": "mailing address + zipcode redacted by the county (erased/whited on the scan, residual strokes visible in the cell), not left empty by the filer",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2022-02-25",
+   "donor_raw": "Dorothy Adams",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,24.13,76.10,1.73@p2",
+   "geometry_fit": "declared",
+   "note": "mailing address + zipcode redacted by the county (erased/whited on the scan, residual strokes visible in the cell), not left empty by the filer",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2022-02-26",
+   "donor_raw": "Red Barn Landscaping",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,25.86,76.10,1.73@p2",
+   "geometry_fit": "declared",
+   "note": "mailing address + zipcode redacted by the county (erased/whited on the scan, residual strokes visible in the cell), not left empty by the filer",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 4,
+   "date": "2022-10-24",
+   "donor_raw": "Cindy M Keyes",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "991.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,27.59,76.10,1.73@p2",
+   "geometry_fit": "declared",
+   "note": "mailing address + zipcode redacted by the county (erased/whited on the scan, residual strokes visible in the cell), not left empty by the filer; the candidate's own money, dated 10/24/22 and exactly equal to the outstanding expense balance - the cover's campaign balance is 0.00",
+   "page": 2,
+   "band": 6
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "666.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.20,31.08,73.90,1.75@p3",
+   "geometry_fit": "declared",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-09",
+   "vendor_raw": "PC Printink",
+   "purpose": "Campaign Printing",
+   "amount": "305.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.20,32.83,73.90,1.75@p3",
+   "geometry_fit": "declared",
+   "note": "",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2022-10-09",
+   "vendor_raw": "Square Space",
+   "purpose": "Campaign Website",
+   "amount": "270.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.20,34.58,73.90,1.75@p3",
+   "geometry_fit": "declared",
+   "note": "",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1241.79",
+    "itemized": "1241.79",
+    "result": "exact",
+    "detail": "exact - 4 rows sum to 1,241.79 = the cover's contribution figure (current_report AND cumulative_totals both 1,241.79, last_report blank: first report of the cycle, so the cumulative-vs-period question does not bite here). The page prints no total of its own. Specimen row $435.00 excluded."
+   },
+   "expenditures": {
+    "stated": "1241.79",
+    "itemized": "1241.79",
+    "result": "exact",
+    "detail": "exact - 3 rows sum to 1,241.79 = the page's OWN printed box 'Total amount of expenditures 1,241.79' AND the cover. Specimen row $512.00 excluded."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT prints NO section total of its own; the gate is the cover's contribution figure 1,241.79, which the 4 real rows reproduce to the cent. p3 ITEMIZED EXPENSE REPORT prints its OWN boxed total above the grid, 'Total amount of expenditures 1,241.79', matching the cover; the 3 real rows reproduce it to the cent. BOTH pages carry the blank county form's SPECIMEN row still in place - p2 '8/25/10 Jon and Jane Doe $435.00', p3 '8/25/10 Name of Business / Campaign signs and flyers / $512.00' - and both totals close ONLY with the specimens dropped (with them the sides would be 1,676.79 and 1,753.79). That is the proof, not an assumption.",
+  "escalations": 0,
+  "n_contrib_rows": 4,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 0,
+   "declared": 7,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Cindy Marchant Keyes, County Auditor, 2022 Pre-Election. The COUNTY'S BLANK FORM typed into (not a filer spreadsheet), 3 pages: p1 cover, p2 contributions, p3 expenses; ~40 and ~35 empty ruled rows follow the data on each. No embedded text layer (draft.py returned zero lines on both pages), so both ledger pages were read full-page at 200 dpi. ADDRESSES ARE REDACTED BY THE COUNTY, NOT LEFT EMPTY BY THE FILER: the Mailing Address and Zipcode cells of the real donor rows are erased/whited on the scan with residual strokes and part-glyphs still visible inside the cells (this filing's p2 also has no City or State column at all - the 2022 county contribution form prints only Date / Name of Contributor / Mailing Address / Zipcode / Amount), so donor_city and donor_state are honestly BLANK on every row. The form's own printed title on p2 reads '2022 Campaign Finacial Report' - the COUNTY's typo in the blank form, not the filer's, kept verbatim here only as a note. GEOMETRY: this sheet's printed rules ARE cleanly detected (40 uniform bands on p2, 35 on p3), and the band INDEXING below is that measured grid - but the detected VERTICAL rules start at 40.37% on p2 and 20.32% on p3, i.e. at an interior column rule, so a measured box would clip the Date and Name columns out of every row. Both sides therefore ship on force_declared frames that keep the measured y0/pitch (p2 y0=18.93 pitch=1.7328 from bands 1 and 40; p3 y0=27.59 pitch=1.7465 from bands 1 and 35) and widen x/w to the table's true printed edges. Band 1 is the COLUMN HEADER on both pages and band 2 is the specimen row, so the real rows are bands 3-6 (p2) and 3-5 (p3). Verified end to end at 500 dpi: p2 band 3 -> '2/24/22 Stewart Grow $100.00', p2 band 6 -> '10/24/22 Cindy M Keyes $991.79', p3 band 3 -> '2/28/22 Summit County Clerk / Filing Fee / $666.21', p3 band 4 -> '3/9/22 PC Printink / Campaign Printing / $305.34'."
+ }
 }

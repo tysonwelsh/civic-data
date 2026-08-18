@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:08:05Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Scott K Jenkins",
  "office_stated": "County Commissioner Seat B",
  "report_type_stated": "January 7th, 2019 (final report)",
@@ -44,5 +44,58 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN 2018 3-line form (p24 of the 2018 archive). Line-1 'this report' written as '-0' - kept verbatim. Line-4 'this report' is written 695.00 as a positive though the balance DECREASES by that amount (2,918.09 -> 2,223.09); the filer's sign convention, retained."
+ "notes": "HANDWRITTEN 2018 3-line form (p24 of the 2018 archive). Line-1 'this report' written as '-0' - kept verbatim. Line-4 'this report' is written 695.00 as a positive though the balance DECREASES by that amount (2,918.09 -> 2,223.09); the filer's sign convention, retained.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "12-18-18",
+   "vendor_raw": "Standard Examiner",
+   "purpose": "advertising",
+   "amount": "695.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:15.51,5.35,4.48,10.23@p26",
+   "geometry_frame": "p26 axis=x cell=5.35-15.58 rowband=15.51-19.99 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the form's separate City column reads 'Ogden'; Form B has no field for it in the row contract, so it is recorded here rather than folded into the vendor name. Amount is written '695' with a superscript '00' cents."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    24,
+    25,
+    26
+   ],
+   "itemized_pages_A": "25",
+   "itemized_pages_B": "26",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 695.00, which is the cover's Totals-for-THIS-REPORT cell (695.00)",
+     "detail": "the single Form B row (695.00, Standard Examiner, 12-18-18) sums to 695.00 = the schedule's printed total = the cover's This-Report column on line 2. Cumulative 9,203.52 = 8,508.52 carried from the last report + 695.00, and the prior-period expenditures are not itemized on this schedule."
+    }
+   },
+   "escalations": 1,
+   "escalation_note": "one 900 dpi tight --value crop on p26 row 1's amount cell to prove the measured row band before relying on the frame; it reproduced the printed 695 with the superscript cents.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Scott K Jenkins, County Commissioner Seat B, 2018 cycle \u2014 handwritten 3-line form, January-7th-2019 final-report box ticked, signed 12-30-18. CONTRIBUTIONS: the Form A page (p25) EXISTS and is entirely BLANK \u2014 every printed row empty \u2014 with a handwritten '0 -' in its 'Total Contributions: (to line 1 of report)' box, matching the cover's line-1 This-Report cell written '-0'. That is an empty-schedule (the filer entered nothing), NOT a missing page and NOT an untranscribed one; the zero glyphs are quoted here verbatim and no row was invented. The cover's line-1 cumulative 11,426.61 equals the Totals-from-Last-Report column unchanged. EXPENDITURES: Form B (p26) carries exactly one printed entry. The cover's line-3 'this report' cell is written 695.00 as a POSITIVE though the balance decreases by that amount (2,918.09 -> 2,223.09) \u2014 the filer's own sign convention, retained (also flagged in the 2026-08-01 totals cache). Candidate street address and phones printed on the cover are deliberately NOT carried (PRIVACY.md)."
+  }
+ }
 }

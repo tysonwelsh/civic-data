@@ -52,6 +52,211 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible despite the 'low' OCR sidecar. The Current Report campaign-balance cell is left EMPTY by the filer (blank, not zero). Column-order cross-check: Last Report reproduces doc 1087's Current figures."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible despite the 'low' OCR sidecar. The Current Report campaign-balance cell is left EMPTY by the filer (blank, not zero). Column-order cross-check: Last Report reproduces doc 1087's Current figures.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "withheld",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "contributions": "PERIOD-SCOPED LEDGER, not cumulative - the owner has not ruled on the grain, so no sum is claimed and the rows are parked. The cover's contribution box reads Current $700.00 | Last $9,200.00 | Cumulative $9,900.00 (plus a <=$50 row of Current 0 | Last $225.00 | Cumulative $225.00), and the module publishes the cumulative pair as 10,125.00. The p2 schedule's own handwritten '>$50' box reads $700.00 and its three handwritten rows sum to exactly $700.00 - i.e. the ledger reproduces the CURRENT column, not the cumulative one. The $9,200.00 already reported in the Last column is itemized nowhere in this document.",
+   "expenditures": "PERIOD-SCOPED LEDGER, same proof. The cover reads Current $2,651.07 | Last $7,232.57 | Cumulative $9,888.64 and the module publishes 9,888.64. The p3 schedule's handwritten box reads $2,651.07 and its six rows sum to exactly $2,651.07 - the CURRENT column. 7,232.57 + 2,651.07 = 9,888.64, the filer's own cumulative, so the arithmetic identifies the grain beyond doubt."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "10125.00",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "No sum claimed - side withheld on grain (see withheld_reason). For the record the three rows sum to $700.00, reproducing the page's own '>$50' box to the cent, and the '<=$50' box is a written ZERO (a slashed oval), so the period's contributions are fully itemized at $700.00 with no <=$50 aggregate residual. The 10,125.00 the module states is the cumulative cycle (9,900.00 + a 225.00 <=$50 aggregate carried in the Last column)."
+   },
+   "expenditures": {
+    "stated": "9888.64",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "No sum claimed - side withheld on grain. For the record the six rows sum to $2,651.07, reproducing the page's own handwritten box to the cent. Two amount cells were escalated to a 1200 dpi tight crop before the sum was trusted, precisely because a correlated pair of misreadings would also have closed the page: 403.87 paired with 25.97 sums identically to 405.87 paired with 23.97. At 1200 dpi both cells are unambiguous - 403.87 and 25.97."
+   }
+  },
+  "page_gates": "Both schedules are HANDWRITTEN in blue ink over the printed grid, and on BOTH the form's printed grey SPECIMEN row survives with its amount STRUCK THROUGH IN PEN by the filer - '$435.00' on p2 and '$512.00' on p3 - which is this corpus's most explicit filer statement that the specimen is not a transaction. p2's specimen is additionally dated 8/25/10 on a 2014 form (the second independent tell). GATES: p2's handwritten '>$50' box reads $700.00 and the three handwritten rows sum to $700.00 exactly; p2's '<=$50' box holds a slashed-oval ZERO glyph. p3's handwritten box reads $2,651.07 and the six handwritten rows sum to $2,651.07 exactly. Both closures hold only with the struck specimen amounts EXCLUDED, which is the proof rather than an assumption.",
+  "escalations": 3,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {
+   "contributions": [
+    {
+     "line_no": 1,
+     "date": "2014-10-29",
+     "donor_raw": "CHARLES & MARY WINTZER",
+     "donor_city": "PARK CITY",
+     "donor_state": "UT",
+     "amount": "100.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.55,26.37,78.91,2.38@p2",
+     "geometry_fit": "measured",
+     "note": "the name wraps: 'CHARLES & MARY' on this band and the surname 'WINTZER' alone on the next printed line (band 4); the amount stays on this band. Amount written '100. -' - the trailing dash is the filer's shorthand for '.00'. State not printed on the row; taken as UT from the printed city (Park City) alone, no zip inference",
+     "page": 2,
+     "band": 3
+    },
+    {
+     "line_no": 2,
+     "date": "2014-10-29",
+     "donor_raw": "STEPHEN G. BEEM",
+     "donor_city": "PARK CITY",
+     "donor_state": "UT",
+     "amount": "100.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.55,30.06,78.91,2.35@p2",
+     "geometry_fit": "measured",
+     "note": "amount written '100. -'",
+     "page": 2,
+     "band": 5
+    },
+    {
+     "line_no": 3,
+     "date": "2014-11-10",
+     "donor_raw": "RICHARD D. BURBIDGE",
+     "donor_city": "SLC",
+     "donor_state": "UT",
+     "amount": "500.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.55,31.88,78.91,2.38@p2",
+     "geometry_fit": "measured",
+     "note": "amount written '500. -'; city written 'SLC' - the filer's abbreviation, kept verbatim",
+     "page": 2,
+     "band": 6
+    }
+   ],
+   "expenditures": [
+    {
+     "line_no": 1,
+     "date": "2014-10-06",
+     "vendor_raw": "CORRIE FORSLING",
+     "purpose": "DOOR HANGERS",
+     "amount": "176.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,25.35,83.17,2.27@p3",
+     "geometry_fit": "measured",
+     "note": "amount written with raised cents, '176' over 'oo'",
+     "page": 3,
+     "band": 4
+    },
+    {
+     "line_no": 2,
+     "date": "2014-12-01",
+     "vendor_raw": "HILDER McCOSH PC",
+     "purpose": "REIMBURSE PRINTING - STATIONERY",
+     "amount": "403.87",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,27.40,83.17,2.09@p3",
+     "geometry_fit": "measured",
+     "note": "escalated to a 1200 dpi tight crop; reads 403.87 unambiguously",
+     "page": 3,
+     "band": 5
+    },
+    {
+     "line_no": 3,
+     "date": "2014-12-01",
+     "vendor_raw": "IAN McCOSH",
+     "purpose": "REIMBURSE - FACEBOOK AD FEES",
+     "amount": "25.97",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,29.26,83.17,2.11@p3",
+     "geometry_fit": "measured",
+     "note": "escalated to a 1200 dpi tight crop; reads 25.97 unambiguously",
+     "page": 3,
+     "band": 6
+    },
+    {
+     "line_no": 4,
+     "date": "2014-10-14",
+     "vendor_raw": "STAPLES",
+     "purpose": "PRINTING",
+     "amount": "188.23",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,31.15,83.17,2.11@p3",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 3,
+     "band": 7
+    },
+    {
+     "line_no": 5,
+     "date": "2014-11-04",
+     "vendor_raw": "PARK RECORD",
+     "purpose": "ADVERTISING",
+     "amount": "1132.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,33.04,83.17,2.16@p3",
+     "geometry_fit": "measured",
+     "note": "amount written with raised cents, '1,132' over 'oo'",
+     "page": 3,
+     "band": 8
+    },
+    {
+     "line_no": 6,
+     "date": "2014-03-14",
+     "vendor_raw": "SUMMIT COUNTY",
+     "purpose": "FILING FEE (REIMBURSED 12-3-14)",
+     "amount": "725.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:7.95,34.97,83.17,2.18@p3",
+     "geometry_fit": "measured",
+     "note": "printed out of period and out of date order at the foot of a post-election ledger; the filer's own parenthetical says it was reimbursed 12-3-14. Date well-formed, kept verbatim",
+     "page": 3,
+     "band": 9
+    }
+   ]
+  },
+  "notes": "A handwritten post-election filing whose two struck-through specimen amounts settle the specimen question on the page itself. THE ZERO GLYPH: the '<=$50' box holds a single hand-drawn oval with a stroke through it - a slashed zero, a glyph that DENOTES the digit - so it is recorded as a real zero in this note per the zero-glyph ruling, not as a blank. THE DASH SHORTHAND: two contribution amounts are written '100. -' and one '500. -', the same trailing-dash-for-'and no cents' shorthand established on Martin 2014 (doc 1065); they are 100.00 and 500.00, never blank. Two expense amounts use a superscript-cents form ('176' with a raised 'oo', '1,132' with a raised 'oo') which is the same convention. ONE EXPENSE PREDATES THE PERIOD AND IS STILL IN IT: the 3/14/14 Summit County filing fee of $725.00 sits at the bottom of a post-election ledger, annotated by the filer '(REIMBURSED 12-3-14)' - it is inside the $2,651.07 the filer footed, so it does not disturb the period reading; it is retained with its printed 3/14/14 date, which is well-formed and therefore kept verbatim even though it is out of period and out of sequence. TWO EXPENSES ARE REIMBURSEMENTS TO THE CANDIDATE'S OWN LAW FIRM AND PARTNER ('Hilder McCosh PC' for printing/stationery, 'Ian McCosh' for Facebook ad fees) - recorded as printed, no interpretation added. PRIVACY: all three donor rows print a PO box or street plus a separate zip column; only city and state were taken and no street, box number or zip is recorded here. GEOMETRY: both pages' printed rules resolve full-width measured boxes (the amount column's right rule IS detected on each), so no frame is declared. Contribution rows sit on detected bands 3, 5, 6 and expense rows on bands 4-9; band 4 of p2 is NOT a row - it is the continuation line holding the surname 'WINTZER', because that donor's name wrapped onto a second printed line while its amount stayed on the first. Verified by render at 500 dpi: p2 band 3 -> '10/29/14 CHARLES & MARY ... 100. -' and p3 band 4 -> '10/6/14 CORRIE FORSLING / DOOR HANGERS / 176.00'."
+ }
 }

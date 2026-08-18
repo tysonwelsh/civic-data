@@ -1,86 +1,281 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_DecAArmer.pdf",
-    "cache_key": "cfd50a78",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "December 2020 (30 days after General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Aimee Armer",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_DecAArmer.pdf",
+  "cache_key": "cfd50a78",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "December 2020 (30 days after General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_05.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7871.39",
+     "itemized": "1165.76",
+     "result": "delta",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "delta -6705.63 - 3 row(s) sum to 1165.76 against the cover's own total contributions line, CUMULATIVE column, which prints 7871.39. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: delta of 6705.63 against the cover's CUMULATIVE figure, and the cause is the FORM, not filer arithmetic: this is the cumulative variant and Form A on this face itemizes only what the filer listed on this report. The one row dated inside this reporting period (12/3/2020, 408.76) equals the cover's TOTALS FOR THIS REPORT column EXACTLY; the other two rows are earlier-dated items (10/23/2020 in-kind 132.00 and a 6/28/2020 'Amended-Loan' 625.00) restated on this face. The remaining 6705.63 of the cumulative total sits on prior reports' Form A pages, not in this document. Cover arithmetic itself closes: 7462.63 + 408.76 = 7871.39.",
+     "published_stated": "7871.39",
+     "csv_reconciles": "False",
+     "csv_delta": "-6705.63"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "12/2/2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "30 Days after the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "7462.63",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "408.76",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "7871.39",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "8103.75",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "1274.67",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "9378.42",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "1830.53",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "964.62",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "964.62",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "1274.67",
+     "itemized": "1274.67",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (1274.67 = 1274.67, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 9378.42 this reads as a -8103.75 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "9378.42",
+     "csv_reconciles": "False",
+     "csv_delta": "-8103.75"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant. THIS-REPORT-column gates both fire and PASS: Form A row 3 = 408.76 = cover this-report contributions; Form B rows sum 195.36 + 50.00 + 994.25 + 9.99 + 25.07 = 1274.67 = cover this-report expenses. That second gate is what fixes the ambiguous '$ SD.00' glyph on Form B row 2 as 50.00.",
+   "escalations": 0,
+   "escalation_note": "row geometry recovered by measuring the faint rule grid numerically (Form A first body line y=481 pitch 39.2; Form B first body line y=412 pitch 38.9, 200 dpi) and re-verified on an overlay render",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 5,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 8,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime, scanned. Aimee Armer, 'Wasatch County Council - At Large seat B', Democrat, signed 12/2/2020, '30 Days after the General Election' checked (X). NOTE FOR THE WAVE LEAD: on this filing the itemized pages are PERIOD-SCOPED even though the cover is cumulative, so neither side reconciles to stated_c/stated_e and both are honest deltas with a fully explained cause -- not a filer error. Form B's 'Name of Expenditure' column holds PURPOSES ('Signs for Campaign', 'Facebook ads', 'Postcard Mailing', 'website/101 Domain'), not payee names; kept verbatim in vendor_raw. One donor (row 1) is expressly labelled '(IN-KIND)' with the good described as 'Wasatch Wave Ads' and IS included in the filer's own this-report total, so the in-kind exclusion test of gate (g) was not needed here."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Aimee Armer",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The LAST REPORT column repeats the October report's THIS-REPORT figures (7462.63 / 8103.75) rather than its cumulative totals \u2014 kept verbatim; her December cumulative is therefore lower than her October cumulative on the contribution line."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "12/2/2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "30 Days after the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "7462.63",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "408.76",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "7871.39",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "8103.75",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "1274.67",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "9378.42",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "1830.53",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "964.62",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "964.62",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The LAST REPORT column repeats the October report's THIS-REPORT figures (7462.63 / 8103.75) rather than its cumulative totals — kept verbatim; her December cumulative is therefore lower than her October cumulative on the contribution line.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 1,
+   "date": "2020-10-23",
+   "donor_raw": "Wasatch County Democratic Party (IN-KIND) Wasatch Wave Ads",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "132.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 0,
+   "note": "name cell spans four ruled lines and reads verbatim 'Wasatch County / Democratic Party / (IN-KIND) / Wasatch Wave Ads'. Amount printed '$132-' -- trailing dash after whole dollars, normalized to 132.00 per the currency convention. Address is a PO Box; only the printed city/state are kept.",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 5,
+   "date": "2020-06-28",
+   "donor_raw": "Aimee Armer (Amended-Loan)",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "625.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 0,
+   "note": "candidate self-funding annotated '(Amended-Loan)' verbatim -- a prior-period item restated on this face. Amount printed '$625-' -> 625.00 (trailing-dash convention). Street discarded at read time.",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 7,
+   "date": "2020-12-03",
+   "donor_raw": "Wasatch County Democratic Party",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "408.76",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "equals the cover's TOTALS FOR THIS REPORT contributions cell exactly. The donation date (12/3/2020) is one day AFTER the signature date (12/2/2020) -- kept verbatim, not corrected. PO Box address discarded.",
+   "geometry": "pct:10.00,33.35,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-10-27",
+   "vendor_raw": "Signs for Campaign",
+   "purpose": "",
+   "amount": "195.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "'Name of Expenditure' cell holds a purpose, not a payee; verbatim retained. The address cell named a Sandy, UT vendor -- discarded (expenditure rows carry no address fields).",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 3,
+   "date": "2020-10-29",
+   "vendor_raw": "Facebook ads",
+   "purpose": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 0,
+   "note": "amount glyph is cramped and reads '$ SD.00' at 200 dpi; the page gate (rows must sum to the cover's this-report 1274.67) closes on exactly 50.00, so arithmetic settles the digit (Rhodes rule). Address cell holds 'www.facebook.com'.",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-11-16",
+   "vendor_raw": "Postcard Mailing",
+   "purpose": "",
+   "amount": "994.25",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose written in the payee column; the address cell showed a Las Vegas, NV vendor -- discarded per the no-address rule for expenditures.",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 6,
+   "date": "2020-11-21",
+   "vendor_raw": "website/101 Domain",
+   "purpose": "",
+   "amount": "9.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "cell spans two ruled lines, verbatim 'website/101 . / Domain'; plausibly the registrar 101domain but transcribed exactly as written, not resolved.",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 8,
+   "date": "2020-11-25",
+   "vendor_raw": "Facebook ads",
+   "purpose": "",
+   "amount": "25.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "address cell holds 'www.facebook.com'.",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

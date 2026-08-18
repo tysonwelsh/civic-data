@@ -1,86 +1,262 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_OctJJenkins.pdf",
-    "cache_key": "f6347b6d",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "October 2020 (7 days before General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jason G Jenkins",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_OctJJenkins.pdf",
+  "cache_key": "f6347b6d",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "October 2020 (7 days before General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_04.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "65.00",
+     "itemized": "65.00",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (65.00 = 65.00, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "65.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10-27-2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "65.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "65.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "442.15",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "1826.97",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2269.12",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "442.15",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "1761.97",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2204.12",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "1826.97",
+     "itemized": "1826.97",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (1826.97 = 1826.97, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 2269.12 this reads as a -442.15 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "2269.12",
+     "csv_reconciles": "False",
+     "csv_delta": "-442.15"
     }
+   },
+   "page_subtotal_gates": "No printed page totals on this variant. Filing-level: Form A 65.00 = cover contributions THIS REPORT/CUMULATIVE — GATE PASSES; Form B rows 1,826.97 = cover expenses THIS REPORT — GATE PASSES; cover internal arithmetic 442.15 + 1,826.97 = 2,269.12 also closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 6,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 7,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Jason G. Jenkins, 'County Surveyor', Democrat, '7 Days preceding the General Election' checked, signed 10-27-2020. FILER ERROR RETAINED: the balance line prints 442.15 / 1,761.97 / 2,204.12 as POSITIVE figures against 65.00 of contributions and 2,269.12 of expenses — the campaign is 2,204.12 in deficit, not surplus. Not corrected. The single Form A row's address cell prints only 'MIDWAY, 84049' — no street (nothing to discard) and NO STATE, so donor_state is blank; the state was NOT inferred from the ZIP."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jason G Jenkins",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10-27-2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "65.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "65.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "442.15",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "1826.97",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2269.12",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "442.15",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "1761.97",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2204.12",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-10-26",
+   "donor_raw": "JERRY SPRINGER",
+   "donor_city": "MIDWAY",
+   "donor_state": "",
+   "amount": "65.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount written '65' with superscript 'oo' cents -> 65.00. Address cell holds only 'MIDWAY, 84049'; state not printed and not inferred. Donor name transcribed verbatim as written in block capitals.",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-07-27",
+   "vendor_raw": "CAMPAIGN SIGNS",
+   "purpose": "",
+   "amount": "355.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell 'SIGNSONTHECHEAP.COM'; superscript cents ('355' + raised '08')",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-09-09",
+   "vendor_raw": "ORIENTAL TRADING (STICKERS, LABLES, PROMOTIONAL)",
+   "purpose": "",
+   "amount": "239.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. the payee-and-purpose string runs across the name AND address columns on one ruled line; kept whole and verbatim, including the filer's spelling 'LABLES'. Superscript cents",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-09-19",
+   "vendor_raw": "PRINTING",
+   "purpose": "",
+   "amount": "127.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell 'UPS STORE, HEBER' — the payee is in the address cell, the purpose in the name cell; superscript cents",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2020-10-20",
+   "vendor_raw": "NEWSPAPER AD",
+   "purpose": "",
+   "amount": "328.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell 'WAVE PUBLISHING'; superscript cents",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-09-24",
+   "vendor_raw": "PROMOTIONAL ITEMS",
+   "purpose": "",
+   "amount": "31.48",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell 'WAL-MART, HEBER'; superscript cents",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2020-09-26",
+   "vendor_raw": "CAMPAIGN SIGNS",
+   "purpose": "",
+   "amount": "745.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell 'SIGNSONTHECHEAP.COM'; superscript cents",
+   "geometry": "pct:10.00,26.00,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

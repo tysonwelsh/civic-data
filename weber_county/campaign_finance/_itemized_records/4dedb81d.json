@@ -1,0 +1,485 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_9e369872.pdf",
+  "page_start": 1,
+  "page_end": 4,
+  "key": "4dedb81d",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3,4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): 1,995.76'",
+    "detail": "the 6 Form A rows (931.39 + 13.19 + 12.95 + 248.88 + 339.99 + 449.36) sum to 1,995.76 = the schedule's own printed total = BOTH the cover's 'This Report' cell and its 'Cumulative Total' cell on line 1. The cover's 'Last Report' column is entirely EMPTY (this is the filer's first report of the cycle, the 7-days-before-convention box), so this-report and cumulative coincide and the verdict is exact rather than period-exact."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of ...): 1,995.76', printed on the schedule's SECOND sheet (p4)",
+    "detail": "CONTINUATION-SHEET GATE: Form B runs over two sheets - p3 carries all 11 entries with NO subtotal, p4 carries six empty printed rows and the grand total alone - so the gate is the multi-sheet sum against that grand total. The 11 rows (931.39 + 13.19 + 12.95 + 83.88 + 165.00 + 339.99 + 139.43 + 134.29 + 15.01 + 10.63 + 150.00) sum to 1,995.76 = the printed total = the cover's This Report cell = its Cumulative cell (Last Report empty)."
+   }
+  },
+  "escalations": 5,
+  "escalation_note": "One coverage-restricted rule probe below the redaction bar to recover p2's column rules and its sub-bar row pitch, then four 900 dpi raster crops (make_snippet cannot be used on these pages - see the frames' measure_note): p2 row 2 and p2 row 7, which are the FIRST and LAST data rows of the EXTRAPOLATED part of that page's grid and reproduce 931.39 and 449.36, proving the extrapolation; and p3 rows 2 and 12, which reproduce 931.39 and 150.00. No legibility escalation was needed - both schedules are born-typed and crisp.",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1-7",
+    "donor_raw": "Michael Thomas",
+    "amount": "931.39",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('1-7') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   },
+   {
+    "line_no": "2",
+    "date": "3-17",
+    "donor_raw": "Michael Thomas",
+    "amount": "13.19",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-17') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   },
+   {
+    "line_no": "3",
+    "date": "3-19",
+    "donor_raw": "Michael Thomas",
+    "amount": "12.95",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-19') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   },
+   {
+    "line_no": "4",
+    "date": "3-24",
+    "donor_raw": "Michael Thomas",
+    "amount": "248.88",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-24') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   },
+   {
+    "line_no": "5",
+    "date": "3-31",
+    "donor_raw": "Michael Thomas",
+    "amount": "339.99",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('3-31') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   },
+   {
+    "line_no": "6",
+    "date": "4-1",
+    "donor_raw": "Michael Thomas",
+    "amount": "449.36",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "donor_city and donor_state are BLANK because the COUNTY REDACTED the whole Address column on this schedule before publishing - a single black bar covers all six rows - not because the filer left it empty and not because anything was trimmed here. Nothing behind a government redaction was recovered. The DATE carries NO YEAR as the filer wrote it ('4-1') and no year was supplied from the report date; it will not normalize to ISO. Every row on this schedule is a self-contribution by the candidate and each one matches a same-dated expenditure on Form B to the cent - the campaign is funded transaction-by-transaction out of pocket."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1-7",
+    "vendor_raw": "Weber County Elections",
+    "purpose": "Run for Commissioner",
+    "amount": "931.39",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'Ogden' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+   },
+   {
+    "line_no": "2",
+    "date": "3-17",
+    "vendor_raw": "GoDaddy",
+    "purpose": "Purchase Domain",
+    "amount": "13.19",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "3",
+    "date": "3-19",
+    "vendor_raw": "GoDaddy",
+    "purpose": "Domain Protection",
+    "amount": "12.95",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "4",
+    "date": "3-24",
+    "vendor_raw": "GoDaddy",
+    "purpose": "Web Hosting",
+    "amount": "83.88",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "5",
+    "date": "3-24",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Table and Lunch",
+    "amount": "165.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "6",
+    "date": "3-31",
+    "vendor_raw": "Signs on the Cheap",
+    "purpose": "Business Cards, Yard Signs",
+    "amount": "339.99",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "7",
+    "date": "4-1",
+    "vendor_raw": "Signs on the Cheap",
+    "purpose": "Business Cards",
+    "amount": "139.43",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   },
+   {
+    "line_no": "8",
+    "date": "4-1",
+    "vendor_raw": "Sam's Club",
+    "purpose": "Fruit by the Foot for Meet a",
+    "amount": "134.29",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "PURPOSE IS CLIPPED IN THE SOURCE: the spreadsheet print cuts the text at the column boundary and it reads 'Fruit by the Foot for Meet a' with the rest of the phrase lost. The page has NO text layer (this is a scan), so the clipped text does not exist anywhere in the document; what is printed is transcribed and nothing is completed or guessed. City column prints 'Layton' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+   },
+   {
+    "line_no": "9",
+    "date": "4-1",
+    "vendor_raw": "Sam's Club",
+    "purpose": "Cardstock for printing on",
+    "amount": "15.01",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'Riverdale' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+   },
+   {
+    "line_no": "10",
+    "date": "4-1",
+    "vendor_raw": "WalMart",
+    "purpose": "Stapler and Staples",
+    "amount": "10.63",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'Riverdale' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied."
+   },
+   {
+    "line_no": "11",
+    "date": "4-1",
+    "vendor_raw": "Internet Sherlock",
+    "purpose": "Website Builder",
+    "amount": "150.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "City column prints 'WTC' (no vendor_city field in the row contract). Date carries NO YEAR as written and none was supplied. 'WTC' is the filer's own abbreviation, kept verbatim and not expanded."
+   }
+  ],
+  "notes": "2026-cycle filing, four pages: p1 = the county's new cover (TYPED, the '7 days before the candidates' convention' box marked X, signed 4-2-2026), p2 = Form A, p3 = Form B sheet 1 (all 11 entries), p4 = Form B sheet 2 (six empty printed rows plus the grand total alone). All three schedule pages are TRUE LANDSCAPE carrying /Rotate 270 - with Katrina Gibson's filing (/Rotate 90) these are the only rotated pages in this chunk, and they are the reason the shared make_snippet crop tool could not be used for verification here. FILER CORRECTION HONORED ON THE COVER: the Ending Balance cells were typed 1,995.76, then struck through and replaced with a handwritten slashed-zero initialled 'MT'; the corrected value (0) governs and the struck 1,995.76 is recorded, per the handwritten-correction rule. The cover's 'Last Report' column is entirely blank - this is the filer's first report of the cycle - which is why both sides reconcile as exact rather than period-exact. THE CAMPAIGN IS ENTIRELY SELF-FUNDED AND PASS-THROUGH: every one of the six Form A rows is a contribution from the candidate himself, and each matches a same-dated Form B payment to the cent (931.39 filing fee, 13.19 / 12.95 GoDaddy, 248.88 = 83.88 + 165.00 on 3-24, 339.99 signs, 449.36 = 139.43 + 134.29 + 15.01 + 10.63 + 150.00 on 4-1) - contributions and expenditures both total 1,995.76 and the balance is zero. NO TRANSACTION DATE ON EITHER SCHEDULE CARRIES A YEAR (the filer wrote 1-7, 3-17, 3-19, 3-24, 3-31, 4-1); every one is kept verbatim, flagged, and NO year was inferred from the report date. The county REDACTED the candidate's street address and city/zip on the cover AND the entire Address column of Form A, so all six donor city/state values are honestly blank as county-redacted. No in-kind item is labelled anywhere. Neither schedule prints a per-page subtotal.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     85.5,
+     96.16
+    ],
+    "cells": [
+     [
+      5.07,
+      13.25
+     ],
+     [
+      13.25,
+      43.5
+     ],
+     [
+      43.5,
+      85.5
+     ],
+     [
+      85.5,
+      96.16
+     ]
+    ],
+    "rows": [
+     [
+      13.76,
+      16.95
+     ],
+     [
+      16.95,
+      20.14
+     ],
+     [
+      20.14,
+      23.32
+     ],
+     [
+      23.32,
+      26.51
+     ],
+     [
+      26.51,
+      29.7
+     ],
+     [
+      29.7,
+      32.89
+     ],
+     [
+      32.89,
+      36.07
+     ],
+     [
+      36.07,
+      39.26
+     ],
+     [
+      39.26,
+      42.44
+     ],
+     [
+      42.44,
+      45.59
+     ],
+     [
+      45.59,
+      48.85
+     ],
+     [
+      48.85,
+      51.94
+     ],
+     [
+      51.94,
+      55.12
+     ],
+     [
+      55.12,
+      58.35
+     ],
+     [
+      58.35,
+      61.56
+     ],
+     [
+      61.56,
+      64.79
+     ],
+     [
+      64.79,
+      68.0
+     ],
+     [
+      68.0,
+      71.18
+     ],
+     [
+      71.18,
+      74.32
+     ],
+     [
+      74.32,
+      77.47
+     ],
+     [
+      77.47,
+      80.65
+     ],
+     [
+      80.65,
+      83.85
+     ],
+     [
+      83.85,
+      87.09
+     ],
+     [
+      87.09,
+      90.38
+     ]
+    ],
+    "measure_note": "True LANDSCAPE page (/Rotate 270), so rows advance normally top-to-bottom: axis y. PART OF THIS GRID IS EXTRAPOLATED AND WAS PROVED. The COUNTY'S BLACK REDACTION BAR over the Address column spans roughly 17-36 pct of the page height and swallows every printed rule underneath it - the detector collapses the whole solid bar into ONE spurious 'rule' at its centre (26.53) and returns nothing else in that range. Below the bar the detector returns a clean run 39.26 / 42.44 / 45.59 / 48.85 / 51.94 / 55.12 / 58.35 / 61.56 / 64.79 / 68.00 / 71.18 / 74.32 / 77.47 / 80.65 / 83.85 / 87.09 / 90.38 at a constant ~3.19 pct pitch, and above it the header row ends at 13.76. Eight intervals fit exactly between 13.76 and 39.26 ((39.26-13.76)/8 = 3.1875), so the seven missing rules are 16.95 / 20.14 / 23.32 / 26.51 / 29.70 / 32.89 / 36.07 - and the fit is confirmed by the fact that the detected 39.26 lands 0.06 pct from the prediction. PROVED as the brief requires, with two crops at the first and last data row of the extrapolated span: row 2 reproduces 931.39 and row 7 reproduces 449.36. Row 1 is the grey shaded strip below the header; the filer's six entries are rows 2-7. Column bands measured with coverage restricted to the clean band below the bar (5.07 / 13.25 / 43.50 / 85.50 / 96.16). These schedule pages carry /Rotate 270, and scripts/campaign_finance/make_snippet.py maps pct->pixels with pdfinfo's UNROTATED MediaBox while pdftoppm's -x/-y/-W/-H address the ROTATED raster, so its --value crop lands in the wrong cell here. The bands below are in the frame the brief specifies - percentages of the page AS POPPLER RENDERS IT, rotation included - and were proved with raster crops taken directly from the rendered page. The shared script was left untouched and the defect is reported instead."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     75.05,
+     85.73
+    ],
+    "cells": [
+     [
+      7.18,
+      15.25
+     ],
+     [
+      15.25,
+      45.66
+     ],
+     [
+      45.66,
+      56.3
+     ],
+     [
+      56.3,
+      75.05
+     ],
+     [
+      75.05,
+      85.73
+     ]
+    ],
+    "rows": [
+     [
+      30.12,
+      33.47
+     ],
+     [
+      33.47,
+      36.76
+     ],
+     [
+      36.76,
+      40.18
+     ],
+     [
+      40.18,
+      43.53
+     ],
+     [
+      43.53,
+      46.88
+     ],
+     [
+      46.88,
+      50.24
+     ],
+     [
+      50.24,
+      53.65
+     ],
+     [
+      53.65,
+      57.06
+     ],
+     [
+      57.06,
+      60.41
+     ],
+     [
+      60.41,
+      63.76
+     ],
+     [
+      63.76,
+      67.06
+     ],
+     [
+      67.06,
+      70.47
+     ],
+     [
+      70.47,
+      73.82
+     ],
+     [
+      73.82,
+      77.18
+     ],
+     [
+      77.18,
+      80.65
+     ],
+     [
+      80.65,
+      84.03
+     ],
+     [
+      84.03,
+      87.35
+     ],
+     [
+      87.35,
+      90.76
+     ]
+    ],
+    "measure_note": "Same true-landscape page (/Rotate 270), axis y. NOTHING IS EXTRAPOLATED HERE: the detector returns the whole grid, 20.47 (table top) then 30.12 / 33.47 / 36.76 / 40.18 / 43.53 / 46.88 / 50.24 / 53.65 / 57.06 / 60.41 / 63.76 / 67.06 / 70.47 / 73.82 / 77.18 / 80.65 / 84.03 / 87.35 / 90.76 at a constant ~3.35 pct pitch (17.24 is the rule under the page title, outside the table). The header row is [20.47,30.12] - 9.65 pct, very nearly THREE pitches - because Form B's first column header 'Date of Expenditure' wraps to three printed lines on this copy. Row 1 is the grey shaded strip; the filer's eleven entries are rows 2-12 and rows 13-19 are printed but empty. Column bands from the vertical rules (7.18 / 15.25 / 45.66 / 56.30 / 75.05 / 85.73). PROVED with 900 dpi raster crops at rows 2 and 12, which reproduce 931.39 and 150.00. These schedule pages carry /Rotate 270, and scripts/campaign_finance/make_snippet.py maps pct->pixels with pdfinfo's UNROTATED MediaBox while pdftoppm's -x/-y/-W/-H address the ROTATED raster, so its --value crop lands in the wrong cell here. The bands below are in the frame the brief specifies - percentages of the page AS POPPLER RENDERS IT, rotation included - and were proved with raster crops taken directly from the rendered page. The shared script was left untouched and the defect is reported instead."
+   }
+  }
+ }
+]

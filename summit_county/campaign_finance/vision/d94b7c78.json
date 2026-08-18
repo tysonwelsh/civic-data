@@ -47,6 +47,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2020 single-total sheet, legible despite the 'low' OCR sidecar. The contributions row and the Current expenditure cell are a slashed-zero nil mark, recorded as blank (the filer struck the cell rather than writing 0). Cents written as superscripts. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2020 single-total sheet, legible despite the 'low' OCR sidecar. The contributions row and the Current expenditure cell are a slashed-zero nil mark, recorded as blank (the filer struck the cell rather than writing 0). Cents written as superscripts. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0.00",
+    "itemized": "",
+    "result": "none",
+    "detail": "no contribution schedule page exists in this document - nothing to reconcile. Note the distinction the honest states are built to preserve: the COVER does assert a contribution zero (three slashed-zero glyphs), but the SCHEDULE is absent, so this side is 'none' and not 'transcribed with zero rows'."
+   },
+   "expenditures": {
+    "stated": "277.38",
+    "itemized": "",
+    "result": "none",
+    "detail": "no expense schedule page exists in this document - nothing to reconcile. The cumulative $277.38 the cover states is itemized NOWHERE in this filing."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered and read once to CLASSIFY it, not for money, and it is the 2020 cover form and nothing else (handwritten candidate block, the three-row Current/Last/Cumulative money grid, the oath, the anonymous-contribution notice, signature dated 10/25/20). No ITEMIZED CONTRIBUTION REPORT sheet and no ITEMIZED EXPENSE REPORT sheet exist in this PDF, so BOTH sides are 'none' - NON-EXISTENCE OF THE SCHEDULE, never a zero. The cover's own arithmetic does close on the expense row (current Oe + last 277.38 = cumulative 277.38) and the contribution row is Oe across all three columns, but those are cover facts the cover tranche already published; nothing is re-derived from them here.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Douglas Clyde, County Council, 2020 Pre-Election (general). A HANDWRITTEN bare cover: one page, no schedules attached, signed 10/25/20. THE ZERO-GLYPH RULING IS VISIBLE HERE ON THE COVER, which is where the cover tranche already found Clyde's two deliberate slashed zeros: this page carries FOUR of them - all three Total contributions cells (Current / Last / Cumulative) and the Current Report expenditure cell - each a hand-drawn slashed zero with a horizontal stroke through it, an affirmative written zero and not an empty or dashed cell. They are already published as 0 by the cover tranche with the glyph preserved, and no ledger row in this record depends on them. The cover's three-column arithmetic closes cleanly and identifies the period grain without ambiguity: expenditures Current = 0, Last Report = 277.38, Cumulative = 277.38, and campaign balance -277.38 in all three columns, i.e. the candidate reported NO activity at all in the pre-general period and carried forward the 277.38 already reported on his earlier 2020 filing (the sibling 12941, itemized in this same chunk). A negative campaign balance sustained across all three columns is itself a source property worth noting - the filer spent his own money and never recorded a reimbursing contribution. The party line is struck through in pen. Nothing about this filing is a data gap to be filled: the county published exactly one page and that page is complete on its own terms."
+ }
 }

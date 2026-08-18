@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2024 sheet. The campaign-balance row repeats $754.95 even though contributions equal expenditures (balance should be zero) — a filer error, retained verbatim. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typed 2024 sheet. The campaign-balance row repeats $754.95 even though contributions equal expenditures (balance should be zero) — a filer error, retained verbatim. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-01-06",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "754.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.26,24.95,75.71,3.01@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-06",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "754.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.29,19.81,82.18,3.02@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "754.95",
+    "itemized": "754.95",
+    "result": "exact",
+    "detail": "exact - one self-funding row equal to the page TOTAL and the cover"
+   },
+   "expenditures": {
+    "stated": "754.95",
+    "itemized": "754.95",
+    "result": "exact",
+    "detail": "exact - one filing-fee row equal to the page TOTAL and the cover"
+   }
+  },
+  "page_gates": "p2 prints TOTAL: $754.95 against its one row; p3 prints TOTAL: $754.95 against its one row; the cover states 754.95 on both sides.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2024 sheet, one row a side: the candidate paid her own $754.95 filing fee and the campaign did nothing else. Both pages print a TOTAL of $754.95 and both agree with the cover. NOTE the cover ALSO states an ending balance of 754.95 against contributions and expenditures that cancel - a filer arithmetic oddity already recorded in the cover layer, not touched here."
+ }
 }

@@ -1,0 +1,46 @@
+[{
+  "index_path": "raw/wayback/wb20160824043328_Ulibarri_financials.pdf",
+  "page_start": 1, "page_end": 3,
+  "key": "44a69eb1",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+  "pages_read": [1, 2, 3],
+  "itemized_pages_A": "3", "itemized_pages_B": "2",
+  "sides": { "contributions": "transcribed", "expenditures": "transcribed" },
+  "recon": {
+    "contributions": { "result": "exact",
+      "anchor": "Form A's own printed 'Total Contributions: (to line 1. of report):' 1,892.08, equal to the cover's line-1 Totals For This Report 1,892.08 AND its Cumulative Totals 1,892.08 (Last Report column is a bare dash = NIL)",
+      "detail": "6 Form A rows on p3: 326.21 + 477.12 + 803.32 + 65.15 + 70.28 + 150.00 = 1,892.08 = the schedule's printed total = the cover's line-1 This-Report cell = the cover's line-1 Cumulative cell. Cover line 2 (<=$50 aggregate) is a bare dash on all three columns, so there is no line-1/line-2 residual on this filing. No row is labelled in-kind; the monetary-only convention closes exactly and the in-kind-inclusive convention is identical here (no in-kind rows exist to test the alternative)." },
+    "expenditures": { "result": "exact",
+      "anchor": "Form B's own printed 'Total Expenditures: (to line 3, of report):' 1,892.08, equal to the cover's line-3 Totals For This Report 1,892.08 AND its Cumulative Totals 1,892.08",
+      "detail": "6 Form B rows on p2: 326.21 + 477.12 + 803.32 + 65.15 + 70.28 + 150.00 = 1,892.08 = the schedule's printed total = the cover's line-3 This-Report cell = its Cumulative cell. The filing is self-funded and every expenditure is matched one-for-one by a same-date self-loan on Form A, which is why both sides carry identical figures." }
+  },
+  "escalations": 0,
+  "escalation_note": "No value was disputed on the full-page read; the only crops taken were the mandatory geometry proofs (§3).",
+  "frames": {
+    "2": { "axis": "x",
+           "cell": [86.10, 96.81],
+           "rows": [[78.86,81.94],[75.78,78.86],[72.70,75.78],[69.64,72.70],[66.56,69.64],[63.48,66.56]],
+           "measure_note": "Landscape sheet rendered portrait, so ROW bands are rowbands.py's v_rules_pct and the AMOUNT column band comes from h_rules_pct; rows advance from HIGH x to LOW x (row 1 is the highest band). Detected v_rules had constant pitch ~3.06 and needed no extrapolation. Trimmed the two non-data bands at the head of the table before index-aligning: the 'Amount' HEADER band [85.06,90.05] and the shaded/hatched spacer band [81.94,85.06] (addendum 2026-08-18 §2.2) -- leaving them in would have pointed every row one or two rows early. cell = the AMOUNT column, which is the LAST column of the printed table; its band [86.10,96.81] was taken from the two printed column rules (h_rules 86.10 and the table's bottom border 96.81) and was confirmed by a full-height crop of row band 1, which rendered the whole row 2/14/2014 | 4Imprint | online | Promotional Materials | 326.21 with the figure sitting inside 86.10-96.81. deskew_deg 0.3 so bands were treated as provisional and settled by crop. PROOF (900 dpi --value): first row pct:78.86,86.10,3.08,10.71@p2 rendered '326.21' (recorded 326.21); last row pct:63.48,86.10,3.08,10.71@p2 rendered '150.00' (recorded 150.00). A first attempt using [86.10,92.30] as the cell band returned a blank crop (92.30 is a text baseline, not the column rule) and was corrected before the record was written. 'cells' is deliberately OMITTED: only the amount column's two bounding rules were crop-verified, and the interior column boundaries were estimated rather than measured -- an estimate is not written as a measurement." },
+    "3": { "axis": "x",
+           "cell": [84.90, 95.60],
+           "rows": [[80.86,84.00],[77.69,80.86],[74.57,77.69],[71.40,74.57],[68.23,71.40],[65.12,68.23]],
+           "measure_note": "Same rotated-landscape geometry as p2 (axis x, rows high-x to low-x), v_rules pitch ~3.07. NOTE the head of the table sits one band HIGHER on p3 than on p2: the first crop attempt indexed row 1 at [77.69,80.86] and that crop rendered '477.12', i.e. row 2 -- the band list was off by one and was fixed before writing, exactly the defect the addendum warns about. Corrected: row 1 = [80.86,84.00]. cell = the AMOUNT column (last column of Form A) bounded by h_rule 84.90 and the table's bottom border 95.60. deskew_deg 0.2. PROOF (900 dpi --value): first row pct:80.86,84.90,3.14,10.70@p3 rendered '326.21' (recorded 326.21); last row pct:65.12,84.90,3.11,10.70@p3 rendered '150.00' (recorded 150.00); the band below the last data row, pct:61.95,84.90,3.17,10.70@p3, rendered EMPTY, confirming six data rows and no seventh. 'cells' omitted for the same reason as p2." }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "2/14/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "326.21", "page": 3, "row": 1, "confidence": "medium", "in_kind": false },
+    { "line_no": "2", "date": "3/3/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "477.12", "page": 3, "row": 2, "confidence": "medium", "in_kind": false },
+    { "line_no": "3", "date": "3/13/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "803.32", "page": 3, "row": 3, "confidence": "medium", "in_kind": false },
+    { "line_no": "4", "date": "4/3/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "65.15", "page": 3, "row": 4, "confidence": "medium", "in_kind": false },
+    { "line_no": "5", "date": "4/9/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "70.28", "page": 3, "row": 5, "confidence": "medium", "in_kind": false },
+    { "line_no": "6", "date": "4/11/2014", "donor_raw": "John Ulibarri (Loan from personal account)", "donor_city": "South Ogden", "donor_state": "UT", "amount": "150.00", "page": 3, "row": 6, "confidence": "medium", "in_kind": false }
+  ],
+  "expenditures": [
+    { "line_no": "1", "date": "2/14/2014", "vendor_raw": "4Imprint", "vendor_city": "online", "purpose": "Promotional Materials", "amount": "326.21", "page": 2, "row": 1, "confidence": "medium" },
+    { "line_no": "2", "date": "3/3/2014", "vendor_raw": "Bell Photography", "vendor_city": "Layton", "vendor_state": "UT", "purpose": "Promotional Materials", "amount": "477.12", "page": 2, "row": 2, "confidence": "medium" },
+    { "line_no": "3", "date": "3/13/2014", "vendor_raw": "Weber County Clerk/Auditor", "vendor_city": "Ogden", "vendor_state": "UT", "purpose": "Filing Fee", "amount": "803.32", "page": 2, "row": 3, "confidence": "medium" },
+    { "line_no": "4", "date": "4/3/2014", "vendor_raw": "Candy Crate", "vendor_city": "online", "purpose": "Promotional Materials", "amount": "65.15", "page": 2, "row": 4, "confidence": "medium" },
+    { "line_no": "5", "date": "4/9/2014", "vendor_raw": "Bell Photography", "vendor_city": "Layton", "vendor_state": "UT", "purpose": "Promotional Materials", "amount": "70.28", "page": 2, "row": 5, "confidence": "medium" },
+    { "line_no": "6", "date": "4/11/2014", "vendor_raw": "Weber County Republican Party", "vendor_city": "Ogden", "vendor_state": "UT", "purpose": "Convention Booth Fee", "amount": "150.00", "page": 2, "row": 6, "confidence": "medium" }
+  ],
+  "notes": "INDEPENDENT RE-READ (2026-08-18 close-out leg). The 2026-08-14 record for this key was withdrawn for geometry defects; that quarantined record was NOT opened and no value was carried from it -- every figure here was read fresh off the 200 dpi full-page renders and every band was re-measured and crop-proved. FORM ORDER: page 2 is Form B (expenditures) and page 3 is Form A (contributions) -- page position is not the form order on this filing. TYPED (not handwritten) form, signed 9/24/2014, clerk RECEIVED stamp OCT 27 2014. TWIN: this is one of two Wayback recoveries of what may be the same Ulibarri 2014 report (the module also holds wb20160824031236_JUlibarri_1.5.15.pdf, and the cover cache notes that this filer's 12/29/2014 report carries IDENTICAL figures). This filing was transcribed strictly on its own terms; a rollup must decide separately whether to count the report once. The candidate is entirely SELF-FUNDED: all six Form A entries are the filer's own loans from his personal account, and each is matched one-for-one by a same-date Form B expenditure. PRIVACY: Form A prints a full street address in its Address column for every row; only the city/state component (South Ogden, UT) is carried, per PRIVACY.md. Form B's 'City' column prints the literal word 'online' for the two internet vendors -- that is the filer's own verbatim entry, kept as written and not a real city. Cover line 2 (<=$50 aggregate), line 4 (ending balance) and the whole 'Totals From Last Report' column are bare dashes -- NIL MARKS, left BLANK per the zero-glyph ruling, never 0."
+}]

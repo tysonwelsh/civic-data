@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:11:00Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Bahram Rahimzadegan",
  "office_stated": "Recorder / Surveyor",
  "report_type_stated": "October 29",
@@ -44,5 +44,171 @@
   "expenditures": "high",
   "ending_balance": "medium"
  },
- "notes": "HANDWRITTEN. The ending-balance cells are written over a struck-out figure ('542.' with an overwritten cent superscript) - read as 542.81 at medium confidence, consistent with this filer's own October 8 report. County-redacted address."
+ "notes": "HANDWRITTEN. The ending-balance cells are written over a struck-out figure ('542.' with an overwritten cent superscript) - read as 542.81 at medium confidence, consistent with this filer's own October 8 report. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/2/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:14.53,4.23,3.35,10.70@p78",
+   "geometry_frame": "p78 axis=x cell=4.23-14.93 rowband=14.53-17.88 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Self-funding: the donor is the candidate. The Address column prints a full street address; only city/state are carried (PRIVACY.md)."
+  },
+  {
+   "line_no": "2",
+   "date": "1/20/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:17.88,4.23,3.33,10.70@p78",
+   "geometry_frame": "p78 axis=x cell=4.23-14.93 rowband=17.88-21.21 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Self-funding; same address block as line 1, street not carried (PRIVACY.md)."
+  },
+  {
+   "line_no": "3",
+   "date": "7/23/2024",
+   "donor_raw": "Leann Kilts",
+   "donor_city": "Plain City",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:21.21,4.23,3.35,10.70@p78",
+   "geometry_frame": "p78 axis=x cell=4.23-14.93 rowband=21.21-24.56 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Street address not carried (PRIVACY.md). The only third-party donor on the filing, and the only contribution row that post-dates this candidate's April report."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Canidate Filing Fee",
+   "amount": "747.61",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:19.32,1.80,3.15,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=19.32-22.47 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'. Purpose kept VERBATIM including the filer's spelling 'Canidate'."
+  },
+  {
+   "line_no": "2",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Filing Service Fee",
+   "amount": "18.69",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:22.47,1.80,3.21,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=22.47-25.68 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "3",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Test Flyer Print",
+   "amount": "1.48",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:25.68,1.80,3.23,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=25.68-28.91 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "4",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Print Flyers",
+   "amount": "22.94",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:28.91,1.80,3.24,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=28.91-32.15 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "5",
+   "date": "4/1/2024",
+   "vendor_raw": "Weber County Republican GOP Website",
+   "purpose": "Convention Table Fee",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:32.15,1.80,3.23,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=32.15-35.38 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "6",
+   "date": "10/2/2024",
+   "vendor_raw": "Smiths Food",
+   "purpose": "Candy for Canidate Meet",
+   "amount": "16.47",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:35.38,1.80,3.15,10.70@p77",
+   "geometry_frame": "p77 axis=x cell=1.80-12.50 rowband=35.38-38.53 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'. Purpose kept VERBATIM including 'Canidate'. The only expenditure row that post-dates this candidate's April report."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    76,
+    77,
+    78
+   ],
+   "itemized_pages_A": "78",
+   "itemized_pages_B": "77",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 1,450.00', which equals the cover's CUMULATIVE line-1 cell (1,450.00)",
+     "detail": "3 Form A rows: 1,000.00 + 300.00 + 150.00 = 1,450.00 = the schedule's own printed total = the cover's Cumulative line-1 cell, which also equals its Totals-from-Last-Report cell (1,450.00) because the cover's This-Report cell is a handwritten 0. The filer restates the WHOLE cycle on the schedule rather than the period, so this is `exact` on the published cumulative column even though nothing moved in the October 4-23 window. Independent corroboration: this candidate's earlier 2024 filing (key ec26f2c2, pages 8-10, the 7-days-before-convention report) itemizes the first two of these same rows and totals 1,300.00; the third row here (7/23/2024 Leann Kilts, 150.00) is the only addition, and 1,300.00 + 150.00 = 1,450.00. 2024 is the 3-line form variant (a single 'contributions from all donors' cell, no separate <=$50 aggregate line), so the whole published contributions total is anchored here."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 907.19', which equals the cover's CUMULATIVE line-2 cell (907.19)",
+     "detail": "6 Form B rows: 747.61 + 18.69 + 1.48 + 22.94 + 100.00 + 16.47 = 907.19 = the schedule's own printed total = the cover's Cumulative line-2 cell, equal to its Totals-from-Last-Report cell because the This-Report cell is a handwritten 0. Same corroboration as the contributions side: ec26f2c2's Form B carries the first five of these rows and totals 890.72, and 890.72 + 16.47 = 907.19. Line 3 closes: 1,450.00 - 907.19 = 542.81, the printed ending balance."
+    }
+   },
+   "escalations": 7,
+   "escalation_note": "Seven 900 dpi tight --value crops, all GEOMETRY proofs (both schedules are TYPED and every amount read cleanly at full page; only the COVER of this filing is handwritten, and no figure was taken from the cover). On p77 they fixed the row indexing \u2014 [16.09,19.32] returned the printed GRAY SPACER strip, [19.32,22.47] returned 747.61 (row 1), [35.38,38.53] returned 16.47 (row 6, the last filled one) and [38.53,41.68] returned empty (row 7). On p78 the same sequence gave row 1 = 1,000.00 at [14.53,17.88], row 3 = 150.00 at [21.21,24.56] and row 4 empty at [24.56,27.79].",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Bahram Rahimzadegan, 'Recorder/Surveyor' (written on the form as 'Recorder / Surveyor'), 2024 cycle, the 'October 29' box ticked, signed 10/29/24. \u26a0 PAGE ORDER IS NOT FORM ORDER: cover p76, FORM B on p77, FORM A on p78 \u2014 classified from each page's own printed header, exactly the trap the brief warns about. Both schedules are ROTATED landscape sheets rendered portrait, and their rotation sense is the MIRROR of the other rotated sheets in this chunk: the Amount column runs along the TOP of the rendered page and the data rows advance LEFT-TO-RIGHT. Both schedules are TYPED; only the cover is handwritten, and no figure was taken from the cover. THE SCHEDULES ARE CUMULATIVE, NOT PERIOD-SCOPED: both cover This-Report cells are a handwritten 0, both Cumulative cells equal their Totals-from-Last-Report cells, and each schedule restates the entire cycle back to January \u2014 dates run 1/2/2024 to 10/2/2024 on a report whose own window is October 4-23. This filing therefore SUPERSETS the same candidate's earlier 2024 report (key ec26f2c2, pages 8-10) rather than continuing it: five of its six expenditure rows and two of its three contribution rows are the same entries, re-itemized, and a cycle rollup must count this candidate ONCE, from the latest non-superseded report. That overlap is also independent corroboration of both transcriptions \u2014 two separately-read documents agree row for row on 1,300.00 of contributions and 890.72 of expenditures. \u26a0 SOURCE PROPERTY recorded, not resolved: the cover's ending-balance cells are written OVER a struck-out figure (a '542.' with an overwritten cent superscript) and the stated-totals tranche read them as 542.81 at medium confidence; nothing here depends on that cell \u2014 1,450.00 - 907.19 = 542.81 independently, which is corroboration, not a repair. The candidate's street address, city and zip are BLACKED OUT on the cover by the county before publication (the government's own redaction, preserved and not recovered, PRIVACY.md); the two handwritten phone numbers print in the clear and are deliberately not carried. Note a printed-form defect in the source: the 2024 cover's December-5 checkbox text says 'through December 31, 2022' (the county reused the 2022 form text); it is unticked here and affects no figure."
+  }
+ }
 }

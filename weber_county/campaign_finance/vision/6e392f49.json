@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Lynelle Jensen",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "October 8 (pre-election)",
@@ -44,5 +44,96 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2024 3-line form; all columns reconcile. County-redacted address."
+ "notes": "Typed 2024 3-line form; all columns reconcile. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "9/27/2024",
+   "donor_raw": "Rusty and Lynelle Jensen",
+   "amount": "75.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:17.39,6.18,3.06,10.27@p51",
+   "geometry_frame": "p51 axis=x cell=6.18-16.45 rowband=17.39-20.45 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "candidate self-funding (joint with spouse). The Address cell prints a street line ONLY - the filer entered no city and no state, so donor_city/donor_state are honestly blank (left empty by the filer, NOT redacted by the county); the street itself is not carried (PRIVACY: city/state only). Contrast the cover, where the county DID black out the candidate's address block."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "9/28/2024",
+   "vendor_raw": "Walgreens",
+   "purpose": "Posters",
+   "amount": "31.98",
+   "confidence": "medium",
+   "geometry": "pct:21.73,5.45,2.76,9.96@p52",
+   "geometry_frame": "p52 axis=x cell=5.45-15.41 rowband=21.73-24.49 (1 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "9/28/2024",
+   "vendor_raw": "Walgreens",
+   "purpose": "Flyers",
+   "amount": "30.03",
+   "confidence": "medium",
+   "geometry": "pct:24.49,5.45,2.75,9.96@p52",
+   "geometry_frame": "p52 axis=x cell=5.45-15.41 rowband=24.49-27.24 (2 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "9/28/2024",
+   "vendor_raw": "Costco",
+   "purpose": "Candy - Meet and Greet",
+   "amount": "16.98",
+   "confidence": "medium",
+   "geometry": "pct:27.24,5.45,3.06,9.96@p52",
+   "geometry_frame": "p52 axis=x cell=5.45-15.41 rowband=27.24-30.30 (3 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    50,
+    51,
+    52
+   ],
+   "itemized_pages_A": "51",
+   "itemized_pages_B": "52",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 75.00' on p51, equal to the cover's 'Totals for This Report' cell (75.00)",
+     "detail": "1 Form A row (75.00) equals the schedule's printed total = the cover's This-Report column. Cumulative is 1,575.00 with 1,500.00 from the last report (1,500.00 + 75.00 = 1,575.00, so this cover's own arithmetic closes), which makes the schedule PERIOD-scoped: the 1,500.00 raised before June 14 is not itemized on this October-8 pre-election report. No figure was synthesized by differencing covers - the This-Report cell is printed here. 2024 3-line variant, no separate <=$50 aggregate line. No in-kind rows, so both in-kind conventions agree."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 78.99' on p52, equal to the cover's 'Totals for This Report' cell (78.99)",
+     "detail": "3 Form B rows (31.98 + 30.03 + 16.98) sum to 78.99 exactly = the schedule's printed total = the cover's This-Report column; cumulative 1,519.17 = 1,440.18 last + 78.99 this, so the cover closes and the schedule is period-scoped. The cover's This-Report ending balance is printed in accounting parentheses as (3.99) because the period spent 3.99 more than it raised; that cell is not an itemized side and is untouched here."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "Five 600 dpi tight --value crops. Two were EXPLORATORY, needed because neither schedule page yielded any v_rules: a wide amount-column strip on each page (pct:14.0,6.18,20.0,10.27@p51 and pct:14.0,5.45,20.0,9.96@p52) rendered the printed row rules together with the amounts, letting the row boundaries be measured against a known window instead of estimated. Three were A3 proofs: p51 row 1 rendered 75.00; p52 row 1 rendered 31.98 and row 3 rendered 16.98. No legibility escalation was needed. NOTE: 900 dpi was not used on this 2024 combined archive - see the sibling record 7bbe69af, where 900 dpi returns blank crops on this file's oversized pages; 600 dpi renders cleanly here (these three pages are ordinary 612x792 pt letter pages, unlike pp.161-164).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 4,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Typed 2024 3-line filing, October-8 pre-election box checked, signed 10/4/2024; p50 cover (portrait), p51 Form A and p52 Form B, both bound as ROTATED LANDSCAPE sheets that poppler renders portrait - page ORDER is the form order here, but page ORIENTATION is not, and the frames declare axis='x' accordingly. The county blacked out the candidate's whole address block on the cover; on Form A the filer simply left the city and state empty behind a street line - a county REDACTION and a filer OMISSION on the same filing, recorded as the two different facts they are. This is the smallest 2024 county-office campaign in the chunk (1,575.00 raised cumulative). The cover's December-5 checkbox carries the county's own stale year ('through December 31, 2022' on a 2024 form) - a form-template defect, noted, not corrected."
+  }
+ }
 }

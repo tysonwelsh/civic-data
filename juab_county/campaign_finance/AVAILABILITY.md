@@ -1,16 +1,20 @@
 # Juab County campaign finance — availability, coverage & honest gaps
 
-**As-of 2026-08-02.** Scope: **Juab COUNTY-office** candidates — Commission (Seats A/B/C),
+**As-of 2026-08-14.** Scope: **Juab COUNTY-office** candidates — Commission (Seats A/B/C),
 Clerk/Auditor, Sheriff, Attorney, Assessor, Recorder/Surveyor, Treasurer. Per-channel evidence is
 in `RECON.md`; every acquired file's provenance is in `index.csv`.
+
+**ITEMIZATION IS COMPLETE — the county is CLOSED (2026-08-14).** Every one of the **27**
+county-office filings now carries a real donor/vendor layer or a reasoned statement of why no
+schedule exists: **187 itemized rows** (46 contributions + 141 expenditures) over 2010, 2014 and
+2020. See "The itemization wave" below for the measured reconciliation and the gap ledger.
 
 **BORN-DIGITAL SCOPE: ZERO — determined 2026-08-02 (TRANCHE 3 Phase A).** `pdftotext -layout`
 over **all 82 retained raws** returns **0 non-whitespace characters in total**: every file is an
 image scan, so no text-layer form family applies and the sweep that wired six new county
-families elsewhere correctly built **nothing** here. The existing hand-verified **2020-only**
-itemized layer (`contributions.csv` 4 rows / `expenditures.csv` 23 rows, from
-`vision/transcripts.json`) was **not touched**. Itemizing 2010/2014 remains Phase B (vision)
-work — an empty itemized layer there means *not transcribed*, never *no donors*.
+families elsewhere correctly built **nothing** here. Every figure in this module is therefore
+**vision-read from the page image** — there is no parsed alternative to compare it against, which
+is why the reconciliation gates below carry the weight.
 
 **Result: PARTIAL — a real dataset for three cycles, a defensible negative for the rest.**
 27 county-office filings across **2010, 2014, 2020**, covering **all seven county-office
@@ -105,7 +109,11 @@ of the evidence, and it is a **posting-practice gap, not a data-extraction gap.*
    notice states a complete copy is available at the Clerk's office for public review; the
    CivicLinq code viewer is a JS-only SPA and the chapter text could not be retrieved.
 4. **2020 GENERAL-election county reports** (the state folder holds primary reports only), and
-   any **interim** 2010/2014 reports.
+   any **interim** 2010/2014 reports. The itemization wave gave this ask two specific, citable
+   targets: **Clinton L Painter's earlier 2014 report**, which his October cover proves exists
+   (its 1,025.57 is carried forward in his cumulative) and which the folder does not hold; and
+   **the missing Form A page of Robert Garrett's 2014 filing**, whose $250.00 of stated
+   contributions has no schedule in the county's 2-page scan.
 
 ## Privacy
 
@@ -115,30 +123,124 @@ are the disclosure. The `raw/` scans are retained unaltered. Candidates' own hom
 phone numbers appear on the form face and are transcribed only as `residence_city` in the derived
 CSVs — the street address and phone lines are deliberately **not** carried into the derived layer.
 
-## Itemized transcription queue (scoped, honest gap)
+## The itemization wave — VERIFIED 2026-08-14 (Tranche 3 Phase B, juab wave)
 
-`filing_totals.csv` carries the page-1 stated totals for **all 27** filings. The itemized Form A
-(contributions) / Form B (expenditures) pages are transcribed for the **3 filings of 2020 only**
-(`itemized_transcribed=1`; 4 contribution rows, 23 expenditure rows). The 24 filings of 2010 and
-2014 carry `itemized_transcribed=0` and blank `reconciles_*` — a **stated-totals-only** state, per
-SCHEMA.md's "Totals-only filings reconcile as unknown, never a fabricated mismatch."
+**The queue is CLOSED.** The 24 filings of 2010 and 2014 were vision-itemized under the wave-B2
+production contract, joining the 3 filings of 2020 that the acquisition build had already
+transcribed. Nothing in this module is now "not transcribed".
 
-Remaining work is bounded and enumerated: 18 of the 24 have a non-zero stated total and therefore
-a populated Form A/B (the other 6 are all-zero filings whose itemized pages are blank by
-construction). That is **≈36 page images** to transcribe by the `cf-vision-transcribe` method into
-`vision/transcripts.json`, after which `build_finance.py` regenerates the derived CSVs unchanged.
+**Pre-flight.** The configuration (`claude-opus-5[1m]` via the Read tool; `pdftoppm -jpeg -r 200`
+FULL-PAGE first read of EVERY page; escalation only as a tight cell crop at 600 dpi; the
+document's own arithmetic outranking any glyph re-read) was run against the standing CF
+calibration suite and scored **13 / 13 PASS**, all five negative controls held — recorded at
+`_audits/cf-calibration-suite/runs.md` (2026-08-14 entry) before any bulk transcription.
 
-## Reconciliation state of what IS transcribed
+### What was produced
 
-| filing | contributions | expenditures | outcome |
-|---|---|---|---|
-| Neil Vance Cook (2020, Commission) | none itemized, stated 0 | 5 rows = **2081.03** vs stated **2081.03** | **reconciles exactly** |
-| Debra Prisbrey Zirbes (2020, Recorder/Surveyor) | 2 rows = 70.00; stated 20.00 named + 50.00 anon-surrendered | 8 rows = 2646.26; **stated total is BLANK on the form** | does not reconcile — internal inconsistency retained as filed |
-| Marvin Garr Kenison (2020, Commission) | 2 rows; page-1 contribution line blank | 10 rows, **2 amounts unreadable (left blank, not guessed)** | cannot reconcile — flagged `needs_review` |
+| | |
+|---|---|
+| filings itemized this wave | **24** (12 × 2010, 12 × 2014) |
+| filings itemized in total | **27 of 27** — the whole county-office corpus |
+| rows added this wave | **160** (42 contributions + 118 expenditures) |
+| rows in the module | **187** (46 contributions + 141 expenditures) |
+| money itemized this wave | **$8,279.74** contributions · **$29,361.18** expenditures |
+| pages read | **73** full pages (every page of every filing, incl. the printed statute page 4) |
+| escalations used | **2** (both on Rick Carlton 2010 — 600 dpi tight crops of the two amount columns) |
 
-Three additional filings carry **filer errors retained verbatim** rather than corrected:
-Douglas Scott Anderson (2014) and Robert Garrett (2014) entered every figure in the "totals from
-last report" column, leaving cumulative blank (kept in `stated_prior`, never promoted); Robert
-McKell Williams (2014) wrote prose amounts "$150.00 + SIGNS" / "$1010.00 + SIGNS" (numeric fields
-blank, verbatim string preserved). LuWayne Walker's (2010) cumulative >$50 cell is overwritten and
-unreadable — left blank rather than resolved to 125.00 or 1125.00.
+Every row carries `pct:x,y,w,h@p<page>` **geometry** (SCHEMA.md §2a) in the trailing column of
+`contributions.csv` / `expenditures.csv`, computed from the form's own printed grid: a family
+PITCH per scan variant, with a **per-page ORIGIN** (these scans carry up to a third of a row of
+vertical shift, and one page a full 3.5%, so a single family origin points at the wrong line).
+**Verified by 600 dpi render-back on ten boxes** across both variants and both schedules, and
+again end-to-end through `scripts/campaign_finance/make_snippet.py` — each box reproduced exactly
+the row transcribed at that index. The two render-backs that MISSED are the reason two filings'
+row indices were corrected at the source: Cody Anderson's Form A row 1 is a **struck, nameless
+date fragment** (his three rows are printed rows 2–4), and Rick Carlton's 2014 Form A entries sit
+on printed rows 2 and 5 (the Zions name wraps a line). Geometry is a provenance pointer, never a
+value — but it is checkable, and checking it caught two real indexing errors.
+
+### Reconciliation — per SIDE (48 sides across 24 filings)
+
+| state | contributions | expenditures |
+|---|---|---|
+| **exact** against a figure the form itself prints | **18** | **16** |
+| **delta**, cause named on the page | 1 | 2 |
+| **unknown** — the form states no figure, or no schedule page exists | 5 | 6 |
+
+**34 of 48 sides reconcile EXACTLY.** Not one side was withheld, and not one figure was nudged.
+The gate is per side and is named per filing in `filing_totals.notes` and in the filing's
+`vision/<sha256>.json` (`_meta.itemized.reconciliation`).
+
+**The 3 deltas, each traced to the filing itself:**
+
+| filing | side | stated | itemized | delta | cause on the page |
+|---|---|---|---|---|---|
+| Rick Lee Carlton (2010, Commission) | both | 2,279.15 | 2,279.25 | +0.10 | The filing is DOUBLE-ENTERED — all 13 items appear on Form A (as self-reimbursements) and again on Form B — and the filer's own two copies disagree on two cells (row 1 cents `81`/`89`, row 10 dollars `158`/`159`). No legible combination closes on 2,279.15. 600 dpi crops resolved legibility, not truth. |
+| Alaina E. Lofgran (2014, Clerk/Auditor) | expenditures | 1,800.00 | 1,850.00 | +50.00 | The filer's line-3 total omits the $50.00 10/15/14 Mangelson item — and his stated ENDING BALANCE (1,850.00) is exactly the Form B sum. |
+| Clinton L Painter (2014, Commission) | expenditures | 2,673.08 (cumulative) | 1,647.51 | −1,025.57 | Not a misread: Form B itemizes THIS report's period, and it reconciles **exactly** to the "totals for this report" column (1,647.51). The cumulative includes 1,025.57 from an earlier 2014 report the state folder does not hold. |
+
+### The gap ledger — 9 sides with NO schedule page (honest non-existence, never a zero)
+
+| filings | sides | dollars unaccounted |
+|---|---|---|
+| DeEtte Worthington 2010, Jared W. Eldridge 2010 (2-page scans: cover + Form A) | 2 expenditure sides | **$0** — both state 0 expenses |
+| DeEtte Worthington 2014, Jared W. Eldridge 2014, Shirl Julian Nichols 2014 (1-page scans: cover only) | 6 sides | **$0** — all state 0 on every line |
+| **Robert Garrett 2014 (Commission Seat A)** — the county's 2-page scan holds the cover and Form B; the Form A page does not exist in the document | 1 contribution side | **$250.00** (100.00 over-$50 + 150.00 aggregate under-$50) |
+
+**$250.00 is the whole of the money this county states but cannot itemize** from a missing
+schedule page, plus the **$1,025.57** of Painter's cumulative that belongs to a prior report the
+state never uploaded. Everything else is either itemized or genuinely zero.
+
+**7 contribution sides are REAL ZEROS** — the Form A page exists, the transcriber read it, and it
+is blank (Orme, Winn, Price, Eldridge 2010, Worthington 2010, Lofgran, Painter). A real zero and a
+missing page are different facts and are stored differently (`sides.<side>` =
+`"transcribed"` with no rows, vs `"none"`).
+
+### What the itemization settled that the totals tranche could not
+
+1. **LuWayne Walker's (2010) unreadable cumulative is RESOLVED to 125.00** — by the document's own
+   arithmetic, not a re-read. Line 1 reads LAST `-0-` + THIS 125.00 = CUMULATIVE, and Form A
+   itemizes exactly one contribution, $125.00 from the Juab County Democratic Party. Two
+   independent proofs; under 1,125.00 neither closes. The correction is recorded in
+   `vision/transcripts.json` with its evidence (GOTCHAS: arithmetic closure outranks glyph
+   reading — the Rhodes reversal).
+2. **Walker's line 3 (expenses) is blank in all three columns, yet Form B itemizes six rows summing
+   to exactly 1,420.00 — the figure he wrote on LINE 2** (aggregate contributions of $50 or less).
+   The likeliest reading is a line-placement error. Both figures stand as filed; nothing was moved.
+3. **Robert McKell Williams's (2014) prose totals are now fully explained.** "$150.00 + SIGNS" =
+   two cash gifts ($50 + $100) plus two **in-kind** SIGNS contributions with no dollar figure;
+   "$1010.00 + SIGNS" = eight Form B amounts summing to exactly 1,010.00, which is also the column
+   total he wrote at the foot of the schedule.
+4. **Douglas Scott Anderson's and Robert Garrett's column-placement error is now CORROBORATED, not
+   just recorded**: both entered every figure in the "totals from last report" column, and their
+   schedules reconcile exactly against those figures (Anderson 400.00 / 6,322.30; Garrett
+   1,550.00). Anderson's over-$50 vs under-$50 split even matches his rows exactly (100+200 = 300,
+   50+50 = 100). The derived `stated_*` columns stay blank, as the totals tranche left them.
+5. **Michael Price's struck-through 594.50** is exactly the sum of his first six Form B rows — he
+   totalled six, then added four more and restated 748.50. Both figures are explained.
+6. **Craig Sperry's (2010) struck Form A row** ($20.00, no name) is why his Form A sums to 225.00
+   against a stated total of 245.00: he moved that $20 to line 2 as an under-$50 aggregate. It is
+   recorded as a struck entry and NOT emitted as a row.
+
+### A reconciliation basis you must respect before quoting `reconciles_contrib`
+
+The 17-16-6.5 form splits contributions across **line 1 (donors who gave more than $50 — itemized
+on Form A)** and **line 2 (the aggregate of gifts of $50 or less — deliberately NOT itemized)**.
+`filing_totals.stated_total_contributions` is the SUM of both lines, so a filing whose Form A
+reconciles perfectly against line 1 can still show `reconciles_contrib=False` with a delta equal to
+its line-2 aggregate. That happens on **Craig Sperry 2010 (−20.00), Alaina Lofgran 2014 (−50.00),
+Craig Sperry 2014 (−139.00)** and, for the separate reason above, **LuWayne Walker 2010
+(−1,420.00)**. Those four are **basis differences, not extraction defects** — each row's `notes`
+says so, and the filing's cache records the true per-side verdict. Filers differ: Cody Anderson and
+Kathleen Kenison itemized their small gifts on Form A anyway, so for them both bases close.
+
+### Row-level quality (measured over the 160 rows added)
+
+* per-row confidence **high 141 · medium 13 · low 6** (the 6 low are Rick Carlton's bistable pairs)
+* **3 amounts blank for illegibility or non-existence**, never guessed (Williams's filing-fee line,
+  and the two in-kind SIGNS rows which carry no dollar figure at all)
+* **61 rows carry `needs_review=1`**, overwhelmingly because the form prints a date with **no year**
+  (or only a month) — a year is never filled in from the report date
+* **2 in-kind rows** (`in_kind=True`, amount blank) — Williams's two SIGNS donors
+* dates are kept **verbatim as printed**, including `10/7 10/14` (two dates in one cell) and
+  `3-14` (month/year); one Anderson date is left blank because its day digit is overwritten

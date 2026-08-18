@@ -1,0 +1,778 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>civic-data — data layer console</title>
+<style>
+:root {
+  --bg:#fbfaf8; --panel:#ffffff; --ink:#1b1a18; --ink-2:#55524d; --ink-3:#8a857e;
+  --line:#e6e2dc; --line-2:#d3cec6; --accent:#2f5d8a;
+  --c-canonical:#2f5d8a; --c-derived:#1f7a6c; --c-override:#a86a12;
+  --c-gap:#a8352f; --c-index:#6b4a9e; --c-code:#6c6862; --c-doc:#8a857e; --c-raw:#a8a29a;
+  --chip:#f1eee9; --hover:#f5f2ed; --mark:rgba(255,196,0,.30);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+    --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+    --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+    --c-gap:#ef8079; --c-index:#b294e0; --c-code:#8f8b84; --c-doc:#77736c; --c-raw:#5c5952;
+    --chip:#26272d; --hover:#232429; --mark:rgba(255,196,0,.22);
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+  --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+  --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+  --c-gap:#ef8079; --c-index:#b294e0; --c-code:#8f8b84; --c-doc:#77736c; --c-raw:#5c5952;
+  --chip:#26272d; --hover:#232429; --mark:rgba(255,196,0,.22);
+}
+
+* { box-sizing:border-box; }
+body {
+  margin:0; background:var(--bg); color:var(--ink);
+  font:15px/1.5 ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap { max-width:1180px; margin:0 auto; padding:34px 22px 90px; }
+
+header.top { border-bottom:1px solid var(--line); padding-bottom:20px; margin-bottom:22px; }
+.eyebrow {
+  font:600 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3); margin-bottom:12px;
+}
+h1 { font-size:27px; font-weight:640; letter-spacing:-.02em; margin:0 0 6px; }
+h1 .lvl {
+  display:inline-block; vertical-align:3px; margin-left:10px; padding:3px 9px;
+  font:600 10.5px/1 ui-monospace,Menlo,monospace; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--accent); background:var(--chip); border:1px solid var(--line-2); border-radius:99px;
+}
+.sub { color:var(--ink-2); font-size:14px; max-width:78ch; margin:0; }
+.sub code, .mono { font:13px/1 ui-monospace,SFMono-Regular,Menlo,monospace; }
+.sub code { background:var(--chip); padding:2px 5px; border-radius:4px; }
+
+/* ---- controls ---- */
+.bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 18px; }
+select, button, input[type=search], input[type=text], textarea {
+  font:inherit; font-size:13px; color:var(--ink); background:var(--panel);
+  border:1px solid var(--line-2); border-radius:7px; padding:7px 11px;
+}
+select:hover, button:hover { background:var(--hover); cursor:pointer; }
+button:disabled { opacity:.5; cursor:default; }
+button.on { border-color:var(--accent); color:var(--accent); }
+button.go { border-color:var(--accent); color:var(--accent); font-weight:600; }
+.spacer { flex:1 1 auto; }
+
+/* ---- facts ---- */
+.facts { display:flex; flex-wrap:wrap; gap:0; border:1px solid var(--line);
+  border-radius:10px; background:var(--panel); overflow:hidden; margin-bottom:20px; }
+.fact { flex:1 1 118px; padding:12px 14px; border-right:1px solid var(--line); }
+.fact:last-child { border-right:0; }
+.fact b { display:block; font:620 19px/1.2 ui-sans-serif,system-ui; letter-spacing:-.01em;
+  font-variant-numeric:tabular-nums; }
+.fact span { font:500 10.5px/1.4 ui-monospace,Menlo,monospace; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-3); }
+
+/* ---- tabs ---- */
+.tabs { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:16px; }
+.tab {
+  padding:6px 13px; border:1px solid var(--line-2); border-radius:99px; background:var(--panel);
+  font:500 12.5px/1 ui-sans-serif,system-ui; color:var(--ink-2); cursor:pointer; user-select:none;
+}
+.tab:hover { background:var(--hover); }
+.tab.sel { border-color:var(--accent); color:var(--accent); font-weight:640; }
+
+/* ---- panel ---- */
+.pane { display:none; }
+.pane.sel { display:block; }
+.card {
+  border:1px solid var(--line); border-radius:10px; background:var(--panel);
+  padding:16px 18px; margin-bottom:16px;
+}
+.card h2 { font-size:14px; margin:0 0 3px; font-weight:640; }
+.card p.lead { color:var(--ink-2); font-size:13.5px; margin:0 0 13px; max-width:80ch; }
+.fields { display:flex; flex-wrap:wrap; gap:9px; align-items:center; }
+.fields label { font:500 11px/1 ui-monospace,Menlo,monospace; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-3); }
+input[type=text] { min-width:150px; }
+input.grow { flex:1 1 260px; }
+textarea {
+  width:100%; min-height:96px; resize:vertical;
+  font:13px/1.6 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  tab-size:2;
+}
+.hint { color:var(--ink-3); font-size:12.5px; margin:9px 0 0; }
+.hint code { font:12px/1 ui-monospace,Menlo,monospace; background:var(--chip);
+  padding:2px 5px; border-radius:4px; cursor:pointer; border:1px solid var(--line); }
+.hint code:hover { background:var(--hover); color:var(--accent); }
+
+/* ---- results ---- */
+.status { font:500 12px/1 ui-monospace,Menlo,monospace; color:var(--ink-3);
+  letter-spacing:.04em; margin:0 0 10px; }
+.status.err { color:var(--c-gap); }
+.tblwrap { overflow-x:auto; border:1px solid var(--line); border-radius:9px; }
+table { border-collapse:collapse; width:100%; font-size:13px; }
+th, td { text-align:left; padding:7px 11px; border-bottom:1px solid var(--line);
+  white-space:nowrap; vertical-align:top; }
+th { font:600 10.5px/1.4 ui-monospace,Menlo,monospace; letter-spacing:.07em;
+  text-transform:uppercase; color:var(--ink-3); background:var(--chip); position:sticky; top:0; }
+tbody tr:hover { background:var(--hover); }
+tbody tr:last-child td { border-bottom:0; }
+td.num { text-align:right; font-variant-numeric:tabular-nums; }
+td.null { color:var(--ink-3); font-style:italic; }
+td.wrap { white-space:normal; max-width:52ch; }
+
+/* ---- caveats: the point of the whole thing ---- */
+.cav { margin-top:16px; border:1px solid var(--line); border-left:3px solid var(--c-gap);
+  border-radius:9px; background:var(--panel); padding:15px 18px; }
+.cav h3 { font-size:13.5px; margin:0 0 3px; font-weight:640; }
+.cav p.lead { color:var(--ink-2); font-size:13px; margin:0 0 12px; max-width:80ch; }
+.cav ul { list-style:none; margin:0; padding:0; }
+.cav li { padding:9px 0; border-top:1px solid var(--line); font-size:13.5px; color:var(--ink-2); }
+.cav li:first-child { border-top:0; }
+.cav code {
+  font:11.5px/1 ui-monospace,Menlo,monospace; color:var(--c-gap);
+  background:var(--chip); padding:3px 6px; border-radius:4px; margin-right:8px;
+  border:1px solid var(--line-2); white-space:nowrap;
+}
+.cav .ent { font:600 11.5px/1 ui-monospace,Menlo,monospace; color:var(--ink-3);
+  margin-right:8px; }
+.notes { margin-top:16px; border:1px solid var(--line); border-left:3px solid var(--c-override);
+  border-radius:9px; background:var(--panel); padding:15px 18px; }
+.notes h3 { font-size:13.5px; margin:0 0 10px; font-weight:640; color:var(--c-override); }
+.notes ul { list-style:none; margin:0; padding:0; }
+.notes li { padding:8px 0; border-top:1px solid var(--line); font-size:13.5px; color:var(--ink-2); }
+.notes li:first-child { border-top:0; }
+.clean { margin-top:16px; color:var(--ink-3); font-size:13px; }
+
+/* ---- search hits ---- */
+.hits { list-style:none; margin:0; padding:0; }
+.hits li { padding:12px 0; border-top:1px solid var(--line); }
+.hits li:first-child { border-top:0; }
+.hits .h { display:flex; flex-wrap:wrap; gap:9px; align-items:baseline; margin-bottom:5px; }
+.hits .ent { font-weight:640; font-size:13.5px; }
+.hits .dt, .hits .ds { font:11.5px/1 ui-monospace,Menlo,monospace; color:var(--ink-3); }
+.hits .ds { background:var(--chip); padding:3px 6px; border-radius:4px;
+  border:1px solid var(--line); }
+.hits .pass { font-size:13.5px; color:var(--ink-2); line-height:1.6; }
+.hits mark { background:var(--mark); color:var(--ink); border-radius:2px; padding:0 1px; }
+.hits .pth { display:block; margin-top:6px; font:11.5px/1.4 ui-monospace,Menlo,monospace;
+  color:var(--accent); cursor:pointer; word-break:break-all; }
+.hits .pth:hover { text-decoration:underline; }
+
+/* ---- doc reader ---- */
+pre.doc {
+  margin:0; padding:15px 17px; border:1px solid var(--line); border-radius:9px;
+  background:var(--panel); overflow-x:auto; max-height:640px; overflow-y:auto;
+  font:12.5px/1.65 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  color:var(--ink-2); white-space:pre-wrap; word-break:break-word;
+}
+/* ---- entity cards ---- */
+.ents { list-style:none; margin:0; padding:0; }
+.ents li { padding:11px 0; border-top:1px solid var(--line); }
+.ents li:first-child { border-top:0; }
+.ents .nm { font-weight:640; font-size:14px; }
+.ents .sl { font:12px/1 ui-monospace,Menlo,monospace; color:var(--accent);
+  background:var(--chip); padding:3px 7px; border-radius:4px; border:1px solid var(--line);
+  margin-left:8px; cursor:pointer; }
+.ents .sl:hover { background:var(--hover); }
+.ents .det { font-size:13px; color:var(--ink-2); margin-top:4px; }
+.warn { color:var(--c-gap); font-size:13.5px; margin:0 0 12px; font-weight:500; }
+footer { margin-top:26px; color:var(--ink-3); font-size:12.5px; max-width:86ch; }
+footer code { font-family:ui-monospace,Menlo,monospace; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <div class="eyebrow">civic-data · data layer console</div>
+  <h1>gov.db<span class="lvl" id="lvl">read-only</span></h1>
+  <p class="sub">
+    Phase 0 of the chat interface, without the model. Every panel below calls the same
+    <code>/api/*</code> endpoints the agent will call — so what works here works there.
+    The point of the exercise is the red-edged block: <b>caveats arrive with the data</b>,
+    unrequested, on every result.
+  </p>
+</header>
+
+<div class="bar">
+  <span class="status" id="conn">connecting…</span>
+  <div class="spacer"></div>
+  <button id="theme" title="Toggle light/dark">◐</button>
+</div>
+
+<div class="facts" id="facts"></div>
+
+<div class="tabs" id="tabs"></div>
+
+<!-- ============================ QUERY ============================ -->
+<section class="pane" data-pane="query">
+  <div class="card">
+    <h2>Run SQL</h2>
+    <p class="lead">One read-only <code>SELECT</code> or <code>WITH</code>. The executor
+      injects a LIMIT, caps rows and bytes, times out at 15s, and refuses everything that
+      isn't a read — try <code>DROP TABLE motion</code>.</p>
+    <textarea id="q-sql" spellcheck="false">SELECT COUNT(*) AS motions FROM motion WHERE city='nephi'</textarea>
+    <div class="fields" style="margin-top:10px">
+      <button class="go" id="q-run">Run</button>
+      <label for="q-limit">limit</label>
+      <input type="text" id="q-limit" value="200" style="width:74px">
+      <div class="spacer"></div>
+      <button id="q-sqlbtn">Show executed SQL</button>
+    </div>
+    <p class="hint">Try:
+      <code data-sql="SELECT COUNT(*) AS motions FROM motion WHERE city='nephi'">nephi motion count</code>
+      <code data-sql="WITH c AS (SELECT city, COUNT(*) n FROM v_contested_all WHERE body != 'PlanningCommission' GROUP BY city), t AS (SELECT m.city, COUNT(*) n FROM motion m JOIN body b ON b.body_id=m.body_id WHERE b.name != 'PlanningCommission' AND m.gov_level='city' GROUP BY m.city) SELECT t.city, t.n AS motions, COALESCE(c.n,0) AS contested, ROUND(100.0*COALESCE(c.n,0)/t.n,1) AS pct FROM t LEFT JOIN c ON c.city=t.city ORDER BY pct DESC LIMIT 8">most divided councils</code>
+      <code data-sql="SELECT city, SUM(stated_total_contributions) FROM cf_filing GROUP BY city">sum cf_filing (trap)</code>
+      <code data-sql="SELECT city, COUNT(*) FROM motion WHERE provenance='minutes' GROUP BY city">cross-tier provenance (trap)</code>
+      <code data-sql="SELECT COUNT(*) FROM vote WHERE city='wfrc_mpo'">MPO votes (trap)</code>
+      <code data-sql="DROP TABLE motion">DROP (rejected)</code>
+      <code data-sql="SELECT 1; DROP TABLE motion">multi-statement (rejected)</code>
+    </p>
+  </div>
+  <div id="q-out"></div>
+</section>
+
+<!-- ============================ SEARCH ============================ -->
+<section class="pane" data-pane="search">
+  <div class="card">
+    <h2>Full-text search</h2>
+    <p class="lead">FTS5 across the corpora, returning passages and <b>resolved</b> paths —
+      the tier-dependent prefix is applied server-side. Counts are matching documents, one
+      row per file. Click a path to open it in the reader.</p>
+    <div class="fields">
+      <input type="text" id="s-q" class="grow" value="&quot;accessory dwelling&quot;" placeholder="query…">
+      <select id="s-corpus">
+        <option value="minutes">minutes</option>
+        <option value="packets">packets</option>
+        <option value="ordinances">ordinances</option>
+        <option value="comments">comments</option>
+        <option value="motions">motions</option>
+      </select>
+      <button class="go" id="s-run">Search</button>
+    </div>
+    <div class="fields" style="margin-top:9px">
+      <label for="s-entity">entity</label><input type="text" id="s-entity" placeholder="any" style="width:150px">
+      <label for="s-from">from</label><input type="text" id="s-from" placeholder="YYYY-MM-DD" style="width:120px">
+      <label for="s-to">to</label><input type="text" id="s-to" placeholder="YYYY-MM-DD" style="width:120px">
+      <label for="s-limit">limit</label><input type="text" id="s-limit" value="10" style="width:66px">
+    </div>
+  </div>
+  <div id="s-out"></div>
+</section>
+
+<!-- ============================ GREP ============================ -->
+<section class="pane" data-pane="grep">
+  <div class="card">
+    <h2>Grep the repository</h2>
+    <p class="lead">The layer FTS does <b>not</b> index. <code>Search</code> finds what
+      governments published; this finds what the <i>repository</i> says about its own
+      coverage, methods and known gaps — <code>CLAUDE.md</code>, <code>TODO.md</code>,
+      <code>LEADS.md</code>, <code>COVERAGE.md</code>, each dataset's
+      <code>index.csv</code> manifest. Scope it with a path and it returns in
+      milliseconds; a repo-wide sweep may hit its deadline and say so.</p>
+    <div class="fields">
+      <input type="text" id="g-q" class="grow" value="tally-only" placeholder="literal text…">
+      <button class="go" id="g-run">Grep</button>
+    </div>
+    <div class="fields" style="margin-top:9px">
+      <label for="g-path">path</label><input type="text" id="g-path" placeholder="whole repo" style="width:190px">
+      <label for="g-glob">glob</label><input type="text" id="g-glob" placeholder="*.md" style="width:110px">
+      <label for="g-limit">limit</label><input type="text" id="g-limit" value="30" style="width:66px">
+      <label><input type="checkbox" id="g-regex"> regex</label>
+      <label><input type="checkbox" id="g-case" checked> ignore case</label>
+    </div>
+    <p class="hint">Try:
+      <code data-q="tally-only" data-path="nephi_city_council">nephi tally-only</code>
+      <code data-q="minutes_unrecovered" data-glob="*.md">unrecovered minutes</code>
+      <code data-q="honest zero" data-path="">honest zero</code>
+      <code data-q="DEBT" data-path="TODO.md">open DEBT items</code>
+    </p>
+  </div>
+  <div id="g-out"></div>
+</section>
+
+<!-- ============================ ENTITY ============================ -->
+<section class="pane" data-pane="entity">
+  <div class="card">
+    <h2>Resolve an entity</h2>
+    <p class="lead">Turns a journalist's phrasing into slugs — <i>with</i> the ambiguity
+      kept. "Salt Lake" must come back as both the city and the county; silently picking
+      one is the likeliest wrong answer in the whole system.</p>
+    <div class="fields">
+      <input type="text" id="e-name" class="grow" value="Salt Lake" placeholder="Salt Lake, Park City, Juab…">
+      <button class="go" id="e-run">Resolve</button>
+    </div>
+    <p class="hint">Try:
+      <code data-name="Salt Lake">Salt Lake</code>
+      <code data-name="Park City">Park City</code>
+      <code data-name="Juab">Juab</code>
+      <code data-name="west valley">west valley</code>
+      <code data-name="Kanab">Kanab</code>
+    </p>
+  </div>
+  <div id="e-out"></div>
+</section>
+
+<!-- ============================ COVERAGE ============================ -->
+<section class="pane" data-pane="coverage">
+  <div class="card">
+    <h2>Coverage</h2>
+    <p class="lead">What exists, what is deferred <i>by design</i>, and where the floors
+      are. A <code>(no vote layer)</code> row is an honest property of a db-less county,
+      not a gap to be filled.</p>
+    <div class="fields">
+      <input type="text" id="c-entity" class="grow" placeholder="entity slug or name — blank for all 44">
+      <button class="go" id="c-run">Show</button>
+    </div>
+    <p class="hint">Try:
+      <code data-name="nephi">nephi</code>
+      <code data-name="washington_county">washington_county</code>
+      <code data-name="wfrc_mpo">wfrc_mpo</code>
+      <code data-name="ut_state">ut_state</code>
+      <code data-name="">everything</code>
+    </p>
+  </div>
+  <div id="c-out"></div>
+</section>
+
+<!-- ============================ DOCUMENT ============================ -->
+<section class="pane" data-pane="document">
+  <div class="card">
+    <h2>Read a document</h2>
+    <p class="lead">Opens primary text — minutes, statutes, advisory opinions — so a claim
+      can be checked against the source rather than a paraphrase. Confined to the repo
+      root; try <code>/etc/passwd</code>.</p>
+    <div class="fields">
+      <input type="text" id="d-path" class="grow" placeholder="repo-relative path…"
+             value="CLAUDE.md">
+      <label for="d-off">offset</label><input type="text" id="d-off" value="0" style="width:88px">
+      <button class="go" id="d-run">Open</button>
+      <button id="d-more" disabled>Next page →</button>
+    </div>
+  </div>
+  <div id="d-out"></div>
+</section>
+
+<!-- ============================ SCHEMA ============================ -->
+<section class="pane" data-pane="schema">
+  <div class="card">
+    <h2>Schema</h2>
+    <p class="lead">DDL on demand — the agent pulls this rather than carrying a schema
+      blurb in its prompt, because a copied blurb goes stale within two builds.</p>
+    <div class="fields">
+      <input type="text" id="x-tables" class="grow" placeholder="table names, comma separated — blank to list all">
+      <button class="go" id="x-run">Show</button>
+      <button id="x-counts" class="on">Row counts on</button>
+    </div>
+    <p class="hint">Try:
+      <code data-name="caveat">caveat</code>
+      <code data-name="motion,motion_std">motion, motion_std</code>
+      <code data-name="v_contested_all">v_contested_all</code>
+      <code data-name="">list everything</code>
+    </p>
+  </div>
+  <div id="x-out"></div>
+</section>
+
+<footer>
+  Served by <code>interface_prototype/server.py</code> against <code>gov.db</code> opened
+  <code>file:gov.db?mode=ro</code>. Nothing on this page writes anything, anywhere. Every
+  number shown was produced by a query at load time — none is hardcoded, because published
+  totals lag the live build. Gate: <code>bash interface_prototype/verify_phase0.sh</code>.
+</footer>
+
+</div>
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const el = (t, cls, txt) => { const n = document.createElement(t);
+  if (cls) n.className = cls; if (txt != null) n.textContent = txt; return n; };
+const fmt = n => n == null ? "—" : n.toLocaleString("en-US");
+
+async function api(path, params, body) {
+  const url = new URL(path, location.origin);
+  for (const [k, v] of Object.entries(params || {}))
+    if (v !== "" && v != null) url.searchParams.set(k, v);
+  const opt = body
+    ? { method:"POST", headers:{"content-type":"application/json"}, body:JSON.stringify(body) }
+    : {};
+  const t0 = performance.now();
+  const res = await fetch(url, opt);
+  const data = await res.json();
+  return { data, status: res.status, ms: Math.round(performance.now() - t0) };
+}
+
+/* ---------- shared renderers ---------- */
+
+function status(host, text, isErr) {
+  const p = el("p", "status" + (isErr ? " err" : ""), text);
+  host.appendChild(p);
+}
+
+function errorCard(host, d, status_) {
+  const c = el("div", "card");
+  c.appendChild(el("h2", null, "Refused — " + (d.error || "error")));
+  c.appendChild(el("p", "warn", d.reason || ""));
+  if (d.detail) c.appendChild(el("p", "lead", d.detail));
+  c.appendChild(el("p", "hint", "HTTP " + status_));
+  host.appendChild(c);
+}
+
+/* Caveats. Always rendered when present — never behind a disclosure, because the
+   entire argument of this layer is that they cannot be omitted. */
+function renderCaveats(host, list, count, truncated, omitted) {
+  if (!list || !list.length) {
+    host.appendChild(el("p", "clean",
+      "No caveat rows apply to this result. That is itself a finding — it means no "
+      + "recording ceiling, coverage floor or scope limit is registered for what you asked."));
+    return;
+  }
+  const box = el("div", "cav");
+  box.appendChild(el("h3", null,
+    "How this data may be read — " + count + " caveat" + (count === 1 ? "" : "s") + " apply"));
+  box.appendChild(el("p", "lead",
+    "Attached automatically from gov.db's caveat table. Nobody asked for these; the "
+    + "executor cannot return the rows above without them."));
+  const ul = el("ul");
+  for (const c of list) {
+    const li = el("li");
+    li.appendChild(el("code", null, c.code));
+    li.appendChild(el("span", "ent", c.entity === "*" ? "all entities" : (c.entity_name || c.entity)));
+    li.appendChild(document.createTextNode(c.caveat));
+    ul.appendChild(li);
+  }
+  box.appendChild(ul);
+  if (truncated) box.appendChild(el("p", "hint",
+    "Ranked by severity; " + (omitted ? omitted.length : "further") +
+    " lower-priority caveat rows were trimmed: " + (omitted || []).join(" · ")));
+  host.appendChild(box);
+}
+
+function renderNotes(host, notes) {
+  if (!notes || !notes.length) return;
+  const box = el("div", "notes");
+  box.appendChild(el("h3", null, "Query-shape warnings — " + notes.length));
+  const ul = el("ul");
+  for (const n of notes) ul.appendChild(el("li", null, n));
+  box.appendChild(ul);
+  host.appendChild(box);
+}
+
+function renderTable(host, columns, rows) {
+  const wrap = el("div", "tblwrap");
+  const t = el("table");
+  const thead = el("thead"), tr = el("tr");
+  for (const c of columns) tr.appendChild(el("th", null, c));
+  thead.appendChild(tr); t.appendChild(thead);
+  const tb = el("tbody");
+  for (const row of rows) {
+    const r = el("tr");
+    for (const v of row) {
+      let cls = null, text;
+      if (v === null || v === undefined) { cls = "null"; text = "null"; }
+      else if (typeof v === "number") { cls = "num"; text = fmt(v); }
+      else { text = String(v); if (text.length > 60) cls = "wrap"; }
+      r.appendChild(el("td", cls, text));
+    }
+    tb.appendChild(r);
+  }
+  t.appendChild(tb); wrap.appendChild(t); host.appendChild(wrap);
+}
+
+/* ---------- 1. query ---------- */
+let lastExecuted = "";
+
+async function runQuery() {
+  const host = $("#q-out"); host.textContent = "";
+  const sql = $("#q-sql").value;
+  status(host, "running…");
+  const { data: d, status: st, ms } = await api("/api/query", null,
+    { sql, limit: Number($("#q-limit").value) || undefined });
+  host.textContent = "";
+  if (d.error) { errorCard(host, d, st); lastExecuted = ""; return; }
+  lastExecuted = d.sql_executed;
+  status(host, `${fmt(d.row_count)} row${d.row_count === 1 ? "" : "s"} · `
+    + `${d.elapsed_ms} ms in sqlite · ${ms} ms round trip`
+    + (d.truncated ? ` · TRUNCATED (${d.truncation_reason})` : ""), d.truncated);
+  renderTable(host, d.columns, d.rows);
+  renderNotes(host, d.notes);
+  renderCaveats(host, d.caveats, d.caveat_count, d.caveats_truncated, d.caveats_omitted);
+}
+
+/* ---------- 2. search ---------- */
+async function runSearch() {
+  const host = $("#s-out"); host.textContent = "";
+  status(host, "searching…");
+  const { data: d, status: st, ms } = await api("/api/search", {
+    q: $("#s-q").value, corpus: $("#s-corpus").value, entity: $("#s-entity").value,
+    date_from: $("#s-from").value, date_to: $("#s-to").value, limit: $("#s-limit").value });
+  host.textContent = "";
+  if (d.error) { errorCard(host, d, st); return; }
+  status(host, `${d.result_count} document${d.result_count === 1 ? "" : "s"} · ${ms} ms`
+    + (d.truncated ? " · more matches exist" : ""));
+  if (d.requoted_as) status(host, "FTS5 rejected the raw query; retried as " + d.requoted_as, true);
+  if (!d.result_count) {
+    host.appendChild(el("p", "clean", "No documents matched. An empty result here means "
+      + "the term does not appear in the indexed text — not that the matter never came up."));
+  } else {
+    const card = el("div", "card"), ul = el("ul", "hits");
+    for (const r of d.results) {
+      const li = el("li"), h = el("div", "h");
+      h.appendChild(el("span", "ent", r.entity_name || r.city));
+      if (r.date) h.appendChild(el("span", "dt", r.date));
+      if (r.dataset) h.appendChild(el("span", "ds", r.dataset));
+      if (r.title) h.appendChild(el("span", "dt", r.title));
+      li.appendChild(h);
+      const p = el("p", "pass");
+      /* snippet() delimits hits with >> <<; render them as marks, never as HTML */
+      for (const [i, part] of String(r.passage || "").split(/>>|<</).entries())
+        p.appendChild(i % 2 ? el("mark", null, part) : document.createTextNode(part));
+      li.appendChild(p);
+      if (r.path) {
+        const a = el("span", "pth", r.path);
+        a.addEventListener("click", () => {
+          $("#d-path").value = r.path; $("#d-off").value = "0";
+          selectTab("document"); runDoc();
+        });
+        li.appendChild(a);
+      }
+      ul.appendChild(li);
+    }
+    card.appendChild(ul); host.appendChild(card);
+    host.appendChild(el("p", "hint", d.note));
+  }
+  renderCaveats(host, d.caveats, d.caveat_count, false, null);
+}
+
+/* ---------- 3. entity ---------- */
+async function runEntity() {
+  const host = $("#e-out"); host.textContent = "";
+  const { data: d, status: st } = await api("/api/entity", { name: $("#e-name").value });
+  if (d.error) { errorCard(host, d, st); return; }
+  status(host, d.ambiguous ? "AMBIGUOUS — needs disambiguation before answering"
+                           : "resolved to " + d.best, d.ambiguous);
+  const card = el("div", "card");
+  for (const k of ["disambiguation", "straddle_note", "no_vote_layer_note"])
+    if (d[k]) card.appendChild(el("p", "warn", d[k]));
+  const ul = el("ul", "ents");
+  for (const c of d.candidates) {
+    const li = el("li"), nm = el("div");
+    nm.appendChild(el("span", "nm", c.name));
+    const sl = el("span", "sl", c.slug);
+    sl.title = "use this slug elsewhere in the console";
+    sl.addEventListener("click", () => {
+      $("#c-entity").value = c.slug; selectTab("coverage"); runCoverage();
+    });
+    nm.appendChild(sl);
+    li.appendChild(nm);
+    const bits = [c.level, c.has_vote_db ? "has vote layer" : "NO vote layer (by design)",
+      c.caveat_count + " caveat" + (c.caveat_count === 1 ? "" : "s")];
+    if (c.within && c.within.length) bits.push("within " + c.within.join(" + "));
+    if (c.member_of && c.member_of.length) bits.push("member of " + c.member_of.join(", "));
+    if (c.contains_count) bits.push("contains " + c.contains_count + " entities");
+    li.appendChild(el("div", "det", bits.join(" · ")));
+    if (c.relationship_note) li.appendChild(el("div", "hint", c.relationship_note));
+    ul.appendChild(li);
+  }
+  card.appendChild(ul); host.appendChild(card);
+}
+
+/* ---------- 4. coverage ---------- */
+async function runCoverage() {
+  const host = $("#c-out"); host.textContent = "";
+  const { data: d, status: st } = await api("/api/coverage", { entity: $("#c-entity").value });
+  if (d.error) { errorCard(host, d, st); return; }
+  status(host, `${d.row_count} coverage row${d.row_count === 1 ? "" : "s"}`
+    + (d.entity ? ` · ${d.entity_name} · ${d.level}`
+        + ` · ${d.has_vote_db ? "vote layer present" : "db-less BY DESIGN"}` : " · all entities"));
+  renderTable(host,
+    ["entity", "dataset", "motions", "passed", "outcome unknown", "first", "last"],
+    d.rows.map(r => [r.city, r.dataset, r.motions, r.passed, r.outcome_unknown,
+                     r.first_date, r.last_date]));
+  host.appendChild(el("p", "hint", d.note));
+  if (d.caveats) renderCaveats(host, d.caveats, d.caveats.length, false, null);
+}
+
+/* ---------- 5. document ---------- */
+async function runDoc() {
+  const host = $("#d-out"); host.textContent = "";
+  const { data: d, status: st, ms } = await api("/api/document",
+    { path: $("#d-path").value, offset: $("#d-off").value, max_chars: 12000 });
+  if (d.error) { errorCard(host, d, st); $("#d-more").disabled = true; return; }
+  status(host, `${fmt(d.chars_returned)} of ${fmt(d.total_chars)} chars`
+    + ` · offset ${fmt(d.offset)} · ${ms} ms`
+    + (d.entity_name ? ` · ${d.entity_name}` : "")
+    + (d.truncated ? " · more follows" : " · end of file"));
+  host.appendChild(el("pre", "doc", d.text));
+  $("#d-more").disabled = !d.truncated;
+  $("#d-more").dataset.next = d.next_offset ?? "";
+  renderCaveats(host, d.caveats, (d.caveats || []).length, false, null);
+}
+
+/* ---------- 6. schema ---------- */
+async function runSchema() {
+  const host = $("#x-out"); host.textContent = "";
+  const counts = $("#x-counts").classList.contains("on");
+  const { data: d, status: st } = await api("/api/schema",
+    { tables: $("#x-tables").value, counts: counts ? "1" : "" });
+  if (d.error) { errorCard(host, d, st); return; }
+  if (d.unknown) status(host, "unknown: " + d.unknown.join(", "), true);
+  if (!$("#x-tables").value.trim()) {
+    status(host, `${d.object_count} tables and views`);
+    renderTable(host, ["name", "kind", "rows"],
+      d.objects.map(o => [o.name, o.kind, o.rows ?? null]));
+    return;
+  }
+  status(host, `${d.objects.length} object${d.objects.length === 1 ? "" : "s"}`);
+  for (const o of d.objects) {
+    const card = el("div", "card");
+    card.appendChild(el("h2", null, o.name + "  (" + o.kind
+      + (o.rows != null ? ", " + fmt(o.rows) + " rows" : "") + ")"));
+    card.appendChild(el("p", "lead", (o.columns || []).join(" · ")));
+    card.appendChild(el("pre", "doc", o.sql || ""));
+    host.appendChild(card);
+  }
+}
+
+async function runGrep() {
+  const host = $("#g-out"); host.textContent = "";
+  status(host, "grepping…");
+  const { data: d, status: st, ms } = await api("/api/grep", {
+    pattern: $("#g-q").value, path: $("#g-path").value, glob: $("#g-glob").value,
+    regex: $("#g-regex").checked ? "1" : "", ignore_case: $("#g-case").checked ? "1" : "0",
+    limit: $("#g-limit").value });
+  host.textContent = "";
+  if (d.error) { errorCard(host, d, st); return; }
+  status(host, `${d.match_count} line${d.match_count === 1 ? "" : "s"} in `
+    + `${d.files_matched} file${d.files_matched === 1 ? "" : "s"} · ${ms} ms · ${d.engine}`);
+  /* A partial sweep must never read as a complete one. */
+  if (d.truncated) status(host, "PARTIAL — stopped on " + d.truncation_reason
+    + (d.hint ? ": " + d.hint : ""), true);
+  if (!d.match_count) {
+    host.appendChild(el("p", "clean", "No lines matched. If this was a repo-wide sweep, "
+      + "check truncation_reason before reading that as absence."));
+  } else {
+    const card = el("div", "card"), ul = el("ul", "hits");
+    for (const m of d.matches) {
+      const li = el("li"), h = el("div", "h");
+      if (m.entity) h.appendChild(el("span", "ent", m.entity));
+      h.appendChild(el("span", "dt", "line " + m.line_no));
+      li.appendChild(h);
+      /* Repo text is never HTML here — append as a text node. */
+      li.appendChild(el("p", "pass", m.line));
+      const a = el("span", "pth", m.path);
+      a.addEventListener("click", () => {
+        $("#d-path").value = m.path; $("#d-off").value = "0";
+        selectTab("document"); runDoc();
+      });
+      li.appendChild(a);
+      ul.appendChild(li);
+    }
+    card.appendChild(ul); host.appendChild(card);
+  }
+  renderCaveats(host, d.caveats, (d.caveats || []).length, false, null);
+}
+
+/* ---------- tabs ---------- */
+const PANES = [
+  ["query",    "Run SQL"],
+  ["search",   "Search"],
+  ["grep",     "Grep"],
+  ["entity",   "Entities"],
+  ["coverage", "Coverage"],
+  ["document", "Documents"],
+  ["schema",   "Schema"],
+];
+function selectTab(name) {
+  if (!PANES.some(p => p[0] === name)) name = PANES[0][0];
+  for (const t of document.querySelectorAll(".tab"))
+    t.classList.toggle("sel", t.dataset.pane === name);
+  for (const p of document.querySelectorAll(".pane"))
+    p.classList.toggle("sel", p.dataset.pane === name);
+  location.hash = name;
+}
+for (const [name, label] of PANES) {
+  const t = el("div", "tab", label);
+  t.dataset.pane = name;
+  t.addEventListener("click", () => selectTab(name));
+  $("#tabs").appendChild(t);
+}
+
+/* ---------- wiring ---------- */
+$("#q-run").addEventListener("click", runQuery);
+$("#q-sql").addEventListener("keydown", e => {
+  if ((e.metaKey || e.ctrlKey) && e.key === "Enter") runQuery();
+});
+$("#q-sqlbtn").addEventListener("click", () => {
+  alert(lastExecuted || "Run a query first — this shows the SQL after LIMIT injection.");
+});
+$("#s-run").addEventListener("click", runSearch);
+$("#s-q").addEventListener("keydown", e => { if (e.key === "Enter") runSearch(); });
+$("#g-run").addEventListener("click", runGrep);
+$("#g-q").addEventListener("keydown", e => { if (e.key === "Enter") runGrep(); });
+$("#e-run").addEventListener("click", runEntity);
+$("#e-name").addEventListener("keydown", e => { if (e.key === "Enter") runEntity(); });
+$("#c-run").addEventListener("click", runCoverage);
+$("#c-entity").addEventListener("keydown", e => { if (e.key === "Enter") runCoverage(); });
+$("#d-run").addEventListener("click", () => { $("#d-off").value = "0"; runDoc(); });
+$("#d-path").addEventListener("keydown", e => {
+  if (e.key === "Enter") { $("#d-off").value = "0"; runDoc(); } });
+$("#d-more").addEventListener("click", () => {
+  $("#d-off").value = $("#d-more").dataset.next || "0"; runDoc(); });
+$("#x-run").addEventListener("click", runSchema);
+$("#x-tables").addEventListener("keydown", e => { if (e.key === "Enter") runSchema(); });
+$("#x-counts").addEventListener("click", e => e.target.classList.toggle("on"));
+
+for (const c of document.querySelectorAll(".hint code")) {
+  c.addEventListener("click", () => {
+    if (c.dataset.sql != null) { $("#q-sql").value = c.dataset.sql; runQuery(); }
+    else if (c.closest("[data-pane=grep]")) {
+      $("#g-q").value = c.dataset.q;
+      $("#g-path").value = c.dataset.path || "";
+      $("#g-glob").value = c.dataset.glob || "";
+      runGrep();
+    }
+    else if (c.closest("[data-pane=entity]"))   { $("#e-name").value = c.dataset.name; runEntity(); }
+    else if (c.closest("[data-pane=coverage]")) { $("#c-entity").value = c.dataset.name; runCoverage(); }
+    else if (c.closest("[data-pane=schema]"))   { $("#x-tables").value = c.dataset.name; runSchema(); }
+  });
+}
+
+$("#theme").addEventListener("click", () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const dark = cur ? cur === "dark"
+                   : matchMedia("(prefers-color-scheme: dark)").matches;
+  document.documentElement.setAttribute("data-theme", dark ? "light" : "dark");
+});
+
+/* ---------- boot: every headline number is measured, none hardcoded ---------- */
+(async function boot() {
+  selectTab((location.hash || "#query").slice(1));
+  try {
+    const { data: h } = await api("/api/health");
+    $("#conn").textContent =
+      `connected · built ${String(h.built_at).slice(0, 16).replace("T", " ")}`
+      + ` · ${(h.db_bytes / 1e9).toFixed(2)} GB · timeout ${h.query_timeout_ms / 1000}s`;
+    const facts = [
+      [fmt(h.entities), "entities"], [fmt(h.motions), "motions"], [fmt(h.votes), "member votes"],
+      [fmt(h.fts_minutes_docs), "indexed docs"], [fmt(h.caveat_rows), "caveat rows"],
+      [h.row_limit_default + " / " + h.row_limit_max, "row cap · max"],
+    ];
+    for (const [b, s] of facts) {
+      const f = el("div", "fact");
+      f.appendChild(el("b", null, b)); f.appendChild(el("span", null, s));
+      $("#facts").appendChild(f);
+    }
+  } catch (e) {
+    $("#conn").textContent = "server.py is not running — start it with: python3 interface_prototype/server.py";
+    $("#conn").classList.add("err");
+    return;
+  }
+  runQuery();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+{
+ "sha256": "8a428f82f5eb35c7b0b72c7dcd2e64251988004f0e6be5c4e2b2ec0c9108ef5b",
+ "source_pdf": "raw/juab_2010_primary/Alden_Orme_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Alden_Orme_10-28-10.pdf",
+   "candidate": "Alden Ben Orme",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [
+  {
+   "date": "3/12/2010",
+   "payee": "Juab County",
+   "purpose": "filing fee",
+   "amount": "291.93",
+   "confidence": "medium",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.68,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "unknown",
+     "reason": "the filer left BOTH contribution lines blank on the cover (not zeroed), so there is no stated figure to gate against; Form A is present and blank"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "291.93",
+     "basis": "line 3 cumulative"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text (Utah Code 17-16-6.5)"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Alden_Orme_10-28-10.pdf|p2": 9.269,
+    "raw/juab_2010_primary/Alden_Orme_10-28-10.pdf|p3": 8.678
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "Form A exists and is entirely blank \u2014 a real zero read at the page, not an untranscribed side. Page 4 is the printed statute."
+  }
+ }
+}

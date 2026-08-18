@@ -1,0 +1,172 @@
+[
+ {
+  "index_path": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+  "page_start": 24,
+  "page_end": 26,
+  "key": "82e3126b",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   24,
+   25,
+   26
+  ],
+  "itemized_pages_A": "25",
+  "itemized_pages_B": "26",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 695.00, which is the cover's Totals-for-THIS-REPORT cell (695.00)",
+    "detail": "the single Form B row (695.00, Standard Examiner, 12-18-18) sums to 695.00 = the schedule's printed total = the cover's This-Report column on line 2. Cumulative 9,203.52 = 8,508.52 carried from the last report + 695.00, and the prior-period expenditures are not itemized on this schedule."
+   }
+  },
+  "escalations": 1,
+  "escalation_note": "one 900 dpi tight --value crop on p26 row 1's amount cell to prove the measured row band before relying on the frame; it reproduced the printed 695 with the superscript cents.",
+  "frames": {
+   "26": {
+    "axis": "x",
+    "cell": [
+     5.35,
+     15.58
+    ],
+    "cells": [
+     [
+      5.35,
+      15.58
+     ],
+     [
+      15.58,
+      33.6
+     ],
+     [
+      33.6,
+      43.85
+     ],
+     [
+      43.85,
+      87.33
+     ],
+     [
+      87.33,
+      95.1
+     ]
+    ],
+    "rows": [
+     [
+      15.51,
+      19.99
+     ],
+     [
+      19.99,
+      23.02
+     ],
+     [
+      23.02,
+      26.07
+     ],
+     [
+      26.07,
+      29.13
+     ],
+     [
+      29.13,
+      32.12
+     ],
+     [
+      32.12,
+      35.1
+     ],
+     [
+      35.1,
+      38.06
+     ],
+     [
+      38.06,
+      41.1
+     ],
+     [
+      41.1,
+      43.98
+     ],
+     [
+      43.98,
+      46.89
+     ],
+     [
+      46.89,
+      49.78
+     ],
+     [
+      49.78,
+      52.75
+     ],
+     [
+      52.75,
+      55.7
+     ],
+     [
+      55.7,
+      58.63
+     ],
+     [
+      58.63,
+      61.57
+     ],
+     [
+      61.57,
+      64.56
+     ],
+     [
+      64.56,
+      67.56
+     ],
+     [
+      67.56,
+      70.55
+     ],
+     [
+      70.55,
+      73.52
+     ],
+     [
+      73.52,
+      76.48
+     ],
+     [
+      76.48,
+      79.5
+     ],
+     [
+      79.5,
+      82.5
+     ],
+     [
+      82.5,
+      85.44
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet: the printed ROW separators are the VERTICAL rules and the column separators the horizontal ones, so axis='x'. Column rules measured by dark-run projection over the table's x-extent (12-82% of width) and stable at every coverage threshold 0.35-0.85: 5.35 / 15.58 / 33.60 / 43.85 / 87.33 / 95.10 = Amount | Purpose | City | Person-or-Organization | Date. cell = the Amount band [5.35,15.58]. Row rules measured over the table's y-extent (6-95%) at coverage 0.35; 21 of 23 were detected directly and TWO (35.10, 38.06) were extrapolated on the grid's constant ~2.98 pitch across the one detection gap (32.12 -> 41.10). Row 1's band was PROVED with a 900 dpi make_snippet --value crop at pct:15.51,5.35,4.48,10.23@p26, which reproduced the printed amount; no transcribed row falls in the extrapolated span."
+   }
+  },
+  "contributions": [],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "12-18-18",
+    "vendor_raw": "Standard Examiner",
+    "purpose": "advertising",
+    "amount": "695.00",
+    "page": 26,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the form's separate City column reads 'Ogden'; Form B has no field for it in the row contract, so it is recorded here rather than folded into the vendor name. Amount is written '695' with a superscript '00' cents."
+   }
+  ],
+  "notes": "Scott K Jenkins, County Commissioner Seat B, 2018 cycle \u2014 handwritten 3-line form, January-7th-2019 final-report box ticked, signed 12-30-18. CONTRIBUTIONS: the Form A page (p25) EXISTS and is entirely BLANK \u2014 every printed row empty \u2014 with a handwritten '0 -' in its 'Total Contributions: (to line 1 of report)' box, matching the cover's line-1 This-Report cell written '-0'. That is an empty-schedule (the filer entered nothing), NOT a missing page and NOT an untranscribed one; the zero glyphs are quoted here verbatim and no row was invented. The cover's line-1 cumulative 11,426.61 equals the Totals-from-Last-Report column unchanged. EXPENDITURES: Form B (p26) carries exactly one printed entry. The cover's line-3 'this report' cell is written 695.00 as a POSITIVE though the balance decreases by that amount (2,918.09 -> 2,223.09) \u2014 the filer's own sign convention, retained (also flagged in the 2026-08-01 totals cache). Candidate street address and phones printed on the cover are deliberately NOT carried (PRIVACY.md)."
+ }
+]

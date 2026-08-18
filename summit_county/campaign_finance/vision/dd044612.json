@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2024 sheet. Current cells are a slashed-zero nil mark (blank). In the CUMULATIVE column the filer wrote '501' with a superscript '55' ABOVE the pre-printed '$ 0.00' and struck the printed zero — read as 501.55, medium confidence. Previous column reads 501 with superscript 55. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2024 sheet. Current cells are a slashed-zero nil mark (blank). In the CUMULATIVE column the filer wrote '501' with a superscript '55' ABOVE the pre-printed '$ 0.00' and struck the printed zero — read as 501.55, medium confidence. Previous column reads 501 with superscript 55. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "501.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.12,30.79,69.44,2.99@p2",
+   "geometry_fit": "measured",
+   "note": "no date on the form; the amount is HANDWRITTEN as '$501 55' (superscript cents) on the line below the name, over a struck typed zero. One logical row across two printed lines",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "501.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.18,23.21,75.32,3.01@p3",
+   "geometry_fit": "measured",
+   "note": "no date on the form; amount handwritten '501 55' with superscript cents",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "501.55",
+    "itemized": "501.55",
+    "result": "exact",
+    "detail": "exact - the one contribution row (the handwritten $501 55) equals the cover's 501.55. The typed TOTAL cell still reads $0.00 and is the template default the filer struck"
+   },
+   "expenditures": {
+    "stated": "501.55",
+    "itemized": "501.55",
+    "result": "exact",
+    "detail": "exact - the one expenditure row (Summit County Clerk, Candidate Filing Fee, handwritten 501 55) equals the cover's 501.55"
+   }
+  },
+  "page_gates": "Both pages print a typed in-table TOTAL of '$ 0.00' that the filer/clerk STRUCK OUT and replaced by hand with 501.55. The single row on each page carries that same 501.55 and the cover states 501.55 on both sides - three agreeing figures against one abandoned template default.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2024 sheet with a HANDWRITTEN CORRECTION made on the page. The template's typed TOTAL cells both print '$ 0.00'; on the expense sheet that zero is STRUCK THROUGH in pen and '501 55' written beside it (superscript cents, the filers' convention), initialled with a mark reading '7AS'. The single contribution row's amount cell likewise carries a struck zero with '$501 55' written on the line below it. The HANDWRITTEN figures are the ones transcribed (the SLCo clerk-correction precedent: a struck typed cell replaced in pen is a correction, not an ambiguity), and they agree with the cover's promoted 501.55 on both sides. NEITHER row carries a DATE - the Date column is empty on both pages, so both rows are dated BLANK and flagged; a date is never inferred from the report period. This POST-ELECTION sheet is the PRE-ELECTION sheet (24239) re-filed unchanged, handwritten correction and all. Never sum the two."
+ }
 }

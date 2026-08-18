@@ -47,6 +47,154 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2024 sheet; the CUMULATIVE column prints $0.00 on every row against a Current of 640.86 — a filer inconsistency (the template's default $0.00 left in place), retained verbatim and NOT promoted over the Current figure by the builder (see the module's promotion rule)."
+ "itemized_transcribed": true,
+ "notes": "Typed 2024 sheet; the CUMULATIVE column prints $0.00 on every row against a Current of 640.86 — a filer inconsistency (the template's default $0.00 left in place), retained verbatim and NOT promoted over the Current figure by the builder (see the module's promotion rule).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2023-11-19",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "205.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.71,25.80,72.41,3.31@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate's own money; the form prints no donor name beyond this label",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2024-01-02",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "339.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.71,28.62,72.41,3.31@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2024-02-25",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "96.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.71,31.44,72.41,3.33@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "339.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,20.57,78.56,3.16@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2024-02-25",
+   "vendor_raw": "Staples",
+   "purpose": "Candidate Flyer",
+   "amount": "96.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,23.41,78.56,3.11@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2024-11-19",
+   "vendor_raw": "Square Space",
+   "purpose": "Website",
+   "amount": "205.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,26.20,78.56,3.14@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "640.86",
+    "itemized": "640.86",
+    "result": "exact",
+    "detail": "exact - 205.00 + 339.46 + 96.40 = 640.86, equal to the page's own TOTAL row and the cover"
+   },
+   "expenditures": {
+    "stated": "640.86",
+    "itemized": "640.86",
+    "result": "exact",
+    "detail": "exact - 339.46 + 96.40 + 205.00 = 640.86, equal to the page's TOTAL row and the cover"
+   }
+  },
+  "page_gates": "p2 prints an in-table TOTAL of 640.86 and its 3 rows sum to 640.86; p3 prints an in-table TOTAL of 640.86 and its 3 rows sum to 640.86. Both agree with the cover's promoted figures.",
+  "escalations": 0,
+  "n_contrib_rows": 3,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 6,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2024 sheet. All three contributions are the candidate's own, labelled 'Personal Contribution', and each is matched to the cent by an expenditure - 339.46 the filing fee, 96.40 a Staples flyer, 205.00 a Square Space website. The DATES DO NOT LINE UP with that pairing: the 205.00 contribution is dated 11/19/2023 while the 205.00 Square Space expense is dated 11/19/2024. The filer's dates are kept verbatim, never reconciled."
+ }
 }

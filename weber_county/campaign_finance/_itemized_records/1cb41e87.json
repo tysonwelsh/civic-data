@@ -1,0 +1,502 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_f7ac73e5.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "1cb41e87",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed total, 'Total Contributions: (to line 1 of report):  $ 12,904.63' (p2), which equals the cover's THIS REPORT cell (12,904.63)",
+    "detail": "5 Form A rows sum to 12,904.63 exactly (6,000.00 + 1,500.00 + 2,500.00 + 1,041.02 + 1,863.61), matching the schedule's own printed total and the cover's This-Report column. The cover's Cumulative Total is 99,381.65 and its Last Report column is 86,477.02 (86,477.02 + 12,904.63 = 99,381.65 exactly), so the schedule is PERIOD-scoped behind a cumulative cover and the prior 86,477.02 is never itemized here. No figure was synthesized by differencing covers. IN-KIND CONVENTION: no row on this schedule is labelled in-kind, so monetary-only and monetary-plus-in-kind give the identical 12,904.63 and the side closes under both."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed total, 'Total Expenditures: (to line 2 of report):  16,004.52' (p3), which equals the cover's THIS REPORT cell (16,004.52)",
+    "detail": "13 Form B rows sum to 16,004.52 exactly, matching the schedule's own printed total and the cover's This-Report column; the cover's Last Report column is 83,377.13 and 83,377.13 + 16,004.52 = 99,381.65 = the printed Cumulative Total, so this side too is period-scoped behind a cumulative cover. No in-kind labels appear, so both in-kind conventions close identically. Note that the cover prints the SAME cumulative figure, 99,381.65, on the contributions line and on the expenditures line; that is arithmetically correct on both lines independently and is what produces the printed 0.00 cumulative ending balance - it is a coincidence of this zeroed-out final account, not a transcription of one figure into two cells."
+   }
+  },
+  "escalations": 3,
+  "escalation_note": "900dpi tight --value crops used only as geometry proofs (4) plus one re-crop of p2 row 5 after a first-pass band-index error; no amount on either schedule was in doubt at full-page resolution, and every printed total closed on the first arithmetic pass.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     78.28,
+     88.12
+    ],
+    "cells": [
+     [
+      4.12,
+      11.76
+     ],
+     [
+      11.76,
+      39.57
+     ],
+     [
+      39.57,
+      78.28
+     ],
+     [
+      78.28,
+      88.12
+     ]
+    ],
+    "rows": [
+     [
+      19.53,
+      22.24
+     ],
+     [
+      22.24,
+      24.93
+     ],
+     [
+      24.93,
+      27.64
+     ],
+     [
+      27.64,
+      30.35
+     ],
+     [
+      30.35,
+      33.07
+     ],
+     [
+      33.07,
+      35.78
+     ],
+     [
+      35.78,
+      38.47
+     ],
+     [
+      38.47,
+      41.15
+     ],
+     [
+      41.15,
+      43.89
+     ],
+     [
+      43.89,
+      46.58
+     ],
+     [
+      46.58,
+      49.29
+     ],
+     [
+      49.29,
+      52.01
+     ],
+     [
+      52.01,
+      54.72
+     ],
+     [
+      54.72,
+      57.4
+     ],
+     [
+      57.4,
+      60.12
+     ],
+     [
+      60.12,
+      62.83
+     ],
+     [
+      62.83,
+      65.58
+     ],
+     [
+      65.58,
+      68.26
+     ],
+     [
+      68.26,
+      70.94
+     ],
+     [
+      70.94,
+      73.63
+     ],
+     [
+      73.63,
+      76.34
+     ],
+     [
+      76.34,
+      79.06
+     ],
+     [
+      79.06,
+      81.8
+     ],
+     [
+      81.8,
+      84.48
+     ],
+     [
+      84.48,
+      87.2
+     ]
+    ],
+    "measure_note": "rowbands.py returned 30 h_rules on this typed sheet, three of which are NOT printed rules: two text baselines inside data row 2 (23.60, 24.22 - the known baseline-registration defect) and a stray at 99.91 at the very foot of the page. Removing those leaves a clean 2.69-2.71 pct constant pitch (16.84, 19.53, 22.24, 24.93, 27.64, ... 87.20). The 2026 form prints NO grey spacer band, so only ONE leading rule is trimmed (the header-row top); rows[0] is the header-row bottom to the first data-row bottom. 25 bands for the 25 printed data rows, of which only rows 1-5 carry entries. PROOF (900dpi --value crops of the stored geometry): row 1 rendered '$ 6,000.00' (recorded 6000.00); row 5, the LAST transcribed row, rendered '$ 1,863.61' (recorded 1863.61). A first-pass proof that mis-indexed row 5 to band [27.64,30.35] rendered '$ 1,041.02' - the row-4 figure - and the band list was re-derived and re-proved before this record was written."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     77.5,
+     86.5
+    ],
+    "cells": [
+     [
+      5.0,
+      13.4
+     ],
+     [
+      13.4,
+      36.9
+     ],
+     [
+      36.9,
+      48.15
+     ],
+     [
+      48.15,
+      77.5
+     ],
+     [
+      77.5,
+      86.5
+     ]
+    ],
+    "rows": [
+     [
+      27.91,
+      30.62
+     ],
+     [
+      30.62,
+      33.33
+     ],
+     [
+      33.33,
+      36.05
+     ],
+     [
+      36.05,
+      38.76
+     ],
+     [
+      38.76,
+      41.42
+     ],
+     [
+      41.42,
+      44.13
+     ],
+     [
+      44.13,
+      46.84
+     ],
+     [
+      46.84,
+      49.56
+     ],
+     [
+      49.56,
+      52.27
+     ],
+     [
+      52.27,
+      54.99
+     ],
+     [
+      54.99,
+      57.7
+     ],
+     [
+      57.7,
+      60.41
+     ],
+     [
+      60.41,
+      63.13
+     ],
+     [
+      63.13,
+      65.84
+     ],
+     [
+      65.84,
+      68.5
+     ],
+     [
+      68.5,
+      71.21
+     ],
+     [
+      71.21,
+      73.92
+     ],
+     [
+      73.92,
+      76.64
+     ],
+     [
+      76.64,
+      79.35
+     ],
+     [
+      79.35,
+      82.06
+     ],
+     [
+      82.06,
+      84.78
+     ],
+     [
+      84.78,
+      87.46
+     ]
+    ],
+    "measure_note": "rowbands.py returned 49 h_rules here; the run from 27.91 to 63.13 alternates at ~1.35 pct - exactly HALF the printed pitch - because each of the 13 filled data rows registers its text baseline as a rule (the known defect), while from 63.13 down (the blank rows, which carry no text) the detector returns the true 2.71 pct pitch unaided. The regular-pitch subsequence was taken (27.91, 30.62, 33.33, ... 87.46) and the 13 dropped values are exactly the 13 filled rows' baselines. Leading trim: the two-line header box ends at 25.19 and this sheet prints ONE wholly blank table row between the header and the first entry, so rows[0] starts at 27.91 (Sunprint Solutions). The Amount column was NOT detected by rowbands (v_rules_pct returned only the two interior rules at 36.90 and 48.15), so its band was hand-measured off the 200dpi render at 77.5-86.5 pct and then PROVED by the crops below rather than asserted. 22 bands, rows 1-13 filled. PROOF: row 1 rendered '$ 3,497.81' (recorded 3497.81); row 13, the LAST transcribed row, rendered '$ 417.50' (recorded 417.50). deskew_deg reported 0.0 on both pages, so no drift correction was needed."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "6/19/26",
+    "donor_raw": "Gage Froerer Campaign Fund",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "6000.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street address REDACTED BY THE COUNTY (solid black box printed over the street portion of the address cell); city, state and ZIP survive the redaction and are recorded"
+   },
+   {
+    "line_no": "2",
+    "date": "6/19/26",
+    "donor_raw": "Northern Wasatch Association of Realtors",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street address REDACTED BY THE COUNTY (solid black box printed over the street portion of the address cell); city, state and ZIP survive the redaction and are recorded"
+   },
+   {
+    "line_no": "3",
+    "date": "6/19/26",
+    "donor_raw": "Matthew Bell",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street address REDACTED BY THE COUNTY (solid black box printed over the street portion of the address cell); city, state and ZIP survive the redaction and are recorded"
+   },
+   {
+    "line_no": "4",
+    "date": "7/1/26",
+    "donor_raw": "Mark Hilles",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1041.02",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street address REDACTED BY THE COUNTY (solid black box printed over the street portion of the address cell); city, state and ZIP survive the redaction and are recorded"
+   },
+   {
+    "line_no": "5",
+    "date": "7/12/26",
+    "donor_raw": "James Ebert",
+    "donor_city": "Farr West",
+    "donor_state": "UT",
+    "amount": "1863.61",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street address REDACTED BY THE COUNTY (solid black box printed over the street portion of the address cell); city, state and ZIP survive the redaction and are recorded"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "6/17/26",
+    "vendor_raw": "Sunprint Solutions",
+    "vendor_city": "West Valley",
+    "vendor_state": "UT",
+    "purpose": "Supplies: Printed Materials/Mailer",
+    "amount": "3497.81",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "6/23/26",
+    "vendor_raw": "Rate Now",
+    "vendor_city": "Centerville",
+    "purpose": "Campaign Expense: Technology/Text Messaging",
+    "amount": "859.95",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "6/23/26",
+    "vendor_raw": "Bell Printing",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies: Printed Materials",
+    "amount": "232.73",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "6/23/26",
+    "vendor_raw": "Rate Now",
+    "vendor_city": "Centerville",
+    "purpose": "Campaign Expense: Technology/Text Messaging",
+    "amount": "266.14",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "6/17/26",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies: Printed Materials/Mailer",
+    "amount": "3174.17",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "6/17/26",
+    "vendor_raw": "Roost",
+    "vendor_city": "Salt Lake City",
+    "vendor_state": "UT",
+    "purpose": "Supplies: Printed Materials",
+    "amount": "618.60",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "6/17/26",
+    "vendor_raw": "Roost",
+    "vendor_city": "Salt Lake City",
+    "vendor_state": "UT",
+    "purpose": "Supplies: Printed Materials",
+    "amount": "618.60",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "8",
+    "date": "6/17/26",
+    "vendor_raw": "Roost",
+    "vendor_city": "Salt Lake City",
+    "vendor_state": "UT",
+    "purpose": "Advertising: Social Media",
+    "amount": "1500.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "6/27/26",
+    "vendor_raw": "Bell Printing",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies: Signs",
+    "amount": "1898.33",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "6/27/26",
+    "vendor_raw": "Bell Printing",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies: Signs",
+    "amount": "2863.58",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "6/27/26",
+    "vendor_raw": "Bell Printing",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies: Printed Materials",
+    "amount": "16.09",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "12",
+    "date": "7/1/26",
+    "vendor_raw": "Winred",
+    "vendor_city": "Arlington",
+    "vendor_state": "VA",
+    "purpose": "Campaign Expense: Fundraising Expense",
+    "amount": "41.02",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "13",
+    "date": "7/12/26",
+    "vendor_raw": "Richards and Richards",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Expense:  Legal Services",
+    "amount": "417.50",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "3-page 2026 per-candidate scan: p1 the typed cover (2026 form variant, 3-line summary), p2 Form A 'Itemized Report of Contributions (money received)', p3 Form B 'Itemized Report of Expenditures (money spent)'. CHECKED AGAINST THE BORN-DIGITAL FAMILY RULE: none of the three pages carries the 'Document generated with Polimorphic.com' footer, so this filing is NOT a Polimorphic e-filing and was vision-read as instructed. The filing schedule box '30 days after withdrawal or Primary Election elimination' IS checked; the candidate signature is present but the DATE BOX IS BLANK (honest gap - index.csv carries no filing date for this key either). REDACTION, and this is a county act, not a filer omission: on p1 the Street Address and City-Zip cells of the candidate block are covered by a solid black box, and on p2 every donor row's street-address portion is likewise blacked out while the city/state/ZIP tail is left legible. Donor city and state are therefore recorded from what survives; nothing was inferred behind a redaction. Dates are the filer's two-digit-year form ('6/19/26') and are kept verbatim. One donor row is the candidate himself (James Ebert, 1,863.61, 7/12/26) - a self-contribution, reported as one ordinary Form A row and not annotated as a loan."
+ }
+]

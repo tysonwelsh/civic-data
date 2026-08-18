@@ -1,0 +1,1053 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_7e3a53_300692b1.pdf",
+  "page_start": 1,
+  "page_end": 6,
+  "key": "0fcf167d",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "itemized_pages_A": "3,4",
+  "itemized_pages_B": "5,6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "the Itemized Contribution Report's own printed 'TOTAL 13,174.00' at the foot of its second sheet (p4)",
+    "detail": "CONTINUATION-SHEET GATE: the schedule runs over two sheets (p3 19 rows, p4 19 rows) with NO per-sheet subtotal, printing one grand total on the last sheet only, so the gate is the multi-sheet sum. p3 sums to 737.00, p4 to 12,437.00, together 13,174.00 = the printed TOTAL = the cover's 'This Report' contributions cell = the p2 summary sheet's 'Total Contributions on This Report'. The CUMULATIVE 39,405.39 (= 26,231.39 last + 13,174.00) is larger and its prior-period money is not itemized on this document. Six rows are filer-tagged in-kind (6,682.00 of the 13,174.00) and all six count toward the printed total."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "the Itemized Expenditures Report's own printed 'TOTAL 19,790.56' at the foot of its second sheet (p6)",
+    "detail": "Same continuation-sheet gate: p5 19 rows sum to 12,618.19, p6 3 rows to 7,172.37, together 19,790.56 = the printed TOTAL = the cover's 'This Report' expenditures cell = the p2 summary sheet. Cumulative 33,532.74 (= 13,742.18 + 19,790.56) is not itemized here. Spending exceeds receipts this period, which is why the cover's This-Report balance is the NEGATIVE (6,616.56) - printed in accounting parentheses on the p2 summary and with a minus sign on the p1 cover."
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "900 dpi tight --value crops as the geometry spot-verification, one per itemized sheet plus the two rows whose bands are tightest: p3 row 14 (200.00), p4 row 16 (3,950.00), p5 row 18 (4,950.00), p5 row 19 (2.71, the last band, extrapolated on pitch and then proved), p6 row 3 (6,959.25). Plus one low-coverage rule probe per sheet to measure the amount-column text lines. No legibility dispute arose - all four schedule sheets are cleanly typed spreadsheet prints; only the COVER is handwritten and its figures were transcribed in the 2026-08-01 totals tranche.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     58.0,
+     67.0
+    ],
+    "rows": [
+     [
+      15.84,
+      17.84
+     ],
+     [
+      19.54,
+      21.54
+     ],
+     [
+      23.18,
+      25.18
+     ],
+     [
+      26.77,
+      28.77
+     ],
+     [
+      30.36,
+      32.36
+     ],
+     [
+      33.91,
+      35.91
+     ],
+     [
+      37.52,
+      39.52
+     ],
+     [
+      41.07,
+      43.07
+     ],
+     [
+      44.64,
+      46.64
+     ],
+     [
+      48.19,
+      50.19
+     ],
+     [
+      51.74,
+      53.74
+     ],
+     [
+      55.28,
+      57.28
+     ],
+     [
+      58.83,
+      60.83
+     ],
+     [
+      62.38,
+      64.38
+     ],
+     [
+      65.97,
+      67.97
+     ],
+     [
+      69.5,
+      71.5
+     ],
+     [
+      73.09,
+      75.09
+     ],
+     [
+      76.68,
+      78.68
+     ],
+     [
+      80.36,
+      82.36
+     ]
+    ],
+    "measure_note": "The 2026 schedules are typed SPREADSHEET prints whose rules are pale grey and largely lost in the CamScanner capture, so rowbands finds no usable grid. The bands are measured instead from the page's own printed AMOUNT lines: a dark-run probe restricted to the amount-column x-window (55-68 pct) returns exactly 19 entry lines at 16.84 .. 81.36 pct on a constant ~3.58 pct pitch (13.15 = the 'Amount' column header, excluded), and the independent count of 19 matches the 19 transcribed rows. Each band is that measured centre +/- 1.00 pct. Every entry occupies two printed lines (name, then city/state) but only the first carries the amount, which is the line banded here. PROVED with a 900 dpi --value crop at row 14, which reproduces 200.00."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     58.0,
+     67.0
+    ],
+    "rows": [
+     [
+      10.86,
+      12.56
+     ],
+     [
+      14.56,
+      16.26
+     ],
+     [
+      18.2,
+      19.9
+     ],
+     [
+      21.75,
+      23.45
+     ],
+     [
+      25.34,
+      27.04
+     ],
+     [
+      28.88,
+      30.58
+     ],
+     [
+      32.43,
+      34.13
+     ],
+     [
+      35.94,
+      37.64
+     ],
+     [
+      37.69,
+      39.39
+     ],
+     [
+      41.22,
+      42.92
+     ],
+     [
+      44.7,
+      46.4
+     ],
+     [
+      48.21,
+      49.91
+     ],
+     [
+      51.78,
+      53.48
+     ],
+     [
+      55.33,
+      57.03
+     ],
+     [
+      58.83,
+      60.53
+     ],
+     [
+      62.3,
+      64.0
+     ],
+     [
+      65.78,
+      67.48
+     ],
+     [
+      69.29,
+      70.99
+     ],
+     [
+      72.81,
+      74.51
+     ]
+    ],
+    "measure_note": "Same method as p3. The probe returns 19 entry lines at 11.71 .. 73.66 pct (9.78 = the repeated 'SHARON ARRINGTON BOLOS' header line and 79.07 = the TOTAL line, both excluded), matching the 19 transcribed rows. The pitch is ~3.55 EXCEPT between rows 8 and 9 (36.79 -> 38.54, half pitch) because row 8 'Anonymous' has no city line under it - the half-step is itself evidence the row indexing is right. Bands are the measured centre +/- 0.85 pct so those two neighbours do not overlap. PROVED with a 900 dpi --value crop at row 16, which reproduces 3,950.00."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     52.0,
+     61.0
+    ],
+    "rows": [
+     [
+      15.98,
+      17.98
+     ],
+     [
+      19.63,
+      21.63
+     ],
+     [
+      23.18,
+      25.18
+     ],
+     [
+      26.75,
+      28.75
+     ],
+     [
+      30.27,
+      32.27
+     ],
+     [
+      33.78,
+      35.78
+     ],
+     [
+      37.31,
+      39.31
+     ],
+     [
+      40.79,
+      42.79
+     ],
+     [
+      44.34,
+      46.34
+     ],
+     [
+      47.85,
+      49.85
+     ],
+     [
+      51.36,
+      53.36
+     ],
+     [
+      54.86,
+      56.86
+     ],
+     [
+      58.34,
+      60.34
+     ],
+     [
+      61.87,
+      63.87
+     ],
+     [
+      65.4,
+      67.4
+     ],
+     [
+      68.92,
+      70.92
+     ],
+     [
+      72.54,
+      74.54
+     ],
+     [
+      76.13,
+      78.13
+     ],
+     [
+      79.66,
+      81.66
+     ]
+    ],
+    "measure_note": "Same method; amount-column window 50-61 pct. The probe returns 18 clean entry lines 16.98 .. 77.13 at a constant ~3.53 pct pitch (13.45 = the 'Amount' header), and the 19th row's line is split by the scan into two adjacent runs (80.46 / 81.12); its band is taken from the pitch (77.13 + 3.53 = 80.66) rather than from either fragment, and PROVED with a 900 dpi --value crop that reproduces 2.71. Row 18 was likewise proved (4,950.00)."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     52.0,
+     61.0
+    ],
+    "rows": [
+     [
+      9.86,
+      11.86
+     ],
+     [
+      13.71,
+      15.71
+     ],
+     [
+      17.41,
+      19.41
+     ]
+    ],
+    "measure_note": "Same method. Three entry lines at 10.86 / 14.71 / 18.41 pct (23.90 = the TOTAL line, excluded), matching the three transcribed rows. PROVED with a 900 dpi --value crop at row 3, which reproduces 6,959.25."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "04/16/26",
+    "donor_raw": "Nicole Young",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "04/16/26",
+    "donor_raw": "Jan Wilson",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "04/16/26",
+    "donor_raw": "Amy's Hair Factory",
+    "donor_city": "Hooper",
+    "donor_state": "UT",
+    "amount": "22.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "04/16/26",
+    "donor_raw": "Kenton Jepson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "04/16/26",
+    "donor_raw": "Mike Ostermiller",
+    "donor_city": "Kaysville",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "04/16/26",
+    "donor_raw": "Dena Grose",
+    "donor_city": "Boise",
+    "donor_state": "ID",
+    "amount": "20.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the only out-of-state donor on this schedule (Boise ID)."
+   },
+   {
+    "line_no": "7",
+    "date": "04/16/26",
+    "donor_raw": "Leila Johnson",
+    "donor_city": "Centerville",
+    "donor_state": "UT",
+    "amount": "40.00",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "04/16/26",
+    "donor_raw": "Pam Hansen",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "04/16/26",
+    "donor_raw": "Kelsey Berg",
+    "donor_city": "Heber City",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "10",
+    "date": "04/16/26",
+    "donor_raw": "Steve Waldrip",
+    "donor_city": "Ogden Valley City",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city as the filer wrote it: 'Ogden Valley City', the municipality incorporated out of unincorporated Weber County in 2024."
+   },
+   {
+    "line_no": "11",
+    "date": "04/16/26",
+    "donor_raw": "Anne Kendrick",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "04/17/26",
+    "donor_raw": "Gina Berg",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "13",
+    "date": "04/17/26",
+    "donor_raw": "Emily Wilde",
+    "donor_city": "Honeyville",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "04/17/26",
+    "donor_raw": "Austin Slaughter",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "15",
+    "date": "04/17/26",
+    "donor_raw": "Susan Richins",
+    "donor_city": "Henefer",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "16",
+    "date": "04/17/26",
+    "donor_raw": "Dawnell Musselman",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 3,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "17",
+    "date": "04/17/26",
+    "donor_raw": "Laura Warburton",
+    "donor_city": "Ogden Valley City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "04/17/26",
+    "donor_raw": "Jodi Bailey",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "60.00",
+    "page": 3,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer lists Jodi Bailey twice on consecutive sheets (60.00 here on 04/17/26, 20.00 again as the first row of p4 on the same date); both are retained as the document reports them - the printed TOTAL only closes with both."
+   },
+   {
+    "line_no": "19",
+    "date": "04/17/26",
+    "donor_raw": "River View Ranch",
+    "donor_city": "Washington Terrace",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 3,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "04/17/26",
+    "donor_raw": "Jodi Bailey",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "second Jodi Bailey entry, same date - see the p3 note; not a duplicate to be collapsed."
+   },
+   {
+    "line_no": "21",
+    "date": "04/18/26",
+    "donor_raw": "Leslie Saunders",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "04/18/26",
+    "donor_raw": "Tyler Seaman",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 4,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "04/18/26",
+    "donor_raw": "Sheri Bingham",
+    "donor_city": "Hooper",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "04/18/26",
+    "donor_raw": "Russell Erickson",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "25",
+    "date": "04/21/26",
+    "donor_raw": "Jonathan Richards",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "26",
+    "date": "04/21/26",
+    "donor_raw": "Lacy Richards",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "27",
+    "date": "04/21/26",
+    "donor_raw": "Anonymous",
+    "amount": "20.00",
+    "page": 4,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer's own entry reads 'Anonymous' and carries NO city line at all - city/state are blank because the FILER left them empty, not because anything was redacted or trimmed. At 20.00 it is under the form's $50 anonymous-contribution threshold."
+   },
+   {
+    "line_no": "28",
+    "date": "04/21/26",
+    "donor_raw": "Emily Rogers",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "29",
+    "date": "04/22/26",
+    "donor_raw": "Jim McGregor",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 4,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "30",
+    "date": "04/25/26",
+    "donor_raw": "Dean Halling",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 4,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "31",
+    "date": "04/27/26",
+    "donor_raw": "Jackson Bolos",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "232.00",
+    "page": 4,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tags this 'in-kind' in the unheaded column right of Amount; it counts toward the printed TOTAL."
+   },
+   {
+    "line_no": "32",
+    "date": "04/30/26",
+    "donor_raw": "Saunders Outdoor",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tag 'in-kind'."
+   },
+   {
+    "line_no": "33",
+    "date": "05/07/26",
+    "donor_raw": "Northern Wasatch Realtors",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1100.00",
+    "page": 4,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tag 'in-kind'."
+   },
+   {
+    "line_no": "34",
+    "date": "05/07/26",
+    "donor_raw": "Saunders Outdoor",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tag 'in-kind'."
+   },
+   {
+    "line_no": "35",
+    "date": "05/07/26",
+    "donor_raw": "Northern Wasatch Realtors",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "3950.00",
+    "page": 4,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tag 'in-kind'."
+   },
+   {
+    "line_no": "36",
+    "date": "05/07/26",
+    "donor_raw": "Reagan Outdoor Advertising",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 4,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "filer tag 'in-kind'."
+   },
+   {
+    "line_no": "37",
+    "date": "05/11/26",
+    "donor_raw": "Sharon Bolos",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 4,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer tags this 'loan' in the column right of Amount - a self-loan from the candidate, reported as a contribution on this schedule and counted in its TOTAL. Tag recorded here, not folded into the name."
+   },
+   {
+    "line_no": "38",
+    "date": "05/14/26",
+    "donor_raw": "Gage Froerer",
+    "donor_city": "Ogden Valley City",
+    "amount": "5000.00",
+    "page": 4,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "donor_state BLANK because the filer wrote only 'Ogden Valley City' with no state on this line (left empty by the FILER). Donor is Weber County Commissioner Gage Froerer's campaign money."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "04/01/26",
+    "vendor_raw": "America First",
+    "purpose": "service charge",
+    "amount": "5.00",
+    "page": 5,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Riverdale UT'."
+   },
+   {
+    "line_no": "2",
+    "date": "04/02/26",
+    "vendor_raw": "Amazon",
+    "purpose": "tablecloth",
+    "amount": "20.37",
+    "page": 5,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer wrote 'Internet' where the city line goes."
+   },
+   {
+    "line_no": "3",
+    "date": "04/04/26",
+    "vendor_raw": "Sharon Bolos",
+    "purpose": "tabling candy",
+    "amount": "83.99",
+    "page": 5,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'West Haven UT'; a reimbursement to the candidate herself."
+   },
+   {
+    "line_no": "4",
+    "date": "04/08/26",
+    "vendor_raw": "Sharon Bolos",
+    "purpose": "travel to/from candidate event",
+    "amount": "494.45",
+    "page": 5,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'West Haven UT'."
+   },
+   {
+    "line_no": "5",
+    "date": "04/08/26",
+    "vendor_raw": "Weber County GOP",
+    "purpose": "convention table",
+    "amount": "300.00",
+    "page": 5,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Ogden UT'."
+   },
+   {
+    "line_no": "6",
+    "date": "04/10/26",
+    "vendor_raw": "Walmart",
+    "purpose": "tabling candy, t-shirts, napkins",
+    "amount": "141.04",
+    "page": 5,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Riverdale UT'; purpose kept verbatim with the filer's commas."
+   },
+   {
+    "line_no": "7",
+    "date": "04/11/26",
+    "vendor_raw": "Lee's Marketplace",
+    "purpose": "convention donuts",
+    "amount": "668.99",
+    "page": 5,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'North Ogden UT'."
+   },
+   {
+    "line_no": "8",
+    "date": "04/11/26",
+    "vendor_raw": "Tabby Hyer",
+    "purpose": "sign clips",
+    "amount": "35.00",
+    "page": 5,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Fruit Heights UT'."
+   },
+   {
+    "line_no": "9",
+    "date": "04/11/26",
+    "vendor_raw": "Costa Vida",
+    "purpose": "campaign team dinner",
+    "amount": "191.02",
+    "page": 5,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Clinton UT'."
+   },
+   {
+    "line_no": "10",
+    "date": "04/11/26",
+    "vendor_raw": "Venmo",
+    "purpose": "fee",
+    "amount": "4.85",
+    "page": 5,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'New York NY'."
+   },
+   {
+    "line_no": "11",
+    "date": "04/20/26",
+    "vendor_raw": "Venmo",
+    "purpose": "fees",
+    "amount": "17.33",
+    "page": 5,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'New York NY'."
+   },
+   {
+    "line_no": "12",
+    "date": "04/27/26",
+    "vendor_raw": "Gathering Inc",
+    "purpose": "signatures",
+    "amount": "232.00",
+    "page": 5,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'South Ogden UT'. NOTE the printed ORDER: this 04/27 row is printed ABOVE the 04/23 row that follows it - the schedule is not strictly date-sorted here, and the printed order is preserved."
+   },
+   {
+    "line_no": "13",
+    "date": "04/23/26",
+    "vendor_raw": "YESCO",
+    "purpose": "billboard",
+    "amount": "2000.00",
+    "page": 5,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Salt Lake City UT'; printed out of date order (see line 12)."
+   },
+   {
+    "line_no": "14",
+    "date": "04/30/26",
+    "vendor_raw": "Saunders Outdoor",
+    "purpose": "billboard (May)",
+    "amount": "1300.00",
+    "page": 5,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Ogden UT'."
+   },
+   {
+    "line_no": "15",
+    "date": "05/01/26",
+    "vendor_raw": "America First",
+    "purpose": "service charge",
+    "amount": "5.00",
+    "page": 5,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Riverdale UT'."
+   },
+   {
+    "line_no": "16",
+    "date": "05/04/26",
+    "vendor_raw": "Jones Shirts & Signs",
+    "purpose": "signs",
+    "amount": "866.44",
+    "page": 5,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'North Ogden UT'."
+   },
+   {
+    "line_no": "17",
+    "date": "05/07/26",
+    "vendor_raw": "Saunders Outdoor",
+    "purpose": "billboard (June)",
+    "amount": "1300.00",
+    "page": 5,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Ogden UT'."
+   },
+   {
+    "line_no": "18",
+    "date": "05/07/26",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "purpose": "billboard",
+    "amount": "4950.00",
+    "page": 5,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Salt Lake City UT'."
+   },
+   {
+    "line_no": "19",
+    "date": "05/08/26",
+    "vendor_raw": "Venmo",
+    "purpose": "fees",
+    "amount": "2.71",
+    "page": 5,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'New York NY'."
+   },
+   {
+    "line_no": "20",
+    "date": "05/08/26",
+    "vendor_raw": "Bethany Bolos",
+    "purpose": "hair for headshots",
+    "amount": "25.00",
+    "page": 6,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'Ogden UT'."
+   },
+   {
+    "line_no": "21",
+    "date": "05/11/26",
+    "vendor_raw": "Robert Wood Photography",
+    "amount": "188.12",
+    "page": 6,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the PURPOSE cell is EMPTY on this row - the filer printed no purpose, so the field is honestly blank rather than inferred. City line 'Syracuse UT'."
+   },
+   {
+    "line_no": "22",
+    "date": "05/12/26",
+    "vendor_raw": "Express Digital Direct Mail",
+    "purpose": "mailer",
+    "amount": "6959.25",
+    "page": 6,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city line 'West Valley City UT'."
+   }
+  ],
+  "notes": "2026-cycle filing on the county's NEW 'Campaign Financial Summary' form, scanned by the filer with CamScanner (the app watermark is printed on every page). SIX pages and a structure this brief's page-order warning is worth restating for: p1 = the cover (handwritten candidate block and 3-line summary), p2 = a TYPED restatement of the same summary, p3-p4 = the Itemized Contribution Report over two continuation sheets, p5-p6 = the Itemized Expenditures Report over two continuation sheets. NO per-sheet subtotals anywhere: each schedule prints one grand TOTAL on its last sheet, so both sides were gated on the multi-sheet sum. The schedules are typed spreadsheet prints; only the cover is handwritten. NO REPORT-TYPE BOX IS MARKED - this form prints its Filing Schedule as a bare list with the checkboxes lost in the scan/flatten, so the honest reading is 'no box marked' (the signature is dated 23 May 2026, which sits with the 'May 26 - Pre-Primary Election' deadline, but nothing on the document says so and nothing was inferred). The county REDACTED the street address, city/zip and home phone on the cover; the cell phone is printed in the clear. The Item column carries the donor/payee name on one line and city/state on the next; contributor STREET addresses are not printed on this form at all, so donor_city/donor_state are complete as filed. In-kind items are tagged by the filer in an unheaded column right of Amount and DO count toward the printed totals; one contribution row is tagged 'loan' (a 500.00 self-loan) and is likewise inside the total."
+ }
+]

@@ -1,94 +1,235 @@
 {
-  "_meta": {
-    "index_path": "raw/2018/2018_Financial-Campaign-Report-Alan-Wane-McDonald.pdf",
-    "cache_key": "db09b057",
-    "entity": "wasatch_county",
-    "election_year": "2018",
-    "reporting_period_index": "2018 cycle (as published by the county)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Alan Wayne McDonald",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2018/2018_Financial-Campaign-Report-Alan-Wane-McDonald.pdf",
+  "cache_key": "db09b057",
+  "entity": "wasatch_county",
+  "election_year": "2018",
+  "reporting_period_index": "2018 cycle (as published by the county)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_02_2018.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1301.38",
+     "itemized": "1301.38",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (1301.38 = 1301.38, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "1301.38",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "County Council",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "REPUBLICAN",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "July 26, 2018 (if eliminated in Primary)"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "1,301.38",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1,301.38",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "1,301.38",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1,301.38",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "1301.38",
+     "itemized": "1301.38",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (1301.38 = 1301.38, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "1301.38",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "this variant prints no per-page subtotal; both sides gate on the cover and both close exactly",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 4,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 5,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten. NOTE THE FORM'S OWN TEMPLATE ERROR: page 3 is headed ITEMIZED EXPENDITURE REPORT (Form B) but its second column is still labelled 'Name of Contributor' - the county's 2018 sheet reuses the Form A header row. The cell holds the PAYEE/purpose as written. Two rows carry a month-and-year date only ('6-18') and one carries no date at all - all left BLANK, never completed from the report date."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Alan Wayne McDonald",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Handwritten throughout; the PDF's embedded text layer is an unusable OCR of that handwriting."
+  "office_verbatim": {
+   "value": "County Council",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "REPUBLICAN",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "July 26, 2018 (if eliminated in Primary)"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "1,301.38",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1,301.38",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "1,301.38",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1,301.38",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Handwritten throughout; the PDF's embedded text layer is an unusable OCR of that handwriting.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2018-05-05",
+   "donor_raw": "Alan McDonald",
+   "donor_city": "Heber",
+   "donor_state": "",
+   "amount": "1301.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding; PO box discarded per PRIVACY, city 'HEBER' kept as printed",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "County Filling Fee",
+   "purpose": "",
+   "amount": "132.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '6-18' (month and year only, no day) -> BLANK; filer's spelling 'Filling' kept",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "",
+   "vendor_raw": "Booth Fee Rep. Party",
+   "purpose": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date cell EMPTY on the face",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2018-05-01",
+   "vendor_raw": "Signs On The Cheap",
+   "purpose": "",
+   "amount": "1084.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "",
+   "vendor_raw": "Tractor Supply",
+   "purpose": "",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "date printed '6-18' (no day) -> BLANK; an abbreviation 'TSC' is struck out before 'Tractor Supply'",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -52,6 +52,245 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover. The Current Report <=$50 cell has a struck-out character before '75.00' (the filer over-wrote it); value read as 75.00 — medium confidence on that one cell (760.00 - 685.00 = 75.00 in the filer's own row is consistent but was NOT used to set the value). Balances written in accounting parentheses, kept verbatim. Column-order cross-check: Last Report reproduces doc 1098's Current figures exactly."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover. The Current Report <=$50 cell has a struck-out character before '75.00' (the filer over-wrote it); value read as 75.00 — medium confidence on that one cell (760.00 - 685.00 = 75.00 in the filer's own row is consistent but was NOT used to set the value). Balances written in accounting parentheses, kept verbatim. Column-order cross-check: Last Report reproduces doc 1098's Current figures exactly.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "withheld",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "contributions": "PERIOD-vs-CUMULATIVE GRAIN (the Harte-2026 class), on BOTH sides, and here the period reading is provable three separate ways. (1) THE SCHEDULES' OWN PRINTED TOTALS ARE THE COVER'S CURRENT-REPORT CELLS, NOT ITS CUMULATIVE ONES: the contribution page's boxes read '>$50 $1,700.00' and '<=$50 $25.00' against cover Current cells of 1,700.00 / 75.00 and cover Cumulative cells of 4,785.00 / 760.00; the expense page's box reads '4,332.75', which is the cover's Current expenditure cell exactly, against a cumulative 11,642.49. (2) COVER-DIFFERENCING AGAINST THE SAME CANDIDATE'S PRE-ELECTION FILING (1098) CONFIRMS IT TO THE CENT: this cover's Last Report column reads 3,085.00 / 685.00 / 7,309.74, which is precisely 1098's cover, and Last + Current = Cumulative on every row (3,085.00 + 1,700.00 = 4,785.00; 7,309.74 + 4,332.75 = 11,642.49). (3) EVERY ROW IS DATED AFTER THE PRE-ELECTION REPORT - 10/24/14 at the earliest, against a pre-election filing already in the clerk's hands. So the rows are right and the ledger is complete FOR ITS PERIOD; what is unresolved is which grain the itemized layer publishes. Both figures are named, no sum is claimed, and the transcription is PARKED in _meta_itemized.withheld_rows so the owner's ruling can be applied without re-reading the page. NOTE that the period figures themselves are not internally consistent on the contribution side: the sheet's '<=$50' box says 25.00 while the cover's Current cell for the same period says 75.00 - a $50.00 filer discrepancy, retained, and a further reason not to publish a sum for this side.",
+   "expenditures": "PERIOD-vs-CUMULATIVE GRAIN (the Harte-2026 class), on BOTH sides, and here the period reading is provable three separate ways. (1) THE SCHEDULES' OWN PRINTED TOTALS ARE THE COVER'S CURRENT-REPORT CELLS, NOT ITS CUMULATIVE ONES: the contribution page's boxes read '>$50 $1,700.00' and '<=$50 $25.00' against cover Current cells of 1,700.00 / 75.00 and cover Cumulative cells of 4,785.00 / 760.00; the expense page's box reads '4,332.75', which is the cover's Current expenditure cell exactly, against a cumulative 11,642.49. (2) COVER-DIFFERENCING AGAINST THE SAME CANDIDATE'S PRE-ELECTION FILING (1098) CONFIRMS IT TO THE CENT: this cover's Last Report column reads 3,085.00 / 685.00 / 7,309.74, which is precisely 1098's cover, and Last + Current = Cumulative on every row (3,085.00 + 1,700.00 = 4,785.00; 7,309.74 + 4,332.75 = 11,642.49). (3) EVERY ROW IS DATED AFTER THE PRE-ELECTION REPORT - 10/24/14 at the earliest, against a pre-election filing already in the clerk's hands. So the rows are right and the ledger is complete FOR ITS PERIOD; what is unresolved is which grain the itemized layer publishes. Both figures are named, no sum is claimed, and the transcription is PARKED in _meta_itemized.withheld_rows so the owner's ruling can be applied without re-reading the page. NOTE that the period figures themselves are not internally consistent on the contribution side: the sheet's '<=$50' box says 25.00 while the cover's Current cell for the same period says 75.00 - a $50.00 filer discrepancy, retained, and a further reason not to publish a sum for this side."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "5545.00",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed - the schedule's own printed boxes are the PERIOD figures 1,700.00 (>$50, which the filer computed as 500.00 monetary + 1,200.00 in kind) and 25.00 (<=$50), against a cumulative cover of 4,785.00 + 760.00 = 5,545.00. The rows as transcribed are 525.00 monetary + 1,200.00 in kind."
+   },
+   "expenditures": {
+    "stated": "11642.49",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed - the schedule's own printed total is the PERIOD figure 4,332.75, which the 8 rows reproduce to the cent, against a cumulative cover of 11,642.49 (= 7,309.74 carried from the pre-election filing 1098 + 4,332.75)."
+   }
+  },
+  "page_gates": "Three pages: p1 cover (already transcribed), p2 ITEMIZED CONTRIBUTION REPORT, p3 ITEMIZED EXPENSE REPORT. Both ledgers are short and legible - three contribution rows and eight expense rows - and BOTH GATE CLEANLY AGAINST THEIR OWN PRINTED TOTALS while failing against the cover, which is the whole finding on this filing. p2's two boxes were re-read at 800 dpi: '>$50 1700.00' and '<=$50 25.00'. Its three rows are 25.00 + 500.00 monetary + 1,200.00 IN-KIND, and 500.00 + 1,200.00 = 1,700.00 - the filer counted the in-kind gift inside her >$50 box. p3's box reads '4,332.75' and its eight rows sum to 4,332.75 to the cent (which is also what fixes the top row's superscript cents at 2032.16). But the module's stated totals are the CUMULATIVE 5,545.00 and 11,642.49, so neither side may claim a sum - see withheld_reason. Specimen rows dropped from both pages; both are dated 8/25/10 on this copy, the 2010-dated printing of the blank form.",
+  "escalations": 5,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {
+   "contributions": [
+    {
+     "line_no": 1,
+     "date": "2014-10-31",
+     "donor_raw": "Dennis Earl",
+     "donor_city": "Kamas",
+     "donor_state": "",
+     "amount": "25.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,27.32,78.00,1.81@p2",
+     "geometry_fit": "declared",
+     "note": "The address cell ends 'Kamas,' with no state token, so donor_state is honestly blank - Utah is not inferred from the 84036 zip. This row alone closes the page's '<=$50' box of $25.00.",
+     "page": 2,
+     "band": 2
+    },
+    {
+     "line_no": 2,
+     "date": "2014-10-29",
+     "donor_raw": "Summit Cnty GOP",
+     "donor_city": "Park City",
+     "donor_state": "UT",
+     "amount": "500.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,29.12,78.00,1.81@p2",
+     "geometry_fit": "declared",
+     "note": "The filer's own abbreviation of the county Republican party, kept verbatim; the same organisation is written 'Summit County GOP' on the next row and 'SC Republicans' / 'Summit County Republican Women' on her pre-election filing (1098). The four spellings are NOT merged.",
+     "page": 2,
+     "band": 3
+    },
+    {
+     "line_no": 3,
+     "date": "2014-11-01",
+     "donor_raw": "Summit County GOP",
+     "donor_city": "",
+     "donor_state": "",
+     "amount": "1200.00",
+     "in_kind": true,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,30.93,78.00,1.81@p2",
+     "geometry_fit": "declared",
+     "note": "IN-KIND, and the filer said so IN THE MAILING ADDRESS COLUMN: that cell holds the words 'In kind donations' instead of an address, and the Zipcode cell is empty. donor_city / donor_state are therefore blank because no address was written, not because one was withheld. The matching expense row - 11/1/14 'Postcard Printing / Postcard Printing / 1,200.00' on p3 - is the same transaction booked on the other side, which is how an in-kind gift is correctly reported. CRITICALLY, THIS FILER PUT THE IN-KIND AMOUNT INSIDE HER '>$50' BOX: 500.00 monetary + 1,200.00 in-kind = the 1,700.00 the box prints, and that same 1,700.00 is the cover's Current-Report '>$50' cell. See the record notes - this contradicts the wave's monetary-only precedent.",
+     "page": 2,
+     "band": 4
+    }
+   ],
+   "expenditures": [
+    {
+     "line_no": 1,
+     "date": "2014-10-24",
+     "vendor_raw": "American Mailing",
+     "purpose": "Campaign Postcards",
+     "amount": "2032.16",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,27.32,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "THE LARGEST SINGLE EXPENDITURE ON THE FILING. The cents are written as a raised superscript ('2032.' with a small 16 above the line) and were re-read at 800-1000 dpi; the schedule's own total settles it either way, since 2032.16 is the only value that closes the column on 4,332.75.",
+     "page": 3,
+     "band": 2
+    },
+    {
+     "line_no": 2,
+     "date": "2014-10-29",
+     "vendor_raw": "Park Record",
+     "purpose": "Newspaper Ad",
+     "amount": "210.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,29.12,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "geometry from the DECLARED frame (band 1 is the dropped specimen row).",
+     "page": 3,
+     "band": 3
+    },
+    {
+     "line_no": 3,
+     "date": "2014-11-01",
+     "vendor_raw": "Park Record",
+     "purpose": "Newspaper Ad",
+     "amount": "465.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,30.93,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "Date written with dashes ('11-01-14') where the rest of the sheet uses slashes.",
+     "page": 3,
+     "band": 4
+    },
+    {
+     "line_no": 4,
+     "date": "2014-11-01",
+     "vendor_raw": "Postcard Printing",
+     "purpose": "Postcard Printing",
+     "amount": "1200.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,32.74,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "VENDOR AND PURPOSE CELLS BOTH READ 'Postcard Printing' - the filer used the service as the payee name. This is the EXPENSE SIDE OF THE $1,200 IN-KIND CONTRIBUTION from the Summit County GOP recorded on p2 with the same date and amount; the two are the same transaction, correctly shown on both schedules, and must not be read as $2,400 of activity.",
+     "page": 3,
+     "band": 5
+    },
+    {
+     "line_no": 5,
+     "date": "2014-11-30",
+     "vendor_raw": "Facebook",
+     "purpose": "Advertising",
+     "amount": "142.33",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,34.55,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "geometry from the DECLARED frame (band 1 is the dropped specimen row).",
+     "page": 3,
+     "band": 6
+    },
+    {
+     "line_no": 6,
+     "date": "2014-11-30",
+     "vendor_raw": "Facebook",
+     "purpose": "Ads",
+     "amount": "60.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,36.36,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "geometry from the DECLARED frame (band 1 is the dropped specimen row).",
+     "page": 3,
+     "band": 7
+    },
+    {
+     "line_no": 7,
+     "date": "2014-10-31",
+     "vendor_raw": "Facebook",
+     "purpose": "Ads",
+     "amount": "133.34",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,38.17,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "geometry from the DECLARED frame (band 1 is the dropped specimen row).",
+     "page": 3,
+     "band": 8
+    },
+    {
+     "line_no": 8,
+     "date": "2014-10-31",
+     "vendor_raw": "Facebook",
+     "purpose": "Ads",
+     "amount": "89.92",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:10.80,39.98,78.00,1.81@p3",
+     "geometry_fit": "declared",
+     "note": "The ledger is NOT in date order - the last four rows run 11/30, 11/30, 10/31, 10/31. Kept as filed.",
+     "page": 3,
+     "band": 9
+    }
+   ]
+  },
+  "notes": "Amy Yost, County Treasurer, 2014 POST-Election - the sibling of 1098 and the cleanest period-vs-cumulative case in this chunk. split50 form, handwritten but far more legible than her pre-election sheets. The campaign closed $6,097.49 in the red (the cover prints the balance in accountants' parentheses). THE FINDING THAT MATTERS, AND IT CONTRADICTS AN ESTABLISHED WAVE PRECEDENT: **this filer counted an IN-KIND contribution INSIDE the schedule's monetary '>$50' box, and the cover agrees with her.** The wave's standing rule - proved twice on the McKenna 2024 pair and restated in the chunk brief - is that in-kind is a separate schedule with its own total and that the cover's contribution figure is MONETARY-ONLY. On 1268 it demonstrably is not: the only two rows above $50 are a $500.00 cash gift and a $1,200.00 gift the filer labelled 'In kind donations' in the Mailing Address column, they sum to the $1,700.00 the '>$50' box prints, and that same $1,700.00 is the cover's Current-Report cell. The row still ships with in_kind=true (build_finance will exclude it from itemized_contrib_sum, which is the right default), but ANY reconciliation of this filing that assumes a monetary-only cover will be wrong by exactly $1,200.00. The 2014 split50 form has no in-kind schedule at all, which is presumably why she put it there - so this is probably a property of the FORM ERA rather than of this filer, and it should be checked on every pre-2022 filing that carries an in-kind row. OTHER SOURCE PROPERTIES: (1) THE SHEET AND THE COVER DISAGREE ABOUT THE SAME PERIOD'S <=$50 TOTAL - the box says $25.00, the cover's Current cell says $75.00. Dennis Earl's $25.00 is the only small-donor row on the page, so the sheet is self-consistent and the cover is $50 high. Retained as filed. (2) THE IN-KIND GIFT APPEARS ON BOTH SCHEDULES - as a $1,200.00 contribution on p2 and as a $1,200.00 'Postcard Printing' expense on p3, same date. That is correct in-kind reporting, and it means the campaign's real cash outlay in the period was $3,132.75, not $4,332.75. Anyone totalling this filing's activity must not count the $1,200 twice. (3) FOUR SPELLINGS OF ONE DONOR across this candidate's two filings - 'Summit Cnty GOP', 'Summit County GOP', 'SC Republicans' and 'Summit County Republican Women'. They are kept verbatim and NOT merged; this is exactly the donor-alias case the repo's normalisation lead exists for. (4) The expense ledger is not in date order (11/30, 11/30, 10/31, 10/31 at the end) and one date is written with dashes where the rest of the sheet uses slashes. All kept as filed. PRIVACY: p2 prints a Mailing Address and Zipcode column; the two street/PO-box addresses were discarded AT READ TIME. donor_city / donor_state only, read from the address cell and never from the zip. Two of the three rows print no state token (one because the cell holds the words 'In kind donations' instead of an address), so their donor_state is honestly blank. Nothing on this filing is redacted by the county. GEOMETRY: p2 and p3 carry the SAME printed grid at the SAME height - measured on the raw page in a narrow x-slice, p2 runs 23.695 / 25.511 / 27.304 ... at pitch 1.80939 and p3 runs 23.687 / 25.498 / 27.287 ... at pitch 1.80969, i.e. the two pages agree to within 0.02% of page height. One declared frame therefore serves both sides exactly (x=10.8 y0=25.5055 pitch=1.8095 w=78.0, force_declared), with band 1 the dropped specimen row. Validated by four probe crops - p2 band 2 (Dennis Earl / 25.00), p2 band 4 (Summit County GOP / In kind donations / 1200.00), p3 band 2 (American Mailing / Campaign Postcards / 2032.16) and p3 band 9 (Facebook / Ads / 89.92). force_declared is used because p2's own rule detection returns 41 contaminated bands (the page's printed instruction text registers as rules at -0.6 degrees of skew)."
+ }
 }

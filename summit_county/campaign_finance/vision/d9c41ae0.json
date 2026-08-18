@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2022 single-total sheet on the Clerk's letterhead version (its third column is headed just 'Cumulative'); address redacted by the county. The Last-Report balance cell prints '$ .00' with the leading zero missing — kept verbatim. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Typed 2022 single-total sheet on the Clerk's letterhead version (its third column is headed just 'Cumulative'); address redacted by the county. The Last-Report balance cell prints '$ .00' with the leading zero missing — kept verbatim. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "donor_raw": "Christopher F. Robinson (self)",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.25,31.86,9.40,3.16@p2",
+   "geometry_fit": "measured",
+   "note": "mailing address + zip redacted by the county (white-out that also removed the printed cell rules), not left empty by the filer",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing Fee for Summit County Council Seat \"D\"",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.69,34.77,9.37,1.41@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 13
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "303.02",
+    "itemized": "303.02",
+    "result": "exact",
+    "detail": "exact - 1 row (Christopher F. Robinson self, 303.02) = the cover's stated contribution total; the schedule page prints no total of its own. The self-contribution equals the filing fee expensed the same day on p3, and the cover's 0.00 ending balance closes the arithmetic independently."
+   },
+   "expenditures": {
+    "stated": "303.02",
+    "itemized": "303.02",
+    "result": "exact",
+    "detail": "exact - 1 row (Summit County Clerk, filing fee for Council Seat 'D', 303.02) = the cover's stated expenditure total; this copy of the expense sheet prints no total box of its own."
+   }
+  },
+  "page_gates": "Both schedule pages are TYPED and each carries exactly ONE transaction. p2 ITEMIZED CONTRIBUTION REPORT prints no section total (this printing of the 2022 sheet has no total box on the contribution page), so the gate is the cover's stated 303.02 - the single row is $303.02, exact. p3 ITEMIZED EXPENSE REPORT ALSO prints no 'Total amount of expenditures' box on this copy (unlike 19764's p3, which does) - the gate is again the cover's stated 303.02, and the single row is $303.02, exact. Cover balance 0.00 closes the filing: 303.02 in, 303.02 out. No specimen rows survive on either page.",
+  "escalations": 2,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2022 single_total sheet, 3 pages, county-letterhead printing (Clerk's Office / Coalville header on every page). ADDRESS COLUMN IS REDACTED BY THE COUNTY, NOT LEFT EMPTY BY THE FILER: the Mailing Address and Zip Code cells of the one donor row are white, but the printed GRID RULES THEMSELVES ARE BROKEN across exactly those two cells (the vertical rule between Mailing Address and Zip Code is gone in the donor row and the row above it, and the horizontal rules are interrupted mid-cell) - white-out applied over completed cells takes the ruling with it, whereas a filer who simply left the cells blank would leave the printed grid intact. Escalated at 900 dpi to establish this. donor_city/donor_state are therefore honestly BLANK. This matches the brief's note that Robinson's PRE-ELECTION copy is redacted while his Post-Election copy is not - the redaction is per-COPY, applied by the county to this scan, not something the filer did. A SOURCE PROPERTY WORTH RECORDING: the 2022 sheet is not one fixed printing - 19764's expense page prints a boxed 'Total amount of expenditures' and this filing's does not, so the presence of a section-total box cannot be assumed from the cycle; on this filing the cover figure is the ONLY arithmetic gate either side has. Geometry spot-verified end to end on both pages (p2 band 3 crops back to '2/28/2022 Christopher F. Robinson (self) ... $303.02', p3 band 13 to '2/28/2022 Summit County Clerk / Filing Fee for Summit County Council Seat \"D\" / $303.02'); note the measured band boxes on this filing are NARROW (about 9.4% of page width) because only two vertical rules survive detection on these pages - the band's vertical extent is correct and that is what indexes the row."
+ }
 }

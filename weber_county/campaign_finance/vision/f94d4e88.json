@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:05:38Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Leann Kilts",
  "office_stated": "Weber County Recorder/Surveyor",
  "report_type_stated": "January 5th, 2015 (final report)",
@@ -49,5 +49,39 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed form; signed Dec 31, 2014, RECEIVED stamp JAN 02 2015. The 'Totals for This Report' column is struck through by hand on every line (nothing new to report); the line-2 cumulative carries the filer's handwritten annotation '* from June'."
+ "notes": "Typed form; signed Dec 31, 2014, RECEIVED stamp JAN 02 2015. The 'Totals for This Report' column is struck through by hand on every line (nothing new to report); the line-2 cumulative carries the filer's handwritten annotation '* from June'.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "the retained document is ONE page \u2014 the cover sheet only; no Form A page was filed or published with it",
+    "expenditures": "same: no Form B page exists in the retained document"
+   },
+   "recon": {},
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "DOCUMENTED NO-SCHEDULE-PAGE GAP. `wb20160824045532_LKilts_1.5.15.pdf` is a single-page PDF (pdfinfo: Pages 1) containing only the January-5th final cover, whose This-Report column is the filer's nil dash in every line. There is nothing to itemize because no schedule page exists in the record \u2014 this is a property of the retained document, not an untranscribed page. The cycle's donors ARE itemized on this candidate's June (bfab7ea1) and October (a4ef7bda) filings."
+  }
+ }
 }

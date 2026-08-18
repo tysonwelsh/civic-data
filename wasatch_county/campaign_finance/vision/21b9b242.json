@@ -1,72 +1,197 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202411_729_j-hewlett-general.pdf",
-    "cache_key": "21b9b242",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "General 2024 (pre-general / post-election)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jami Hewlett",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202411_729_j-hewlett-general.pdf",
+  "cache_key": "21b9b242",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "General 2024 (pre-general / post-election)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "1300.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta 1300.00 - 2 row(s) sum to 1300.00 against published stated total, which prints 0. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: COVER SAYS ZERO, TABLE A SAYS 1300. Cover line 1 is a struck figure replaced with a circled 0 (the strikeout already recorded in the module's CLAUDE.md), yet Table A itemizes two self-contributions, 1000.00 + 300.00 = 1300.00, and prints no total of its own. Delta 1300.00 is the FILER's; both figures retained verbatim, rows published.",
+     "published_stated": "0",
+     "csv_reconciles": "False",
+     "csv_delta": "1300.00"
     },
-    "office_verbatim": {
-      "value": "County Council",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "D",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Libertarian",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10/27/24",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": []
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "1300",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "medium"
-      }
+    "expenditures": {
+     "stated": "1300",
+     "itemized": "1300.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (1300.00 = 1300, published stated total)",
+     "published_stated": "1300",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: cell BLANK -- no gate available on the contribution side. p2 Table B TOTAL 1300.00 = rows 1300.00 -> GATE PASSES; that gate also fixes expenditure row 1 at 1000.00 rather than 1800.00 (1300.00 - 300.00), which the 600 dpi crop independently supports.",
+   "escalations": 6,
+   "escalation_note": "600 dpi crops of: Table A row-1 and row-2 date cells, the Table A amount pair, the Table B row-1 date cell, the Table B amount pair, and the Table B TOTAL cell (re-cropped once for position).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 4,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten. Jami Hewlett, County Council District D, Libertarian, Heber; NO reporting-period box marked (matches the module's ledger); the cover date field carries a struck date plus '10/27/24'; cover line 3 balance is a struck '1000' replaced with a circled 0. TWO ROW DATES ARE UNREADABLE AS MONTHS: Table A row 1 and Table B row 1 each begin with a heavily overwritten first token (a '9' or a '10' written over each other) before '/1/24' and '/5/24' -- left BLANK with the verbatim in the row note rather than guessed. Table B's payee column carries purposes ('BUSINESS CARDS') rather than vendor names -- transcribed as printed, NOT a column shift (dates and amounts sit in their own columns and the counts of names and amounts match)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jami Hewlett",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "No period box marked. The signature date is written over a struck '10/23/24'. The balance cell shows '1300' struck through and replaced with a circled 0."
+  "office_verbatim": {
+   "value": "County Council",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "D",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Libertarian",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10/27/24",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": []
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "1300",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "medium"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "No period box marked. The signature date is written over a struck '10/23/24'. The balance cell shows '1300' struck through and replaced with a circled 0.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "donor_raw": "Jami Hewlett",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "note": "date cell verbatim: an overwritten first digit (reads as a '9' and a '10' struck over one another) then '/1/24' -- month not resolvable, so date left BLANK per contract. Amount '1000' verified in a 600 dpi crop. Self-contribution by the candidate.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-10-01",
+   "donor_raw": "Jami Hewlett",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "date written '10/1/24'; amount '300' verified in a 600 dpi crop.",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "BUSINESS CARDS",
+   "purpose": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;amount=medium",
+   "verified": 1,
+   "note": "date cell verbatim: overwritten first token ('9'/'10' one over the other) then '/5/24' -- BLANK per contract. The payee column holds a PURPOSE ('BUSINESS CARDS'), no vendor named; purpose column empty. Amount written '1000' + superscript cents; the printed Table B TOTAL (1300.00) minus row 2 (300.00) fixes it at 1000.00 -- arithmetic outranks the glyph, which could otherwise be read '1800'.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-10-01",
+   "vendor_raw": "Old Mill FunRun Donation",
+   "purpose": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "date '10/1/24'; payee cell reads 'Old Mill FunRun Donation' (payee and purpose written together); amount '300' + superscript '00'.",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

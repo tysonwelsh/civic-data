@@ -1,0 +1,431 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 4,
+  "page_end": 7,
+  "key": "8bb8ba7c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "itemized_pages_A": "6",
+  "itemized_pages_B": "7",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 1,500.00, equal to BOTH the summary block's This-Report and Totals (cumulative) line-1 cells (1,500.00)",
+    "detail": "The single Form A row (Rusty and Lynelle Jensen, 1,500.00) sums to 1,500.00 = the schedule's printed total = the cover's cumulative cell. The 'Last Report' column is empty on line 1 (this is the first report of the cycle - the '7 days before convention' box is checked and that report starts January 1, 2024), so this-report and cumulative coincide."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 1,440.18, equal to BOTH the This-Report and Totals (cumulative) line-2 cells (1,440.18)",
+    "detail": "11 Form B rows: 748.20 + 140.00 + 83.33 + 10.83 + 20.51 + 23.33 + 250.00 + 18.52 + 26.81 + 6.15 + 112.50 = 1,440.18, to the cent. Line-2's 'Last Report' cell is a bare dash, so cumulative equals this report. Ending balance closes independently: 1,500.00 - 1,440.18 = 59.82 = the printed line-3 figure."
+   }
+  },
+  "escalations": 5,
+  "escalation_note": "900 dpi --value crops to prove the extrapolated row grids: p6 band 1 x the Amount column (reproduces 1,500.00) after a first exploratory crop showed the header/shade strips, and p7 bands 1 and 11 x the Amount column (reproduce 748.20 and 112.50). One crop initially landed on p7's HEADER strip and was corrected: Form B's header strip is ~2x the row pitch wide (its 'Date of Expenditure' label sets two lines), while Form A's single-line header strip is exactly one pitch - a real difference between the two sheets, recorded here because it is easy to mis-index. No amount was ever in doubt; both printed schedule totals gated the sides.",
+  "frames": {
+   "6": {
+    "axis": "x",
+    "cell": [
+     5.05,
+     15.75
+    ],
+    "cells": [
+     [
+      5.05,
+      15.75
+     ],
+     [
+      15.75,
+      57.82
+     ],
+     [
+      57.82,
+      87.95
+     ],
+     [
+      87.95,
+      96.05
+     ]
+    ],
+    "rows": [
+     [
+      15.44,
+      18.53
+     ],
+     [
+      18.53,
+      21.68
+     ],
+     [
+      21.68,
+      24.79
+     ],
+     [
+      24.79,
+      27.97
+     ],
+     [
+      27.97,
+      31.21
+     ],
+     [
+      31.21,
+      34.38
+     ],
+     [
+      34.38,
+      37.56
+     ],
+     [
+      37.56,
+      40.68
+     ],
+     [
+      40.68,
+      43.85
+     ],
+     [
+      43.85,
+      46.97
+     ],
+     [
+      46.97,
+      50.12
+     ],
+     [
+      50.12,
+      53.15
+     ],
+     [
+      53.15,
+      56.26
+     ],
+     [
+      56.26,
+      59.35
+     ],
+     [
+      59.35,
+      62.44
+     ],
+     [
+      62.44,
+      65.56
+     ],
+     [
+      65.56,
+      68.62
+     ],
+     [
+      68.62,
+      71.68
+     ],
+     [
+      71.68,
+      74.74
+     ],
+     [
+      74.74,
+      77.79
+     ],
+     [
+      77.79,
+      80.85
+     ],
+     [
+      80.85,
+      83.91
+     ],
+     [
+      83.91,
+      86.97
+     ]
+    ],
+    "measure_note": "Form A is bound ROTATED (landscape, Amount at the TOP of the rendered page and Date at the bottom): the printed column separators are the page's HORIZONTAL rules and the row separators are its VERTICAL rules, so axis='x' and rows advance LEFT-TO-RIGHT (row 1 is the leftmost data band). Column bands from a horizontal-rule projection over the blank x-window 15-40%: 5.05/15.75/57.82/87.95/96.05 = Amount | Address | Name of Contributor | Date. Row bands from a vertical-rule projection over the table's y-extent at coverage 0.40 (27 rules, regular 3.06-3.18 pct pitch); the rule at 6.76 is the sheet's outer border and the bands [9.15,12.26] / [12.26,15.44] are the printed header strip and the shaded scan-fold strip, NOT data rows. PROVED with a 900 dpi --value crop of band 1 x the Amount column, which reproduces 1,500.00."
+   },
+   "7": {
+    "axis": "x",
+    "cell": [
+     2.93,
+     13.64
+    ],
+    "cells": [
+     [
+      2.93,
+      13.64
+     ],
+     [
+      13.64,
+      32.43
+     ],
+     [
+      32.43,
+      43.09
+     ],
+     [
+      43.09,
+      88.36
+     ],
+     [
+      88.36,
+      97.98
+     ]
+    ],
+    "rows": [
+     [
+      20.56,
+      23.68
+     ],
+     [
+      23.68,
+      26.74
+     ],
+     [
+      26.74,
+      29.85
+     ],
+     [
+      29.85,
+      32.91
+     ],
+     [
+      32.91,
+      35.97
+     ],
+     [
+      35.97,
+      39.03
+     ],
+     [
+      39.03,
+      42.15
+     ],
+     [
+      42.15,
+      45.15
+     ],
+     [
+      45.15,
+      48.26
+     ],
+     [
+      48.26,
+      51.38
+     ],
+     [
+      51.38,
+      54.47
+     ],
+     [
+      54.47,
+      57.56
+     ],
+     [
+      57.56,
+      60.68
+     ],
+     [
+      60.68,
+      63.74
+     ],
+     [
+      63.74,
+      66.79
+     ],
+     [
+      66.79,
+      69.85
+     ],
+     [
+      69.85,
+      72.85
+     ],
+     [
+      72.85,
+      75.91
+     ],
+     [
+      75.91,
+      78.97
+     ],
+     [
+      78.97,
+      82.09
+     ],
+     [
+      82.09,
+      85.18
+     ],
+     [
+      85.18,
+      88.26
+     ],
+     [
+      88.26,
+      91.26
+     ]
+    ],
+    "measure_note": "Same rotated-landscape geometry as p6. Column bands from the horizontal-rule projection over the blank x-window 60-85%: 2.93/13.64/32.43/43.09/88.36/97.98 = Amount | Purpose of Expenditure | City | Person or Organization | Date of Expenditure. Row bands from the vertical-rule projection at coverage 0.40 (27 rules, pitch ~3.09), with the band at [17.38,20.56] identified as the shaded fold strip and [11.26,17.38] as the two-line-wide printed header strip - neither is a data row. PROVED with 900 dpi --value crops of bands 1 and 11 x the Amount column, which reproduce 748.20 and 112.50."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/1/2024",
+    "donor_raw": "Rusty and Lynelle Jensen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 6,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Typed schedule row. The filer wrote a street address in the Address cell; it is deliberately NOT carried (PRIVACY.md: donor city/state only), and the city/state here come from that same cell as the filer wrote them. This is the candidate's own household (self-funding), stated as one donor line by the filer and kept as one row."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/4/2024",
+    "vendor_raw": "Weber County",
+    "purpose": "Filing Fee",
+    "amount": "748.20",
+    "page": 7,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "2",
+    "date": "2/21/2024",
+    "vendor_raw": "Weber County GOP",
+    "purpose": "Convention table donation",
+    "amount": "140.00",
+    "page": 7,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "3",
+    "date": "3/7/2024",
+    "vendor_raw": "Ryan Arbon",
+    "purpose": "Lincoln Day Table",
+    "amount": "83.33",
+    "page": 7,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "4",
+    "date": "3/16/2024",
+    "vendor_raw": "Fedex",
+    "purpose": "Copies for lanyards",
+    "amount": "10.83",
+    "page": 7,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "5",
+    "date": "3/16/2024",
+    "vendor_raw": "Costco",
+    "purpose": "Candy - Meet the Candid",
+    "amount": "20.51",
+    "page": 7,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden. The purpose text runs to the edge of the printed cell and ends mid-word ('Candid'); transcribed exactly as printed, not completed."
+   },
+   {
+    "line_no": "6",
+    "date": "3/19/2024",
+    "vendor_raw": "Weber State University Printing",
+    "purpose": "Printing Flyers",
+    "amount": "23.33",
+    "page": 7,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "7",
+    "date": "3/23/2024",
+    "vendor_raw": "Robert Casey",
+    "purpose": "Photo Shoot",
+    "amount": "250.00",
+    "page": 7,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "8",
+    "date": "4/3/2024",
+    "vendor_raw": "Costco",
+    "purpose": "Water bottles - Meet the",
+    "amount": "18.52",
+    "page": 7,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden. Purpose text runs to the edge of the printed cell and stops there; transcribed exactly as printed, not completed."
+   },
+   {
+    "line_no": "9",
+    "date": "4/4/2024",
+    "vendor_raw": "Stone Mountain Press",
+    "purpose": "Printing Flyers",
+    "amount": "26.81",
+    "page": 7,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "10",
+    "date": "4/4/2024",
+    "vendor_raw": "Carls Store",
+    "purpose": "Ice",
+    "amount": "6.15",
+    "page": 7,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden. 'Carls' is the filer's own spelling (no apostrophe), retained verbatim."
+   },
+   {
+    "line_no": "11",
+    "date": "4/8/2024",
+    "vendor_raw": "Brad Kapple",
+    "purpose": "Creamies",
+    "amount": "112.50",
+    "page": 7,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   }
+  ],
+  "notes": "TYPED 2024 form, four pages: p4 cover (name/office/report-type checkboxes/signature) whose three-column summary block is CUT OFF at the foot - only the 'Totals from + Totals for = Cumulative' headings print there; the summary figures themselves are on p5, where that copy heads the columns 'Last Report | This Report | Totals:'. Page position is not the form order here either: the money block is a page later than its own headings. FORM A on p6, FORM B on p7, both bound rotated. The candidate's street address on p4 is BLACKED OUT BY THE COUNTY (a government-applied redaction, preserved, not a value the filer left empty); nothing behind it is recovered. No per-page SUBTOTAL is printed on either schedule - each prints one grand total at its foot, and that is the gate. No in-kind row and no negative amount on either schedule."
+ }
+]

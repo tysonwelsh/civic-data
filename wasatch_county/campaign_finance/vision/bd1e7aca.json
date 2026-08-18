@@ -1,94 +1,491 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_JuneJLee.pdf",
-    "cache_key": "bd1e7aca",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "June 2020 (7 days before Primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jennifer Lee",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_JuneJLee.pdf",
+  "cache_key": "bd1e7aca",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "June 2020 (7 days before Primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_03.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1016.57",
+     "itemized": "1016.57",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (1016.57 = 1016.57, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "1016.57",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Clerk/Auditor",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Democrat",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the Primary Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "1,016.57",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1,016.57",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "454.98",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "454.98",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "561.59",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "561.59",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "454.98",
+     "itemized": "454.98",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (454.98 = 454.98, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "454.98",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant and no filer page footer. Cover identity: 1016.57 - 454.98 = 561.59 = printed balance -- HOLDS. TOTALS FROM LAST REPORT is 0.00 on all three lines, so THIS REPORT = CUMULATIVE, also as printed.",
+   "escalations": 0,
+   "escalation_note": "none needed -- born-digital typed schedules, every cell crisp at 200 dpi.",
+   "n_contrib_rows": 14,
+   "n_expend_rows": 5,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 19,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime; born-digital. Jennifer Lee, Wasatch County Clerk/Auditor, Democrat, signed 6-23-2020, '7 Days preceding the Primary Election' checked. 7-page PDF: p1 cover, p2 Form A, p3 Form B, pp4-7 the printed text of Utah Code 17-16-6.5 (verified: p4 read as an image, pp5-7 confirmed statute continuation from the born-digital text layer -- no schedule, no figure on any of them). PRIVACY: donor street addresses and PO boxes on p2 are discarded at read time; city/state only. Form B addresses (25 N Main St; fundhero.io; 1777 Edwards Ln; www.amazon.com) are not retained -- expenditure rows carry no address fields. FIELD-SHIFT SCREEN: passed (14 dates / 14 names / 14 amounts on p2; 5/5/5 on p3; every date cell date-shaped, no name cell numeric)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jennifer Lee",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed."
+  "office_verbatim": {
+   "value": "Clerk/Auditor",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Democrat",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the Primary Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "1,016.57",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1,016.57",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "454.98",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "454.98",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "561.59",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "561.59",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-01-18",
+   "donor_raw": "Carole Fontana",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "address printed as a PO Box -- discarded at read time; city/state kept",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2020-01-21",
+   "donor_raw": "Chris Nevelle",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2020-03-09",
+   "donor_raw": "Jennifer Lee (inkind-Web Hosting)",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "165.34",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "the candidate's own IN-KIND row; unlike the Armer filing this filer INCLUDED her in-kind rows in her stated total, which closes exactly",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2020-03-14",
+   "donor_raw": "Ann Hoffman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2020-04-18",
+   "donor_raw": "Barbara McCleary",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,27.20,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2020-04-19",
+   "donor_raw": "Janell Bryan",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2020-04-20",
+   "donor_raw": "William Goodall",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "address printed as a PO Box -- discarded at read time",
+   "geometry": "pct:10.00,31.30,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2020-04-20",
+   "donor_raw": "Nancy Seraphin",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,33.35,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2020-04-24",
+   "donor_raw": "Adrienne Jay",
+   "donor_city": "Flower Mound",
+   "donor_state": "TX",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "the only out-of-state donor on this filing",
+   "geometry": "pct:10.00,35.40,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 2,
+   "row_i": 9,
+   "date": "2020-05-04",
+   "donor_raw": "Barbara Games",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,37.45,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 2,
+   "row_i": 10,
+   "date": "2020-05-30",
+   "donor_raw": "Aimee Armer",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "same person as the filer of 2020_JuneAArmer.pdf; resolve on full name, never surname",
+   "geometry": "pct:10.00,39.50,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 2,
+   "row_i": 11,
+   "date": "2020-06-13",
+   "donor_raw": "Kay Shean",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "this filer prints Kay Shean's city as Heber City; the Armer filing prints Charleston for the same street address -- both retained as printed, neither corrected",
+   "geometry": "pct:10.00,41.55,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 13,
+   "page": 2,
+   "row_i": 12,
+   "date": "2020-06-14",
+   "donor_raw": "Barbara McCleary",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,43.60,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 14,
+   "page": 2,
+   "row_i": 13,
+   "date": "2020-06-14",
+   "donor_raw": "Jennifer Lee (inkind-Web Security Cert)",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "21.23",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "the candidate's own IN-KIND row; included in her stated total",
+   "geometry": "pct:10.00,45.65,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-16",
+   "vendor_raw": "Wasatch County Clerk: Filing Fee",
+   "purpose": "",
+   "amount": "246.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "born-digital typed cell in the 'payee: purpose' form -- kept verbatim in vendor_raw, purpose left blank because the sheet has no purpose column",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-04-19",
+   "vendor_raw": "Fundhero: Credit Card Fees",
+   "purpose": "",
+   "amount": "2.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "born-digital typed cell in the 'payee: purpose' form -- kept verbatim in vendor_raw, purpose left blank because the sheet has no purpose column",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-04-20",
+   "vendor_raw": "Fundhero: Credit Card Fees",
+   "purpose": "",
+   "amount": "5.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "born-digital typed cell in the 'payee: purpose' form -- kept verbatim in vendor_raw, purpose left blank because the sheet has no purpose column",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2020-06-17",
+   "vendor_raw": "WendyLea Photography: Photos",
+   "purpose": "",
+   "amount": "185.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "born-digital typed cell in the 'payee: purpose' form -- kept verbatim in vendor_raw, purpose left blank because the sheet has no purpose column",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-06-19",
+   "vendor_raw": "Amazon Marketplace: Thank You Cards",
+   "purpose": "",
+   "amount": "15.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "born-digital typed cell in the 'payee: purpose' form -- kept verbatim in vendor_raw, purpose left blank because the sheet has no purpose column",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

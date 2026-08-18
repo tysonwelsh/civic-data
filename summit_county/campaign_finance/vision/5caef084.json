@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2020 single-total sheet, all three columns printed. Indexed as the Post-Election report."
+ "itemized_transcribed": true,
+ "notes": "Typed 2020 single-total sheet, all three columns printed. Indexed as the Post-Election report.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "donor_raw": "Corrie & Scott Forsling",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "619.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,17.38,84.00,4.68@p2",
+   "geometry_fit": "measured",
+   "note": "candidate-and-spouse self-funding; street address on the page discarded at read time (privacy), city/state retained as printed. The printed zip (84017, a Coalville zip) does not match the printed city (Park City); neither was repaired and no city was inferred from the zip.",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "filing fee",
+   "amount": "619.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,27.85,84.00,3.61@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 8
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "619.72",
+    "itemized": "619.72",
+    "result": "exact",
+    "detail": "exact - the single row reproduces the cover's stated 619.72 (the page carries no total of its own on this form variant); the $0.00 balance corroborates"
+   },
+   "expenditures": {
+    "stated": "619.72",
+    "itemized": "619.72",
+    "result": "exact",
+    "detail": "exact - the single row reproduces the page's own boxed printed total $619.72 and the cover"
+   }
+  },
+  "page_gates": "p2 prints NO contribution total of its own; gated by the cover's stated 619.72, which the single row reproduces EXACTLY. p3 prints a BOXED 'Total amount of expenditures $619.72', reproduced EXACTLY by its single row and agreeing with the cover. Third independent gate: the cover's campaign balance of $0.00 (619.72 in - 619.72 out). GRAIN GATE: the cover fills all three columns - current 619.72 / LAST REPORT $0.00 / cumulative 619.72 - so the filer states there was no prior report and current = cumulative. That closes the period-vs-cumulative question on the document's own face, which matters here because the chunk note observed this is a Post-Election filing with no Pre-Election sibling in the residue: the $0.00 in the Last Report column is the filer's affirmative statement that no earlier filing exists, not a missing document. Row-count gate: one populated row per page, everything below it blank. Geometry: both rows crop-verified at 400 dpi; the measured bands (p2 band 3, p3 band 8) contain the whole row - date, name, address, zip and amount together - despite this scan's heavy skew (1.9 deg on p2, 1.2 deg on p3), because rowbands padded the boxes for the drift.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Corrie Forsling, County Treasurer, 2020 Post-Election - the whole campaign is one self-funded contribution paying one county filing fee, netting to zero. Typed on the 2020 blank form, clean scan, faithful OCR layer, but noticeably skewed (the page was fed at an angle; both sheets show the scanner's black edge band at the foot). SOURCE PROPERTY: unlike every other 2020 filing in this chunk, NO template specimen row survives on either page - this filer TYPED OVER the specimen line rather than striking it or leaving it, so the specimen-drop rule has nothing to do here and the printed totals close on the first read. (Across the six filings of this chunk the specimen has now been seen in all three states: typed over here, struck with a pen on 11859/12942, struck with heavy black marker on 12944, and left in place unstruck on 11863.) Privacy: the contribution row carries a street address; discarded at read time, only city/state ('Park City', 'UT') recorded. FILER INCONSISTENCY worth noting and NOT repaired: the row pairs a Park City mailing address with zip 84017, which is Coalville's zip, not Park City's - the city is recorded as the filer printed it and no city was inferred from the zip. The donor is the candidate and her spouse jointly ('Corrie & Scott Forsling'), kept verbatim as one donor string. No in-kind schedule, no redactions."
+ }
 }

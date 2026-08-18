@@ -1,0 +1,407 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 91,
+  "page_end": 93,
+  "key": "20b6de54",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   91,
+   92,
+   93
+  ],
+  "itemized_pages_A": "92",
+  "itemized_pages_B": "93",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): $13,100 -'",
+    "detail": "the 4 Form A rows (5,000 + 2,500 + 600 + 5,000) sum to 13,100 = the schedule's own printed total = the cover's Totals for THIS REPORT cell on line 1; the cover's CUMULATIVE 68,710.05 = 55,610.05 carried from prior reports + 13,100, and those prior periods are not itemized here (officeholder account). NOTE HOW ROW 1 WAS SETTLED: its leading figure is bistable between 5,000 and 5,400 even at 1400 dpi (the filer's slashed zeros and his 4 are similar loops). Three independently printed figures fix it at 5,000 - the schedule's own total 13,100, the cover's This Report 13,100, and the cover's cumulative 68,710.05 minus 55,610.05 - so 13,100 - 2,500 - 600 - 5,000 = 5,000. Arithmetic closure outranks the glyph read (GOTCHAS, the Rhodes reversal); no figure was nudged."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of report): $8,477 55'",
+    "detail": "the 5 Form B rows (1,499.33 + 500 + 165 + 3,777.00 + 2,536.22) sum to 8,477.55 = the schedule's own printed total = the cover's THIS REPORT cell on line 2, and the cover's cumulative 47,170.01 = 38,692.46 + 8,477.55 confirms it a third time. Row 4 (UT GOP) reads as '3,177.5' at 200 dpi full page and as '$3,777 -' on an 1800 dpi tight crop; the arithmetic is decisive for 3,777.00 (8,477.55 - 1,499.33 - 500 - 165 - 2,536.22 = 3,777.00). Cumulative 47,170.01 is not itemized here."
+   }
+  },
+  "escalations": 14,
+  "escalation_note": "700-1800 dpi crops. Structural: amount-column strips on p92 and p93 to locate the header/grey/entry bands, and a probe showing the p93 rule detected at 12.66 pct falls INSIDE the header cell (a false rule thrown by the three-line 'Date of Expenditure' header text) so it is excluded from the frame. Value escalations: every amount cell on both schedules at 1100-1200 dpi, then 1400 dpi on p92 row 1 and 1800 dpi on p93 rows 5 and 6 where the leading digits are bistable; the p92 and p93 schedule TOTAL cells at 900 dpi. Legibility escalations: p92 name column row 3 at 1100 and 1500 dpi ('Lynne Const.' vs 'Lyne Const.', unresolved - flagged, not guessed), the p92 date column (row 3 is a DITTO mark), and the p93 date / city / purpose / payee columns at 900-1200 dpi.",
+  "frames": {
+   "92": {
+    "axis": "x",
+    "cell": [
+     5.77,
+     16.5
+    ],
+    "cells": [
+     [
+      5.77,
+      16.5
+     ],
+     [
+      16.5,
+      58.77
+     ],
+     [
+      58.77,
+      89.0
+     ],
+     [
+      89.0,
+      97.14
+     ]
+    ],
+    "rows": [
+     [
+      12.12,
+      15.15
+     ],
+     [
+      15.15,
+      18.29
+     ],
+     [
+      18.29,
+      21.47
+     ],
+     [
+      21.47,
+      24.65
+     ],
+     [
+      24.65,
+      27.85
+     ],
+     [
+      27.85,
+      31.06
+     ],
+     [
+      31.06,
+      34.21
+     ],
+     [
+      34.21,
+      37.29
+     ],
+     [
+      37.29,
+      40.44
+     ],
+     [
+      40.44,
+      43.62
+     ],
+     [
+      43.62,
+      46.82
+     ],
+     [
+      46.82,
+      50.0
+     ],
+     [
+      50.0,
+      53.09
+     ],
+     [
+      53.09,
+      56.18
+     ],
+     [
+      56.18,
+      59.21
+     ],
+     [
+      59.21,
+      62.29
+     ],
+     [
+      62.29,
+      65.38
+     ],
+     [
+      65.38,
+      68.41
+     ],
+     [
+      68.41,
+      71.5
+     ],
+     [
+      71.5,
+      74.6
+     ],
+     [
+      74.6,
+      77.66
+     ],
+     [
+      77.66,
+      80.76
+     ],
+     [
+      80.76,
+      83.75
+     ],
+     [
+      83.75,
+      86.76
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet with the sheet's top edge at the image's LEFT edge, so row index INCREASES as x INCREASES. rowbands' own detector returns NOTHING on this page; a coverage-restricted dark-run probe over the table's y-extent returns 27 vertical rules 6.68..86.76 at a constant ~3.1 pct pitch. As on this filer's April filing, the FIRST detected rule (6.68) is his handwritten annotation stroke outside the table, so the table border is 9.03 and the header row ('Amount | Address | Name of Contributor | Date', all single-line) is [9.03,12.12] - verified on a 700 dpi crop. Row 1 is the shaded grey strip below the header; the filer's four entries are rows 2-5. Column bands measured with coverage restricted to the table's x-extent (5.77 / 16.50 / 58.77 / 89.00 / 97.14). PROVED with 1100-1400 dpi --value crops at rows 2, 3, 4 and 5, each of which reproduces its amount."
+   },
+   "93": {
+    "axis": "x",
+    "cell": [
+     4.41,
+     15.14
+    ],
+    "cells": [
+     [
+      4.41,
+      15.14
+     ],
+     [
+      15.14,
+      34.05
+     ],
+     [
+      34.05,
+      44.77
+     ],
+     [
+      44.77,
+      90.18
+     ],
+     [
+      90.18,
+      98.32
+     ]
+    ],
+    "rows": [
+     [
+      16.01,
+      19.07
+     ],
+     [
+      19.07,
+      22.19
+     ],
+     [
+      22.19,
+      25.15
+     ],
+     [
+      25.15,
+      28.26
+     ],
+     [
+      28.26,
+      31.36
+     ],
+     [
+      31.36,
+      34.5
+     ],
+     [
+      34.5,
+      37.66
+     ],
+     [
+      37.66,
+      40.71
+     ],
+     [
+      40.71,
+      43.84
+     ],
+     [
+      43.84,
+      46.94
+     ],
+     [
+      46.94,
+      49.96
+     ],
+     [
+      49.96,
+      53.02
+     ],
+     [
+      53.02,
+      56.03
+     ],
+     [
+      56.03,
+      59.1
+     ],
+     [
+      59.1,
+      62.26
+     ],
+     [
+      62.26,
+      65.41
+     ],
+     [
+      65.41,
+      68.48
+     ],
+     [
+      68.48,
+      71.44
+     ],
+     [
+      71.44,
+      74.53
+     ],
+     [
+      74.53,
+      77.59
+     ],
+     [
+      77.59,
+      80.65
+     ],
+     [
+      80.65,
+      83.71
+     ],
+     [
+      83.71,
+      86.76
+     ],
+     [
+      86.76,
+      89.82
+     ]
+    ],
+    "measure_note": "Same rotated-landscape geometry as p92. A coverage-restricted probe returns 28 vertical rules 6.50..89.82; 6.50 is the filer's out-of-table annotation stroke, so the table border is 8.79. The header row is [8.79,16.01] (7.22 pct - Form B's 'Date of Expenditure' header wraps to three printed lines, exactly as on this filer's April Form B), and the rule the detector reports at 12.66 is FALSE: a 700 dpi crop shows the 'Amount' header cell running unbroken from 8.99 to 16.0, so 12.66 is a dark run thrown by the wrapped header text and is EXCLUDED from the bands. Row 1 is the shaded grey strip; the filer's five entries are rows 2-6. Constant ~3.1 pct pitch below the header; nothing extrapolated. Column bands measured with restricted coverage (4.41 / 15.14 / 34.05 / 44.77 / 90.18 / 98.32). PROVED with 1200-1800 dpi --value crops at rows 2-6, each reproducing its amount."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "10/11",
+    "donor_raw": "Bruce Nilson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5000",
+    "page": 92,
+    "row": 2,
+    "confidence": "low",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "AMOUNT SETTLED BY ARITHMETIC, NOT BY THE GLYPH. The cell reads '$5,' + three loop glyphs + a trailing dash; at 1400 dpi the loop group is bistable between three slashed zeros (5,000) and '4' + two zeros (5,400). The schedule's own printed total 13,100, the cover's This Report cell 13,100, and the cover's cumulative arithmetic (68,710.05 - 55,610.05) all agree, and the other three rows are unambiguous, so this row is 5,000 - GOTCHAS: arithmetic closure outranks a glyph re-read at any resolution. confidence=low and needs_review=1 record the glyph-level doubt. The date carries NO YEAR as the filer wrote it and none was supplied. The Address column holds only 'Ogden, UT' - the filer wrote no street address at all on this schedule (left empty by the FILER, not redacted by the county)."
+   },
+   {
+    "line_no": "2",
+    "date": "10/ \"",
+    "donor_raw": "Lynne Const.",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "2500",
+    "page": 92,
+    "row": 3,
+    "confidence": "low",
+    "in_kind": false,
+    "needs_review": "1",
+    "note": "TWO honest uncertainties, neither guessed away. (1) The DATE cell is a DITTO MARK - the filer wrote '10/' followed by a double-prime repeating the row above (10/11); it is kept verbatim and no date was fabricated from it. (2) The NAME is indistinct in the middle letters: 'Lynne Const.' is the reading taken, but 'Lyne Const.' is equally supportable at 1500 dpi - flagged rather than resolved. The amount itself is unambiguous ('$2,5' + two slashed zeros + dash = 2,500). Address column holds only 'Roy, UT' (no street written by the filer)."
+   },
+   {
+    "line_no": "3",
+    "date": "10/15",
+    "donor_raw": "William Behnken",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "600",
+    "page": 92,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "'$6' + two slashed zeros + trailing dash = 600 (zero-glyph ruling; the trailing dash is the filer's no-cents mark). Date carries no year. Address column holds only 'Ogden, UT'."
+   },
+   {
+    "line_no": "4",
+    "date": "10/22",
+    "donor_raw": "John E. Lindquist",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5000",
+    "page": 92,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "'$5,' + three slashed zeros + trailing dash = 5,000, read cleanly at 1400 dpi. Date carries no year. Address column holds only 'Ogden, UT'."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "10/11",
+    "vendor_raw": "Wright Signs",
+    "purpose": "4x4 Signs",
+    "amount": "1499.33",
+    "page": 93,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "cents written as a superscript '33'. The separate City column prints 'Ogden' (no vendor_city field in the row contract). Date carries no year."
+   },
+   {
+    "line_no": "2",
+    "date": "03/10",
+    "vendor_raw": "Campaign - Ricky Hatch",
+    "purpose": "Campaign Donation",
+    "amount": "500",
+    "page": 93,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "DATE KEPT VERBATIM AND NOT CORRECTED: the cell reads '03/10' (leading and trailing glyphs are slashed zeros) on a report whose own window is October 4-23, so it is either a day-first '3 October' or a filer slip. Well-formed but out of window = kept verbatim (brief section 6). It also carries no year. Amount is '$5' + two slashed zeros + dash = 500. City column prints 'Ogden'. Payee is the campaign of Ricky Hatch, the Weber County Clerk/Auditor."
+   },
+   {
+    "line_no": "3",
+    "date": "10/16",
+    "vendor_raw": "Weber Co. Clerk",
+    "purpose": "Voter lists",
+    "amount": "165",
+    "page": 93,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "'$165' with a trailing dash for the cents position. City column prints 'Ogden'. Date carries no year."
+   },
+   {
+    "line_no": "4",
+    "date": "10/23",
+    "vendor_raw": "UT GOP",
+    "purpose": "Postage STAMP.",
+    "amount": "3777.00",
+    "page": 93,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "ESCALATED: at 200 dpi full page this cell reads '$3,177.5'; at 1800 dpi it resolves to '$3,777' with a trailing dash (three sevens, no cents), and the schedule's printed total closes on 3,777.00 exactly (8,477.55 minus the other four rows). Arithmetic and the high-dpi read agree. City column prints 'SALT LAKE'. Purpose kept verbatim including the filer's trailing period. Date carries no year."
+   },
+   {
+    "line_no": "5",
+    "date": "10/25",
+    "vendor_raw": "River Print",
+    "purpose": "Postcard Printing",
+    "amount": "2536.22",
+    "page": 93,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "cents written as a superscript '22'. City column prints 'Ogden'. Date carries no year."
+   }
+  ],
+  "notes": "HANDWRITTEN 2024 3-line form, three pages: p91 cover ('October 29' box ticked, signed 28 Oct. 2024), p92 FORM A, p93 FORM B. Unlike this filer's April filing in the same archive, the county did NOT redact the cover here - the street address and cell phone are printed in the clear (retained as published, per PRIVACY.md; nothing from the cover is carried into these rows). OFFICEHOLDER ACCOUNT: the cover opens from 55,610.05 / 38,692.46 carried forward, so both schedules itemize the PERIOD only and both sides are period-exact. FILER ARITHMETIC ON THE COVER, RETAINED: 68,710.05 - 47,170.01 = 21,540.04 but the printed cumulative ending balance is 21,840.01 (a 299.97 filer discrepancy already recorded in the stated-totals cache); it is NOT a schedule problem - each schedule closes exactly to its own printed total. NO YEAR APPEARS ON ANY TRANSACTION DATE on either schedule (the filer wrote 10/11, 10/15, 10/22, 10/16, 10/23, 10/25 and one ditto mark); every date is kept verbatim and no year was inferred from the report date. THE FILER WROTE NO STREET ADDRESSES ON FORM A - the Address column holds city and state only - so the blank street is the filer's own omission, not a privacy trim. Neither schedule prints a per-page subtotal."
+ }
+]

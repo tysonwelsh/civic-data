@@ -47,6 +47,121 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2024 sheet, legible. Previous Report and Cumulative Total cells (and the whole balance row) hold a dash or slashed-zero nil mark — recorded blank, not 0. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2024 sheet, legible. Previous Report and Cumulative Total cells (and the whole balance row) hold a dash or slashed-zero nil mark — recorded blank, not 0. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "947.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.52,24.63,75.28,3.03@p3",
+   "geometry_fit": "measured",
+   "note": "the candidate's own self-funding; the form prints no city/state column, so location is structurally blank",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "754.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.09,19.52,82.05,3.04@p2",
+   "geometry_fit": "measured",
+   "note": "cents written as a superscript ('754.' with a raised 95); confirmed 754.95 by the filer's attached check #521 on p4",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2024-03-12",
+   "vendor_raw": "Richards Signs",
+   "purpose": "Yard signs",
+   "amount": "157.93",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.09,22.45,82.05,3.04@p2",
+   "geometry_fit": "measured",
+   "note": "vendor kept verbatim as written; the attached invoice on p5 is from 'Richards Sign Company' for the same date and amount",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2024-03-17",
+   "vendor_raw": "WinCo Foods",
+   "purpose": "candy/tables",
+   "amount": "34.32",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.09,25.38,82.05,3.04@p2",
+   "geometry_fit": "measured",
+   "note": "confirmed by the attached WinCo register receipt on p6, same date, total 34.32",
+   "page": 2,
+   "band": 6
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "947.20",
+    "itemized": "947.20",
+    "result": "exact",
+    "detail": "one row, the candidate's own 'Personal Contribution' of 947.20 on 1/2/24, equal to the cover's stated contribution total to the cent. This is a wholly self-funded filing: the single contribution exactly funds the three expenses."
+   },
+   "expenditures": {
+    "stated": "947.20",
+    "itemized": "947.20",
+    "result": "exact",
+    "detail": "three rows summing 754.95 + 157.93 + 34.32 = 947.20, equal to the cover's stated expenditure total to the cent, and each row independently corroborated by its attached receipt on pp4-6."
+   }
+  },
+  "page_gates": "NEITHER schedule page prints its own section total on this filing (the 2024 single_total form leaves the total to the cover), so the gate is the COVER, and both sides close on it exactly: expenditures 754.95 + 157.93 + 34.32 = 947.20 = the stated 947.20; contributions the single row 947.20 = the stated 947.20; and the cover's own balance is the zero-glyph 'O with a slash' (already in the cover cache), consistent with contributions == expenditures. A SECOND, independent gate exists here and is unusual for this corpus: pages 4-6 are the filer's attached SOURCE RECEIPTS, one per expense row, and each reproduces its ledger amount and date to the cent - p4 the filer's own check #521 to Summit County Clerk dated 1/2/24 for $754.95 ('for: file for office', plus a sticky note reading 'Candidate Filing Fee $754.95'), p5 Richards Sign Company invoice 4791 dated 03/12/2024 totalling 157.93 (147.25 + 10.68 tax) with a matching Visa credit-sale slip, p6 a WinCo Foods register receipt dated 03/17/24 totalling 34.32 (33.32 + 1.00 food tax).",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "PAGE POSITION IS NOT A CLASSIFIER, again: on this filing page 2 is the ITEMIZED EXPENSE REPORT and page 3 is the ITEMIZED CONTRIBUTION REPORT - the reverse of the module's normal order. Both pages were classified by their own printed heading. The 2024 Summit form's contribution schedule has only three columns (Date | Name of Contributor | Amount) and NO address or city column at all, so donor_city/donor_state are honestly BLANK for structural reasons on this filing - nothing was redacted and nothing was left empty by the filer. No specimen rows survive on either page (the 'Jon and Jane Doe' / 'Name of Business' template rows are absent) and every remaining band on both schedules is a genuinely empty ruled line. The filer's hand is legible throughout; the only stylistic quirk is the superscripted cents on the first expense amount ('754.' with '95' raised), which the attached check on p4 confirms as 754.95. Pages 4-6 are receipt attachments, not schedules - they carry no transactions of their own and are recorded only as corroboration."
+ }
 }

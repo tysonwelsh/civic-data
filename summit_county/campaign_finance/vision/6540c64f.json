@@ -47,6 +47,118 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed 2020 single-total sheet; Last Report and Cumulative columns left blank."
+ "itemized_transcribed": true,
+ "notes": "Typed 2020 single-total sheet; Last Report and Cumulative columns left blank.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "donor_raw": "Stephanie Larsen (self)",
+   "donor_city": "Coalville",
+   "donor_state": "",
+   "amount": "1480.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.84,18.80,83.01,1.51@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate herself; city read verbatim from the printed mailing-address cell (PO box discarded at read time), state not printed on the form and not inferred from the zip",
+   "page": 2,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Summit County",
+   "purpose": "Filing Fee",
+   "amount": "598.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.99,28.34,77.92,1.93@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2020-01-02",
+   "vendor_raw": "Zazzle",
+   "purpose": "Campaign Buttons",
+   "amount": "203.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.99,30.17,77.92,1.93@p3",
+   "geometry_fit": "measured",
+   "note": "a handwritten filer annotation '(Invoices sent in June)' runs across this row and the next in the Purpose column; date 1/2/20 precedes the declaration of candidacy but is well-formed and kept verbatim",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2020-03-20",
+   "vendor_raw": "Richards Signs",
+   "purpose": "Campaign Signs",
+   "amount": "679.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.99,32.00,77.92,1.95@p3",
+   "geometry_fit": "measured",
+   "note": "shares the handwritten '(Invoices sent in June)' annotation with the row above",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1480.52",
+    "itemized": "1480.52",
+    "result": "exact",
+    "detail": "exact - the single row equals the cover figure; the contribution sheet prints no total of its own on this form variant, so the cover is the gate"
+   },
+   "expenditures": {
+    "stated": "1480.52",
+    "itemized": "1480.52",
+    "result": "exact",
+    "detail": "exact - 598.00 + 203.42 + 679.10 = 1,480.52, closing on the page's own boxed total, its in-table TOTAL row, and the cover"
+   }
+  },
+  "page_gates": "NO GRAIN AMBIGUITY ON THIS FILING: the cover is single-column (contrib current_report $1,480.52, last_report and cumulative_totals both EMPTY), so the cover figure and the period figure are the same number and the ledger cannot be period-vs-cumulative ambiguous. p2 (ITEMIZED CONTRIBUTION REPORT) prints NO section total of its own - the 2020 single_total form carries the contribution total only on the cover - so that side is gated by the cover's $1,480.52, which the one row reproduces to the cent. p3 (ITEMIZED EXPENSE REPORT) carries TWO printed gates of its own, a boxed 'Total amount of expenditures $1,480.52' above the table and a 'TOTAL $1,480.52' in the last table row; 598.00 + 203.42 + 679.10 = 1,480.52 closes on both and on the cover. Row-count gate: rowbands found 44 bands on p2 (bands 1-2 title, band 4 header, band 5 the single data row, 39 blank ruled rows) and 35 on p3 (band 1 instruction line, band 2 header, bands 3-5 data, band 6 the TOTAL line, the rest blank) - both match what was read. Geometry spot-check: p2 band 5 re-cropped at 600 dpi reproduced '3/13/20 / Stephanie Larsen (self) / $1,480.52', and p3 bands 3-5 re-cropped reproduced Summit County $598.00 / Zazzle $203.42 / Richards Signs $679.10.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Stephanie Larsen, County Assessor, 2020 Pre-Election. Typed sheets with a poor-but-legible county OCR layer (the draft renders the title as 'Campaign Finacial Report' - which is the FORM's own printed typo, reproduced here as a source property, not an OCR artifact: the page really does read 'Finacial'). A wholly self-funded campaign spent to the cent: one contribution from the candidate herself of $1,480.52 dated 3/13/20, the same day as the $598.00 Summit County filing fee, and a $0.00 closing balance. The 2020 form's contribution sheet prints 'Mailing Address' + 'Zipcode' and NO city/state columns (the same property another agent recorded on 12943 Stevens); here the filer's address string itself ends in a place name, 'PO Box 668 Coalville', so donor_city is taken VERBATIM from what is printed inside that cell and the PO box is discarded at read time. donor_state is left BLANK - no state is printed anywhere on the row and it is not inferred from the 84017 zip. A handwritten filer annotation '(Invoices sent in June)' is written across the Purpose column of the Zazzle and Richards Signs rows in pen; it is an explanatory marginal note, not a fourth transaction, and neither the boxed total nor the TOTAL row changes for it. The Zazzle expense is dated 1/2/20, before the 3/13/20 declaration of candidacy - well-formed and kept verbatim. No specimen rows survive on this filing, no in-kind schedule, no redactions, no struck values."
+ }
 }

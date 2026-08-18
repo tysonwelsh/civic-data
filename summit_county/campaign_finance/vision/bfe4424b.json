@@ -47,6 +47,119 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Byte-different re-post of the filer's Pre-Election sheet (doc 11859) as the Post-Election report; identical printed content, Last Report and Cumulative columns blank. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Byte-different re-post of the filer's Pre-Election sheet (doc 11859) as the Post-Election report; identical printed content, Last Report and Cumulative columns blank. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "donor_raw": "Roger Armstrong (self)",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "277.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.74,20.85,78.34,2.89@p2",
+   "geometry_fit": "measured",
+   "note": "self-contribution; street address on the page discarded at read time (privacy), city/state retained",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2020-03-19",
+   "donor_raw": "Roger Armstrong (self)",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "144.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.74,23.63,78.34,3.07@p2",
+   "geometry_fit": "measured",
+   "note": "self-contribution; street address on the page discarded at read time (privacy), city/state retained",
+   "page": 2,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Summit County Council Candidate Filing Fee",
+   "amount": "277.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,33.26,83.66,2.39@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2020-03-19",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Voter List Purchase",
+   "amount": "144.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.09,35.53,83.66,2.18@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "421.61",
+    "itemized": "421.61",
+    "result": "exact",
+    "detail": "exact - 2 rows sum to 421.61 against the cover's stated 421.61 (page prints no contribution total on this variant; the cover figure and the $0 balance are the gates)"
+   },
+   "expenditures": {
+    "stated": "421.61",
+    "itemized": "421.61",
+    "result": "exact",
+    "detail": "exact - 2 rows sum to 421.61, matching the page's own boxed printed total $421.61 and the cover"
+   }
+  },
+  "page_gates": "p2 (ITEMIZED CONTRIBUTION REPORT) prints no section total of its own; gated by the cover's stated 421.61, and 277.38 + 144.23 = 421.61 EXACT. p3 (ITEMIZED EXPENSE REPORT) prints a BOXED 'Total amount of expenditures $421.61' which the two real rows reproduce EXACTLY. Third independent gate: the cover's campaign balance of $0 (421.61 in - 421.61 out). Both totals close ONLY after the STRUCK specimen rows are dropped ($435.00 on p2, $512.00 on p3). Row-count gate: 25 bands on p2 / 30 on p3 at a regular ~2.9% and ~2.1% pitch, matching the printed grids; the 2 populated rows per page sit at p2 bands 4-5 and p3 bands 3-4. Geometry spot-check: p2 band 5 re-cropped at 400 dpi reproduced '03/19/2020 Roger Armstrong (self) ... $144.23' and p3 band 4 reproduced '03/19/2020 Summit County Clerk / Voter List Purchase / $144.23'.",
+  "escalations": 0,
+  "n_contrib_rows": 2,
+  "n_expend_rows": 2,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Roger Armstrong, County Council, 2020 POST-Election - and its two schedule pages are the SAME TWO SHEETS re-submitted verbatim from his Pre-Election filing 11859 (identical rows, identical struck specimens, identical boxed $421.61; only the scan skew and page framing differ). NO GRAIN AMBIGUITY, and this pair is useful evidence on the open question in the opposite direction from 24390 Wolbach: the cover of this Post-Election filing states 421.61 in the CURRENT REPORT column with last_report and cumulative_totals left blank, i.e. this filer treated the post-election report as the CUMULATIVE cycle statement and simply repeated it because nothing happened after the pre-election period. The ledger closes on the cover either way. CONSEQUENCE THE COORDINATOR SHOULD KNOW: 11859 and 12942 will each emit the same 2 contribution + 2 expenditure rows, so at the CANDIDATE-CYCLE grain Armstrong's $421.61 appears twice across the two filings. That is a true property of Summit's cumulative filing regime (each filing restates the cycle), not a duplicate-row defect - but any per-candidate rollup must de-duplicate across filings rather than sum them, which is exactly why cf_cycle is city-only. SOURCE PROPERTY: as on 11859, the template specimen rows are not merely left in place but explicitly STRUCK THROUGH by the filer. Privacy: both real contribution rows carry a street address; discarded at read time, only city/state ('Park City', 'UT') recorded. No in-kind schedule, no redactions."
+ }
 }

@@ -1,0 +1,156 @@
+{
+ "sha256": "54ef0ba3f57bda9d15248e10d8afe2dacf21f6bffe5fa71979ca11020d666823",
+ "source_pdf": "raw/juab_2010_primary/Lu_Walker_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Lu_Walker_10-28-10.pdf",
+   "candidate": "LuWayne Walker",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "8/10/2010",
+   "donor": "Juab County Democratic Party",
+   "address": "123 N Clark St, Eureka, UT",
+   "amount": "125.00",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.77,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "June 2010",
+   "payee": "Sign Co.",
+   "purpose": "Campaign Signs",
+   "amount": "667.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.40,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "July 2010",
+   "payee": "BYU Printing",
+   "purpose": "Flyers",
+   "amount": "70.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,10.72,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Sept 2010",
+   "payee": "BYU Printing",
+   "purpose": "Flyers",
+   "amount": "318.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:5.00,13.04,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2010",
+   "payee": "BYU Printing",
+   "purpose": "Flyers",
+   "amount": "125.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:5.00,15.36,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2010",
+   "payee": "Thad Walker",
+   "purpose": "Gas & handing flyers out",
+   "amount": "120.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as month/year only",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:5.00,17.68,89.00,2.32@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct",
+   "payee": "Fawn Beatty",
+   "purpose": "Gas & handing flyers out",
+   "amount": "120.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date printed as a bare month",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:5.00,19.99,89.00,2.32@p3",
+   "in_kind": false
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "125.00",
+     "basis": "line 1 cumulative, RESOLVED this wave (see stated_total_correction)"
+    },
+    "expenditures": {
+     "result": "unknown",
+     "reason": "line 3 (total campaign expenses) is BLANK in all three columns, so the form states no expenditure figure to gate against. FINDING, not a correction: the six Form B rows sum to exactly 1420.00, which is the figure the filer wrote on LINE 2 (aggregate contributions of $50 or less) \u2014 the likeliest reading is that his Form B total was entered on the wrong line. Both figures stand as filed; nothing was moved."
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Lu_Walker_10-28-10.pdf|p2": 8.769,
+    "raw/juab_2010_primary/Lu_Walker_10-28-10.pdf|p3": 8.405
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "Lines 3 and 4 are blank in all three columns. Line 2 cumulative 1420.00 stands against LAST '-0-' and a blank THIS \u2014 a filer inconsistency retained verbatim."
+  },
+  "stated_total_correction": {
+   "field": "stated.contrib_gt50_cum",
+   "was": "",
+   "now": "125.00",
+   "why": "The 2026-08-01 totals tranche left this cell BLANK as 'overwritten and unreadable (reads as either 125.00 or 1125.00)'. It is decided by the document's own arithmetic, not by a glyph re-read (GOTCHAS: arithmetic closure outranks glyph reading; the Rhodes reversal): line 1 reads LAST '-0-' + THIS 125.00 = CUMULATIVE, so the cumulative is 125.00; and Form A on page 2 itemizes exactly one contribution, $125.00 from the Juab County Democratic Party, which is line 1's own source schedule. Two independent proofs, both on the page. Under 1125.00 neither identity closes."
+  }
+ }
+}

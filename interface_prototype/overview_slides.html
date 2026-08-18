@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Utah Civic Data — overview</title>
+<style>
+:root {
+  --bg:#15161a; --ink:#f2efea; --ink-2:#a9a49c; --ink-3:#6f6a62;
+  --accent:#8fbde8; --accent-2:#5ec4b0; --line:#2c2d34; --chip:#22242a;
+  --pen:#ff6b6b;
+}
+:root[data-theme="light"] {
+  --bg:#fbfaf8; --ink:#1a1917; --ink-2:#57534d; --ink-3:#8b857c;
+  --accent:#2f5d8a; --accent-2:#1f7a6c; --line:#e5e1da; --chip:#f1eee9;
+  --pen:#d92b2b;
+}
+* { box-sizing:border-box; }
+html, body { height:100%; }
+body {
+  margin:0; background:var(--bg); color:var(--ink); overflow:hidden;
+  font:400 20px/1.5 ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ---------- slide frame ---------- */
+.deck { height:100%; display:grid; place-items:center; padding:5vh 6vw 9vh; }
+.slide { display:none; width:100%; max-width:1080px; }
+.slide.on { display:block; animation:in .28s ease-out; }
+@keyframes in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:none; } }
+
+.eyebrow {
+  font:600 clamp(11px,1.1vw,13px)/1 ui-monospace,SFMono-Regular,Menlo,monospace;
+  letter-spacing:.18em; text-transform:uppercase; color:var(--accent); margin-bottom:1.6rem;
+}
+h1 { font-size:clamp(38px,6vw,76px); line-height:1.02; letter-spacing:-.03em; font-weight:640; margin:0 0 1.4rem; }
+h2 { font-size:clamp(28px,3.9vw,50px); line-height:1.08; letter-spacing:-.02em; font-weight:640; margin:0 0 2.2rem; }
+.lede { font-size:clamp(19px,2.1vw,27px); line-height:1.45; color:var(--ink-2); max-width:36ch; }
+.lede strong { color:var(--ink); font-weight:600; }
+
+/* ---------- bullets ---------- */
+ul { list-style:none; margin:0; padding:0; }
+li { padding:.85rem 0; border-top:1px solid var(--line); display:flex; gap:1.1rem; align-items:baseline; }
+li:first-child { border-top:0; }
+li .k {
+  flex:0 0 auto; font-size:clamp(18px,2.05vw,26px); font-weight:640;
+  letter-spacing:-.015em; color:var(--ink); min-width:0;
+}
+li .v { font-size:clamp(15px,1.5vw,19px); line-height:1.4; color:var(--ink-2); }
+li .n {
+  flex:0 0 auto; margin-left:auto; padding-left:1.5rem; font-variant-numeric:tabular-nums;
+  font-size:clamp(15px,1.5vw,19px); color:var(--accent-2); font-weight:600; white-space:nowrap;
+}
+ul.plain li { display:block; }
+ul.plain li .v { font-size:clamp(17px,1.85vw,23px); color:var(--ink); }
+
+/* ---------- government types with sub-bullets ---------- */
+.slide.dense h2 { margin-bottom:1.3rem; }
+ul.types li { display:block; padding:.7rem 0 .8rem; }
+ul.types > li > .k { display:block; margin-bottom:.45rem; color:var(--accent); }
+ul.sub { columns:2; column-gap:2.4rem; }
+ul.sub li {
+  border:0; padding:.13rem 0; display:block; break-inside:avoid;
+  font-size:clamp(14px,1.35vw,17.5px); line-height:1.45; color:var(--ink-2);
+}
+ul.sub li::before { content:"–"; color:var(--ink-3); margin-right:.6rem; }
+@media (max-width:760px){ ul.sub { columns:1; } }
+
+/* ---------- the three UVPs ---------- */
+ul.uvp li { display:block; padding:.95rem 0 1rem; }
+ul.uvp .k { display:block; color:var(--accent); margin-bottom:.35rem; }
+ul.uvp .v { display:block; font-size:clamp(15px,1.5vw,19.5px); line-height:1.45; max-width:62ch; }
+ul.uvp .was {
+  display:block; margin-top:.35rem; font-size:clamp(13px,1.25vw,16px);
+  color:var(--accent-2); font-weight:500;
+}
+ul.uvp .was::before { content:"→ "; opacity:.6; }
+
+/* ---------- number grid ---------- */
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:12px; overflow:hidden; }
+.cell { background:var(--bg); padding:1.5rem 1.4rem; }
+.cell b { display:block; font-size:clamp(28px,3.6vw,44px); font-weight:660; letter-spacing:-.03em; line-height:1; margin-bottom:.5rem; }
+.cell span { font-size:clamp(12px,1.15vw,14px); color:var(--ink-3); letter-spacing:.04em; text-transform:uppercase; font-weight:500; }
+.foot { margin-top:1.8rem; color:var(--ink-3); font-size:clamp(14px,1.35vw,17px); }
+
+/* ---------- disappearing ink ---------- */
+#ink { position:fixed; inset:0; z-index:5; cursor:crosshair; touch-action:none; }
+#ink.off { pointer-events:none; cursor:default; }
+
+/* ---------- chrome ---------- */
+.bar { position:fixed; left:0; right:0; bottom:0; height:9vh; min-height:52px; z-index:10;
+  display:flex; align-items:center; gap:1rem; padding:0 6vw; }
+.bar button.txt.dim { opacity:.4; }
+.dots { display:flex; gap:.55rem; }
+.dot { width:8px; height:8px; border-radius:50%; background:var(--line); border:0; padding:0; cursor:pointer; transition:background .2s; }
+.dot.on { background:var(--accent); }
+.dot:hover { background:var(--ink-3); }
+.spacer { flex:1; }
+.bar button.txt { background:none; border:0; color:var(--ink-3); font:inherit; font-size:13px; cursor:pointer; padding:.4rem .5rem; }
+.bar button.txt:hover { color:var(--ink); }
+.count { color:var(--ink-3); font:500 13px/1 ui-monospace,Menlo,monospace; font-variant-numeric:tabular-nums; }
+@media (max-width:640px){ li{flex-direction:column;gap:.3rem} li .n{margin-left:0;padding-left:0} }
+</style>
+</head>
+<body>
+
+<div class="deck">
+
+  <section class="slide on">
+    <div class="eyebrow">A project in progress</div>
+    <h1>Utah Civic&nbsp;Data</h1>
+    <p class="lede">Every level of Utah government — <strong>cities, counties, regional
+    planning, and the Legislature</strong> — in one place, and askable in plain English.</p>
+  </section>
+
+  <section class="slide">
+    <div class="eyebrow">The problem</div>
+    <h2>Growth decisions are made in hundreds of separate rooms.</h2>
+    <p class="lede">Each publishes its own records, in its own format, on its own website.
+    Following one project across all of them takes weeks. <strong>Nobody can see
+    across.</strong></p>
+  </section>
+
+  <section class="slide dense">
+    <div class="eyebrow">What it covers</div>
+    <h2>Five kinds of government</h2>
+    <ul class="types">
+      <li>
+        <span class="k">State &amp; regional</span>
+        <ul class="sub">
+          <li>Housing &amp; land-use legislation</li>
+          <li>How every legislator voted</li>
+          <li>Land-use statutes</li>
+          <li>Property-rights opinions</li>
+          <li>Transportation funding</li>
+          <li>Growth forecasts to 2050</li>
+        </ul>
+      </li>
+      <li>
+        <span class="k">Counties</span>
+        <ul class="sub">
+          <li>Commission &amp; council votes</li>
+          <li>Meeting minutes</li>
+          <li>Election results</li>
+          <li>Campaign finance</li>
+          <li>Ordinances</li>
+          <li>Development applications</li>
+        </ul>
+      </li>
+      <li>
+        <span class="k">Cities &amp; towns</span>
+        <ul class="sub">
+          <li>Council votes</li>
+          <li>Meeting minutes</li>
+          <li>Public comment</li>
+          <li>Elections</li>
+          <li>Campaign finance</li>
+          <li>Ordinances</li>
+          <li>Who held each seat, and when</li>
+          <li>Housing plans</li>
+        </ul>
+      </li>
+      <li>
+        <span class="k">Planning commissions</span>
+        <ul class="sub">
+          <li>Votes on rezones &amp; new development</li>
+          <li>Meeting minutes</li>
+          <li>Staff reports</li>
+          <li>Links to the council's final decision</li>
+        </ul>
+      </li>
+      <li>
+        <span class="k">Redevelopment agencies</span>
+        <ul class="sub">
+          <li>Votes on projects &amp; funding</li>
+          <li>Meeting minutes</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <div class="eyebrow">What you can ask it</div>
+    <h2>Questions that used to take weeks</h2>
+    <ul class="plain">
+      <li><span class="v">How did my council member vote on housing — every time?</span></li>
+      <li><span class="v">Which cities approve the most density, and which reject it?</span></li>
+      <li><span class="v">Where did a council overrule its own planning commission?</span></li>
+      <li><span class="v">Who funded this campaign — and how did that official later vote?</span></li>
+      <li><span class="v">What's actually funded to get built near me?</span></li>
+    </ul>
+  </section>
+
+  <section class="slide dense">
+    <div class="eyebrow">Why this is possible now</div>
+    <h2>Three things that couldn't be done before</h2>
+    <ul class="uvp">
+      <li>
+        <span class="k">One structure across every government</span>
+        <span class="v">Forty-four governments publishing in forty-four formats, federated into
+        a single shape — so a question can follow a rezone from the neighborhood, to the
+        regional plan, to the state law behind both.</span>
+        <span class="was">Connections that exist nowhere else</span>
+      </li>
+      <li>
+        <span class="k">Records no machine could read</span>
+        <span class="v">Handwritten disclosures. Sideways scans. Spreadsheets stapled to forms.
+        Read by sight, transcribed, and checked against the totals printed on each page.</span>
+        <span class="was">Now countable — and answerable in plain language</span>
+      </li>
+      <li>
+        <span class="k">A harvester built for every city</span>
+        <span class="v">Every government publishes differently, so each needs its own retrieval
+        program — thirty-one cities, eight counties, the Legislature. Written with AI in days
+        rather than years.</span>
+        <span class="was">Previously prohibitive, one city at a time</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <div class="eyebrow">Why it's different</div>
+    <h2>Not another open-data portal</h2>
+    <ul>
+      <li><span class="k">It spans levels</span><span class="v">A neighborhood rezone, the regional plan, and the state law behind both</span></li>
+      <li><span class="k">The money is new</span><span class="v">Utah municipal campaign finance, much of it transcribed from paper</span></li>
+      <li><span class="k">Every fact traces back</span><span class="v">To the government document it came from</span></li>
+      <li><span class="k">You just ask</span><span class="v">A conversational interface, no database required</span></li>
+    </ul>
+  </section>
+
+</div>
+
+<canvas id="ink"></canvas>
+
+<div class="bar">
+  <div class="dots" id="dots"></div>
+  <span class="count" id="count"></span>
+  <div class="spacer"></div>
+  <button class="txt" id="pen">✎ pen</button>
+  <button class="txt" id="theme">◐ theme</button>
+  <button class="txt" id="full">⛶ full screen</button>
+</div>
+
+<script>
+const slides = [...document.querySelectorAll('.slide')];
+const dots = document.getElementById('dots');
+let i = 0;
+let strokes = [];   // live ink; each stroke is an array of timestamped points
+
+slides.forEach((_, n) => {
+  const b = document.createElement('button');
+  b.className = 'dot'; b.setAttribute('aria-label', `Slide ${n + 1}`);
+  b.onclick = () => go(n);
+  dots.appendChild(b);
+});
+
+function go(n) {
+  i = Math.max(0, Math.min(slides.length - 1, n));
+  slides.forEach((s, k) => s.classList.toggle('on', k === i));
+  [...dots.children].forEach((d, k) => d.classList.toggle('on', k === i));
+  document.getElementById('count').textContent = `${i + 1} / ${slides.length}`;
+  strokes = [];                    // wipe annotations when the slide changes
+}
+
+addEventListener('keydown', e => {
+  if (['ArrowRight', ' ', 'PageDown', 'Enter'].includes(e.key)) { go(i + 1); e.preventDefault(); }
+  else if (['ArrowLeft', 'PageUp', 'Backspace'].includes(e.key)) { go(i - 1); e.preventDefault(); }
+  else if (e.key === 'Home') go(0);
+  else if (e.key === 'End') go(slides.length - 1);
+  else if (e.key.toLowerCase() === 'f') document.getElementById('full').click();
+  else if (e.key.toLowerCase() === 'c') strokes = [];          // clear ink now
+  else if (e.key.toLowerCase() === 'p') document.getElementById('pen').click();
+});
+
+/* ---------- disappearing ink ----------
+   Draw with the mouse; each stroke holds briefly at full opacity, then fades out.
+   Navigation is keyboard-only so the mouse is free to annotate. */
+const HOLD = 2200;   // ms fully visible
+const FADE = 2800;   // ms fading to nothing
+const cv = document.getElementById('ink');
+const ctx = cv.getContext('2d');
+let drawing = false, raf = null;
+
+function sizeCanvas() {
+  const dpr = devicePixelRatio || 1;
+  cv.width = innerWidth * dpr;
+  cv.height = innerHeight * dpr;
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+}
+sizeCanvas();
+addEventListener('resize', sizeCanvas);
+
+function paint() {
+  const now = performance.now();
+  ctx.clearRect(0, 0, innerWidth, innerHeight);
+  ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--pen').trim();
+  ctx.lineCap = ctx.lineJoin = 'round';
+  ctx.lineWidth = 4.5;
+
+  for (const s of strokes) {
+    for (let k = 1; k < s.length; k++) {
+      const age = now - s[k].t;
+      const alpha = age < HOLD ? 1 : 1 - (age - HOLD) / FADE;
+      if (alpha <= 0) continue;
+      ctx.globalAlpha = alpha;
+      ctx.beginPath();
+      ctx.moveTo(s[k - 1].x, s[k - 1].y);
+      ctx.lineTo(s[k].x, s[k].y);
+      ctx.stroke();
+    }
+  }
+  ctx.globalAlpha = 1;
+
+  // Drop points that have fully faded; a stroke dies when it has nothing left to join.
+  strokes = strokes
+    .map(s => s.filter(p => now - p.t < HOLD + FADE))
+    .filter(s => s.length > 1);
+
+  raf = (strokes.length || drawing) ? requestAnimationFrame(paint) : null;
+}
+const wake = () => { if (!raf) raf = requestAnimationFrame(paint); };
+
+cv.addEventListener('pointerdown', e => {
+  drawing = true;
+  cv.setPointerCapture(e.pointerId);
+  strokes.push([{ x: e.clientX, y: e.clientY, t: performance.now() }]);
+  wake();
+});
+cv.addEventListener('pointermove', e => {
+  if (!drawing) return;
+  strokes[strokes.length - 1].push({ x: e.clientX, y: e.clientY, t: performance.now() });
+});
+addEventListener('pointerup', () => { drawing = false; });
+addEventListener('pointercancel', () => { drawing = false; });
+
+document.getElementById('pen').onclick = e => {
+  e.currentTarget.classList.toggle('dim', cv.classList.toggle('off'));
+};
+
+document.getElementById('full').onclick = () =>
+  document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen();
+
+document.getElementById('theme').onclick = () =>
+  document.documentElement.setAttribute('data-theme',
+    document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light');
+
+go(0);
+</script>
+</body>
+</html>

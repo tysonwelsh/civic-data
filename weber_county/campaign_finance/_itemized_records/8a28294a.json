@@ -1,0 +1,4505 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 59,
+  "page_end": 66,
+  "key": "8a28294a",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 2)",
+  "pages_read": [
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66
+  ],
+  "itemized_pages_A": "60,61,62,63,64",
+  "itemized_pages_B": "65,66",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed grand total in the boxed cell at the foot of p64, $45,715.57, which equals the cover's 'Totals for This Report' line-1 cell (45,715.57)",
+    "detail": "218 Form A rows over five sheets (p60 36 + p61 49 + p62 49 + p63 49 + p64 35) sum to 5,950.18 + 11,745.00 + 9,270.00 + 8,505.00 + 10,245.39 = 45,715.57 EXACTLY, which is the grand total the filer printed in the boxed cell under the last row of p64 and the cover's This-Report cell. No sheet carries a per-sheet subtotal, so the gate is the multi-sheet sum against that single grand total. The cover's CUMULATIVE cell is 49,588.92 and its Totals-from-Last-Report cell is 3,873.35 (49,588.92 - 45,715.57 = 3,873.35 exactly), so the schedule is PERIOD-scoped behind a cumulative cover - period-exact, not exact. This is the 2024 3-LINE form: there is a single 'Total contributions from all donors' cell and no separate <=$50 aggregate line, so the line-1/line-2 basis rule does not apply and the anchor is the whole contributions cell. Field-shift screen: the exact close over 218 rows is itself strong, and it was checked independently by OCR'ing the DATE column band-by-band on p60 (10/7/2024 descending to 9/23/2024, matching row for row) - names, dates and amounts are on the same rows. No in-kind item is labelled anywhere on this schedule."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed grand total in the boxed cell on p66, -$32,960.17, which equals the cover's 'Totals for This Report' line-2 cell, printed there as (32,960.17)",
+    "detail": "50 Form B rows over two sheets (p65 33 + p66 17) sum to 21,181.18 + 11,778.99 = 32,960.17 EXACTLY = the printed grand total = the cover's This-Report cell. Cumulative is 35,813.52 and Totals-from-Last-Report is (2,853.35); 35,813.52 - 32,960.17 = 2,853.35 exactly, so this schedule too is period-scoped -> period-exact. SIGN CONVENTION: the filer prints EVERY Form B amount with a leading minus (-$15.45, -$1,000.00 ...) and prints the grand total as -$32,960.17, while the cover's Cumulative column prints the same quantity POSITIVE (35,813.52). That is a uniform outflow-display convention across all 50 rows, not a reversal or a credit, so the rows are recorded as positive magnitudes and the convention is documented here and in `notes` rather than propagated into the values; no row on this schedule is a refund or a credit. Line 3 closes on the filer's own arithmetic: 45,715.57 - 32,960.17 = 12,755.40, the printed This-Report ending balance."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "4 tight 900 dpi --value crops, all GEOMETRY proofs under addendum A3 (every sheet is typed and no amount needed a legibility escalation): p60 row 1 -> $25.00, p64 row 35 -> $2,469.39 (first and last transcribed contribution), p65 row 1 -> -$15.45, p66 row 17 -> -$533.00 (first and last transcribed expenditure). Each rendered the amount recorded for that row. Beyond the required crops, the AMOUNT column of all seven table pages was OCR'd cell-by-cell against the stored bands (tesseract, psm 7, digit whitelist) and, on p60, the DATE column as well; the legible returns matched the transcription row for row on every page, which is what established that the leading non-data bands were trimmed correctly and that no band is off by one.",
+  "frames": {
+   "60": {
+    "axis": "y",
+    "cell": [
+     83.06,
+     92.06
+    ],
+    "cells": [
+     [
+      4.59,
+      13.97
+     ],
+     [
+      13.97,
+      38.41
+     ],
+     [
+      38.41,
+      60.06
+     ],
+     [
+      60.06,
+      70.56
+     ],
+     [
+      70.56,
+      77.0
+     ],
+     [
+      77.0,
+      83.06
+     ],
+     [
+      83.06,
+      92.06
+     ]
+    ],
+    "rows": [
+     [
+      15.09,
+      17.59
+     ],
+     [
+      17.59,
+      20.0
+     ],
+     [
+      20.0,
+      22.43
+     ],
+     [
+      22.43,
+      24.93
+     ],
+     [
+      24.93,
+      27.41
+     ],
+     [
+      27.41,
+      29.89
+     ],
+     [
+      29.89,
+      32.3
+     ],
+     [
+      32.3,
+      34.84
+     ],
+     [
+      34.84,
+      37.3
+     ],
+     [
+      37.3,
+      39.8
+     ],
+     [
+      39.8,
+      42.25
+     ],
+     [
+      42.25,
+      44.61
+     ],
+     [
+      44.61,
+      46.98
+     ],
+     [
+      46.98,
+      49.39
+     ],
+     [
+      49.39,
+      51.77
+     ],
+     [
+      51.77,
+      54.2
+     ],
+     [
+      54.2,
+      56.61
+     ],
+     [
+      56.61,
+      58.98
+     ],
+     [
+      58.98,
+      61.34
+     ],
+     [
+      61.34,
+      63.66
+     ],
+     [
+      63.66,
+      65.98
+     ],
+     [
+      65.98,
+      68.43
+     ],
+     [
+      68.43,
+      70.84
+     ],
+     [
+      70.84,
+      73.25
+     ],
+     [
+      73.25,
+      75.11
+     ],
+     [
+      75.11,
+      76.98
+     ],
+     [
+      76.98,
+      78.86
+     ],
+     [
+      78.86,
+      80.7
+     ],
+     [
+      80.7,
+      82.57
+     ],
+     [
+      82.57,
+      84.48
+     ],
+     [
+      84.48,
+      86.39
+     ],
+     [
+      86.39,
+      88.25
+     ],
+     [
+      88.25,
+      90.11
+     ],
+     [
+      90.11,
+      91.98
+     ],
+     [
+      91.98,
+      93.84
+     ],
+     [
+      93.84,
+      95.7
+     ]
+    ],
+    "measure_note": "rowbands.py p60 returned 42 horizontal rules. The first three are the title underline (8.20), the table top (10.09) and the header-row bottom (12.57); band [12.57,15.09] is the BLANK spacer row the form prints under the header and is NOT a data row. Data rows are the 37 rules from 15.09 to 95.70, EXCEPT that 85.82 was a spurious detection (85.82->86.39 is 0.57pct, far under the 1.87pct pitch this sheet falls to below row 25) and was dropped, leaving exactly 36 bands for 36 printed rows. PROOF: the amount band [83.06,92.06] was OCR'd cell-by-cell against every band and the recovered figures track the transcription one-for-one (r26=18.18 LINDA HAMILTON, r28=5.00 STEVEN ANDRUS, r31=500.00 SMART TD, r36=25.00 LAUREN LUND); the DATE column [4.59,13.97] was OCR'd the same way and its 10/7 -> 9/23 descent matches band-for-band. A3 crop proof: pct:83.06,15.09,9.00,2.50@p60 --value at 900dpi renders $25.00 = row 1 as recorded."
+   },
+   "61": {
+    "axis": "y",
+    "cell": [
+     83.56,
+     92.65
+    ],
+    "cells": [
+     [
+      4.65,
+      14.12
+     ],
+     [
+      14.12,
+      38.65
+     ],
+     [
+      38.65,
+      60.24
+     ],
+     [
+      60.24,
+      71.0
+     ],
+     [
+      71.0,
+      77.47
+     ],
+     [
+      77.47,
+      83.56
+     ],
+     [
+      83.56,
+      92.65
+     ]
+    ],
+    "rows": [
+     [
+      2.57,
+      4.48
+     ],
+     [
+      4.48,
+      6.39
+     ],
+     [
+      6.39,
+      8.36
+     ],
+     [
+      8.36,
+      10.3
+     ],
+     [
+      10.3,
+      12.14
+     ],
+     [
+      12.14,
+      14.0
+     ],
+     [
+      14.0,
+      15.89
+     ],
+     [
+      15.89,
+      17.75
+     ],
+     [
+      17.75,
+      19.61
+     ],
+     [
+      19.61,
+      21.5
+     ],
+     [
+      21.5,
+      23.43
+     ],
+     [
+      23.43,
+      25.34
+     ],
+     [
+      25.34,
+      27.18
+     ],
+     [
+      27.18,
+      29.05
+     ],
+     [
+      29.05,
+      30.93
+     ],
+     [
+      30.93,
+      32.82
+     ],
+     [
+      32.82,
+      34.73
+     ],
+     [
+      34.73,
+      36.64
+     ],
+     [
+      36.64,
+      38.52
+     ],
+     [
+      38.52,
+      40.39
+     ],
+     [
+      40.39,
+      42.25
+     ],
+     [
+      42.25,
+      44.14
+     ],
+     [
+      44.14,
+      46.05
+     ],
+     [
+      46.05,
+      47.93
+     ],
+     [
+      47.93,
+      49.82
+     ],
+     [
+      49.82,
+      51.68
+     ],
+     [
+      51.68,
+      53.57
+     ],
+     [
+      53.57,
+      55.43
+     ],
+     [
+      55.43,
+      57.3
+     ],
+     [
+      57.3,
+      59.16
+     ],
+     [
+      59.16,
+      61.07
+     ],
+     [
+      61.07,
+      62.86
+     ],
+     [
+      62.86,
+      64.73
+     ],
+     [
+      64.73,
+      66.66
+     ],
+     [
+      66.66,
+      68.55
+     ],
+     [
+      68.55,
+      70.41
+     ],
+     [
+      70.41,
+      72.3
+     ],
+     [
+      72.3,
+      74.18
+     ],
+     [
+      74.18,
+      76.0
+     ],
+     [
+      76.0,
+      77.89
+     ],
+     [
+      77.89,
+      79.8
+     ],
+     [
+      79.8,
+      81.7
+     ],
+     [
+      81.7,
+      83.61
+     ],
+     [
+      83.61,
+      85.48
+     ],
+     [
+      85.48,
+      87.3
+     ],
+     [
+      87.3,
+      89.2
+     ],
+     [
+      89.2,
+      91.07
+     ],
+     [
+      91.07,
+      92.93
+     ],
+     [
+      92.93,
+      94.8
+     ]
+    ],
+    "measure_note": "Continuation sheet, no header. rowbands.py returned 100 rules at ~0.95pct pitch: the detector registered BOTH the printed rule and the text baseline of each row, so the real grid is every OTHER rule. Taking indices 0,2,4,... gives 50 rules -> 49 bands for the 49 printed rows (rule 99 at 97.18 is below the table). PROOF: amount-column OCR over those 49 bands returns 3500.00 at r41 (SILVERLINE FINISHING), 150.00 at r47 (GSMH LLC) and 50.00 at r49 (TERRANCE SHINNEY), each the recorded value."
+   },
+   "62": {
+    "axis": "y",
+    "cell": [
+     82.79,
+     91.88
+    ],
+    "cells": [
+     [
+      38.32,
+      59.82
+     ],
+     [
+      59.82,
+      82.79
+     ],
+     [
+      82.79,
+      91.88
+     ]
+    ],
+    "rows": [
+     [
+      4.02,
+      5.95
+     ],
+     [
+      5.95,
+      7.89
+     ],
+     [
+      7.89,
+      9.86
+     ],
+     [
+      9.86,
+      11.7
+     ],
+     [
+      11.7,
+      13.55
+     ],
+     [
+      13.55,
+      15.43
+     ],
+     [
+      15.43,
+      17.3
+     ],
+     [
+      17.3,
+      19.23
+     ],
+     [
+      19.23,
+      21.11
+     ],
+     [
+      21.11,
+      23.0
+     ],
+     [
+      23.0,
+      24.91
+     ],
+     [
+      24.91,
+      26.77
+     ],
+     [
+      26.77,
+      28.61
+     ],
+     [
+      28.61,
+      30.52
+     ],
+     [
+      30.52,
+      32.39
+     ],
+     [
+      32.39,
+      34.27
+     ],
+     [
+      34.27,
+      36.18
+     ],
+     [
+      36.18,
+      38.09
+     ],
+     [
+      38.09,
+      39.95
+     ],
+     [
+      39.95,
+      41.84
+     ],
+     [
+      41.84,
+      43.73
+     ],
+     [
+      43.73,
+      45.61
+     ],
+     [
+      45.61,
+      47.5
+     ],
+     [
+      47.5,
+      49.39
+     ],
+     [
+      49.39,
+      51.25
+     ],
+     [
+      51.25,
+      53.14
+     ],
+     [
+      53.14,
+      55.0
+     ],
+     [
+      55.0,
+      56.86
+     ],
+     [
+      56.86,
+      58.73
+     ],
+     [
+      58.73,
+      60.64
+     ],
+     [
+      60.64,
+      62.48
+     ],
+     [
+      62.48,
+      64.32
+     ],
+     [
+      64.32,
+      66.23
+     ],
+     [
+      66.23,
+      68.14
+     ],
+     [
+      68.14,
+      70.0
+     ],
+     [
+      70.0,
+      71.82
+     ],
+     [
+      71.82,
+      73.68
+     ],
+     [
+      73.68,
+      75.57
+     ],
+     [
+      75.57,
+      77.45
+     ],
+     [
+      77.45,
+      79.36
+     ],
+     [
+      79.36,
+      81.27
+     ],
+     [
+      81.27,
+      83.14
+     ],
+     [
+      83.14,
+      84.98
+     ],
+     [
+      84.98,
+      86.82
+     ],
+     [
+      86.82,
+      88.7
+     ],
+     [
+      88.7,
+      90.57
+     ],
+     [
+      90.57,
+      92.45
+     ],
+     [
+      92.45,
+      94.32
+     ],
+     [
+      94.32,
+      96.23
+     ]
+    ],
+    "measure_note": "Continuation sheet; same double-detection as p61 (100 rules at ~0.95pct) resolved the same way -> 49 bands for 49 rows. Only 4 vertical rules survived on this sheet, so `cells` is partial; the amount band [82.79,91.88] is one of the detected pairs and agrees with p60/p61/p63. PROOF: amount-column OCR returns 40.00 at r4 (DANETTE MCGILVRAY), 35.00 at r21 (MONICA HALL), 15.00 at r40 (ANNETTE DALEY) and 30.00 at r46 (PATRICK ZWICK) - four values unique on the page."
+   },
+   "63": {
+    "axis": "y",
+    "cell": [
+     83.44,
+     92.44
+    ],
+    "cells": [
+     [
+      4.56,
+      13.91
+     ],
+     [
+      13.91,
+      38.44
+     ],
+     [
+      38.44,
+      60.15
+     ],
+     [
+      60.15,
+      70.76
+     ],
+     [
+      70.76,
+      77.29
+     ],
+     [
+      77.29,
+      83.44
+     ],
+     [
+      83.44,
+      92.44
+     ]
+    ],
+    "rows": [
+     [
+      2.8,
+      4.7
+     ],
+     [
+      4.7,
+      6.59
+     ],
+     [
+      6.59,
+      8.45
+     ],
+     [
+      8.45,
+      10.36
+     ],
+     [
+      10.36,
+      12.27
+     ],
+     [
+      12.27,
+      14.18
+     ],
+     [
+      14.18,
+      16.09
+     ],
+     [
+      16.09,
+      17.98
+     ],
+     [
+      17.98,
+      19.89
+     ],
+     [
+      19.89,
+      21.73
+     ],
+     [
+      21.73,
+      23.57
+     ],
+     [
+      23.57,
+      25.45
+     ],
+     [
+      25.45,
+      27.34
+     ],
+     [
+      27.34,
+      29.18
+     ],
+     [
+      29.18,
+      31.11
+     ],
+     [
+      31.11,
+      33.0
+     ],
+     [
+      33.0,
+      34.93
+     ],
+     [
+      34.93,
+      36.8
+     ],
+     [
+      36.8,
+      38.66
+     ],
+     [
+      38.66,
+      40.57
+     ],
+     [
+      40.57,
+      42.43
+     ],
+     [
+      42.43,
+      44.32
+     ],
+     [
+      44.32,
+      46.18
+     ],
+     [
+      46.18,
+      48.09
+     ],
+     [
+      48.09,
+      50.0
+     ],
+     [
+      50.0,
+      51.84
+     ],
+     [
+      51.84,
+      53.7
+     ],
+     [
+      53.7,
+      55.59
+     ],
+     [
+      55.59,
+      57.45
+     ],
+     [
+      57.45,
+      59.32
+     ],
+     [
+      59.32,
+      61.23
+     ],
+     [
+      61.23,
+      63.09
+     ],
+     [
+      63.09,
+      64.93
+     ],
+     [
+      64.93,
+      66.77
+     ],
+     [
+      66.77,
+      68.64
+     ],
+     [
+      68.64,
+      70.52
+     ],
+     [
+      70.52,
+      72.43
+     ],
+     [
+      72.43,
+      74.34
+     ],
+     [
+      74.34,
+      76.23
+     ],
+     [
+      76.23,
+      78.11
+     ],
+     [
+      78.11,
+      79.98
+     ],
+     [
+      79.98,
+      81.84
+     ],
+     [
+      81.84,
+      83.7
+     ],
+     [
+      83.7,
+      85.59
+     ],
+     [
+      85.59,
+      87.43
+     ],
+     [
+      87.43,
+      89.34
+     ],
+     [
+      89.34,
+      91.25
+     ],
+     [
+      91.25,
+      93.14
+     ],
+     [
+      93.14,
+      95.02
+     ]
+    ],
+    "measure_note": "Continuation sheet; double-detected 100 rules (printed rule + text baseline, ~0.95pct apart) resolved by taking every other rule -> 50 rules -> 49 bands for 49 printed rows. PROOF: amount-column OCR over those bands returns 1,000.00 at r44 (BRANDI HAMMON), 500.00 at r19 (ARTHUR LIPSON), 500.00 at r33 (CASEY KELLER) and 100.00 at r49 (JOHN HINDS) - each the recorded value for that row."
+   },
+   "64": {
+    "axis": "y",
+    "cell": [
+     83.0,
+     92.0
+    ],
+    "cells": [
+     [
+      38.41,
+      59.85
+     ],
+     [
+      59.85,
+      83.0
+     ],
+     [
+      83.0,
+      92.0
+     ]
+    ],
+    "rows": [
+     [
+      3.93,
+      5.82
+     ],
+     [
+      5.82,
+      7.61
+     ],
+     [
+      7.61,
+      9.55
+     ],
+     [
+      9.55,
+      11.5
+     ],
+     [
+      11.5,
+      13.36
+     ],
+     [
+      13.36,
+      15.32
+     ],
+     [
+      15.32,
+      17.23
+     ],
+     [
+      17.23,
+      19.09
+     ],
+     [
+      19.09,
+      20.95
+     ],
+     [
+      20.95,
+      22.8
+     ],
+     [
+      22.8,
+      24.66
+     ],
+     [
+      24.66,
+      26.55
+     ],
+     [
+      26.55,
+      28.43
+     ],
+     [
+      28.43,
+      30.34
+     ],
+     [
+      30.34,
+      32.23
+     ],
+     [
+      32.23,
+      34.18
+     ],
+     [
+      34.18,
+      36.05
+     ],
+     [
+      36.05,
+      37.93
+     ],
+     [
+      37.93,
+      39.77
+     ],
+     [
+      39.77,
+      41.66
+     ],
+     [
+      41.66,
+      43.5
+     ],
+     [
+      43.5,
+      45.39
+     ],
+     [
+      45.39,
+      47.32
+     ],
+     [
+      47.32,
+      49.23
+     ],
+     [
+      49.23,
+      51.11
+     ],
+     [
+      51.11,
+      52.93
+     ],
+     [
+      52.93,
+      54.82
+     ],
+     [
+      54.82,
+      56.7
+     ],
+     [
+      56.7,
+      58.57
+     ],
+     [
+      58.57,
+      60.45
+     ],
+     [
+      60.45,
+      62.32
+     ],
+     [
+      62.32,
+      64.14
+     ],
+     [
+      64.14,
+      65.95
+     ],
+     [
+      65.95,
+      67.86
+     ],
+     [
+      67.86,
+      69.75
+     ]
+    ],
+    "measure_note": "Last Form A sheet; 72 double-detected rules -> indices 0,2,...,70 -> 36 rules -> 35 bands for the 35 printed rows (rule 71 at 98.45 is the page-foot rule under the grand-total box). Only 3 vertical rules survived, so the amount band's right edge (92.0) is hand-set from the p60/p63 measurement of the same form. PROOF: amount-column OCR returns 1,000.00 at r9 (WILLIAM J BEHNKEN) and r21 (TOMMY DENHAM), 25.00 at r32 (JOHN VAN WAGONER); A3 crop proof: pct:83.00,67.86,9.00,1.89@p64 --value at 900dpi renders $2,469.39 = row 35 (FOR OGDEN), the last transcribed contribution."
+   },
+   "65": {
+    "axis": "y",
+    "cell": [
+     81.06,
+     94.32
+    ],
+    "cells": [
+     [
+      2.53,
+      14.12
+     ],
+     [
+      14.12,
+      46.53
+     ],
+     [
+      46.53,
+      59.88
+     ],
+     [
+      59.88,
+      81.06
+     ],
+     [
+      81.06,
+      94.32
+     ]
+    ],
+    "rows": [
+     [
+      18.09,
+      20.45
+     ],
+     [
+      20.45,
+      22.84
+     ],
+     [
+      22.84,
+      25.25
+     ],
+     [
+      25.25,
+      27.68
+     ],
+     [
+      27.68,
+      30.11
+     ],
+     [
+      30.11,
+      32.5
+     ],
+     [
+      32.5,
+      34.89
+     ],
+     [
+      34.89,
+      37.25
+     ],
+     [
+      37.25,
+      39.64
+     ],
+     [
+      39.64,
+      42.05
+     ],
+     [
+      42.05,
+      44.48
+     ],
+     [
+      44.48,
+      46.91
+     ],
+     [
+      46.91,
+      49.27
+     ],
+     [
+      49.27,
+      51.64
+     ],
+     [
+      51.64,
+      54.0
+     ],
+     [
+      54.0,
+      56.41
+     ],
+     [
+      56.41,
+      58.77
+     ],
+     [
+      58.77,
+      61.18
+     ],
+     [
+      61.18,
+      63.5
+     ],
+     [
+      63.5,
+      65.86
+     ],
+     [
+      65.86,
+      68.27
+     ],
+     [
+      68.27,
+      70.64
+     ],
+     [
+      70.64,
+      73.05
+     ],
+     [
+      73.05,
+      75.36
+     ],
+     [
+      75.36,
+      77.64
+     ],
+     [
+      77.64,
+      79.91
+     ],
+     [
+      79.91,
+      82.18
+     ],
+     [
+      82.18,
+      84.45
+     ],
+     [
+      84.45,
+      86.8
+     ],
+     [
+      86.8,
+      89.09
+     ],
+     [
+      89.09,
+      91.39
+     ],
+     [
+      91.39,
+      93.64
+     ],
+     [
+      93.64,
+      95.91
+     ]
+    ],
+    "measure_note": "Form B sheet 1. 38 rules: 8.75 is the title underline, 11.05 the table top, 15.66 the bottom of the TWO-LINE header, and [15.66,18.09] is the hatched/shaded spacer band the form prints under the header - both were trimmed. Data rows are the 34 rules from 18.09 to 95.91 -> 33 bands for 33 printed rows. PROOF: amount-column OCR returns 370.67 at r8 (SUN PRINT UTAH) and 1,000.00 at r21 (TISSOT 8/6); A3 crop proof: pct:81.06,18.09,13.26,2.36@p65 --value at 900dpi renders -$15.45 = row 1 (GOOGLE *GSUITE) as recorded."
+   },
+   "66": {
+    "axis": "y",
+    "cell": [
+     81.1,
+     94.3
+    ],
+    "cells": [
+     [
+      81.1,
+      94.3
+     ]
+    ],
+    "rows": [
+     [
+      4.02,
+      6.36
+     ],
+     [
+      6.36,
+      8.64
+     ],
+     [
+      8.64,
+      10.95
+     ],
+     [
+      10.95,
+      13.27
+     ],
+     [
+      13.27,
+      15.61
+     ],
+     [
+      15.61,
+      17.86
+     ],
+     [
+      17.86,
+      20.14
+     ],
+     [
+      20.14,
+      22.41
+     ],
+     [
+      22.41,
+      24.73
+     ],
+     [
+      24.73,
+      27.07
+     ],
+     [
+      27.07,
+      29.36
+     ],
+     [
+      29.36,
+      31.64
+     ],
+     [
+      31.64,
+      33.91
+     ],
+     [
+      33.91,
+      36.23
+     ],
+     [
+      36.23,
+      38.5
+     ],
+     [
+      38.5,
+      40.82
+     ],
+     [
+      40.82,
+      43.14
+     ]
+    ],
+    "measure_note": "Form B sheet 2. 38 rules at ~1.16pct pitch = the same double detection; indices 0,2,...,34 give 18 rules -> 17 bands for 17 printed rows (45.5 and 47.82 sit in the blank area around the grand-total box). NO vertical rules survived on this sheet, so the amount band [81.10,94.30] is HAND-MEASURED from p65's detected band on the identical form, not detected - recorded as such. PROOF: amount-column OCR over the 17 bands returns 2,500.00/1,000.00/804.38/2,500.00/1,000.00/15.45/18.00/186.61/1,917.00/0.25 at rows 4-15 consecutively, every one the recorded value; A3 crop proof: pct:81.10,40.82,13.20,2.32@p66 --value at 900dpi renders -$533.00 = row 17 (TISSOT), the last transcribed expenditure."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "10/7/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "10/6/2024",
+    "donor_raw": "OSCAR GONZALEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "10/5/2024",
+    "donor_raw": "JEREMY A THOMPSON",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "10/4/2024",
+    "donor_raw": "MIKE SIMS",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 60,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "10/4/2024",
+    "donor_raw": "SUZANNE LINDQUIST",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 60,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "10/4/2024",
+    "donor_raw": "DANIEL WADE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "10/3/2024",
+    "donor_raw": "JOHN MERIZIER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "8.00",
+    "page": 60,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "10/3/2024",
+    "donor_raw": "HUB CITY ENTERPRISES LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 60,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "10/3/2024",
+    "donor_raw": "SHERYL COX",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 60,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "10",
+    "date": "10/2/2024",
+    "donor_raw": "BRUCE CORTESE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "8.00",
+    "page": 60,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "11",
+    "date": "10/2/2024",
+    "donor_raw": "STERLING CASTLE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "10/1/2024",
+    "donor_raw": "RICHARD SCHNEIDER JR",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "13",
+    "date": "10/1/2024",
+    "donor_raw": "RICHARD PEO",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 60,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "10/1/2024",
+    "donor_raw": "SUNITA YALAMARTY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "108.00",
+    "page": 60,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "15",
+    "date": "10/1/2024",
+    "donor_raw": "LAURIE LIZZA",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "16",
+    "date": "9/30/2024",
+    "donor_raw": "IBEW ELECTRICAL WORKERS",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 60,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "17",
+    "date": "9/30/2024",
+    "donor_raw": "JOHN MARRIOTT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "9/30/2024",
+    "donor_raw": "MICHELLE TANNER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 60,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "19",
+    "date": "9/30/2024",
+    "donor_raw": "LYNETTE GROW",
+    "donor_city": "Riverdale",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "9/30/2024",
+    "donor_raw": "KATHRYN HARDY",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 60,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "21",
+    "date": "9/30/2024",
+    "donor_raw": "SARDAR ANWAR",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "9/30/2024",
+    "donor_raw": "ALAN YORGASON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "8.00",
+    "page": 60,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "9/30/2024",
+    "donor_raw": "OSCAR MATA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 60,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "9/29/2024",
+    "donor_raw": "BARRY GOMBERG",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "25",
+    "date": "9/28/2024",
+    "donor_raw": "KERRI KELLY",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "26",
+    "date": "9/28/2024",
+    "donor_raw": "LINDA HAMILTON",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "18.18",
+    "page": 60,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "27",
+    "date": "9/28/2024",
+    "donor_raw": "JEREMY SHINODA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "28",
+    "date": "9/27/2024",
+    "donor_raw": "STEVEN ANDRUS",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5.00",
+    "page": 60,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "29",
+    "date": "9/27/2024",
+    "donor_raw": "CHRISTOPHER OSTLER",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 60,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "30",
+    "date": "9/25/2024",
+    "donor_raw": "MANAGEMENT SCIENCES COP.",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 60,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "31",
+    "date": "9/25/2024",
+    "donor_raw": "SMART TD",
+    "donor_city": "Independence",
+    "donor_state": "OH",
+    "amount": "500.00",
+    "page": 60,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "32",
+    "date": "9/25/2024",
+    "donor_raw": "DRU TIDWELL",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "33",
+    "date": "9/24/2024",
+    "donor_raw": "LEW WHEELWRIGHT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 60,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "34",
+    "date": "9/23/2024",
+    "donor_raw": "JUDI AMSEL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 60,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "35",
+    "date": "9/23/2024",
+    "donor_raw": "THOMAS SZALAY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "36",
+    "date": "9/23/2024",
+    "donor_raw": "LAUREN LUND",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 60,
+    "row": 36,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "37",
+    "date": "9/23/2024",
+    "donor_raw": "BARBARA PETERS",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "38",
+    "date": "9/23/2024",
+    "donor_raw": "BARBARA PETERS",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "39",
+    "date": "9/23/2024",
+    "donor_raw": "REVEREND MONICA HALL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 61,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "40",
+    "date": "9/23/2024",
+    "donor_raw": "COMMUNICATION WORKERS PCC",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 61,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "41",
+    "date": "9/23/2024",
+    "donor_raw": "NORTHERN UTAH LABOR COUNCIL",
+    "donor_city": "Clearfield",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 61,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "42",
+    "date": "9/20/2024",
+    "donor_raw": "MIKE MONSON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "43",
+    "date": "9/19/2024",
+    "donor_raw": "UTAH AFL-CIO",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 61,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "44",
+    "date": "9/19/2024",
+    "donor_raw": "STEVE STANSFIELD",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "45",
+    "date": "9/19/2024",
+    "donor_raw": "FRED LARGE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "46",
+    "date": "9/19/2024",
+    "donor_raw": "KATE BAGLEY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "47",
+    "date": "9/19/2024",
+    "donor_raw": "WILLIAM HUGHES",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "48",
+    "date": "9/19/2024",
+    "donor_raw": "SHELLEICE STOKES",
+    "donor_city": "Marriott",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "49",
+    "date": "9/19/2024",
+    "donor_raw": "KIMBERLY BOWSHER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "50",
+    "date": "9/18/2024",
+    "donor_raw": "UNITED STEEL WORKERS DIST 12",
+    "donor_city": "Magna",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 61,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "51",
+    "date": "9/17/2024",
+    "donor_raw": "PAULA NAISBITT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "52",
+    "date": "9/17/2024",
+    "donor_raw": "ROSS ARNOLD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 61,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "53",
+    "date": "9/17/2024",
+    "donor_raw": "HEIDI PORTZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "54",
+    "date": "9/17/2024",
+    "donor_raw": "ROXANNE GOOGIN",
+    "donor_city": "Park City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 61,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "55",
+    "date": "9/17/2024",
+    "donor_raw": "RICHARD FAIRBANKS",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 61,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "56",
+    "date": "9/17/2024",
+    "donor_raw": "BRUCE SWIFT",
+    "donor_city": "Uintah",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "57",
+    "date": "9/17/2024",
+    "donor_raw": "MEL WITHARANA",
+    "donor_city": "Farmington",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "58",
+    "date": "9/12/2024",
+    "donor_raw": "CORY MANNING",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 61,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "59",
+    "date": "9/11/2024",
+    "donor_raw": "OGDEN FIRE FIGHTERS LOCAL 552",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "page": 61,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "60",
+    "date": "9/11/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 61,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "61",
+    "date": "9/10/2024",
+    "donor_raw": "TOM PAPPAS",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "35.00",
+    "page": 61,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "62",
+    "date": "9/10/2024",
+    "donor_raw": "CHRIS JENSEN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "63",
+    "date": "9/9/2024",
+    "donor_raw": "ALAN YORGASON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "10.00",
+    "page": 61,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "64",
+    "date": "9/9/2024",
+    "donor_raw": "KELLY CROZIER",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "65",
+    "date": "9/9/2024",
+    "donor_raw": "DOMINIC DEWITTE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "66",
+    "date": "9/7/2024",
+    "donor_raw": "LAURIE LIZZA",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "67",
+    "date": "9/7/2024",
+    "donor_raw": "JEREMY A THOMPSON",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "68",
+    "date": "9/5/2024",
+    "donor_raw": "RONALD THORNBURG",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "69",
+    "date": "9/5/2024",
+    "donor_raw": "DENNIS KING",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "70",
+    "date": "9/3/2024",
+    "donor_raw": "KAY HOOGLAND",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 61,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "71",
+    "date": "9/2/2024",
+    "donor_raw": "BECKY GESTELAND",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "72",
+    "date": "9/1/2024",
+    "donor_raw": "MAX DECARIA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 61,
+    "row": 36,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "73",
+    "date": "9/1/2024",
+    "donor_raw": "JOHN MARRIOTT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 37,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "74",
+    "date": "8/31/2024",
+    "donor_raw": "JAMES D DAYLEY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 38,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "75",
+    "date": "8/30/2024",
+    "donor_raw": "ROBERT GARNER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 61,
+    "row": 39,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "76",
+    "date": "8/29/2024",
+    "donor_raw": "LINDA SANCHEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 40,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "77",
+    "date": "8/29/2024",
+    "donor_raw": "SILVERLINE FINISHING, INC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "3500.00",
+    "page": 61,
+    "row": 41,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "78",
+    "date": "8/29/2024",
+    "donor_raw": "MICHAELA MEZO",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 42,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "79",
+    "date": "8/29/2024",
+    "donor_raw": "ROBERT FUDGE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 43,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "80",
+    "date": "8/29/2024",
+    "donor_raw": "BARRY GOMBERG",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 61,
+    "row": 44,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "81",
+    "date": "8/28/2024",
+    "donor_raw": "LEON OREM, LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 61,
+    "row": 45,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "82",
+    "date": "8/28/2024",
+    "donor_raw": "TOKYO STATION LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 61,
+    "row": 46,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "83",
+    "date": "8/28/2024",
+    "donor_raw": "GSMH LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 61,
+    "row": 47,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "84",
+    "date": "8/28/2024",
+    "donor_raw": "BYRON BAKER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 61,
+    "row": 48,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "85",
+    "date": "8/25/2024",
+    "donor_raw": "TERRANCE SHINNEY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 61,
+    "row": 49,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "86",
+    "date": "8/24/2024",
+    "donor_raw": "DIANA ALLISON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 62,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "87",
+    "date": "8/23/2024",
+    "donor_raw": "DANIEL WADE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 62,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "88",
+    "date": "8/20/2024",
+    "donor_raw": "JEFFREY BOOTH",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "89",
+    "date": "8/20/2024",
+    "donor_raw": "DANETTE MCGILVRAY",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "40.00",
+    "page": 62,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "90",
+    "date": "8/20/2024",
+    "donor_raw": "RICK JONES",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "91",
+    "date": "8/19/2024",
+    "donor_raw": "TAYLOR KNTUH",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "92",
+    "date": "8/19/2024",
+    "donor_raw": "CIRILO FRANCO",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "93",
+    "date": "8/19/2024",
+    "donor_raw": "BARBARA PETERS-GORRY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 62,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "94",
+    "date": "8/17/2024",
+    "donor_raw": "DIANE FORSTER-BURKE",
+    "donor_city": "Cottonwood H",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city printed truncated by the column width; transcribed verbatim as printed"
+   },
+   {
+    "line_no": "95",
+    "date": "8/16/2024",
+    "donor_raw": "OPERATING ENGINEERS UTAH - 3",
+    "donor_city": "Snady",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 62,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "96",
+    "date": "8/16/2024",
+    "donor_raw": "GAY LYNN BENNION",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 62,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "97",
+    "date": "8/16/2024",
+    "donor_raw": "DAVID BAGGOTT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 62,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "98",
+    "date": "8/15/2024",
+    "donor_raw": "ULISES ACOSTA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "99",
+    "date": "8/15/2024",
+    "donor_raw": "KATHRYN MACKAY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "100",
+    "date": "8/14/2024",
+    "donor_raw": "GEORGE HALL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 62,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "101",
+    "date": "8/13/2024",
+    "donor_raw": "BETTY  JOHNSON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 62,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "102",
+    "date": "8/12/2024",
+    "donor_raw": "CORY MANNING",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "103",
+    "date": "8/10/2024",
+    "donor_raw": "KAREN SINCERBEAUX",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "104",
+    "date": "8/9/2024",
+    "donor_raw": "ROBERT TANNER",
+    "donor_city": "Costa Mesa",
+    "donor_state": "CA",
+    "amount": "500.00",
+    "page": 62,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "105",
+    "date": "8/9/2024",
+    "donor_raw": "CAROLYN ERICKSON",
+    "donor_city": "Plymouth",
+    "donor_state": "NH",
+    "amount": "25.00",
+    "page": 62,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "106",
+    "date": "8/8/2024",
+    "donor_raw": "MONICA HALL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "35.00",
+    "page": 62,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "107",
+    "date": "8/8/2024",
+    "donor_raw": "JOSH GRIMAUD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 62,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "108",
+    "date": "8/8/2024",
+    "donor_raw": "JASSIRL BARCA",
+    "donor_city": "Bountiful",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "109",
+    "date": "8/7/2024",
+    "donor_raw": "GUILLERMO CORTES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 62,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "110",
+    "date": "8/7/2024",
+    "donor_raw": "ROBIN HOUGH",
+    "donor_city": "Holladay",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 62,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "111",
+    "date": "8/7/2024",
+    "donor_raw": "FERNANDO LOPEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 62,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "112",
+    "date": "8/7/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 62,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "113",
+    "date": "8/6/2024",
+    "donor_raw": "SUZANNE DAILEY",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "114",
+    "date": "8/6/2024",
+    "donor_raw": "PRISCILLA MARTINEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "115",
+    "date": "8/6/2024",
+    "donor_raw": "ENRIQUE GARCIA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "116",
+    "date": "8/5/2024",
+    "donor_raw": "DEBORAH UMAN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "117",
+    "date": "8/5/2024",
+    "donor_raw": "TOP NOTCH",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 62,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "118",
+    "date": "8/5/2024",
+    "donor_raw": "JEREMY A THOMPSON",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "119",
+    "date": "8/5/2024",
+    "donor_raw": "JEREMY A THOMPSON",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 62,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "120",
+    "date": "8/4/2024",
+    "donor_raw": "DOMINIC DEWITTE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "121",
+    "date": "8/1/2024",
+    "donor_raw": "TEAMSTERS LOCAL 222",
+    "donor_city": "West Valley Ci",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 62,
+    "row": 36,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city printed truncated by the column width; transcribed verbatim as printed"
+   },
+   {
+    "line_no": "122",
+    "date": "8/1/2024",
+    "donor_raw": "ASHLEY CHRISTENSEN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 37,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "123",
+    "date": "7/30/2024",
+    "donor_raw": "JAMES DAYLEY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 38,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "124",
+    "date": "7/30/2024",
+    "donor_raw": "BETTY SAWYER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 39,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "125",
+    "date": "7/30/2024",
+    "donor_raw": "ANNETTE DALEY",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "15.00",
+    "page": 62,
+    "row": 40,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "126",
+    "date": "7/30/2024",
+    "donor_raw": "ROSS ROMERO",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 41,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "127",
+    "date": "7/30/2024",
+    "donor_raw": "ROBERTA CLARK",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 42,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "128",
+    "date": "7/29/2024",
+    "donor_raw": "BARRY GOMBERG",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 62,
+    "row": 43,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "129",
+    "date": "7/29/2024",
+    "donor_raw": "GISSELL RICE",
+    "donor_city": "Clearfield",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 44,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "130",
+    "date": "7/29/2024",
+    "donor_raw": "RICK SPENCER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 62,
+    "row": 45,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "131",
+    "date": "7/29/2024",
+    "donor_raw": "PATRICK ZWICK",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "30.00",
+    "page": 62,
+    "row": 46,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "132",
+    "date": "7/25/2024",
+    "donor_raw": "AARON NELSON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 62,
+    "row": 47,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "133",
+    "date": "7/24/2024",
+    "donor_raw": "KANDI O'BRIEN",
+    "donor_city": "KIHEI",
+    "donor_state": "HI",
+    "amount": "50.00",
+    "page": 62,
+    "row": 48,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "134",
+    "date": "7/24/2024",
+    "donor_raw": "SHARON WENDT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 62,
+    "row": 49,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "135",
+    "date": "7/24/2024",
+    "donor_raw": "KIMAL JAMES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "136",
+    "date": "7/24/2024",
+    "donor_raw": "BILL CAMPBELL",
+    "donor_city": "SYRACUSE",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 63,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "137",
+    "date": "7/23/2024",
+    "donor_raw": "JOHN SILLITO",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 63,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "138",
+    "date": "7/22/2024",
+    "donor_raw": "KATHRYN LINDQUIST",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "139",
+    "date": "7/22/2024",
+    "donor_raw": "KATHIE DARBY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 63,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "140",
+    "date": "7/22/2024",
+    "donor_raw": "JOSH GRIMAUD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "141",
+    "date": "7/20/2024",
+    "donor_raw": "JENNIFER WEBB",
+    "donor_city": "Kaysville",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "142",
+    "date": "7/19/2024",
+    "donor_raw": "GINA TIMMERMAN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "143",
+    "date": "7/19/2024",
+    "donor_raw": "JAN WINNIFORD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "144",
+    "date": "7/19/2024",
+    "donor_raw": "JANICE WARD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "145",
+    "date": "7/19/2024",
+    "donor_raw": "FELICIA ELLIS",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 63,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "146",
+    "date": "7/18/2024",
+    "donor_raw": "ANGELA CHOBERKA",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "147",
+    "date": "7/18/2024",
+    "donor_raw": "ROSEMARY LESSER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "148",
+    "date": "7/18/2024",
+    "donor_raw": "DURBANO PROPERTIES, L.C.",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 63,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "149",
+    "date": "7/18/2024",
+    "donor_raw": "DON ERIC BELNAP",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "150",
+    "date": "7/17/2024",
+    "donor_raw": "CHRISTOPHER STONE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "151",
+    "date": "7/16/2024",
+    "donor_raw": "CATHERINE MCNEEL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "152",
+    "date": "7/16/2024",
+    "donor_raw": "CHRISTINA HERNANDEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "153",
+    "date": "7/16/2024",
+    "donor_raw": "ARTHUR LIPSON",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "154",
+    "date": "7/15/2024",
+    "donor_raw": "KEVIN IRELAND",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "155",
+    "date": "7/10/2024",
+    "donor_raw": "UNIVERSITY BROILER & GRILL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "156",
+    "date": "7/9/2024",
+    "donor_raw": "KIRK COLTON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 63,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "157",
+    "date": "7/8/2024",
+    "donor_raw": "IAIN HUETON",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 63,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "158",
+    "date": "7/8/2024",
+    "donor_raw": "REBECCA WRAY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "10.00",
+    "page": 63,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "159",
+    "date": "7/8/2024",
+    "donor_raw": "JAMES DAYLEY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "160",
+    "date": "7/7/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 63,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "161",
+    "date": "7/5/2024",
+    "donor_raw": "TARA JORGENSON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 63,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "162",
+    "date": "7/2/2024",
+    "donor_raw": "DELL NICHOLS",
+    "donor_city": "Farmington",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "163",
+    "date": "7/1/2024",
+    "donor_raw": "TONY CHIAPUZIO",
+    "donor_city": "Santa Ana",
+    "donor_state": "CA",
+    "amount": "250.00",
+    "page": 63,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "164",
+    "date": "6/30/2024",
+    "donor_raw": "LEON JONES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "165",
+    "date": "6/27/2024",
+    "donor_raw": "BRUCE CORTESE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "5.00",
+    "page": 63,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "166",
+    "date": "6/27/2024",
+    "donor_raw": "MICHAEL CORRELL",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "167",
+    "date": "6/27/2024",
+    "donor_raw": "CASEY KELLER",
+    "donor_city": "Bountiful",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "168",
+    "date": "6/27/2024",
+    "donor_raw": "JOHN THOMPSON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "169",
+    "date": "6/24/2024",
+    "donor_raw": "ESTRELLA JUAREZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "170",
+    "date": "6/24/2024",
+    "donor_raw": "ZARA FRANKLIN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 36,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "171",
+    "date": "6/24/2024",
+    "donor_raw": "MITCH ARQUETTE",
+    "donor_city": "Kaysville",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 37,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "172",
+    "date": "6/21/2024",
+    "donor_raw": "NORTHERN UTAH LABOR COUNCIL",
+    "donor_city": "Clearfield",
+    "donor_state": "UT",
+    "amount": "400.00",
+    "page": 63,
+    "row": 38,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "173",
+    "date": "6/21/2024",
+    "donor_raw": "JULIE MORRISON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 39,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "174",
+    "date": "6/19/2024",
+    "donor_raw": "AMY SMITH",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 40,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "175",
+    "date": "6/18/2024",
+    "donor_raw": "LUCILLE BRIZZEE",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 63,
+    "row": 41,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "176",
+    "date": "6/18/2024",
+    "donor_raw": "KIRSTEN HEALEY",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 42,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "177",
+    "date": "6/17/2024",
+    "donor_raw": "CRAIG ADAM",
+    "donor_city": "Harrisville",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 43,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "178",
+    "date": "6/13/2024",
+    "donor_raw": "BRANDI HAMMON",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 63,
+    "row": 44,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "179",
+    "date": "6/11/2024",
+    "donor_raw": "NICOLE JUDD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 63,
+    "row": 45,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "180",
+    "date": "6/11/2024",
+    "donor_raw": "KEVIN LUNDELL",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 63,
+    "row": 46,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "181",
+    "date": "6/11/2024",
+    "donor_raw": "DANIEL MARTINEZ",
+    "donor_city": "Clinton",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 47,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "182",
+    "date": "6/11/2024",
+    "donor_raw": "OSCAR GONZALEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 48,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "183",
+    "date": "6/11/2024",
+    "donor_raw": "JOHN HINDS",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 63,
+    "row": 49,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "184",
+    "date": "6/11/2024",
+    "donor_raw": "PHIL BOILEAU",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 64,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "185",
+    "date": "6/11/2024",
+    "donor_raw": "ALEXANDER MCDONALD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "186",
+    "date": "6/11/2024",
+    "donor_raw": "JACKIE KENT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "187",
+    "date": "6/11/2024",
+    "donor_raw": "AMELIA JONES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "188",
+    "date": "6/11/2024",
+    "donor_raw": "L. C. JONES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "189",
+    "date": "6/11/2024",
+    "donor_raw": "KATHLEEN BIDEAUX",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "190",
+    "date": "6/10/2024",
+    "donor_raw": "FLOR LOPEZ",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "191",
+    "date": "6/10/2024",
+    "donor_raw": "TERRY & BRENDA KEES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 64,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "192",
+    "date": "6/10/2024",
+    "donor_raw": "WILLIAM J BEHNKEN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 64,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "193",
+    "date": "6/7/2024",
+    "donor_raw": "TERRY OGDEN",
+    "donor_city": "Mesquite",
+    "donor_state": "NV",
+    "amount": "100.00",
+    "page": 64,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "194",
+    "date": "6/7/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 64,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "195",
+    "date": "6/5/2024",
+    "donor_raw": "WM PARKER III",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 64,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "196",
+    "date": "6/5/2024",
+    "donor_raw": "PAULA NAISBITT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "197",
+    "date": "6/4/2024",
+    "donor_raw": "ANDREW BLODGETT",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "198",
+    "date": "6/4/2024",
+    "donor_raw": "ANDREW MCCRADY",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 64,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "199",
+    "date": "6/3/2024",
+    "donor_raw": "ALEX HOWARD",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1.00",
+    "page": 64,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "200",
+    "date": "6/3/2024",
+    "donor_raw": "DAVID LESSER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "201",
+    "date": "6/1/2024",
+    "donor_raw": "JERI MOORE",
+    "donor_city": "Oceanside",
+    "donor_state": "CA",
+    "amount": "250.00",
+    "page": 64,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "202",
+    "date": "6/1/2024",
+    "donor_raw": "DANIEL WADE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 64,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "203",
+    "date": "6/1/2024",
+    "donor_raw": "JEFF FURTON",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "204",
+    "date": "5/31/2024",
+    "donor_raw": "TOMMY DENHAM",
+    "donor_city": "salinas",
+    "donor_state": "CA",
+    "amount": "1000.00",
+    "page": 64,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "205",
+    "date": "5/30/2024",
+    "donor_raw": "LARA GALE",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 64,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "206",
+    "date": "5/30/2024",
+    "donor_raw": "CHRISTY  GREINER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "207",
+    "date": "5/30/2024",
+    "donor_raw": "MIKE JUDKINS",
+    "donor_city": "Syracuse",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 64,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "208",
+    "date": "5/29/2024",
+    "donor_raw": "DAVID DURAN",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "209",
+    "date": "5/23/2024",
+    "donor_raw": "STEPHEN READ",
+    "donor_city": "Oceanside",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "page": 64,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "210",
+    "date": "5/18/2024",
+    "donor_raw": "KAREN SINCERBEAUX",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "211",
+    "date": "5/10/2024",
+    "donor_raw": "ROBERT GARNER",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 64,
+    "row": 28,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "212",
+    "date": "5/8/2024",
+    "donor_raw": "JOHN HONG",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 64,
+    "row": 29,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "213",
+    "date": "5/8/2024",
+    "donor_raw": "RYAN OAKES",
+    "donor_city": "North Salt Lak",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 30,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city printed truncated by the column width; transcribed verbatim as printed"
+   },
+   {
+    "line_no": "214",
+    "date": "5/7/2024",
+    "donor_raw": "TERRY KEES",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 31,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "215",
+    "date": "5/7/2024",
+    "donor_raw": "JOHN VAN WAGONER",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 64,
+    "row": 32,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "216",
+    "date": "5/7/2024",
+    "donor_raw": "RICHARD YOUNG",
+    "donor_city": "Glendale",
+    "donor_state": "AZ",
+    "amount": "100.00",
+    "page": 64,
+    "row": 33,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "217",
+    "date": "5/7/2024",
+    "donor_raw": "SAM WAYMAN",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 64,
+    "row": 34,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "218",
+    "date": "4/20/2024",
+    "donor_raw": "FOR OGDEN",
+    "donor_city": "Ogden,",
+    "donor_state": "UT",
+    "amount": "2469.39",
+    "page": 64,
+    "row": 35,
+    "confidence": "medium",
+    "in_kind": false
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "10/3/2024",
+    "vendor_raw": "GOOGLE *GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Office Expense",
+    "amount": "15.45",
+    "page": 65,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "10/2/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 65,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "10/1/2024",
+    "vendor_raw": "YESCO OUTDOOR",
+    "vendor_city": "OGDEN",
+    "purpose": "Outdoor Signs",
+    "amount": "3250.00",
+    "page": 65,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "9/27/2024",
+    "vendor_raw": "HABITAT FOR HUMANITY",
+    "vendor_city": "OGDEN",
+    "purpose": "Used Sign Posts",
+    "amount": "30.00",
+    "page": 65,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "9/25/2024",
+    "vendor_raw": "SAUNDERS OUTDOOR",
+    "vendor_city": "OGDEN",
+    "purpose": "Outdoor Signs",
+    "amount": "2350.00",
+    "page": 65,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "9/17/2024",
+    "vendor_raw": "ACTBLUE ACTBLUE",
+    "vendor_city": "ONLINE",
+    "purpose": "CC Processing Fee",
+    "amount": "55.23",
+    "page": 65,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "9/16/2024",
+    "vendor_raw": "ACTBLUE ACTBLUE",
+    "vendor_city": "ONLINE",
+    "purpose": "CC Processing Fee",
+    "amount": "26.67",
+    "page": 65,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "8",
+    "date": "9/10/2024",
+    "vendor_raw": "SUN PRINT UTAH",
+    "vendor_city": "SALT LAKE CITY",
+    "purpose": "Printed Material",
+    "amount": "370.67",
+    "page": 65,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "9/9/2024",
+    "vendor_raw": "CPCNEUTEK OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "2145.00",
+    "page": 65,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "9/6/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 65,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "9/6/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Connection",
+    "amount": "0.13",
+    "page": 65,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "12",
+    "date": "9/5/2024",
+    "vendor_raw": "JEREMIAHS",
+    "vendor_city": "OGDEN",
+    "purpose": "Meetings",
+    "amount": "581.06",
+    "page": 65,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "13",
+    "date": "9/4/2024",
+    "vendor_raw": "EINSTEIN BROS BAGELS OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Volunteer Fuel",
+    "amount": "20.31",
+    "page": 65,
+    "row": 13,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "14",
+    "date": "9/4/2024",
+    "vendor_raw": "SMITHS FOOD OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Ice",
+    "amount": "4.51",
+    "page": 65,
+    "row": 14,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "15",
+    "date": "9/3/2024",
+    "vendor_raw": "EINSTEIN BROS BAGELS OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Vounteer Fuel",
+    "amount": "27.97",
+    "page": 65,
+    "row": 15,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "16",
+    "date": "9/3/2024",
+    "vendor_raw": "GOOGLE *GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "15.45",
+    "page": 65,
+    "row": 16,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "17",
+    "date": "8/21/2024",
+    "vendor_raw": "ELEVATE",
+    "vendor_city": "ONLINE",
+    "purpose": "Systems Setup",
+    "amount": "2510.00",
+    "page": 65,
+    "row": 17,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "18",
+    "date": "8/12/2024",
+    "vendor_raw": "OFFICEMAX",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "150.14",
+    "page": 65,
+    "row": 18,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "19",
+    "date": "8/8/2024",
+    "vendor_raw": "STONE MOUNTAIN PRESS OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Campaign T-shirts",
+    "amount": "1002.79",
+    "page": 65,
+    "row": 19,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "20",
+    "date": "8/8/2024",
+    "vendor_raw": "STONE MOUNTAIN PRESS OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "471.90",
+    "page": 65,
+    "row": 20,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "21",
+    "date": "8/6/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "OGDEN",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 65,
+    "row": 21,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "22",
+    "date": "8/6/2024",
+    "vendor_raw": "SWITCHBOARD",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "59.29",
+    "page": 65,
+    "row": 22,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "23",
+    "date": "8/6/2024",
+    "vendor_raw": "SWITCHBOARD",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "41.82",
+    "page": 65,
+    "row": 23,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "24",
+    "date": "8/5/2024",
+    "vendor_raw": "SUN PRINT UTAH",
+    "vendor_city": "SALT LAKE CITY",
+    "purpose": "Printed Material",
+    "amount": "370.67",
+    "page": 65,
+    "row": 24,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "25",
+    "date": "8/4/2024",
+    "vendor_raw": "Costco",
+    "vendor_city": "SOUTH OGDEN",
+    "purpose": "Parade Support",
+    "amount": "470.77",
+    "page": 65,
+    "row": 25,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "26",
+    "date": "8/3/2024",
+    "vendor_raw": "GOOGLE *GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "15.45",
+    "page": 65,
+    "row": 26,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "27",
+    "date": "7/29/2024",
+    "vendor_raw": "ELEVATE",
+    "vendor_city": "ONLINE",
+    "purpose": "Market Research",
+    "amount": "2500.00",
+    "page": 65,
+    "row": 27,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "28",
+    "date": "7/24/2024",
+    "vendor_raw": "STICKER MULE",
+    "vendor_city": "ONLINE",
+    "purpose": "Printed Material",
+    "amount": "253.11",
+    "page": 65,
+    "row": 28,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "29",
+    "date": "7/15/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 65,
+    "row": 29,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "30",
+    "date": "7/3/2024",
+    "vendor_raw": "GOOGLE GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "15.45",
+    "page": 65,
+    "row": 30,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "31",
+    "date": "7/2/2024",
+    "vendor_raw": "STICKER MULE",
+    "vendor_city": "ONLINE",
+    "purpose": "Printed Material",
+    "amount": "197.34",
+    "page": 65,
+    "row": 31,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "32",
+    "date": "7/1/2024",
+    "vendor_raw": "24HOURWRISTBANDS.COM",
+    "vendor_city": "ONLINE",
+    "purpose": "Printed Material",
+    "amount": "94.00",
+    "page": 65,
+    "row": 32,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "33",
+    "date": "6/27/2024",
+    "vendor_raw": "OFFICEMAX",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "136.00",
+    "page": 65,
+    "row": 33,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "34",
+    "date": "6/27/2024",
+    "vendor_raw": "USPS PO OGDEN",
+    "vendor_city": "OGDEN",
+    "purpose": "Mailing",
+    "amount": "106.00",
+    "page": 66,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "35",
+    "date": "6/24/2024",
+    "vendor_raw": "OFFICE MAX",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "17.04",
+    "page": 66,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "36",
+    "date": "6/24/2024",
+    "vendor_raw": "DINGMAN PRINT OGDEN",
+    "vendor_city": "WASHINGTON TER",
+    "purpose": "Printed Material",
+    "amount": "182.33",
+    "page": 66,
+    "row": 3,
+    "confidence": "medium",
+    "note": "city printed truncated by the column width; transcribed verbatim as printed"
+   },
+   {
+    "line_no": "37",
+    "date": "6/21/2024",
+    "vendor_raw": "ELEVATE",
+    "vendor_city": "ONLINE",
+    "purpose": "Graphic and Design",
+    "amount": "2500.00",
+    "page": 66,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "38",
+    "date": "6/17/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 66,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "39",
+    "date": "6/17/2024",
+    "vendor_raw": "GRIZZLY GRAPHICS",
+    "vendor_city": "OGDEN",
+    "purpose": "Printed Material",
+    "amount": "801.16",
+    "page": 66,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "40",
+    "date": "6/14/2024",
+    "vendor_raw": "ACTBLUE ACTBLUE",
+    "vendor_city": "ONLINE",
+    "purpose": "CC Processing Fee",
+    "amount": "197.00",
+    "page": 66,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "41",
+    "date": "6/7/2024",
+    "vendor_raw": "BEEHIVE PHOTOGRAP",
+    "vendor_city": "SALT LAKE CITY",
+    "purpose": "Photograpy",
+    "amount": "804.38",
+    "page": 66,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "42",
+    "date": "6/5/2024",
+    "vendor_raw": "ELEVATE",
+    "vendor_city": "ONLINE",
+    "purpose": "Web Development",
+    "amount": "2500.00",
+    "page": 66,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "43",
+    "date": "6/4/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Event Services",
+    "amount": "1000.00",
+    "page": 66,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "44",
+    "date": "6/3/2024",
+    "vendor_raw": "GOOGLE GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "15.45",
+    "page": 66,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "45",
+    "date": "5/21/2024",
+    "vendor_raw": "THE OGDEN VALLEY NEWS",
+    "vendor_city": "EDEN",
+    "purpose": "Subscription",
+    "amount": "18.00",
+    "page": 66,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "46",
+    "date": "5/11/2024",
+    "vendor_raw": "WIX.COM",
+    "vendor_city": "ONLINE",
+    "purpose": "Web Hosting",
+    "amount": "186.61",
+    "page": 66,
+    "row": 13,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "47",
+    "date": "5/2/2024",
+    "vendor_raw": "ELEVATE",
+    "vendor_city": "ONLINE",
+    "purpose": "Consulting",
+    "amount": "1917.00",
+    "page": 66,
+    "row": 14,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "48",
+    "date": "5/2/2024",
+    "vendor_raw": "ACTBLUE ACTBLUE",
+    "vendor_city": "ONLINE",
+    "purpose": "CC Processing Fee",
+    "amount": "0.25",
+    "page": 66,
+    "row": 15,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "49",
+    "date": "5/1/2024",
+    "vendor_raw": "GOOGLE *GSUITE",
+    "vendor_city": "ONLINE",
+    "purpose": "Subscription",
+    "amount": "0.77",
+    "page": 66,
+    "row": 16,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "50",
+    "date": "4/23/2024",
+    "vendor_raw": "TISSOT",
+    "vendor_city": "ONLINE",
+    "purpose": "Consulting",
+    "amount": "533.00",
+    "page": 66,
+    "row": 17,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "Steven Van Wagoner, County Commission Seat C, October 8 (pre-election) report signed October 8, 2024; pages 59-66 of the 2024 consolidated archive. p59 is the cover; Form A runs p60-p64 (218 rows, grand total boxed on p64); Form B runs p65-p66 (50 rows, grand total boxed on p66). Both sides are TYPED, not handwritten, and both close to the cent. THE SIGN CONVENTION ON FORM B: the filer prints a leading minus on every expenditure row and on the Form B grand total, while the cover's Cumulative column prints expenditures positive; the minus is a uniform outflow display, applied identically to all 50 rows, so amounts are recorded as positive magnitudes (see recon.expenditures.detail). Donor STREET ADDRESSES are printed in full on this copy (the county did not redact this filing, unlike the same filer's April report) and are deliberately NOT carried into this record - city/state only, per PRIVACY. Four city cells are printed TRUNCATED by the column width ('Cottonwood H', 'West Valley Ci', 'North Salt Lak' on Form A and 'WASHINGTON TER' on Form B) and are transcribed verbatim as printed, each with a row note; they are clipped by the form, not redacted and not left empty by the filer. Two filer spellings are kept verbatim: the city 'Snady' (Sandy) on the Operating Engineers row and the purposes 'Vounteer Fuel' and 'Photograpy' on Form B. The last Form A row, 'FOR OGDEN' 4/20/2024 $2,469.39, is a committee transfer and is one row as the filer reported it. Two rows on p61 are an exact duplicate pair (BARBARA PETERS, 9/23/2024, $50.00, printed twice on consecutive lines); both are retained because the schedule's own grand total requires both - dropping one would break the close by 50.00."
+ }
+]

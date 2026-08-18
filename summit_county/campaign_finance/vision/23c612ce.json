@@ -47,6 +47,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2022 single-total sheet, legible despite the 'low' OCR sidecar. Every Current Report cell and the whole balance row are a slashed-zero nil mark (recorded blank). Column-order cross-check: Last Report reproduces doc 20641's Current figures exactly. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2022 single-total sheet, legible despite the 'low' OCR sidecar. Every Current Report cell and the whole balance row are a slashed-zero nil mark (recorded blank). Column-order cross-check: Last Report reproduces doc 20641's Current figures exactly. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "3500.00",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists in this document, so no ledger sum can be formed. The stated figure is the cover's Cumulative Totals cell. Olson's own Pre-Election filing (20641) carries the itemized ledger behind it: 2 rows summing to 3,500.00."
+   },
+   "expenditures": {
+    "stated": "2073.77",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists in this document. The stated figure is the cover's Cumulative Totals cell. Olson's Pre-Election filing (20641) carries a 17-row expense ledger summing to 2,226.44 against that same printed 2,073.77 - a filer-arithmetic delta of 152.67, traced there."
+   }
+  },
+  "page_gates": "The document is ONE PAGE. p1 was rendered full-page and classified (not re-read for money - the cover tranche owns those cells): it is the '2022 CAMPAIGN FINANCIAL REPORT' cover box and nothing else. There is no ITEMIZED CONTRIBUTION REPORT page and no ITEMIZED EXPENSE REPORT page in this filing, so both sides are `none` (non-existence), NOT a blank schedule and NOT a zero.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A COVER-ONLY re-filing: every Current Report cell is a slashed zero (contributions, expenditures and balance), the Last Report column repeats the Pre-Election figures (3500.00 / 2073.77) and the Cumulative column repeats them again - the filer had no post-period activity and simply re-certified the same totals. That makes this an INDEPENDENT confirmation of the Pre-Election cover figures used to gate 20641 (its 2,073.77 expenditure total is reproduced here in a second document in the filer's own hand), which is why the 152.67 expense delta recorded on 20641 is the filer's addition and not a misread cover cell. REDACTION ASYMMETRY, confirmed on the page: this Post-Election copy is NOT redacted - the candidate's street address, zip and cell phone are all published in the clear - while her Pre-Election copy (20641) has the donor address column whited out. Same filer, same cycle, opposite treatment; the county's behaviour, retained, and the exact pattern the module records for Harte/Keyes/Robinson. Nothing on the cover was re-transcribed here."
+ }
 }

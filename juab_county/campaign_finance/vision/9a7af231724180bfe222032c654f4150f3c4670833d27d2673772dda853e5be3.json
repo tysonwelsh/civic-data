@@ -1,0 +1,53 @@
+{
+ "sha256": "9a7af231724180bfe222032c654f4150f3c4670833d27d2673772dda853e5be3",
+ "source_pdf": "raw/juab_2010_primary/Deette_Worthington_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Deette_Worthington_10-28-10.pdf",
+   "candidate": "DeEtte Worthington",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "0",
+     "basis": "lines 1+2 both struck-zero; Form A present, no entries"
+    },
+    "expenditures": {
+     "result": "unknown",
+     "reason": "the document is 2 pages (cover + Form A); no Form B page exists. Stated expenses are 0, so no dollars are unaccounted for."
+    }
+   },
+   "pages_read": [
+    1,
+    2
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Deette_Worthington_10-28-10.pdf|p2": 8.996
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "Form A carries a single slashed-zero glyph in the Amount column of the first line and nothing else \u2014 the filer's zero mark for the whole schedule (ZERO-GLYPH RULING: denotes 0, verbatim retained), not a contribution row with a zero amount."
+  }
+ }
+}

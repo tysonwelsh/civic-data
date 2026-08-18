@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:04:40Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Jared B. Erickson",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "",
@@ -49,5 +49,56 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "NO report-type box is checked on this form - honest blank, not inferred (dated 11/7/14, i.e. after the general election). This 2014 form variant omits the August 31st school-board line."
+ "notes": "NO report-type box is checked on this form - honest blank, not inferred (dated 11/7/14, i.e. after the general election). This 2014 form variant omits the August 31st school-board line.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "11/7/2014",
+   "vendor_raw": "Jared B. Erickson",
+   "purpose": "Loan repayment",
+   "amount": "723.00",
+   "confidence": "high",
+   "geometry": "pct:19.47,3.96,2.90,10.35@p3",
+   "geometry_frame": "p3 axis=x cell=3.96-14.31 rowband=19.47-22.37 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT (723.00)",
+     "detail": "the single Form B row (723.00) equals the printed schedule total and the cover's This-Report column; cumulative 4,069.09 is carried forward and not itemized here"
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Form A (p2) is present and ENTIRELY BLANK with the filer's nil dash as its printed total \u2014 matching the cover's dash in the This-Report contributions line; empty by the document, not untranscribed. Form B carries one row, the repayment of the candidate's own campaign loan. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

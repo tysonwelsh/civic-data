@@ -1,60 +1,113 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202411_728_s-bercusson-general-001.pdf",
-    "cache_key": "ecd0cf84",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "General 2024 (pre-general / post-election)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Sherrie Bercuson",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202411_728_s-bercusson-general-001.pdf",
+  "cache_key": "ecd0cf84",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "General 2024 (pre-general / post-election)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10/27/2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": []
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "600.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "600.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "600.00",
+     "itemized": "0.00",
+     "result": "delta",
+     "anchor": "published stated total",
+     "detail": "delta -600.00 - 0 row(s) sum to 0.00 against published stated total, which prints 600.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: COVER SAYS 600.00, TABLE B IS EMPTY. Cover line 2 prints '$600.00' (and line 3 repeats '$600.00' as the balance, itself inconsistent with 0 - 600), but the Table B section on p2 shows header text only -- no entries and no printed total. Delta 600.00 is the FILER's failure to itemize, not a transcription gap; nothing was invented to close it.",
+     "published_stated": "600.00",
+     "csv_reconciles": "False",
+     "csv_delta": "-600.00"
     }
+   },
+   "page_subtotal_gates": "Neither table prints a TOTAL figure in this copy (only the 'TOTAL:' label on Table A), so no page gate exists on either side.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "DEGRADED FORM RENDITION: this copy of the sheet has lost its table GRID -- p1 holds the cover in a re-flowed layout that spills the checkbox list onto p2, and p2 then prints the Table A and Table B headers and column labels as running text with no ruled rows. No handwriting appears anywhere in either table area, so zero entries is a real read, not an artifact of the missing rules. Handwritten cover: Sherrie Bercuson, Wasatch County Council District E, Democrat, Midway; clerk RCVD stamp 'OCT 28 '24 AM09:32'; signed 10/27/2024; no reporting-period box marked (the list renders as bullets, none struck). Cover prints 0 contributions / $600.00 expenditures / $600.00 balance -- the balance line contradicts its own subtraction and is left as filed."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Sherrie Bercuson",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "This copy reflows the period list as bullets rather than checkboxes and none is marked; the signature and date were read from page 2. The balance (600.00) equals the expenditure against zero contributions \u2014 kept verbatim."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10/27/2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": []
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "600.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "600.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "This copy reflows the period list as bullets rather than checkboxes and none is marked; the signature and date were read from page 2. The balance (600.00) equals the expenditure against zero contributions — kept verbatim.",
+ "contributions": [],
+ "expenditures": []
 }

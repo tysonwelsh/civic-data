@@ -47,6 +47,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Re-post of the filer's Pre-Election sheet (doc 11862) as the Post-Election report; identical printed content. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Re-post of the filer's Pre-Election sheet (doc 11862) as the Post-Election report; identical printed content. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1480.52",
+    "itemized": "",
+    "result": "none",
+    "detail": "no contribution schedule page exists in this document - nothing to reconcile, and never a zero. The cover's $1,480.52 stands on its own."
+   },
+   "expenditures": {
+    "stated": "1480.52",
+    "itemized": "",
+    "result": "none",
+    "detail": "no expense schedule page exists in this document - nothing to reconcile, and never a zero. The cover's $1,480.52 stands on its own."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered and read once, not for money but to CLASSIFY it, and it is the 2020 cover form and nothing else (candidate block, the three-row Current/Last/Cumulative money grid, the oath, the anonymous-contribution notice, signature and date 12/2/2020). There is no ITEMIZED CONTRIBUTION REPORT sheet and no ITEMIZED EXPENSE REPORT sheet in this PDF, so both sides are 'none' - NON-EXISTENCE OF THE SCHEDULE, which is not a zero and must never be read as 'this campaign had no donors'. The cover's stated totals ($1,480.52 / $1,480.52 / $0.00) remain published by the cover tranche and are untouched here.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Stephanie Larsen, County Assessor, 2020 POST-ELECTION - the sibling of 11862 (her Pre-Election filing, itemized in this same chunk). The filer submitted a BARE COVER: one page, no schedules attached, signed 12/2/2020. EVIDENCE ON THE PERIOD-vs-CUMULATIVE GRAIN QUESTION, from same-candidate cover-differencing: this cover states contributions $1,480.52 / expenditures $1,480.52 / balance $0.00 in the CURRENT REPORT column with Last Report and Cumulative Totals both EMPTY - digit for digit the same three figures as her Pre-Election cover (11862). Two readings are possible and the pair does not decide between them: either the filer treats the Current Report column as CAMPAIGN-TO-DATE and simply restated a finished campaign, or the campaign genuinely transacted nothing between the two filings and the period figures coincide with the cumulative because there was only ever one period. Either way the Larsen pair carries NO grain conflict - unlike the Stevens 2020 trio in this same chunk, where the Post-Election cover (12943) fills all three columns and the period/cumulative split is explicit - so nothing here is withheld; there is simply no ledger to withhold. Worth noting for the ruling: Summit's own form does not require schedules to be attached, and the county accepted and published this cover-only submission."
+ }
 }

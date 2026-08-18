@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:09:26Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Brian Keith Rowley",
  "office_stated": "County Commissioner Seat B",
  "report_type_stated": "",
@@ -44,5 +44,169 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN 2022 3-line form (p50 of the 2022 archive). NO report-type box is checked (honest blank)."
+ "notes": "HANDWRITTEN 2022 3-line form (p50 of the 2022 archive). NO report-type box is checked (honest blank).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "4-11-22",
+   "donor_raw": "Dorothy Bedford",
+   "amount": "48.06",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:16.35,5.39,3.21,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=16.35-19.56 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The Address cell reads 'unknown' in the filer's own hand - left un-filled BY THE FILER, not redacted by the county - so donor_city/donor_state are honestly blank. Amount escalated to a 1200 dpi tight crop (bistable leading digit); 48.06 is both the glyph read and the only value that closes the schedule on the cover's 459.65."
+  },
+  {
+   "line_no": "2",
+   "date": "4-28-22",
+   "donor_raw": "Brian Rowley (in Kind)",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:19.56,5.39,3.15,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=19.56-22.71 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The filer's own '(in Kind)' tag is kept verbatim inside the name cell. Self-contribution by the candidate. In-kind items count toward the printed schedule total on this form and are NOT excluded from the sum."
+  },
+  {
+   "line_no": "3",
+   "date": "5-03-22",
+   "donor_raw": "Kevin Bryan",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "23.43",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:22.71,5.39,3.17,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=22.71-25.88 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "5-03-22",
+   "donor_raw": "Brian Rowley (in Kind)",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:25.88,5.39,3.18,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=25.88-29.06 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The filer's own '(in Kind)' tag is kept verbatim inside the name cell."
+  },
+  {
+   "line_no": "5",
+   "date": "6-15-22",
+   "donor_raw": "Brian Rowley (in Kind)",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "91.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:29.06,5.39,3.18,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=29.06-32.24 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The Name-of-Contributor and Address cells on this row are DITTO MARKS (a single \" in each) repeating row 4; the ditto is expanded here and the verbatim glyph is recorded in this note. The filer wrote no in-kind tag of his own on this row - it is inherited with the ditto - but the row is the same self-contribution series."
+  },
+  {
+   "line_no": "6",
+   "date": "7-05-22",
+   "donor_raw": "Kevin Bryan",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "23.37",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:32.24,5.39,3.17,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=32.24-35.41 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "8-15-22",
+   "donor_raw": "Martin Kokol",
+   "donor_city": "Victor",
+   "donor_state": "ID",
+   "amount": "23.79",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:35.41,5.39,3.12,9.06@p51",
+   "geometry_frame": "p51 axis=x cell=5.39-14.45 rowband=35.41-38.53 (7 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Out-of-state donor (Victor, Idaho)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "5-05-22",
+   "vendor_raw": "Vista Print",
+   "purpose": "Signs & Flyers",
+   "amount": "245.26",
+   "confidence": "medium",
+   "geometry": "pct:18.18,4.18,3.08,10.68@p52",
+   "geometry_frame": "p52 axis=x cell=4.18-14.86 rowband=18.18-21.26 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The City column is blank on this row - left empty BY THE FILER, not redacted. The decimal separator is written as a comma-like tick ('245,26'); the digit string is unambiguous at 1200 dpi and the value is recorded as 245.26."
+  },
+  {
+   "line_no": "2",
+   "date": "7-07-22",
+   "vendor_raw": "Vista Print",
+   "purpose": "Signs & Flyers",
+   "amount": "108.10",
+   "confidence": "medium",
+   "geometry": "pct:21.26,4.18,3.08,10.68@p52",
+   "geometry_frame": "p52 axis=x cell=4.18-14.86 rowband=21.26-24.34 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column blank (filer, not redaction). Third digit escalated to 1200 dpi and discriminated 8-vs-6 against the same filer's '48.06' on p51: his 8 is a rising stroke closing into a crossed bottom loop, his 6 a plain descending curve with an open bottom loop. Neither reading closes the side against the cover's 425.36 (108.10 leaves 72.00, 106.10 would leave 74.00), so arithmetic could not decide it and the glyph did."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    50,
+    51,
+    52
+   ],
+   "itemized_pages_A": "51",
+   "itemized_pages_B": "52",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "cover line 1 'Total contributions from all donors', Totals for This Report = Cumulative Totals (459.65)",
+     "detail": "7 Form A rows sum to 48.06+150.00+23.43+100.00+91.00+23.37+23.79 = 459.65, exactly the cover's line-1 cell (this = cum = 459.65; the Totals-from-Last-Report column is blank, so this is a single-report cycle and period == cumulative). Form A's OWN 'Total Contributions: (to line 1 of report)' cell is BLANK - it carries only a bare dash mark, which under the zero-glyph ruling is a nil mark and not a numeral - so the cover cell is the only printed anchor. 2022 is the 3-line form variant (a single contrib_all cell, no separate <=$50 aggregate line), so the line-1/line-2 basis rule does not apply. The first row's leading digit is bistable 4/6-vs-8 at 200 dpi; a 1200 dpi tight crop shows the same crossing-loop '8' glyph the filer uses elsewhere, and the sum closes only on 48.06."
+    },
+    "expenditures": {
+     "result": "delta",
+     "anchor": "cover line 2 'Total Campaign Expenditures', Totals for This Report = Cumulative Totals (425.36)",
+     "detail": "Form B carries exactly TWO entries - 245.26 and 108.10, summing to 353.36 - against the cover's line-2 cell of 425.36 (this = cum). A 400 dpi strip crop of the whole amount column on p52 confirms all 23 remaining printed row bands are blank, and Form B's own 'Total Expenditures: (to line 2 of report)' cell is BLANK (a bare dash, a nil mark, not a zero), so there is no schedule-level or page-subtotal anchor to trace the difference against. The residual is 72.00 and it is the FILER's: the cover is internally consistent (459.65 contributions - 425.36 expenditures = 34.29, the stated ending balance) and the contributions side reconciles to the cent, so this is under-itemization on the filer's own Form B, not an unread row or an unread page. This side is therefore a FLOOR - the two rows are what the document itemizes, and $72.00 of stated spending is never attributed to a payee anywhere in the retained filing."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "900-1200 dpi tight --value crops: p51 r1 amount (bistable 48.06 vs 46.06 - resolved to 48.06 by the filer's own crossing-loop 8 glyph AND by exact closure on 459.65); p51 date column (all 7 dates); p51 amount column strip (all 7 amounts); p52 r1+r2 amounts at 1200 dpi (245.26 - decimal separator written as a comma-like tick but the digit string is unambiguous - and 108.10, where the third glyph was discriminated 8-vs-6 against the filer's own '48.06' on p51: his 8 is a rising stroke with a crossed bottom loop, his 6 is a plain descending curve); p52 full amount-column strip at 400 dpi to prove no further entries exist.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Brian Keith Rowley, County Commissioner Seat B, 2022 cycle; filed 11-01-2022, pages 50-52 (the last three pages) of the 2022 consolidated county archive. 2022 3-LINE form variant: the cover prints only 'Total contributions from all donors' / 'Total Campaign Expenditures' / 'Ending Balance', with no separate <=$50 aggregate line, so Form A itemizes the whole contributions total and the line-1/line-2 basis rule does not bite. NO report-type box is checked (an honest blank on the filer's part). Both schedules are rotated landscape sheets. Donor and vendor street addresses printed on Forms A and B are deliberately NOT carried (PRIVACY.md: city/state only). CONTRIBUTIONS close to the cent; EXPENDITURES are a FLOOR - see recon.expenditures for the traced $72.00 residual, which is the filer's own under-itemization against his own cover figure."
+  }
+ }
 }

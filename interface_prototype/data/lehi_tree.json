@@ -1,0 +1,7967 @@
+{
+ "slug": "lehi",
+ "name": "Lehi",
+ "level": "city",
+ "dir": "lehi_city_council",
+ "portal": "Granicus",
+ "gov_form": "",
+ "registry_notes": "",
+ "facts": {
+  "motions": 2350,
+  "member_votes": 12400,
+  "meetings": 282,
+  "documents": 1242,
+  "comments": 42,
+  "ordinances": 313,
+  "races": 9,
+  "contributions": 422,
+  "terms": 17,
+  "searchable_minutes": 344,
+  "caveats": [
+   {
+    "dataset": "meeting_minutes",
+    "code": "coverage-note",
+    "text": "Lehi's council minutes publishing LAPSED after 2026-01-27 (~19-21 Granicus meetings with no minutes; every public channel exhausted \u2014 GRAMA is the only remaining path). Post-Jan-2026 lehi council coverage is agenda/video-only, an external publishing gap, not an extraction one."
+   }
+  ]
+ },
+ "tree": {
+  "name": "lehi_city_council",
+  "type": "dir",
+  "role": "canonical",
+  "note": "One government, one folder. Each subfolder below is a dataset that stands on its own \u2014 its own source manifest, its own build script, its own documented limit on what the city actually publishes.",
+  "files": 2711,
+  "bytes": 513949842,
+  "children": [
+   {
+    "name": "db",
+    "type": "dir",
+    "role": "derived",
+    "note": "DERIVED. The per-entity SQLite database, rebuilt from the flat CSVs. Never hand-edited.",
+    "files": 17,
+    "bytes": 5698289,
+    "children": [
+     {
+      "name": "tables",
+      "type": "dir",
+      "role": "derived",
+      "note": "DERIVED. Each database table exported to CSV for diff-friendly review.",
+      "files": 9,
+      "bytes": 2308928,
+      "children": [
+       {
+        "name": "application.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 476414,
+        "rows": 1416
+       },
+       {
+        "name": "body.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 85,
+        "rows": 3
+       },
+       {
+        "name": "meeting.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 32703,
+        "rows": 282
+       },
+       {
+        "name": "motion.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 978448,
+        "rows": 2350
+       },
+       {
+        "name": "motion_std.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 558252,
+        "rows": 2350
+       },
+       {
+        "name": "person.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 862,
+        "rows": 27
+       },
+       {
+        "name": "referral.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 45659,
+        "rows": 458
+       },
+       {
+        "name": "role.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1275,
+        "rows": 36
+       },
+       {
+        "name": "vote.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 215230,
+        "rows": 12400
+       }
+      ]
+     },
+     {
+      "name": "build_db.py",
+      "type": "file",
+      "role": "derived",
+      "note": "Rebuilds this entity's database from the flat CSVs. Idempotent.",
+      "bytes": 710
+     },
+     {
+      "name": "build_referrals.py",
+      "type": "file",
+      "role": "derived",
+      "note": "Reconstructs planning-commission\u2192council links and scores each one.",
+      "bytes": 456
+     },
+     {
+      "name": "disposition_overrides.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "CORRECTION FILE. Hand-checked approve/deny/continue classifications.",
+      "bytes": 302,
+      "rows": 1
+     },
+     {
+      "name": "lehi.db",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. This entity's SQLite database, rebuilt from the flat CSVs.",
+      "bytes": 3100672
+     },
+     {
+      "name": "overrides.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "CORRECTION FILE. Documented corrections applied at build time, leaving the source values intact.",
+      "bytes": 30,
+      "rows": 0
+     },
+     {
+      "name": "referral_overrides.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "CORRECTION FILE. Hand-verified planning-commission\u2192council links.",
+      "bytes": 54,
+      "rows": 0
+     },
+     {
+      "name": "referrals_audit.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. Every reconstructed cross-body link with its confidence score.",
+      "bytes": 271762,
+      "rows": 458
+     },
+     {
+      "name": "SCHEMA.md",
+      "type": "file",
+      "role": "derived",
+      "note": "The database schema for this entity.",
+      "bytes": 15375
+     }
+    ]
+   },
+   {
+    "name": "campaign_finance",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Disclosure filings: who funded whom, itemized where the filing was machine-readable or vision-transcribed.",
+    "files": 298,
+    "bytes": 62069334,
+    "children": [
+     {
+      "name": "batch",
+      "type": "dir",
+      "role": "raw",
+      "note": "",
+      "files": 5,
+      "bytes": 56733,
+      "children": [
+       {
+        "name": "2019.tsv",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 3863
+       },
+       {
+        "name": "2021.tsv",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 2920
+       },
+       {
+        "name": "2023.tsv",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 7553
+       },
+       {
+        "name": "2025.tsv",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 5270
+       },
+       {
+        "name": "manifest.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 37127
+       }
+      ]
+     },
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 145,
+      "bytes": 61318347,
+      "children": [
+       {
+        "name": "2019",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 28,
+        "bytes": 10242023,
+        "children": [
+         {
+          "name": "201908_Ammon-Crossette.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 39443
+         },
+         {
+          "name": "201908_Cody-Black.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 251716
+         },
+         {
+          "name": "201908_Henry-Rudolph-Kneitz-III.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 243866
+         },
+         {
+          "name": "201908_Jason-Oviatt.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 111210
+         },
+         {
+          "name": "201908_Johnny-Revill.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 71303
+         },
+         {
+          "name": "201908_Jonathan-Willis.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 53641
+         },
+         {
+          "name": "201908_Katie-Koivisto.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 70459
+         },
+         {
+          "name": "201908_Matthew-Wynn-Hemmert.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 1451092
+         },
+         {
+          "name": "201908_Michelle-Miles-1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 243283
+         },
+         {
+          "name": "201908_Mike-V.-Southwick.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 256496
+         },
+         {
+          "name": "\u2026 18 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2021",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 21,
+        "bytes": 17047211,
+        "children": [
+         {
+          "name": "202110_Aaron-Bullen-Revised.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 223741
+         },
+         {
+          "name": "202110_Chris-Condie.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 174285
+         },
+         {
+          "name": "202110_Ethan-Erikson.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 100738
+         },
+         {
+          "name": "202110_Jesse-Riddle-Revised.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 239186
+         },
+         {
+          "name": "202110_Lori-Le.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 130520
+         },
+         {
+          "name": "202110_Mark-Johnson.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 461800
+         },
+         {
+          "name": "202110_Michelle-Miles.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 6414815
+         },
+         {
+          "name": "202110_MontaneHamilton_FinancialDisclosure.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 44488
+         },
+         {
+          "name": "202110_Nicole-Kunze.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 64950
+         },
+         {
+          "name": "202110_Paul-Hancock.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 954566
+         },
+         {
+          "name": "\u2026 11 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2023",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 37,
+        "bytes": 12040261,
+        "children": [
+         {
+          "name": "202308_2023-08-28-Sousa-Campaign-Finance-Report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 117883
+         },
+         {
+          "name": "202308_Astill_Lehi-campaign-finance-report_2023.08.29.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 255656
+         },
+         {
+          "name": "202308_Brent-Summers.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 197764
+         },
+         {
+          "name": "202308_Campaign-Finance-Disclosure-2023-v2_Jason-Harris_8.29.2023.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 692926
+         },
+         {
+          "name": "202308_campaign-finance-report-Tyler-Lindsay-8.29.2023.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 216435
+         },
+         {
+          "name": "202308_Campaign_Finance_Aug282023_Brent_Summers.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 100188
+         },
+         {
+          "name": "202308_Charlie.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 82387
+         },
+         {
+          "name": "202308_Corey-Astill-amended.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 190299
+         },
+         {
+          "name": "202308_Curtis-Payne.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 290046
+         },
+         {
+          "name": "202308_Heather-Newall.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 229695
+         },
+         {
+          "name": "\u2026 27 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2025",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 52,
+        "bytes": 21486380,
+        "children": [
+         {
+          "name": "04hpvyvv_hutchinson-full-report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 197886
+         },
+         {
+          "name": "1ffk5h4w_paul-binns.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 1598186
+         },
+         {
+          "name": "1ibebf3i_james-harrison-5th-report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 813737
+         },
+         {
+          "name": "1sklztrg_emily-lockhart-general-report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 225417
+         },
+         {
+          "name": "1u2awttt_condie-full-report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 236078
+         },
+         {
+          "name": "2crfza1x_hancock-september-11-financial-disclosures.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 33513
+         },
+         {
+          "name": "2tnmgybe_tyson-hodges-final-financial-disclosure.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 164729
+         },
+         {
+          "name": "3t5fjtcj_paul-binns-general-report.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 1598245
+         },
+         {
+          "name": "4iulcekw_jared-v-peterson.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 56411
+         },
+         {
+          "name": "5mlplvt2_charlie-tautuaa-final-financial-disclosure.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 265561
+         },
+         {
+          "name": "\u2026 42 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "index_pages",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 6,
+        "bytes": 502031,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 2177
+         },
+         {
+          "name": "cfd_index_2019_20191118095646.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 80424
+         },
+         {
+          "name": "cfd_index_2021_20211120180852.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 97414
+         },
+         {
+          "name": "cfd_index_2023_20231213080249.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 130609
+         },
+         {
+          "name": "cfd_index_2023primary_20230922024640.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 128213
+         },
+         {
+          "name": "index_financial-disclosures_2025.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 63194
+         }
+        ]
+       },
+       {
+        "name": "_fetch_log.jsonl",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 441
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 134,
+      "bytes": 407474,
+      "children": [
+       {
+        "name": "04hpvyvv_hutchinson-full-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 3200
+       },
+       {
+        "name": "1ffk5h4w_paul-binns.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1869
+       },
+       {
+        "name": "1ibebf3i_james-harrison-5th-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 3589
+       },
+       {
+        "name": "1sklztrg_emily-lockhart-general-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 3196
+       },
+       {
+        "name": "1u2awttt_condie-full-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 3828
+       },
+       {
+        "name": "201908_Ammon-Crossette.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 764
+       },
+       {
+        "name": "201908_Cody-Black.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2375
+       },
+       {
+        "name": "201908_Henry-Rudolph-Kneitz-III.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1708
+       },
+       {
+        "name": "201908_Jason-Oviatt.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1048
+       },
+       {
+        "name": "201908_Johnny-Revill.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1788
+       },
+       {
+        "name": "\u2026 124 more files",
+        "type": "more",
+        "role": "other",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 7743
+     },
+     {
+      "name": "backfill_text.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 3721
+     },
+     {
+      "name": "build_finance.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 2055
+     },
+     {
+      "name": "build_index.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 9231
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 12287
+     },
+     {
+      "name": "contributions.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. Itemized contributions as filed. Empty means NOT TRANSCRIBED \u2014 never 'no donors'.",
+      "bytes": 86259,
+      "rows": 422
+     },
+     {
+      "name": "cycle_totals.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. The only sanctioned per-candidate totals, built to avoid the overlap problem above.",
+      "bytes": 3172,
+      "rows": 54
+     },
+     {
+      "name": "donor_aliases.csv",
+      "type": "file",
+      "role": "override",
+      "note": "Donor name normalization \u2014 the same contributor written five ways, reconciled without touching the filed spelling.",
+      "bytes": 540,
+      "rows": 3
+     },
+     {
+      "name": "expenditures.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. Itemized expenditures as filed.",
+      "bytes": 61273,
+      "rows": 300
+     },
+     {
+      "name": "filing_totals.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "The totals each filing states on its own cover. Never sum these \u2014 filings overlap.",
+      "bytes": 35388,
+      "rows": 134
+     },
+     {
+      "name": "finance_overrides.csv",
+      "type": "file",
+      "role": "override",
+      "note": "CORRECTION FILE. Verified campaign-finance corrections.",
+      "bytes": 65,
+      "rows": 0
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 45534,
+      "rows": 134
+     },
+     {
+      "name": "text_extraction.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "",
+      "bytes": 14459,
+      "rows": 134
+     },
+     {
+      "name": "\u2026 1 more files",
+      "type": "more",
+      "role": "other",
+      "note": ""
+     }
+    ]
+   },
+   {
+    "name": "election_results",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Municipal races filtered out of the county canvass: winners, margins, turnout.",
+    "files": 27,
+    "bytes": 25581797,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 22,
+      "bytes": 25406578,
+      "children": [
+       {
+        "name": "ev_2023_general_ballot-items.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 167564
+       },
+       {
+        "name": "ev_2023_general_council_1stchoice_detail.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 120449
+       },
+       {
+        "name": "ev_2025_general_ballot-items.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 112139
+       },
+       {
+        "name": "ev_2025_general_council_detail.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 104426
+       },
+       {
+        "name": "ev_2025_general_mayor_detail.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 59720
+       },
+       {
+        "name": "ev_2025_primary_ballot-items.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 93846
+       },
+       {
+        "name": "ev_2025_primary_council_detail.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 237864
+       },
+       {
+        "name": "ev_2025_primary_mayor_detail.json",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 104037
+       },
+       {
+        "name": "rcvis_2021_council_seat1_condie.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 134073
+       },
+       {
+        "name": "rcvis_2021_council_seat2_hancock.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 117939
+       },
+       {
+        "name": "\u2026 12 more files",
+        "type": "more",
+        "role": "other",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 15030
+     },
+     {
+      "name": "clean_elections.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 17463
+     },
+     {
+      "name": "lehi_races.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. The audited race table \u2014 authoritative winners and margins.",
+      "bytes": 1513,
+      "rows": 9
+     },
+     {
+      "name": "lehi_results_by_candidate.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "Per-candidate tallies as the county canvass reported them.",
+      "bytes": 5786,
+      "rows": 58
+     },
+     {
+      "name": "lehi_results_by_precinct.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "Precinct-level tallies from the canvass.",
+      "bytes": 135427,
+      "rows": 1688
+     }
+    ]
+   },
+   {
+    "name": "geo",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Address-to-district lookup: precinct geometry plus the precinct\u2192district crosswalk, versioned across redistrictings.",
+    "files": 4,
+    "bytes": 494282,
+    "children": [
+     {
+      "name": "address_to_district.py",
+      "type": "file",
+      "role": "code",
+      "note": "The lookup tool: an address in, a council district out.",
+      "bytes": 7108
+     },
+     {
+      "name": "city_boundary.geojson",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 66597
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 5982
+     },
+     {
+      "name": "precincts.geojson",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 414595
+     }
+    ]
+   },
+   {
+    "name": "housing_plans",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Moderate-income housing plans and the general plan \u2014 the city's own stated growth policy.",
+    "files": 19,
+    "bytes": 44056448,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 10,
+      "bytes": 43610613,
+      "children": [
+       {
+        "name": "23reports.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 4270320
+       },
+       {
+        "name": "24reports.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 3728029
+       },
+       {
+        "name": "25reports.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 12464582
+       },
+       {
+        "name": "_fetch_log.jsonl",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 4097
+       },
+       {
+        "name": "general-plan-final-document-2022.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 16332342
+       },
+       {
+        "name": "general_plan.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 647894
+       },
+       {
+        "name": "lehi-general-plan-max-density-map-1pdf.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 952199
+       },
+       {
+        "name": "moderate-income-housing-element.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 277368
+       },
+       {
+        "name": "ordinance-adopting-the-moderate-income-housing-element-of-the-general-plan-052824.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 154446
+       },
+       {
+        "name": "sb34.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 4779336
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 6,
+      "bytes": 432601,
+      "children": [
+       {
+        "name": "general-plan-final-document-2022.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 277631
+       },
+       {
+        "name": "general_plan-landusemap.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 8466
+       },
+       {
+        "name": "lehi-2023-mih-annual-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 18914
+       },
+       {
+        "name": "lehi-2024-mih-annual-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 70499
+       },
+       {
+        "name": "lehi-2025-mih-annual-report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 21101
+       },
+       {
+        "name": "moderate-income-housing-element.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 35990
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 4347
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 4969
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 3918,
+      "rows": 9
+     }
+    ]
+   },
+   {
+    "name": "meeting_minutes",
+    "type": "dir",
+    "role": "canonical",
+    "note": "The council's own record \u2014 minutes as markdown, plus the roll-call votes extracted from them.",
+    "files": 359,
+    "bytes": 6601154,
+    "children": [
+     {
+      "name": "minutes",
+      "type": "dir",
+      "role": "canonical",
+      "note": "The canonical minutes, as markdown, filed by year.",
+      "files": 175,
+      "bytes": 2867740,
+      "children": [
+       {
+        "name": "2020",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 25,
+        "bytes": 565720,
+        "children": [
+         {
+          "name": "2020-01-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 29541,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-01-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 24101,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 21508,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11070,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 119072,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 71322,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12682,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-04",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14097,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12615,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20748,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 15 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2021",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 26,
+        "bytes": 407900,
+        "children": [
+         {
+          "name": "2021-01-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 28643,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-01-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 16154,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-01",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12360,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12724,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 22735,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9797,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18487,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 25048,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7277,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4156,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2022",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 31,
+        "bytes": 414071,
+        "children": [
+         {
+          "name": "2022-01-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2918,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 17436,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 15647,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-31",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7468,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18593,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 17718,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-28",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7322,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 44791,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13943,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14395,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 19 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2023",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 30,
+        "bytes": 435310,
+        "children": [
+         {
+          "name": "2023-01-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 21822,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11511,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7501,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14651,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10490,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13431,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 27847,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 24489,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-05-01",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3693,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-05-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 21948,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 33,
+        "bytes": 433385,
+        "children": [
+         {
+          "name": "2024-01-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 19213,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-01-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14828,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 24133,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12166,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 27247,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 33654,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20612,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5209,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7446,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 25390,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 19 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2025",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 27,
+        "bytes": 556291,
+        "children": [
+         {
+          "name": "2025-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13726,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18427,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 19928,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12303,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11627,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9961,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-17",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 30786,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 30209,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 17791,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 29890,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 15 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2026",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 3,
+        "bytes": 55063,
+        "children": [
+         {
+          "name": "2026-01-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5852,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20813,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 28398,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 0,
+      "bytes": 0,
+      "children": []
+     },
+     {
+      "name": "votes",
+      "type": "dir",
+      "role": "canonical",
+      "note": "Per-meeting extracted vote files that roll up into all_votes.csv.",
+      "files": 176,
+      "bytes": 953083,
+      "children": [
+       {
+        "name": "2020",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 25,
+        "bytes": 162194,
+        "children": [
+         {
+          "name": "2020-01-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9908,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-01-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11035,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6175,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3166,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 15501,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10019,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5694,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-04",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6089,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9513,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 15 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2021",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 26,
+        "bytes": 120070,
+        "children": [
+         {
+          "name": "2021-01-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12322,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-01-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6223,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-01",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 236,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6666,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9107,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4533,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11084,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10045,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3464,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 876,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 16 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2022",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 31,
+        "bytes": 153684,
+        "children": [
+         {
+          "name": "2022-01-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5178,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-31",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11708,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-28",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 1966,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9490,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7657,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 19 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2023",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 30,
+        "bytes": 165619,
+        "children": [
+         {
+          "name": "2023-01-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12654,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4464,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 944,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9370,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5561,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18602,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4809,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-05-01",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 936,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-05-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6346,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 33,
+        "bytes": 142696,
+        "children": [
+         {
+          "name": "2024-01-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6947,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-01-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4008,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10005,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 234,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13601,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 9515,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9799,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 744,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 1698,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 11994,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2025",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 27,
+        "bytes": 149203,
+        "children": [
+         {
+          "name": "2025-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 247,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-13",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9356,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6048,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 913,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3843,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 938,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-17",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12161,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 2,
+          "bytes": 12770,
+          "children": [
+           {
+            "name": "\u2026 2 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8119,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 799,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 15 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2026",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 3,
+        "bytes": 10547,
+        "children": [
+         {
+          "name": "2026-01-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 742,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-12",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2638,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-26",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7167,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "_validation_report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "DERIVED. Output of the validator's last run.",
+        "bytes": 49070
+       }
+      ]
+     },
+     {
+      "name": "all_votes.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. One row per member per motion \u2014 the vote spine everything else is built on.",
+      "bytes": 2441602,
+      "rows": 6147
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 7844
+     },
+     {
+      "name": "extract_votes.py",
+      "type": "file",
+      "role": "code",
+      "note": "The deterministic extractor that turns minutes text into vote rows.",
+      "bytes": 33573
+     },
+     {
+      "name": "minutes_index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest: every minutes file, its meeting date, body, and source URL.",
+      "bytes": 44348,
+      "rows": 175
+     },
+     {
+      "name": "minutes_unrecovered.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "HONEST GAP. Meetings that demonstrably happened but whose minutes could not be recovered from any channel. The gap is recorded as data.",
+      "bytes": 1998,
+      "rows": 5
+     },
+     {
+      "name": "motions_std.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. The normalization layer: each city's own motion labels mapped to a shared vocabulary, stored ALONGSIDE the verbatim originals rather than replacing them.",
+      "bytes": 242257,
+      "rows": 1253
+     },
+     {
+      "name": "roster.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. Who appears in the vote record, regenerated from the votes themselves.",
+      "bytes": 495,
+      "rows": 11
+     },
+     {
+      "name": "validate_votes.py",
+      "type": "file",
+      "role": "code",
+      "note": "Checks the extracted votes against the minutes they came from.",
+      "bytes": 8214
+     }
+    ]
+   },
+   {
+    "name": "ordinances",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Adopted ordinances, linked to their enacting motion where that link is unambiguous.",
+    "files": 8,
+    "bytes": 351638,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 3,
+      "bytes": 165219,
+      "children": [
+       {
+        "name": "012826-ordinance-notice.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 60025
+       },
+       {
+        "name": "021026-ordinance-notice.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 104353
+       },
+       {
+        "name": "_fetch_log.jsonl",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 841
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 2,
+      "bytes": 3983,
+      "children": [
+       {
+        "name": "012826-ordinance-notice.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2727
+       },
+       {
+        "name": "021026-ordinance-notice.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1256
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 4031
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 7252
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 171153,
+      "rows": 313
+     }
+    ]
+   },
+   {
+    "name": "packets",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Agenda packets and staff reports \u2014 the analysis councils actually read before voting.",
+    "files": 1233,
+    "bytes": 350921370,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 673,
+      "bytes": 341225739,
+      "children": [
+       {
+        "name": "2024-01-04",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 4,
+        "bytes": 80358,
+        "children": [
+         {
+          "name": "2349945_BY-LAWS2023.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 24045
+         },
+         {
+          "name": "2350057_plngmtgs2024.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 5231
+         },
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 1422
+         },
+         {
+          "name": "agenda_clip601.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 49660
+         }
+        ]
+       },
+       {
+        "name": "2024-01-09",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 2,
+        "bytes": 206597,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 476
+         },
+         {
+          "name": "agenda_clip603.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 206121
+         }
+        ]
+       },
+       {
+        "name": "2024-01-11",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 11,
+        "bytes": 9717499,
+        "children": [
+         {
+          "name": "2368612_JMR_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 229608
+         },
+         {
+          "name": "2368620_Newbold_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 471261
+         },
+         {
+          "name": "2368621_Newbold_2.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 3006021
+         },
+         {
+          "name": "2368624_Clark_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 249989
+         },
+         {
+          "name": "2368626_Clark_2.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 3575199
+         },
+         {
+          "name": "2368628_Dev_Code_Off_Street_Parking.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 289016
+         },
+         {
+          "name": "2368631_Dev_Code_35.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 455367
+         },
+         {
+          "name": "2368644_Dev_Code_20___39.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 451283
+         },
+         {
+          "name": "2368725_Dev_Code_subdivisions.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 929776
+         },
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 4773
+         },
+         {
+          "name": "\u2026 1 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024-01-23",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 2,
+        "bytes": 202927,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 476
+         },
+         {
+          "name": "agenda_clip605.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 202451
+         }
+        ]
+       },
+       {
+        "name": "2024-01-25",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 6,
+        "bytes": 961709,
+        "children": [
+         {
+          "name": "2396055_pz12.14.2023.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 75481
+         },
+         {
+          "name": "2396064_BY-LAWS2024_Draft.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 44717
+         },
+         {
+          "name": "2396974_Willow_Park_Church_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 477045
+         },
+         {
+          "name": "2396979_Willow_Park_Church_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 309468
+         },
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 2451
+         },
+         {
+          "name": "agenda_clip608.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 52547
+         }
+        ]
+       },
+       {
+        "name": "2024-02-01",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 2,
+        "bytes": 48528,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 476
+         },
+         {
+          "name": "agenda_clip609.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 48052
+         }
+        ]
+       },
+       {
+        "name": "2024-02-08",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 6,
+        "bytes": 3672121,
+        "children": [
+         {
+          "name": "2419820_Sylvester_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 633531
+         },
+         {
+          "name": "2419827_Skyridge_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 360229
+         },
+         {
+          "name": "2419828_Dev_Code.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 417254
+         },
+         {
+          "name": "2420764_Sylvester_2.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 2207933
+         },
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 2358
+         },
+         {
+          "name": "agenda_clip610.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 50816
+         }
+        ]
+       },
+       {
+        "name": "2024-02-13",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 2,
+        "bytes": 210806,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 476
+         },
+         {
+          "name": "agenda_clip611.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 210330
+         }
+        ]
+       },
+       {
+        "name": "2024-02-22",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 24,
+        "bytes": 28664999,
+        "children": [
+         {
+          "name": "2449128_pz.01.11.2024.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 56128
+         },
+         {
+          "name": "2449129_pz1.25.2024.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 48518
+         },
+         {
+          "name": "2449131_pz2.08.2024.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 51268
+         },
+         {
+          "name": "2449309_Whitmore_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 183773
+         },
+         {
+          "name": "2449310_JDX_III_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 486261
+         },
+         {
+          "name": "2449311_Gordon_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 315626
+         },
+         {
+          "name": "2449313_Cammans_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 215278
+         },
+         {
+          "name": "2449318_Homestead_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 202030
+         },
+         {
+          "name": "2449321_Pineda_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 247430
+         },
+         {
+          "name": "2449322_Hippocrates_ZC_1.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 437827
+         },
+         {
+          "name": "\u2026 14 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024-02-27",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 2,
+        "bytes": 200221,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 476
+         },
+         {
+          "name": "agenda_clip636.pdf",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 199745
+         }
+        ]
+       },
+       {
+        "name": "\u2026 99 more entries",
+        "type": "more",
+        "role": "other",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 554,
+      "bytes": 9460071,
+      "children": [
+       {
+        "name": "2349945_BY-LAWS2023.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 24069
+       },
+       {
+        "name": "2350057_plngmtgs2024.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2627
+       },
+       {
+        "name": "2368612_JMR_1.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 9642
+       },
+       {
+        "name": "2368620_Newbold_1.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 7667
+       },
+       {
+        "name": "2368621_Newbold_2.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 8334
+       },
+       {
+        "name": "2368624_Clark_1.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 11036
+       },
+       {
+        "name": "2368626_Clark_2.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 234191
+       },
+       {
+        "name": "2368628_Dev_Code_Off_Street_Parking.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 9955
+       },
+       {
+        "name": "2368631_Dev_Code_35.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 67000
+       },
+       {
+        "name": "2368644_Dev_Code_20___39.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 31634
+       },
+       {
+        "name": "\u2026 544 more files",
+        "type": "more",
+        "role": "other",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 6763
+     },
+     {
+      "name": "classify_attachments.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 9637
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 14015
+     },
+     {
+      "name": "dropped_oversize.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "HONEST GAP. Files skipped for size, with enough identifying detail to fetch them by hand.",
+      "bytes": 27788,
+      "rows": 163
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 177019,
+      "rows": 564
+     },
+     {
+      "name": "unrecovered.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "HONEST GAP. Documents known to exist but not retrievable.",
+      "bytes": 338,
+      "rows": 2
+     }
+    ]
+   },
+   {
+    "name": "planning_commission",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Same shape as meeting_minutes, for the appointed land-use body. Referrals link the two.",
+    "files": 333,
+    "bytes": 6950159,
+    "children": [
+     {
+      "name": "minutes",
+      "type": "dir",
+      "role": "canonical",
+      "note": "The canonical minutes, as markdown, filed by year.",
+      "files": 161,
+      "bytes": 2637959,
+      "children": [
+       {
+        "name": "2020",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 28,
+        "bytes": 336664,
+        "children": [
+         {
+          "name": "2020-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9130,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-01-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 16332,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 16648,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 25032,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20222,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-02",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2418,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14423,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 16418,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18427,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-04",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2520,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2021",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 24,
+        "bytes": 376871,
+        "children": [
+         {
+          "name": "2021-01-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 22653,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-01-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12162,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10209,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9436,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8335,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10887,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2787,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 22218,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 33938,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20093,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 14 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2022",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 28,
+        "bytes": 430795,
+        "children": [
+         {
+          "name": "2022-01-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4453,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18309,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 23576,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-31",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4067,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 22948,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 21395,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-28",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3432,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 28957,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12768,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 28071,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2023",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 26,
+        "bytes": 329404,
+        "children": [
+         {
+          "name": "2023-01-02",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3932,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 14093,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10319,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8449,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9750,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3397,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 15224,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12030,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 24129,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13543,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 16 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 23,
+        "bytes": 331614,
+        "children": [
+         {
+          "name": "2024-01-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12388,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-01-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8229,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9507,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 16713,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 26419,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 29129,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 19174,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12798,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2655,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12545,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 13 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2025",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 21,
+        "bytes": 602145,
+        "children": [
+         {
+          "name": "2024-12-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8201,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 20681,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 33080,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 29274,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 32149,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 30260,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 18733,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 42586,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 22031,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 67965,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 11 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2026",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 11,
+        "bytes": 230466,
+        "children": [
+         {
+          "name": "2026-01-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 45407,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12042,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-02-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 27257,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-02-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 19458,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 29225,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 28610,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8870,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-04-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 33490,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-05-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5756,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-05-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7264,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 1 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 1,
+      "bytes": 145347,
+      "children": [
+       {
+        "name": "2026-06-11_planning-commission-meeting.pdf",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 145347
+       }
+      ]
+     },
+     {
+      "name": "votes",
+      "type": "dir",
+      "role": "canonical",
+      "note": "Per-meeting extracted vote files that roll up into all_votes.csv.",
+      "files": 162,
+      "bytes": 951336,
+      "children": [
+       {
+        "name": "2020",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 28,
+        "bytes": 138676,
+        "children": [
+         {
+          "name": "2020-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5636,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-01-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4507,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2128,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12208,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6005,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-02",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 417,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3665,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-03-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3531,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-04-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9587,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2020-05-04",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 473,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2021",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 24,
+        "bytes": 162133,
+        "children": [
+         {
+          "name": "2021-01-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13389,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-01-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6564,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3871,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-02-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3813,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4921,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6744,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-03-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 309,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-04-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5870,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7785,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2021-05-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7745,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 14 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2022",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 28,
+        "bytes": 159079,
+        "children": [
+         {
+          "name": "2022-01-03",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3126,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9960,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8059,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-01-31",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 459,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6415,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6934,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-02-28",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 419,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6942,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-03-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4478,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2022-04-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11061,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 18 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2023",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 26,
+        "bytes": 140662,
+        "children": [
+         {
+          "name": "2023-01-02",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 1056,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9034,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-01-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6734,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4365,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4668,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-02-27",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 309,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6932,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-03-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6805,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 11439,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2023-04-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4539,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 16 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2024",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 23,
+        "bytes": 120271,
+        "children": [
+         {
+          "name": "2024-01-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6023,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-01-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3465,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2769,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-02-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 10704,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 9190,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-03-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7159,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-08",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7464,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-22",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6745,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-04-29",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 400,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2024-05-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5355,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 13 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2025",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 21,
+        "bytes": 133954,
+        "children": [
+         {
+          "name": "2024-12-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 3864,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-06",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8185,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-01-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5468,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-02-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6089,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-10",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7664,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-03-24",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5502,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-07",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7000,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-04-21",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 12780,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6582,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2025-05-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5714,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 11 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "2026",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 11,
+        "bytes": 63761,
+        "children": [
+         {
+          "name": "2026-01-05",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 13664,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-01-19",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2616,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-02-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 8219,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-02-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 5506,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-09",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6184,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-23",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 6333,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-03-30",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 443,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-04-20",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 7701,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-05-11",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 4111,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "2026-05-25",
+          "type": "dir",
+          "role": "canonical",
+          "note": "",
+          "files": 1,
+          "bytes": 2787,
+          "children": [
+           {
+            "name": "\u2026 1 entries",
+            "type": "more",
+            "role": "other",
+            "note": ""
+           }
+          ]
+         },
+         {
+          "name": "\u2026 1 more entries",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "_validation_report.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "DERIVED. Output of the validator's last run.",
+        "bytes": 32800
+       }
+      ]
+     },
+     {
+      "name": "all_votes.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. One row per member per motion \u2014 the vote spine everything else is built on.",
+      "bytes": 2853148,
+      "rows": 6257
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 8893
+     },
+     {
+      "name": "extract_votes.py",
+      "type": "file",
+      "role": "code",
+      "note": "The deterministic extractor that turns minutes text into vote rows.",
+      "bytes": 33765
+     },
+     {
+      "name": "fetch_log.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "",
+      "bytes": 257,
+      "rows": 1
+     },
+     {
+      "name": "minutes_index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest: every minutes file, its meeting date, body, and source URL.",
+      "bytes": 44346,
+      "rows": 161
+     },
+     {
+      "name": "minutes_unrecovered.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "HONEST GAP. Meetings that demonstrably happened but whose minutes could not be recovered from any channel. The gap is recorded as data.",
+      "bytes": 843,
+      "rows": 3
+     },
+     {
+      "name": "motions_std.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. The normalization layer: each city's own motion labels mapped to a shared vocabulary, stored ALONGSIDE the verbatim originals rather than replacing them.",
+      "bytes": 263533,
+      "rows": 1097
+     },
+     {
+      "name": "roster.csv",
+      "type": "file",
+      "role": "derived",
+      "note": "DERIVED. Who appears in the vote record, regenerated from the votes themselves.",
+      "bytes": 803,
+      "rows": 19
+     },
+     {
+      "name": "validate_votes.py",
+      "type": "file",
+      "role": "code",
+      "note": "Checks the extracted votes against the minutes they came from.",
+      "bytes": 9929
+     }
+    ]
+   },
+   {
+    "name": "public_comments",
+    "type": "dir",
+    "role": "canonical",
+    "note": "What residents said on the record. An empty file here means the city publishes none \u2014 an honest zero, not a gap.",
+    "files": 11,
+    "bytes": 391360,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 4,
+      "bytes": 131521,
+      "children": [
+       {
+        "name": "2020-03-30_written_comments_appendix.txt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 81806
+       },
+       {
+        "name": "2020-04-13_written_comments_appendix.txt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 45404
+       },
+       {
+        "name": "2020-06-08_steve-moulton_online_comment.txt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 1799
+       },
+       {
+        "name": "2020-06-22_ray-worthen_ecomment.txt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 2512
+       }
+      ]
+     },
+     {
+      "name": "all_comments_clean.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. Public comments, email- and phone-redacted per PRIVACY.md.",
+      "bytes": 135763,
+      "rows": 1710
+     },
+     {
+      "name": "all_comments_dropped.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 4698,
+      "rows": 35
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 7295
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 3696
+     },
+     {
+      "name": "extract_comments.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 10534
+     },
+     {
+      "name": "extract_speaker_log.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 5565
+     },
+     {
+      "name": "minutes_speaker_log.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 92288,
+      "rows": 149
+     }
+    ]
+   },
+   {
+    "name": "roster",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Who held which seat when \u2014 half-open tenure intervals with per-row confidence, plus versioned district boundaries.",
+    "files": 6,
+    "bytes": 69556,
+    "children": [
+     {
+      "name": "AUDIT.md",
+      "type": "file",
+      "role": "doc",
+      "note": "",
+      "bytes": 14452
+     },
+     {
+      "name": "build_roster.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 25530
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 16070
+     },
+     {
+      "name": "council_terms.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "CANONICAL. Seat tenures as half-open intervals, with VACANT stretches recorded rather than smoothed over.",
+      "bytes": 10995,
+      "rows": 17
+     },
+     {
+      "name": "district_versions.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "Districts as they existed in each redistricting era.",
+      "bytes": 973,
+      "rows": 1
+     },
+     {
+      "name": "roster_overrides.csv",
+      "type": "file",
+      "role": "override",
+      "note": "CORRECTION FILE. Confirmed roster changes \u2014 appointments, resignations, redistrictings.",
+      "bytes": 1536,
+      "rows": 23
+     }
+    ]
+   },
+   {
+    "name": "weeks",
+    "type": "dir",
+    "role": "derived",
+    "note": "DERIVED. One bundle per week \u2014 a plain-language summary with that week's votes and comments beside it.",
+    "files": 307,
+    "bytes": 2691700,
+    "children": [
+     {
+      "name": "2020-01-14",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 29161,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 1065
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 28096,
+        "rows": 70
+       }
+      ]
+     },
+     {
+      "name": "2020-01-28",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 27110,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 615
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 26495,
+        "rows": 65
+       }
+      ]
+     },
+     {
+      "name": "2020-02-11",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 19019,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 1019
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 18000,
+        "rows": 40
+       }
+      ]
+     },
+     {
+      "name": "2020-02-25",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 6801,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 351
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 6450,
+        "rows": 20
+       }
+      ]
+     },
+     {
+      "name": "2020-03-31",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 3,
+      "bytes": 132399,
+      "children": [
+       {
+        "name": "comments.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 86297,
+        "rows": 1070
+       },
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 1908
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 44194,
+        "rows": 110
+       }
+      ]
+     },
+     {
+      "name": "2020-04-14",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 3,
+      "bytes": 75426,
+      "children": [
+       {
+        "name": "comments.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 45639,
+        "rows": 597
+       },
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 1121
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 28666,
+        "rows": 70
+       }
+      ]
+     },
+     {
+      "name": "2020-04-28",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 16226,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 351
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 15875,
+        "rows": 40
+       }
+      ]
+     },
+     {
+      "name": "2020-05-05",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 1,
+      "bytes": 296,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 296
+       }
+      ]
+     },
+     {
+      "name": "2020-05-12",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 16762,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 351
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 16411,
+        "rows": 45
+       }
+      ]
+     },
+     {
+      "name": "2020-05-26",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 26846,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 610
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 26236,
+        "rows": 70
+       }
+      ]
+     },
+     {
+      "name": "2020-06-09",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 3,
+      "bytes": 31065,
+      "children": [
+       {
+        "name": "comments.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2235,
+        "rows": 26
+       },
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 782
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 28048,
+        "rows": 80
+       }
+      ]
+     },
+     {
+      "name": "2020-06-23",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 3,
+      "bytes": 25056,
+      "children": [
+       {
+        "name": "comments.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2043,
+        "rows": 17
+       },
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 489
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 22524,
+        "rows": 60
+       }
+      ]
+     },
+     {
+      "name": "2020-07-07",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 1,
+      "bytes": 296,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 296
+       }
+      ]
+     },
+     {
+      "name": "2020-07-14",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 21315,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 353
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 20962,
+        "rows": 50
+       }
+      ]
+     },
+     {
+      "name": "2020-07-28",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 19368,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 818
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 18550,
+        "rows": 44
+       }
+      ]
+     },
+     {
+      "name": "2020-08-11",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 2,
+      "bytes": 15021,
+      "children": [
+       {
+        "name": "summary.md",
+        "type": "file",
+        "role": "derived",
+        "note": "The week in plain language, with that week's votes and comments linked beside it.",
+        "bytes": 351
+       },
+       {
+        "name": "votes.csv",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 14670,
+        "rows": 40
+       }
+      ]
+     },
+     {
+      "name": "\u2026 151 more entries",
+      "type": "more",
+      "role": "other",
+      "note": ""
+     }
+    ]
+   },
+   {
+    "name": "sources.csv",
+    "type": "file",
+    "role": "index",
+    "note": "Machine-readable source registry for the whole entity.",
+    "bytes": 542317,
+    "rows": 1402
+   },
+   {
+    "name": "pmn_backfill",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Documents recovered from the Utah Public Notice Website after the city's own portal lost or never posted them.",
+    "files": 69,
+    "bytes": 4382343,
+    "children": [
+     {
+      "name": "_crosscheck",
+      "type": "dir",
+      "role": "canonical",
+      "note": "",
+      "files": 6,
+      "bytes": 675077,
+      "children": [
+       {
+        "name": "cache",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 3,
+        "bytes": 664364,
+        "children": [
+         {
+          "name": "notices_2512.html",
+          "type": "file",
+          "role": "other",
+          "note": "",
+          "bytes": 443121
+         },
+         {
+          "name": "notices_2651.html",
+          "type": "file",
+          "role": "other",
+          "note": "",
+          "bytes": 212399
+         },
+         {
+          "name": "publicBodies_184.html",
+          "type": "file",
+          "role": "other",
+          "note": "",
+          "bytes": 8844
+         }
+        ]
+       },
+       {
+        "name": "history",
+        "type": "dir",
+        "role": "canonical",
+        "note": "",
+        "files": 3,
+        "bytes": 10713,
+        "children": [
+         {
+          "name": "2026-07-17_flags.csv",
+          "type": "file",
+          "role": "canonical",
+          "note": "",
+          "bytes": 5688,
+          "rows": 28
+         },
+         {
+          "name": "2026-07-18_flags.csv",
+          "type": "file",
+          "role": "canonical",
+          "note": "",
+          "bytes": 4934,
+          "rows": 24
+         },
+         {
+          "name": "2026-07-19_flags.csv",
+          "type": "file",
+          "role": "canonical",
+          "note": "",
+          "bytes": 91,
+          "rows": 0
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 42,
+      "bytes": 3330752,
+      "children": [
+       {
+        "name": "_bodyprobe",
+        "type": "dir",
+        "role": "raw",
+        "note": "",
+        "files": 13,
+        "bytes": 137284,
+        "children": [
+         {
+          "name": "_fetch_log.jsonl",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 4615
+         },
+         {
+          "name": "b2506.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 9078
+         },
+         {
+          "name": "b2507.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 11312
+         },
+         {
+          "name": "b2508.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 17248
+         },
+         {
+          "name": "b2509.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 9078
+         },
+         {
+          "name": "b2510.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 11335
+         },
+         {
+          "name": "b2511.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 12853
+         },
+         {
+          "name": "b2513.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 11561
+         },
+         {
+          "name": "b2514.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 9078
+         },
+         {
+          "name": "b2515.html",
+          "type": "file",
+          "role": "raw",
+          "note": "",
+          "bytes": 11588
+         },
+         {
+          "name": "\u2026 3 more files",
+          "type": "more",
+          "role": "other",
+          "note": ""
+         }
+        ]
+       },
+       {
+        "name": "_app.js",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 15940
+       },
+       {
+        "name": "_entities_muni.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 23847
+       },
+       {
+        "name": "_fetch_log.jsonl",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 10959
+       },
+       {
+        "name": "_home.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 11657
+       },
+       {
+        "name": "_lehi_bodies.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 8844
+       },
+       {
+        "name": "_notice_1082291.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 17846
+       },
+       {
+        "name": "_notices_2512_p0.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 21902
+       },
+       {
+        "name": "_notices_2512_p1.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 23910
+       },
+       {
+        "name": "_notices_2512_p120.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 326155
+       },
+       {
+        "name": "\u2026 20 more files",
+        "type": "more",
+        "role": "other",
+        "note": ""
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 8,
+      "bytes": 58691,
+      "children": [
+       {
+        "name": "council_2020-02-04_work-session.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 11008
+       },
+       {
+        "name": "council_2020-08-04_joint-work-session.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 1852
+       },
+       {
+        "name": "council_2021-07-13_regular-meeting.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 10312
+       },
+       {
+        "name": "pc_2025-03-06_meeting.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 9795
+       },
+       {
+        "name": "pc_2025-08-07_meeting.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 11328
+       },
+       {
+        "name": "pc_2025-09-04_work-session.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 7720
+       },
+       {
+        "name": "pc_2026-03-05_work-session.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 4572
+       },
+       {
+        "name": "pc_2026-05-07_work-session.txt",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 2104
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 2591
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 8281
+     },
+     {
+      "name": "council.json",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 181734
+     },
+     {
+      "name": "coverage.md",
+      "type": "file",
+      "role": "doc",
+      "note": "",
+      "bytes": 5759
+     },
+     {
+      "name": "crosscheck.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 2248
+     },
+     {
+      "name": "crosscheck_flags.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 91,
+      "rows": 0
+     },
+     {
+      "name": "crosscheck_report.md",
+      "type": "file",
+      "role": "doc",
+      "note": "",
+      "bytes": 472
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 2284,
+      "rows": 8
+     },
+     {
+      "name": "parse_notices.py",
+      "type": "file",
+      "role": "code",
+      "note": "",
+      "bytes": 1500
+     },
+     {
+      "name": "pc.json",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 92347
+     },
+     {
+      "name": "pmn_bodies.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 1250,
+      "rows": 12
+     },
+     {
+      "name": "pmn_exceptions.csv",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 3639,
+      "rows": 22
+     },
+     {
+      "name": "recoverable.json",
+      "type": "file",
+      "role": "canonical",
+      "note": "",
+      "bytes": 15627
+     }
+    ]
+   },
+   {
+    "name": "transcripts",
+    "type": "dir",
+    "role": "canonical",
+    "note": "Meeting-video transcripts where the city publishes them.",
+    "files": 10,
+    "bytes": 3056093,
+    "children": [
+     {
+      "name": "raw",
+      "type": "dir",
+      "role": "raw",
+      "note": "Original source PDFs. Kept locally, never committed \u2014 re-fetchable from the source_url in the index.",
+      "files": 4,
+      "bytes": 2752203,
+      "children": [
+       {
+        "name": "2026-05-26.en-orig.vtt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 2392118
+       },
+       {
+        "name": "2026-05-28.en-orig.vtt",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 307093
+       },
+       {
+        "name": "_fetch_log.jsonl",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 2009
+       },
+       {
+        "name": "openutah_meeting_page_sample_2025-05-13_council.html",
+        "type": "file",
+        "role": "raw",
+        "note": "",
+        "bytes": 50983
+       }
+      ]
+     },
+     {
+      "name": "text",
+      "type": "dir",
+      "role": "derived",
+      "note": "Extracted plain text from the raw originals \u2014 what the search layer actually indexes.",
+      "files": 2,
+      "bytes": 280061,
+      "children": [
+       {
+        "name": "2026-05-26.md",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 248217
+       },
+       {
+        "name": "2026-05-28.md",
+        "type": "file",
+        "role": "derived",
+        "note": "",
+        "bytes": 31844
+       }
+      ]
+     },
+     {
+      "name": "AVAILABILITY.md",
+      "type": "file",
+      "role": "doc",
+      "note": "What the source publishes versus what it withholds \u2014 the ceiling on this dataset.",
+      "bytes": 7073
+     },
+     {
+      "name": "CLAUDE.md",
+      "type": "file",
+      "role": "doc",
+      "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+      "bytes": 3885
+     },
+     {
+      "name": "index.csv",
+      "type": "file",
+      "role": "index",
+      "note": "The provenance manifest for this dataset: every file, its date, and where it came from.",
+      "bytes": 4375,
+      "rows": 12
+     },
+     {
+      "name": "unrecovered.csv",
+      "type": "file",
+      "role": "gap",
+      "note": "HONEST GAP. Documents known to exist but not retrievable.",
+      "bytes": 8496,
+      "rows": 10
+     }
+    ]
+   },
+   {
+    "name": "build_weeks.py",
+    "type": "file",
+    "role": "code",
+    "note": "Rebuilds the weekly bundles.",
+    "bytes": 430
+   },
+   {
+    "name": "CLAUDE.md",
+    "type": "file",
+    "role": "doc",
+    "note": "The authoritative read-me for this layer \u2014 what it contains, how it was built, and what it cannot answer.",
+    "bytes": 16445
+   },
+   {
+    "name": "EXPAND_SOURCES_REPORT.md",
+    "type": "file",
+    "role": "doc",
+    "note": "",
+    "bytes": 13155
+   },
+   {
+    "name": "fetch_new.py",
+    "type": "file",
+    "role": "code",
+    "note": "Probes the city's portal for documents published since the last run.",
+    "bytes": 8454
+   },
+   {
+    "name": "README.md",
+    "type": "file",
+    "role": "doc",
+    "note": "",
+    "bytes": 16644
+   },
+   {
+    "name": "recon.md",
+    "type": "file",
+    "role": "doc",
+    "note": "Reconciliation record \u2014 doubly-stored facts checked against each other.",
+    "bytes": 13833
+   },
+   {
+    "name": "refresh_probe.json",
+    "type": "file",
+    "role": "canonical",
+    "note": "",
+    "bytes": 1093
+   },
+   {
+    "name": "SOURCES.md",
+    "type": "file",
+    "role": "doc",
+    "note": "Where every file came from, in prose.",
+    "bytes": 6247
+   },
+   {
+    "name": "VERIFICATION.md",
+    "type": "file",
+    "role": "doc",
+    "note": "The checks run against this entity and their results.",
+    "bytes": 15701
+   }
+  ]
+ },
+ "role_blurbs": {
+  "canonical": "Canonical \u2014 the primary record. City-faithful values here are never overwritten.",
+  "derived": "Derived \u2014 regenerated from the canonical layer by a script. Never hand-edited.",
+  "override": "Correction file \u2014 documented fixes applied at build time, leaving source values intact.",
+  "gap": "Gap record \u2014 something known to be missing, recorded as data rather than silently absent.",
+  "index": "Provenance manifest \u2014 what each file is and where it came from.",
+  "code": "Pipeline code \u2014 the script that produces or checks this layer.",
+  "doc": "Documentation \u2014 what this layer contains and what it cannot answer.",
+  "raw": "Raw original \u2014 kept locally, not committed, re-fetchable from its source URL.",
+  "other": ""
+ }
+}

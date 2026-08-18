@@ -47,6 +47,85 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Faint handwritten 2022 single-total sheet on the Clerk's letterhead version. The candidate-name line is a signature-style scrawl (index name Coleen Reardon used). Contributions written '300' with no cents; the Last Report cells hold a dash (recorded blank). Cents on 140.40 / 159.60 written as superscripts."
+ "itemized_transcribed": true,
+ "notes": "Faint handwritten 2022 single-total sheet on the Clerk's letterhead version. The candidate-name line is a signature-style scrawl (index name Coleen Reardon used). Contributions written '300' with no cents; the Last Report cells hold a dash (recorded blank). Cents on 140.40 / 159.60 written as superscripts.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-22",
+   "donor_raw": "Coleen Reardon",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;name=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,31.81,84.00,4.51@p2",
+   "geometry_fit": "measured",
+   "note": "candidate self-contribution; handwritten date read as 2/22/22 at 1400dpi + grayscale re-render, month digit is the writer's loop-form 2 (doubtful vs 3 - date confidence low); amount written '300'",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-21",
+   "vendor_raw": "PC Printing",
+   "purpose": "Flyers",
+   "amount": "140.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;name=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,35.09,84.00,3.07@p3",
+   "geometry_fit": "measured",
+   "note": "amount handwritten as '140' with superscript '40'; gated by the cover's 140.40",
+   "page": 3,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3,
+   4
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "300",
+    "itemized": "300.00",
+    "result": "exact",
+    "detail": "exact - 1 row (the candidate's own $300) equals the cover's stated contribution total 300 (Current and Cumulative both 300); the schedule page prints no total of its own. Specimen row $435.00 excluded."
+   },
+   "expenditures": {
+    "stated": "140.40",
+    "itemized": "140.40",
+    "result": "exact",
+    "detail": "exact - 1 row (PC Printing, flyers) equals the cover's stated expenditure total 140.40 (Current and Cumulative both 140.40); the schedule page prints no total of its own. Specimen row $512.00 excluded. The handwritten amount is '140' with a superscript '40' cents - the cover figure gates it."
+   }
+  },
+  "page_gates": "p2 'Campaign Financial Report 2022 / ITEMIZED CONTRIBUTION REPORT' prints NO section total of its own; the gate is the cover's contribution figure 300 (Current=Cumulative=300), which the single real handwritten row reproduces exactly. p3 'ITEMIZED EXPENSE REPORT' likewise prints no section total; the gate is the cover's expenditure figure 140.40, which the single real row reproduces exactly (the handwritten amount is written as 140 with a superscript 40 - arithmetic closure on the cover figure settles it). Both pages still carry the blank form's PRINTED SPECIMEN row, grey-shaded on this copy ('Jon & Jane Doe' / PO Box 128 Coalville UT / 84017 / $435.00 dated 04/15/20 on p2; 'Name of Business' / 'Campaign signs & flyers' / $512.00 dated 04/15/20 on p3) - dropped, and each cover figure closing ONLY without them is the proof (with them the sides would be 735.00 and 652.40). p4 is a BLANK scan page (no printed content, bands=0) - carries nothing.",
+  "escalations": 4,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Typed 2022 single_total sheet filled in BY HAND, 4 pages, no usable embedded OCR (draft.py returned no text lines for any page). This filing is NOT county-redacted: the donor's mailing address block is fully legible (contrast the other 2022 filings in this chunk), so donor_city/donor_state are read from the page and are Park City, UT - the street line is discarded at read time per the privacy gate and is nowhere in this record. The whole filing is one self-contribution and one printing expense; Reardon ran only this Primary report (the county listing prints 'n/a n/a' against her Pre-/Post-Election cells - a listing fact about what she filed, not a property of this document). DATES ARE A LOOPED HAND and were escalated to 600-1400 dpi cell crops plus a grayscale re-render: the expense date resolves cleanly to 3/21/22 (a two-bump '3', distinct from this writer's loop-form '2'), the contribution date resolves to 2/22/22 (loop-form month digit matching the '22' year loops). The contribution month digit is the one genuinely doubtful glyph in the filing - cell_confidence date=low and the row note says so; no arithmetic depends on it. Geometry spot-verified end to end: p2 band 2 resolves to pct:8.00,31.81,84.00,4.51@p2 and the crop reproduces 'Coleen Reardon ... 300'; p3 band 2 crop reproduces 'PC Printing / Flyers / 140 40'."
+ }
 }

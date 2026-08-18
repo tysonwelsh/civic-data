@@ -1,0 +1,230 @@
+{
+ "sha256": "d3777b3f35b6cefeb50fb6275dee08a6791b77e78da66e432b11e4997fe300a1",
+ "source_pdf": "raw/juab_2014_Mona/Robertwilliams_Mona_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Mona/Robertwilliams_Mona_Juab.pdf",
+   "candidate": "Robert McKell Williams",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "OCT 1",
+   "donor": "DON FRANCOM",
+   "address": "P.O. BOX 328 LEVAN 84639",
+   "amount": "50.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.72,79.50,2.09@p2",
+   "in_kind": false
+  },
+  {
+   "date": "OCT 20",
+   "donor": "GORDON YOUNG",
+   "address": "445 E 550 N MONA 84645",
+   "amount": "100.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.81,79.50,2.09@p2",
+   "in_kind": false
+  },
+  {
+   "date": "OCT 20",
+   "donor": "JAN CORBIN",
+   "address": "SP FORK",
+   "amount": "",
+   "in_kind": true,
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "IN-KIND: the Amount cell reads 'SIGNS', no dollar figure. The address cell holds a phone number plus the town; only the town is carried (PRIVACY.md).",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:11.50,18.90,79.50,2.09@p2"
+  },
+  {
+   "date": "OCT 20",
+   "donor": "JIM MCKAIN",
+   "address": "NEPHI",
+   "amount": "",
+   "in_kind": true,
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "IN-KIND: Amount cell reads 'SIGNS'. Address cell holds a phone number plus the town; only the town is carried.",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:11.50,20.99,79.50,2.09@p2"
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "7/20",
+   "payee": "NEBO MARKET",
+   "purpose": "PARADE TAFFY",
+   "amount": "50.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.72,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "8/20",
+   "payee": "MACEY'S",
+   "purpose": "PARADE TAFFY",
+   "amount": "60.00",
+   "confidence": "medium",
+   "needs_review": 1,
+   "note": "purpose written as a ditto mark for the line above; date has no year",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.81,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "",
+   "payee": "FILING FEE",
+   "purpose": "JUAB COUNTY",
+   "amount": "",
+   "confidence": "medium",
+   "needs_review": 1,
+   "note": "the filer SWAPPED the payee and purpose columns on this line, and left the Amount cell without a legible figure. Including any amount here breaks the page's own closure, which is exact without it.",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:11.50,18.90,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "9/20",
+   "payee": "SIGNZ",
+   "purpose": "CARDS/SIGNS",
+   "amount": "581.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:11.50,20.99,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/20",
+   "payee": "SIGNZ",
+   "purpose": "CARDS",
+   "amount": "85.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:11.50,23.09,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/1",
+   "payee": "TIME NEWS",
+   "purpose": "ADVERTISING",
+   "amount": "146.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:11.50,25.18,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/10",
+   "payee": "TIME NEWS",
+   "purpose": "ADVERTISING",
+   "amount": "62.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date has no year",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:11.50,27.27,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/7",
+   "payee": "RESTORE",
+   "purpose": "PAINT",
+   "amount": "1.00",
+   "confidence": "medium",
+   "needs_review": 1,
+   "note": "settled by the page's own printed column total; date has no year",
+   "line_no": 8,
+   "printed_row": 8,
+   "geometry": "pct:11.50,29.36,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "10/7 10/14",
+   "payee": "STRINGHAM HARDWARE",
+   "purpose": "MISC-PAINT/BRUSHES",
+   "amount": "25.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "TWO dates in one cell, verbatim; no year",
+   "line_no": 9,
+   "printed_row": 9,
+   "geometry": "pct:11.50,31.45,79.50,2.09@p3",
+   "in_kind": false
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "$150.00 + SIGNS",
+     "itemized": "150.00",
+     "basis": "the filer wrote PROSE on line 1 rather than a numeral. The itemized layer EXPLAINS it exactly: two cash gifts of $50 + $100 = $150.00, plus two in-kind SIGNS contributions with no dollar figure."
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "$1010.00 + SIGNS",
+     "itemized": "1010.00",
+     "basis": "the eight legible Form B amounts sum to 1010.00, which is BOTH the filer's own hand-written column total at the foot of the schedule AND the numeral inside his prose line-3 entry"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2014_Mona/Robertwilliams_Mona_Juab.pdf|p2": 14.718,
+    "raw/juab_2014_Mona/Robertwilliams_Mona_Juab.pdf|p3": 14.718
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "This filing's prose totals were the module's standing 'filer error retained verbatim' example; the itemized layer now accounts for both of them to the cent. Page-subtotal gate available and used (the filer wrote a column total)."
+  }
+ }
+}

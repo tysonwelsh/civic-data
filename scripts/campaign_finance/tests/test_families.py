@@ -220,6 +220,47 @@ class TestWeberPolimorphic(unittest.TestCase):
         r = self._run("weber_new_polimorphic.txt", "Gary C New")
         self.assertEqual((r["is_incremental"], r["dedup_mode"]), ("True", "incremental"))
 
+    # --- the SINGLE-ENTRY fallback (2026-08-14, Tranche 3 Phase B) -----------------------
+    # Polimorphic omits the `Itemized … Report (#n)` block header when a side has exactly one
+    # entry, and the family used to return nothing for such a side (weber CLAUDE.md's
+    # documented "FAMILY LIMITATION", the Allred 1,147.66 case). It is now parsed.
+    def test_allred_single_entry_no_block_header(self):
+        r = self._run("weber_allred_polimorphic_single.txt", "Chris Allred")
+        self.assertAlmostEqual(r["stated_contrib"], 1147.66, 2)
+        self.assertAlmostEqual(r["stated_expend"], 1147.66, 2)
+        # ONE entry per side, each reconciling EXACTLY to the "on This Report" anchor
+        self.assertEqual((len(r["contrib_rows"]), csum(r, "contrib_rows")), (1, 1147.66))
+        self.assertEqual((len(r["expend_rows"]), csum(r, "expend_rows")), (1, 1147.66))
+        c, e = r["contrib_rows"][0], r["expend_rows"][0]
+        self.assertEqual((c.donor_raw, c.donor_city, c.date), ("Chris Allred", "Ogden",
+                                                               "2026-01-02"))
+        self.assertEqual((e.vendor_raw, e.purpose), ("Weber County Elections",
+                                                     "Candidate filing fee"))
+        self.assertRegex(c.geometry, r"^p\d+:l\d+:c\d+-\d+$")
+        self.assertRegex(e.geometry, r"^p\d+:l\d+:c\d+-\d+$")
+        self.assertIn("single-entry fallback", r["notes"])
+
+    def test_arbon_answered_no_emits_nothing(self):
+        """NEGATIVE CONTROL. Ryan Arbon 2026 answers **No** to both disclosure questions yet
+        states 879.97 on both sides — an internal inconsistency in the source. The fallback
+        must find no `Amount` line and emit NOTHING; a stated total is never turned into a
+        fabricated row."""
+        r = self._run("weber_arbon_polimorphic_noneyes.txt", "Ryan Arbon")
+        self.assertAlmostEqual(r["stated_contrib"], 879.97, 2)
+        self.assertAlmostEqual(r["stated_expend"], 879.97, 2)
+        self.assertEqual((len(r["contrib_rows"]), len(r["expend_rows"])), (0, 0))
+
+    def test_fallback_does_not_disturb_multi_entry_filings(self):
+        """The fallback fires only when the header pass found nothing, so the three filings
+        that DO carry block headers must be byte-for-byte what they always were."""
+        for fixture, who, nc, ne in (("weber_new_polimorphic.txt", "Gary C New", 3, 3),
+                                     ("weber_beesley_polimorphic.txt", "Jon D Beesley", 7, 2),
+                                     ("weber_tait_polimorphic.txt", "Michelle Tait", 6, 6)):
+            r = self._run(fixture, who)
+            self.assertEqual((len(r["contrib_rows"]), len(r["expend_rows"])), (nc, ne),
+                             fixture)
+            self.assertNotIn("single-entry fallback", r["notes"], fixture)
+
 
 class TestCacheCfd(unittest.TestCase):
     FAM = registry.get("cache_cfd")
@@ -290,6 +331,61 @@ class TestWasatchTableAB(unittest.TestCase):
     def test_declares_period_regime_per_filing(self):
         r = self.FAM.parse(fx("wasatch_forsyth_202606.txt"), meta(candidate="Lauren Forsyth"))
         self.assertEqual((r["is_incremental"], r["dedup_mode"]), ("True", "incremental"))
+
+    # ---- Phase B date-grammar extension (the `wasatch-field-shift` calibration specimen).
+    # Each of these three filings had BOTH sides withheld in Phase A because its date token
+    # landed in the NAME column while the amounts still summed exactly to the printed total.
+    # The assertions are written the way the specimen states its answer: the date must be the
+    # DATE, the name must be the NAME, and the sum must still close.
+
+    def test_spaced_month_name_dates_do_not_shift_the_name_column(self):
+        """Woodard 2026-03 writes `17 Jan 2026` / `5 Jan 2026` / `26 Feb 2026`."""
+        r = self.FAM.parse(fx("wasatch_woodard_202603_datefmt.txt"),
+                           meta(candidate="Jon Woodard", election_year="2026"))
+        self.assertEqual((len(r["contrib_rows"]), csum(r, "contrib_rows")), (5, 1779.60))
+        self.assertEqual((len(r["expend_rows"]), csum(r, "expend_rows")), (5, 1768.42))
+        self.assertEqual({x.donor_raw for x in r["contrib_rows"]}, {"Jon Woodard"})
+        self.assertEqual([x.date for x in r["contrib_rows"]][:2], ["2026-01-17", "2026-01-05"])
+        self.assertEqual(r["expend_rows"][0].vendor_raw, "Wasatch County")
+
+    def test_dotted_dates_do_not_shift_the_name_column(self):
+        """Kellogg 2026-03 writes `1.2.26`, `2.14.26` and — via the text layer — `11 .7.25`."""
+        r = self.FAM.parse(fx("wasatch_kellogg_202603_dotdate.txt"),
+                           meta(candidate="Michelle Kellogg", election_year="2026"))
+        self.assertEqual((len(r["contrib_rows"]), csum(r, "contrib_rows")), (1, 3576.08))
+        self.assertEqual((len(r["expend_rows"]), csum(r, "expend_rows")), (7, 3576.08))
+        self.assertTrue(r["contrib_rows"][0].donor_raw.startswith("Self-Funded"))
+        self.assertEqual(r["contrib_rows"][0].date, "2026-01-02")
+        self.assertEqual(r["expend_rows"][0].date, "2025-11-07")      # the `11 .7.25` cell
+        self.assertEqual(r["expend_rows"][0].vendor_raw, "Wix.com")
+
+    def test_separatorless_dates_do_not_shift_the_name_column(self):
+        """Vance 2026-06 writes `5May26` / `15Apr26` / `13May26` — no separators at all."""
+        r = self.FAM.parse(fx("wasatch_vance_202606_compactdate.txt"),
+                           meta(candidate="William B. Vance", election_year="2026"))
+        self.assertEqual((len(r["contrib_rows"]), csum(r, "contrib_rows")), (1, 1200.00))
+        self.assertEqual((len(r["expend_rows"]), csum(r, "expend_rows")), (6, 823.79))
+        self.assertEqual(r["contrib_rows"][0].donor_raw,
+                         "Wasatch County Republican Party")
+        self.assertEqual(r["contrib_rows"][0].date, "2026-05-05")
+        self.assertEqual([x.vendor_raw for x in r["expend_rows"]][:2],
+                         ["SquareSpace", "Big Daddy Signs"])
+
+    def test_a_month_word_is_never_eaten_as_a_date_when_the_date_cell_is_empty(self):
+        """The negative control on the extension: enumerated month names only, and a date must
+        be followed by digits. A vendor row whose date cell is blank keeps its whole name."""
+        text = ('                 CAMPAIGN FINANCIAL DISCLOSURE\n'
+                ' 2. Itemized total of all campaign expenditures*\n'
+                '       (from Table "B" on page 2)                        $75.00\n'
+                '              ITEMIZED EXPENDITURE REPORT - TABLE "B"\n'
+                ' Date of   Person or Organization      Amount   Expenditure Purpose\n'
+                '           May Company                 $50.00   Flyers\n'
+                '           April Showers Printing      $25.00   Signs\n'
+                '                             TOTAL:    $75.00\n')
+        r = self.FAM.parse(text, meta(candidate="Test Filer", election_year="2026"))
+        self.assertEqual([x.vendor_raw for x in r["expend_rows"]],
+                         ["May Company", "April Showers Printing"])
+        self.assertEqual([x.date for x in r["expend_rows"]], ["", ""])
 
 
 class TestUtahCountySchedAB(unittest.TestCase):

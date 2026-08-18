@@ -52,6 +52,125 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible despite the 'low' OCR sidecar. The Current Report <=$50 cell is a slashed zero written as an empty/nil mark; recorded as blank. The Current campaign-balance cell has an illegible struck character before '476.00'. Column-order cross-check: Last Report reproduces doc 1091's Current figures exactly."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible despite the 'low' OCR sidecar. The Current Report <=$50 cell is a slashed zero written as an empty/nil mark; recorded as blank. The Current campaign-balance cell has an illegible struck character before '476.00'. Column-order cross-check: Last Report reproduces doc 1091's Current figures exactly.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "withheld",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "contributions": "PERIOD-vs-CUMULATIVE GRAIN. The two rows sum to 2,250.00, which is exactly the CURRENT REPORT '>$50' figure on the published cover cache; the module's stated cycle total is 4,515.00 (cumulative 4,500.00 '>$50' + 15.00 '<=$50'). Established by cover-differencing against the same candidate's Pre-Election filing 1091, whose ledger holds the first-period gifts (1,250.00 '>$50' + 15.00 '<=$50') and whose '>$50' figure is precisely this cover's LAST REPORT column. No sum is claimed; both figures are named. The 2 rows are parked for a future grain ruling.",
+   "expenditures": "PERIOD-vs-CUMULATIVE GRAIN, and here the arithmetic is decisive. The two rows sum to 2,726.00, equal BOTH to this schedule's own printed header box (2,726.00) and to the cover's CURRENT REPORT column; the module's stated cycle total is the cumulative 3,756.93, and 1,030.93 (the Pre-Election sibling 1091's whole expense ledger) + 2,726.00 = 3,756.93 exactly. The ledger is therefore period-scoped beyond doubt. No sum is claimed; both figures are named and the 2 rows are parked."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "4515.00",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed - period ledger under a cumulative cover (see withheld_reason). For the record: the 2 transcribed rows sum to 2,250.00 = the cover's current-report figure. Two further facts about the page, neither repaired: the schedule's own '>$50' box reads 250.00 and is short by the filer's own 2,000.00 row; and the published cover cache does not close on itself either (last report 1,250.00 + current 2,250.00 = 3,500.00, against a cumulative column of 4,500.00 - a $1,000 discrepancy in the FILER's cover arithmetic). Page 1 was not re-read; the cover figures quoted are the module's published transcription"
+   },
+   "expenditures": {
+    "stated": "3756.93",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed - period ledger under a cumulative cover (see withheld_reason). For the record: the 2 transcribed rows sum to 2,726.00, equal to the schedule's own printed box and to the cover's current-report column, and 1,030.93 + 2,726.00 = 3,756.93 reconstructs the stated cumulative exactly from the Pre-Election sibling 1091"
+   }
+  },
+  "page_gates": "PAGE POSITION IS REVERSED on this filing: p2 is the ITEMIZED EXPENSE REPORT and p3 is the ITEMIZED CONTRIBUTION REPORT. p2 prints 'Total amount of expenditures 2,726.00' and its two rows sum to 2,726.00 - the page gates exactly, but on the PERIOD figure, not the cumulative one the module states. p3 prints '>$50 250.00' and '<=$50 (slashed zero)'; its two rows sum to 2,250.00, which matches NEITHER printed box: the '>$50' box omits the filer's own 2,000.00 self-contribution on the line below. The cover's CURRENT REPORT '>$50' column (2,250.00) is what the rows reproduce, and that is the evidence the ledger is period-scoped. Both amount cells and the '>$50' box were escalated to 900-1000 dpi tight crops and are unambiguous (250- and 2000-, and a three-digit 250.00 in the box).",
+  "escalations": 4,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {
+   "contributions": [
+    {
+     "line_no": 1,
+     "date": "",
+     "donor_raw": "Heidi Goar",
+     "donor_city": "Kamas",
+     "donor_state": "UT",
+     "amount": "250.00",
+     "in_kind": false,
+     "needs_review": 1,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:9.53,26.17,79.71,2.29@p3",
+     "geometry_fit": "measured",
+     "note": "date cell reads verbatim '10-10' - month and day only, NO YEAR (contract rule 8). Amount written '250-', the filer's trailing-dash shorthand for '.00'. Address cell reads 'Tuhay Ranch Kamas'; only the city is retained per the privacy contract",
+     "page": 3,
+     "band": 4
+    },
+    {
+     "line_no": 2,
+     "date": "",
+     "donor_raw": "Sean Wharton",
+     "donor_city": "Marion",
+     "donor_state": "UT",
+     "amount": "2000.00",
+     "in_kind": false,
+     "needs_review": 1,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:9.53,28.04,79.71,2.27@p3",
+     "geometry_fit": "measured",
+     "note": "the candidate himself. Date cell reads verbatim '10-15' - no year (contract rule 8). Amount written '2000-'; escalated to 1000 dpi and unambiguous. This is the row the schedule's own '>$50' box (250.00) omits",
+     "page": 3,
+     "band": 5
+    }
+   ],
+   "expenditures": [
+    {
+     "line_no": 1,
+     "date": "2014-10-15",
+     "vendor_raw": "P.C. Print Ink",
+     "purpose": "County Mailer",
+     "amount": "1450.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:9.24,26.23,79.68,2.08@p2",
+     "geometry_fit": "measured",
+     "note": "'P.C.' is the filer's abbreviation for Park City, kept verbatim in the vendor name",
+     "page": 2,
+     "band": 5
+    },
+    {
+     "line_no": 2,
+     "date": "2014-10-15",
+     "vendor_raw": "U.S. Post Office",
+     "purpose": "Mail",
+     "amount": "1276.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:9.24,28.10,79.68,2.06@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 6
+    }
+   ]
+  },
+  "notes": "Blue-ink handwriting on a clean born-scanned form; both ledger pages are short (2 rows each). The printed SPECIMEN rows survive on BOTH pages and on both the county clerk (or the filer) marked them: each is HIGHLIGHTED IN YELLOW and struck through with a wavy pen line - 'Jon and Jane Doe $435.00' on p3 and 'Name of Business $512.00' on p2. That is a fourth independent confirmation of the specimen-row rule, and the first instance in this wave of the specimen being marked with a HIGHLIGHTER rather than a pen strike. The yellow highlight band also creates a FALSE horizontal rule in band detection - the specimen row registers as two bands (p2 bands 3+4, p3 bands 2+3) - so data-row band indices on both pages sit one higher than a clean sheet would give; verified by render-back (p3 band 5 resolves to the Sean Wharton 2000.00 row). The '<=$50' box on p3 holds a SLASHED ZERO, transcribed as a real 0 per the zero-glyph ruling. Contribution dates carry month-day only and are left blank; expense dates carry the year. Amounts use the filer's trailing-dash shorthand ('250-', '2000-') for 'and no cents'."
+ }
 }

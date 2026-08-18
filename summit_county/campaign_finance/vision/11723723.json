@@ -47,6 +47,125 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "Very faint scan of the handwritten 2020 single-total sheet; the Current Report cells read '389' with no cents (medium confidence on that pair). Campaign-balance Current and Last cells are EMPTY. Column-order cross-check: Last Report reproduces doc 11110's Current figures exactly."
+ "itemized_transcribed": true,
+ "notes": "Very faint scan of the handwritten 2020 single-total sheet; the Current Report cells read '389' with no cents (medium confidence on that pair). Campaign-balance Current and Last cells are EMPTY. Column-order cross-check: Last Report reproduces doc 11110's Current figures exactly.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "withheld",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "contributions": "PERIOD-vs-CUMULATIVE GRAIN (the Harte-2026 / Wolbach-24390 / Stevens-12943 class), and here it is established THREE independent ways. (1) The schedule page prints its own total, 'Total Contributions: $389', and the two rows sum to 389.00 exactly. (2) 389 is the cover's CURRENT REPORT figure, not the cumulative: the cover's own three-column arithmetic closes as last_report 9,768.17 + current 389 = cumulative 10,157.17, and 10,157.17 is the figure this module publishes. (3) EXTERNAL cover-differencing across the candidate's own 2020 trio confirms the same number from outside this document - her Primary (11110, this chunk) states cumulative 9,768.17 and her Post-Election (12943, another agent's) states last_report 9,768.17 and cumulative 10,157.17, so the pre-election PERIOD can only be 389.00. Publishing a 389.00 ledger against a 10,157.17 cycle total would state an incoherent pair, and the missing 9,768.17 is not in this document. BOTH figures named: printed page total 389 (period) vs stated cumulative 10,157.17. The 2 rows ARE transcribed and parked so a future grain ruling can be applied without re-reading the page.",
+   "expenditures": "PERIOD-vs-CUMULATIVE GRAIN, same three-way proof on this side. (1) p3 prints 'Total amount of expenditures: $389' and its two rows sum to 389.00 exactly. (2) 389 is the cover's expenditure CURRENT REPORT, with the cover's own arithmetic closing as 8,828.72 + 389 = 9,217.72, which is the cumulative this module publishes. (3) Cover-differencing across the trio gives the same 389.00 (Primary cumulative 8,828.72; Post-Election last_report 8,828.72 / cumulative 9,217.72). No sum is claimed; the 2 rows are parked."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "10157.17",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed. The 2 transcribed rows sum to 389.00, closing EXACTLY on the page's own printed 'Total Contributions: $389', but 389 is the cover's current_report; the cumulative stated figure is 10,157.17. Rows parked pending the owner's grain ruling."
+   },
+   "expenditures": {
+    "stated": "9217.72",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed. The 2 transcribed rows sum to 389.00, closing EXACTLY on p3's own printed 'Total amount of expenditures: $389', but 389 is the cover's current_report; the cumulative stated figure is 9,217.72. Rows parked pending the owner's grain ruling."
+   }
+  },
+  "page_gates": "BOTH schedules gated by their OWN printed totals and both close exactly: p2 'Total Contributions: $389' against 139 + 250 = 389.00, p3 'Total amount of expenditures: $389' against 250 + 139 = 389.00. Those closures are what PROVE the pages are period-scoped rather than incomplete - a short ledger that closes on its own printed total is a complete PERIOD ledger, not a partial cumulative one, and that distinction is the whole basis for withholding rather than publishing a delta. The third gate is the cover's own three-column arithmetic, which closes on both money rows (9,768.17 + 389 = 10,157.17; 8,828.72 + 389 = 9,217.72) and identifies which column the pages belong to. ROW-COUNT GATE: rowbands found 3 bands on p2 (band 1 header, bands 2-3 the two data rows) and 4 on p3 (band 1 the instruction line, band 2 header, bands 3-4 the two data rows) - exactly what was read, with no blank ruled rows below (this filer prints only as many rows as she has). GEOMETRY: p2 band 3 re-cropped reproduced '10/23/20 / Russel & Larry Fericks / 250'; p3 band 3 re-cropped reproduced '6/29/20 / Eclectic Brew Productions / Campaign Video / 250'. NOTE ON p3 GEOMETRY: rowbands detected NO vertical rules on p3 (cols=[]), so geometry_for falls back to its default full-table x/w while still using the page's MEASURED horizontal bands; the boxes contain their rows (verified by crop) and remain 'measured', but the horizontal extent is the fallback, not a measurement. ESCALATION (1): the donor name on p2 band 3 was cropped tight at 1200 dpi to settle the spelling - 'Russel & Larry Fericks', single-l Russel, confirmed and kept verbatim. FIELD-SHIFT SCREEN: passed - both sheets print their own column headers and the two-line wrapped addresses stay inside their own bands.",
+  "escalations": 1,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {
+   "contributions": [
+    {
+     "line_no": 1,
+     "date": "2020-09-29",
+     "donor_raw": "Malena Stevens",
+     "donor_city": "Park City",
+     "donor_state": "UT",
+     "amount": "139.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:11.54,19.99,76.53,3.82@p2",
+     "geometry_fit": "measured",
+     "note": "amount cell annotated '(In Kind)'; the candidate herself. NOT flagged in_kind because on this filer's sheets the in-kind sits INSIDE the printed total (139 + 250 = the printed 389) - the same convention proved by arithmetic on her Primary filing 11110",
+     "page": 2,
+     "band": 2
+    },
+    {
+     "line_no": 2,
+     "date": "2020-10-23",
+     "donor_raw": "Russel & Larry Fericks",
+     "donor_city": "Park City",
+     "donor_state": "UT",
+     "amount": "250.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:11.54,23.70,76.53,3.84@p2",
+     "geometry_fit": "measured",
+     "note": "name escalated to a 1200 dpi tight cell crop and reproduced exactly as 'Russel & Larry Fericks' (single-l Russel), kept verbatim",
+     "page": 2,
+     "band": 3
+    }
+   ],
+   "expenditures": [
+    {
+     "line_no": 1,
+     "date": "2020-06-29",
+     "vendor_raw": "Eclectic Brew Productions",
+     "purpose": "Campaign Video",
+     "amount": "250.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:8.00,27.32,84.00,2.01@p3",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 3,
+     "band": 3
+    },
+    {
+     "line_no": 2,
+     "date": "2020-09-29",
+     "vendor_raw": "Malena Stevens",
+     "purpose": "Website & Design",
+     "amount": "139.00",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:8.00,29.21,84.00,2.03@p3",
+     "geometry_fit": "measured",
+     "note": "amount cell annotated '(In Kind)'; the matching expenditure entry for the 9/29/20 in-kind contribution row on p2 - the classic in-kind double entry. Inside the printed 389 total, so not flagged in_kind",
+     "page": 3,
+     "band": 4
+    }
+   ]
+  },
+  "notes": "Malena Stevens, County Council, 2020 PRE-ELECTION - the middle filing of the 2020 trio and THE CLEANEST WORKED EXAMPLE OF COVER-DIFFERENCING IN THE WAVE SO FAR, because the period figure was PREDICTED before this document was opened and then found printed on its face. Reading her Primary (11110, cumulative 9,768.17 / 8,828.72) against her Post-Election (12943, another agent's, last_report 9,768.17 / 8,828.72 and cumulative 10,157.17 / 9,217.72) forces a pre-election period of exactly 389.00 on BOTH sides; this filing's cover states 389 in both current_report cells and both schedules print '$389' as their own total. Three independent instruments - the schedule's printed total, the cover's internal three-column arithmetic, and an EXTERNAL differencing across two sibling documents - agree to the cent on both sides. That is as strong as the evidence on this question is going to get from Summit's corpus, and it settles the factual half of the grain question for this filer beyond argument: her ledgers are PERIOD-scoped and the module's published totals are CUMULATIVE. What it does not settle, and what only the owner can, is what the layer should do about it.\n\nTHE STEVENS 2020 TRIO IS NOW A COMPLETE SPECIMEN of the three cases: 11110 Primary = period and cumulative COINCIDE (first filing of the cycle, nothing to reconcile, shipped transcribed); 11861 Pre-Election = period-only on both sides, withheld with 4 rows parked; 12943 Post-Election = period-only on both sides, withheld, one side a period ZERO on a page that physically exists. Whichever way the ruling goes, the trio can be applied end to end without reopening a page.\n\nIN-KIND, second confirmation of the property flagged on 11110: the two '(In Kind)' items here ($139 Website & Design, entered once as a contribution and once as the matching expenditure) are INSIDE the printed 389 on both sides - 139 + 250 = 389 leaves no room for them to be outside it. So this filer's convention is the opposite of McKenna 2024's, and the brief's 'the cover's contribution figure is MONETARY-ONLY' does not generalise. The rows carry in_kind=false with the annotation preserved verbatim in their notes.\n\nOther source properties: typed born-digital sheets, scanned, medium OCR; no specimen rows, no redactions, no struck values, no bad dates. The sheets print 'Mailing Address' with city and state inside the address string, so donor_city/donor_state are read verbatim from the page and the street is discarded at read time. rowbands found no vertical rules on p3 - see page_gates."
+ }
 }

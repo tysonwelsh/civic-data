@@ -47,6 +47,65 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2020 single-total sheet, legible; Last Report and Cumulative columns left blank."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2020 single-total sheet, legible; Last Report and Cumulative columns left blank.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "597.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.90,28.65,82.30,1.93@p3",
+   "geometry_fit": "declared",
+   "note": "handwritten; date cell reads '3/13/20', vendor 'SUMMIT COUNTY CLERK', purpose 'FILING FEE' in the filer's block capitals",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0.00",
+    "itemized": "0.00",
+    "result": "exact",
+    "detail": "exact, and it is a REAL ZERO the filer asserted rather than an empty page: the schedule's only non-specimen line is a dated declaration '10/21/20 | NONE | 0.00' written across the row. Zero rows are emitted because 'NONE' is the filer's statement that there were no contributions, not a contributor - writing it as a donor row would invent a donor. The cover's stated 0.00 and its -597.80 balance agree."
+   },
+   "expenditures": {
+    "stated": "597.80",
+    "itemized": "597.80",
+    "result": "exact",
+    "detail": "exact - the single row reproduces the page's own handwritten boxed total 597.80 and the cover"
+   }
+  },
+  "page_gates": "p3 prints a HANDWRITTEN boxed 'Total amount of expenditures 597.80'; the single real row (3/13/20 Summit County Clerk, Filing Fee, 597.80) reproduces it EXACTLY, and it equals the cover's stated 597.80. It closes ONLY after the unstruck template specimen row ($512.00) is dropped - that is the proof. p2 carries NO printed contribution total; the gate is the cover's stated contributions 0.00, which the page states in its own words (see notes) and which the cover's balance line -597.80 = 0.00 - 597.80 independently confirms. Row-count gate: p2 40 bands / p3 35 bands at a regular ~1.92% pitch matching the printed grids; exactly one populated non-specimen row on each page (p2 band 3, p3 band 3). GEOMETRY IS DECLARED ON p3, NOT MEASURED: the horizontal bands detect cleanly but this scan's VERTICAL rules are too faint - rowbands found only 2 of them on p3 (and 3 on p2), so the measured box would have spanned the Date column alone (pct:8.11,28.62,9.00,1.96) and would not have contained the row. A frame is declared instead (x 7.90, y0 24.80, pitch 1.925, w 82.30) and validated against the bands that DID detect: predicted band 35 = 90.25 vs measured 90.29, a 0.04-point drift over 34 rows. The declared box was crop-verified at 500 dpi and reproduced date, vendor, purpose and amount together. ESCALATION (1): the contribution row's handwritten date cell was re-cropped tight at 1200 dpi to settle the day digit - it reads 10/21/20, corroborated by the cover's own signature date 10/21/2020.",
+  "escalations": 1,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 0,
+   "declared": 1,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Rhonda Francis, County Recorder/Surveyor, 2020 Pre-Election. Handwritten on the 2020 blank form, legible. NO GRAIN AMBIGUITY: single_total cover with only the Current Report column filled, and both schedule pages agree with it. ZERO-GLYPH: the chunk note flagged deliberate slashed-zero cells on Francis's 2020 filings, but on THIS document's ledger pages the nil is written out, not glyphed - the contribution schedule's only entry is the filer's dated hand-written declaration '10/21/20 | NONE | (amount) 0.00', with the Mailing Address and Zipcode cells left empty by the filer (not redacted). Under the zero-glyph ruling that IS a zero, and it is recorded as such: side transcribed, zero rows, stated 0.00 = itemized 0.00. It is emphatically NOT the 'none' state - the schedule PAGE exists and is affirmatively zero, which is a different fact from a document that has no such page. Both template SPECIMEN rows were left in place UNSTRUCK on this filing (p2 '8/25/10 Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00'; p3 '8/25/10 Name of Business / Campaign signs and flyers / $512.00') and both are dropped; the printed totals close only without them. The lone real expenditure is the county filing fee, so this is a candidate who spent her filing fee and raised nothing. No in-kind schedule, no county redactions, no privacy-bearing address on any emitted row."
+ }
 }

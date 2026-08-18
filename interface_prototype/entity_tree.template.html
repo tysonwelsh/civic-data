@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>civic-data — entity file tree</title>
+<style>
+:root {
+  --bg:#fbfaf8; --panel:#ffffff; --ink:#1b1a18; --ink-2:#55524d; --ink-3:#8a857e;
+  --line:#e6e2dc; --line-2:#d3cec6; --accent:#2f5d8a;
+  --c-canonical:#2f5d8a; --c-derived:#1f7a6c; --c-override:#a86a12;
+  --c-gap:#a8352f; --c-index:#6b4a9e; --c-code:#6c6862; --c-doc:#8a857e; --c-raw:#a8a29a;
+  --chip:#f1eee9; --hover:#f5f2ed;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+    --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+    --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+    --c-gap:#ef8079; --c-index:#b294e0; --c-code:#8f8b84; --c-doc:#77736c; --c-raw:#5c5952;
+    --chip:#26272d; --hover:#232429;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+  --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+  --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+  --c-gap:#ef8079; --c-index:#b294e0; --c-code:#8f8b84; --c-doc:#77736c; --c-raw:#5c5952;
+  --chip:#26272d; --hover:#232429;
+}
+
+* { box-sizing:border-box; }
+body {
+  margin:0; background:var(--bg); color:var(--ink);
+  font:15px/1.5 ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap { max-width:1180px; margin:0 auto; padding:34px 22px 90px; }
+
+header.top { border-bottom:1px solid var(--line); padding-bottom:20px; margin-bottom:22px; }
+.eyebrow {
+  font:600 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3); margin-bottom:12px;
+}
+h1 { font-size:27px; font-weight:640; letter-spacing:-.02em; margin:0 0 6px; }
+h1 .lvl {
+  display:inline-block; vertical-align:3px; margin-left:10px; padding:3px 9px;
+  font:600 10.5px/1 ui-monospace,Menlo,monospace; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--accent); background:var(--chip); border:1px solid var(--line-2); border-radius:99px;
+}
+.sub { color:var(--ink-2); font-size:14px; max-width:76ch; }
+.sub code { font:13px/1 ui-monospace,Menlo,monospace; background:var(--chip); padding:2px 5px; border-radius:4px; }
+
+/* ---- controls ---- */
+.bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 18px; }
+select, button, input[type=search] {
+  font:inherit; font-size:13px; color:var(--ink); background:var(--panel);
+  border:1px solid var(--line-2); border-radius:7px; padding:7px 11px;
+}
+select:hover, button:hover { background:var(--hover); cursor:pointer; }
+input[type=search] { min-width:190px; }
+button.on { border-color:var(--accent); color:var(--accent); }
+.spacer { flex:1 1 auto; }
+
+/* ---- facts ---- */
+.facts { display:flex; flex-wrap:wrap; gap:0; border:1px solid var(--line);
+  border-radius:10px; background:var(--panel); overflow:hidden; margin-bottom:20px; }
+.fact { flex:1 1 118px; padding:12px 14px; border-right:1px solid var(--line); }
+.fact:last-child { border-right:0; }
+.fact b { display:block; font:620 19px/1.2 ui-sans-serif,system-ui; letter-spacing:-.01em; }
+.fact span { font:500 10.5px/1.4 ui-monospace,Menlo,monospace; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-3); }
+
+/* ---- legend ---- */
+.legend { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:16px; }
+.lg {
+  display:inline-flex; align-items:center; gap:6px; padding:5px 10px 5px 8px;
+  border:1px solid var(--line-2); border-radius:99px; background:var(--panel);
+  font:500 12px/1 ui-sans-serif,system-ui; color:var(--ink-2); cursor:pointer; user-select:none;
+}
+.lg:hover { background:var(--hover); }
+.lg.off { opacity:.38; }
+.lg i { width:8px; height:8px; border-radius:2px; background:currentColor; }
+.lg[data-role=canonical]{color:var(--c-canonical)} .lg[data-role=derived]{color:var(--c-derived)}
+.lg[data-role=override]{color:var(--c-override)}  .lg[data-role=gap]{color:var(--c-gap)}
+.lg[data-role=index]{color:var(--c-index)}        .lg[data-role=code]{color:var(--c-code)}
+.lg[data-role=doc]{color:var(--c-doc)}            .lg[data-role=raw]{color:var(--c-raw)}
+.lg em { font-style:normal; color:var(--ink-3); font-variant-numeric:tabular-nums; }
+
+/* ---- tree ---- */
+.tree {
+  border:1px solid var(--line); border-radius:10px; background:var(--panel);
+  padding:14px 4px 16px; overflow-x:auto;
+}
+.row { display:block; padding:1px 14px; white-space:nowrap; }
+.row:hover { background:var(--hover); }
+.row.dim { opacity:.3; }
+.line { font:13px/1.62 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+.guide { color:var(--line-2); white-space:pre; }
+.tw { display:inline-block; width:1.1em; text-align:center; color:var(--ink-3); cursor:pointer; }
+.tw:hover { color:var(--ink); }
+.nm { cursor:default; }
+.row[data-type=dir] .nm { font-weight:600; }
+.nm[data-role=canonical]{color:var(--c-canonical)} .nm[data-role=derived]{color:var(--c-derived)}
+.nm[data-role=override]{color:var(--c-override)}   .nm[data-role=gap]{color:var(--c-gap)}
+.nm[data-role=index]{color:var(--c-index)}         .nm[data-role=code]{color:var(--c-code)}
+.nm[data-role=doc]{color:var(--c-doc)}             .nm[data-role=raw]{color:var(--c-raw)}
+.nm[data-role=other],.nm[data-role=more]{color:var(--ink-3)}
+.nm.hit { background:rgba(255,196,0,.28); border-radius:3px; }
+.meta { color:var(--ink-3); font-size:12px; font-variant-numeric:tabular-nums; margin-left:10px; }
+.note {
+  display:block; font:13px/1.5 ui-sans-serif,system-ui; color:var(--ink-2);
+  margin:1px 0 7px; padding-left:2px; white-space:normal; max-width:82ch;
+}
+.note b { font-weight:640; color:var(--ink); }
+.tree.nonotes .note { display:none; }
+.more { font-style:italic; }
+
+/* ---- caveats ---- */
+.cav { margin-top:30px; border:1px solid var(--line); border-radius:10px;
+  background:var(--panel); padding:18px 20px; }
+.cav h2 { font-size:15px; margin:0 0 4px; font-weight:640; }
+.cav p.lead { color:var(--ink-2); font-size:13.5px; margin:0 0 14px; max-width:78ch; }
+.cav ul { list-style:none; margin:0; padding:0; }
+.cav li { padding:9px 0; border-top:1px solid var(--line); font-size:13.5px; color:var(--ink-2); }
+.cav li:first-child { border-top:0; }
+.cav code {
+  font:11.5px/1 ui-monospace,Menlo,monospace; color:var(--c-gap);
+  background:var(--chip); padding:3px 6px; border-radius:4px; margin-right:8px;
+  border:1px solid var(--line-2);
+}
+footer { margin-top:26px; color:var(--ink-3); font-size:12.5px; }
+footer code { font-family:ui-monospace,Menlo,monospace; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <div class="eyebrow">civic-data · entity anatomy</div>
+  <h1 id="ttl">—<span class="lvl" id="lvl"></span></h1>
+  <p class="sub" id="sub"></p>
+</header>
+
+<div class="bar">
+  <select id="pick" aria-label="Entity"></select>
+  <input type="search" id="find" placeholder="find a file…" autocomplete="off">
+  <button id="expand">Expand all</button>
+  <button id="collapse">Collapse to top level</button>
+  <button id="notes" class="on">Annotations on</button>
+  <div class="spacer"></div>
+  <button id="theme" title="Toggle light/dark">◐</button>
+</div>
+
+<div class="facts" id="facts"></div>
+<div class="legend" id="legend"></div>
+<div class="tree" id="tree"></div>
+<div class="cav" id="cav"></div>
+
+<footer>
+  Measured from the working copy by <code>interface_prototype/build_entity_tree.py</code>.
+  File counts, sizes and CSV row counts are counted from disk; the headline figures come from
+  <code>gov.db</code>. Directories are shown to four levels deep and ten entries wide —
+  deeper or wider contents are summarised, never omitted silently.
+</footer>
+
+</div>
+<script>
+const DATA  = /*__DATA__*/null;
+const ORDER = /*__ORDER__*/null;
+
+const $ = s => document.querySelector(s);
+const fmt = n => n == null ? "" : n.toLocaleString("en-US");
+const bytes = b => {
+  if (b == null) return "";
+  if (b < 1024) return b + " B";
+  const u = ["KB","MB","GB","TB"]; let i = -1, v = b;
+  do { v /= 1024; i++; } while (v >= 1024 && i < u.length - 1);
+  return (v >= 10 || i === 0 ? Math.round(v) : v.toFixed(1)) + " " + u[i];
+};
+
+let slug = ORDER[0];
+let collapsed = new Set();     // node ids that are collapsed
+let hidden = new Set();        // roles toggled off
+let query = "";
+
+/* Everything below the entity root starts closed: the first thing you should see is
+   the list of datasets a government holds, not 2,800 files. */
+function collapseToTop() {
+  const set = new Set();
+  (function walk(n, id, depth) {
+    if (depth >= 1 && (n.children || []).length) set.add(id);
+    (n.children || []).forEach((k, i) => walk(k, id + "/" + i + k.name, depth + 1));
+  })(DATA[slug].tree, "r", 0);
+  return set;
+}
+
+/* ---------- flatten the tree into printable rows ---------- */
+function flatten(node, id, depth, prefix, isLast, out) {
+  const kids = node.children || [];
+  const open = !collapsed.has(id);
+  out.push({ node, id, depth, prefix, isLast, hasKids: kids.length > 0, open });
+  if (!open) return out;
+  const childPrefix = depth === 0 ? "" : prefix + (isLast ? "    " : "│   ");
+  kids.forEach((k, i) =>
+    flatten(k, id + "/" + i + k.name, depth + 1, childPrefix, i === kids.length - 1, out));
+  return out;
+}
+
+function metaFor(n) {
+  const bits = [];
+  if (n.type === "dir") {
+    if (n.files != null) bits.push(fmt(n.files) + (n.files === 1 ? " file" : " files"));
+    if (n.bytes) bits.push(bytes(n.bytes));
+  } else {
+    if (n.rows != null) bits.push(fmt(n.rows) + (n.rows === 1 ? " row" : " rows"));
+    else if (n.bytes != null) bits.push(bytes(n.bytes));
+  }
+  return bits.join(" · ");
+}
+
+/* prose annotations lead with an ALL-CAPS tag; render that tag bold */
+function noteHTML(t) {
+  const esc = t.replace(/[&<>]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;" }[c]));
+  return esc.replace(/^([A-Z][A-Z ]{3,}\.)/, "<b>$1</b>");
+}
+
+function render() {
+  const d = DATA[slug];
+  const rows = flatten(d.tree, "r", 0, "", true, []);
+  const tree = $("#tree");
+  tree.innerHTML = "";
+
+  for (const r of rows) {
+    const n = r.node;
+    const el = document.createElement("div");
+    el.className = "row";
+    el.dataset.type = n.type;
+    if (hidden.has(n.role) || (query && !n.name.toLowerCase().includes(query)))
+      el.classList.add("dim");
+
+    const guide = r.depth === 0 ? "" : r.prefix + (r.isLast ? "└── " : "├── ");
+    const tw = r.hasKids ? `<span class="tw" data-id="${r.id}">${r.open ? "▾" : "▸"}</span>`
+                         : `<span class="tw"> </span>`;
+    const nameCls = query && n.name.toLowerCase().includes(query) ? "nm hit" : "nm";
+    const suffix = n.type === "dir" ? "/" : "";
+    const meta = metaFor(n);
+
+    el.innerHTML =
+      `<span class="line"><span class="guide">${guide}</span>${tw}` +
+      `<span class="${nameCls}" data-role="${n.type === "more" ? "more" : n.role}">` +
+      `${n.name}${suffix}</span>` +
+      (meta ? `<span class="meta">${meta}</span>` : "") + `</span>` +
+      (n.note ? `<span class="note" style="margin-left:${(r.depth * 4) + 2}ch">${noteHTML(n.note)}</span>` : "");
+
+    tree.appendChild(el);
+  }
+
+  tree.querySelectorAll(".tw[data-id]").forEach(t => t.onclick = () => {
+    const id = t.dataset.id;
+    collapsed.has(id) ? collapsed.delete(id) : collapsed.add(id);
+    render();
+  });
+}
+
+/* ---------- header, facts, legend, caveats ---------- */
+const FACTS = [
+  ["motions", "motions"], ["member_votes", "member-votes"], ["meetings", "meetings"],
+  ["documents", "documents"], ["searchable_minutes", "searchable docs"],
+  ["ordinances", "ordinances"], ["races", "races"], ["contributions", "contributions"],
+  ["comments", "comments"], ["terms", "seat tenures"],
+];
+
+function paintEntity() {
+  const d = DATA[slug];
+  $("#ttl").innerHTML = `${d.name}<span class="lvl">${d.level}</span>`;
+  const t = d.tree;
+  const parts = [
+    `<code>${d.dir}/</code> — ${fmt(t.files)} files, ${bytes(t.bytes)} on disk.`,
+    d.portal ? `Records come from <b>${d.portal}</b>.` : "",
+    `Every folder below is one dataset, each with its own provenance manifest and its own
+     documented ceiling on what the source actually publishes.`,
+  ];
+  $("#sub").innerHTML = parts.filter(Boolean).join(" ");
+
+  const f = d.facts || {};
+  $("#facts").innerHTML = FACTS
+    .filter(([k]) => f[k] != null && f[k] > 0)
+    .map(([k, label]) => `<div class="fact"><b>${fmt(f[k])}</b><span>${label}</span></div>`)
+    .join("") || `<div class="fact"><b>—</b><span>no federated rows</span></div>`;
+
+  // legend counts, measured off this entity's tree
+  const counts = {};
+  (function walk(n) {
+    if (n.type !== "more") counts[n.role] = (counts[n.role] || 0) + 1;
+    (n.children || []).forEach(walk);
+  })(d.tree);
+  const blurbs = d.role_blurbs || {};
+  $("#legend").innerHTML = Object.keys(blurbs)
+    .filter(r => counts[r] && r !== "other")
+    .map(r => `<span class="lg${hidden.has(r) ? " off" : ""}" data-role="${r}" title="${blurbs[r]}">
+        <i></i>${r} <em>${counts[r]}</em></span>`).join("");
+  $("#legend").querySelectorAll(".lg").forEach(el => el.onclick = () => {
+    const r = el.dataset.role;
+    hidden.has(r) ? hidden.delete(r) : hidden.add(r);
+    paintEntity(); render();
+  });
+
+  const cav = (f.caveats || []);
+  $("#cav").innerHTML =
+    `<h2>What this entity's data cannot tell you</h2>
+     <p class="lead">Measurement ceilings travel with the data rather than living in a footnote —
+       these rows sit in <code style="color:var(--ink-2)">gov.db</code>'s <code
+       style="color:var(--ink-2)">caveat</code> table and the analysis views attach them to
+       every result row.</p>` +
+    (cav.length
+      ? `<ul>${cav.map(c => `<li><code>${c.code}</code>${c.text}</li>`).join("")}</ul>`
+      : `<p class="lead">No caveat rows recorded for this entity.</p>`);
+}
+
+/* ---------- controls ---------- */
+$("#pick").innerHTML = ORDER
+  .map(s => `<option value="${s}">${DATA[s].name} — ${DATA[s].level}</option>`).join("");
+$("#pick").value = slug;
+$("#pick").onchange = e => {
+  slug = e.target.value; collapsed = collapseToTop(); paintEntity(); render();
+};
+$("#expand").onclick = () => { collapsed = new Set(); render(); };
+$("#collapse").onclick = () => { collapsed = collapseToTop(); render(); };
+$("#notes").onclick = e => {
+  const on = $("#tree").classList.toggle("nonotes");
+  e.target.classList.toggle("on", !on);
+  e.target.textContent = on ? "Annotations off" : "Annotations on";
+};
+$("#find").oninput = e => { query = e.target.value.trim().toLowerCase(); render(); };
+$("#theme").onclick = () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const dark = cur ? cur === "dark"
+                   : matchMedia("(prefers-color-scheme: dark)").matches;
+  document.documentElement.setAttribute("data-theme", dark ? "light" : "dark");
+};
+
+collapsed = collapseToTop();
+paintEntity();
+render();
+</script>
+</body>
+</html>

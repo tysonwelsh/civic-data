@@ -52,6 +52,226 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible; cents written as superscripts. Column-order cross-check: Last Report reproduces doc 1092's Current figures exactly."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible; cents written as superscripts. Column-order cross-check: Last Report reproduces doc 1092's Current figures exactly.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "withheld",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "contributions": "PERIOD-SCOPED LEDGER, not cumulative - the owner has not ruled on the grain, so no sum is claimed and the rows are parked. Proof is arithmetic and exact: the cover's contribution box reads Current $1,200.00 | Last $15,450.00 | Cumulative $16,650.00, and the module's published stated total (16,800.00) is that cumulative $16,650.00 plus the $150.00 <=$50 aggregate. The schedule on p3 carries exactly ONE transaction - a $1,200.00 IN-KIND printing contribution from the Summit Co. Republican Party dated 10/23/2014 - i.e. it reproduces the CURRENT column only. Cover-differencing against the same candidate's Pre-Election filing (doc 1092, already transcribed) closes it to the cent: 1092's schedule itemizes $15,450.00, which is precisely this filing's Last Report column, and 15,450.00 + 1,200.00 = 16,650.00. So the cycle IS fully itemized across the pair, with no overlap - but not by this document alone.",
+   "expenditures": "PERIOD-SCOPED LEDGER, same proof. The cover reads Current $3,226.18 | Last $12,313.94 | Cumulative $15,540.12 and the module publishes the cumulative 15,540.12. The p2 schedule's own printed box AND its in-ledger 'Total' row both read $3,226.18 - the CURRENT column - and its nine rows are all dated 10/23-11/4/2014, i.e. after the Pre-Election filing's 10/27 signature. 12,313.94 (itemized in full on doc 1092) + 3,226.18 = 15,540.12 exactly. No sum claimed; the nine rows are parked."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "16800.00",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "No sum claimed - side withheld on grain (see withheld_reason). For the record: the schedule holds ONE transaction, $1,200.00 IN-KIND, so the MONETARY itemized figure for this document is $0.00 and the in-kind figure is $1,200.00. The stated 16,800.00 is cumulative-cycle and includes doc 1092's $15,450.00 plus a $150.00 <=$50 aggregate carried forward. Do not read the monetary zero as 'no cash raised in the period' being contradicted - the cover agrees: its Current >$50 cell is the $1,200.00 in-kind and nothing else."
+   },
+   "expenditures": {
+    "stated": "15540.12",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "No sum claimed - side withheld on grain. For the record the nine rows total $3,226.18, matching the page's printed box and its typed in-ledger Total exactly. IMPORTANT for any future ruling that un-withholds this side: unlike the contribution convention used elsewhere in this wave, this filer's printed EXPENSE total INCLUDES the $1,200.00 in-kind line, so the row is flagged in_kind=true (which excludes it from itemized_expend_sum) and $1,200.00 must be added back to reproduce the page's own $3,226.18. The cash-only figure is $2,026.18."
+   }
+  },
+  "page_gates": "PAGE ORDER IS REVERSED on this filing - p2 is the ITEMIZED EXPENSE REPORT and p3 is the ITEMIZED CONTRIBUTION REPORT. Each page was classified from its own printed title, not its position. p2 prints the box 'Total amount of expenditures $3,226.18' AND repeats it as a typed 'Total  $3,226.18' row two lines below the last entry; its nine rows sum to $3,226.18 to the cent ONLY when the bracketed in-kind line is included (the eight cash rows alone are $2,026.18, and $2,026.18 is also exactly the negative campaign balance the cover reports for the period - the filer's own two-way check). p3's '>$50' box holds no numeral at all: it holds the typed phrase '$1200 in-kind contribution', and the '<=$50' box is EMPTY (blank, not a zero mark). Both schedules therefore gate against the cover's CURRENT column, which is what makes the grain call decisive rather than inferred.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {
+   "contributions": [
+    {
+     "line_no": 1,
+     "date": "2014-10-23",
+     "donor_raw": "Summit Co. Repuplican Party",
+     "donor_city": "Park City",
+     "donor_state": "UT",
+     "amount": "1200.00",
+     "in_kind": true,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.40,34.02,83.80,3.57@p3",
+     "geometry_fit": "declared",
+     "note": "IN-KIND. Amount printed in square brackets '[1200.00]' on a second printed line whose Mailing Address cell reads 'In-kind contribution for printing'; the >$50 box likewise holds the phrase '$1200 in-kind contribution' instead of a numeral. Donor name printed 'Repuplican' - the filer's typo, kept verbatim",
+     "page": 3,
+     "band": 1
+    }
+   ],
+   "expenditures": [
+    {
+     "line_no": 1,
+     "date": "2014-10-23",
+     "vendor_raw": "Summit Co. Republican Party",
+     "purpose": "In-kind Expenditure for Printing",
+     "amount": "1200.00",
+     "in_kind": true,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,35.23,82.45,1.36@p2",
+     "geometry_fit": "measured",
+     "note": "IN-KIND, amount printed in square brackets '[$1200.00]'. The page's own printed total of $3,226.18 INCLUDES this line",
+     "page": 2,
+     "band": 3
+    },
+    {
+     "line_no": 2,
+     "date": "",
+     "vendor_raw": "Zurchers",
+     "purpose": "Campaign Promomotion Supplies",
+     "amount": "193.36",
+     "in_kind": false,
+     "needs_review": 1,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,37.00,82.45,1.80@p2",
+     "geometry_fit": "measured",
+     "note": "date cell reads '10//27-31/14' verbatim - a DATE RANGE with a doubled slash, so left blank per the strict-date gate and never resolved to a single day. Purpose printed 'Promomotion' - the filer's typo, kept verbatim",
+     "page": 2,
+     "band": 5
+    },
+    {
+     "line_no": 3,
+     "date": "2014-10-31",
+     "vendor_raw": "Park Record",
+     "purpose": "Advertising",
+     "amount": "1107.92",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,38.80,82.45,1.77@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 6
+    },
+    {
+     "line_no": 4,
+     "date": "2014-10-31",
+     "vendor_raw": "Michaels",
+     "purpose": "Promotional Supplies",
+     "amount": "7.42",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,40.57,82.45,1.80@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 7
+    },
+    {
+     "line_no": 5,
+     "date": "2014-10-31",
+     "vendor_raw": "Flying Sumo",
+     "purpose": "Campaign Stategy Meeting",
+     "amount": "59.73",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,42.36,82.45,1.80@p2",
+     "geometry_fit": "measured",
+     "note": "purpose printed 'Stategy' - the filer's typo, kept verbatim",
+     "page": 2,
+     "band": 8
+    },
+    {
+     "line_no": 6,
+     "date": "2014-10-31",
+     "vendor_raw": "Staples",
+     "purpose": "Printing and supplies for promotion",
+     "amount": "53.93",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,44.16,82.45,1.77@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 9
+    },
+    {
+     "line_no": 7,
+     "date": "2014-11-03",
+     "vendor_raw": "Facebook",
+     "purpose": "Advertising",
+     "amount": "34.89",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,45.93,82.45,1.77@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 10
+    },
+    {
+     "line_no": 8,
+     "date": "2014-11-03",
+     "vendor_raw": "Park Record",
+     "purpose": "Advertising",
+     "amount": "527.97",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,47.70,82.45,1.80@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 11
+    },
+    {
+     "line_no": 9,
+     "date": "2014-11-04",
+     "vendor_raw": "The Junction",
+     "purpose": "Election Night Dinner",
+     "amount": "40.96",
+     "in_kind": false,
+     "needs_review": 0,
+     "confidence": "medium",
+     "cell_confidence": "date=high;name=high;amount=high",
+     "verified": 1,
+     "geometry": "pct:6.28,49.50,82.45,1.80@p2",
+     "geometry_fit": "measured",
+     "note": "",
+     "page": 2,
+     "band": 12
+    }
+   ]
+  },
+  "notes": "Typed sheets. THE IN-KIND TRANSACTION IS RECORDED TWICE, once on each side, and it is the same event: the Summit County Republican Party paid a printer $1,200 for Brickey on 10/23/2014, and he entered it both as an in-kind CONTRIBUTION received (p3) and as an in-kind EXPENDITURE made (p2), bracketing the amount on both pages to mark it as non-cash. Both rows carry in_kind=true. This is the same pattern the 2014 Jones filing (doc 1088) shows with the Democratic Party's $371.50 ad. GEOMETRY: p2's rules resolve full-width measured boxes and rows 1-9 sit on detected bands 3,5,6,7,8,9,10,11,12 (band 4 is a sliver the bracketed amount's descender creates, so the band COUNT is not a usable gate on this page while each individual band still contains its row) - verified by rendering band 3 -> '10/23/2014 Summit Co. Republican Party / In-kind Expenditure for Printing / [$1200.00]' and band 12 -> '11/4/2014 The Junction / Election Night Dinner / $40.96' at 500 dpi. p3's single transaction OCCUPIES TWO PRINTED GRID ROWS - the donor name, address and zip on the first, the words 'In-kind contribution for printing' and the amount [1200.00] on the second - so the contributions side uses a DECLARED frame whose pitch is two grid rows (3.57 = 2 x the page's measured 1.785 pitch) anchored on the detected rule at y=34.02. That is a measurement, not a guess, and it is what lets the box hold donor AND amount together as the geometry contract requires; verified by render (the crop shows both lines). PRIVACY: the one donor row prints a street address and zip; only city and state were taken. The donor's name is printed 'Summit Co. Repuplican Party' on p3 (typo) and 'Summit Co. Republican Party' on p2 - both kept verbatim as printed on their own page. One expense date is a RANGE ('10//27-31/14', with a doubled slash) and is left BLANK with needs_review=1 per the strict-date gate."
+ }
 }

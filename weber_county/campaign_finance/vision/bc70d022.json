@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:06:59Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Caitlin K. Gochnour",
  "office_stated": "Weber County Commissioner Seat C",
  "report_type_stated": "July 28th (eliminated in the Primary Election)",
@@ -44,5 +44,195 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2016 3-line form variant. UNSIGNED and UNDATED on its face (index.csv date 2016-07-15 comes from the channel, not the form)."
+ "notes": "2016 3-line form variant. UNSIGNED and UNDATED on its face (index.csv date 2016-07-15 comes from the channel, not the form).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6/16/2016",
+   "donor_raw": "R & O Construction, Orluff Opheikens",
+   "donor_city": "Ogden",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,14.71,13.73,3.14@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=14.71-17.85 (1 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "6/16/2016",
+   "donor_raw": "Sally Neill",
+   "donor_city": "Ogden",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,17.85,13.73,3.15@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=17.85-21.00 (2 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "6/20/2016",
+   "donor_raw": "Sterling & Barbara Sessions",
+   "donor_city": "Ogden",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,21.00,13.73,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=21.00-24.18 (3 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Exactly $50.00. On the 2016 3-line form line 1 is 'Total contributions from ALL donors' with no >$50 threshold, so a $50.00 donor is itemized here; on the 2014 4-line form the same donor would have fallen into the <=$50 aggregate and never appeared as a row."
+  },
+  {
+   "line_no": "4",
+   "date": "6/22/2016",
+   "donor_raw": "Janet Muir",
+   "donor_city": "Eden",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,24.18,13.73,3.14@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=24.18-27.32 (4 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "6/23/2016",
+   "donor_raw": "Mike Caldwell",
+   "donor_city": "Ogden",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,27.32,13.73,3.15@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=27.32-30.47 (5 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "6/25/2016",
+   "donor_raw": "Stokes Strategies, Spencer Stokes",
+   "donor_city": "SLC",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,30.47,13.73,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=30.47-33.65 (6 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "7/4/2016",
+   "donor_raw": "Kent Collins",
+   "donor_city": "Ogden",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:83.34,33.65,13.73,3.14@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=33.65-36.79 (7 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "6/25/2016",
+   "donor_raw": "CMV Pac Design/Print 5,000 Mailers",
+   "donor_city": "SLC",
+   "amount": "3326.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:83.34,36.79,13.73,3.15@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=36.79-39.94 (8 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The filer's verbatim amount cell reads 'In-Kind  $3,326.00' -- the in-kind tag is written INSIDE the amount cell, not in a separate column. This filer EXCLUDES in-kind from the schedule total (see recon.contributions.detail), so this row is retained but is not part of the 3,500.00 that closes the side."
+  },
+  {
+   "line_no": "9",
+   "date": "6/29/2016",
+   "donor_raw": "CMV Pac Mailing Costs",
+   "donor_city": "SLC",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "geometry": "pct:83.34,39.94,13.73,3.18@p2",
+   "geometry_frame": "p2 axis=y cell=83.34-97.07 rowband=39.94-43.12 (9 of 9 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "MALFORMED DECIMAL, NOT REPAIRED. The amount cell reads verbatim 'In-Kind  $1,327,00' -- a COMMA where the decimal point belongs, confirmed at 900 dpi and not an artefact of the 200 dpi page render. CHUNK_BRIEF.md \u00a76 makes malformed decimals unparseable-BLANK and never repaired, and whitelists only the HANDWRITTEN decimal comma; this is a TYPED cell on a typed form, so it falls outside the whitelist and the amount is left BLANK with needs_review rather than silently corrected to 1327.00. This costs the record nothing arithmetically: the row is in-kind, this filer excludes in-kind from the total, and the seven monetary rows still close on the printed 3,500.00 exactly -- so the contributions side is NOT a floor."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/26/2016",
+   "vendor_raw": "Standard Examiner",
+   "purpose": "Advertisement",
+   "amount": "576.00",
+   "confidence": "medium",
+   "geometry": "pct:85.59,16.59,12.91,3.09@p3",
+   "geometry_frame": "p3 axis=y cell=85.59-98.50 rowband=16.59-19.68 (1 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "7/9/2016",
+   "vendor_raw": "Danette Pulley",
+   "purpose": "Ads & Election Night Supplies",
+   "amount": "300.00",
+   "confidence": "medium",
+   "geometry": "pct:85.59,19.68,12.91,3.08@p3",
+   "geometry_frame": "p3 axis=y cell=85.59-98.50 rowband=19.68-22.76 (2 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "7/14/2016",
+   "vendor_raw": "Marsha Murphey Graphics",
+   "purpose": "Campaign Graphics",
+   "amount": "675.00",
+   "confidence": "medium",
+   "geometry": "pct:85.59,22.76,12.91,3.06@p3",
+   "geometry_frame": "p3 axis=y cell=85.59-98.50 rowband=22.76-25.82 (3 of 3 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $ 3,500.00', which equals the cover's line-1 Totals For THIS REPORT (3,500.00); the line-1 Cumulative cell is 35,662.25 and is NOT itemized here",
+     "detail": "Form A carries 9 rows, of which SEVEN are monetary and TWO are labelled 'In-Kind' in the amount cell itself. BOTH in-kind conventions were tested, as the ratified basis rule requires. Monetary-only: 1000.00 + 100.00 + 50.00 + 100.00 + 1000.00 + 1000.00 + 250.00 = 3,500.00, which is EXACTLY the schedule's printed total and the cover's This-Report cell. In-kind-inclusive: 3,500.00 + 3,326.00 + 1,327.00 = 8,153.00, which matches nothing printed anywhere on the document. THIS FILER EXCLUDES IN-KIND FROM THE TOTALS -- the opposite of the convention CHUNK_BRIEF.md \u00a76 describes for weber's 4-line form, and a direct confirmation of the 2026-08-17 addendum's ruling that in-kind is PER-FILER, not a form property. The 2016 3-line form is also a different instrument: line 1 reads 'Total contributions from all donors' with no >$50 threshold and no separate <=$50 aggregate line, so the anchor is the single contrib_all cell and the line-1/line-2 basis rule does not apply. Period-scoped: the cover's Totals From Last Report column is populated (32,162.25), and 32,162.25 + 3,500.00 = 35,662.25 confirms the cover's own arithmetic. The two in-kind rows are RETAINED as rows with in_kind true and are correctly excluded from the reconciling sum."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): $ 1,551.00', which equals the cover's line-2 Totals For THIS REPORT (1,551.00); the line-2 Cumulative cell is 34,320.16 and is NOT itemized here",
+     "detail": "3 Form B rows on p3: 576.00 + 300.00 + 675.00 = 1,551.00 = the schedule's printed total = the cover's line-2 This-Report cell. Prior periods (32,769.16) are not itemized on this document. No expenditure row is labelled in-kind, so both conventions coincide on this side. Whole-cover cross-check of the filer's own arithmetic: 35,662.25 - 34,320.16 = 1,342.09, exactly the printed line-3 Cumulative Ending Balance; and the This-Report column's 3,500.00 - 1,551.00 = 1,949.00 matches its printed ending-balance cell."
+    }
+   },
+   "escalations": 1,
+   "escalation_note": "One escalation, on p2 row 9's amount cell: the 200 dpi full-page read showed 'In-Kind $1,327,00' with what looked like a comma where the decimal point belongs, and that had to be settled rather than assumed. A 900 dpi tight crop (pct:83.34,39.94,13.73,3.18@p2) confirms the glyph IS a comma -- the cell reads literally 'In-Kind  $1,327,00'. It is therefore a malformed decimal and is recorded BLANK with needs_review, never repaired (see the row note). The other crops taken were the mandatory geometry proofs.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 12,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "First transcription of this key (not a re-do). 2016 3-line form variant, and a DIFFERENT INSTRUMENT from the 2014 4-line form the rest of this chunk uses: line 1 is 'Total contributions from all donors' with no >$50 threshold and no separate <=$50 aggregate line, so the anchor is the single contrib_all cell and the line-1/line-2 basis rule of CHUNK_BRIEF.md \u00a73 simply does not apply here. FORM ORDER is conventional: p2 = Form A, p3 = Form B. The pages are UNROTATED LANDSCAPE (rows run top-to-bottom, axis 'y'), unlike the rotated 2014 sheets in the same chunk. THE FILING IS UNSIGNED AND UNDATED ON ITS FACE -- both signature lines and both date lines on the cover are blank, and there is no clerk RECEIVED stamp anywhere on the three pages; the index.csv date 2016-07-15 comes from the channel, not from the document. The checked box is 'July 28th: Final Statements are due from candidates who were eliminated in the Primary Election', so this is a post-primary final report for a candidate who did not advance. TWO SOURCE PROPERTIES WORTH RECORDING AS PRECEDENT: (1) this filer EXCLUDES in-kind contributions from the schedule total, the opposite of the convention CHUNK_BRIEF.md \u00a76 states for weber, which is why the addendum's per-filer in-kind test matters and both conventions were run; (2) the in-kind TAG is written inside the amount cell itself ('In-Kind  $3,326.00'), there being no in-kind column on this form. PRIVACY: Form A prints a full street address in its Address cell for seven donors; only the city component is carried, per PRIVACY.md. The form prints NO state column and this filer wrote no state anywhere, so donor_state is honestly BLANK on every row -- left out BY THE FORM AND THE FILER, not redacted by the county. Two donors' Address cell contains only 'SLC' with no street at all, which is the filer's own entry. Form B likewise has a City column and no state column, so vendor_state is blank by the form on all three rows. The cover's line-3 Ending Balance for the Last Report column is printed in accounting parentheses as (606.91) and is genuinely negative. COORDINATOR NOTE ON checkrec's REPORTED SUM: checkrec.py totals every stored contribution row and therefore prints 6,826.00 for this side (3,500.00 monetary + the 3,326.00 in-kind row + a BLANK for the malformed 1,327,00 in-kind row). That is NOT the figure recon claims and the mismatch is INTENDED, not a typo: the reconciling figure is the MONETARY-ONLY 3,500.00, because this filer excludes in-kind from the schedule total. Any rollup that compares stored rows against stated totals for weber must respect the per-filer in-kind convention recorded in recon.contributions.detail."
+  }
+ }
 }

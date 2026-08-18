@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:38:01Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Alvin Thurgood",
  "office_stated": "weber county commission seat A",
  "report_type_stated": "7 days before the candidates' convention - Convention",
@@ -44,5 +44,65 @@
   "expenditures": "medium",
   "ending_balance": "high"
  },
- "notes": "2026 FORM VARIANT - a redesigned 'Campaign Financial Summary' table (Total Contributions / Total Campaign Expenditures / Ending Balance x Last Report | This Report | Cumulative Total) plus a SEVEN-item Filing Schedule (Convention / May 26 Pre-Primary / June 16 Primary / Oct 6 Pre-General / Oct 27 General / Dec 3 Post-General / 30 days after withdrawal or elimination). HANDWRITTEN. The expenditure 'This Report' cell is LEFT BLANK here: the glyph is ambiguous between 0 and 2 even at 500dpi - not guessed; the CUMULATIVE cell reads 0.00 clearly. FILING DATE 3/25/26 IS LEGIBLE ON THE FORM but index.csv carries a blank date (needs_review=1) - see AVAILABILITY.md, this is a recoverable-attribution finding, not a source gap. County-redacted address and cell phone."
+ "notes": "2026 FORM VARIANT - a redesigned 'Campaign Financial Summary' table (Total Contributions / Total Campaign Expenditures / Ending Balance x Last Report | This Report | Cumulative Total) plus a SEVEN-item Filing Schedule (Convention / May 26 Pre-Primary / June 16 Primary / Oct 6 Pre-General / Oct 27 General / Dec 3 Post-General / 30 days after withdrawal or elimination). HANDWRITTEN. The expenditure 'This Report' cell is LEFT BLANK here: the glyph is ambiguous between 0 and 2 even at 500dpi - not guessed; the CUMULATIVE cell reads 0.00 clearly. FILING DATE 3/25/26 IS LEGIBLE ON THE FORM but index.csv carries a blank date (needs_review=1) - see AVAILABILITY.md, this is a recoverable-attribution finding, not a source gap. County-redacted address and cell phone.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1105",
+   "donor_raw": "Alvin Thurgood",
+   "donor_city": "North Ogden",
+   "amount": "3.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:15.68,4.70,3.20,10.71@p2",
+   "geometry_frame": "p2 axis=x cell=4.70-15.41 rowband=15.68-18.88 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Self-funding: the donor is the candidate. \u26a0 DATE KEPT VERBATIM AND UNPARSEABLE: the cell reads '1105' with no separators and no year \u2014 re-rendered at 1200 dpi and that is genuinely what is written. It is NOT expanded to 11/05, 1/1/05 or anything else, and no year is supplied from the report date; the build will blank it with needs_review, which is correct. The Address cell contains only the words 'North Ogden' \u2014 no street, so nothing was withheld under PRIVACY.md here, and no state was written by the filer."
+  }
+ ],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "the cover's line-1 Total Contributions cell, 3.00, which the cover carries identically in the This Report AND Cumulative Total columns (Last Report is blank)",
+     "detail": "Form A (p2) carries exactly ONE handwritten row, $3.00, and that equals the cover's This-Report and Cumulative contributions cells. \u26a0 THE SCHEDULE'S OWN 'Total Contributions: (to line 1 of report):' CELL IS A BARE DASH, not 3.00 \u2014 a nil mark where the filer should have carried his own single row forward. Per the zero-glyph ruling a bare dash is BLANK, not zero, so it cannot serve as the anchor and the cover's figure does instead; the row and the cover agree to the cent and the internal contradiction is the filer's, recorded not repaired. Row-count gate: 1 filled band of 23 measured, crop-proved, with the band above it confirmed to be the printed gray spacer."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "the cover's line-2 Total Campaign Expenditures cell in the Cumulative Total column, 0.00 \u2014 which the cover's own arithmetic independently proves (contributions 3.00 minus expenditures leaves the printed 3.00 ending balance, so expenditures must be 0.00)",
+     "detail": "The expenditure schedule is present and carries NO ENTRY: no date, no payee, no city, no purpose anywhere on it. Its Amount column's first data cell holds a lone handwritten '0.00' \u2014 a nil annotation the filer wrote in place of entries, exactly the class the contract treats as a 'None' banner, so it produces ZERO ROWS and the state is `empty-schedule`, not a row with a blank payee. Zero rows sum to 0.00, the cover's cumulative cell. \u26a0 Worth flagging for the coordinator: the cover's This-Report expenditure cell is ambiguous in the hand \u2014 it can be read as $2.00 as easily as $0.00 (the 2026 totals tranche recorded it BLANK for that reason) \u2014 and the arithmetic decides it, per the ruling that the document's own closure outranks a glyph read: 3.00 - X = 3.00 requires X = 0.00, and the Cumulative cell prints 0.00 outright."
+    }
+   },
+   "escalations": 8,
+   "escalation_note": "8 tight crops at 1200 dpi \u2014 necessary because this filing is entirely handwritten and, at $3.00 raised, has almost no arithmetic redundancy to fall back on. Four fixed the Form A band structure (the header band at [9.35,12.50], the printed gray spacer at [12.50,15.68] confirmed blank, and row 1 at [15.68,18.88] reproducing the handwritten $3.00, plus its date cell). Three probed the Form B amount strip on p3 and located the lone handwritten 0.00 in the first data cell with the cells either side of it empty. No escalation was spent trying to force the cover's bistable expenditure cell \u2014 that one is settled by the cover's own closure, not by resolution.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Alvin Thurgood, 'Weber County Commission Seat A' (handwritten), 2026 cycle, the \"7 days before the candidates' convention - Convention\" box ticked, signed 3/25/26 \u2014 a date index.csv leaves blank but which is legible on the form. By far the SMALLEST filing in the chunk: $3.00 raised, nothing spent, and the whole document is handwritten on the redesigned 2026 form. \u26a0 THE STRUCTURAL FACT TO RESPECT \u2014 this filing is FOUR pages because ITS FORM B IS SPLIT ACROSS TWO SCAN PAGES BY AN OFF-REGISTER SCAN, and neither page alone is the schedule. p4 carries the Date of Expenditure / Person or Organization / City / Purpose columns with the Amount column cut off past the page edge; p3 is almost entirely white paper with a narrow strip at the bottom holding the missing Amount column, whose first data cell has a lone handwritten 0.00. Read as one sheet they are a single EMPTY expenditure schedule with the filer's own zero annotation \u2014 an `empty-schedule` (the page exists and the filer entered nothing), NOT a `no-schedule-page` and NOT an unread side. Anyone re-reading this filing page-by-page will otherwise mis-classify p3 as a blank page and p4 as a schedule with no Amount column. Two more honest defects, both preserved rather than repaired: Form A's own 'Total Contributions' cell is a BARE DASH even though the schedule has a row in it (the cover's 3.00 is the anchor instead), and the single contribution's date is written '1105', which is not a date in any form the build can normalize. The candidate's street address, city/zip AND cell phone are all BLACKED OUT on the cover by the county before publication (the government's own redaction, preserved and not recovered, PRIVACY.md); the Home/Office phone line reads 'N/A' in the filer's hand."
+  }
+ }
 }

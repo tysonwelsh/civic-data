@@ -1,101 +1,173 @@
 {
-  "_meta": {
-    "index_path": "raw/2022/202206_JGrangerPrimaryFinancialCampaignReport.pdf",
-    "cache_key": "46f3a1d8",
-    "entity": "wasatch_county",
-    "election_year": "2022",
-    "reporting_period_index": "Primary/June 2022",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joey Diane Granger",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2022/202206_JGrangerPrimaryFinancialCampaignReport.pdf",
+  "cache_key": "46f3a1d8",
+  "entity": "wasatch_county",
+  "election_year": "2022",
+  "reporting_period_index": "Primary/June 2022",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_06.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "exact (0.00 = 0, cover line 1 (>$50, from form A), CUMULATIVE column)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey Granger, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/22/2022",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "450.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "450.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "-450.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "450.00",
+     "itemized": "450.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (450.00 = 450.00, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "450.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Form A blank vs cover line 1 = 0 — GATE PASSES. Form B 450.00 = cover line 3 cumulative — GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 1,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "carr_5_5_pg_4line, born-digital (typed). Joey Diane Granger, Wasatch County Clerk/Auditor, Republican, Heber UT; dated 6/22/2022. The cover face spells the candidate 'Joey Diane Granger' where index.csv publishes 'Joey D. Granger' (module rule 5 — resolve on full name). Cover line 4 prints only the cumulative cell (-450.00); the last-report and this-report balance cells are blank."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joey Diane Granger",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "addressee": {
+   "value": "Joey Granger, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/22/2022",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "450.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "450.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "-450.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2022-02-28",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fees",
+   "amount": "450.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "typed row, printed '2/28/2022'",
+   "geometry": "pct:6.00,7.90,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

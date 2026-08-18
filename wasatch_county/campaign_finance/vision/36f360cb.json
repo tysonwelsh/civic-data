@@ -1,107 +1,175 @@
 {
-  "_meta": {
-    "index_path": "raw/2022/202211_E.-Rowland-Financial-Disclosure.pdf",
-    "cache_key": "36f360cb",
-    "entity": "wasatch_county",
-    "election_year": "2022",
-    "reporting_period_index": "General 2022",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "contrib_gt50",
-      "contrib_le50",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Erik Kim Rowland",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2022/202211_E.-Rowland-Financial-Disclosure.pdf",
+  "cache_key": "36f360cb",
+  "entity": "wasatch_county",
+  "election_year": "2022",
+  "reporting_period_index": "General 2022",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "contrib_gt50",
+   "contrib_le50",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_06.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "2 (the form's own 'Page 3')",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "",
+     "result": "unknown",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "the document has no such schedule page"
     },
-    "district_verbatim": {
-      "value": "Seat C",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey Granger, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "Nov 1, 2022",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "202.16",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "202.16",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "-202.16",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "-202.16",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "202.16",
+     "itemized": "202.16",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (202.16 = 202.16, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "202.16",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Form B prints no TOTAL row; cover cumulative expense 202.16 = the one row — GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 1,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "carr_5_5_pg_4line, born-digital (typed). Erik Kim Rowland, County Council Seat C, Republican, Heber City UT; dated Nov 1, 2022. Same 2-page structure as his June filing (key fbc0bda2): cover ('Page 1') + Form B ('Page 3'); Form A ('Page 2') and the statute page were not scanned. This is a CUMULATIVE-regime sheet and the Form B row is the same 3/02/22 filing-fee row that appeared on the June report — do not add the two reports together."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Erik Kim Rowland",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. Identical stated figures to his June 2022 report \u2014 a cumulative restatement."
+  "district_verbatim": {
+   "value": "Seat C",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey Granger, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "Nov 1, 2022",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "202.16",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "202.16",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "-202.16",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "-202.16",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. Identical stated figures to his June 2022 report — a cumulative restatement.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2022-03-02",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing fees",
+   "amount": "202.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "typed row, printed '03/02/22'; identical to the row on the June primary filing (cumulative sheet)",
+   "geometry": "pct:6.00,7.90,88.00,2.28@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

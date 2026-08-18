@@ -1,70 +1,318 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_ColleenBonner.pdf",
-    "cache_key": "4ceb78a0",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Colleen Bonner",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_ColleenBonner.pdf",
+  "cache_key": "4ceb78a0",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4950.00",
+     "itemized": "4950.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (4950.00 = 4950.00, published stated total)",
+     "published_stated": "4950.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "district_verbatim": {
-      "value": "Seat B",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6-18-2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "4950.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "2444.49",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "2505.51",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2444.49",
+     "itemized": "2444.49",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2444.49 = 2444.49, published stated total)",
+     "published_stated": "2444.49",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: 4950.00 = 4000.00+500.00+100.00+150.00+100.00+100.00 = 4,950.00 — GATE PASSES. Table B TOTAL: 2444.49 = 53.78+434.50+290.55+1,134.38+531.28 = 2,444.49 — GATE PASSES. Cover identity: 4,950.00 - 2,444.49 = 2,505.51 = printed balance — closes.",
+   "escalations": 3,
+   "escalation_note": "600 dpi column crops of the Table A date column, the Table B date column and the Table B amount column (all handwritten).",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 5,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, handwritten. Cover: Colleen Bonner, Wasatch County Council Seat B, Republican, Midway UT; Primary Report box checked; signed 6-18-2024; both acknowledgement lines initialled 'CCB'. THE WHOLE DATE COLUMN CARRIES NO YEAR — every one of the eleven date cells is written month-day only ('4-20', '3-26', …). Per the date rule a cell with no year printed is BLANK with needs_review, and a year is NEVER filled in from the report date, so all eleven dates are blank and the verbatim string is preserved in each row note. This is the single largest quality caveat on this filing and the reason every row carries needs_review=1 despite both money gates closing exactly. RHODES RULE: Table B's last amount reads 531.78 or 531.28 at 200 dpi and 531.28 is the only value on which the printed 2,444.49 closes — .28 wins; likewise 434.50, 290.55 and 1,134.38 are gated by that same total. FIELD-SHIFT SCREEN: passed both sides — 6 dates/6 names/6 amounts in Table A, 5/5/5/5 in Table B including its purpose column. Table A has no address column on this variant, so donor_city/state are blank by form design. Note the first Table A date's '4' is heavily overwritten/traced by the filer."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Colleen Bonner",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "district_verbatim": {
+   "value": "Seat B",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6-18-2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "4950.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "2444.49",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "2505.51",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "donor_raw": "Steve & Colleen Bonner",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "4000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '4-20' — NO YEAR, so left blank; the leading 4 is traced over twice. Donor is the candidate and her spouse, as written",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "donor_raw": "Bill Probst",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "note": "date cell printed '4-22' — NO YEAR, left blank",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "",
+   "donor_raw": "Johnny & Donna Wetzel",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "note": "date cell printed '5-13' — NO YEAR, left blank",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "",
+   "donor_raw": "Dave & Kay Phillips",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "note": "date cell printed '5-25' — NO YEAR, left blank",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "",
+   "donor_raw": "Kelsey Berg",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "note": "date cell printed '5-21' — NO YEAR, left blank",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "",
+   "donor_raw": "Jessica Jones",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "note": "date cell printed '5-13' — NO YEAR, left blank",
+   "geometry": "pct:5.00,30.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Campaign Add",
+   "amount": "53.78",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '3-26' — NO YEAR, left blank. Purpose kept verbatim as 'Campaign Add' (the filer's spelling of 'ad')",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "",
+   "vendor_raw": "Wasatch Back Signs",
+   "purpose": "Signs",
+   "amount": "434.50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '3-27' — NO YEAR, left blank. Amount cents gated by the Table B total",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "",
+   "vendor_raw": "Wasatch Back Signarama",
+   "purpose": "Stickers + Signs",
+   "amount": "290.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '4-4' — NO YEAR, left blank (both digits are this filer's two-stroke 4)",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "",
+   "vendor_raw": "WB Signarama",
+   "purpose": "Signs",
+   "amount": "1134.38",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '5-6' — NO YEAR, left blank. Amount printed without a thousands comma",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "",
+   "vendor_raw": "WB Signarama",
+   "purpose": "Signs",
+   "amount": "531.28",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "note": "date cell printed '6-6' — NO YEAR, left blank. Cents glyph reads 78 or 28; the printed TOTAL 2,444.49 closes only on 28 (Rhodes rule)",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

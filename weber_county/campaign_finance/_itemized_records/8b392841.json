@@ -1,0 +1,527 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_741f163c.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "8b392841",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 66,500.00', which equals the cover's This-Report AND Cumulative line-1 cells (both 66,500.00)",
+    "detail": "6 Form A rows: 53,000.00 + 500.00 + 2,500.00 + 5,000.00 + 5,000.00 + 500.00 = 66,500.00 = the schedule's own printed total. The cover's Totals-from-Last-Report cells are a handwritten circled 0 on all three lines, so This Report == Cumulative and this first report of the cycle restates the whole account \u2014 `exact`, not period-exact. Row-count gate: 6 filled bands of 23 measured; rows 1, 6 and the first empty band were crop-proved. 2026 is a 3-line form with a single Total Contributions cell and no separate <=$50 aggregate line."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 52,916.62', which equals the cover's This-Report AND Cumulative line-2 cells (both 52,916.62)",
+    "detail": "14 Form B rows: 931.39 + 221.14 + 100.00 + 108.98 + 307.85 + 107.23 + 293.76 + 17,000.00 + 277.67 + 16,500.40 + 16,500.00 + 263.08 + 5.12 + 300.00 = 52,916.62 = the schedule's own printed total and both cover cells. Row-count gate: 14 filled bands of 23 measured; rows 1, 8, 14 and the first empty band were crop-proved. Line 3 closes: 66,500.00 - 52,916.62 = 13,583.38, the printed ending balance."
+   }
+  },
+  "escalations": 11,
+  "escalation_note": "11 crops at 900 dpi. \u26a0 FOUR OF THEM WERE WASTED ON A TOOLING TRAP THAT IS ITSELF THE MAIN FINDING OF THIS FILING, recorded here as precedent: pages 2 and 3 of this PDF carry **/Rotate 270** (pdfinfo: 612x792 pts, rot 270), so poppler renders them LANDSCAPE 2200x1700 while scripts/campaign_finance/make_snippet.py computes its pct box against the UNROTATED 612x792 MediaBox. The two coordinate systems therefore disagree by the aspect swap (render_x% = mediabox_x% x 8.5/11), and a make_snippet crop of the Amount column returned the Address column instead. Worse, the right ~23% of a rotated page is UNREACHABLE through make_snippet at all: the Amount band here starts at render x 85.23%, which would need mediabox x 110% > 100. The wave contract says pct is 'always of the page AS POPPLER RENDERS IT (rotation included)', so THIS RECORD STORES RENDER-SPACE PCT as required \u2014 but nobody should expect make_snippet to resolve it on these two pages until that script learns about /Rotate. It is shared and frozen this phase, so it was NOT touched; the seven verification crops were taken with a scratchpad pdftoppm+PIL cropper that works in render space, and they reproduced $53,000.00 / $500.00 / empty on p2 rows 1/6/7 and $931.39 / $17,000.00 / $300.00 / empty on p3 rows 1/8/14/15.",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/4/2026",
+    "donor_raw": "James Ebert",
+    "donor_city": "Farr West",
+    "donor_state": "UT",
+    "amount": "53000.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Self-funding: the donor is the candidate, and this single row is 80% of everything he raised. The street portion of the address is BLACKED OUT by the county before publication; the city/state/zip print in the clear beside the bar and only city/state are carried (PRIVACY.md)."
+   },
+   {
+    "line_no": "2",
+    "date": "3/7/2026",
+    "donor_raw": "Kathie Darby",
+    "donor_city": "ogden",
+    "amount": "500.00",
+    "needs_review": 1,
+    "page": 2,
+    "row": 2,
+    "confidence": "low",
+    "in_kind": false,
+    "note": "\u26a0 CITY PARTLY UNDER THE COUNTY'S REDACTION: this row's whole printed address block is blacked out, and a later BLUE HANDWRITTEN annotation adds a city and zip beside it. What survives reads 'ogden 84403' (lower case, as written) but at least one character immediately before it is hidden under the black bar \u2014 the neighbouring 84403 rows on this sheet say 'South Ogden', so the hidden character may be an abbreviation. Recorded exactly as legible, flagged, and NOT completed; no state was written at all."
+   },
+   {
+    "line_no": "3",
+    "date": "3/7/2026",
+    "donor_raw": "Northern Wasatch Association of Realtors",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Street redacted by the county; city/state print in the clear."
+   },
+   {
+    "line_no": "4",
+    "date": "3/7/2026",
+    "donor_raw": "Suzanne Lindquist",
+    "donor_city": "SOUTH OGDEN",
+    "amount": "5000.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Printed address block redacted by the county; the city and zip come from a BLUE HANDWRITTEN annotation added beside the bar, reading 'SOUTH OGDEN, 84403' in caps (kept verbatim). No state was written."
+   },
+   {
+    "line_no": "5",
+    "date": "3/31/2026",
+    "donor_raw": "Gage Froerer Campaign Fund",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "A transfer from the campaign fund of the SITTING WEBER COUNTY COMMISSION CHAIR \u2014 recorded as printed; no relationship is asserted here beyond what the form says."
+   },
+   {
+    "line_no": "6",
+    "date": "3/31/2026",
+    "donor_raw": "James Harvey",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Crop-proved as the last filled row. Same name as the sitting Vice Chair of the Commission (and as the 2016 filer at key 1813f430); the form gives no further identifier, so no identity is asserted."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/4/2026",
+    "vendor_raw": "Weber County",
+    "purpose": "Campaign Expense:  Filing Fee",
+    "amount": "931.39",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'. Purpose kept verbatim including the filer's double space after the colon."
+   },
+   {
+    "line_no": "2",
+    "date": "2/3/2026",
+    "vendor_raw": "River Print",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "221.14",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "3",
+    "date": "2/4/2026",
+    "vendor_raw": "Weber County",
+    "purpose": "Campaign Expense:  Voter Data",
+    "amount": "100.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "4",
+    "date": "2/6/2026",
+    "vendor_raw": "Riverprint",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "108.98",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'. Vendor spelled as one word here and 'River Print' on the filer's other six rows; both kept verbatim, not normalized."
+   },
+   {
+    "line_no": "5",
+    "date": "2/16/2026",
+    "vendor_raw": "Staples",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "307.85",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Riverdale'."
+   },
+   {
+    "line_no": "6",
+    "date": "3/2/2026",
+    "vendor_raw": "River Print",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "107.23",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "7",
+    "date": "3/2/2026",
+    "vendor_raw": "River Print",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "293.76",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'. Second River Print row on the same date; kept as two rows."
+   },
+   {
+    "line_no": "8",
+    "date": "3/4/2026",
+    "vendor_raw": "Empower Public Affairs",
+    "purpose": "Signature Gathering",
+    "amount": "17000.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Salt Lake'. Crop-proved. One of three signature-gathering payments to this vendor totalling 50,000.40 \u2014 95% of everything the campaign spent."
+   },
+   {
+    "line_no": "9",
+    "date": "3/17/2026",
+    "vendor_raw": "River Print",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "277.67",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "10",
+    "date": "3/20/2026",
+    "vendor_raw": "Empower Public Affairs",
+    "purpose": "Signature Gathering",
+    "amount": "16500.40",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Salt Lake'. Note the .40 cents against line 11's identical 16,500.00 \u2014 read separately and both retained as printed."
+   },
+   {
+    "line_no": "11",
+    "date": "3/31/2026",
+    "vendor_raw": "Empower Public Affairs",
+    "purpose": "Signature Gathering",
+    "amount": "16500.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Salt Lake'."
+   },
+   {
+    "line_no": "12",
+    "date": "3/31/2026",
+    "vendor_raw": "River Print",
+    "purpose": "Supplies:  Printed Materials",
+    "amount": "263.08",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "13",
+    "date": "4/1/2026",
+    "vendor_raw": "Amazon",
+    "purpose": "Campaign Expense:  Meet the Candidate (Mints)",
+    "amount": "5.12",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The City cell is EMPTY on this row \u2014 left blank by the filer (the only such row on the sheet), not redacted."
+   },
+   {
+    "line_no": "14",
+    "date": "4/1/2026",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Advertising:  Convention Booth",
+    "amount": "300.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'. Crop-proved as the last filled row."
+   }
+  ],
+  "notes": "James Ebert, 'Commission - Seat A', 2026 cycle, the \"7 days before the candidates' convention - Convention\" box ticked, signed 4/3/2026 \u2014 a date index.csv leaves blank but which is legible on the form. Page order is form order: cover p1, Form A p2, Form B p3. Both sides close EXACTLY to their own printed totals and to the cover, and because the cover's Totals-from-Last-Report cells are a handwritten circled 0 on all three lines, This Report == Cumulative: this is the account's first report and the schedules are the whole cycle to date, not a period slice. \u26a0 THE TOOLING FINDING THIS FILING PRODUCED \u2014 worth carrying as precedent: pages 2 and 3 carry /Rotate 270, so poppler renders them landscape while make_snippet.py's pct box is computed against the unrotated MediaBox; the two disagree by the aspect swap and the Amount column of these sheets is literally unaddressable through make_snippet (it would need mediabox x > 100%). The frames above are stored in RENDER space as the wave contract requires, and were verified with a render-space cropper instead. scripts/campaign_finance/* was not touched. Everything on both schedules is TYPED except the cover's Last-Report zeros and two blue handwritten address annotations on Form A. The county BLACKED OUT every donor street address on Form A before publishing \u2014 its own redaction, preserved and not recovered \u2014 and on the two rows where the bar swallowed the city as well, someone added the city and zip by hand in blue beside it; on line 2 that handwriting is still partly under the bar and is flagged rather than completed. The candidate's own street address on the cover is redacted the same way. Two of the six donors are the SITTING county commissioners' campaign vehicles (Gage Froerer Campaign Fund; a 'James Harvey'), recorded as printed with no identity asserted.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     85.23,
+     95.89
+    ],
+    "cells": [
+     [
+      4.7,
+      12.86
+     ],
+     [
+      12.86,
+      43.16
+     ],
+     [
+      43.16,
+      85.23
+     ],
+     [
+      85.23,
+      95.89
+     ]
+    ],
+    "rows": [
+     [
+      16.62,
+      19.79
+     ],
+     [
+      19.79,
+      23.0
+     ],
+     [
+      23.0,
+      26.18
+     ],
+     [
+      26.18,
+      29.29
+     ],
+     [
+      29.29,
+      32.47
+     ],
+     [
+      32.47,
+      35.56
+     ],
+     [
+      35.56,
+      38.68
+     ],
+     [
+      38.68,
+      41.82
+     ],
+     [
+      41.82,
+      44.97
+     ],
+     [
+      44.97,
+      48.15
+     ],
+     [
+      48.15,
+      51.35
+     ],
+     [
+      51.35,
+      54.44
+     ],
+     [
+      54.44,
+      57.53
+     ],
+     [
+      57.53,
+      60.56
+     ],
+     [
+      60.56,
+      63.56
+     ],
+     [
+      63.56,
+      66.62
+     ],
+     [
+      66.62,
+      69.68
+     ],
+     [
+      69.68,
+      72.76
+     ],
+     [
+      72.76,
+      75.85
+     ],
+     [
+      75.85,
+      78.97
+     ],
+     [
+      78.97,
+      82.06
+     ],
+     [
+      82.06,
+      85.15
+     ],
+     [
+      85.15,
+      88.15
+     ]
+    ],
+    "measure_note": "The page carries /Rotate 270 and RENDERS LANDSCAPE (2200x1700 at 200 dpi); all percentages here are of that rendered page, per the wave contract. In render space the table is upright with the columns running left-to-right, so axis='y'. COLUMNS are rowbands' v_rules, clean: 4.70 / 12.86 / 43.16 / 85.23 / 95.89 = left border, Date | Name of Contributor | Address | Amount, right border; cell = [85.23,95.89]. ROWS are rowbands' h_rules with the non-row detections named and removed: 8.15 is the rule under the sheet title, 10.47-13.53 the column-header band, 13.53-16.62 the printed gray strip below it, and 24.82 / 25.47 are two spurious edges thrown by the BLUE HANDWRITTEN annotation in rows 2-4 (they break the otherwise constant 3.15 pitch). What remains \u2014 16.62 / 19.79 / 23.00 / 26.18 / 29.29 / 32.47 / 35.56 / 38.68 / 41.82 / 44.97 / 48.15 / 51.35 / 54.44 / 57.53 / 60.56 / 63.56 / 66.62 / 69.68 / 72.76 / 75.85 / 78.97 / 82.06 / 85.15 / 88.15 \u2014 is 24 rules giving 23 bands, 6 of them filled. Rows 1 and 6 and the first empty band were crop-proved in render space. No band was extrapolated."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     77.7,
+     86.45
+    ],
+    "cells": [
+     [
+      6.68,
+      43.05
+     ],
+     [
+      43.05,
+      51.86
+     ],
+     [
+      51.86,
+      77.7
+     ],
+     [
+      77.7,
+      86.45
+     ]
+    ],
+    "rows": [
+     [
+      26.12,
+      28.76
+     ],
+     [
+      28.76,
+      31.47
+     ],
+     [
+      31.47,
+      34.18
+     ],
+     [
+      34.18,
+      36.88
+     ],
+     [
+      36.88,
+      39.59
+     ],
+     [
+      39.59,
+      42.24
+     ],
+     [
+      42.24,
+      44.88
+     ],
+     [
+      44.88,
+      47.53
+     ],
+     [
+      47.53,
+      50.18
+     ],
+     [
+      50.18,
+      52.82
+     ],
+     [
+      52.82,
+      55.53
+     ],
+     [
+      55.53,
+      58.18
+     ],
+     [
+      58.18,
+      60.94
+     ],
+     [
+      60.94,
+      63.65
+     ],
+     [
+      63.65,
+      66.35
+     ],
+     [
+      66.35,
+      69.0
+     ],
+     [
+      69.0,
+      71.71
+     ],
+     [
+      71.71,
+      74.29
+     ],
+     [
+      74.29,
+      76.94
+     ],
+     [
+      76.94,
+      79.62
+     ],
+     [
+      79.62,
+      82.35
+     ],
+     [
+      82.35,
+      85.0
+     ],
+     [
+      85.0,
+      87.71
+     ]
+    ],
+    "measure_note": "Same /Rotate 270 landscape render as p2; percentages are of the rendered page. COLUMNS: rowbands returns only four v_rules here \u2014 6.68 (left border), 43.05 (Person|City), 51.86 (City|Purpose), 86.45 (right border) \u2014 missing both the Date|Person rule (~13.2) and the Purpose|Amount rule. The Amount band's left edge was therefore measured directly off a render-space crop of x 74-88%, which shows the column rule at 77.70; cell = [77.70,86.45], confirmed by three amount crops landing cleanly inside it. `cells` records only the bands that were actually measured, so its first entry spans Date AND Person together rather than claiming a rule that was not found. ROWS are rowbands' h_rules: 15.41 is the rule under the sheet title, 18.12-23.41 the DOUBLE-HEIGHT column-header band (the 'Date of Expenditure' and 'Person or Organization...' headers both wrap to two lines), 23.41-26.12 the printed gray strip, and the 23 bands from [26.12,28.76] at a 2.66 pitch are the data rows, 14 of them filled. Rows 1, 8, 14 and the first empty band were crop-proved. No band was extrapolated."
+   }
+  }
+ }
+]

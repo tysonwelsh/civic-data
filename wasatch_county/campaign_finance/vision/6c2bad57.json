@@ -1,78 +1,183 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_J-Granger.pdf",
-    "cache_key": "6c2bad57",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joey D. Granger",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_J-Granger.pdf",
+  "cache_key": "6c2bad57",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0, published stated total)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Clerk/Auditor",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "Wasatch County",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/16/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "1241.67",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "-1241.67",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "1241.67",
+     "itemized": "1241.67",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (1241.67 = 1241.67, published stated total)",
+     "published_stated": "1241.67",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL cell is EMPTY; a slashed zero sits in the Amount cell of row slot 0 with no name and no date — read as the filer's nil mark, no rows. Table B TOTAL: 1,241.67 = rows 1,241.67 — GATE PASSES (only on the 853.57 reading; 853.51 would leave a -0.06 delta).",
+   "escalations": 1,
+   "escalation_note": "p2 Table B amount column, 600 dpi cell crop over row slots 0-1 to settle the final digit of 853.5?",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 3,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 3,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten on the 2026 Table A/B sheet. Cover: Primary Report box checked; clerk RCVD stamp 'JUN 16 26 AM'; signed 6/16/2026; cover line 1 is a slashed zero, line 2 1241.67, line 3 -1241.67. RHODES-RULE CALL on Table B row 1: the amount reads '853.5' plus a final digit written as a bare top-bar-and-downstroke. At 600 dpi the glyph is an open-top 7 (no crossbar), and only 853.57 makes the three rows sum to the filer's own printed TOTAL of 1,241.67; 853.51 misses by 0.06. Reading accepted as 853.57 on the arithmetic, per gate (c). Table B row 1 is not a real vendor line — the filer entered the date as 'QTR 1' and the payee as 'Previous', i.e. an aggregate carry-forward of prior-quarter spending, with no purpose given; transcribed verbatim with a blank date (no month/day/year parseable) and flagged. Note this makes the report partly cumulative even though the 2026 sheet is period-scoped."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joey D. Granger",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Clerk stamp JUN 16 '26."
+  "office_verbatim": {
+   "value": "Clerk/Auditor",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "Wasatch County",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/16/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "1241.67",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "-1241.67",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Clerk stamp JUN 16 '26.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "",
+   "vendor_raw": "Previous",
+   "purpose": "",
+   "amount": "853.57",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim 'QTR 1' — not a parseable date, left BLANK. Payee cell printed verbatim 'Previous' — an aggregate carry-forward line, not a named vendor. Amount printed '853.5' + an open-top 7; 600 dpi crop re-read confirms the 7, and 853.57 is the only reading that closes the printed TOTAL of 1,241.67 (arithmetic outranks glyph). Purpose cell blank.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-06-05",
+   "vendor_raw": "K&K Printing",
+   "purpose": "Signs & Stickers",
+   "amount": "209.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "date printed '6/05/2026'; payee written 'K&K Printing' (ampersand handwritten); purpose written 'Signs & Stickers'. Amount re-read in the same 600 dpi crop",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-06-05",
+   "vendor_raw": "Meta",
+   "purpose": "Facebook Ads",
+   "amount": "178.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '6/05/2026'",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

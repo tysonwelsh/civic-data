@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Lynelle Jensen",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "7 days before convention",
@@ -44,5 +44,209 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2024 form. The summary block runs onto the SECOND page of the filing (p5 of the archive PDF) - read there; the cover page (p4) carries only the column headers. That copy's columns are headed 'Last Report | This Report | Totals:'. County-redacted address."
+ "notes": "Typed 2024 form. The summary block runs onto the SECOND page of the filing (p5 of the archive PDF) - read there; the cover page (p4) carries only the column headers. That copy's columns are headed 'Last Report | This Report | Totals:'. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/1/2024",
+   "donor_raw": "Rusty and Lynelle Jensen",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:15.44,5.05,3.09,10.70@p6",
+   "geometry_frame": "p6 axis=x cell=5.05-15.75 rowband=15.44-18.53 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Typed schedule row. The filer wrote a street address in the Address cell; it is deliberately NOT carried (PRIVACY.md: donor city/state only), and the city/state here come from that same cell as the filer wrote them. This is the candidate's own household (self-funding), stated as one donor line by the filer and kept as one row."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/4/2024",
+   "vendor_raw": "Weber County",
+   "purpose": "Filing Fee",
+   "amount": "748.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:20.56,2.93,3.12,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=20.56-23.68 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "2",
+   "date": "2/21/2024",
+   "vendor_raw": "Weber County GOP",
+   "purpose": "Convention table donation",
+   "amount": "140.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:23.68,2.93,3.06,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=23.68-26.74 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "3",
+   "date": "3/7/2024",
+   "vendor_raw": "Ryan Arbon",
+   "purpose": "Lincoln Day Table",
+   "amount": "83.33",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:26.74,2.93,3.11,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=26.74-29.85 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "4",
+   "date": "3/16/2024",
+   "vendor_raw": "Fedex",
+   "purpose": "Copies for lanyards",
+   "amount": "10.83",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:29.85,2.93,3.06,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=29.85-32.91 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "5",
+   "date": "3/16/2024",
+   "vendor_raw": "Costco",
+   "purpose": "Candy - Meet the Candid",
+   "amount": "20.51",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:32.91,2.93,3.06,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=32.91-35.97 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden. The purpose text runs to the edge of the printed cell and ends mid-word ('Candid'); transcribed exactly as printed, not completed."
+  },
+  {
+   "line_no": "6",
+   "date": "3/19/2024",
+   "vendor_raw": "Weber State University Printing",
+   "purpose": "Printing Flyers",
+   "amount": "23.33",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:35.97,2.93,3.06,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=35.97-39.03 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "7",
+   "date": "3/23/2024",
+   "vendor_raw": "Robert Casey",
+   "purpose": "Photo Shoot",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:39.03,2.93,3.12,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=39.03-42.15 (7 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "8",
+   "date": "4/3/2024",
+   "vendor_raw": "Costco",
+   "purpose": "Water bottles - Meet the",
+   "amount": "18.52",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:42.15,2.93,3.00,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=42.15-45.15 (8 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden. Purpose text runs to the edge of the printed cell and stops there; transcribed exactly as printed, not completed."
+  },
+  {
+   "line_no": "9",
+   "date": "4/4/2024",
+   "vendor_raw": "Stone Mountain Press",
+   "purpose": "Printing Flyers",
+   "amount": "26.81",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:45.15,2.93,3.11,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=45.15-48.26 (9 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "10",
+   "date": "4/4/2024",
+   "vendor_raw": "Carls Store",
+   "purpose": "Ice",
+   "amount": "6.15",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.26,2.93,3.12,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=48.26-51.38 (10 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden. 'Carls' is the filer's own spelling (no apostrophe), retained verbatim."
+  },
+  {
+   "line_no": "11",
+   "date": "4/8/2024",
+   "vendor_raw": "Brad Kapple",
+   "purpose": "Creamies",
+   "amount": "112.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:51.38,2.93,3.09,10.71@p7",
+   "geometry_frame": "p7 axis=x cell=2.93-13.64 rowband=51.38-54.47 (11 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "6",
+   "itemized_pages_B": "7",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 1,500.00, equal to BOTH the summary block's This-Report and Totals (cumulative) line-1 cells (1,500.00)",
+     "detail": "The single Form A row (Rusty and Lynelle Jensen, 1,500.00) sums to 1,500.00 = the schedule's printed total = the cover's cumulative cell. The 'Last Report' column is empty on line 1 (this is the first report of the cycle - the '7 days before convention' box is checked and that report starts January 1, 2024), so this-report and cumulative coincide."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 1,440.18, equal to BOTH the This-Report and Totals (cumulative) line-2 cells (1,440.18)",
+     "detail": "11 Form B rows: 748.20 + 140.00 + 83.33 + 10.83 + 20.51 + 23.33 + 250.00 + 18.52 + 26.81 + 6.15 + 112.50 = 1,440.18, to the cent. Line-2's 'Last Report' cell is a bare dash, so cumulative equals this report. Ending balance closes independently: 1,500.00 - 1,440.18 = 59.82 = the printed line-3 figure."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "900 dpi --value crops to prove the extrapolated row grids: p6 band 1 x the Amount column (reproduces 1,500.00) after a first exploratory crop showed the header/shade strips, and p7 bands 1 and 11 x the Amount column (reproduce 748.20 and 112.50). One crop initially landed on p7's HEADER strip and was corrected: Form B's header strip is ~2x the row pitch wide (its 'Date of Expenditure' label sets two lines), while Form A's single-line header strip is exactly one pitch - a real difference between the two sheets, recorded here because it is easy to mis-index. No amount was ever in doubt; both printed schedule totals gated the sides.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 11,
+   "geometry": {
+    "measured": 12,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "TYPED 2024 form, four pages: p4 cover (name/office/report-type checkboxes/signature) whose three-column summary block is CUT OFF at the foot - only the 'Totals from + Totals for = Cumulative' headings print there; the summary figures themselves are on p5, where that copy heads the columns 'Last Report | This Report | Totals:'. Page position is not the form order here either: the money block is a page later than its own headings. FORM A on p6, FORM B on p7, both bound rotated. The candidate's street address on p4 is BLACKED OUT BY THE COUNTY (a government-applied redaction, preserved, not a value the filer left empty); nothing behind it is recovered. No per-page SUBTOTAL is printed on either schedule - each prints one grand total at its foot, and that is the gate. No in-kind row and no negative amount on either schedule."
+  }
+ }
 }

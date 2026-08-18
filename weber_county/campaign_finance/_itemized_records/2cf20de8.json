@@ -1,0 +1,1934 @@
+[
+ {
+  "index_path": "raw/wayback/wb20160824031502_16June_Harvey_Commission.pdf",
+  "page_start": 1,
+  "page_end": 6,
+  "key": "2cf20de8",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "itemized_pages_A": "2,3",
+  "itemized_pages_B": "4,5,6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 45,628.87' on p3, equal to the cover's Cumulative Totals cell (45,628.87)",
+    "detail": "43 Form A rows (27 on p2 + 16 on p3) sum to 45,628.87 exactly (p2 25,258.87 + p3 20,370.00) = the schedule's printed grand total = the cover's This Report AND Cumulative cells, which are identical on this filing (Totals from Last Report is blank - this is the first 2016 report). 2016 is the 3-line form variant, so there is no separate <=$50 aggregate line: the single contrib_all cell is the anchor. In-kind convention tested: the three filer-labelled in-kind rows (supplies/merchandise donations, 268.88 + 214.56 + 685.44) are INCLUDED - excluding them would leave 44,459.99 and miss the printed total by 1,168.88, so the monetary-plus-in-kind convention is the one that closes."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 45,053.32' on p6, equal to the cover's Cumulative Totals cell (45,053.32)",
+    "detail": "70 Form B rows (27 on p4 + 32 on p5 + 11 on p6) sum to 45,053.32 exactly (p4 12,752.22 + p5 12,676.16 + p6 19,624.94) = the schedule's printed grand total = the cover's This Report AND Cumulative cells. No per-sheet subtotals are printed on this filing; the gate is the multi-sheet sum against the grand total on the last sheet."
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "Six 900 dpi tight --value crops, all geometry-indexing proofs rather than legibility escalations (the scan is a clean born-digital-quality print): p2 row 1 rendered 100.00, p3 row 16 rendered 10,000.00, p4 row 1 rendered 315.00, p5 row 32 rendered 2,688.38, p6 row 11 rendered 5,897.90 (a first attempt at 29.06 y-offset clipped the neighbour and was re-cut at the rule-derived 30.06 band, which rendered the row cleanly).",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     83.48,
+     93.66
+    ],
+    "cells": [
+     [
+      6.07,
+      14.5
+     ],
+     [
+      14.5,
+      43.32
+     ],
+     [
+      43.32,
+      83.48
+     ],
+     [
+      83.48,
+      93.66
+     ]
+    ],
+    "rows": [
+     [
+      14.62,
+      17.65
+     ],
+     [
+      17.65,
+      20.65
+     ],
+     [
+      20.65,
+      23.68
+     ],
+     [
+      23.68,
+      26.71
+     ],
+     [
+      26.71,
+      29.74
+     ],
+     [
+      29.74,
+      32.76
+     ],
+     [
+      32.76,
+      35.76
+     ],
+     [
+      35.76,
+      38.79
+     ],
+     [
+      38.79,
+      41.79
+     ],
+     [
+      41.79,
+      44.79
+     ],
+     [
+      44.79,
+      47.82
+     ],
+     [
+      47.82,
+      50.76
+     ],
+     [
+      50.76,
+      53.71
+     ],
+     [
+      53.71,
+      56.62
+     ],
+     [
+      56.62,
+      59.56
+     ],
+     [
+      59.56,
+      62.53
+     ],
+     [
+      62.53,
+      65.44
+     ],
+     [
+      65.44,
+      68.41
+     ],
+     [
+      68.41,
+      71.32
+     ],
+     [
+      71.32,
+      74.29
+     ],
+     [
+      74.29,
+      77.24
+     ],
+     [
+      77.24,
+      80.18
+     ],
+     [
+      80.18,
+      83.12
+     ],
+     [
+      83.12,
+      86.06
+     ],
+     [
+      86.06,
+      89.0
+     ],
+     [
+      89.0,
+      91.94
+     ],
+     [
+      91.94,
+      94.94
+     ]
+    ],
+    "measure_note": "Portrait-rendered landscape sheet, rows advance top-to-bottom so axis=y: ROW bands are the horizontal rules (h_rules_pct), COLUMN bands the vertical ones. h_rules[0]=6.29 is the thick rule under the title, [1]=8.65 the table top, [2]=11.62 the header-row bottom and [3]=14.62 the bottom of the narrow blank spacer row the form prints above the data; all four are NON-DATA bands and were trimmed, so the 27 stored bands run h_rules[3..30] and are index-aligned with the 27 printed data rows. cell is the AMOUNT column ([83.48,93.66], the 4th of 4 v_rules bands), not the name column. PROOF (A3): pct:83.48,14.62,10.18,3.03@p2 rendered '100.00' = row 1's recorded amount."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     83.59,
+     93.75
+    ],
+    "cells": [
+     [
+      6.18,
+      14.59
+     ],
+     [
+      14.59,
+      43.45
+     ],
+     [
+      43.45,
+      83.59
+     ],
+     [
+      83.59,
+      93.75
+     ]
+    ],
+    "rows": [
+     [
+      0.68,
+      3.59
+     ],
+     [
+      3.59,
+      6.53
+     ],
+     [
+      6.53,
+      9.47
+     ],
+     [
+      9.47,
+      12.41
+     ],
+     [
+      12.41,
+      15.35
+     ],
+     [
+      15.35,
+      18.29
+     ],
+     [
+      18.29,
+      21.24
+     ],
+     [
+      21.24,
+      24.21
+     ],
+     [
+      24.21,
+      27.15
+     ],
+     [
+      27.15,
+      30.09
+     ],
+     [
+      30.09,
+      33.06
+     ],
+     [
+      33.06,
+      35.97
+     ],
+     [
+      35.97,
+      38.91
+     ],
+     [
+      38.91,
+      41.88
+     ],
+     [
+      41.88,
+      44.79
+     ],
+     [
+      44.79,
+      47.74
+     ]
+    ],
+    "measure_note": "Continuation sheet with no header: the table opens at h_rules[0]=0.68 and data row 1 is [0.68,3.59]. Only the first 16 bands are stored because only 16 printed rows carry entries; the remaining printed rows on the sheet are blank and are not transcribed rows. PROOF (A3): pct:83.59,44.79,10.16,2.95@p3 (band 16) rendered '10,000.00' = row 16's recorded amount."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     84.73,
+     94.86
+    ],
+    "cells": [
+     [
+      4.82,
+      13.32
+     ],
+     [
+      13.32,
+      56.64
+     ],
+     [
+      56.64,
+      66.8
+     ],
+     [
+      66.8,
+      84.73
+     ],
+     [
+      84.73,
+      94.86
+     ]
+    ],
+    "rows": [
+     [
+      16.32,
+      19.26
+     ],
+     [
+      19.26,
+      22.21
+     ],
+     [
+      22.21,
+      25.18
+     ],
+     [
+      25.18,
+      28.12
+     ],
+     [
+      28.12,
+      31.06
+     ],
+     [
+      31.06,
+      34.0
+     ],
+     [
+      34.0,
+      36.94
+     ],
+     [
+      36.94,
+      39.88
+     ],
+     [
+      39.88,
+      42.82
+     ],
+     [
+      42.82,
+      45.74
+     ],
+     [
+      45.74,
+      48.71
+     ],
+     [
+      48.71,
+      51.65
+     ],
+     [
+      51.65,
+      54.56
+     ],
+     [
+      54.56,
+      57.5
+     ],
+     [
+      57.5,
+      60.44
+     ],
+     [
+      60.44,
+      63.38
+     ],
+     [
+      63.38,
+      66.32
+     ],
+     [
+      66.32,
+      69.26
+     ],
+     [
+      69.26,
+      72.21
+     ],
+     [
+      72.21,
+      75.15
+     ],
+     [
+      75.15,
+      78.12
+     ],
+     [
+      78.12,
+      81.06
+     ],
+     [
+      81.06,
+      84.0
+     ],
+     [
+      84.0,
+      86.94
+     ],
+     [
+      86.94,
+      89.88
+     ],
+     [
+      89.88,
+      92.85
+     ],
+     [
+      92.85,
+      95.82
+     ]
+    ],
+    "measure_note": "Form B header is two lines tall so its band ([8.53,13.29]) is wider than a data row; h_rules[0]=6.18 title rule, [1]=8.53 table top, [2]=13.29 header bottom, [3]=16.32 blank spacer bottom - all trimmed. 27 stored bands = h_rules[3..30], index-aligned with the 27 printed data rows. cell is the AMOUNT column (5th of 5 v_rules bands). PROOF (A3): pct:84.73,16.32,10.13,2.94@p4 rendered '315.00' = row 1's recorded amount."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     84.66,
+     94.82
+    ],
+    "cells": [
+     [
+      56.57,
+      66.73
+     ],
+     [
+      66.73,
+      84.66
+     ],
+     [
+      84.66,
+      94.82
+     ]
+    ],
+    "rows": [
+     [
+      0.41,
+      3.35
+     ],
+     [
+      3.35,
+      6.29
+     ],
+     [
+      6.29,
+      9.21
+     ],
+     [
+      9.21,
+      12.12
+     ],
+     [
+      12.12,
+      15.09
+     ],
+     [
+      15.09,
+      18.03
+     ],
+     [
+      18.03,
+      21.0
+     ],
+     [
+      21.0,
+      23.94
+     ],
+     [
+      23.94,
+      26.88
+     ],
+     [
+      26.88,
+      29.82
+     ],
+     [
+      29.82,
+      32.76
+     ],
+     [
+      32.76,
+      35.74
+     ],
+     [
+      35.74,
+      38.68
+     ],
+     [
+      38.68,
+      41.62
+     ],
+     [
+      41.62,
+      44.56
+     ],
+     [
+      44.56,
+      47.47
+     ],
+     [
+      47.47,
+      50.38
+     ],
+     [
+      50.38,
+      53.32
+     ],
+     [
+      53.32,
+      56.26
+     ],
+     [
+      56.26,
+      59.21
+     ],
+     [
+      59.21,
+      62.15
+     ],
+     [
+      62.15,
+      65.09
+     ],
+     [
+      65.09,
+      68.06
+     ],
+     [
+      68.06,
+      71.0
+     ],
+     [
+      71.0,
+      73.94
+     ],
+     [
+      73.94,
+      76.88
+     ],
+     [
+      76.88,
+      79.82
+     ],
+     [
+      79.82,
+      82.76
+     ],
+     [
+      82.76,
+      85.71
+     ],
+     [
+      85.71,
+      88.65
+     ],
+     [
+      88.65,
+      91.62
+     ],
+     [
+      91.62,
+      94.56
+     ]
+    ],
+    "measure_note": "Continuation sheet, no header: 33 detected h_rules give exactly 32 bands and the sheet prints exactly 32 data rows, so h_rules[0..32] are stored unmodified. The rule detector found only 4 v_rules on this text-dense sheet (the date and payee column borders did not survive), so cells lists only the three measured right-hand columns; the AMOUNT band [84.66,94.82] is measured, not extrapolated, and agrees with p4's [84.73,94.86] and p6's [84.70,94.89]. PROOF (A3): pct:84.66,91.62,10.16,2.94@p5 (band 32) rendered '2,688.38' = row 32's recorded amount."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     84.7,
+     94.89
+    ],
+    "cells": [
+     [
+      4.8,
+      13.36
+     ],
+     [
+      13.36,
+      56.64
+     ],
+     [
+      56.64,
+      66.8
+     ],
+     [
+      66.8,
+      84.7
+     ],
+     [
+      84.7,
+      94.89
+     ]
+    ],
+    "rows": [
+     [
+      0.62,
+      3.59
+     ],
+     [
+      3.59,
+      6.5
+     ],
+     [
+      6.5,
+      9.44
+     ],
+     [
+      9.44,
+      12.38
+     ],
+     [
+      12.38,
+      15.32
+     ],
+     [
+      15.32,
+      18.26
+     ],
+     [
+      18.26,
+      21.21
+     ],
+     [
+      21.21,
+      24.18
+     ],
+     [
+      24.18,
+      27.12
+     ],
+     [
+      27.12,
+      30.06
+     ],
+     [
+      30.06,
+      33.0
+     ]
+    ],
+    "measure_note": "Final continuation sheet, no header; 11 of the 16 printed rows carry entries, so the stored bands are h_rules[0..11] (11 bands) and the 5 blank trailing rows are not stored. PROOF (A3): pct:84.70,30.06,10.19,2.94@p6 (band 11) rendered '5,897.90' = row 11's recorded amount."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "2/1/2016",
+    "donor_raw": "James R Taggart",
+    "amount": "100.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "2",
+    "date": "1/18/2016",
+    "donor_raw": "The Vacguy.com  supplies donation",
+    "amount": "268.88",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": true,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "filer's own in-kind label 'supplies donation' kept verbatim in the name cell; included in the schedule total per the form's instruction"
+   },
+   {
+    "line_no": "3",
+    "date": "1/23/2016",
+    "donor_raw": "James H Harvey",
+    "amount": "5699.99",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "candidate self-funding"
+   },
+   {
+    "line_no": "4",
+    "date": "2/2/2016",
+    "donor_raw": "Comfort Suites Airport",
+    "amount": "500.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "5",
+    "date": "3/14/2016",
+    "donor_raw": "James H Harvey",
+    "amount": "90.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "candidate self-funding"
+   },
+   {
+    "line_no": "6",
+    "date": "3/15/2016",
+    "donor_raw": "James H Harvey",
+    "amount": "5000.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "candidate self-funding"
+   },
+   {
+    "line_no": "7",
+    "date": "3/16/2016",
+    "donor_raw": "Jones Shirts & Signs  Merchandise donation",
+    "amount": "214.56",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": true,
+    "donor_city": "No Ogden",
+    "donor_state": "UT",
+    "note": "filer's own in-kind label 'Merchandise donation' kept verbatim"
+   },
+   {
+    "line_no": "8",
+    "date": "3/17/2016",
+    "donor_raw": "Dixon M Pitcher Campaign Acct",
+    "amount": "200.00",
+    "page": 2,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "9",
+    "date": "3/17/2016",
+    "donor_raw": "Jones Shirts & Signs  Merchandise donation",
+    "amount": "685.44",
+    "page": 2,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": true,
+    "donor_city": "No Ogden",
+    "donor_state": "UT",
+    "note": "filer's own in-kind label 'Merchandise donation' kept verbatim"
+   },
+   {
+    "line_no": "10",
+    "date": "3/21/2016",
+    "donor_raw": "Wadman Corp",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "11",
+    "date": "3/23/2016",
+    "donor_raw": "Froerer & Miles Attorneys at Law",
+    "amount": "300.00",
+    "page": 2,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "12",
+    "date": "3/31/2016",
+    "donor_raw": "Leslee Coates",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "13",
+    "date": "3/31/2016",
+    "donor_raw": "Kathy Smith",
+    "amount": "300.00",
+    "page": 2,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "filer printed no zip"
+   },
+   {
+    "line_no": "14",
+    "date": "4/18/2016",
+    "donor_raw": "Brad & Marsha Dee",
+    "amount": "2000.00",
+    "page": 2,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "15",
+    "date": "4/19/2016",
+    "donor_raw": "Sharlene & Leonard Call",
+    "amount": "500.00",
+    "page": 2,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Pleasant View",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "16",
+    "date": "4/23/2016",
+    "donor_raw": "Gary & Michelle Heward",
+    "amount": "250.00",
+    "page": 2,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Uintah",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "17",
+    "date": "4/25/2016",
+    "donor_raw": "Ray Citte, Inc",
+    "amount": "100.00",
+    "page": 2,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Roy",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "18",
+    "date": "4/26/2016",
+    "donor_raw": "Karl Oelkes Land & Livestock",
+    "amount": "100.00",
+    "page": 2,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "19",
+    "date": "4/26/2016",
+    "donor_raw": "Elect Mike Schultz LLC",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Roy",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "20",
+    "date": "4/28/2016",
+    "donor_raw": "Cream of the Crop Farms",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "21",
+    "date": "4/28/2016",
+    "donor_raw": "Northern Wasatch Assoc of Realtors",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "22",
+    "date": "4/29/2016",
+    "donor_raw": "Pleasant Valley Ranch LLC",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "23",
+    "date": "5/3/2016",
+    "donor_raw": "MRG Management LLC",
+    "amount": "500.00",
+    "page": 2,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "24",
+    "date": "5/3/2016",
+    "donor_raw": "Scott Coates   pay pal",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "25",
+    "date": "5/3/2016",
+    "donor_raw": "Gordon Jones pay pal",
+    "amount": "100.00",
+    "page": 2,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Draper",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "26",
+    "date": "5/4/2016",
+    "donor_raw": "Lock It Up Self Storage #3 LLC",
+    "amount": "100.00",
+    "page": 2,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "27",
+    "date": "5/4/2016",
+    "donor_raw": "The Paragon Group Inc",
+    "amount": "250.00",
+    "page": 2,
+    "row": 27,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "28",
+    "date": "5/4/2016",
+    "donor_raw": "Lock It Up Self Storage LC",
+    "amount": "250.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "29",
+    "date": "5/5/2016",
+    "donor_raw": "Rodney & Jill Koford Family Trust",
+    "amount": "200.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "filer printed a PO box; not carried (privacy: city/state only)"
+   },
+   {
+    "line_no": "30",
+    "date": "5/6/2016",
+    "donor_raw": "Dixon M Pitcher Campaign Acct",
+    "amount": "200.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "31",
+    "date": "5/7/2016",
+    "donor_raw": "Craig & Sheryl Dearden",
+    "amount": "100.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "32",
+    "date": "5/12/2016",
+    "donor_raw": "Gary & Penny Kapp",
+    "amount": "200.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "West Point",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "33",
+    "date": "5/16/2016",
+    "donor_raw": "Scott Jenkins Campaign Fund",
+    "amount": "500.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Plain City",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "34",
+    "date": "5/18/2016",
+    "donor_raw": "Allan & Kay Lipman",
+    "amount": "100.00",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "35",
+    "date": "5/24/2016",
+    "donor_raw": "Maris Bischoff",
+    "amount": "100.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "36",
+    "date": "5/24/2016",
+    "donor_raw": "Law Office Christopher Allred",
+    "amount": "100.00",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "37",
+    "date": "5/25/2016",
+    "donor_raw": "Kenneth Bischoff",
+    "amount": "100.00",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "38",
+    "date": "5/28/2016",
+    "donor_raw": "Brad Slater",
+    "amount": "50.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "MSC",
+    "note": "filer printed 'MSC' where the city goes (Marriott-Slaterville abbreviation); kept verbatim, not expanded; no state printed"
+   },
+   {
+    "line_no": "39",
+    "date": "5/30/2016",
+    "donor_raw": "Dwight & Cindy Baldwin",
+    "amount": "250.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "So Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "40",
+    "date": "6/3/2016",
+    "donor_raw": "Weber County Republican Party",
+    "amount": "8000.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer's address cell prints only 'Weber County' - no city or state, so both are honestly blank (left empty by the filer, not redacted)"
+   },
+   {
+    "line_no": "41",
+    "date": "6/6/2016",
+    "donor_raw": "Scott & Jennifer Sykes",
+    "amount": "200.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "filer printed city+zip with no state"
+   },
+   {
+    "line_no": "42",
+    "date": "6/8/2016",
+    "donor_raw": "Linda Ogan",
+    "amount": "20.00",
+    "page": 3,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "note": "the filer's address cell prints only 'Ogden'"
+   },
+   {
+    "line_no": "43",
+    "date": "6/15/2016",
+    "donor_raw": "James H Harvey",
+    "amount": "10000.00",
+    "page": 3,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "note": "candidate self-funding"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/26/2016",
+    "vendor_raw": "Standard Examiner  ck 1019",
+    "vendor_city": "Ogden",
+    "purpose": "Chamber advertising",
+    "amount": "315.00",
+    "page": 4,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "1/29/2016",
+    "vendor_raw": "Weber County  ck 1020",
+    "vendor_city": "Ogden",
+    "purpose": "Election data",
+    "amount": "96.00",
+    "page": 4,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "2/1/2016",
+    "vendor_raw": "Gathering Inc  ck 1018",
+    "vendor_city": "Ogden",
+    "purpose": "Signature gathering",
+    "amount": "5000.00",
+    "page": 4,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "3/16/2016",
+    "vendor_raw": "Aquahook  ck103",
+    "vendor_city": "CA",
+    "purpose": "Bottle Clips",
+    "amount": "575.69",
+    "page": 4,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "3/16/2016",
+    "vendor_raw": "Weber County    ck 101",
+    "vendor_city": "Ogden",
+    "purpose": "Filing",
+    "amount": "626.34",
+    "page": 4,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "3/17/2016",
+    "vendor_raw": "Standard Examiner  ck102",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "325.00",
+    "page": 4,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "3/17/2016",
+    "vendor_raw": "Jones Shirts & Signs  820898  ck 105",
+    "vendor_city": "Ogden",
+    "purpose": "Signs",
+    "amount": "1112.63",
+    "page": 4,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "8",
+    "date": "3/22/2016",
+    "vendor_raw": "Dingman Professional Pringing  ck 104",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "612.82",
+    "page": 4,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "3/26/2016",
+    "vendor_raw": "GSEC  ck 106",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "55.00",
+    "page": 4,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "3/27/2016",
+    "vendor_raw": "Standard Examiner",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "50.00",
+    "page": 4,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "3/30/2016",
+    "vendor_raw": "Jones Shirts & Signs  820946",
+    "vendor_city": "Ogden",
+    "purpose": "Flyer handouts",
+    "amount": "119.67",
+    "page": 4,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "12",
+    "date": "3/31/2016",
+    "vendor_raw": "Banner Stands",
+    "vendor_city": "internet",
+    "purpose": "Banner Stands",
+    "amount": "210.00",
+    "page": 4,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "13",
+    "date": "3/31/2016",
+    "vendor_raw": "Pay Pal",
+    "vendor_city": "internet",
+    "purpose": "Fee",
+    "amount": "87.50",
+    "page": 4,
+    "row": 13,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "14",
+    "date": "4/4/16",
+    "vendor_raw": "Banners 4 Less",
+    "vendor_city": "internet",
+    "purpose": "Booth Banner Trade Show",
+    "amount": "210.00",
+    "page": 4,
+    "row": 14,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "15",
+    "date": "4/14/2016",
+    "vendor_raw": "The Golden Jade",
+    "vendor_city": "Ogden",
+    "purpose": "Treats Delegate Mtg",
+    "amount": "56.75",
+    "page": 4,
+    "row": 15,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "16",
+    "date": "4/14/2016",
+    "vendor_raw": "Jones Shirts & Signs  821012",
+    "vendor_city": "Ogden",
+    "purpose": "Printed Stickers",
+    "amount": "353.43",
+    "page": 4,
+    "row": 16,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "17",
+    "date": "4/15/2016",
+    "vendor_raw": "Smith & Edwarads",
+    "vendor_city": "Ogden",
+    "purpose": "Tee Posts",
+    "amount": "958.00",
+    "page": 4,
+    "row": 17,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "18",
+    "date": "4/15/2016",
+    "vendor_raw": "Smith & Edwarads",
+    "vendor_city": "Ogden",
+    "purpose": "Driver Posts",
+    "amount": "34.26",
+    "page": 4,
+    "row": 18,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "19",
+    "date": "4/16/2016",
+    "vendor_raw": "Wal mart",
+    "vendor_city": "So Ogden",
+    "purpose": "Supplies",
+    "amount": "35.86",
+    "page": 4,
+    "row": 19,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "20",
+    "date": "4/16/2016",
+    "vendor_raw": "Weber County GOP ck #107",
+    "vendor_city": "Ogden",
+    "purpose": "Convention Booth",
+    "amount": "150.00",
+    "page": 4,
+    "row": 20,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "21",
+    "date": "4/16/2016",
+    "vendor_raw": "Smith's",
+    "vendor_city": "Ogden",
+    "purpose": "Water for Convention",
+    "amount": "58.51",
+    "page": 4,
+    "row": 21,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "22",
+    "date": "4/18/16",
+    "vendor_raw": "Wal mart",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies",
+    "amount": "56.20",
+    "page": 4,
+    "row": 22,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "23",
+    "date": "4/18/16",
+    "vendor_raw": "Walmart",
+    "vendor_city": "Ogden",
+    "purpose": "Supplies",
+    "amount": "92.06",
+    "page": 4,
+    "row": 23,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "24",
+    "date": "4/22/2016",
+    "vendor_raw": "Grideli's  North",
+    "vendor_city": "Ogden",
+    "purpose": "Meals for volunteers",
+    "amount": "19.21",
+    "page": 4,
+    "row": 24,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "25",
+    "date": "4/23/2016",
+    "vendor_raw": "Signs 365",
+    "vendor_city": "internet",
+    "purpose": "Banners",
+    "amount": "1118.56",
+    "page": 4,
+    "row": 25,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "26",
+    "date": "4/26/2016",
+    "vendor_raw": "City Creek",
+    "vendor_city": "SLC",
+    "purpose": "Gifts for Kottage Mtg Hosts",
+    "amount": "387.25",
+    "page": 4,
+    "row": 26,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "27",
+    "date": "4/27/2016",
+    "vendor_raw": "Taco Taco",
+    "vendor_city": "Ogden",
+    "purpose": "Meals for volunteers",
+    "amount": "36.48",
+    "page": 4,
+    "row": 27,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "28",
+    "date": "4/27/2016",
+    "vendor_raw": "The Home Depot",
+    "vendor_city": "Ogden",
+    "purpose": "Sign Stakes",
+    "amount": "113.91",
+    "page": 5,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "29",
+    "date": "4/29/2016",
+    "vendor_raw": "Ogden Valley News  ck #109",
+    "vendor_city": "Eden",
+    "purpose": "Advertising",
+    "amount": "105.00",
+    "page": 5,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "30",
+    "date": "4/29/2016",
+    "vendor_raw": "Weber Co Republican Women  ck 108",
+    "vendor_city": "Ogden",
+    "purpose": "Membership & Donation",
+    "amount": "90.00",
+    "page": 5,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "31",
+    "date": "4/30/2016",
+    "vendor_raw": "Lowe's",
+    "vendor_city": "Ogden",
+    "purpose": "Sign Materials",
+    "amount": "32.31",
+    "page": 5,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "32",
+    "date": "4/30/2016",
+    "vendor_raw": "South Fork Hardware",
+    "vendor_city": "Ogden",
+    "purpose": "Sign Screws",
+    "amount": "19.26",
+    "page": 5,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "33",
+    "date": "5/1/2016",
+    "vendor_raw": "Facebook Inc",
+    "vendor_city": "Bountiful",
+    "purpose": "Facebook Ads",
+    "amount": "6.06",
+    "page": 5,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "34",
+    "date": "5/3/2016",
+    "vendor_raw": "Jones Shirts & Signs  821101",
+    "vendor_city": "Ogden",
+    "purpose": "Post Cards",
+    "amount": "268.71",
+    "page": 5,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "35",
+    "date": "5/3/16",
+    "vendor_raw": "Bankcard Processing",
+    "vendor_city": "internet",
+    "purpose": "Fee",
+    "amount": "214.95",
+    "page": 5,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "36",
+    "date": "5/4/2016",
+    "vendor_raw": "Jones Shirts & Signs  821108  ck 110",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "685.44",
+    "page": 5,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "37",
+    "date": "5/6/2016",
+    "vendor_raw": "Jones Shirts & Signs  821137",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "1807.90",
+    "page": 5,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "38",
+    "date": "5/9/2016",
+    "vendor_raw": "Golden Jade Restaurant",
+    "vendor_city": "Ogden",
+    "purpose": "Meals Campaign Meeting",
+    "amount": "108.86",
+    "page": 5,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "39",
+    "date": "5/9/2016",
+    "vendor_raw": "Jones Shirts & Signs  821121",
+    "vendor_city": "Ogden",
+    "purpose": "Gromets",
+    "amount": "46.05",
+    "page": 5,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "40",
+    "date": "5/9/2016",
+    "vendor_raw": "Weber County Clerk Auditor",
+    "vendor_city": "Ogden",
+    "purpose": "Fee",
+    "amount": "117.00",
+    "page": 5,
+    "row": 13,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "41",
+    "date": "5/11/2016",
+    "vendor_raw": "Facebook Inc",
+    "vendor_city": "internet",
+    "purpose": "Advertising",
+    "amount": "25.01",
+    "page": 5,
+    "row": 14,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "42",
+    "date": "5/12/16",
+    "vendor_raw": "Amazon.com",
+    "vendor_city": "internet",
+    "purpose": "Zip ties for signs",
+    "amount": "30.00",
+    "page": 5,
+    "row": 15,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "43",
+    "date": "5/18/2016",
+    "vendor_raw": "Farr Ice Cream  ck 112",
+    "vendor_city": "Ogden",
+    "purpose": "Treats  for Volunteers",
+    "amount": "145.28",
+    "page": 5,
+    "row": 16,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "44",
+    "date": "5/18/2016",
+    "vendor_raw": "USPS",
+    "vendor_city": "Ogden",
+    "purpose": "Postage",
+    "amount": "340.00",
+    "page": 5,
+    "row": 17,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "45",
+    "date": "5/19/2016",
+    "vendor_raw": "Jones Shirts & Signs  821136",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "535.50",
+    "page": 5,
+    "row": 18,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "46",
+    "date": "5/20/2016",
+    "vendor_raw": "Jones Shirts & Signs  821177",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "905.45",
+    "page": 5,
+    "row": 19,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "47",
+    "date": "5/21/2016",
+    "vendor_raw": "Amazon.com",
+    "vendor_city": "internet",
+    "purpose": "Zip ties for signs",
+    "amount": "45.00",
+    "page": 5,
+    "row": 20,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "48",
+    "date": "5/23/2016",
+    "vendor_raw": "USPS",
+    "vendor_city": "Ogden",
+    "purpose": "Postage",
+    "amount": "680.00",
+    "page": 5,
+    "row": 21,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "49",
+    "date": "5/24/2016",
+    "vendor_raw": "Brad Bennington  ck 113",
+    "vendor_city": "Ogden",
+    "purpose": "Flyer distribution",
+    "amount": "175.00",
+    "page": 5,
+    "row": 22,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "50",
+    "date": "5/26/2016",
+    "vendor_raw": "Wal mart",
+    "vendor_city": "Ogden",
+    "purpose": "Water",
+    "amount": "13.72",
+    "page": 5,
+    "row": 23,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "51",
+    "date": "5/27/2016",
+    "vendor_raw": "Jones Shirts & Signs  821203",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "2548.08",
+    "page": 5,
+    "row": 24,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "52",
+    "date": "5/31/2016",
+    "vendor_raw": "Home Depot",
+    "vendor_city": "Ogden",
+    "purpose": "Sign Stakes",
+    "amount": "14.21",
+    "page": 5,
+    "row": 25,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "53",
+    "date": "5/31/2016",
+    "vendor_raw": "Home Depot",
+    "vendor_city": "Ogden",
+    "purpose": "Stakes",
+    "amount": "89.56",
+    "page": 5,
+    "row": 26,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "54",
+    "date": "6/1/2016",
+    "vendor_raw": "Facebook Inc",
+    "vendor_city": "internet",
+    "purpose": "Advertising",
+    "amount": "20.89",
+    "page": 5,
+    "row": 27,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "55",
+    "date": "6/2/2016",
+    "vendor_raw": "Jones Shirts & Signs  821226",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign Signs",
+    "amount": "674.98",
+    "page": 5,
+    "row": 28,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "56",
+    "date": "6/2/2016",
+    "vendor_raw": "Amazon.com",
+    "vendor_city": "internet",
+    "purpose": "Zip ties for signs",
+    "amount": "37.99",
+    "page": 5,
+    "row": 29,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "57",
+    "date": "6/3/2016",
+    "vendor_raw": "Sams Club",
+    "vendor_city": "Ogden",
+    "purpose": "Drinks",
+    "amount": "65.76",
+    "page": 5,
+    "row": 30,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "58",
+    "date": "6/3/2016",
+    "vendor_raw": "Bankcard Processing",
+    "vendor_city": "internet",
+    "purpose": "Fee",
+    "amount": "25.90",
+    "page": 5,
+    "row": 31,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "59",
+    "date": "6/6/2016",
+    "vendor_raw": "Salt Lake Mailing & Printing  ck 114",
+    "vendor_city": "SLC",
+    "purpose": "Postcards & mailing",
+    "amount": "2688.38",
+    "page": 5,
+    "row": 32,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "60",
+    "date": "6/8/2016",
+    "vendor_raw": "USPS",
+    "vendor_city": "Ogden",
+    "purpose": "Postage",
+    "amount": "340.00",
+    "page": 6,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "61",
+    "date": "6/9/2016",
+    "vendor_raw": "Jones Shirts & Signs  821310",
+    "vendor_city": "Ogden",
+    "purpose": "Signs",
+    "amount": "685.44",
+    "page": 6,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "62",
+    "date": "6/11/2016",
+    "vendor_raw": "Berean Baptist Church  ck 115",
+    "vendor_city": "Ogden",
+    "purpose": "Flyer distribution",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "63",
+    "date": "6/13/2016",
+    "vendor_raw": "Weber School Dist BHS Theater  ck 116",
+    "vendor_city": "Ogden",
+    "purpose": "Donation",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "64",
+    "date": "6/13/2016",
+    "vendor_raw": "Weber School Dist FHS Baseball  ck 117",
+    "vendor_city": "Ogden",
+    "purpose": "Donation",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "65",
+    "date": "6/13/2016",
+    "vendor_raw": "Weber School Dist Roy HS Marching Band ck 118",
+    "vendor_city": "Ogden",
+    "purpose": "Donation",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "66",
+    "date": "6/13/2016",
+    "vendor_raw": "Weber School Dist WHS Theater Dept  ck 119",
+    "vendor_city": "Ogden",
+    "purpose": "Donation",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "67",
+    "date": "6/13/2016",
+    "vendor_raw": "Bonneville International KSL.com  ck 120",
+    "vendor_city": "SLC",
+    "purpose": "Advertising",
+    "amount": "1500.00",
+    "page": 6,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "68",
+    "date": "6/15/2016",
+    "vendor_raw": "Grideli's  North",
+    "vendor_city": "Ogden",
+    "purpose": "Meal for volunteer",
+    "amount": "11.60",
+    "page": 6,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "69",
+    "date": "6/15/2016",
+    "vendor_raw": "David Warte  ck 121",
+    "vendor_city": "Clfd",
+    "purpose": "Advertising Door Hangers",
+    "amount": "6190.00",
+    "page": 6,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "70",
+    "date": "6/15/2016",
+    "vendor_raw": "David Warte  ck 122",
+    "vendor_city": "Clfd",
+    "purpose": "Post Cards",
+    "amount": "5897.90",
+    "page": 6,
+    "row": 11,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "2016 3-line cover variant; office spelled 'COMMISSONER' by the filer. Form A runs p2-p3 (grand total on p3, no per-page subtotal); Form B runs p4-p6 (grand total on p6, no per-page subtotals). Donor and vendor street addresses printed on the schedules are deliberately NOT carried (PRIVACY: city/state only); a PO box on Form A row 29 likewise. Where donor_state is blank the FILER printed a city and zip with no state - nothing was redacted by the county. On Form A row 40 (Weber County Republican Party) the address cell prints only the words 'Weber County', so both city and state are honestly blank. Form B has its own City column, carried as vendor_city verbatim including the filer's non-city values ('internet', 'CA', 'SLC', 'Clfd', 'MSC'). Three Form A rows carry the filer's own in-kind labels inside the name cell and are included in the printed total, which is what makes the schedule close. This report is an independent third-channel read of the same June-2016 Harvey filing already transcribed from two other channels as keys 1813f430 and 8876cae9; it was transcribed WITHOUT consulting those records, and a rollup must count the report once."
+ }
+]

@@ -1,0 +1,213 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_514dc4bb.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "1b428642",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 2,854.07' on p2, equal to the cover's Cumulative Total cell ($2,854.07)",
+    "detail": "3 Form A rows (480.84 + 373.23 + 2,000.00) sum to 2,854.07 exactly = the schedule's printed total = the cover's This-Report AND Cumulative cells (Last Report 0.00, so the two coincide on this opening convention report). 2026 is the 3-line variant - one contributions cell, no separate <=$50 aggregate line. No in-kind rows are labelled, so both in-kind conventions give the same figure."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 2,854.07' on p3, equal to the cover's Cumulative Total cell ($2,854.07)",
+    "detail": "4 Form B rows (469.11 + 11.73 + 373.23 + 2,000.00) sum to 2,854.07 exactly = the schedule's printed total = the cover's This-Report AND Cumulative cells. The two sides are equal and the ending balance is 0.00 because this is a pure pass-through campaign: each self-funded contribution is drawn to cover a specific same-day payment."
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "Six tight crops, all A3 indexing proofs: p2 row 1 rendered 480.84 and row 3 rendered 2,000.00 via make_snippet --value at 900 dpi. TOOL LIMITATION FOUND ON p3: that page is 612x792 pts with /Rotate 270, so poppler renders it LANDSCAPE while make_snippet.py sizes its crop from the UNROTATED pdfinfo page size - a pct box in the rendered frame resolves to the wrong place (my first two p3 proofs landed on the City/Purpose columns of row 4 instead of the Amount column of rows 1 and 4). The stored geometry follows the contract (pct of the page AS POPPLER RENDERS IT, rotation included), and the proof was therefore taken with a DIRECT pdftoppm crop in the rendered frame at 900 dpi (rendered page 9900x7650 px): -x 7335 -y 2130 -W 850 -H 196 rendered '$469.11' (row 1) and -x 7335 -y 2718 rendered '$2,000.00' (row 4), both the recorded amounts. scripts/campaign_finance/ is frozen for this wave so nothing was changed - reporting instead.",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/6/2026",
+    "donor_raw": "Jared & Lisa Preisler",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "480.84",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "candidate self-funding; the same-day Form B rows (469.11 filing fee + 11.73 service fee = 480.84) show this contribution funded the filing fee exactly"
+   },
+   {
+    "line_no": "2",
+    "date": "2/1/2026",
+    "donor_raw": "Jared & Lisa Preisler",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "373.23",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "candidate self-funding; matches the same-day Wix.com website fee on Form B"
+   },
+   {
+    "line_no": "3",
+    "date": "3/25/2026",
+    "donor_raw": "Jared & Lisa Preisler",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "candidate self-funding; matches the same-day Lincoln Day Lunch payment on Form B"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/6/2026",
+    "vendor_raw": "Weber County Elections",
+    "vendor_city": "Ogden",
+    "purpose": "Filing Fee",
+    "amount": "469.11",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "1/6/2026",
+    "vendor_raw": "Weber County Elections",
+    "vendor_city": "Ogden",
+    "purpose": "Service Fee",
+    "amount": "11.73",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "2/1/2026",
+    "vendor_raw": "Wix.com",
+    "vendor_city": "SanFrancisco",
+    "purpose": "Website Yearly Fee",
+    "amount": "373.23",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "note": "the filer prints the city unspaced as 'SanFrancisco' - verbatim"
+   },
+   {
+    "line_no": "4",
+    "date": "3/25/2026",
+    "vendor_raw": "Weber County Republican Party",
+    "vendor_city": "Ogden",
+    "purpose": "Lincoln Day Lunch",
+    "amount": "2000.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "2026 form, TYPED throughout: p1 cover (signed 'April 2, 2026'), p2 Form A, p3 Form B - the county's own Form A/Form B grid, unlike the spreadsheet-printout schedules other 2026 filers used. This copy is NOT redacted (the candidate's street address prints in full on the cover), confirming the county's 2026 redaction is applied inconsistently across filings. PRIVACY: donor street addresses on Form A are not carried; city/state only. SOURCE ODDITY worth noting: all three Form A rows are the same self-funding couple at the same street, but the filer typed the house number as 3033, 3034 and 3035 on successive rows while the cover prints 3033 - an obvious typing slip in a field this record does not carry, so it changes nothing here. Every contribution matches a same-day expenditure and the ending balance is 0.00.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     84.91,
+     95.59
+    ],
+    "cells": [
+     [
+      4.36,
+      12.52
+     ],
+     [
+      12.52,
+      42.75
+     ],
+     [
+      42.75,
+      84.91
+     ],
+     [
+      84.91,
+      95.59
+     ]
+    ],
+    "rows": [
+     [
+      15.03,
+      18.32
+     ],
+     [
+      18.32,
+      21.62
+     ],
+     [
+      21.62,
+      24.91
+     ]
+    ],
+    "measure_note": "Native landscape page (792x612 pts, rot 0), rows top-to-bottom so axis=y: ROW bands from h_rules_pct, COLUMN bands from v_rules_pct. h_rules[0]=6.03 is the rule under the title, [1]=8.56 the table top, [2]=11.74 the header bottom and [3]=15.03 the bottom of the shaded spacer row - all four trimmed as NON-DATA. Only the 3 rows the filer used are stored (h_rules[3..6]); the remaining printed rows on the sheet are blank. cell is the AMOUNT column (the 4th and last v_rules band), not the name column. PROOF (A3): pct:84.91,15.03,10.68,3.29@p2 rendered '480.84' (row 1) and pct:84.91,21.62,10.68,3.29@p2 rendered '2,000.00' (row 3)."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     74.09,
+     82.68
+    ],
+    "cells": [
+     [
+      5.14,
+      14.14
+     ],
+     [
+      14.14,
+      50.45
+     ],
+     [
+      50.45,
+      58.95
+     ],
+     [
+      58.95,
+      74.09
+     ],
+     [
+      74.09,
+      82.68
+     ]
+    ],
+    "rows": [
+     [
+      27.85,
+      30.41
+     ],
+     [
+      30.41,
+      32.94
+     ],
+     [
+      32.94,
+      35.53
+     ],
+     [
+      35.53,
+      38.12
+     ]
+    ],
+    "measure_note": "Same Form B grid but the PDF page is 612x792 pts with /Rotate 270, so poppler renders it landscape; ALL percentages here are of the RENDERED (landscape) page, per the contract. h_rules[0]=14.82 is the title rule, [1]=17.41 the table top, [2]=25.24 the bottom of the two-line header and [3]=27.85 the bottom of the shaded spacer - trimmed; the 4 stored bands are h_rules[3..7], one per used row, and the blank printed rows below are not stored. cell is the AMOUNT column (5th of 5 v_rules bands). PROOF (A3) was taken with a direct pdftoppm crop because make_snippet.py mis-resolves pct on a rotated page (see escalation_note): the two crops rendered '$469.11' (row 1) and '$2,000.00' (row 4)."
+   }
+  }
+ }
+]

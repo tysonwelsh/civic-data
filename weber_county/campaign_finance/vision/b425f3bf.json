@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:09:26Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Ricky D. Hatch - Committee to Elect Ricky Hatch",
  "office_stated": "County Clerk/Auditor",
  "report_type_stated": "October 25th - Nov 1st",
@@ -44,5 +44,247 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2022 3-line form. This copy's summary columns are headed 'Last Report | This Report | Totals:' rather than the standard 'Totals from Last Report / Totals for This Report / Cumulative Totals' - same three columns, different printed labels; recorded in the same last/this/cum slots."
+ "notes": "Typed 2022 3-line form. This copy's summary columns are headed 'Last Report | This Report | Totals:' rather than the standard 'Totals from Last Report / Totals for This Report / Cumulative Totals' - same three columns, different printed labels; recorded in the same last/this/cum slots.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "10/20/2022",
+   "donor_raw": "Utah Tech Leads",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:71.12,20.34,10.88,0.71@p5",
+   "geometry_frame": "p5 axis=y cell=71.12-82.00 rowband=20.34-21.05 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The Address column prints a full street address; only the city/state portion is carried (PRIVACY.md). The filer wrote the city verbatim as 'SLC'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/22/2022",
+   "vendor_raw": "Fresh Market",
+   "purpose": "Stamps",
+   "amount": "11.60",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,19.93,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=19.93-21.57 (1 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "2",
+   "date": "6/23/2022",
+   "vendor_raw": "USPS",
+   "purpose": "Postcard Stamps",
+   "amount": "48.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,21.57,9.41,1.66@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=21.57-23.23 (2 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "3",
+   "date": "6/24/2022",
+   "vendor_raw": "Riverprint",
+   "purpose": "Campaign mailers",
+   "amount": "317.99",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,23.23,9.41,1.63@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=23.23-24.86 (3 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "4",
+   "date": "6/24/2022",
+   "vendor_raw": "Walmart",
+   "purpose": "Parade supplies",
+   "amount": "62.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,24.86,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=24.86-26.50 (4 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "5",
+   "date": "6/25/2022",
+   "vendor_raw": "Da Kine Grindz",
+   "purpose": "Food for parade volunteers",
+   "amount": "67.84",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,26.50,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=26.50-28.14 (5 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Sunset, UT'."
+  },
+  {
+   "line_no": "6",
+   "date": "6/25/2022",
+   "vendor_raw": "Zeppes",
+   "purpose": "Food for parade volunteers",
+   "amount": "11.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,28.14,9.41,1.63@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=28.14-29.77 (6 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'North Ogden, UT'."
+  },
+  {
+   "line_no": "7",
+   "date": "6/25/2022",
+   "vendor_raw": "Son Son",
+   "purpose": "Food for parade volunteers",
+   "amount": "2.99",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,29.77,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=29.77-31.41 (7 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "8",
+   "date": "6/25/2022",
+   "vendor_raw": "Rickles",
+   "purpose": "Food for parade volunteers",
+   "amount": "19.56",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,31.41,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=31.41-33.05 (8 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "9",
+   "date": "6/25/2022",
+   "vendor_raw": "Da Kine Grindz",
+   "purpose": "Food for parade volunteers",
+   "amount": "9.13",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,33.05,9.41,1.65@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=33.05-34.70 (9 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Sunset, UT'. Second entry for this vendor on the same date (line 5 is the other) \u2014 kept as the filer printed it, not merged."
+  },
+  {
+   "line_no": "10",
+   "date": "6/30/2022",
+   "vendor_raw": "Ogden Valley News",
+   "purpose": "Advertisements",
+   "amount": "126.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,34.70,9.41,1.64@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=34.70-36.34 (10 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Huntsville, UT'."
+  },
+  {
+   "line_no": "11",
+   "date": "7/3/2022",
+   "vendor_raw": "Amazon",
+   "purpose": "Parade supplies",
+   "amount": "27.87",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,36.34,9.41,1.66@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=36.34-38.00 (11 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Seattle, WA'."
+  },
+  {
+   "line_no": "12",
+   "date": "8/17/2022",
+   "vendor_raw": "Site5",
+   "purpose": "Campaign website fees",
+   "amount": "19.79",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,38.00,9.41,1.73@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=38.00-39.73 (12 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Austin, TX'."
+  },
+  {
+   "line_no": "13",
+   "date": "8/17/2022",
+   "vendor_raw": "USPS",
+   "purpose": "Postcard Stamps",
+   "amount": "60.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,39.73,9.41,1.66@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=39.73-41.39 (13 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  },
+  {
+   "line_no": "14",
+   "date": "8/23/2022",
+   "vendor_raw": "Weber County GOP",
+   "purpose": "Golf Tournament Sponsorship",
+   "amount": "525.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:80.00,41.39,9.41,1.66@p6",
+   "geometry_frame": "p6 axis=y cell=80.00-89.41 rowband=41.39-43.05 (14 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden, UT'."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "5",
+   "itemized_pages_B": "6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "the cover's 'This Report' cell on line 1, Total contributions from all donors (500.00)",
+     "detail": "Form A (p5) prints exactly ONE data row, 500.00, which equals the cover's This-Report line-1 cell (500.00). The cover's Last Report column is 22,709.94 and the Totals column 23,209.94, so this is a period-scoped schedule behind a cumulative cover: the officeholder/committee account's prior 22,709.94 is carried forward and is NOT itemized on this document. Form A carries no printed schedule total of its own \u2014 the single row IS the schedule sum. 2022 is the 3-line form variant (a single 'contributions from all donors' cell, no separate <=$50 aggregate line), so the whole published contributions figure for the period is anchored here."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "the cover's 'This Report' cell on line 2, Total Campaign Expenditures (1,309.77)",
+     "detail": "Form B (p6) prints 14 data rows: 11.60 + 48.00 + 317.99 + 62.50 + 67.84 + 11.50 + 2.99 + 19.56 + 9.13 + 126.00 + 27.87 + 19.79 + 60.00 + 525.00 = 1,309.77, exactly the cover's This-Report line-2 cell. Cumulative is 20,071.24 against a Last-Report 18,761.47 (difference 1,309.77), so the cover's own arithmetic confirms the period scope. Form B prints no schedule total and no page subtotal. Line 3 closes independently: 500.00 - 1,309.77 = (809.77), the printed This-Report ending balance, and 3,948.47 - 809.77 = 3,138.70, the printed cumulative balance."
+    }
+   },
+   "escalations": 6,
+   "escalation_note": "six 900 dpi tight --value crops, all used as GEOMETRY proofs rather than glyph re-reads (both schedules are TYPED, so no amount needed a legibility escalation): p6 amount cells for rows 1, 8 and 14 reproduced 11.60 / 19.56 / 525.00, confirming the every-other-rule band selection described in the p6 measure_note; p5 amount cells for the three candidate bands [19.89,21.05], [20.34,21.05] and [21.05,21.57], which located the single data row at [20.34,21.05] and showed [21.05,21.57] to be the table's closing border zone.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 14,
+   "geometry": {
+    "measured": 15,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Ricky D. Hatch - Committee to Elect Ricky Hatch, 'County Clerk/Auditor', 2022 cycle, the 'October 25th - Nov 1st' report box ticked, signed 10/27/2022. Page order IS form order: cover p4, Form A p5, Form B p6. Both schedules are TYPED (an Excel print), not handwritten, which is why every amount read cleanly at full page and the escalations were spent on geometry instead. This is an OFFICEHOLDER-style account that opens the report from a large prior balance (Last Report contributions 22,709.94 / expenditures 18,761.47), and BOTH schedules itemize the PERIOD only \u2014 the ~$22.7k raised before this report is not itemized anywhere on this document, so neither side may be read as a cycle-cumulative list of donors or vendors. The date range covered by Form B (6/22/2022-8/23/2022) sits well before the report's own 10/25-11/1 window, another sign the filer treated the schedules as 'everything since the last report' rather than as the report period. This copy's cover columns are headed 'Last Report | This Report | Totals:' rather than the standard 'Totals from Last Report / Totals for This Report / Cumulative Totals' \u2014 same three columns, different printed labels (already recorded in the stated-totals cache). The candidate's street address and two phone numbers print on the cover and are deliberately NOT carried (PRIVACY.md); the county applied no redaction to this 2022 archive copy."
+  }
+ }
 }

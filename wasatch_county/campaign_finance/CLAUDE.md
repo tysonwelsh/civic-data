@@ -1,6 +1,7 @@
 # campaign_finance/ — Wasatch County county-office campaign finance
 
-**As-of 2026-08-01.** The first dataset built for `wasatch_county`, which is otherwise a
+**As-of 2026-08-14** (itemized layer; stated-totals layer 2026-08-01). The first dataset built
+for `wasatch_county`, which is otherwise a
 **REGISTERED-ONLY** entity (registry row since 2026-07-20, carrying Park City's second
 within-county edge; no db, no vote layer, no federation). Nothing here is in `gov.db`.
 
@@ -16,10 +17,12 @@ Raw PDFs are retained verbatim in `raw/<year>/`; a text sidecar per filing is in
 never fetched).
 
 **A STATED-TOTALS layer exists as of 2026-08-01** — `filing_totals.csv`, 111 rows, built from
-111 curated `vision/<key>.json` cover-page transcriptions. **Donor/vendor itemization is
-BORN-DIGITAL ONLY and very thin — 8 expenditure rows over 2 filings, 0 contribution rows**
-(TRANCHE 3 Phase A, 2026-08-02; see "The born-digital itemized layer"). See "The stated-totals
-layer" below.
+111 curated `vision/<key>.json` cover-page transcriptions. See "The stated-totals layer" below.
+
+**A FULL ITEMIZED layer exists as of 2026-08-14** (tranche 3 Phase B) — **851 donor/vendor rows,
+346 contributions + 505 expenditures, over 73 of the 111 filings; every one of the 111 has an
+itemized layer and 0 sides are withheld.** See "The itemized layer" below. This SUPERSEDES the
+Phase A state of "8 expenditure rows over 2 filings".
 
 ```
 RECON.md              channels probed + every negative, with reasoning     ← read first
@@ -34,10 +37,13 @@ text/<year>/          one .txt per PDF (pdftotext -layout, or 300dpi tesseract)
 vision/<key>.json     CURATED — one cover-page transcription per filing (111). `<key>` =
                       sha1(index.csv `path`)[:8]. Schema below; corrections go HERE.
 filing_totals.csv     DERIVED — one row per filing (111), SCHEMA.md §4 + `filing_regime`
-contributions.csv     DERIVED — SCHEMA.md §2 (+ `geometry`); 0 rows — every parsed Table-A
-                      section was field-shifted and withheld (see below)
-expenditures.csv      DERIVED — SCHEMA.md §3 (+ `geometry`); 8 rows over 2 born-digital filings
+contributions.csv     DERIVED — SCHEMA.md §2 (+ `geometry`); 346 rows
+expenditures.csv      DERIVED — SCHEMA.md §3 (+ `geometry`); 505 rows
 build_finance.py      rebuild the three CSVs from index.csv + vision/    (idempotent)
+make_itemized_caches.py  merge a wave's transcription RECORDS into vision/<key>.json as the
+                      `contributions`/`expenditures` lists + `_meta.itemized`. THE ONLY WRITER
+                      of the itemized half of a cache; re-screens every record from scratch
+                      (reconciliation, field shift, privacy, dates) and is idempotent
 refetch.py            verify every retained PDF against index.csv sha256 (currently 111/111)
 extract_text.py       rebuild text/ + text_extraction.csv
 build_index.py        rebuild index.csv / out_of_scope.csv / unrecovered.csv
@@ -61,7 +67,7 @@ build_index.py        rebuild index.csv / out_of_scope.csv / unrecovered.csv
 | `path`, `text_path` | repo-relative PDF + sidecar. |
 | `pages`, `bytes`, `sha256` | integrity triple; `refetch.py` checks the digest. |
 | `channel` | `origin` (104) / `wayback` (6) / `wayback_latest` (1). |
-| `needs_review` | `1` on every row. This predates the stated-totals layer and now means only *"itemized rows not transcribed / nothing reconciled"* — the **cover-page stated totals HAVE been transcribed** (see `filing_totals.csv`). |
+| `needs_review` | `1` on every row. **STALE since 2026-08-14** — it predates both the stated-totals layer (2026-08-01) and the itemized layer (2026-08-14), and both are now complete. `index.csv` is DERIVED by `build_index.py`; retiring this column is a follow-up for the coordinator, not a hand edit. Use `filing_totals.reconciles_*` + `vision/<key>.json._meta.itemized` for the real per-filing state. |
 | `notes` | per-row caveats (5 rows): the Farrell double-checkbox, the state-site copy, the untimestamped Adams recovery, the two undetectable form families. |
 
 ## The three things to get right before querying this
@@ -99,54 +105,150 @@ build_index.py        rebuild index.csv / out_of_scope.csv / unrecovered.csv
    Those are called out in each row's `notes`; read them before summing.
    **2020 is the trap year**: 3 reports per candidate, all cumulative — take December, do not
    add June + October + December.
-3. **The stated totals are transcribed; the donor rows almost entirely are not.**
-   `filing_totals.csv` carries what each cover PRINTS. Only **2 of 111 filings** carry any
-   itemized row (8 expenditures, Murphy 2026-03 and Forsyth 2026-06); `reconciles_*` is blank
-   on the other 109 — **unknown, not a match**. To quote a donor, open the PDF.
+3. **`reconciles_*` is defined against the PUBLISHED stated total, and `False` there does NOT
+   mean a missing donor.** A side is gated against the figure the FACE prints, and on these
+   forms that is often not the published total: Carr contributions gate on **cover line 1**
+   (line 2 is an unitemized ≤$50 aggregate), a cumulative-sheet schedule may cover only the
+   current period and gate on the **THIS REPORT** column, and several filers exclude their own
+   in-kind rows from their totals. Each side's real anchor, closure and cause live in
+   `vision/<key>.json._meta.itemized.recon.<side>` — read that before quoting a delta.
+   79 contribution / 76 expenditure sides read `True`; 18 / 21 read `False` (almost all for one
+   of the three reasons above); 14 are blank = **unknown, never a fabricated match**.
 
-## The born-digital itemized layer (TRANCHE 3 Phase A, 2026-08-02) — and why it is 8 rows
+## The itemized layer (TRANCHE 3 Phase B, 2026-08-14) — 851 rows, 0 sides withheld
 
-The registered `wasatch_disclosure_tableab` family was wired into `build_finance.py` for the
-**49 Table A/B filings**, selected on the VISION-read `_meta.form_variant_vision` — **never the
-statute header**, which is the exact mistake that mis-filed 6 rows until 2026-08-01 (the 2024
-vintage of the NEW sheet still cites 17-16-6.5).
+**851 donor/vendor rows: 346 contributions + 505 expenditures over 73 filings** ($182,337.32
+contributed, $168,109.85 spent, 253 distinct normalized donors). **All 111 filings have an
+itemized layer**; the 38 with no rows are enumerated below and are three different facts, not one
+gap. Built by two routes and materialized through one screen.
 
 | | count |
 |---|---:|
-| Table A/B filings handed to the family | **49 of 111** |
-| contribution sides shipped | **0** |
-| expenditure sides shipped | **2** (Michael Murphy 2026-03 · Lauren Forsyth 2026-06) |
-| rows emitted | **0 contributions · 8 expenditures** (100% carry `geometry`) |
+| filings with an itemized layer | **111 of 111** |
+| filings publishing >=1 row | **73** (2010 4 · 2018 7 · 2020 22 · 2022 9 · 2024 10 · 2026 21) |
+| sides exact-reconciled | **168** |
+| sides carrying a verbatim filer delta | **20** |
+| sides **withheld** | **0** |
+| sides `unknown` (no anchor on the face, or no schedule page) | **28** |
+| rows carrying a `pct:` geometry anchor | **850 of 851** |
+| rows flagged `needs_review=1` | 79 |
+| rows with a deliberately blank date | 52 |
 
-**Why so little, stated honestly:**
+### Route 1 — the born-digital family, with its Phase B DATE-GRAMMAR fix (25 rows)
 
-- **Most Table A/B covers have no readable ledger on their text layer at all.** The family
-  refuses to turn a garbled cell into a number — Bonner's 2024 general prints `$ f -7 DD.oo`
-  and `r Vbi&/"q` where $700.00 / $3,612.69 belong — so those filings emit nothing and their
-  real figures stay where they are, in `vision/`.
-- **FIELD SHIFT — the finding of this pass.** On Woodard 2026-03, Kellogg 2026-03 and Vance
-  2026-06 the family put the **date token in the NAME column** and slid the real name into the
-  next field (`donor_raw = "17 Jan 2026"`, `"1.2.26"`, `"5May26"`), because those filers write
-  dates in formats its grammar does not know. **The amounts still summed EXACTLY to the printed
-  totals**, so reconciliation could not catch it — which is precisely why this module screens
-  every parsed side for mis-columned rows before publishing. Where **≥50% of a side's rows are
-  shifted the whole side is WITHHELD** (a systematically mis-columned ledger is a wrong value,
-  not a rough one); an isolated shift would be kept and flagged. Here every affected section was
-  100% shifted, so all 3 contribution sides and 3 expenditure sides were withheld.
-  **FAMILY LIMITATION, documented not patched** — the shared engine is frozen this phase, and a
-  date-grammar extension is queued for Phase B. Each withheld side names itself in
-  `filing_totals.notes`.
-- **Rowland 2026-06's Table B is OCR noise** (`| es | |`, `a es es eee`) from which the family
-  produced one letterless row that happened to equal the stated total. Withheld by the same
-  screen.
-- **MULTI-REPORT PDF:** `raw/2024/202411_732_s-park-general.pdf` binds **two** CAMPAIGN
-  FINANCIAL DISCLOSURE reports in one file. The family reads ONE face per parse, so the second
-  report is **gated out with a reason** and flagged for Phase B — never merged into the first
-  report's totals.
-- **Cover divergences are recorded, never resolved.** Where the family reads a different cover
-  figure than the vision transcription (e.g. Bob Adams 2024-03: family 252.68 vs published
-  9,832.68), the **vision figure governs** and the disagreement is written into `notes`.
-- **0 of 111 `stated_*` values changed** in this pass.
+`scripts/campaign_finance/families/wasatch_disclosure_tableab.py` parses the machine-readable
+Table A/B text layer. Phase A knew only `M/D/YY(YY)`, so three 2026 filers' own date styles —
+`17 Jan 2026`, `1.2.26` / `11 .7.25`, `5May26` — left the date token in the NAME column and slid
+the real name one field right. **The amounts still summed EXACTLY**, which is why reconciliation
+could not see it and all six sides were withheld: that is the whole point of the
+`wasatch-field-shift` calibration specimen, and it came from this county.
+
+The grammar now matches those three shapes. **Month names are ENUMERATED, never a bare
+`[A-Za-z]{3,9}`** — a bare alpha class would eat the vendor name of a row whose date cell is
+empty ("May Company  $50.00"), which is the same class of error the fix exists to remove. Four
+regression tests cover it in `scripts/campaign_finance/tests/test_families.py`, including that
+negative control. **All 7 sides Phase A withheld are now closed** (Woodard 2026-03, Kellogg
+2026-03, Vance 2026-06 by the parser; Rowland 2026-06's Table B — withheld as "OCR noise" — by
+the vision read, which found a clean typed single row).
+
+### Route 2 — the READ-TOOL VISION WAVE (826 rows)
+
+Every page of the other 108 filings rendered at 200 dpi and read; escalation to 600–1200 dpi
+TIGHT CELL CROPS only (89 of them, on 27 filings), never a bigger full page. $0 API. The configuration passed
+the CF calibration suite **13/13, all five negative controls holding**, before any bulk
+transcription (`_audits/cf-calibration-suite/runs.md`, 2026-08-14).
+
+### PRECEDENCE: the vision read governs
+
+Where both routes covered a side, the **vision rows are published and the family's are held in
+the parse only** — the same rule this module already applies to the cover ("the VISION figure
+governs"). The family is a regex over a text layer and is demonstrably brittle here (blank vendor
+names on Forsyth 2026-06; three whole filings mis-columned before the date fix). Every
+supersession writes a note naming both row counts and both sums, so nothing is silently dropped.
+
+### RECONCILIATION: three legitimate anchors, because the forms have three
+
+A side is gated against the figures the FACE prints, first exact closure wins, and the anchor
+names itself in `vision/<key>.json._meta.itemized.recon.<side>`:
+
+1. **Carr 4-line contributions gate on COVER LINE 1**, not the published total — line 2 is an
+   **unitemized AGGREGATE of contributions of $50 or less** that Form A does not itemize and
+   never could. Ground truth: Scott Sweat 2010, Form A = 340.00 = line 1 exactly, and the 250.00
+   difference from the published 590.00 *is* line 2.
+2. **A cumulative-sheet schedule may be PERIOD-SCOPED** while the cover states the cumulative
+   figure; the residual then equals the TOTALS-FROM-LAST-REPORT cell to the cent. Common across
+   2020. Closing on the THIS REPORT column is a real closure and is labelled as one.
+3. **IN-KIND TREATMENT IS PER FILER, NOT PER FORM.** Tyler Dow 2018 and Aimee Armer 2020 EXCLUDE
+   their in-kind rows from their own printed totals — a sum that counted them would not
+   reconcile — while Jennifer Lee 2020 INCLUDES hers and still closes exactly. Both are tried.
+
+⚠ Consequently `filing_totals.reconciles_*` — which is defined against the **published**
+`stated_total_*` — reads `False` on a side that closed perfectly on line 1 or on THIS REPORT.
+`recon_delta_*` carries the difference and the cache's `recon.<side>.detail` names its cause.
+**`False` there is not a missing donor.**
+
+### The 20 verbatim deltas — every one diagnosed, none adjusted
+
+Full text in each cache; the cache also preserves the transcriber's own account verbatim, which
+is where the diagnosis lives. Classes:
+
+- **A filer wrote the wrong thing in the total cell.** *Koson 2010* prints a bare **`5`** on cover
+  line 1 while Form A itemizes exactly **five** contributions totalling $2,250 — and his own
+  line-3/line-4 identity (2,250 spent, 0 balance) only closes at 2,250. He entered the contributor
+  COUNT in a dollar cell. The cover was re-read in full to confirm no larger figure hides there.
+- **Filer arithmetic:** Kosakowski 2018 (−320.00 / +10.00; all 44 amounts re-read in 600 dpi
+  column crops, unchanged), Farrell 2020-12 (+5.00), Farrell 2026-03 and 2026-06 (+1.00 both
+  sides, 1200 dpi), Rigby 2026-06 (+1.00), Mainord 2026-03 (+66.00), Hokanson 2020-06 (+10.00),
+  Granger 2020-06 (a SIGN only, against her printed −246.08).
+- **The filer totalled a different column:** Armer 2020-10 totalled the GROSS "Total charged"
+  (amount + donor-paid fee) on an attached FundHero export; Searle 2022-06's expenditure residual
+  is exactly his one filing-fee row.
+- **The cover asserts money the schedule never itemizes:** Bercuson 2024-06 (100.00 in),
+  Bercuson 2024-11 (600.00 out); and the reverse, Hewlett 2024-11, whose struck-then-circled `0`
+  cover cell sits against a Table A itemizing 1,300.00.
+- **One residual survives escalation:** *Searle 2022-06 contributions*, −$50.00. The reading that
+  would close it was **rejected** — the sheet is born-digital and prints `$230.00` unambiguously
+  — and his cover is internally consistent. The shortfall is in the schedule.
+
+### 38 filings publish no row, and that is THREE different facts
+
+| state | filings | means |
+|---|---:|---|
+| schedule page present and **BLANK** | **26** | a real zero — the page was looked at and recorded |
+| **no schedule page in the document** | **9** | cover-only 1-page PDFs (Park ×3, Nelson ×2, Burgener, Griffin, McMillan 2022-06, Tugaw 2026-06). **Non-existence, not zero**, even where the cover states 0 |
+| mixed (one side blank, the other absent) | **3** | Nelson 2020-06, Griffin 2020-06 and 2020-12 |
+
+Everywhere else in this repo an empty itemized side means NOT TRANSCRIBED. On those 26 it means
+the schedule is blank, because `sides.<side> = "transcribed"` with zero rows is a recorded read.
+
+### Geometry
+
+`pct:x,y,w,h@p<page>` (SCHEMA §2a), resolvable by `scripts/campaign_finance/make_snippet.py`.
+Born-digital rows carry an **exact** box from `pdftotext -bbox-layout` (free on a machine-readable
+page; the per-cell `<line>` fragments are clustered back into rows by vertical overlap, and an
+ambiguous match is refused rather than guessed). Vision rows carry an **estimated band** from the
+form's own fixed ruled-row pitch, stamped `geometry_fit: "estimated"`. Either way it is a POINTER
+to the row, never a value. One row keeps the coarser `p2:l81:c69-73` text-line pointer.
+
+### How to REBUILD or EXTEND this layer
+
+The wave's working set is preserved at `_backups/2026-08-14-tranche3-phaseb/wasatch/`:
+`queue.csv`, `chunks/chunk_NN.csv`, `records/chunk_NN.json` (the raw transcription records),
+`AGENT_BRIEF.md` (**the per-row contract verbatim — hand this to any agent that continues the
+work**) and `wave_stats.py` (every number this doc quotes).
+
+```
+python3 wasatch_county/campaign_finance/make_itemized_caches.py \
+        _backups/2026-08-14-tranche3-phaseb/wasatch/records     # --dry-run first
+python3 wasatch_county/campaign_finance/build_finance.py
+python3 scripts/campaign_finance/validate_finance.py wasatch_county/campaign_finance
+python3 _backups/2026-08-14-tranche3-phaseb/wasatch/wave_stats.py            # and --residue
+```
+`make_itemized_caches.py` **re-screens every record from scratch** — it recomputes each side's
+reconciliation against the right anchor, re-runs the field-shift and privacy screens and
+re-derives geometry — so the published layer is reproducible from the records and never depends
+on a claim a transcriber made. It is the ONLY writer of the itemized half of a cache and never
+touches the stated-totals half.
 
 ## The stated-totals layer
 
@@ -188,9 +290,29 @@ stated  per printed line -> per COLUMN cell {value, confidence}.
           wasatch_fcr_3line: total_contributions, total_expenses, balance_end
         period variant: a single `period` cell
           wasatch_disclosure_tableab: total_contributions, total_expenditures, balance_end
-itemized_transcribed  false everywhere (this tranche)
+itemized_transcribed  false everywhere (a Phase-A field; the live flag is `_meta.itemized`)
 notes   per-filing verbatim observations
+
+_meta.itemized  (added 2026-08-14; written ONLY by make_itemized_caches.py)
+        wave, transcribed_date, record_file, variant, pages_read, itemized_pages_A/B,
+        sides {contributions,expenditures} -> transcribed | withheld | none,
+        withheld_reason, recon per side {stated, itemized, result, anchor, detail,
+        published_stated, csv_reconciles, csv_delta}, page_subtotal_gates, escalations,
+        escalation_note, n_contrib_rows, n_expend_rows, geometry {bbox_exact, estimated_band},
+        screen_findings, notes
+contributions / expenditures   the itemized rows themselves: line_no, page, row_i, date,
+        donor_raw|vendor_raw, donor_city, donor_state (USPS code), purpose, amount, in_kind,
+        needs_review, confidence, cell_confidence, verified, note, geometry, geometry_fit
 ```
+
+**FOUR honest states, never conflated** (SLCo's vocabulary, same meanings):
+
+| state | means |
+|---|---|
+| `sides.<side> = "transcribed"` + rows | the lines were read |
+| `sides.<side> = "transcribed"` + ZERO rows | the schedule page exists and is **BLANK** — a real zero |
+| `sides.<side> = "none"` | the document has no such schedule page — **non-existence, not zero** |
+| `sides.<side> = "withheld"` + `withheld_reason` | columns could not be assigned or the read could not be finished — **no rows, no sum claimed** (currently 0) |
 `value` is the string **as printed** (`"N/A"`, `"(331.75)"`, `"250."`); `""` = the cell is blank
 on the face. `confidence` is per cell: `high` / `medium` / `""` (blank cell).
 `text_layer_corroborated_lines` lists the lines whose transcribed figure also appears verbatim
@@ -199,11 +321,13 @@ scans and for handwriting, which is expected, not a defect).
 
 ### Still not built
 
-`contributions.csv` / `expenditures.csv` rows, `cycle_totals.csv`, `donor_aliases.csv`,
-`finance_overrides.csv`, and any `gov.db` federation. A shared form-family module for either
-Wasatch sheet is still absent from `scripts/campaign_finance/families/` — both sheets were
-tested against `millcreek_form` and `utah_standard_form` and returned 0 rows and no totals —
-and adding one means editing shared code, which is outside this module's write scope.
+`cycle_totals.csv`, `donor_aliases.csv`, `finance_overrides.csv`, and any `gov.db` federation.
+**Do not derive a cycle total here without reading "The three things to get right" first** — the
+regime is per CANDIDATE on the 2024/2026 sheet, and `cf_cycle` is city-only by repo design.
+There is still **no shared form-family module for the two OLDER Wasatch sheets**
+(`carr_5_5_pg_4line`, `wasatch_fcr_3line`); their 528 rows are vision-transcribed, which is the
+right tool for handwriting and was cheaper than writing two parsers for pages whose text layers
+are OCR of cursive.
 
 ## Provenance notes worth carrying
 
@@ -295,3 +419,10 @@ New filings need a **vision cover transcription** before they appear in `filing_
 cache (silence is not an option here). Transcribe with `/cf-vision-transcribe` (Read-tool
 method, $0 API), then `python3 build_finance.py && python3
 scripts/campaign_finance/validate_finance.py wasatch_county/campaign_finance`.
+
+To ITEMIZE a new filing, write a transcription record under the Phase-B contract
+(`_backups/2026-08-14-tranche3-phaseb/wasatch/AGENT_BRIEF.md`) and run
+`make_itemized_caches.py <records_dir>` before `build_finance.py`. A born-digital 2024/2026 sheet
+may need nothing: `build_finance.py` already hands every `wasatch_disclosure_tableab` filing to
+the registered family, and where the family reconciles a side the row set is published
+automatically. `wave_stats.py --residue` lists any filing with no itemized layer at all.

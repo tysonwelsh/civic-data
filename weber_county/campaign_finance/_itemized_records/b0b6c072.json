@@ -1,0 +1,197 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_e3986a38.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "b0b6c072",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $ 520.00' on p2, equal to the cover's This Report cell ($520.00)",
+    "detail": "4 Form A rows (250.00 + 100.00 + 70.00 + 100.00) sum to 520.00 exactly = the schedule's printed total = the cover's This-Report column. Cumulative is 21,708.86 with 21,188.86 from the last report, and 21,188.86 + 520.00 = 21,708.86, so the cover's own arithmetic closes and the schedule is PERIOD-scoped (the 6/3-6/10 window only); the earlier cycle is not itemized here and nothing was synthesized by differencing covers. 2026 3-line variant, no separate <=$50 aggregate line. No in-kind rows, so both in-kind conventions agree."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 18.69' on p3, equal to the cover's This Report cell (18.69)",
+    "detail": "2 Form B rows (4.29 + 14.40) sum to 18.69 exactly = the schedule's printed total = the cover's This-Report column; 17,532.36 last + 18.69 this = 17,551.05 cumulative, so the cover closes and the schedule is period-scoped."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "Four 900 dpi tight --value crops, all A3 indexing proofs, two per schedule page: p2 row 1 rendered '$ 250.00' and row 4 rendered '$ 100.00'; p3 row 1 rendered '$ 4.29' and row 2 rendered '$ 14.40'. No legibility escalation was needed - both sides closed exactly on the first full-page read.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     81.32,
+     90.85
+    ],
+    "cells": [
+     [
+      9.91,
+      17.26
+     ],
+     [
+      17.26,
+      44.09
+     ],
+     [
+      44.09,
+      81.32
+     ],
+     [
+      81.32,
+      90.85
+     ]
+    ],
+    "rows": [
+     [
+      14.55,
+      16.09
+     ],
+     [
+      16.09,
+      17.7
+     ],
+     [
+      17.7,
+      19.25
+     ],
+     [
+      19.25,
+      20.82
+     ]
+    ],
+    "measure_note": "PORTRAIT page (rot 0) with a compact 1.55 pct row pitch - a different 2026 layout from the landscape Form A other 2026 filers used, and this variant prints NO shaded spacer row: h_rules[0]=12.98 is the table top, [1]=14.55 the header-row bottom, and the data rows start immediately at 14.55. The header band is the only NON-DATA band and it was trimmed; only the 4 used rows are stored (h_rules[1..5]), the blank printed rows below are not. cell is the AMOUNT column (4th and last v_rules band), not the name column. PROOF (A3): pct:81.32,14.55,9.53,1.54@p2 rendered '$ 250.00' (row 1) and pct:81.32,19.25,9.53,1.57@p2 rendered '$ 100.00' (row 4) - the recorded first and last amounts, so the bands are index-aligned and the missing spacer did not shift them."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     81.91,
+     90.91
+    ],
+    "cells": [
+     [
+      10.06,
+      18.79
+     ],
+     [
+      18.79,
+      57.09
+     ],
+     [
+      57.09,
+      66.06
+     ],
+     [
+      66.06,
+      81.91
+     ],
+     [
+      81.91,
+      90.91
+     ]
+    ],
+    "rows": [
+     [
+      19.48,
+      21.11
+     ],
+     [
+      21.11,
+      22.8
+     ]
+    ],
+    "measure_note": "Portrait Form B; unlike this filing's Form A it DOES print a blank spacer row. h_rules[0]=11.68 title rule, [1]=13.11 table top, [4]=17.84 the bottom of the two-line header and [5]=19.48 the spacer bottom - all NON-DATA and trimmed, as are the two spurious rules at 15.39/15.80 thrown by the header's own second text line. The 2 stored bands are h_rules[5..7], index-aligned with the 2 printed data rows. cell is the AMOUNT column (5th of 5 v_rules bands). PROOF (A3): pct:81.91,19.48,9.0,1.63@p3 rendered '$ 4.29' (row 1) and pct:81.91,21.11,9.0,1.69@p3 rendered '$ 14.40' (row 2)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "6/3/26",
+    "donor_raw": "Ryan Rogers",
+    "donor_city": "Warren",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer printed 'Warren. UT' with a period where the comma belongs - the locality is Warren, Utah; punctuation not carried"
+   },
+   {
+    "line_no": "2",
+    "date": "6/4/26",
+    "donor_raw": "James Jensen",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "6/10/26",
+    "donor_raw": "Brent Odenwalder",
+    "donor_city": "Hooper",
+    "donor_state": "UT",
+    "amount": "70.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "6/10/26",
+    "donor_raw": "Karl Oelke",
+    "donor_city": "Warren",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "6/3/26",
+    "vendor_raw": "Venmo Transfer fee: Ryan Rogers",
+    "vendor_city": "Warren",
+    "purpose": "Venmo Fee",
+    "amount": "4.29",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "note": "the fee on the same-day 250.00 Rogers contribution; the filer names the contributor inside the payee cell and it is kept verbatim"
+   },
+   {
+    "line_no": "2",
+    "date": "6/9/26",
+    "vendor_raw": "Kents Market -cookies/water",
+    "vendor_city": "Plain City",
+    "purpose": "Candidate Meet",
+    "amount": "14.40",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "TYPED 2026 filing with a HANDWRITTEN signature and date ('6-14-26'), June-16 Primary Election box checked; p1 cover, p2 Form A, p3 Form B - both schedules PORTRAIT on this filing, a third 2026 layout variant alongside the landscape county grid (Gibson) and the spreadsheet printouts (Bolos). The filer's Form A has no shaded spacer row while the Form B does, so the two frames trim different numbers of leading bands - the kind of within-filing difference that an assumed band offset would get wrong. PRIVACY: the county blacked out the candidate's STREET line on the cover but left 'Ogden, 84404' printed; Form A carries no street column at all - the filer typed only 'City, ST' in the Address column, so donor_city/donor_state are complete and nothing was withheld from a donor row. Every donor is a Weber County west-side locality (Warren, Plain City, Hooper). This is a small campaign in a large account: 520.00 raised in this period against a 21,708.86 cumulative."
+ }
+]

@@ -1,102 +1,156 @@
 {
-  "_meta": {
-    "index_path": "raw/2022/202211_K.-McMillan-Financial-Disclosure-General_001.pdf",
-    "cache_key": "ced75fef",
-    "entity": "wasatch_county",
-    "election_year": "2022",
-    "reporting_period_index": "General 2022",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Karl G. McMillan",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2022/202211_K.-McMillan-Financial-Disclosure-General_001.pdf",
+  "cache_key": "ced75fef",
+  "entity": "wasatch_county",
+  "election_year": "2022",
+  "reporting_period_index": "General 2022",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "exact (0.00 = 0, cover line 1 (>$50, from form A), CUMULATIVE column)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "district_verbatim": {
-      "value": "F",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey Granger, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "Nov. 3, 2022",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (0.00 = 0, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on the Carr 5-5-PG schedules; cover-only gate: line1=0, line2=0, line3=0, line4(balance)=0 in all three columns — 0-0=0 closes.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "carr_5_5_pg_4line, handwritten cover, born-digital-scan of a hand-filled form. 3-page PDF: p4 (statute text) is absent from this file — nothing itemized is lost by that. Cover: Karl G. McMillan, Wasatch County Council District F, Republican, dated Nov. 3, 2022, signed. Both schedule pages examined at full-page 200 dpi and are blank ruled forms — a real zero, not a gap. NOTE on the zero glyphs: the filer's zeros are open hand-drawn '0' characters (not slashed), i.e. actual numerals, so §3(e) is not even needed. This is a CUMULATIVE-regime sheet, and the cumulative column is 0, so no prior-report rows exist elsewhere either."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Karl G. McMillan",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "district_verbatim": {
+   "value": "F",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey Granger, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "Nov. 3, 2022",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": []
 }

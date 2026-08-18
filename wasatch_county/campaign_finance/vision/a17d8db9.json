@@ -1,63 +1,153 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202411_746_colleen-bonner-campaign-001.pdf",
-    "cache_key": "a17d8db9",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "General 2024 (pre-general / post-election)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Colleen Bonner",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202411_746_colleen-bonner-campaign-001.pdf",
+  "cache_key": "a17d8db9",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "General 2024 (pre-general / post-election)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "700.00",
+     "itemized": "700.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (700.00 = 700.00, published stated total)",
+     "published_stated": "700.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10-29-24",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Sept 30 Report",
-      "General Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "700.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "3612.69",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "-2912.69",
-        "confidence": "medium"
-      }
+    "expenditures": {
+     "stated": "3612.69",
+     "itemized": "3612.69",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (3612.69 = 3612.69, published stated total)",
+     "published_stated": "3612.69",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL 700.00 = rows 700.00 -> GATE PASSES. p2 Table B TOTAL 3612.69 = rows 3612.69 -> GATE PASSES.",
+   "escalations": 4,
+   "escalation_note": "both row dates re-rendered as 600 dpi cell crops (twice each, widened the second time to capture the year): Table A '6-17-24', Table B '6-18-24' -- confirmed, no 10/ prefix.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten. Colleen Bonner, Wasatch County Council Seat B, Republican, Midway UT; BOTH Sept 30 and General Report boxes marked (the known 'select only one' violation); signed 10-29-24; cover balance -2912.69. DATE-vs-PERIOD ANOMALY, named not resolved: the General Report period is printed as 'Sep 26 to Oct 24, 2024' but both itemized rows are dated mid-JUNE 2024 -- dates kept exactly as written."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Colleen Bonner",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "RECON.md's documented example of the period-scoped sheet ('Covering Sep 26 to Oct 24, 2024'), and it matches: $700.00 raised / $3,612.69 spent in the period. Two period boxes marked (Sept 30 and General)."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10-29-24",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Sept 30 Report",
+   "General Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "700.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "3612.69",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "-2912.69",
+    "confidence": "medium"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "RECON.md's documented example of the period-scoped sheet ('Covering Sep 26 to Oct 24, 2024'), and it matches: $700.00 raised / $3,612.69 spent in the period. Two period boxes marked (Sept 30 and General).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-06-17",
+   "donor_raw": "Steve & Colleen Bonner",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "note": "date written '6-17-24' (verified in a 600 dpi crop); In-Kind/Tangible column reads verbatim 'Loan' -- a description of a cash loan from the candidate and her spouse, not a tangible item, so in_kind=false; amount written '700.00' with superscript cents.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-06-18",
+   "vendor_raw": "Arena Mail + Digital",
+   "purpose": "(Social Media)",
+   "amount": "3612.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "date written '6-18-24' (verified in a 600 dpi crop); purpose written in parentheses on the face.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

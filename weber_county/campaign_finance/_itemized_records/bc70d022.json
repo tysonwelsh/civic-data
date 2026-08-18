@@ -1,0 +1,285 @@
+[
+  {
+    "index_path": "raw/wayback/wb20160824045455_16July_Gochnour_Commission.pdf",
+    "page_start": 1,
+    "page_end": 3,
+    "key": "bc70d022",
+    "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+    "pages_read": [
+      1,
+      2,
+      3
+    ],
+    "itemized_pages_A": "2",
+    "itemized_pages_B": "3",
+    "sides": {
+      "contributions": "transcribed",
+      "expenditures": "transcribed"
+    },
+    "recon": {
+      "contributions": {
+        "result": "period-exact",
+        "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $ 3,500.00', which equals the cover's line-1 Totals For THIS REPORT (3,500.00); the line-1 Cumulative cell is 35,662.25 and is NOT itemized here",
+        "detail": "Form A carries 9 rows, of which SEVEN are monetary and TWO are labelled 'In-Kind' in the amount cell itself. BOTH in-kind conventions were tested, as the ratified basis rule requires. Monetary-only: 1000.00 + 100.00 + 50.00 + 100.00 + 1000.00 + 1000.00 + 250.00 = 3,500.00, which is EXACTLY the schedule's printed total and the cover's This-Report cell. In-kind-inclusive: 3,500.00 + 3,326.00 + 1,327.00 = 8,153.00, which matches nothing printed anywhere on the document. THIS FILER EXCLUDES IN-KIND FROM THE TOTALS -- the opposite of the convention CHUNK_BRIEF.md §6 describes for weber's 4-line form, and a direct confirmation of the 2026-08-17 addendum's ruling that in-kind is PER-FILER, not a form property. The 2016 3-line form is also a different instrument: line 1 reads 'Total contributions from all donors' with no >$50 threshold and no separate <=$50 aggregate line, so the anchor is the single contrib_all cell and the line-1/line-2 basis rule does not apply. Period-scoped: the cover's Totals From Last Report column is populated (32,162.25), and 32,162.25 + 3,500.00 = 35,662.25 confirms the cover's own arithmetic. The two in-kind rows are RETAINED as rows with in_kind true and are correctly excluded from the reconciling sum."
+      },
+      "expenditures": {
+        "result": "period-exact",
+        "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): $ 1,551.00', which equals the cover's line-2 Totals For THIS REPORT (1,551.00); the line-2 Cumulative cell is 34,320.16 and is NOT itemized here",
+        "detail": "3 Form B rows on p3: 576.00 + 300.00 + 675.00 = 1,551.00 = the schedule's printed total = the cover's line-2 This-Report cell. Prior periods (32,769.16) are not itemized on this document. No expenditure row is labelled in-kind, so both conventions coincide on this side. Whole-cover cross-check of the filer's own arithmetic: 35,662.25 - 34,320.16 = 1,342.09, exactly the printed line-3 Cumulative Ending Balance; and the This-Report column's 3,500.00 - 1,551.00 = 1,949.00 matches its printed ending-balance cell."
+      }
+    },
+    "escalations": 1,
+    "escalation_note": "One escalation, on p2 row 9's amount cell: the 200 dpi full-page read showed 'In-Kind $1,327,00' with what looked like a comma where the decimal point belongs, and that had to be settled rather than assumed. A 900 dpi tight crop (pct:83.34,39.94,13.73,3.18@p2) confirms the glyph IS a comma -- the cell reads literally 'In-Kind  $1,327,00'. It is therefore a malformed decimal and is recorded BLANK with needs_review, never repaired (see the row note). The other crops taken were the mandatory geometry proofs.",
+    "frames": {
+      "2": {
+        "axis": "y",
+        "cell": [
+          83.34,
+          97.07
+        ],
+        "cells": [
+          [
+            2.86,
+            11.0
+          ],
+          [
+            11.0,
+            41.23
+          ],
+          [
+            41.23,
+            83.34
+          ],
+          [
+            83.34,
+            97.07
+          ]
+        ],
+        "rows": [
+          [
+            14.71,
+            17.85
+          ],
+          [
+            17.85,
+            21.0
+          ],
+          [
+            21.0,
+            24.18
+          ],
+          [
+            24.18,
+            27.32
+          ],
+          [
+            27.32,
+            30.47
+          ],
+          [
+            30.47,
+            33.65
+          ],
+          [
+            33.65,
+            36.79
+          ],
+          [
+            36.79,
+            39.94
+          ],
+          [
+            39.94,
+            43.12
+          ]
+        ],
+        "measure_note": "This filing is NOT rotated -- the 2016 3-line form renders landscape (2200x1700) with rows running TOP TO BOTTOM, so axis is 'y': the ROW bands are rowbands.py's h_rules_pct and the COLUMN bands are its v_rules_pct. This is the opposite assignment from the 2014 sheets in the same chunk, and page-shape was checked rather than assumed. Only 5 vertical rules exist and they give the four printed columns cleanly, so 'cells' IS recorded here (unlike the rotated 2014 sheets, where the interior boundaries could not be verified): Date / Name of Contributor / Address / Amount. cell = the AMOUNT column [83.34,97.07], the LAST column of the table. Two non-data bands were TRIMMED from the head of the row list before index-aligning: the HEADER band [8.47,11.53] and the grey SHADED spacer band [11.53,14.71] that this form prints between the header and the first data row (addendum 2026-08-18 §2.2). The band [5.97,8.47] above them is the rule under the title block, not a table row, and was also dropped. Pitch is a constant ~3.15 and no band was extrapolated. deskew_deg 0.0-0.1. PROOF (900 dpi --value): first row pct:83.34,14.71,13.73,3.14@p2 rendered '$ 1,000.00' (recorded 1000.00); last row pct:83.34,39.94,13.73,3.18@p2 rendered 'In-Kind $1,327,00' (recorded BLANK + needs_review, glyph preserved in the row note) -- i.e. the band resolves to row 9 and not to its neighbour."
+      },
+      "3": {
+        "axis": "y",
+        "cell": [
+          85.59,
+          98.5
+        ],
+        "cells": [
+          [
+            1.45,
+            9.59
+          ],
+          [
+            9.59,
+            54.95
+          ],
+          [
+            54.95,
+            65.64
+          ],
+          [
+            65.64,
+            85.59
+          ],
+          [
+            85.59,
+            98.5
+          ]
+        ],
+        "rows": [
+          [
+            16.59,
+            19.68
+          ],
+          [
+            19.68,
+            22.76
+          ],
+          [
+            22.76,
+            25.82
+          ]
+        ],
+        "measure_note": "Same unrotated landscape geometry as p2 (axis y). Five vertical rules give the five printed columns: Date of Expenditure / Person or Organization / City / Purpose of Expenditure / Amount; cell = the AMOUNT column [85.59,98.50], the last one. NOTE the head of this table differs from p2's: Form B's header is TWO text lines tall, so its header band is [8.47,13.44] (taller than p2's) and the grey shaded spacer band is [13.44,16.59]; both were trimmed, and the first data band is [16.59,19.68]. Getting this from p2's numbers by analogy would have put every row one band early, so it was measured on its own. Pitch ~3.08, no extrapolation. deskew_deg 0.0-0.1. PROOF (900 dpi --value): the side has only three rows so ALL THREE were cropped -- pct:85.59,16.59,12.91,3.09@p3 rendered '576.00' (recorded 576.00); pct:85.59,19.68,12.91,3.08@p3 rendered '300.00' (recorded 300.00); pct:85.59,22.76,12.91,3.06@p3 rendered '675.00' (recorded 675.00)."
+      }
+    },
+    "contributions": [
+      {
+        "line_no": "1",
+        "date": "6/16/2016",
+        "donor_raw": "R & O Construction, Orluff Opheikens",
+        "donor_city": "Ogden",
+        "amount": "1000.00",
+        "page": 2,
+        "row": 1,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "2",
+        "date": "6/16/2016",
+        "donor_raw": "Sally Neill",
+        "donor_city": "Ogden",
+        "amount": "100.00",
+        "page": 2,
+        "row": 2,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "3",
+        "date": "6/20/2016",
+        "donor_raw": "Sterling & Barbara Sessions",
+        "donor_city": "Ogden",
+        "amount": "50.00",
+        "page": 2,
+        "row": 3,
+        "confidence": "medium",
+        "in_kind": false,
+        "note": "Exactly $50.00. On the 2016 3-line form line 1 is 'Total contributions from ALL donors' with no >$50 threshold, so a $50.00 donor is itemized here; on the 2014 4-line form the same donor would have fallen into the <=$50 aggregate and never appeared as a row."
+      },
+      {
+        "line_no": "4",
+        "date": "6/22/2016",
+        "donor_raw": "Janet Muir",
+        "donor_city": "Eden",
+        "amount": "100.00",
+        "page": 2,
+        "row": 4,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "5",
+        "date": "6/23/2016",
+        "donor_raw": "Mike Caldwell",
+        "donor_city": "Ogden",
+        "amount": "1000.00",
+        "page": 2,
+        "row": 5,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "6",
+        "date": "6/25/2016",
+        "donor_raw": "Stokes Strategies, Spencer Stokes",
+        "donor_city": "SLC",
+        "amount": "1000.00",
+        "page": 2,
+        "row": 6,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "7",
+        "date": "7/4/2016",
+        "donor_raw": "Kent Collins",
+        "donor_city": "Ogden",
+        "amount": "250.00",
+        "page": 2,
+        "row": 7,
+        "confidence": "medium",
+        "in_kind": false
+      },
+      {
+        "line_no": "8",
+        "date": "6/25/2016",
+        "donor_raw": "CMV Pac Design/Print 5,000 Mailers",
+        "donor_city": "SLC",
+        "amount": "3326.00",
+        "page": 2,
+        "row": 8,
+        "confidence": "medium",
+        "in_kind": true,
+        "note": "The filer's verbatim amount cell reads 'In-Kind  $3,326.00' -- the in-kind tag is written INSIDE the amount cell, not in a separate column. This filer EXCLUDES in-kind from the schedule total (see recon.contributions.detail), so this row is retained but is not part of the 3,500.00 that closes the side."
+      },
+      {
+        "line_no": "9",
+        "date": "6/29/2016",
+        "donor_raw": "CMV Pac Mailing Costs",
+        "donor_city": "SLC",
+        "amount": "",
+        "page": 2,
+        "row": 9,
+        "confidence": "low",
+        "in_kind": true,
+        "needs_review": 1,
+        "note": "MALFORMED DECIMAL, NOT REPAIRED. The amount cell reads verbatim 'In-Kind  $1,327,00' -- a COMMA where the decimal point belongs, confirmed at 900 dpi and not an artefact of the 200 dpi page render. CHUNK_BRIEF.md §6 makes malformed decimals unparseable-BLANK and never repaired, and whitelists only the HANDWRITTEN decimal comma; this is a TYPED cell on a typed form, so it falls outside the whitelist and the amount is left BLANK with needs_review rather than silently corrected to 1327.00. This costs the record nothing arithmetically: the row is in-kind, this filer excludes in-kind from the total, and the seven monetary rows still close on the printed 3,500.00 exactly -- so the contributions side is NOT a floor."
+      }
+    ],
+    "expenditures": [
+      {
+        "line_no": "1",
+        "date": "6/26/2016",
+        "vendor_raw": "Standard Examiner",
+        "vendor_city": "Ogden",
+        "purpose": "Advertisement",
+        "amount": "576.00",
+        "page": 3,
+        "row": 1,
+        "confidence": "medium"
+      },
+      {
+        "line_no": "2",
+        "date": "7/9/2016",
+        "vendor_raw": "Danette Pulley",
+        "vendor_city": "Ogden",
+        "purpose": "Ads & Election Night Supplies",
+        "amount": "300.00",
+        "page": 3,
+        "row": 2,
+        "confidence": "medium"
+      },
+      {
+        "line_no": "3",
+        "date": "7/14/2016",
+        "vendor_raw": "Marsha Murphey Graphics",
+        "vendor_city": "SLC",
+        "purpose": "Campaign Graphics",
+        "amount": "675.00",
+        "page": 3,
+        "row": 3,
+        "confidence": "medium"
+      }
+    ],
+    "notes": "First transcription of this key (not a re-do). 2016 3-line form variant, and a DIFFERENT INSTRUMENT from the 2014 4-line form the rest of this chunk uses: line 1 is 'Total contributions from all donors' with no >$50 threshold and no separate <=$50 aggregate line, so the anchor is the single contrib_all cell and the line-1/line-2 basis rule of CHUNK_BRIEF.md §3 simply does not apply here. FORM ORDER is conventional: p2 = Form A, p3 = Form B. The pages are UNROTATED LANDSCAPE (rows run top-to-bottom, axis 'y'), unlike the rotated 2014 sheets in the same chunk. THE FILING IS UNSIGNED AND UNDATED ON ITS FACE -- both signature lines and both date lines on the cover are blank, and there is no clerk RECEIVED stamp anywhere on the three pages; the index.csv date 2016-07-15 comes from the channel, not from the document. The checked box is 'July 28th: Final Statements are due from candidates who were eliminated in the Primary Election', so this is a post-primary final report for a candidate who did not advance. TWO SOURCE PROPERTIES WORTH RECORDING AS PRECEDENT: (1) this filer EXCLUDES in-kind contributions from the schedule total, the opposite of the convention CHUNK_BRIEF.md §6 states for weber, which is why the addendum's per-filer in-kind test matters and both conventions were run; (2) the in-kind TAG is written inside the amount cell itself ('In-Kind  $3,326.00'), there being no in-kind column on this form. PRIVACY: Form A prints a full street address in its Address cell for seven donors; only the city component is carried, per PRIVACY.md. The form prints NO state column and this filer wrote no state anywhere, so donor_state is honestly BLANK on every row -- left out BY THE FORM AND THE FILER, not redacted by the county. Two donors' Address cell contains only 'SLC' with no street at all, which is the filer's own entry. Form B likewise has a City column and no state column, so vendor_state is blank by the form on all three rows. The cover's line-3 Ending Balance for the Last Report column is printed in accounting parentheses as (606.91) and is genuinely negative. COORDINATOR NOTE ON checkrec's REPORTED SUM: checkrec.py totals every stored contribution row and therefore prints 6,826.00 for this side (3,500.00 monetary + the 3,326.00 in-kind row + a BLANK for the malformed 1,327,00 in-kind row). That is NOT the figure recon claims and the mismatch is INTENDED, not a typo: the reconciling figure is the MONETARY-ONLY 3,500.00, because this filer excludes in-kind from the schedule total. Any rollup that compares stored rows against stated totals for weber must respect the per-filer in-kind convention recorded in recon.contributions.detail."
+  }
+]

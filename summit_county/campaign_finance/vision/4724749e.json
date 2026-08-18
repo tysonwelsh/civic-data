@@ -47,6 +47,155 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2022 single-total sheet, legible; Last Report column left blank. Indexed as the Primary report. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2022 single-total sheet, legible; Last Report column left blank. Indexed as the Primary report. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "donor_raw": "Byron Ames (self)",
+   "donor_city": "PC",
+   "donor_state": "UT",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,19.58,84.00,3.26@p2",
+   "geometry_fit": "measured",
+   "note": "day digit over-inked (filled loop) and still ambiguous at 1400 dpi; read as 28. Filer wrote the city as 'PC' - kept verbatim, not expanded. Self-contribution; same date and amount as the p3 filing-fee expenditure.",
+   "page": 2,
+   "band": 2
+  },
+  {
+   "line_no": 2,
+   "date": "2022-04-07",
+   "donor_raw": "Robert Freedman",
+   "donor_city": "Beverly Hills",
+   "donor_state": "CA",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,22.49,84.00,3.07@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 3,
+   "date": "2022-04-07",
+   "donor_raw": "Nick Parry",
+   "donor_city": "Francis",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,25.23,84.00,3.19@p2",
+   "geometry_fit": "measured",
+   "note": "surname escalated to a 1400 dpi tight crop and remains ambiguous between 'Parry' and 'Berry' (single-bowl capital); transcribed as written.",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 4,
+   "date": "2022-04-07",
+   "donor_raw": "Para O'Reilly",
+   "donor_city": "PC",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,28.08,84.00,3.12@p2",
+   "geometry_fit": "measured",
+   "note": "filer wrote the city as 'PC' - kept verbatim, not expanded.",
+   "page": 2,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-02-28",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Filing fee",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,32.33,84.00,2.16@p3",
+   "geometry_fit": "measured",
+   "note": "same over-inked day digit as contribution line 1; read as 28.",
+   "page": 3,
+   "band": 2
+  },
+  {
+   "line_no": 2,
+   "date": "2022-04-07",
+   "vendor_raw": "PayPal",
+   "purpose": "Campaign Expense (processing fee)",
+   "amount": "36.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,34.39,84.00,2.25@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1503.02",
+    "itemized": "1503.02",
+    "result": "exact",
+    "detail": "exact - 4 rows sum to 1,503.02 = the cover's stated contribution total (current = cumulative on this Primary filing); the schedule page prints no total of its own. The 303.02 self-contribution on 2/28/22 is the same figure and same date as the p3 Summit County Clerk FILING FEE expenditure - the candidate funded his own filing fee, which independently corroborates both the amount and the date."
+   },
+   "expenditures": {
+    "stated": "339.17",
+    "itemized": "339.17",
+    "result": "exact",
+    "detail": "exact - 2 rows (303.02 + 36.15) sum to 339.17 = the page's OWN printed box 'Total amount of expenditures' AND the cover."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT (2022 sheet, Date/Name/Mailing Address/Zip Code/Amount) prints NO section total of its own - the gate is the cover's stated contribution figure 1,503.02, which the 4 handwritten rows reproduce to the cent. p3 ITEMIZED EXPENSE REPORT prints its own boxed 'Total amount of expenditures 339.17' above the grid, matching the cover; the 2 rows reproduce it to the cent. No specimen rows survive on either page (this filer used the blank grid).",
+  "escalations": 3,
+  "n_contrib_rows": 4,
+  "n_expend_rows": 2,
+  "geometry": {
+   "measured": 6,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Handwritten entries on the typed 2022 single_total sheet, 3 pages. No embedded text layer for the ledger pages (draft.py returned zero words on both), so both pages were read full-page at 200 dpi and every doubtful cell escalated with a tight --value crop at 1400 dpi. NOT REDACTED: unlike several other 2022 Summit filings, the county left this filing's Mailing Address / Zip Code columns intact, so donor_city/donor_state are read from the filer's own address text and the street/PO-box portion was discarded at read time (never written here). The filer abbreviates Park City as 'PC' - kept verbatim, never expanded. ESCALATIONS (3): (1) the day digit of the 2/28/22 date in contribution line 1 is over-inked (the loop is filled solid) and stays ambiguous at 1400 dpi - it is read as 28 and carried at cell_confidence date=low; the same over-inked glyph recurs on p3 line 1, and 2/28/2022 is a plausible Summit filing-week date, but no arithmetic can settle a date so it is flagged rather than asserted; (2) the surname in contribution line 3 escalated to 1400 dpi and remains a one-glyph ambiguity between 'Parry' and 'Berry' - the capital shows a single bowl so it is transcribed 'Nick Parry' at name=low; (3) geometry spot-verified end to end - the materializer's resolved band boxes p2 band 5 and p3 band 3 crop back to 'Para O'Reilly ... 1000.00' and 'PayPal / Campaign Expense (processing fee) / 36.15'."
+ }
 }

@@ -1,68 +1,121 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_JamiSmithHewlett.pdf",
-    "cache_key": "e44e279c",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jami Hewlett",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_JamiSmithHewlett.pdf",
+  "cache_key": "e44e279c",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "anchor": "nothing stated on the face",
+     "detail": "no stated figure on the face, so the 0 transcribed row(s) summing to 0.00 cannot be reconciled - unknown, never a fabricated match || TRANSCRIBER'S ACCOUNT: NOTHING IS STATED AND NOTHING IS ITEMIZED — and this is deliberately NOT recorded as a zero. Table A on p2 has no filled row and its printed TOTAL cell is empty; the filer instead drew one large 'N/A' diagonally across the table body, and wrote a single large 'N/A' spanning cover lines 1 and 2. Per the zero-glyph ruling, N/A is a non-numeral and stays BLANK, so there is no anchor and no assertion of $0. Zero rows are reported because the schedule holds none, but no sum is claimed.",
+     "published_stated": "",
+     "csv_reconciles": "",
+     "csv_delta": ""
     },
-    "office_verbatim": {
-      "value": "",
-      "confidence": ""
-    },
-    "party_verbatim": {
-      "value": "",
-      "confidence": ""
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/12/24",
-      "confidence": "medium"
-    },
-    "signed": true,
-    "report_periods_checked": []
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "N/A",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "N/A",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "N/A",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "anchor": "nothing stated on the face",
+     "detail": "no stated figure on the face, so the 0 transcribed row(s) summing to 0.00 cannot be reconciled - unknown, never a fabricated match || TRANSCRIBER'S ACCOUNT: Same: Table B on p2 is entirely empty with an empty TOTAL cell, and the cover's shared 'N/A' covers line 2. Blank, not zero — no sum claimed.",
+     "published_stated": "",
+     "csv_reconciles": "",
+     "csv_delta": ""
     }
+   },
+   "page_subtotal_gates": "No gate available on either side — both printed TOTAL cells are empty and the cover states N/A rather than a figure. Nothing to reconcile against, so nothing was forced.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_disclosure_tableab, scanned, filled in blue ink. Cover: 'Jami Hewlett' (index.csv publishes 'Jami Smith Hewlett' — the two spellings differ, resolve on full name, never surname). Name of Office, District, Phone and Political Party are ALL LEFT BLANK on the face — the document does not state the office it is filed for, so the office assignment comes from the county's candidate listing, not from this page. NO reporting-period box is checked. Signed, dated 6/12/24 (the month digit is overwritten), both acknowledgement lines initialled with a large scrawl. THE DEFINING FEATURE: the filer wrote 'N/A' rather than a number in every totals cell and across Table A itself. This matches the module CLAUDE.md's record that Hewlett 2024-06 'writes N/A in all three cells' — my page read confirms it, and confirms the chunk file's empty stated_c/stated_e. An unfilled schedule annotated N/A is not evidence of $0 raised and $0 spent; it is the filer declining to state. Recorded as such."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jami Hewlett",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "All three TOTALS cells read 'N/A' rather than a figure \u2014 the stated totals are therefore BLANK, not zero. No period box marked; 'Name of Office' and party left blank."
+  "office_verbatim": {
+   "value": "",
+   "confidence": ""
+  },
+  "party_verbatim": {
+   "value": "",
+   "confidence": ""
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/12/24",
+   "confidence": "medium"
+  },
+  "signed": true,
+  "report_periods_checked": []
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "N/A",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "N/A",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "N/A",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "All three TOTALS cells read 'N/A' rather than a figure — the stated totals are therefore BLANK, not zero. No period box marked; 'Name of Office' and party left blank.",
+ "contributions": [],
+ "expenditures": []
 }

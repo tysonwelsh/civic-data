@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Lynelle Jensen",
  "office_stated": "Weber County Treasurer",
  "report_type_stated": "December 5 (final report)",
@@ -44,5 +44,49 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2024 3-line final report; nothing new since October. County-redacted address."
+ "notes": "Typed 2024 3-line final report; nothing new since October. County-redacted address.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    150,
+    151,
+    152
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "cover line 1 'Total contributions from all donors', Totals for THIS REPORT = a bare nil dash '-' (Last Report 1,575.00, Cumulative 1,575.00); Form A's own 'Total Contributions: (to line 1 of report)' cell prints the same bare dash",
+     "detail": "Form A is bound on p151 and is an ENTIRELY BLANK printed grid - 23 empty data rows, not one mark in the Date, Name of Contributor, Address or Amount columns - and its own total cell carries only the typed nil dash. Zero rows is the complete transcription and matches the cover's nil This-Report cell exactly. Cumulative 1,575.00 = Totals-from-Last-Report 1,575.00 unchanged, i.e. everything this campaign raised was raised in periods this final report does not itemize. Under the zero-glyph ruling the dash is a NIL MARK and stays blank, never 0. 3-line 2024 form: a single contrib_all cell, no <=$50 aggregate line, so the line-1/line-2 basis rule does not apply."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "cover line 2 'Total Campaign Expenditures', Totals for THIS REPORT = a bare nil dash '-' (Last Report 1,519.17, Cumulative 1,519.17); Form B's own 'Total Expenditures: (to line 2 of report)' cell prints the same bare dash",
+     "detail": "Form B is bound on p152 and is likewise an entirely blank printed grid with a nil-dash total. Zero rows against a nil This-Report cell; the 1,519.17 cumulative is carried unchanged from the last report and is not itemized here. Cover line 3 Ending Balance 55.83 = 1,575.00 - 1,519.17, so the cover's own arithmetic closes."
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "None needed: both schedule pages are physically blank at 200 dpi full-page and the cover is typed, not handwritten - no cell was in dispute.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Lynelle Jensen, Weber County Treasurer, 2024 cycle, DECEMBER 5 FINAL report (only that box ticked), signed 12/5/2024, typed 3-line county form. EMPTY-SCHEDULE, not no-schedule-page: both Form A (p151) and Form B (p152) were filed and are present in the retained document; they simply carry no entries, and each prints its own total as the same nil dash the cover uses. The candidate ADDRESS block on the cover is REDACTED BY THE COUNTY (a solid black bar across street/city/zip) - a county redaction, not a filer omission; no donor row exists to be affected. Nothing was raised or spent in the final period, so the whole campaign's activity sits in earlier reports of this cycle."
+  }
+ }
 }

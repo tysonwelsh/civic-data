@@ -1,0 +1,163 @@
+{
+ "sha256": "4b10ccf4955cfeac2a15ee20d53015a8db5e589f62ddf76e7757673e66b7fd56",
+ "source_pdf": "raw/juab_2014_Nephi/Craigsperry_Nephi_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Nephi/Craigsperry_Nephi_Juab.pdf",
+   "candidate": "Craig J. Sperry",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "9/14",
+   "donor": "Kevin Ockey",
+   "address": "Salt Creek Canyon, Nephi 84648",
+   "amount": "100.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date is month/year only",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.63,79.50,2.09@p2",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "Mar. 2014",
+   "payee": "Juab County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "421.00",
+   "confidence": "medium",
+   "needs_review": 1,
+   "note": "settled by the schedule's closure to the stated 1324; date month/year only",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,15.08,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "Printplace.com",
+   "purpose": "Flyers",
+   "amount": "248.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,17.17,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "The Times-News",
+   "purpose": "Ads",
+   "amount": "312.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:11.50,19.27,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "Postal Service",
+   "purpose": "Postage",
+   "amount": "30.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:11.50,21.36,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "Walmart - misc stores",
+   "purpose": "Rubber bands - zip ties Etc",
+   "amount": "47.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:11.50,23.45,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "Gas Stations",
+   "purpose": "Gas for Cars",
+   "amount": "240.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:11.50,25.54,79.50,2.09@p3",
+   "in_kind": false
+  },
+  {
+   "date": "Oct 2014",
+   "payee": "Kimos Kamara",
+   "purpose": "Flyers",
+   "amount": "26.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date month/year only",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:11.50,27.63,79.50,2.09@p3",
+   "in_kind": false
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "100",
+     "basis": "line 1 (>$50), written without cents"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "1324",
+     "basis": "line 3 cumulative, written without cents"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2014_Nephi/Craigsperry_Nephi_Juab.pdf|p2": 14.627,
+    "raw/juab_2014_Nephi/Craigsperry_Nephi_Juab.pdf|p3": 15.082
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "This filer writes whole-dollar figures without cents throughout; recorded as written."
+  }
+ }
+}

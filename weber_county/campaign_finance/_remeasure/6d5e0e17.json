@@ -1,0 +1,13 @@
+{
+  "key": "6d5e0e17",
+  "frames": {
+    "3": {
+      "axis": "x",
+      "cell": [3.96, 14.31],
+      "cells": [[3.96, 14.31], [14.31, 32.48], [32.48, 42.76], [42.76, 86.47], [86.47, 94.31]],
+      "rows": [[19.47, 22.37], [22.37, 25.37], [25.37, 28.36], [28.36, 31.4], [31.4, 34.39], [34.39, 37.38], [37.38, 40.37], [40.37, 43.33], [43.33, 46.23], [46.23, 49.19], [49.19, 52.06], [52.06, 54.99], [54.99, 57.96], [57.96, 61.04], [61.04, 63.93], [63.93, 67.04], [67.04, 70.02], [70.02, 72.99], [72.99, 75.9], [75.9, 78.98], [78.98, 81.93], [81.93, 84.84], [84.84, 87.79]],
+      "measure_note": "Landscape Form B rendered portrait, axis=x (rows advance left-to-right). DEFECT IN WITHDRAWN FRAME: `cell` was [42.73,86.42], which is the 'Person or Organization to Whom Expenditure Was Made' (name) column, not the Amount column; on this sheet the Amount column is the FIRST band in rendered-y (it is the LAST column of the printed table, which renders at the top after rotation). Column bands taken verbatim from rowbands' h_rules_pct on p3 ([3.96,14.31,32.48,42.76,86.47,94.31]) and confirmed against the full-page 200dpi render: Amount 3.96-14.31, Purpose 14.31-32.48, City 32.48-42.76, Person 42.76-86.47, Date 86.47-94.31. rowbands defect #2 did NOT apply here: the withdrawn `rows` list already began at the first DATA row (the header-label strip and the shaded spacer sit left of 19.47 and were already excluded), and the constant ~2.95pct pitch matches the printed grid, so the row bands are retained unchanged. rowbands defect #1 (text baselines read as rules) was not triggered on this sheet - only 6 v_rules survived detection, so the row bands are an extrapolated constant-pitch grid, which the proof crop below validates at the data row. deskew_deg was not flagged. PROOF (this page has exactly ONE transcribed row, so first==last and every row was proved): pct:19.47,3.96,2.90,10.35@p3 at 900 dpi --value renders the handwritten figure '723' (recorded 723.00) - it is the Amount cell, not the name cell."
+    }
+  },
+  "proof": "p3: only transcribed row (row 1, recorded 723.00) cropped from the stored geometry pct:19.47,3.96,2.90,10.35@p3 rendered '723' - matches. (Single-row page: first row == last row, so all rows proved.)"
+}

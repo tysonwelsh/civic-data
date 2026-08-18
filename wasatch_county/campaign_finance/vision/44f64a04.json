@@ -1,70 +1,142 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_J-Woodard.pdf",
-    "cache_key": "44f64a04",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jon Woodard",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_J-Woodard.pdf",
+  "cache_key": "44f64a04",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "500",
+     "itemized": "500.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (500.00 = 500, published stated total)",
+     "published_stated": "500",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Attorney",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/15/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "500",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "",
-        "confidence": ""
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "511.18",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "anchor": "nothing stated on the face",
+     "detail": "no stated figure on the face, so the 0 transcribed row(s) summing to 0.00 cannot be reconciled - unknown, never a fabricated match || TRANSCRIBER'S ACCOUNT: Table B carries no rows and its printed TOTAL is a slashed zero -> 0.00 under the zero-glyph ruling. The COVER's expenditure cell is a bare dash, which stays BLANK (that is why stated_e is empty) — the two are consistent, not contradictory: the schedule states zero, the cover states nothing",
+     "published_stated": "",
+     "csv_reconciles": "",
+     "csv_delta": ""
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: 500 = rows 500.00 — GATE PASSES. Table B TOTAL: slashed zero (=0.00) = rows 0.00 — GATE PASSES.",
+   "escalations": 3,
+   "escalation_note": "p2 donor-name cell at 400 dpi, then the surname alone at 400 dpi, then the first name alone at 800 dpi — the first name would not resolve past a two-way ambiguity; plus a 300 dpi left-column crop to fix the row slot index",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 1,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Faint PENCIL on a phone-camera scan (iOS Quartz PDF, 1709x2223 pt page), the hardest read in this chunk. Cover: Primary Report box checked; signed 6/15/2026; street/city/phone left blank by the filer. The filer hand-annotated cover lines 1 and 2 with 'since last report' and wrote the same disclaimer across BOTH schedules — Table A row slot 1 and Table B row slot 1 each read 'This report does not repeat the last report'. That annotation is a note, not a ledger line: no date, no amount, and it spans the name column; it is NOT emitted as a row. DONOR NAME NOT FULLY RESOLVED: the single contributor's surname is clearly 'Bona', but the first name reads M-a-?-t-e where the third glyph is an upward-opening bowl that is either a cursive r or a u. Escalated to an 800 dpi crop; the scan's native resolution is the ceiling and it did not separate them. Emitted as the legible-glyph string 'Marte Bona' at confidence low with needs_review=1 — NOT completed to a plausible real name. A human should re-read this cell against the paper original or the county's candidate-donor records. Date cell reads '5/20' with NO year printed — left BLANK per the date rule (never filled from the report date), verbatim kept in the row note."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jon Woodard",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "SEAM EVIDENCE: lines 1 and 2 are annotated in the filer's own hand 'since last report' \u2014 the newer sheet is PERIOD-scoped. The expenditure cell holds a dash, not a figure (transcribed blank). Street address, city and phone left blank."
+  "office_verbatim": {
+   "value": "Attorney",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/15/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "500",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "",
+    "confidence": ""
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "511.18",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "SEAM EVIDENCE: lines 1 and 2 are annotated in the filer's own hand 'since last report' — the newer sheet is PERIOD-scoped. The expenditure cell holds a dash, not a figure (transcribed blank). Street address, city and phone left blank.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 3,
+   "date": "",
+   "donor_raw": "Marte Bona",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;amount=medium",
+   "verified": 1,
+   "note": "date cell printed verbatim '5/20' — month/day only, NO year, so date left blank (never inferred from the 2026 report date). Donor first name ambiguous at the scan's resolution: glyphs M-a-?-t-e, third glyph an upward bowl reading as cursive r or u ('Marte' / 'Maute'); surname 'Bona' is clear at 400 dpi. Re-read at 400 and 800 dpi — the ambiguity is in the ink, not the render. Amount cell printed '$500' (no cents), taken as 500.00; it equals the printed Table A TOTAL '500'. Row sits in row slot 3 (slot 0 blank, slot 1 carries the filer's 'This report does not repeat the last report' annotation, slot 2 blank) — slot index verified in a 300 dpi crop of the date/name columns. Form prints no address column.",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": []
 }

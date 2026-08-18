@@ -1,0 +1,195 @@
+{
+ "sha256": "7c013d623dcb5e502fcc7e8ef024078739a746d0bda209470b309c2059488e43",
+ "source_pdf": "raw/juab_2010_primary/Kathy_Kenison_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Kathy_Kenison_10-28-10.pdf",
+   "candidate": "Kathleen Kenison",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "10/14/10",
+   "donor": "Kenison Family",
+   "address": "PO Box 203, Levan UT 84639",
+   "amount": "315.68",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.72,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/5/10",
+   "donor": "Darrel & Karen Kenison",
+   "address": "PO Box 177, Levan UT 84639",
+   "amount": "50.00",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,11.04,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/5/10",
+   "donor": "Marvin + Kathleen",
+   "address": "PO Box 203, Levan UT 84639",
+   "amount": "1764.73",
+   "confidence": "high",
+   "note": "donor written as first names only, verbatim",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:5.00,13.36,89.00,2.32@p2",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "9/14/10",
+   "payee": "Out Back Graphic",
+   "purpose": "Signs",
+   "amount": "500.00",
+   "confidence": "medium",
+   "note": "figure written over an earlier struck value",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:5.00,8.40,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/16/10",
+   "payee": "PromoTell",
+   "purpose": "pens",
+   "amount": "294.92",
+   "confidence": "high",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:5.00,10.72,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9/23/10",
+   "payee": "Best Hardware",
+   "purpose": "Stakes",
+   "amount": "34.00",
+   "confidence": "high",
+   "line_no": 3,
+   "printed_row": 4,
+   "geometry": "pct:5.00,15.36,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/1/10",
+   "payee": "Out Back Graphic",
+   "purpose": "Signs",
+   "amount": "282.89",
+   "confidence": "high",
+   "line_no": 4,
+   "printed_row": 5,
+   "geometry": "pct:5.00,17.68,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/5/10",
+   "payee": "PromoTell",
+   "purpose": "pens",
+   "amount": "294.92",
+   "confidence": "high",
+   "line_no": 5,
+   "printed_row": 6,
+   "geometry": "pct:5.00,19.99,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/13/10",
+   "payee": "Freedom Mailing",
+   "purpose": "Advertising",
+   "amount": "358.00",
+   "confidence": "high",
+   "line_no": 6,
+   "printed_row": 7,
+   "geometry": "pct:5.00,22.31,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/15/10",
+   "payee": "Nephi Times News",
+   "purpose": "Advertising",
+   "amount": "315.68",
+   "confidence": "high",
+   "line_no": 7,
+   "printed_row": 8,
+   "geometry": "pct:5.00,24.63,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10/13/10",
+   "payee": "Candy & fish Bowl",
+   "purpose": "Advertising",
+   "amount": "50.00",
+   "confidence": "high",
+   "line_no": 8,
+   "printed_row": 9,
+   "geometry": "pct:5.00,26.95,89.00,2.32@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "2130.41",
+     "basis": "lines 1+2 (2080.41 + 50.00) \u2014 and line 1 alone equals rows 1+3 (315.68 + 1764.73 = 2080.41), so BOTH bases close"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "2130.41",
+     "basis": "line 3 cumulative"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B",
+    "4": "statute text"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Kathy_Kenison_10-28-10.pdf|p2": 8.724,
+    "raw/juab_2010_primary/Kathy_Kenison_10-28-10.pdf|p3": 8.405
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "Form B leaves the third printed line blank between rows 2 and 4; the printed_row indices skip it. FIELD-SHIFT SCREEN: the amount column is written about half a line lower than the payee text throughout, but the counts match (8 payees, 8 amounts) and the vertical order is unambiguous, so pairing is by order. The filer's cover closes exactly: 2080.41 + 50.00 - 2130.41 = 0."
+  }
+ }
+}

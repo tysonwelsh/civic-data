@@ -47,6 +47,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2022 single-total sheet, legible. Every Current Report cell and the whole campaign-balance row are a slashed-zero nil mark (recorded blank, not 0). Party written WRITE-IN. Carries the clerk's printed instruction box. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2022 single-total sheet, legible. Every Current Report cell and the whole campaign-balance row are a slashed-zero nil mark (recorded blank, not 0). Party written WRITE-IN. Carries the clerk's printed instruction box. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-09-06",
+   "donor_raw": "Alan Siddoway",
+   "donor_city": "Peoa",
+   "donor_state": "",
+   "amount": "825.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.82,15.50,85.71,1.51@p2",
+   "geometry_fit": "declared",
+   "note": "self-funding; filer wrote the city (PEOA) but no state - state left blank rather than inferred from the zip.",
+   "page": 2,
+   "band": 3
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-09-06",
+   "vendor_raw": "Summit County",
+   "purpose": "Filing FEE Sheriff",
+   "amount": "825.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.85,23.38,82.32,1.54@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "825.33",
+    "itemized": "825.33",
+    "result": "exact",
+    "detail": "exact - 1 row (Alan Siddoway, self, 825.33 dated 9-6-22) = the cover's cumulative contribution total. The cover's CURRENT-report column is the slashed zero on all three lines, i.e. no new activity in this reporting period, so the ledger's single cumulative row is consistent with the cover on both the current and cumulative readings and no period-vs-cumulative question arises."
+   },
+   "expenditures": {
+    "stated": "825.33",
+    "itemized": "825.33",
+    "result": "exact",
+    "detail": "exact - 1 row (Summit County, 'Filing FEE Sheriff', 825.33 dated 9-6-22) = the page's own boxed 'Total amount of expenditures' AND the cover. The candidate self-funded the Sheriff filing fee exactly; the cover's 0 ending balance closes the filing."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT prints no total of its own, so the gate is the cover's cumulative contribution figure 825.33 - the single real row is 825.33, exact. p3 ITEMIZED EXPENSE REPORT prints the boxed 'Total amount of expenditures' with a handwritten 825.33 and the single real row reproduces it, matching the cover. The blank form's SPECIMEN row survives on BOTH pages and on this filing it is HIGHLIGHTED IN YELLOW ('8/25/10 Jon and Jane Doe ... $435.00' and '8/25/10 Name of Business / Campaign signs and flyers / $512.00'); each page's total closes only with the specimen dropped, and here the filer's own highlighter marks it as the form's example rather than a transaction.",
+  "escalations": 2,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 1,
+   "declared": 1,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Clean scan, blue ballpoint on the typed 2022 sheet, 3 pages (legal-length page, 1700x2800 px at 200 dpi). A SOURCE PROPERTY WORTH RECORDING: this filer HIGHLIGHTED THE PRINTED SPECIMEN ROW IN YELLOW on both schedule pages. It is the first highlighted specimen seen in this wave and it is corroborating evidence for the standing ruling that specimen rows are not transactions - the highlighter is the filer's own mark that those lines are the form's example. They are dropped as always, and both printed totals close only without them. ZERO GLYPHS: the county's 'DO NOT DELETE ANY CELLS WITH $0.00' instruction and the deliberate slashed zeros belong to this filing's COVER (page 1, already transcribed by the cover tranche as the character 0/slashed-zero); NEITHER schedule page contains a zero glyph, so the zero-glyph ruling did not have to be applied to any row here. ADDRESS: the donor row's Mailing Address cell names the city (PEOA) but no state, and the separate Zipcode cell is filled; donor_city is taken from the filer's own text and donor_state is honestly BLANK rather than inferred from the zip. Not redacted. GEOMETRY: p3 is MEASURED (band 3, crop-verified to reproduce the whole row). p2 is DECLARED because the handwriting crosses the row's lower rule and splits the physical band in two (rowbands returns bands 4 and 5 at heights 0.89 and 0.57 where the page has one 1.5-high row); the declared frame y0 12.48 / pitch 1.51 is taken directly from the page's OWN detected rules above and below the split (12.48, 14.02, 15.55, 17.02, 18.52, 20.02, 21.59 - a regular 1.51 pitch) and band 3 was crop-verified to frame the Siddoway row exactly."
+ }
 }

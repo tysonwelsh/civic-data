@@ -47,6 +47,171 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "FORM-VARIANT SEAM: this is the newer '2018 CAMPAIGN FINANCIAL REPORT' sheet with a SINGLE 'Total contributions' row (no >$50 / <=$50 split) plus address/phone fields. Same Current | Last | Cumulative column order. Handwritten, legible; filer wrote n/a in every Last Report cell."
+ "itemized_transcribed": true,
+ "notes": "FORM-VARIANT SEAM: this is the newer '2018 CAMPAIGN FINANCIAL REPORT' sheet with a SINGLE 'Total contributions' row (no >$50 / <=$50 split) plus address/phone fields. Same Current | Last | Cumulative column order. Handwritten, legible; filer wrote n/a in every Last Report cell.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "",
+   "donor_raw": "SB Strategies",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.11,19.16,84.72,2.08@p2",
+   "geometry_fit": "measured",
+   "note": "Date cell left EMPTY by the filer - an honest blank, not a redaction; no year is inferred. Address written 'SLC' with zip 84121; only city/state retained.",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "",
+   "donor_raw": "Sherry Hanks",
+   "donor_city": "Idaho Falls",
+   "donor_state": "ID",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.11,21.02,84.72,2.13@p2",
+   "geometry_fit": "measured",
+   "note": "Date cell left EMPTY by the filer. The address line names 'Idaho Falls' (zip 83404); state taken from the written city name, not from the zip. Verified at 900 dpi tight crop.",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "",
+   "donor_raw": "Self",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.11,22.92,84.72,2.15@p2",
+   "geometry_fit": "measured",
+   "note": "Date cell left EMPTY by the filer. Donor written literally as 'Self' - the candidate's own money; address abbreviated 'PC' with zip 84098, expanded to Park City.",
+   "page": 2,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-02",
+   "vendor_raw": "PC Print Inc",
+   "purpose": "Print stickers",
+   "amount": "27.11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.98,28.64,30.39,1.95@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "2018-03-03",
+   "vendor_raw": "5 Seed",
+   "purpose": "Gift card to give at Bettie",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.98,30.51,30.39,2.07@p3",
+   "geometry_fit": "measured",
+   "note": "amount written '25.' with a superscript double-zero",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2018-03-03",
+   "vendor_raw": "PC Coffee Roasters",
+   "purpose": "Gift cards to give to Bettie",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.98,32.50,30.39,1.96@p3",
+   "geometry_fit": "measured",
+   "note": "amount written '25' with a superscript '00'",
+   "page": 3,
+   "band": 5
+  },
+  {
+   "line_no": 4,
+   "date": "2018-03-09",
+   "vendor_raw": "County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "781.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.98,34.38,30.39,2.01@p3",
+   "geometry_fit": "measured",
+   "note": "SEMANTICALLY SWAPPED CELLS (verified on a 900 dpi crop of the sibling filing 8366, which is the same sheet): the filer wrote 'Filing Fee' INSIDE the Person-or-Organization column and 'County Clerk' INSIDE the Purpose-of-Expenditure column. The cells are assigned by meaning here (vendor = County Clerk, purpose = Filing Fee) and the as-printed placement is recorded in this note. Amount written '781.' with a superscript '08'.",
+   "page": 3,
+   "band": 6
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "900.00",
+    "itemized": "900.00",
+    "result": "exact",
+    "detail": "exact - 250.00 + 600.00 + 50.00 = 900.00 against a cover of 900.00. The row above them, '8/25/10 Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00', is the blank form's PRINTED SPECIMEN and is dropped; including it would give 1,335.00. This is a single_total sheet - there is no >$50 / <=$50 split box, so no structural residual arises."
+   },
+   "expenditures": {
+    "stated": "858.19",
+    "itemized": "858.19",
+    "result": "exact",
+    "detail": "exact - 27.11 + 25.00 + 25.00 + 781.08 = 858.19, equal to the page's own boxed total AND the cover. The first ledger line, '8/25/10 Name of Business / Campaign signs and flyers / $512.00', is the printed specimen; including it would give 1,370.19."
+   }
+  },
+  "page_gates": "p3 prints its own boxed 'Total amount of expenditures 858.19' in the filer's blue hand, and the four real rows close on it to the cent (27.11+25.00+25.00+781.08). p2 (ITEMIZED CONTRIBUTION REPORT) prints NO total box at all on this 2018 single_total variant, so the contribution side is gated on the cover's 900.00 alone - and the three real rows close on it exactly (250+600+50).",
+  "escalations": 1,
+  "n_contrib_rows": 3,
+  "n_expend_rows": 4,
+  "geometry": {
+   "measured": 7,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Handwritten entries on the printed 2018 grid; the PDF's OCR layer is noise on both ledger pages, so both were read full-page at 200 dpi and one row escalated to a 900 dpi tight crop for the geometry spot-check (band 4 p2 reproduced 'Sherry Hanks' / $600). BOTH printed template specimen rows survive unstruck on this filing (Jon and Jane Doe $435.00, Name of Business $512.00) and both printed/cover totals close only without them. THE CONTRIBUTION SHEET'S ENTIRE DATE COLUMN IS EMPTY - the filer wrote three donors with amounts, addresses and zips but no dates at all; those are honest blanks (needs_review=1), never back-filled from the report date. Per the privacy contract only city/state are kept from the Mailing Address column; the filer printed no separate state column, so state is read off the written city ('SLC', 'Idaho Falls', 'PC') and never off the zip. The last expense line has SEMANTICALLY SWAPPED cells - 'Filing Fee' sits in the Person-or-Organization column and 'County Clerk' in the Purpose column - so the two are assigned by meaning and the as-printed placement is named on the row. THIS FILING AND ITS POST-ELECTION SIBLING 8366 ARE THE SAME SHEET RE-FILED UNCHANGED (identical rows, identical boxed total, identical cover 900.00 / 858.19 / 41.81) - the known Summit re-file behaviour, not a duplication bug; both were transcribed independently."
+ }
 }

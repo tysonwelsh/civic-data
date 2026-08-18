@@ -1,75 +1,324 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_J-Rigby.pdf",
-    "cache_key": "537a29a6",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jared W. Rigby",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_J-Rigby.pdf",
+  "cache_key": "537a29a6",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "16000.00",
+     "itemized": "16000.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (16000.00 = 16000.00, published stated total)",
+     "published_stated": "16000.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Sheriff",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "3/30/26",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "16,000.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "8904.56",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "7095.44",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "8904.56",
+     "itemized": "8904.56",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (8904.56 = 8904.56, published stated total)",
+     "published_stated": "8904.56",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 16,000.00 = rows 16000.00 — GATE PASSES; p2 Table B TOTAL: 8904.56 = rows 8904.56 — GATE PASSES. Cover identity 16000.00 - 8904.56 = 7095.44 matches printed balance $7095.44.",
+   "escalations": 5,
+   "escalation_note": "800dpi crop of Table A name column; 1200dpi crops of Table A rows 4/6 (left + right halves); 600dpi crop of Table B payee+amount; 800dpi crops of both date columns",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 4,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten 2-page filing, Table A and Table B both on page 2. No address column exists on this sheet, so donor_city/donor_state are structurally absent (not withheld). Table B amount 899.56 is gated by arithmetic (8904.56 - 4505.00 - 2000.00 - 1500.00 = 899.56), which excludes the 3xx/8xx glyph ambiguity. Cents on several amounts are written superscript ('5000.ᵒᵒ', '899.⁵⁶') and are transcribed with a decimal point. Only the Partisan Convention box is checked; convention date 'April 7, 2026'."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jared W. Rigby",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "Sheriff",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "3/30/26",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "16,000.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "8904.56",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "7095.44",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-01",
+   "donor_raw": "Jared Rigby",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount written '5000.ᵒᵒ' (superscript cents); donor glyph reads 'Jarel'/'Jared' — same hand and surname as rows 3 and 7 which are unambiguously 'Jared Rigby'; this is the candidate self-funding",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-01-02",
+   "donor_raw": "Randall Probst",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount written '1000.ᵒᵒ'",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-02-25",
+   "donor_raw": "Jared Rigby",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "amount written '3000.ᵒᵒ'",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-03-16",
+   "donor_raw": "David Booth",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "surname read at 1200dpi; glyphs run together as 'Bo̵th'/'Bobth' — transcribed 'Booth' from the legible glyph string, not from any name list; amount written '500.ᵒᵒ'",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-03-16",
+   "donor_raw": "Gary Bradley",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "amount written '1500.ᵒᵒ'",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-03-23",
+   "donor_raw": "Jon & Vern Beckman",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "note": "escalated to 1200dpi twice and still doubtful: first name reads 'Jon' or 'Don'; surname initial matches this hand's capital B (cf. 'Bradley','Booth') and the body reads 'eckman'/'ickman' — recorded as the legible glyph string 'Jon & Vern Beckman', NOT a resolved identity",
+   "geometry": "pct:5.00,30.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-02-25",
+   "donor_raw": "Jared Rigby",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "4000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "out of date order (2/25 after 3/23); amount written '4000.ᵒᵒ'",
+   "geometry": "pct:5.00,33.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-02",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing fee",
+   "amount": "899.56",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "note": "leading glyph could read 3 or 8 at 200dpi; the printed Table B TOTAL closes on exactly 899.56, so arithmetic gates the read (Rhodes rule). Cents written superscript '.⁵⁶'",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-02-05",
+   "vendor_raw": "Quantum Qube Marketing",
+   "purpose": "Website",
+   "amount": "4505.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "day glyph reads 5 (could be 3) at 800dpi — no printed figure gates the date; vendor last word runs together as 'Markohg'/'Marketing'; amount written '4505.ᵒᵒ'",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-02-09",
+   "vendor_raw": "David Kyle",
+   "purpose": "Professional Services",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "day reads 9 at 800dpi (read as 5 at 200dpi — the higher-dpi read is 9)",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-02-26",
+   "vendor_raw": "Wasatch County Rep Party",
+   "purpose": "Wasatch GOP Lincoln Day",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "vendor crammed into the cell, 'Rep Party' abbreviated as written; amount written '1500.ᵒᵒ'",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -154,7 +154,30 @@ Spec + technical pointers: HANDOFF.md. Owner-authorized in response to live quer
 
 ## [DEBT] — correctness queue
 
-**EMPTY as of 2026-08-01 (again)** — the st_george Larkin item filed earlier today was
+- [ ] **[DEBT] `make_snippet.py` mis-resolves `pct:` geometry on ROTATED pages — every
+  geometry claim "proved" with it on a `/Rotate 90|270` page is UNPROVED.** OBSERVED
+  2026-08-17 (weber wave; found INDEPENDENTLY by two chunk agents, then verified by me at
+  the source): `scripts/campaign_finance/make_snippet.py` sizes its crop from the page size
+  `pdfinfo` reports (line 68-75, `Page size: W x H pts` — the UNROTATED MediaBox) while
+  `pdftoppm` renders with `/Rotate` APPLIED, so on a rotated page the axes are swapped and
+  the crop lands off-target. Consequence: 4 weber records were withdrawn as "wrong
+  geometry" on this tool's evidence and then REINSTATED when re-cropped against the
+  rendered raster — all 8 sampled boxes reproduced exactly. The tool was NOT patched
+  (frozen during the wave). Terminating fix: honour `/Rotate` when sizing the crop, then
+  RE-CHECK any stored geometry previously validated with it on a rotated page (weber's
+  rotated scans; the SLCo B2 and summit corpora used the same utility). Second, separate
+  defect observed in the same pass: blank crops at high dpi on oversized-mediabox pages.
+- [ ] **[DEBT] `rowbands.py` returns non-row bands on typed sheets and drifts on skewed
+  scans.** OBSERVED 2026-08-17 (weber wave): on typed sheets it registers TEXT BASELINES as
+  printed rules (the real grid is every other one) and returns header/shaded-spacer bands as
+  rows; redaction bars throw spurious rules. Separately its percentages are measured on a
+  DESKEWED copy while crops are taken from the RAW render — a full row of drift on the
+  skewed 2026 scans. Consequence: 18 weber filings now carry blank `geometry` by design
+  (values never in doubt; a wrong measurement is withheld, not published weaker) and need a
+  geometry-only re-measure. This is the tool LEADS.md proposes promoting to
+  `scripts/campaign_finance/` before the utah wave — fix BEFORE promotion.
+
+Prior state: EMPTY as of 2026-08-01 — the st_george Larkin item filed earlier that day was
 closed the same session (record: TODO_ARCHIVE anchor 2026-08-01-COUNTY-ACQUISITION).
 
 New entries require a primary-source citation (see the rules above). The last three closures:
@@ -185,9 +208,13 @@ New entries require a primary-source citation (see the rules above). The last th
 ## [GATED] — owner decisions (do not start unprompted)
 
 - [ ] **TRANCHE 3 PHASE B — remaining county itemization waves (per-wave approval).**
-  SLCo legacy is DONE (2026-08-03). Remaining scanned corpora, largest first: utah 245 ·
-  summit 116 · weber 93 · wasatch ~40 · juab 18 · cache pre-2022 · washington scan
-  generations. Each wave runs the B2 production contract (calibration pre-flight incl.
+  SLCo legacy is DONE (2026-08-03); **juab 27, wasatch 111 and summit 116 all CLOSED &
+  VERIFIED in the 2026-08-14..17 wave** (summit's queue closed 116/116 on 2026-08-17 and
+  the owner ratified the reconciliation-basis rule that same day — LEADS.md 2026-08-17).
+  **weber CLOSED & VERIFIED 2026-08-18** (98/98 filings itemized, 2,616 rows, 100%
+  geometry, ZERO withheld). Remaining scanned corpora, largest first: **utah 245** ·
+  cache pre-2022 Carr era · washington scan generations.
+  Each wave runs the B2 production contract (calibration pre-flight incl.
   the corrected Rhodes specimen; arithmetic-first; pct: geometry; checkpoint discipline)
   and closes with a federation. Owner picks order + timing; specs live in each county's
   AVAILABILITY.md + the LEADS tranche-3 block.
@@ -234,7 +261,10 @@ New entries require a primary-source citation (see the rules above). The last th
   bluffdale Hall Dec-04-final fold-in; holladay Tracy index date/label swap (rows 16-17 still
   carry the wrong dates).
 - [ ] **GRAMA outreach** — ~110 genuinely-unpublished minutes across 13 cities, drafts ready;
-  the only remaining channel (every public channel exhausted + documented).
+  the only remaining channel (every public channel exhausted + documented). **SLC campaign
+  finance now has its own send-ready package** (2026-08-14):
+  `slc_city_council/campaign_finance/GRAMA_PREP_2026-08-14.md` — contacts, cost, statutory
+  hooks, 2 paste-ready requests. **Owner decision: send or not.**
 - [ ] **Whisper/audio transcription program** — scope decision (leads inventoried in LEADS.md).
 - [ ] **Wayback archiving pass** — submit every sources.csv URL (~46.5k distinct) to
   web.archive.org; also the 26 cache_county Wayback rows with no snapshot URL.

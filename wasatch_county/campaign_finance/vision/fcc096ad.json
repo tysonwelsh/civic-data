@@ -1,82 +1,453 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_OctJKaiserman.pdf",
-    "cache_key": "fcc096ad",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "October 2020 (7 days before General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James C Kaiserman",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_OctJKaiserman.pdf",
+  "cache_key": "fcc096ad",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "October 2020 (7 days before General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_04.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2548.10",
+     "itemized": "2548.10",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (2548.10 = 2548.10, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "2548.10",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2548.10",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2548.10",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2548.10",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2548.10",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2548.10",
+     "itemized": "2548.10",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (2548.10 = 2548.10, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "2548.10",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Form A p2 carries a hand-written column total '2,548.10' at slot 13 (not a data row): rows 2,548.10 = printed page total 2,548.10 — GATE PASSES, and it is what fixes the ambiguous 442.15 glyph. Form B p3 prints no page total; its 9 rows sum to 2,548.10 = the cover expense cell — GATE PASSES.",
+   "escalations": 2,
+   "escalation_note": "p2 slot-9 amount cell and p3 slot-12 date cell each cropped and re-rendered at 600 dpi (kais_a8, kais_b7); row slots on both pages measured from the ruled-line pitch, not eyeballed.",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 9,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 18,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "James C. Kaiserman, 'Wasatch County Surveyor', signed 10/27/2020. TWO reporting-period boxes carry a mark: '7 Days preceding the Primary Election' has an incomplete/partial mark and '7 Days preceding the General Election' is X'd — recorded as seen, not resolved (the module already documents this filer double-checking boxes in 2024). ENTIRELY SELF-FUNDED: every Form A row is the candidate himself, and the two sides mirror each other item for item (each contribution funds the matching expenditure), which is why both totals are the identical 2,548.10. Street address discarded at read time; city/state only."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James C Kaiserman",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "A stray mark also appears on the Primary-election box; only the General box is read as checked (medium confidence on that reading)."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2548.10",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2548.10",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2548.10",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2548.10",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "A stray mark also appears on the Primary-election box; only the General box is read as checked (medium confidence on that reading).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-07-22",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). amount written '700' with superscript 'oo' cents; name and address written in full on this row and dittoed below",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 2,
+   "date": "2020-08-11",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "636.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). superscript cents ('636' + raised '69'); date written '8/11/202' with the final year digit cramped against the column rule",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 3,
+   "date": "2020-08-12",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "172.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). superscript cents",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 4,
+   "date": "2020-09-24",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "200.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). superscript cents",
+   "geometry": "pct:10.00,27.20,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 5,
+   "date": "2020-09-29",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "147.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). superscript cents; the matching 147.42 row on Form B p3 is dated 8/29 — the two pages disagree by one month and neither was corrected",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 6,
+   "date": "2020-08-10",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "115.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule).",
+   "geometry": "pct:10.00,31.30,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 7,
+   "date": "2020-10-24",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "23.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). written '23,10' with a comma for the decimal point — repaired to 23.10 per the decimal-comma convention",
+   "geometry": "pct:10.00,33.35,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 9,
+   "date": "2020-03-13",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "442.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=high;amount=low",
+   "verified": 1,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). ARITHMETIC OUTRANKS GLYPH: the cell reads ambiguously as '242.15'/'442.15' even at 600 dpi (crop kais_a8). 442.15 is the only value on which BOTH the page's own hand-written column total (2,548.10) and the cover's 2,548.10 close, and Form B p3 row 1 prints the same filing fee as 442.15. Read accepted as 442.15.",
+   "geometry": "pct:10.00,37.45,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 11,
+   "date": "",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "110.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-funding row; the filer wrote his name and address in full on the first row and used ditto marks (\") for every row below — resolved to 'James C. Kaiserman', 1020 Sage Circle, Heber City, UT 84032 (street discarded per privacy rule). DATE IS A RANGE — the cell reads '7/22/2020 to 10/26/202' across two ruled lines (slots 11-12), so the date is left BLANK per the range rule; verbatim kept here",
+   "geometry": "pct:10.00,41.55,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-13",
+   "vendor_raw": "Filing FEE",
+   "purpose": "",
+   "amount": "442.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written.",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-07-22",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. payee address printed 6570 So State, Murray (discarded per privacy rule); name and address dittoed on the three rows below",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-08-11",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "636.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. vendor cell is a ditto mark resolving to 'Signs' on line 2; date written '8/11/202' with the year's final digit cramped",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 6,
+   "date": "2020-08-12",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "172.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. vendor cell is a ditto mark resolving to 'Signs'",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 8,
+   "date": "2020-09-24",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "200.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. vendor cell is a ditto mark resolving to 'Signs'",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 10,
+   "date": "2020-08-10",
+   "vendor_raw": "LUMBER",
+   "purpose": "",
+   "amount": "115.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell names Home Depot, PC (Park City) — the payee is in the address cell, the purpose in the name cell",
+   "geometry": "pct:10.00,36.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 12,
+   "date": "2020-08-29",
+   "vendor_raw": "Ad in Wave",
+   "purpose": "",
+   "amount": "147.42",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. date re-read at 600 dpi (crop kais_b7) as '8/29/202' with the year's final digit cramped; Form A p2 dates the same 147.42 item 9/29/2020. The two pages disagree by one month; both kept verbatim, neither corrected.",
+   "geometry": "pct:10.00,40.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 14,
+   "date": "2020-10-24",
+   "vendor_raw": "Lumber",
+   "purpose": "",
+   "amount": "23.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. address cell names Home Depot, PC; date written '10/24/202' with the year's final digit cramped",
+   "geometry": "pct:10.00,44.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 16,
+   "date": "",
+   "vendor_raw": "Travel to Fix Signs",
+   "purpose": "",
+   "amount": "110.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the filer numbered his own rows 1-9 in the left margin; this variant has no purpose column, so the Name-of-Expenditure cell carries payee-or-purpose as written. DATE IS A RANGE — '7/22 to 10/26/2020' written across two ruled lines (slots 16-17), so the date is BLANK per the range rule. Reimbursement to the candidate himself (address cell 'J. Kaiserman, 1020 Sage Circle').",
+   "geometry": "pct:10.00,49.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

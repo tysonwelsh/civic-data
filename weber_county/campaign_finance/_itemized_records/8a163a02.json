@@ -1,0 +1,259 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_d8532285.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "8a163a02",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 4,168.61' on p2, equal to the cover's This Report cell ($4,168.61)",
+    "detail": "4 Form A rows (1,500.00 + 1,500.00 + 1,000.00 + 168.61) sum to 4,168.61 exactly = the schedule's printed total = the cover's This-Report column. Cumulative is 92,389.26 and Last Report 88,220.65, and 88,220.65 + 4,168.61 = 92,389.26, so this cover's own arithmetic closes (unlike the filer's 6/16 report) and the schedule is PERIOD-scoped - the post-primary window 6/12-7/17 only. Nothing was computed by differencing covers. 2026 3-line variant, no separate <=$50 aggregate line. No in-kind rows on Form A here, so both in-kind conventions agree."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 5,341.07' on p3, equal to the cover's This Report cell (5,341.07)",
+    "detail": "6 Form B rows sum to 5,341.07 exactly = the schedule's printed total = the cover's This-Report column; 86,227.28 last + 5,341.07 this = 91,568.35 cumulative, so the cover closes and the schedule is period-scoped. No row on this schedule carries an in-kind tag (contrast the same filer's 6/16 report, where one Form B row is tagged '- INKIND'), so monetary-only and monetary-plus-in-kind give the same figure."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "Four 900 dpi tight --value crops, all A3 indexing proofs: p2 row 1 rendered 1,500.00 and row 4 rendered 168.61; p3 row 1 rendered 2,237.53 and row 6 rendered 706.18. No legibility escalation needed (typed filing).",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     83.82,
+     93.73
+    ],
+    "cells": [
+     [
+      6.32,
+      13.86
+     ],
+     [
+      13.86,
+      44.59
+     ],
+     [
+      44.59,
+      83.82
+     ],
+     [
+      83.82,
+      93.73
+     ]
+    ],
+    "rows": [
+     [
+      20.15,
+      23.32
+     ],
+     [
+      23.32,
+      26.5
+     ],
+     [
+      26.5,
+      29.71
+     ],
+     [
+      29.71,
+      32.88
+     ]
+    ],
+    "measure_note": "Native landscape page (rot 0); axis=y, ROW bands from h_rules_pct, COLUMN bands from v_rules_pct. h_rules[0]=11.24 title rule, [1]=13.79 table top, [2]=16.97 header bottom, [3]=20.15 shaded-spacer bottom - all NON-DATA and trimmed. CAUTION taken here: this page's detected h_rules also contain THREE SPURIOUS entries (25.06, 25.85, 26.50-adjacent noise) thrown by the solid black REDACTION BARS in the Address column, which read as long dark runs. The true row pitch is a constant 3.17 pct, so the row boundaries are 20.15 / 23.32 / 26.50 / 29.71 / 32.88 and the intruders were discarded; that leaves 4 bands for the 4 printed data rows. cell is the AMOUNT column (4th and last v_rules band). PROOF (A3): pct:83.82,20.15,9.91,3.17@p2 rendered '1,500.00' (row 1) and pct:83.82,29.71,9.91,3.17@p2 rendered '168.61' (row 4) - so the discarded rules were indeed noise and the bands are index-aligned."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     83.07,
+     93.66
+    ],
+    "cells": [
+     [
+      6.32,
+      15.3
+     ],
+     [
+      15.3,
+      51.48
+     ],
+     [
+      51.48,
+      62.16
+     ],
+     [
+      62.16,
+      83.07
+     ],
+     [
+      83.07,
+      93.66
+     ]
+    ],
+    "rows": [
+     [
+      23.76,
+      26.82
+     ],
+     [
+      26.82,
+      29.76
+     ],
+     [
+      29.76,
+      32.76
+     ],
+     [
+      32.76,
+      35.74
+     ],
+     [
+      35.74,
+      38.74
+     ],
+     [
+      38.74,
+      41.71
+     ]
+    ],
+    "measure_note": "Same landscape Form B grid as the filer's other 2026 report. h_rules[0]=14.12 title rule, [1]=16.44 table top, [2]=20.76 bottom of the two-line header, [3]=23.76 shaded-spacer bottom - trimmed; the 6 stored bands are h_rules[3..9], index-aligned with the 6 printed data rows, and the blank rows below are not stored. No redaction bars on this page, so no spurious rules. cell is the AMOUNT column (5th of 5 v_rules bands). PROOF (A3): pct:83.07,23.76,10.59,3.06@p3 rendered '2,237.53' (row 1) and pct:83.07,38.74,10.59,2.97@p3 rendered '706.18' (row 6)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "6/12/2026",
+    "donor_raw": "Next Play Strategies",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY; city/state/zip print in the clear"
+   },
+   {
+    "line_no": "2",
+    "date": "6/17/2026",
+    "donor_raw": "Northern Wasatch Association of Realtors",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY; city/state/zip print in the clear"
+   },
+   {
+    "line_no": "3",
+    "date": "6/20/2026",
+    "donor_raw": "Brent Kenley",
+    "donor_city": "Marriott-Slaterville",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY; city/state/zip print in the clear"
+   },
+   {
+    "line_no": "4",
+    "date": "7/17/2026",
+    "donor_raw": "Kayden Morelli",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "168.61",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY; city/state/zip print in the clear"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "6/16/2026",
+    "vendor_raw": "Right Insight",
+    "vendor_city": "Boise",
+    "purpose": "Digital Advertising",
+    "amount": "2237.53",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "6/25/2026",
+    "vendor_raw": "Costco",
+    "vendor_city": "South Ogden",
+    "purpose": "Supplies",
+    "amount": "368.94",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "7/10/2026",
+    "vendor_raw": "Mail Chimp",
+    "vendor_city": "USA",
+    "purpose": "Voter Outreach",
+    "amount": "28.42",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "7/14/2026",
+    "vendor_raw": "Kevin Johnson",
+    "vendor_city": "Ogden",
+    "purpose": "Photography",
+    "amount": "1000.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "7/16/2026",
+    "vendor_raw": "Honey",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Data Collection",
+    "amount": "1000.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "7/20/2026",
+    "vendor_raw": "Right Insight",
+    "vendor_city": "Boise",
+    "purpose": "Digital Advertising",
+    "amount": "706.18",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "TYPED 2026 filing, signed 7/23/2026, with the '30 days after withdrawal or Primary Election elimination' box checked - this is the POST-ELIMINATION report and its window (6/12-7/20/2026) sits after the primary. It is one of THREE Gibson reports in the 2026 primary window and is transcribed strictly on its own terms: 32f407e4 (signed 6/16/2026), 76c91f61 (a corrected re-file of the June-16 report, signed 7/23/2026) and 8a163a02 (this one). Nothing here is merged with either of the others, and this record does not treat any of them as a correction of another's rows. The index cache note attached to this key still carries stale wording calling it 'the SECOND June-16-Primary report'; the DOCUMENT's own checked box says otherwise and the document governs - flagging it, not editing it. NOTE ON THE 2026-08-17 COVER CORRECTION: prep.py now prints last=88,220.65 / this=4,168.61 / cum=92,389.26 for this key, and both of this filing's own schedules close on that This-Report column, which independently confirms the corrected cover is now paired with the right document. PRIVACY: every Form A street line is BLACKED OUT BY THE COUNTY at source while city/state/zip print in the clear; city and state are carried, the redacted street is not. On this cover the county blacked out BOTH the street line and the city/zip line (on the filer's 6/16 cover only the street was blacked out) - the redaction is applied inconsistently even between two filings by the same candidate. Form B's City column is carried verbatim including the non-city value 'USA'."
+ }
+]

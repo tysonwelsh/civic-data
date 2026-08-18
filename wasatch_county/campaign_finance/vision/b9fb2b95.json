@@ -1,80 +1,168 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_M-Murphy.pdf",
-    "cache_key": "b9fb2b95",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Michael Murphy",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_M-Murphy.pdf",
+  "cache_key": "b9fb2b95",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "County Council",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "Seat F",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber City",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "April 1, 2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "145.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "-145.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "145.00",
+     "itemized": "145.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (145.00 = 145.00, published stated total)",
+     "published_stated": "145.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 0.00 = rows 0.00 — GATE PASSES; p2 Table B TOTAL: $145.00 = rows 145.00 — GATE PASSES. Cover identity 0.00 - 145.00 = -145.00 matches the printed balance '-$145.00'.",
+   "escalations": 0,
+   "escalation_note": "none needed — fully born-digital typed form",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Born-digital typed filing; this is one of the two filings the Phase A born-digital parser already shipped, and the page read agrees with it. Table A is a real zero (printed TOTAL 0.00). Table B row 2 amount is typed '$45' with no cents and is normalized to 45.00 as printed. NO reporting-period box is checked, although 'Convention Date: April 7, 2026' is typed into the convention line — consistent with the module's existing note that Murphy-March marks none. Initials typed as 'MGM' on both acknowledgements; signed 'Michael G. Murphy', dated April 1, 2026."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Michael Murphy",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. No period box marked."
+  "office_verbatim": {
+   "value": "County Council",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "Seat F",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber City",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "April 1, 2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "145.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "-145.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. No period box marked.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-03-05",
+   "vendor_raw": "Kinkos",
+   "purpose": "flyers",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "typed '$100.00'",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-03-06",
+   "vendor_raw": "Post Office",
+   "purpose": "stamps",
+   "amount": "45.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "typed '$45' with no cents",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

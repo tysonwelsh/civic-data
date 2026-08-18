@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:11:00Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Bahram Rahimzadegan",
  "office_stated": "Weber County Recorder Surveyors Office",
  "report_type_stated": "7 days before convention",
@@ -44,5 +44,144 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2024 form variant - SEVEN report-type checkboxes (7 days before convention / May 28 / June 18 / October 8 / October 29 / December 5 / 30 days after withdrawal or elimination), so the 2024 cycle has up to 6 scheduled reports per candidate. The candidate's street address is BLACKED OUT by the county before publication (PRIVACY.md - the county's own redaction, preserved)."
+ "notes": "2024 form variant - SEVEN report-type checkboxes (7 days before convention / May 28 / June 18 / October 8 / October 29 / December 5 / 30 days after withdrawal or elimination), so the 2024 cycle has up to 6 scheduled reports per candidate. The candidate's street address is BLACKED OUT by the county before publication (PRIVACY.md - the county's own redaction, preserved).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/2/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:15.15,5.70,3.32,10.69@p9",
+   "geometry_frame": "p9 axis=x cell=5.70-16.39 rowband=15.15-18.47 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "self-funding: the donor is the candidate. The Address column prints a full street address; only city/state are carried (PRIVACY.md)."
+  },
+  {
+   "line_no": "2",
+   "date": "1/20/2024",
+   "donor_raw": "Bahram Rahimzadegan",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:18.47,5.70,3.32,10.69@p9",
+   "geometry_frame": "p9 axis=x cell=5.70-16.39 rowband=18.47-21.79 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "self-funding; same address block as line 1, street not carried (PRIVACY.md)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Canidate Filing Fee",
+   "amount": "747.61",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:19.41,4.50,3.15,10.68@p10",
+   "geometry_frame": "p10 axis=x cell=4.50-15.18 rowband=19.41-22.56 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose kept VERBATIM including the filer's spelling 'Canidate'. The form's City column reads 'Ogden'; Form B's row contract has no city field, so it is recorded here."
+  },
+  {
+   "line_no": "2",
+   "date": "1/5/2024",
+   "vendor_raw": "Weber County Elections Office",
+   "purpose": "Filing Service Fee",
+   "amount": "18.69",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:22.56,4.50,3.18,10.68@p10",
+   "geometry_frame": "p10 axis=x cell=4.50-15.18 rowband=22.56-25.74 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "3",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Test Flyer Print",
+   "amount": "1.48",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:25.74,4.50,3.20,10.68@p10",
+   "geometry_frame": "p10 axis=x cell=4.50-15.18 rowband=25.74-28.94 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "4",
+   "date": "3/21/2024",
+   "vendor_raw": "FedEx Office Printer (Self Service)",
+   "purpose": "Print Flyers",
+   "amount": "22.94",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:28.94,4.50,3.24,10.68@p10",
+   "geometry_frame": "p10 axis=x cell=4.50-15.18 rowband=28.94-32.18 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  },
+  {
+   "line_no": "5",
+   "date": "4/1/2024",
+   "vendor_raw": "Weber County Republican GOP Website",
+   "purpose": "Convention Table Fee",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:32.18,4.50,3.23,10.68@p10",
+   "geometry_frame": "p10 axis=x cell=4.50-15.18 rowband=32.18-35.41 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column reads 'Ogden'."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    8,
+    9,
+    10
+   ],
+   "itemized_pages_A": "9",
+   "itemized_pages_B": "10",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 1,300.00, which is the cover's line-1 cell in BOTH the This-Report and Cumulative columns",
+     "detail": "1,000.00 + 300.00 = 1,300.00 = the schedule's printed total = the cover's line-1 This-Report AND Cumulative cells (Totals-from-Last-Report is blank \u2014 this is the candidate's first report of the 2024 cycle, so this == cumulative). 2024 is the 3-line form variant with a single contrib_all cell and no separate <=$50 aggregate line, so the whole published contributions total is anchored here."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 890.72, which is the cover's line-2 cell in BOTH the This-Report and Cumulative columns",
+     "detail": "747.61 + 18.69 + 1.48 + 22.94 + 100.00 = 890.72 = the schedule's printed total = the cover's line-2 This-Report AND Cumulative cells. Line 3 closes independently: 1,300.00 - 890.72 = 409.28, the printed ending balance."
+    }
+   },
+   "escalations": 6,
+   "escalation_note": "six 900 dpi tight --value crops used as GEOMETRY proofs, not glyph re-reads: p9 rows 1-2 (1,000.00 / 300.00) and p10 rows 1, 4 and 5 (747.61 / 22.94 / 100.00), plus one crop of p10's band [16.15,19.41] which resolved to the printed GRAY SPACER strip and is what caught a one-band off-by-one in the p10 frame before it was recorded. Both schedules are typed, so no amount needed a legibility escalation.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Bahram Rahimzadegan, 'Weber County Recorder Surveyors Office', 2024 cycle, '7 days before convention' report, signed 4/7/2024. Both schedules are TYPED (not handwritten) \u2014 unusual for this corpus and the reason confidence is uniform medium with no legibility escalation; SCHEMA \u00a76 still caps a page image at the OCR tier so nothing is marked high. Page ORDER is the form order here: cover p8, Form A p9, Form B p10. The candidate's street address on the cover is BLACKED OUT by the county before publication \u2014 the government's own redaction, preserved and not recovered (PRIVACY.md). Note a printed-form defect in the source, not a transcription issue: the 2024 cover's December-5 checkbox text says 'through December 31, 2022' (the county reused the 2022 form text); it is unticked here and does not affect any figure."
+  }
+ }
 }

@@ -89,6 +89,8 @@ import normalize_donors  # noqa: E402
 import reconcile         # noqa: E402
 import registry          # noqa: E402
 
+import make_itemized_caches as itemlib   # noqa: E402  (module-local; geometry + money helpers)
+
 FAMILY_ID = "wasatch_disclosure_tableab"
 FAMILY_VARIANT = "wasatch_disclosure_tableab"   # the VISION-read variant, never the statute
 
@@ -349,6 +351,21 @@ def itemize(r, key, variant, stated_c, stated_e, aliases):
         patch["recon_delta_%s" % sidename] = "%.2f" % delta
 
     crows, erows = keep["contrib"], keep["expend"]
+    # GEOMETRY UPGRADE (Phase B): the family emits a text-line pointer (`p2:l65:c56-63`); on a
+    # born-digital page `pdftotext -bbox-layout` gives the row's EXACT box for free, so promote
+    # it to the `pct:` form SCHEMA §2a specifies. A line the bbox pass cannot match keeps its
+    # text-line pointer — a wrong box is worse than a coarser true one.
+    pdf_abs = D(r["path"])
+    src_lines = text.splitlines()
+    for x in crows + erows:
+        try:
+            line_text = src_lines[int(x.line_no) - 1]
+        except (ValueError, IndexError):
+            continue
+        m = re.match(r"p(\d+):", x.geometry or "")
+        g = itemlib.bbox_pct(pdf_abs, int(m.group(1)) if m else 1, line_text)
+        if g:
+            x.geometry = g
     for x in crows + erows:
         x.extraction_confidence = "high"
         x.needs_review = x.needs_review or "0"
@@ -367,11 +384,108 @@ def itemize(r, key, variant, stated_c, stated_e, aliases):
     return crows, erows, patch, notes
 
 
+def vision_itemized(r, key, doc, aliases, have_c, have_e):
+    """Emit the VISION-transcribed ledger rows of one filing.
+
+    Source: the filing's own `vision/<key>.json` — the `contributions` / `expenditures` lists and
+    the `_meta.itemized` block that `make_itemized_caches.py` wrote from the wave's transcription
+    record. **Every gate was already applied by that module** (reconciliation recomputed against
+    the right anchor, field-shift screen, privacy screen, ISO-date screen); this function only
+    materialises what survived, so the CSVs and the cache can never disagree.
+
+    **THE VISION READ GOVERNS**, which is the same precedence this module already applies to the
+    cover ("the VISION figure governs and nothing was changed"). Where the born-digital
+    `wasatch_disclosure_tableab` parse ALSO covered a side, the vision rows replace it and the
+    fact is recorded: the family is a regex over a text layer and is demonstrably brittle on this
+    corpus (it emitted three blank vendor names on Forsyth 2026-06 and mis-columned three whole
+    filings before the Phase B date-grammar fix), whereas a vision row was read under the
+    per-row contract and gated by the page's own arithmetic. `have_c` / `have_e` therefore only
+    control the note, not the outcome.
+    """
+    it = (doc.get("_meta") or {}).get("itemized")
+    if not it:
+        return [], [], {}, []
+    notes, patch = [], {}
+    recon = it.get("recon") or {}
+    out = {"contrib": [], "expend": []}
+
+    for sidename, side, rows_key, have in (("contrib", "contributions", "contributions", have_c),
+                                           ("expend", "expenditures", "expenditures", have_e)):
+        state = (it.get("sides") or {}).get(side, "")
+        rec = recon.get(side) or {}
+        if state == "withheld":
+            notes.append("ITEMIZED %s WITHHELD: %s" % (side.upper(),
+                         (it.get("withheld_reason") or {}).get(side, "no reason recorded")))
+            continue
+        if state == "none":
+            notes.append("ITEMIZED %s: the document has NO such schedule page - non-existence, "
+                         "which is not the same fact as a zero. %s"
+                         % (side.upper(), (it.get("withheld_reason") or {}).get(side, "")))
+            continue
+        if state != "transcribed":
+            continue
+        src = doc.get(rows_key) or []
+        if not src:
+            notes.append("ITEMIZED %s: the schedule page EXISTS and is BLANK on the face - a "
+                         "real zero, read and recorded, not an untranscribed gap." % side.upper())
+        for i, x in enumerate(src, 1):
+            common_kw = dict(
+                candidate=r["candidate"], office=r["office"], seat=r.get("seat", ""),
+                election_year=r["election_year"], filing_date=r.get("date", ""),
+                reporting_period=r.get("reporting_period", ""), date=x.get("date", "") or "",
+                amount=common.money_str(itemlib.money(x.get("amount"))),
+                is_incremental="True" if doc["_meta"]["is_incremental"] else "False",
+                source_filing=r["path"], document_id="wasatch-cf-" + key, line_no=str(i),
+                extract_method="vision-itemized/read-tool",
+                needs_review=str(int(x.get("needs_review") or 0)),
+                geometry=x.get("geometry", ""))
+            if sidename == "contrib":
+                row = common.ContribRow(donor_raw=x.get("donor_raw", ""),
+                                        donor_city=x.get("donor_city", ""),
+                                        donor_state=x.get("donor_state", ""),
+                                        in_kind="True" if x.get("in_kind") else "False",
+                                        **common_kw)
+                normalize_donors.normalize_contrib(row, r["candidate"], aliases)
+            else:
+                row = common.ExpendRow(vendor_raw=x.get("vendor_raw", ""),
+                                       purpose=x.get("purpose", ""),
+                                       in_kind="True" if x.get("in_kind") else "False",
+                                       **common_kw)
+                normalize_donors.normalize_vendor(row)
+            row.extraction_confidence = x.get("confidence", "medium") or "medium"
+            out[sidename].append(row)
+        if rec:
+            # `reconciles_*` / `recon_delta_*` are defined against the PUBLISHED stated total,
+            # which is what `make_itemized_caches` precomputes as `csv_reconciles` / `csv_delta`
+            # — NOT against the side's own gate, because on the Carr sheet the published total
+            # adds an unitemized <=$50 aggregate (see the cache's `recon.*.detail`).
+            patch["itemized_%s_sum" % sidename] = rec.get("itemized", "")
+            patch["reconciles_%s" % sidename] = rec.get("csv_reconciles", "")
+            patch["recon_delta_%s" % sidename] = rec.get("csv_delta", "")
+            notes.append("ITEMIZED %s (vision, %d row(s)) reconciled against the %s: %s"
+                         % (side.upper(), len(src), rec.get("anchor", "stated total"),
+                            rec.get("detail", "")))
+    crows, erows = out["contrib"], out["expend"]
+    if crows or erows:
+        patch["n_contrib_rows"] = patch.get("n_contrib_rows", 0) or len(crows)
+        patch["n_expend_rows"] = patch.get("n_expend_rows", 0) or len(erows)
+        patch["self_funded_amount"] = common.money_str(round(sum(
+            float(x.amount) for x in crows
+            if x.donor_type in ("candidate-self", "loan") and x.amount), 2))
+    if it.get("page_subtotal_gates"):
+        notes.append("Printed-total gates: " + it["page_subtotal_gates"])
+    if it.get("notes"):
+        notes.append("Transcriber: " + it["notes"])
+    if it.get("screen_findings"):
+        notes.append("Screen: " + "; ".join(it["screen_findings"][:6]))
+    return crows, erows, patch, notes
+
+
 def build(rows):
     tot = []
     contrib_rows, expend_rows = [], []
     aliases = normalize_donors.load_aliases(D("donor_aliases.csv"))
-    n_bd = 0
+    n_bd = n_vis = 0
     for r, key, doc in rows:
         m, stated = doc["_meta"], doc["stated"]
         variant, regime = m["form_variant_vision"], m["filing_regime"]
@@ -413,9 +527,43 @@ def build(rows):
         _c, _e, patch, _n = itemize(r, key, variant, c_tot, e_tot, aliases)
         if variant == FAMILY_VARIANT:
             n_bd += 1
-        contrib_rows.extend(_c)
-        expend_rows.extend(_e)
         notes.extend(_n)
+        # ---- VISION-ITEMIZED layer (TRANCHE 3 Phase B). Covers ALL THREE variants; already
+        # screened + reconciled by make_itemized_caches.py, which is the only writer of the
+        # cache's itemized block.
+        _vc, _ve, vpatch, _vn = vision_itemized(r, key, doc, aliases, bool(_c), bool(_e))
+        # ---- PRECEDENCE: where the VISION read covered a side, it SUPERSEDES the born-digital
+        # family parse of the same side (the module's standing rule for the cover, applied to the
+        # ledger). A row is never published twice, and a superseded family side says so.
+        it_meta = (doc.get("_meta") or {}).get("itemized") or {}
+        v_sides = it_meta.get("sides") or {}
+        for sidename, fam_rows, vis_rows in (("contrib", _c, _vc), ("expend", _e, _ve)):
+            side_name = "contributions" if sidename == "contrib" else "expenditures"
+            if v_sides.get(side_name) not in ("transcribed", "withheld", "none"):
+                continue
+            if fam_rows:
+                fsum = round(sum(float(x.amount) for x in fam_rows if x.amount), 2)
+                vsum = round(sum(float(x.amount) for x in vis_rows if x.amount), 2)
+                notes.append(
+                    "PRECEDENCE (%s): the born-digital `%s` parse read %d row(s) summing to "
+                    "%.2f and the vision read of the same page read %d summing to %.2f; the "
+                    "VISION rows are published and the family's are held in the parse only, the "
+                    "same rule this module applies to the cover."
+                    % (side_name, FAMILY_ID, len(fam_rows), fsum, len(vis_rows), vsum))
+                if sidename == "contrib":
+                    _c = []
+                else:
+                    _e = []
+            for k_ in ("itemized_%s_sum", "reconciles_%s", "recon_delta_%s"):
+                patch.pop(k_ % sidename, None)
+        contrib_rows.extend(_c)
+        contrib_rows.extend(_vc)
+        expend_rows.extend(_e)
+        expend_rows.extend(_ve)
+        notes.extend(_vn)
+        if _vc or _ve:
+            n_vis += 1
+        patch.update(vpatch)
         if not patch:
             notes.append("Stated totals only — no itemized Table A/B row is published for this "
                          "filing, so reconciliation is UNKNOWN, not a match.")
@@ -443,7 +591,7 @@ def build(rows):
     tot.sort(key=lambda x: (x["election_year"], x["filing_date"], x["candidate"]))
     contrib_rows.sort(key=lambda x: (x.source_filing, int(x.line_no or 0)))
     expend_rows.sort(key=lambda x: (x.source_filing, int(x.line_no or 0)))
-    return tot, contrib_rows, expend_rows, n_bd
+    return tot, contrib_rows, expend_rows, n_bd, n_vis
 
 
 def write(path, header, rows):
@@ -465,7 +613,7 @@ def write_rows(path, header, geo_header, rows):
 
 def main():
     rows = load()
-    tot, crows, erows, n_bd = build(rows)
+    tot, crows, erows, n_bd, n_vis = build(rows)
     write(D("filing_totals.csv"), TOTALS_HEADER, tot)
     write_rows(D("contributions.csv"), CONTRIB_HEADER, common.CONTRIB_HEADER_GEO, crows)
     write_rows(D("expenditures.csv"), EXPEND_HEADER, common.EXPEND_HEADER_GEO, erows)
@@ -483,8 +631,13 @@ def main():
     nre = sum(1 for t in tot if t["reconciles_expend"] == "True")
     print("born-digital Table A/B filings handed to `%s`: %d of %d  (sides reconciling "
           "exactly: %d contrib / %d expend)" % (FAMILY_ID, n_bd, len(tot), nrc, nre))
-    print("contributions.csv  %3d rows   expenditures.csv %3d rows  — the two older cumulative "
-          "sheets itemize nothing (NOT transcribed, never 'no donors')" % (len(crows), len(erows)))
+    print("vision-itemized filings contributing rows: %d" % n_vis)
+    import collections as _c2
+    meth = _c2.Counter(x.extract_method for x in crows + erows)
+    print("contributions.csv  %3d rows   expenditures.csv %3d rows   by method: %s"
+          % (len(crows), len(erows), dict(sorted(meth.items()))))
+    geo = sum(1 for x in crows + erows if (x.geometry or "").startswith("pct:"))
+    print("  rows carrying a pct: geometry anchor: %d of %d" % (geo, len(crows) + len(erows)))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,17 @@
+[{
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 11,
+  "page_end": 11,
+  "key": "86d94b8c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [11],
+  "sides": { "contributions": "no-schedule-page", "expenditures": "no-schedule-page" },
+  "withheld_reason": {
+    "contributions": "The retained filing is ONE page (archive pages 11-11 of the 2024 consolidated county archive) - the handwritten 3-line cover sheet only. No Form A / Itemized Report of Contributions page was filed or published with it. Verified at the boundary: archive p12 was rendered and is a DIFFERENT filer's cover (John Ulibarri, Assessor, 7-Apr-24), so no schedule sheet of Rowley's was orphaned into the following page range. The cover itself states a slashed zero in ALL NINE money cells (last / this / cumulative on all three lines), so a zero-dollar convention report with no schedule is internally consistent - but what is recorded here is the non-existence of the page, not an empty one.",
+    "expenditures": "Same document, same evidence: no Form B / Itemized Report of Expenditures page exists in the retained filing. The cover's line-2 cells are slashed zeros in all three columns."
+  },
+  "recon": { },
+  "escalations": 1,
+  "escalation_note": "Rendered archive p12 at 110 dpi to prove the filing boundary - it is John Ulibarri's Assessor cover, not a continuation of Rowley's filing.",
+  "notes": "Brian Rowley, County Commission Seat C, 2024 cycle; report-type box '7 days before convention' is CHECKED; signed 3/15/2024. A genuine ZERO-DOLLAR report: every money cell on the cover carries a slashed zero (the zero-glyph ruling reads that as 0, and the 2026-08-01 totals tranche already published it as 0/0/0 on all three lines). The candidate's street address block is BLACKED OUT BY THE COUNTY before publication (a government-applied redaction, visible as a solid black bar) - that is preserved, not recovered. Both phone lines carry the same number. This is a distinct filer-key from the 2022 Rowley filing (de32aa18, Seat B) even though it is the same person."
+}]

@@ -5,16 +5,23 @@ candidates. Additive layer completing the **elections → members → votes** ch
 the people casting the votes). Built by the `expand-city-sources` skill (Source 6).
 As-of 2026-07-05.
 
-> **2026-08-02 — read `RECON_2026-08-02.md` first.** An adversarial channel re-hunt
-> **falsified** the "no PDFs exist anywhere / no pre-portal filings online" determination.
-> A **2003 PDF tranche is now in `raw/recorder_2003/`** (8 filings, itemized donors +
+> **2026-08-02 — read `RECON_2026-08-02.md` first** (and its **2026-08-14 addendum**). An
+> adversarial channel re-hunt **falsified** the "no PDFs exist anywhere / no pre-portal filings
+> online" determination. A **2003 PDF tranche is in `raw/recorder_2003/`** (itemized donors +
 > expenditures, Mayor + Council D1/D2/D4/D5/D6), plus a captured live **portal 503 page that
-> embeds a 38-row candidate/balance table**. the STRUCTURED LAYER IS NOW BUILT
-> (2026-08-02): `build_finance.py` parses the 8 filings into filing_totals (8) /
-> contributions (222) / expenditures (162), every side reconciled to a filer-stated
-> total or honestly unknown, every row geometry-anchored (`p:l:c` spans;
-> make_snippet.py works — sidecars in text/recorder_2003/); index.csv carries the 8
-> filings; validate_finance PASS 0/0.
+> embeds a 38-row candidate/balance table**. THE STRUCTURED LAYER IS BUILT: `build_finance.py`
+> parses the filings into filing_totals / contributions / expenditures, every side reconciled
+> to a filer-stated total or honestly unknown, every row geometry-anchored (`p:l:c` spans;
+> make_snippet.py works — sidecars in text/recorder_2003/); validate_finance PASS 0/0.
+>
+> **2026-08-14 — the tranche GREW.** The Internet-Archive interstitial that blocked 5 objects
+> cleared, so `David_Spatafore` + `J_Michael_Clara` joined the 2003 tranche (**10 filings**,
+> **248 contributions**, **176 expenditures**, both new filings reconciling on both sides) and
+> `raw/recorder_limitations/` reached **15 of 15**. Rebuild was additive only — 44 insertions,
+> 0 deletions, no pre-existing row touched. **`Dale_Lambert` is the one permanent 2003 gap.**
+> Also added: `raw/declared_candidates/` — 2025 + 2021 roster snapshots (**candidate spine
+> only, no money, NOT filings**, so deliberately absent from `index.csv`).
+> **The city's portal is still 503 and demonstrably untouched** (byte-identical 503 body).
 
 ## What this is (and is NOT)
 
@@ -40,13 +47,20 @@ Full endpoint map and the reverse-engineering path are in **AVAILABILITY.md** �
 
 - `raw/` — retained source documents. `_fetch_log.jsonl` = provenance for **every** file
   (url, original_url, wayback_timestamp, status, bytes, sha256, retrieved_utc, channel).
-  - `raw/recorder_2003/` — **8 recovered 2003 filings** (PDF) + `_index_feb_fin_disc.htm`,
+  - `raw/recorder_2003/` — **10 recovered 2003 filings** (PDF) + `_index_feb_fin_disc.htm`,
     the Recorder's index page. **Real filings** with itemized contributions/expenditures.
+    (11th, `Dale_Lambert`, indexed but never captured by Wayback — permanent gap.)
   - `raw/portal_snapshot/` — the live **503** page (2026-08-02), which embeds the
     38-row candidate/office/**balance** table. A point-in-time snapshot, **not a filing**.
-  - `raw/recorder_limitations/` — 12 scanned "Public Notice" declarations to voluntarily
-    limit contributions/expenditures (2003/2005/2007). **Not filings**; no text layer
-    (vision/OCR needed).
+    Re-probed 2026-08-14: unchanged, so no second snapshot was retained (byte-duplicate).
+  - `raw/recorder_limitations/` — **15** scanned §2.46.080 "Public Notice" documents
+    (2003/2005/2007). **Not filings**; no text layer (vision/OCR needed). **Mixed
+    instrument** — most declare a decision to voluntarily *limit* contributions and
+    expenditures, but **Buhler and Hughes DECLINE to limit**. Read before characterizing.
+  - `raw/declared_candidates/` — **roster snapshots, NOT filings and NO money**: the live
+    2025 `slc.gov` declared-candidates page + two 2021-cycle Wayback captures (final
+    verified roster + mid-filing-window partial). Sidecars in `text/declared_candidates/`.
+    Deliberately **not** in `index.csv`, which is a filing index.
   - `raw/recorder_open_committees/` — live roster of 22 open Personal Campaign Committees
     as of 2019-05-03. **Not a filing.**
   - *(planned, when the API returns)* verbatim JSON payloads per candidate:
@@ -88,14 +102,16 @@ go candidate → `election_results` winner → `db/` `v_member_record` / `all_vo
 ## Known limitations
 
 - **2019+ portal is data-only** (no PDF/scan of a signed form exists at that grain — the
-  JSON *is* the record), and its public API has returned **503** since ≥2026-07-05.
-- **2003:** 8 filings recovered; 2 more (`David_Spatafore`, `J_Michael_Clara`) are archived
-  but currently blocked by an Internet-Archive donation interstitial — **retry**;
-  `Dale_Lambert` was never captured (permanent gap).
+  JSON *is* the record), and its public API has returned **503** since ≥2026-07-05 —
+  re-probed 2026-08-14, still 503 with a byte-identical body (the city has changed nothing).
+- **2003: 10 of 11 filings recovered.** `Dale_Lambert` was never captured by Wayback and is
+  a **permanent gap** (re-confirmed by CDX 2026-08-14). The two once-blocked files
+  (`David_Spatafore`, `J_Michael_Clara`) were recovered 2026-08-14.
 - **2005–2017: honest gap.** These cycles *were* published (in the `CandidateReporting`
   app), but its result pages were POST-only and never archived, and the app now 500s.
   Recoverable only from the city.
-- The recovered 2003 documents are **not yet parsed** into structured tables and are **not
-  in `index.csv`** — that is the coordinator's structured-layer build.
+- **No other SLC city host serves CF filings.** `webdme.slcgov.com` (Laserfiche WebLink, 8
+  live public apps) was swept 2026-08-14 — no campaign-finance or elections-filings subtree;
+  its `CityElections` app is retired (404). See the RECON addendum.
 - See the HARVEST STATUS block in AVAILABILITY.md for any acquisition-time outage and the
   actual per-year/candidate counts once harvested.

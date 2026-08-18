@@ -47,6 +47,118 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Clean colour photograph of the same sheet as doc 20650, published again as the Post-Election report. The Current contributions cell holds a struck-out figure that cannot be resolved (NULL). Carries the clerk's printed instruction box. Surname scrawl as noted on 20650. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Clean colour photograph of the same sheet as doc 20650, published again as the Post-Election report. The Current contributions cell holds a struck-out figure that cannot be resolved (NULL). Carries the clerk's printed instruction box. Surname scrawl as noted on 20650. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "",
+   "donor_raw": "Michael Franchek (self)",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=unreadable;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:4.76,22.73,85.30,1.91@p2",
+   "geometry_fit": "declared",
+   "note": "DATE NOT TRANSCRIBED. On this clean color copy the cell reads '?/29/10': the MONTH digit is struck through and overwritten (escalated to a 1200 dpi tight crop - the strike is deliberate ink, not scan damage) and the YEAR is written as 10 on a 2022 filing, matching the year in the printed SPECIMEN row directly above (8/25/10). A year is never filled in from the report date and a struck month digit is not guessed, so the cell is blank with the verbatim recorded here. Street address with no city/state written; not redacted.",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-07-01",
+   "vendor_raw": "Filing fees",
+   "purpose": "Summit County",
+   "amount": "303.02",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.44,36.34,98.09,3.64@p3",
+   "geometry_fit": "measured",
+   "note": "FILER SWAPPED THE COLUMNS on this row: 'Filing fees' sits in the Person or Organization column and 'Summit County' in the Purpose of Expenditure column - transcribed by column position as printed, not silently corrected.",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2022-07-10",
+   "vendor_raw": "Lindsay Harren",
+   "purpose": "Social Media Consulting",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.44,39.98,98.09,3.57@p3",
+   "geometry_fit": "measured",
+   "note": "the one row on the page whose two columns are in the intended order; name settled at 1000 dpi on this color copy (capital H, 'Harren').",
+   "page": 3,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2022-07-15",
+   "vendor_raw": "Travel/fuel",
+   "purpose": "Chevron",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:1.44,43.55,98.09,2.77@p3",
+   "geometry_fit": "measured",
+   "note": "FILER SWAPPED THE COLUMNS on this row: 'Travel/fuel' is in the Person or Organization column and 'Chevron' in the Purpose column - transcribed by column position as printed.",
+   "page": 3,
+   "band": 6
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "500",
+    "itemized": "500.00",
+    "result": "exact",
+    "detail": "exact - the one real donor row (Michael Franchek, self, 500.00) equals the filer's own handwritten schedule total AND the cover's cumulative $500. The cover's CURRENT-report contribution cell is the struck-out figure the cover tranche recorded as ILLEGIBLE; it is not repaired here, and the cumulative column is the gate used."
+   },
+   "expenditures": {
+    "stated": "503.02",
+    "itemized": "503.02",
+    "result": "exact",
+    "detail": "exact - 3 rows sum to 503.02 = the page's boxed 'Total amount of expenditures', the loose $503.02 written in the Amount column below the rows, and the cover."
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT carries the filer's own handwritten total at the foot of the grid ('Total' in the Mailing Address column, '$500' in the Amount column); the single real donor row is $500 and the cover's cumulative contribution figure is $500 - three-way closure. p3 ITEMIZED EXPENSE REPORT prints the boxed 'Total amount of expenditures' with a handwritten $503.02, repeats $503.02 lower down the Amount column, and the 3 real rows (303.02 + 150.00 + 50.00) reproduce it exactly, matching the cover. Both pages still carry the blank form's SPECIMEN row (8/25/10 'Jon and Jane Doe' $435.00 and 8/25/10 'Name of Business' / 'Campaign signs and flyers' $512.00) and both totals close ONLY with the specimens dropped.",
+  "escalations": 4,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 3,
+   "declared": 1,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "THIS FILING'S PAGES ARE A COLOR PHOTOGRAPH OF THE ORIGINAL PAPER (shot on a wooden table, page edges and shadow visible, blue ballpoint legible) - not a photocopy. That makes it by far the most legible copy of Franchek's ledger and it is the reason this record's reads are high-confidence where 20650's are not. THE SUBSTANTIVE FINDING, AND IT IS A SOURCE PROPERTY THE BRIEFS DO NOT LIST: the Post-Election filing (this document) RE-SUBMITS THE PRE-ELECTION FILING'S SCHEDULE PAGES VERBATIM - the same single self-contribution, the same three expenses, the same handwritten totals, the same corrections in the same places as 20650, and identical cover figures (contributions $500, expenditures $503.02, balance $3.02). Cover-differencing the pair therefore gives zero new activity between the two reports, which is the pair gate the chunk brief asked for and it holds. The two documents are transcribed independently (each record is read from its own pages), but a consumer counting Franchek's 2022 money must not add the two filings together. Address handling: the p2 donor row's Mailing Address cell holds a street address with a unit number and NO city or state (the sheet's separate Zipcode cell is filled), so donor_city/donor_state are honestly BLANK - not redacted, simply not written, and a city is never inferred from a zip. GEOMETRY: p2 is DECLARED - rowbands finds no rules above y=30% on that page, so the frame (y0 17.00, pitch 1.91) comes from a direct dark-row probe of the 14-32% window, which returns a regular run of rules at 17.00, 18.93, 20.73, 22.66, 24.52, 26.41, 28.32, 30.25 (fitgrid independently reports pitch 1.9124 explaining 35 of 36 detected rules, mean residual 0.09); band 4 was crop-verified to frame the Franchek row. p3 is MEASURED (bands 4/5/6 = the three written rows, crop-verified), with one honest caveat: on that page the writing crosses the printed rules, so each measured band begins AT its row's text and extends down through the blank band beneath it - the box contains its row, but at the top edge rather than centred."
+ }
 }

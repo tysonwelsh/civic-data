@@ -52,6 +52,84 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover, all three columns printed."
+ "itemized_transcribed": true,
+ "notes": "Typed cover, all three columns printed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2016-03-10",
+   "donor_raw": "Kim A. Carson",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:17.07,23.72,73.23,2.46@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate herself; city/state read from the form's single 'Mailing Address' cell, street discarded at read time",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-03-16",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.48,23.43,81.43,2.52@p3",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 3,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "250.00",
+    "itemized": "250.00",
+    "result": "exact",
+    "detail": "exact to the cent on one row, closing on the page's own '>$50' box AND on the cover's $250.00 cumulative. NO structural residual: this filer's '<=$50' aggregate box reads $0.00, so the itemized ledger is the whole contribution side."
+   },
+   "expenditures": {
+    "stated": "250.00",
+    "itemized": "250.00",
+    "result": "exact",
+    "detail": "exact to the cent on one row, closing on the page's own 'Total amount of expenditures $250.00' box and on the cover"
+   }
+  },
+  "page_gates": "p2 is titled 'ITEMIZED CONTRIBUTION REPORT' and prints TWO boxed totals - '>$50 $250.00' and '<=$50 $0.00'; its single filled row is $250.00 and closes the >$50 box to the cent, and the $0.00 aggregate box leaves no structural residual. p3 is titled 'ITEMIZED EXPENSE REPORT' and prints one box, 'Total amount of expenditures $250.00'; its single filled row is $250.00 and closes it to the cent. Both also equal the cover's cumulative figures ($250.00 / $250.00) that this module already publishes.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A minimal, wholly self-funded filing: the only contribution is the candidate's own $250.00 and the only expenditure is the $250.00 candidate filing fee paid to the Summit County Clerk - the money in equals the money out and the cover's $0.00 balance follows exactly. Typed on the blank split50 form and scanned clean (index text_quality 'high'); the county scanner's OCR layer garbles the money glyphs ('$2s0.00', '$i250.00') and the dates ('3lr0l16', '3l16l16'), which is exactly why the full-page vision read governs - the printed page is unambiguous at 200 dpi. NO SPECIMEN ROWS: this filer deleted the blank form's printed 'Jon and Jane Doe' $435.00 and 'Name of Business' $512.00 examples, and the boxes closing on the single row each way is the proof. THE 2016 SHEET DOES PRINT A CITY: unlike Glenn Wright's spreadsheet ledger in the same cycle (4009/4180), this is the county's own blank form, whose 'Mailing Address' column carries street, city and state in one cell ('8834 Highfield Rd., Park City, UT') with a separate 'Zipcode' column - so donor_city/donor_state ARE populated here, taken from that cell at read time. The street portion was discarded at read time under the privacy gate and no street address or PO box is written anywhere in this record. GEOMETRY: both pages carry clean printed rules and rowbands measured 35 bands on each; the single data row is band 2 on both pages. Crop-verified: p2 band 2 (pct:17.07,23.72,73.23,2.46@p2) renders '3/10/16 | Kim A. Carson | ... Park City, UT | 84098 | $250.00', reproducing donor and amount. Carson's POST-ELECTION sheet (4279) is a cover-only re-file of these same figures and carries no ledger pages at all."
+ }
 }

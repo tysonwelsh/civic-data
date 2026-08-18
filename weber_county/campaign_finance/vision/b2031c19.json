@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:51:39Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Sharon Arrington Bolos",
  "office_stated": "County Commission- Seat B",
  "report_type_stated": "",
@@ -44,5 +44,342 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, HANDWRITTEN, no thousands separators. NO report-type box marked (checkboxes dropped by the scan). All columns reconcile. City/zip 'West Haven UT 84401' is printed unredacted on this copy while the street address is blacked out. OFFICE IS WRITTEN ON THE FORM though index.csv leaves office_stated blank."
+ "notes": "2026 form variant, HANDWRITTEN, no thousands separators. NO report-type box marked (checkboxes dropped by the scan). All columns reconcile. City/zip 'West Haven UT 84401' is printed unredacted on this copy while the street address is blacked out. OFFICE IS WRITTEN ON THE FORM though index.csv leaves office_stated blank.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "05/30/26",
+   "donor_raw": "Charlie's Service Center",
+   "donor_city": "Sunset",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,21.59,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=21.59-23.59 (1 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "05/30/26",
+   "donor_raw": "Lynelle Jensen",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "150.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,25.48,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=25.48-27.48 (2 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "05/30/26",
+   "donor_raw": "LaVar Taylor",
+   "donor_city": "Layton",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "geometry": "pct:57.00,29.30,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=29.30-31.30 (3 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "filer tags this 'in-kind' in the unheaded column right of Amount; it counts toward the printed TOTAL. The SAME payee and the SAME 250.00 appear on the expenditures schedule (p4 line 4, 'campaign video & consulting') - the standard in-kind pairing, both sides reported."
+  },
+  {
+   "line_no": "4",
+   "date": "06/01/26",
+   "donor_raw": "Sharon Bolos",
+   "donor_city": "West Haven",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,33.07,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=33.07-35.07 (4 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "filer tags this 'loan' - a self-loan from the candidate, reported as a contribution and counted in the printed TOTAL. Tag recorded here, not folded into the name."
+  },
+  {
+   "line_no": "5",
+   "date": "06/03/26",
+   "donor_raw": "Western Basin Land & Livestock",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,36.80,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=36.80-38.80 (5 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "06/08/26",
+   "donor_raw": "Sharon Bolos",
+   "donor_city": "West Haven",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,40.59,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=40.59-42.59 (6 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "second self-loan, filer tag 'loan'."
+  },
+  {
+   "line_no": "7",
+   "date": "06/11/26",
+   "donor_raw": "Rhett Potter",
+   "donor_city": "Riverdale",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,44.36,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=44.36-46.36 (7 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "06/11/26",
+   "donor_raw": "Bella's Fresh Mexican Grill",
+   "donor_city": "Farr West",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:57.00,48.05,10.00,2.00@p3",
+   "geometry_frame": "p3 axis=y cell=57.00-67.00 rowband=48.05-50.05 (8 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "05/27/26",
+   "vendor_raw": "Jones Shirts & Signs",
+   "purpose": "signs",
+   "amount": "400.34",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,21.43,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=21.43-23.43 (1 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'North Ogden UT'."
+  },
+  {
+   "line_no": "2",
+   "date": "05/30/26",
+   "vendor_raw": "Venmo",
+   "purpose": "fees",
+   "amount": "2.95",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,25.30,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=25.30-27.30 (2 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'New York NY'."
+  },
+  {
+   "line_no": "3",
+   "date": "05/30/26",
+   "vendor_raw": "Kent's",
+   "purpose": "meet & greet drinks/balloons",
+   "amount": "51.36",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,29.09,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=29.09-31.09 (3 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Roy UT'."
+  },
+  {
+   "line_no": "4",
+   "date": "05/30/26",
+   "vendor_raw": "LaVar Taylor",
+   "purpose": "campaign video & consulting",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,32.89,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=32.89-34.89 (4 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line reads 'Layton' with NO STATE - left off by the FILER, not trimmed here. Pairs with the 250.00 in-kind CONTRIBUTION from the same person on p3 line 3."
+  },
+  {
+   "line_no": "5",
+   "date": "06/01/26",
+   "vendor_raw": "UPS Store",
+   "purpose": "flyers",
+   "amount": "36.99",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,36.59,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=36.59-38.59 (5 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Clinton UT'."
+  },
+  {
+   "line_no": "6",
+   "date": "06/01/26",
+   "vendor_raw": "Express Digital Direct Mail",
+   "purpose": "mailer",
+   "amount": "6959.25",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,40.30,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=40.30-42.30 (6 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'West Valley City UT'. WORTH A LOOK, NOT A CORRECTION: an identical payee/purpose/amount (Express Digital Direct Mail, 'mailer', 6,959.25) is also itemized on this filer's PREVIOUS 2026 report dated 23 May 2026 (key 0fcf167d, there dated 05/12/26). Both reports close exactly to their own printed totals, so nothing is adjusted; whether this is a second identical mailer or the same invoice reported twice cannot be settled from the documents."
+  },
+  {
+   "line_no": "7",
+   "date": "06/04/25",
+   "vendor_raw": "Weber County",
+   "purpose": "voter data",
+   "amount": "169.13",
+   "in_kind": false,
+   "needs_review": "1",
+   "confidence": "medium",
+   "geometry": "pct:48.00,44.02,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=44.02-46.02 (7 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE KEPT VERBATIM AND NOT CORRECTED: the filer typed '06/04/25' - a 2025 year on a 2026 report whose period runs late May to mid June 2026. Well-formed but wrong is retained (brief section 6); it will normalize to 2025-06-04 and should not be trusted as a transaction date. City line 'Ogden UT'."
+  },
+  {
+   "line_no": "8",
+   "date": "06/05/26",
+   "vendor_raw": "Macey's",
+   "purpose": "meet & greet drinks",
+   "amount": "27.26",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,47.75,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=47.75-49.75 (8 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'South Ogden UT'."
+  },
+  {
+   "line_no": "9",
+   "date": "06/06/26",
+   "vendor_raw": "Jack Arrington",
+   "purpose": "meet & greet drinks",
+   "amount": "23.96",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,51.45,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=51.45-53.45 (9 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'North Ogden UT'."
+  },
+  {
+   "line_no": "10",
+   "date": "06/06/26",
+   "vendor_raw": "Sharon Bolos",
+   "purpose": "ice",
+   "amount": "2.04",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,55.14,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=55.14-57.14 (10 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'West Haven UT'; a reimbursement to the candidate."
+  },
+  {
+   "line_no": "11",
+   "date": "06/08/26",
+   "vendor_raw": "Stillwater Digital LLC",
+   "purpose": "website improvements",
+   "amount": "207.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,58.84,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=58.84-60.84 (11 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Spanish Fork UT'."
+  },
+  {
+   "line_no": "12",
+   "date": "06/07/26",
+   "vendor_raw": "Facebook",
+   "purpose": "ads (6/2 thru 6/7) detail available upon request",
+   "amount": "229.17",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,62.55,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=62.55-64.55 (12 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Internet'. The purpose cell runs to TWO printed lines - 'ads (6/2 thru 6/7)' and, beneath it, 'detail available upon request' - and both are carried, joined by a space. NOTE the printed ORDER: this 06/07 row and the 06/07 row at line 14 sit either side of a 06/09 row, so the schedule is not strictly date-sorted; the printed order is preserved."
+  },
+  {
+   "line_no": "13",
+   "date": "06/09/26",
+   "vendor_raw": "VOTTIV Campaigns",
+   "purpose": "text messages",
+   "amount": "1154.96",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,66.30,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=66.30-68.30 (13 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Salt Lake City UT'. THE PURPOSE ON THIS ROW IS HANDWRITTEN - 'text messages' in pen on an otherwise wholly typed sheet, added after printing. Transcribed as written."
+  },
+  {
+   "line_no": "14",
+   "date": "06/07/26",
+   "vendor_raw": "Facebook",
+   "purpose": "ads (6/8 thru 6/11) detail available upon request",
+   "amount": "116.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:48.00,70.02,11.00,2.00@p4",
+   "geometry_frame": "p4 axis=y cell=48.00-59.00 rowband=70.02-72.02 (14 of 14 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "city line 'Internet'. Two-line purpose, same treatment as line 12."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "the Itemized Contribution Report's own printed 'TOTAL 8,000.00' (p3)",
+     "detail": "the 8 rows (500.00 + 150.00 + 250.00 + 2,000.00 + 1,000.00 + 2,000.00 + 100.00 + 2,000.00) sum to 8,000.00 = the schedule's own printed TOTAL = the cover's handwritten 'This Report' contributions cell = the p2 typed summary sheet's 'Total Contributions on This Report'. The CUMULATIVE 47,405.39 (= 39,405.39 last + 8,000.00) is larger and its prior-period money is not itemized here. One row is filer-tagged in-kind (250.00) and two are tagged loan (2,000.00 each); all three count toward the printed total. Single sheet, no per-page subtotal."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "the Itemized Expenditures Report's own printed 'TOTAL 9,630.41' (p4)",
+     "detail": "the 14 rows (400.34 + 2.95 + 51.36 + 250.00 + 36.99 + 6,959.25 + 169.13 + 27.26 + 23.96 + 2.04 + 207.00 + 229.17 + 1,154.96 + 116.00) sum to 9,630.41 = the schedule's own printed TOTAL = the cover's 'This Report' cell = the p2 summary sheet. Cumulative 43,163.15 (= 33,532.74 + 9,630.41) is not itemized here. Spending again exceeds receipts this period, so the cover's This-Report balance is the negative (1,630.41) - printed in accounting parentheses on p2 and with a minus sign on the p1 cover; the row-level sum is unaffected."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "Two low-coverage rule probes (one per schedule) to measure the amount-column text lines, then four 900 dpi raster crops as the geometry spot-verification: p3 rows 1 and 8 (reproduce 500.00 and 2,000.00) and p4 rows 5 and 14 (reproduce 36.99 and 116.00). No legibility escalation was needed on the schedules - they are cleanly typed; the handwriting on this filing is confined to the cover and to one purpose cell (p4 line 13).",
+   "n_contrib_rows": 8,
+   "n_expend_rows": 14,
+   "geometry": {
+    "measured": 22,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2026-cycle filing, four pages: p1 = the county's new cover, HANDWRITTEN, with no thousands separators; p2 = a TYPED restatement of the same summary; p3 = the Itemized Contribution Report; p4 = the Itemized Expenditures Report. Each schedule is a SINGLE sheet with one grand TOTAL and no per-page subtotal, and both close to the cent against both the handwritten cover and the typed p2 summary - three agreeing statements of the same two figures. This is the same filer's SECOND 2026 report in this chunk (the first, key 0fcf167d, is signed 23 May 2026 and opens the cumulative column this one carries forward: 39,405.39 / 33,532.74 match exactly across the two documents). NO REPORT-TYPE BOX IS MARKED - as on her May filing, this copy's Filing Schedule prints as a bare list with the checkboxes lost in the scan/flatten, so the honest reading is 'no box marked' (signed 15 June 2026, which sits with the 'June 16 - Primary Election' deadline, but nothing on the document says so and nothing was inferred). The county REDACTED the street address and the home/office phone on the cover but left 'West Haven UT 84401' and the cell number in the clear. The Item column carries the donor/payee name on one line and city/state on the next; contributor STREET addresses are not printed on this form at all, so donor_city/donor_state are complete as filed. In-kind and loan tags sit in an unheaded column right of Amount and DO count toward the printed totals. Two source oddities retained verbatim and NOT repaired: the expenditure dated '06/04/25' (a 2025 year on a 2026 report) and the handwritten purpose 'text messages' pencilled onto the otherwise typed expenditures sheet."
+  }
+ }
 }

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "John Ulibarri",
  "office_stated": "Assessor",
  "report_type_stated": "December 5 (final report)",
@@ -44,5 +44,49 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN final report, all zeros. The date line reads 'December 12 4 2024' with the 12 struck and 4 written - index.csv carries 2024-12-04. County-redacted address."
+ "notes": "HANDWRITTEN final report, all zeros. The date line reads 'December 12 4 2024' with the 12 struck and 4 written - index.csv carries 2024-12-04. County-redacted address.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    147,
+    148,
+    149
+   ],
+   "itemized_pages_A": "148",
+   "itemized_pages_B": "149",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report)' written as $0.00",
+     "detail": "Form A (p148) EXISTS and its 23-row printed grid is entirely blank; the filer drew a single diagonal cancellation stroke through the first data row's Amount cell (an annotation meaning 'nothing here', NOT an entry) and wrote $0.00 on the schedule's total line outside the grid. Zero rows sum to 0.00 = that printed total = the cover's line-1 cells, which read a written digit 0 in all three columns (Last Report, This Report, Cumulative). Under the zero-glyph ruling a written digit 0 DENOTES zero, so this is a real reported nil, not a nil dash. Scope is indistinguishable here because all three cover columns are 0; 'exact' is recorded because the cumulative cell -- the column this module publishes -- closes. No in-kind items exist, so both in-kind conventions give the same answer."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B 'Total Expenditures:' written as $0.00 -",
+     "detail": "Form B (p149) EXISTS and its printed grid is entirely blank, with the same single diagonal cancellation stroke through the first data row's Amount cell and $0.00 written on the total line. Zero rows sum to 0.00 = that printed total = the cover's line-2 cells (0 in all three columns). Confirmed by a 900 dpi tight --value crop of the total cell, which rendered '$0.00 -'."
+    }
+   },
+   "escalations": 2,
+   "escalation_note": "900 dpi tight --value crops of the two schedules' own printed TOTAL cells (p148 rendered '$0.00', p149 rendered '$0.00 -') -- the only two figures either schedule carries.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "John Ulibarri, Weber County ASSESSOR, 2024 December-5 FINAL report, handwritten, ALL ZEROS. p147 = cover (3-line variant), p148 = Form A, p149 = Form B. No frames block is written because neither side has a transcribed row -- there is no pointer to publish and therefore nothing to prove; the grids themselves are intact and measurable if a later row ever appears. BOTH SIDES ARE 'empty-schedule', NOT 'no-schedule-page': the retained document is 3 pages (pdfinfo page range 147-149 of the 167-page 2024 consolidated archive) and both schedule pages are physically present and blank -- the filer entered nothing, which is a different fact from a page never having been filed. The cover's Address block is BLACKED OUT BY THE COUNTY (redaction by the county, not left empty by the filer). The signature DATE line reads 'December 12 4 2024' with the 12 STRUCK THROUGH and 4 written after it; the handwritten correction governs, so the date is 4 December 2024, which is what index.csv carries. This is NOT the Ulibarri twin pair flagged in the brief -- that pair is the 2014 report recovered from two Wayback paths; this is a distinct 2024 document."
+  }
+ }
 }

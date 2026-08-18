@@ -1,0 +1,18 @@
+{"key": "14e72210",
+ "frames": {
+   "2": {"axis": "x",
+         "cell": [4.03, 14.74],
+         "cells": [[4.03, 14.74], [14.74, 56.29], [56.29, 82.20], [82.20, 89.10]],
+         "rows": [[17.36, 20.43], [20.43, 23.49], [23.49, 26.56], [26.56, 29.63], [29.63, 32.70], [32.70, 35.76]],
+         "measure_note": "Form A (contributions), rotated landscape sheet; rows advance along X LOW-to-HIGH. rowbands.py finds the printed row rules on this page ONLY in the empty right-hand part of the grid (48.03..87.93, regular pitch 3.068) because the text-filled bands break the full-length dark run; the six data-row bands are that same pitch extrapolated BACK to the first data column (48.03 - 10*3.068 = 17.36). rowbands.py ALSO returns 7.63/10.13/13.24/16.41 at the head of the page - the header band, the header-label band and the shaded spacer column (defect 2) - and 16.41 is ~0.95 pct short of the true first data rule, so taking it would have shifted every row a third of a band; BOTH candidates were cropped and compared (16.41-start vs 17.36-start): the 16.41 series clipped row 6 and pulled in a sliver of row 5's 70.28, the 17.36 series rendered each figure cleanly bounded by its printed rules. 17.36 governs. THE WITHDRAWN FRAME's row start (17.2) was near-correct here but its `cells` list held only one band, so the column list is re-measured from h_rules_pct; `cell` [4.6,15.8] was approximately the Amount column and is tightened to the printed boundaries [4.03,14.74] (the 5.14/5.88 rules are text baselines of the 'Amount' header - defect 1 - not column rules). PROOF: 900 dpi --value crops from the geometry stored here rendered '326.21' for row 1 (recorded 326.21) and '150.00' for row 6 (recorded 150.00).",
+         "n_rows_transcribed": 6},
+   "3": {"axis": "x",
+         "cell": [2.32, 13.01],
+         "cells": [[2.32, 13.01], [13.01, 30.08], [30.08, 39.36], [39.36, 69.01], [69.01, 88.04]],
+         "rows": [[18.35, 21.43], [21.43, 24.49], [24.49, 27.60], [27.60, 30.68], [30.68, 33.79], [33.79, 36.88]],
+         "measure_note": "Form B (expenditures), same rotation. Row bands are the regular-pitch (3.07) v_rules_pct subsequence starting 18.35; the leading 7.75/10.22 (header) and 10.22/15.21 + 15.21/18.35 (header labels + shaded spacer column) were TRIMMED (rowbands.py defect 2). THE WITHDRAWN DEFECT WAS `cell`: it stored [42.57,88.04], the Person-or-Organization column, so every pointer aimed at the payee name. Weber Form B's Amount column is the printed table's LAST column, which under this rotation is the LOW-y band [2.32,13.01] (y order: Amount, Purpose, City, Person, Date). h_rules is baseline-contaminated (59 rules for 5 columns - defect 1); boundaries chosen against the full-page read. PROOF: 900 dpi --value crops from the geometry stored here rendered '326.21' for row 1 (recorded 326.21) and '150.00' for row 6 (recorded 150.00).",
+         "n_rows_transcribed": 6}
+ },
+ "proof": "p2: first-row crop pct:17.36,4.03,3.06,10.71@p2 rendered '326.21' (recorded 326.21); last-row crop pct:32.71,4.03,3.07,10.71@p2 rendered '150.00' (recorded 150.00). p3: first-row crop pct:18.35,2.32,3.08,10.69@p3 rendered '326.21' (recorded 326.21); last-row crop pct:33.79,2.32,3.09,10.69@p3 rendered '150.00' (recorded 150.00).",
+ "unmeasurable": {}
+}

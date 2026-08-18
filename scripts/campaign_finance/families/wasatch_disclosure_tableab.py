@@ -47,6 +47,14 @@ Deliberate decisions:
     as the cash amount. Where the header line is too degraded to locate `Amount`, the FIRST money
     token of the row is used (Amount precedes both trailing columns on every vintage) and the row
     says so via `needs_review`.
+  * **The DATE GRAMMAR is explicit and enumerated** (extended 2026-08-14, tranche 3 Phase B).
+    The date column is the FIRST field, so the leading-date match assigns every other column;
+    Phase A knew only `M/D/YY(YY)` and three 2026 filers' own date styles therefore pushed the
+    date into the NAME column (`donor_raw = "17 Jan 2026"`) with the amounts still summing
+    exactly — the reconciliation-proof failure that the `wasatch-field-shift` calibration
+    specimen exists to catch. `1.2.26` / `17 Jan 2026` / `5May26` / `Jan 17, 2026` are now
+    matched, month names are ENUMERATED (never `[A-Za-z]{3,9}`, which would eat a blank-date
+    row's vendor name), and a shape not listed stays UNMATCHED rather than guessed.
   * **The reporting period comes from the CHECKED box only** — `X` marks checked, `□` unchecked.
     A filing with no legible marker gets a BLANK period, never a guessed one (`CLAUDE.md`: 13
     filings mark none at all, 6 mark more than one — both are recorded as printed).
@@ -65,6 +73,7 @@ cumulative and a single run-level constant would mark one of them wrongly.
 """
 from __future__ import annotations
 
+import datetime
 import re
 
 import common
@@ -80,7 +89,71 @@ _TAB_A = re.compile(r"ITEMIZED\s+CONTRIBUTION\s+REPORT", re.I)
 _TAB_B = re.compile(r"ITEMIZED\s+EXPENDITURES?\s+REPORT", re.I)
 _TOTAL = re.compile(r"\bTOTAL\s*:?\s*(.*)$", re.I)
 _AMT_HDR = re.compile(r"\bAmount\b", re.I)
-_DATE_LEAD = re.compile(r"^\s*(\d{1,2}[/\-]\d{1,2}[/\-]\d{2,4})\b")
+
+# ---------------------------------------------------------------- THE DATE GRAMMAR (Phase B)
+# The `Date of Donation` / `Date of expenditure` column is the FIRST field on this sheet, so the
+# leading-date match is what assigns every other column. Phase A knew only `M/D/YY(YY)`, and three
+# 2026 filers write dates their own way — so the date token stayed in the line body, became
+# `fields[0]`, and landed in the NAME column while the real name slid one field right. The amounts
+# still summed EXACTLY to the printed totals, so reconciliation could not see it, and all six
+# affected sides were WITHHELD (wasatch CLAUDE.md "The born-digital itemized layer"; calibration
+# specimen `wasatch-field-shift`).
+#
+# The three shapes, verified in the filings' own text layers (2026-08-14):
+#   * `17 Jan 2026`, `5 Jan 2026`, `26 Feb 2026`   — Woodard 2026-03 (Tables A and B)
+#   * `1.2.26`, `2.14.26`, `11 .7.25`              — Kellogg 2026-03 (dotted; note the stray space
+#                                                     the text layer inserts before the first dot)
+#   * `5May26`, `15Apr26`, `13May26`               — Vance 2026-06 (no separators at all)
+# MONTH NAMES ARE ENUMERATED, never `[A-Za-z]{3,9}`: a bare alpha class would let a vendor row
+# whose date cell is EMPTY ("May Company  $50.00") be eaten as a date, which is the same class of
+# error this fix exists to remove. A shape not listed here is left UNMATCHED — the row then keeps
+# its verbatim body and the field-shift screen still guards the side.
+_MONTH_RX = (r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?"
+             r"|Aug(?:ust)?|Sep(?:t|tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)")
+_DATE_LEAD = re.compile(
+    r"^\s*("
+    r"\d{1,2}\s*[/\-]\s*\d{1,2}\s*[/\-]\s*\d{2,4}"        # 5/20/26   5-20-2026   (Phase A shape)
+    r"|\d{1,2}\s*\.\s*\d{1,2}\s*\.\s*\d{2,4}"              # 1.2.26    11 .7.25
+    r"|\d{1,2}\s*" + _MONTH_RX + r"\.?\s*,?\s*\d{2,4}"     # 17 Jan 2026   5May26
+    r"|" + _MONTH_RX + r"\.?\s*\d{1,2}\s*,?\s*\d{2,4}"     # Jan 17, 2026  Jan. 17 26
+    r")(?=\s|$)", re.I)
+
+_MONTH_NUM = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+              "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
+
+
+def _iso_date(tok):
+    """A Table A/B date cell -> ISO `YYYY-MM-DD`, or "" when it is not cleanly parseable.
+
+    NEVER a guess: a two-digit year maps the way `%y` does (00-69 -> 2000s), an impossible
+    calendar date returns "" and the verbatim stays in the row's own line. `common.parse_date`
+    is tried FIRST so the shapes the shared helper already owns keep their shared behaviour;
+    only the three wasatch-local shapes are added here, inside this family, so no other county's
+    parse can move."""
+    if not tok:
+        return ""
+    t = " ".join(str(tok).split())
+    iso = parse_date(t)
+    if iso:
+        return iso
+    m = re.fullmatch(r"(\d{1,2})\s*\.\s*(\d{1,2})\s*\.\s*(\d{2,4})", t)
+    if m:
+        mo, d, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+    else:
+        m = re.fullmatch(r"(\d{1,2})\s*(" + _MONTH_RX + r")\.?\s*,?\s*(\d{2,4})", t, re.I)
+        if m:
+            d, mo, y = int(m.group(1)), _MONTH_NUM[m.group(2)[:3].lower()], int(m.group(3))
+        else:
+            m = re.fullmatch(r"(" + _MONTH_RX + r")\.?\s*(\d{1,2})\s*,?\s*(\d{2,4})", t, re.I)
+            if not m:
+                return ""
+            mo, d, y = _MONTH_NUM[m.group(1)[:3].lower()], int(m.group(2)), int(m.group(3))
+    if y < 100:
+        y += 2000 if y < 70 else 1900
+    try:
+        return datetime.date(y, mo, d).isoformat()
+    except ValueError:
+        return ""
 # a marked report-period box: `X`, `x`, or a filled bullet at the head of a `… Report:` line.
 _CHECKED = re.compile(r"^\s*(?:X|x|☑|☒|■|●)\s+(.*Report.*)$")
 _UNCHECKED = re.compile(r"^\s*(?:□|☐|\[\s*\]|o|O)\s")
@@ -189,7 +262,7 @@ def _rows(lines, start, stop, meta, is_contrib, pl):
         tail = ln[span[1]:].strip()
         page, lno = pl[k] if k < len(pl) else (1, k + 1)
         geo = geom_text(page, lno, span[0], span[1])
-        iso = parse_date(dm.group(1)) if dm else ""
+        iso = _iso_date(dm.group(1)) if dm else ""
         review = "0" if (name and positional) else "1"
         if is_contrib:
             out.append(ContribRow(

@@ -52,6 +52,154 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible despite the 'low' OCR sidecar; Last Report cells are a slashed zero."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible despite the 'low' OCR sidecar; Last Report cells are a slashed zero.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-08-05",
+   "donor_raw": "Jack & Bonnie Lsche",
+   "donor_city": "Kamas",
+   "donor_state": "UT",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "low",
+   "cell_confidence": "date=high;name=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.29,23.81,87.35,1.93@p2",
+   "geometry_fit": "measured",
+   "note": "SURNAME AMBIGUOUS. Escalated twice to 1400 dpi tight cell crops; the letterforms resolve to L, s, a crossed c/x, h, e with a trailing flourish - read here as 'Lsche' - but the vowel is not legibly written and the true spelling (Loesche / Lasche / Lische) cannot be settled from the page. First name 'Jack & Bonnie' is unambiguous. This is the filing's only sub-$50 gift and it reproduces the printed '<=$50' box (15.00) to the cent, which fixes the amount independently of the glyph. Street address discarded at read time per the privacy contract; city 'Kamas' retained",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 2,
+   "date": "2014-08-02",
+   "donor_raw": "Nathan Rafferty",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.29,25.62,87.35,1.95@p2",
+   "geometry_fit": "measured",
+   "note": "the filer wrote the city as 'P.C.' - his own abbreviation for Park City, expanded here (NOT inferred from the zip). The address cell is a PO box and was discarded at read time. The month digit is written over an earlier stroke but resolves to 8",
+   "page": 2,
+   "band": 6
+  },
+  {
+   "line_no": 3,
+   "date": "2014-07-01",
+   "donor_raw": "Sean Wharton",
+   "donor_city": "Marion",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.29,27.45,87.35,1.95@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate himself - his own seed money into the campaign",
+   "page": 2,
+   "band": 7
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "",
+   "vendor_raw": "Gravis Marketing",
+   "purpose": "Signs",
+   "amount": "620.93",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.61,29.73,86.93,2.31@p3",
+   "geometry_fit": "measured",
+   "note": "date cell reads verbatim '9-22' - month and day only, NO YEAR printed; left blank per the strict-date rule (contract rule 8). Amount escalated to 1000 dpi: 620.93",
+   "page": 3,
+   "band": 6
+  },
+  {
+   "line_no": 2,
+   "date": "",
+   "vendor_raw": "Dr. Buttons",
+   "purpose": "Stickers & Buttons",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.61,31.58,86.93,2.29@p3",
+   "geometry_fit": "measured",
+   "note": "date cell reads verbatim '9-23' - no year (contract rule 8). Amount escalated to 1000 dpi",
+   "page": 3,
+   "band": 7
+  },
+  {
+   "line_no": 3,
+   "date": "",
+   "vendor_raw": "Staples",
+   "purpose": "Printing for flyers & Ink",
+   "amount": "180.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:2.61,33.39,86.93,2.33@p3",
+   "geometry_fit": "measured",
+   "note": "date cell reads verbatim '10-1' - no year (contract rule 8). Amount escalated to 1000 dpi",
+   "page": 3,
+   "band": 8
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1265.00",
+    "itemized": "1265.00",
+    "result": "exact",
+    "detail": "exact - and unusually so for a split50 sheet. The two >$50 rows sum to 1,250.00, the printed '>$50' box to the cent; the filer ALSO itemized his one sub-$50 gift ($15.00), which is the printed '<=$50' aggregate box to the cent. Because both boxes are itemized there is no structural residual here: the three rows equal the module's stated 1,265.00 (the sum of both boxes)"
+   },
+   "expenditures": {
+    "stated": "1030.93",
+    "itemized": "1050.93",
+    "result": "delta",
+    "detail": "delta +20.00, THE FILER'S ARITHMETIC. The three rows are 620.93 + 250.00 + 180.00 = 1,050.93; the filer's own hand-written 'Total' line at the bottom of the same schedule reads 1,030.93 and his cover repeats 1,030.93. Every amount cell and the Total line were escalated to 900-1000 dpi tight crops: 620.93 (a clear 2 in the tens-of-dollars place, not 600.93), 250.00, 180.00, and the Total a clear 1030.93. Both figures retained verbatim. SEPARATELY, the schedule's HEADER box ('Total amount of expenditures') holds 1250.00 - which is this filing's CONTRIBUTION >$50 total copied into the wrong box; it is not an expenditure figure and is not used as a gate"
+   }
+  },
+  "page_gates": "p2 ITEMIZED CONTRIBUTION REPORT, handwritten over the printed grid, boxes '>$50 1250.00' and '<=$50 15.00'. Its three handwritten rows are 15.00 + 250.00 + 1000.00; the two >$50 rows reproduce the >$50 box EXACTLY (250 + 1000 = 1250.00) and the single sub-$50 row reproduces the <=$50 box EXACTLY (15.00), so the whole ledger closes on the module's stated 1265.00 with NO structural residual. p3 ITEMIZED EXPENSE REPORT carries THREE printed gates that disagree with each other: the header box holds 1250.00, the ledger's own bottom 'Total' line holds 1030.93, and the cover states 1030.93. The three handwritten rows sum to 1050.93. All three amount cells, the Total line and the header box were re-rendered as TIGHT CROPS at 900-1000 dpi and every one is unambiguous, so the $20.00 shortfall is the filer's arithmetic.",
+  "escalations": 6,
+  "n_contrib_rows": 3,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 6,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Handwritten ledgers over the printed grid, both pages. The printed SPECIMEN rows survive on both sheets and are DROPPED: p2 band 4 'Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00' (untouched by the filer - the proof it is not a transaction is that the >$50 box closes only without it) and p3 band 2 'Name of Business / Campaign signs and flyers / $512.00', which the filer STRUCK THROUGH in pen. Every p3 date cell carries a month-day only ('9-22', '9-23', '10-1') with NO YEAR - all three dates are recorded BLANK with the verbatim in the row note and flagged; a year is never filled in from the report date. Two right-hand amount cells use the filer's trailing-dash shorthand elsewhere in this pair; on this page all three amounts carry explicit cents. p3 also carries two large MIRRORED '11:09' timestamp stamps bleeding through from the reverse of the sheet - a scan artifact, not data. Geometry is MEASURED on both pages (38 and 36 detected bands, regular ~1.83% pitch)."
+ }
 }

@@ -1,0 +1,210 @@
+{
+ "sha256": "3d57e71597d970bb440be92f66dcc9a97a7396a828900267b74d27de089ead84",
+ "source_pdf": "raw/juab_2014_Nephi/Sharonjarrett_Nephi_Juab.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2014_Nephi/Sharonjarrett_Nephi_Juab.pdf",
+   "candidate": "Sharon J Jarrett",
+   "election_year": 2014,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [
+  {
+   "date": "3-14",
+   "donor": "David Carter",
+   "address": "",
+   "amount": "300.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "date is month/year only; no address written",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.58,79.50,2.09@p2",
+   "in_kind": false
+  },
+  {
+   "date": "",
+   "donor": "Bob Garrett",
+   "address": "",
+   "amount": "50.00",
+   "confidence": "high",
+   "needs_review": 1,
+   "note": "no date and no address written",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.67,79.50,2.09@p2",
+   "in_kind": false
+  }
+ ],
+ "expenditures": [
+  {
+   "date": "7-3-14",
+   "payee": "Custom Signworks",
+   "purpose": "Signs",
+   "amount": "69.06",
+   "confidence": "high",
+   "line_no": 1,
+   "printed_row": 1,
+   "geometry": "pct:11.50,14.40,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "7.31.14",
+   "payee": "Custom Signworks",
+   "purpose": "Signs",
+   "amount": "368.19",
+   "confidence": "high",
+   "note": "payee and purpose written as ditto marks for the line above",
+   "line_no": 2,
+   "printed_row": 2,
+   "geometry": "pct:11.50,16.49,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "8-18-14",
+   "payee": "Custom Signworks",
+   "purpose": "Signs",
+   "amount": "291.13",
+   "confidence": "high",
+   "note": "ditto marks",
+   "line_no": 3,
+   "printed_row": 3,
+   "geometry": "pct:11.50,18.58,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-24-14",
+   "payee": "Custom Signworks",
+   "purpose": "Signs",
+   "amount": "60.00",
+   "confidence": "high",
+   "note": "ditto marks",
+   "line_no": 4,
+   "printed_row": 4,
+   "geometry": "pct:11.50,20.68,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "8-7-14",
+   "payee": "Choice Hardware",
+   "purpose": "T-Post, Cable Ties",
+   "amount": "54.64",
+   "confidence": "high",
+   "line_no": 5,
+   "printed_row": 5,
+   "geometry": "pct:11.50,22.77,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "8-18-14",
+   "payee": "Choice Hardware",
+   "purpose": "T-Post",
+   "amount": "55.17",
+   "confidence": "high",
+   "note": "payee written as ditto marks",
+   "line_no": 6,
+   "printed_row": 6,
+   "geometry": "pct:11.50,24.86,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-9-14",
+   "payee": "Times News",
+   "purpose": "Flyers",
+   "amount": "172.66",
+   "confidence": "high",
+   "line_no": 7,
+   "printed_row": 7,
+   "geometry": "pct:11.50,26.95,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "10-10-14",
+   "payee": "Times News",
+   "purpose": "Class Ad",
+   "amount": "267.30",
+   "confidence": "high",
+   "note": "payee written as ditto marks",
+   "line_no": 8,
+   "printed_row": 8,
+   "geometry": "pct:11.50,29.04,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "8-29-14",
+   "payee": "Kimos",
+   "purpose": "Picture",
+   "amount": "21.25",
+   "confidence": "high",
+   "line_no": 9,
+   "printed_row": 9,
+   "geometry": "pct:11.50,31.14,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  },
+  {
+   "date": "9-8-14",
+   "payee": "Amy Zirbes",
+   "purpose": "making of flyers",
+   "amount": "60.00",
+   "confidence": "high",
+   "line_no": 10,
+   "printed_row": 10,
+   "geometry": "pct:11.50,33.23,79.50,2.09@p3",
+   "in_kind": false,
+   "needs_review": 0
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "350.00",
+     "basis": "line 1 (>$50); line 2 blank"
+    },
+    "expenditures": {
+     "result": "exact",
+     "stated": "1419.40",
+     "basis": "line 3 cumulative"
+    }
+   },
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A",
+    "3": "Form B"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2014 scan variant (x=11.5%, w=79.5%, pitch=2.092%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2014_Nephi/Sharonjarrett_Nephi_Juab.pdf|p2": 14.582,
+    "raw/juab_2014_Nephi/Sharonjarrett_Nephi_Juab.pdf|p3": 14.4
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": "The filing is UNSIGNED and UNDATED on the cover (recorded by the totals tranche). Ditto marks in the payee/purpose columns are expanded to the repeated value with the ditto recorded per row."
+  }
+ }
+}

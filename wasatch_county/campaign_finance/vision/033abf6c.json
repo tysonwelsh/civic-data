@@ -1,77 +1,321 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_M-Kellogg.pdf",
-    "cache_key": "033abf6c",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Michelle Kellogg",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_M-Kellogg.pdf",
+  "cache_key": "033abf6c",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7162.71",
+     "itemized": "7162.71",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (7162.71 = 7162.71, published stated total)",
+     "published_stated": "7162.71",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Clerk-Auditor",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber City",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6-15-2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "7,162.71",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "7,162.71",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "7162.71",
+     "itemized": "7162.71",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (7162.71 = 7162.71, published stated total)",
+     "published_stated": "7162.71",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: $7,162.71 = rows 7,162.71 — GATE PASSES. Table B TOTAL: $7,162.71 = rows 7,162.71 — GATE PASSES. Cover line 3 balance $0 = 7,162.71 - 7,162.71 — the cover's own identity also closes.",
+   "escalations": 0,
+   "escalation_note": "scanned but a clean typed original; every cell legible at 200 dpi",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 9,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Scanned (photocopy of a typed form), Michelle Kellogg, Clerk-Auditor, Republican, Heber City. Primary Report box checked (the Convention Date line also carries a typed 'April 7, 2026' although the convention box is NOT checked); signed 6-15-2026. FIELD-SHIFT SCREEN PASSED: every Date cell holds a date and every Name cell holds a name, on both tables — worth stating because this module's Phase A notes record a 100% field shift on Kellogg's MARCH 2026 filing, where the parser slid '1.2.26' into donor_raw. That was a parser-grammar failure on this filer's dotted M.D.YY date style, not a property of the page; read visually, this June filing's columns are unambiguous. THE CONTRIBUTOR NAME IS A STATEMENT, NOT A PERSON: both Table A rows print 'Self-Funded. Not accepting campaign contributions.' in the Name of Contributor cell. Transcribed verbatim — a downstream donor layer must NOT treat this string as a donor identity; the real source of funds is the candidate herself. Dates are written M.D.YY with periods; all parse cleanly. One expenditure predates the 2026 cycle year (11.7.25 Wix.com) — kept verbatim as printed, not a typo repair. Vendor 'Allison Kellogg' shares the candidate's surname (graphic design, $800.00); recorded as printed, no inference drawn about the relationship. Form prints no address column, so donor_city/donor_state are blank by design."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Michelle Kellogg",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed."
+  "office_verbatim": {
+   "value": "Clerk-Auditor",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber City",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6-15-2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "7,162.71",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "7,162.71",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-02",
+   "donor_raw": "Self-Funded. Not accepting campaign contributions.",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "3576.08",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '1.2.26' (M.D.YY with periods). The Name of Contributor cell is not a person — it prints the sentence 'Self-Funded. Not accepting campaign contributions.' verbatim; flagged so no donor record is created from it. Amount printed '$3,576.08'. In-Kind column blank",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-05-25",
+   "donor_raw": "Self-Funded. Not accepting campaign contributions.",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "3586.63",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5.25.26'. Same self-funding statement in the name cell, transcribed verbatim and flagged. Amount printed '$3,586.63'. In-Kind column blank",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2025-11-07",
+   "vendor_raw": "Wix.com",
+   "purpose": "Campaign Website",
+   "amount": "199.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '11.7.25' — a 2025 date on a 2026-cycle report, kept verbatim as filed (pre-cycle website spend, not a typo repair)",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-01-02",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "703.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '1.2.26'; same date as the first self-funding contribution",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-01-05",
+   "vendor_raw": "Allison Kellogg",
+   "purpose": "Graphic Design",
+   "amount": "800.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '1.5.26'; payee shares the candidate's surname — recorded as printed, no relationship inferred",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-02-07",
+   "vendor_raw": "Signs on the Cheap",
+   "purpose": "Yard Signs",
+   "amount": "1717.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '2.7.26'; amount printed '1,717.55'",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-02-14",
+   "vendor_raw": "Wasatch GOP",
+   "purpose": "Lincoln Day Event Bronze Sponsor",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '2.14.26'",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-02-27",
+   "vendor_raw": "Dollar Tree",
+   "purpose": "Supplies",
+   "amount": "1.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '2.27.26'",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-02-27",
+   "vendor_raw": "Smith's",
+   "purpose": "Supplies",
+   "amount": "4.11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '2.27.26'. Rows 1-7 sum to exactly 3,576.08 — the first self-funding contribution, an internal cross-check the filer clearly kept",
+   "geometry": "pct:5.00,76.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2026-05-25",
+   "vendor_raw": "Wix.com",
+   "purpose": "Email Domain",
+   "amount": "36.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5.25.26'",
+   "geometry": "pct:5.00,78.65,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2026-05-28",
+   "vendor_raw": "Dumac Printing",
+   "purpose": "Mailers",
+   "amount": "3550.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5.28.26'; amount printed '3,550.60'. Rows 8-9 sum to exactly 3,586.63 — the second self-funding contribution",
+   "geometry": "pct:5.00,81.10,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -62,3 +62,9 @@ _backups/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Presentation copies of raw campaign-finance filings (interface_prototype/examples/).
+# These are duplicates of gitignored raw/ originals and carry donor street addresses on
+# the face of the filing — PRIVACY.md keeps unredacted source PDFs local-only. Local
+# demo use is fine; publishing them is not.
+interface_prototype/examples/campaign_finance/*.pdf

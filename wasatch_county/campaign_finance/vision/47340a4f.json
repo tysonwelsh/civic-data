@@ -1,65 +1,241 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_ToddGriffin.pdf",
-    "cache_key": "47340a4f",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Todd M. Griffin",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_ToddGriffin.pdf",
+  "cache_key": "47340a4f",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2500",
+     "itemized": "2500.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2500.00 = 2500, published stated total)",
+     "published_stated": "2500",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/18/2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ],
-    "convention_date_verbatim": "6/25/24"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "2,500",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "2,443.34",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "56.66",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2443.34",
+     "itemized": "2443.34",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2443.34 = 2443.34, published stated total)",
+     "published_stated": "2443.34",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL 2500 = rows 2500.00 -> GATE PASSES. p2 Table B TOTAL 2,443.34 = rows 2443.34 -> GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 7,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Scanned but typed ledger, fully legible at 200 dpi; both gates closed on the first read so no escalation was warranted. Cover: Todd Matthew Griffin, Assessor, Republican, Heber City; Primary Report checked, convention date written 6/25/24; balance $56.66. Table A has no address column on this form family, so donor_city/donor_state are structurally absent (not withheld). Expenditure row 1 carries a filer YEAR TYPO ('05/27/2014' on a 2024 primary report) -- kept verbatim per contract, needs_review flagged."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Todd M. Griffin",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "index.csv labels this row form_family=utah_county_fcr_formab; the page is the new Table A/B sheet. The Convention Date line carries '6/25/24' (the primary date) although the Primary box is the one checked."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/18/2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ],
+  "convention_date_verbatim": "6/25/24"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "2,500",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "2,443.34",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "56.66",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "index.csv labels this row form_family=utah_county_fcr_formab; the page is the new Table A/B sheet. The Convention Date line carries '6/25/24' (the primary date) although the Primary box is the one checked.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-05-03",
+   "donor_raw": "Campaign Loan from Todd Griffin",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount printed '$2,000'; In-Kind column reads 'none'. Self-loan by the candidate.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-06-14",
+   "donor_raw": "Campaingn Loan from Todd Griffin",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "donor cell misspelled 'Campaingn' on the face -- transcribed verbatim; amount printed '$500'; In-Kind column reads 'none'.",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2014-05-27",
+   "vendor_raw": "Office Depot Printing",
+   "purpose": "Banner Business cards",
+   "amount": "75.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '05/27/2014' (low in the tall first row slot) -- a well-formed filer YEAR TYPO on a 2024 report; kept verbatim, never repaired to 2024.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-05-29",
+   "vendor_raw": "Philip Madsen",
+   "purpose": "Website development and hosting",
+   "amount": "550.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5/29/2024'",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2024-05-22",
+   "vendor_raw": "Two Hearts Printing",
+   "purpose": "Political Signs",
+   "amount": "905.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2024-05-29",
+   "vendor_raw": "Two Hearts Printing",
+   "purpose": "Political Banners",
+   "amount": "260.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2024-01-08",
+   "vendor_raw": "Wasatch County Candidacy",
+   "purpose": "Fee to run for office",
+   "amount": "653.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "candidate filing fee paid to the county",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

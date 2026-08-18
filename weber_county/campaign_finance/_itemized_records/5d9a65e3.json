@@ -1,0 +1,80 @@
+[
+ {
+  "index_path": "raw/archives/2018_combined_7e3a53_1c487f91.pdf",
+  "page_start": 20,
+  "page_end": 23,
+  "key": "5d9a65e3",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "itemized_pages_A": "21",
+  "itemized_pages_B": "22",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "empty-schedule"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "the Form A sheet's own printed total, 30.00 (p21, the row immediately above the column-header row), which equals the cover's Totals-for-THIS-REPORT contribution cell (30.00)",
+    "detail": "the single Form A row (Mickey Herrin, 30.00) sums to 30.00 = the schedule's own printed total = the cover's This-Report column. The cover's CUMULATIVE cell is 3,450.93 because this is an officeholder account whose Totals-from-Last-Report column (3,420.93) carries the filer's 2014 closing figure; that carried balance is never itemized on this schedule. 2018 is the 3-line form, so there is no separate <=$50 aggregate line and contrib_all is the anchor."
+   }
+  },
+  "escalations": 3,
+  "escalation_note": "1000 dpi tight --value crops on p21 to settle the geometry-to-value mapping: the amount cell (reads 30.00) and the date cell (reads 12/30/2019) of the single data row, plus a 600 dpi band crop that proved which printed band carries the schedule's 30.00 total rather than the column headers.",
+  "frames": {
+   "21": {
+    "axis": "x",
+    "cell": [
+     50.46,
+     55.35
+    ],
+    "cells": [
+     [
+      50.46,
+      55.35
+     ],
+     [
+      55.35,
+      76.45
+     ],
+     [
+      76.45,
+      88.47
+     ],
+     [
+      88.47,
+      95.75
+     ]
+    ],
+    "rows": [
+     [
+      19.79,
+      22.87
+     ]
+    ],
+    "measure_note": "p21 is a ROTATED LANDSCAPE sheet: the printed table's rows advance LEFT-TO-RIGHT across the rendered page (axis=x) and its columns are separated by the rendered page's HORIZONTAL rules. Column boundaries measured at y = 50.46 / 55.35 / 76.45 / 88.47 / 95.75 pct (Amount | Address | Name of Contributor | Date, Amount first), the middle three detected as full-width rules over the table's y-extent and the outer two as the table's own border. Row boundaries measured as the vertical rules inside the Amount column band (x pct 8.10, 10.07, 11.61, 13.16, 14.68, 16.21, 17.75, 18.73, 19.79, 22.87 after averaging the same rule set re-measured inside the Name-of-Contributor band to absorb the scan's ~0.2 pct skew) = 9 printed bands: 1 title, 2 'Itemized Report of Contributions', 3 'Committee to Elect Ricky Hatch', 4 'Contributor Detail', 5 blank, 6 the schedule TOTAL row (30.00), 7 blank, 8 the column-header row, 9 the single DATA row. `rows` lists DATA bands only, so row index 1 = the first printed data row. Proved by 1000 dpi --value crops: the stored band x[19.79,22.87] intersected with the Amount column y[50.46,55.35] renders '30.00', and the same band intersected with the Date column y[88.47,95.75] renders '12/30/2019'."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "12/30/2019",
+    "donor_raw": "Mickey Herrin",
+    "donor_city": "Corvallis",
+    "donor_state": "OR",
+    "amount": "30.00",
+    "page": 21,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date kept VERBATIM as the filer typed it. It is well-formed but wrong for its own report: this is the January 7th 2019 FINAL report, whose statements cover contributions through December 31, 2018, so 12/30/2019 post-dates the period it is filed for (almost certainly a typo for 12/30/2018). Not repaired. The Form A Address column prints a street address; per PRIVACY.md only city/state are carried."
+   }
+  ],
+  "notes": "2018 cover is the typed 3-line form (contributions / expenditures / ending balance, no separate <=$50 aggregate line). Form A is bound on p21 and Form B on p22; both are rotated landscape sheets. FORM B (p22, 'Itemized Report of Expenditures', Committee to Elect Ricky Hatch) EXISTS and is BLANK: its printed schedule total reads 0.00 and its first data cell carries the filer's own one-word banner 'None' under Purchase Date. That banner is the filer's annotation, not an entry, so the side is empty-schedule with zero rows. It is consistent with the cover, whose expenditure Totals-for-This-Report cell is a bare DASH (a nil mark, left blank per the zero-glyph ruling, not read as 0) against a carried cumulative of 3,154.30. ** SOURCE PROPERTY THE BRIEF DID NOT ANTICIPATE: index.csv gives this filing pages 20-23, but the Hatch filing is only pages 20-22. Archive p23 is a DIFFERENT filer's cover page - a handwritten 'CAMPAIGN FINANCIAL REPORT: 2018' for Bruce Dean Jardine, 'Weber School Board Member', signed 2/JAN/2019, RECEIVED JAN 02 2019, stating 9900.87 / 0 / 9900.87 on all three lines. Jardine appears NOWHERE in index.csv (the 2018 archive's rows go Hatch 20-23 then Jenkins 24-26), so the archive splitter missed his printed cover header and swallowed his one-page filing into Hatch's range. It is out of scope here (school board), and no Hatch schedule page was lost - Hatch's Form A and Form B are both present and both reconcile - but the index's page range for this key over-reaches by one page and one school-board filing is unindexed. Reported, not edited. **"
+ }
+]

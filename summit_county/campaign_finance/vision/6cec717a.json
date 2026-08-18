@@ -52,6 +52,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover; every printed figure is '$0' (no cents). Last Report column left blank."
+ "itemized_transcribed": true,
+ "notes": "Typed cover; every printed figure is '$0' (no cents). Last Report column left blank.",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists - nothing to reconcile. The cover prints a typed '$0' in the Current and Cumulative cells of BOTH contribution rows and leaves the Last Report column of every row entirely EMPTY, which is consistent with this being the filer's first report of the cycle."
+   },
+   "expenditures": {
+    "stated": "0",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists - nothing to reconcile. The cover prints '$0' Current and '$0' Cumulative expenditures, Last Report empty."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered at 200 dpi and read once to CLASSIFY it, not for money, and it is the split50 'CAMPAIGN FINANCIAL REPORTS (Utah Code 17-16-6.5)' cover and nothing else. There is no ITEMIZED CONTRIBUTION REPORT page and no itemized expenditure page in this PDF, so both sides are 'none' (non-existence, not a zero).",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A NIL REPORT filed as a cover sheet only: Roger L. Armstrong, County Council Seat A, Democrat, signed and dated 'September 23, 2016' (a typed, fully-written date, not the handwritten form most of this corpus uses). Every money cell that is filled reads a typed '$0' - a real numeral, not a dash or a slashed zero, so the zero-glyph ruling is not engaged here; the cover cache already carries them verbatim. The Last Report column is blank on all four rows (empty, not zero) and the module's stated-total layer correctly promotes 0 from the cumulative cells. Because he reported no money, there is nothing for a schedule page to itemize and the county published none - the absence of pages 2-3 is coherent with the cover, not a lost page. No street address or PO box was written into this record."
+ }
 }

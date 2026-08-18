@@ -1,86 +1,247 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_DecSFarrell.pdf",
-    "cache_key": "377fadeb",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "December 2020 (30 days after General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Steve B. Farrell",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_DecSFarrell.pdf",
+  "cache_key": "377fadeb",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "December 2020 (30 days after General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_06.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3332.96",
+     "itemized": "3337.96",
+     "result": "delta",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "delta 5.00 - 3 row(s) sum to 3337.96 against the cover's own total contributions line, CUMULATIVE column, which prints 3332.96. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: FILER ARITHMETIC. Form A rows sum to 3337.96 (178.75 + 500.00 + 2659.21). The cover's CUMULATIVE contribution cell prints 3332.96, but the cover's own last-report (178.75) + this-report (3159.21) = 3337.96, and its expense and balance cumulative cells both print 3337.96. The 3332.96 is the filer's transposition on the contribution line (already documented in this module's CLAUDE.md). Both figures retained verbatim; the stated total is NOT overwritten.",
+     "published_stated": "3332.96",
+     "csv_reconciles": "False",
+     "csv_delta": "5.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "12/3/2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "30 Days after the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "178.75",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "3159.21",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "3332.96",
-        "confidence": "medium"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "178.75",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "3159.21",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "3337.96",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "178.95",
-        "confidence": "medium"
-      },
-      "this_report": {
-        "value": "3159.21",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "3337.96",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "3337.96",
+     "itemized": "3337.96",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (3337.96 = 3337.96, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "3337.96",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "No filer-written page subtotal on either schedule. Cover identities used as gates: Form A this-report split 500.00 + 2659.21 = 3159.21 = cover 'TOTALS FOR THIS REPORT' contributions — GATE PASSES and resolves the disputed final digit of 2659.21. Form B total 3337.96 = cover cumulative expenses — GATE PASSES.",
+   "escalations": 1,
+   "escalation_note": "p2 amount column re-rendered as a 600 dpi cell crop (all three Form A amounts) to resolve 2659.21 vs 2659.71",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 3,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 6,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, handwritten. Cover: Steve B. Farrell, Wasatch County Council seat B, Republican, Midway UT; the '30 Days after the General Election' box is marked with an X drawn through it; signed 12/3/2020. Form B's second column is headed 'Name of Expenditure' on this sheet — read as the PAYEE. This sheet prints NO Purpose column, so every expenditure purpose is blank (the field does not exist on the form, it is not missing data). Field-shift screen: 3 dates / 3 names / 3 amounts on each side, each in its own column — PASS."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Steve B. Farrell",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Three internal inconsistencies, all kept verbatim: the CUMULATIVE contributions cell reads 3332.96 while the expense and balance cumulative cells read 3337.96 (178.75 + 3159.21 = 3337.96); the balance LAST REPORT cell reads 178.95 against 178.75 elsewhere; and the balance line repeats the expense line instead of netting."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "12/3/2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "30 Days after the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "178.75",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "3159.21",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "3332.96",
+    "confidence": "medium"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "178.75",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "3159.21",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "3337.96",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "178.95",
+    "confidence": "medium"
+   },
+   "this_report": {
+    "value": "3159.21",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "3337.96",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Three internal inconsistencies, all kept verbatim: the CUMULATIVE contributions cell reads 3332.96 while the expense and balance cumulative cells read 3337.96 (178.75 + 3159.21 = 3337.96); the balance LAST REPORT cell reads 178.95 against 178.75 elsewhere; and the balance line repeats the expense line instead of netting.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-03-13",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "178.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "self-contribution; matches the cover's TOTALS FROM LAST REPORT contribution cell (178.75)",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2020-09-15",
+   "donor_raw": "Park City Board of Realtors",
+   "donor_city": "Park City",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "note": "written '$ 500.00'; the donor name's trailing glyphs are cramped ('Realtors')",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2020-10-14",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "2659.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "note": "the cents glyph is ambiguous 21/71 even at 600 dpi; ARITHMETIC DECIDES (Rhodes rule) — 500.00 + 2659.21 = 3159.21, the cover's printed TOTALS FOR THIS REPORT contribution figure, so .21 is the reading that closes the identity",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-13",
+   "vendor_raw": "Wasatch Co",
+   "purpose": "",
+   "amount": "178.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=medium",
+   "verified": 0,
+   "note": "amount written '17875' with no visible decimal point; read as 178.75 because the side then closes exactly on 3337.96 and it matches the cover's last-report expense cell. This sheet prints no Purpose column.",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-09-23",
+   "vendor_raw": "Wasatch Wave",
+   "purpose": "",
+   "amount": "159.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "payee reads 'Wasatch Wave' (the local newspaper); no Purpose column on this sheet",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-10-14",
+   "vendor_raw": "Wasatch Wave",
+   "purpose": "",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "written '$3000.00'; no Purpose column on this sheet",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

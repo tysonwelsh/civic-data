@@ -1,90 +1,162 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_JuneJJenkins.pdf",
-    "cache_key": "276cf0cf",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "June 2020 (7 days before Primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jason G Jenkins",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_JuneJJenkins.pdf",
+  "cache_key": "276cf0cf",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "June 2020 (7 days before Primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_03.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "itemized": "0.00",
+     "result": "unknown",
+     "anchor": "nothing stated on the face",
+     "detail": "no stated figure on the face, so the 0 transcribed row(s) summing to 0.00 cannot be reconciled - unknown, never a fabricated match || TRANSCRIBER'S ACCOUNT: Form A (p2) is a printed, entirely blank schedule -- a real zero of ROWS. But the cover states no contribution figure: all three contribution cells hold a bare dash, which under the zero-glyph ruling is BLANK, not 0. So there is nothing to reconcile against; the rows are zero and the stated total is honestly absent.",
+     "published_stated": "",
+     "csv_reconciles": "",
+     "csv_delta": ""
     },
-    "office_verbatim": {
-      "value": "County Surveyor",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "DEM",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the Primary Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "",
-        "confidence": ""
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "442.15",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "442.15",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "442.15",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "442.15",
+     "itemized": "442.15",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (442.15 = 442.15, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "442.15",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant. Cover identity cannot be evaluated for contributions (dash, not a number); expenses blank + 442.15 = 442.15 OK. The printed balance is +442.15 against 442.15 of expense and no stated contributions -- the filer's arithmetic, filed as-is.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 1,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime. Jason G. Jenkins, County Surveyor, DEM., signed 6-23-2020, '7 Days preceding the Primary Election' checked. p2 Form A blank; p3 Form B one row. The address cell of that row reads 'WASCO' (Wasatch County); expenditure rows carry no address fields so it is not retained as a field. FIELD-SHIFT SCREEN: passed (1 date / 1 name / 1 amount)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jason G Jenkins",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The contribution line's cells contain dashes, not figures \u2014 transcribed blank."
+  "office_verbatim": {
+   "value": "County Surveyor",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "DEM",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the Primary Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "",
+    "confidence": ""
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "442.15",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "442.15",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "442.15",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The contribution line's cells contain dashes, not figures — transcribed blank.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-18",
+   "vendor_raw": "CANDIDATE FILING FEE",
+   "purpose": "",
+   "amount": "442.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "amount written with superscript cents '442.15' as 442 with a raised 15; the 'Name of Expenditure' cell holds a purpose, not a payee -- verbatim retained",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

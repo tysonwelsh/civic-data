@@ -47,6 +47,84 @@
   "office": "n/a",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2026 sheet, legible despite the 'low' OCR sidecar. The 'Name of Office' box is EMPTY on the form — the office (County Attorney) comes from the county portal listing, NOT from this document. Cents written as superscripts; the balance cell is written '0-'. Address redacted by the county. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2026 sheet, legible despite the 'low' OCR sidecar. The 'Name of Office' box is EMPTY on the form — the office (County Attorney) comes from the county portal listing, NOT from this document. Cents written as superscripts; the balance cell is written '0-'. Address redacted by the county. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2026-01-02",
+   "donor_raw": "Margaret Olson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1140.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,26.88,84.00,1.93@p2",
+   "geometry_fit": "measured",
+   "note": "the candidate's own self-funding. Address block REDACTED BY THE COUNTY with a solid black rectangle - city/state unavailable for that reason, not left empty by the filer. Amount written with superscript cents; final glyph settled as 9 by the cover's 1,140.39 and the mirroring expense row, not by re-reading.",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2026-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "filing fee",
+   "amount": "1140.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,27.93,84.00,2.00@p3",
+   "geometry_fit": "measured",
+   "note": "vendor name wraps to a second physical line ('Summit County' / 'Clerk'); recorded on the band carrying the date and amount. Amount written '1,140' with superscript cents '39'.",
+   "page": 3,
+   "band": 4
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "1140.39",
+    "itemized": "1140.39",
+    "result": "exact",
+    "detail": "one row - the candidate's own 1,140.39 on 1/2/26 - equal to the cover's stated contribution total to the cent. A wholly self-funded filing whose single contribution exactly funds its single expense."
+   },
+   "expenditures": {
+    "stated": "1140.39",
+    "itemized": "1140.39",
+    "result": "exact",
+    "detail": "one row - Summit County Clerk, filing fee, 1,140.39 on 1/2/26 - equal to the cover's stated expenditure total to the cent."
+   }
+  },
+  "page_gates": "BOTH schedule pages print a section-total box that the filer NEVER FILLED IN: p2's 'TOTAL CONTRIBUTIONS' and p3's 'TOTAL EXPENSES' each show only the form's own accounting placeholder '$    -'. Per the zero-glyph ruling a bare dash is a nil mark, not a numeral, so neither box gates anything and neither is read as a zero. The gate is therefore the COVER, and both sides close on it exactly: the single contribution 1,140.39 == the stated 1,140.39, and the single expense 1,140.39 == the stated 1,140.39, with the cover's own balance box reading '$ 0-' (a written zero) consistent with the two sides cancelling. Escalated three times at 700-1400 dpi - tight crops of p2 band 4, p2 band 5 (to settle which detected band holds the row) and p3 band 4. The contribution amount is written with SUPERSCRIPT CENTS and its final glyph is ambiguous in isolation between 9 and 7; three things settle it as 1,140.39 and none of them is a re-read: the cover's stated 1,140.39, the mirroring expense row, and the expense row's own clearer hand ('1,140' with a raised '39').",
+  "escalations": 3,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 2,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "COUNTY-PRE-REDACTED 2026 FILING. The contributor's ADDRESS cell on p2 is covered by a solid black rectangle applied by the COUNTY before publication (the file itself is named '..._Redacted.pdf'), so donor_city and donor_state are blank BECAUSE THE COUNTY REDACTED THEM - not because the filer left the cell empty. Nothing behind the marker was read, and no city was inferred. The 2026 Summit form gives contributions a single free-text ADDRESS column with no separate city/state boxes, so even unredacted it would not have yielded a clean city field. Both schedule pages leave the form's 'Full Name of Candidate:' box entirely EMPTY - the pages are identifiable only by the cover, which is consistent with this filing's other known cover property, an empty 'Name of Office' box (the office 'County Attorney' in index.csv comes from the portal listing, not from the form, and none was invented here). No specimen rows survive on either page; every other ruled line on both schedules is genuinely blank. Both amounts are written with the cents raised as a superscript, the same hand's habit on both pages. The expense vendor wraps onto a second physical line ('Summit County' / 'Clerk'), which the band detector counts as its own band - the row is recorded on band 4, the line carrying the date and the amount, and its wrap on band 5 carries no separate transaction. The cover states current_report figures with '$ -' in both the last-report and cumulative columns, so this is the cycle's first report and no period-vs-cumulative question arises."
+ }
 }

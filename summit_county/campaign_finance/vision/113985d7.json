@@ -47,6 +47,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "The filer's Pre-Election sheet (doc 11860) re-filed as the Post-Election report: the typed/handwritten date 10/25/20 is struck out and '12/1/20' written below. Cell values identical to 11860; slashed-zero nil marks recorded as blank. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "The filer's Pre-Election sheet (doc 11860) re-filed as the Post-Election report: the typed/handwritten date 10/25/20 is struck out and '12/1/20' written below. Cell values identical to 11860; slashed-zero nil marks recorded as blank. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "0.00",
+    "itemized": "",
+    "result": "none",
+    "detail": "no contribution schedule page exists in this document - nothing to reconcile. The COVER asserts a contribution zero (three slashed-zero glyphs); the SCHEDULE is absent. Those are different facts and this side is 'none', not 'transcribed with zero rows'."
+   },
+   "expenditures": {
+    "stated": "277.38",
+    "itemized": "",
+    "result": "none",
+    "detail": "no expense schedule page exists in this document - nothing to reconcile. The cumulative $277.38 the cover states is itemized nowhere in this filing, nor in its Pre-Election sibling 11860, which is the same bare cover."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered and read once to CLASSIFY it, not for money, and it is the 2020 cover form and nothing else. No ITEMIZED CONTRIBUTION REPORT sheet and no ITEMIZED EXPENSE REPORT sheet exist in this PDF, so BOTH sides are 'none' - NON-EXISTENCE OF THE SCHEDULE, never a zero. The cover's own arithmetic closes on the expense row (current Oe + last 277.38 = cumulative 277.38); those are cover facts already published by the cover tranche and nothing is re-derived from them here.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Douglas Clyde, County Council, 2020 POST-ELECTION - and A SOURCE PROPERTY THE BRIEF DOES NOT LIST: this filing is the SAME PHYSICAL SHEET as his Pre-Election filing 11860, resubmitted. Every handwritten stroke matches - the candidate block, the four slashed zeros, '277 38' in the Last Report and Cumulative expenditure cells, '-277 38' across all three balance cells, the same signature - and the ONLY difference on the page is the date line: the original '10/25/20' has been STRUCK THROUGH with a single horizontal pen stroke and '12/1/20' written below it with the filer's initial. Under the clerk-correction precedent (a handwritten correction over a struck typed or written value governs) the operative date of this document is 12/1/20; the struck 10/25/20 is recorded here verbatim as what the page also shows. So Summit's corpus carries two document_ids, two DocumentCenter URLs and two cycle labels for what is materially one re-dated cover, and a future de-duplication pass should treat the PAIR, not either sheet, as the unit - though nothing is merged here, because both are genuine county publications and the honest record is that each exists. Consequences for the wave: (1) the pair carries NO period-vs-cumulative conflict to resolve - Current Report is zero on both money rows on both sheets, so the whole of the reported campaign is the 277.38 carried in Last Report/Cumulative; (2) the 277.38 in expenditures is UNITEMIZED ANYWHERE in the 2020 corpus for this candidate, because neither sheet has a schedule; (3) THE ZERO-GLYPH RULING is what makes the contribution row readable at all - four hand-drawn slashed zeros with a stroke through them, affirmative written zeros and not empty or dashed cells, already published as 0 by the cover tranche with the glyph preserved. A negative campaign balance sustained across all three columns is itself a source property: the candidate spent his own money and never recorded a reimbursing contribution. The party line is struck through in pen on both sheets."
+ }
 }

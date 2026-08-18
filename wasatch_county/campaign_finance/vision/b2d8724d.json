@@ -1,89 +1,184 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_DecJGranger.pdf",
-    "cache_key": "b2d8724d",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "December 2020 (30 days after General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "total_contributions",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Joey Diane Granger",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_DecJGranger.pdf",
+  "cache_key": "b2d8724d",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "December 2020 (30 days after General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "total_contributions",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_05.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "25.00",
+     "itemized": "25.00",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (25.00 = 25.00, the cover's own total contributions line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 1933.69 this reads as a -1908.69 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "1933.69",
+     "csv_reconciles": "False",
+     "csv_delta": "-1908.69"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "12/03/2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "30 Days after the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "1908.69",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "25.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1933.69",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "1908.69",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "25.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1933.69",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "25.00",
+     "itemized": "25.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (25.00 = 25.00, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 1933.69 this reads as a -1908.69 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "1933.69",
+     "csv_reconciles": "False",
+     "csv_delta": "-1908.69"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row. THIS-REPORT-column gate fires on both sides and both PASS exactly (25.00 = 25.00 on each). Balance line 0 / 0 / 0 is consistent with contributions = expenses.",
+   "escalations": 0,
+   "escalation_note": "born-digital typed filing, fully legible at 200 dpi",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime, BORN-DIGITAL. Joey Diane Granger (index.csv publishes 'Joey D Granger'), Clerk/Auditor, Republican, dated 12/03/2020, '30 Days after the General Election' checked. SEVEN pages: p1 cover, p2 Form A, p3 Form B, and pp4-7 are the printed statute text of Utah Code 17-16-6.5 (effective 3/17/2016) -- I read all four and they contain NO additional schedule, row or total. Both schedules carry exactly one row each and NEITHER prints an address, so donor_city/donor_state are honestly BLANK (never inferred). Note also that the cover's Form-B row is captioned 'TOTAL EXPENSES', and the single 25.00 contribution and 25.00 expenditure are same-dated (10/30/20)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Joey Diane Granger",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "12/03/2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "30 Days after the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "1908.69",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "25.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1933.69",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "1908.69",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "25.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1933.69",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2020-10-30",
+   "donor_raw": "Joey Granger",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '10/30/20' (2-digit year). Candidate self-funding. The Mailing Address & Zip Code cell is EMPTY on the face -- city and state left blank, not inferred from the cover's Heber address.",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-10-30",
+   "vendor_raw": "Facebook Ads",
+   "purpose": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '10/30/20'. The 'Name of Expenditure' cell holds a payee-and-purpose blend ('Facebook Ads'); address cell empty.",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

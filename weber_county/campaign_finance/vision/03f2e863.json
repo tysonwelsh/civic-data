@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:11:00Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "JAMES H. \"Jim\" HARVEY",
  "office_stated": "WEBER County Commissioner - SEAT C",
  "report_type_stated": "7 days before convention",
@@ -44,5 +44,91 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN, blue ink. All three columns reconcile internally. The 'last report' column is EXACTLY this filer's 2020 final cumulative figures (28,610.05 / 21,218.46 / 7,391.59) - an officeholder account carried across cycles, so a 2024 cycle total taken from the cumulative column DOUBLE-COUNTS the 2020 money. County-redacted address and cell phone."
+ "notes": "HANDWRITTEN, blue ink. All three columns reconcile internally. The 'last report' column is EXACTLY this filer's 2020 final cumulative figures (28,610.05 / 21,218.46 / 7,391.59) - an officeholder account carried across cycles, so a 2024 cycle total taken from the cumulative column DOUBLE-COUNTS the 2020 money. County-redacted address and cell phone.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/2/24",
+   "donor_raw": "GAGE FROERER Campaign Fund",
+   "donor_city": "Huntsville",
+   "donor_state": "UT",
+   "amount": "500",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:17.05,7.72,3.32,10.07@p2",
+   "geometry_frame": "p2 axis=x cell=7.72-17.79 rowband=17.05-20.37 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "handwritten in blue ink. The amount cell prints '5' followed by two SLASHED-ZERO glyphs and a trailing dash for the cents position: transcribed 500 under the zero-glyph ruling (the slashed zeros denote the digit zero; the trailing dash is the filer's no-cents mark and adds nothing). Donor is the campaign fund of Gage Froerer, this filer's fellow Weber County Commissioner. Address is a PO box in Huntsville, deliberately not carried (PRIVACY.md: city/state only)."
+  },
+  {
+   "line_no": "2",
+   "date": "1/26/24",
+   "donor_raw": "NWAOR PAC Acct",
+   "donor_city": "Ogden",
+   "amount": "2500",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:20.37,7.72,3.21,10.07@p2",
+   "geometry_frame": "p2 axis=x cell=7.72-17.79 rowband=20.37-23.58 (3 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "handwritten. Same slashed-zero + trailing-dash amount convention as line 1: '2,5' + two slashed zeros + '-' = 2,500. donor_state is BLANK because the FILER wrote no state - his address cell ends 'Ste-1 Ogden 84403' with the state omitted (left empty by the filer, NOT redacted by the county). Street address not carried. 'NWAOR' is the filer's own abbreviation, kept verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "2 Jan. '24",
+   "vendor_raw": "Filing FEE - WEBER Co.",
+   "purpose": "Filing",
+   "amount": "783.76",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:21.31,6.27,3.12,10.05@p3",
+   "geometry_frame": "p3 axis=x cell=6.27-16.32 rowband=21.31-24.43 (2 of 24 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date kept VERBATIM as the filer wrote it ('2 Jan. \u201924'); it is not one of the two shapes the build normalizes (M/D/YY(YY), D-Mon-YY), so it will surface as unparseable rather than be repaired here. The amount is written '$783' with a superscript '76' - i.e. 783.76 - matching the schedule's own printed total '783 . 76'. The separate City column prints 'Ogden' (no vendor_city field in the row contract). The filer put the payee description in the name column and 'Filing' in the purpose column."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report): 3000 -'",
+     "detail": "the 2 Form A rows (500 + 2,500) sum to 3,000 = the schedule's own printed total = the cover's Totals for THIS REPORT cell on line 1 ($3000-). The cover's CUMULATIVE cell is 31,610.05 = 28,610.05 'Totals from Last Report' + 3,000, and that opening figure is EXACTLY this officeholder's 2020 closing cumulative - an account carried across cycles - so the schedule is period-scoped and the pre-2024 money is not itemized here (and must never be read off the cumulative column as 2024 fundraising)."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of report): 783 . 76'",
+     "detail": "the single Form B row ($783.76) equals the schedule's own printed total 783.76 = the cover's THIS REPORT cell on line 2; cumulative 22,002.22 = 21,218.46 carried from the 2020 account + 783.76, not itemized here"
+    }
+   },
+   "escalations": 6,
+   "escalation_note": "700-900 dpi tight crops: amount-column strips on p2 and p3 to establish the band structure below the header; --value cell crops at p2 row 2 (reproduces '5 slashed-0 slashed-0 -'), p2 row 3 ('2,5 slashed-0 slashed-0 -'), p3 row 2 ('$783 superscript-76 -') and the p2 schedule total cell ('3 slashed-0 slashed-0 slashed-0 -'); plus two 900 dpi crops of the p2 name and address columns to settle the handwritten donor names and city/state. No arithmetic dispute arose - both sides close to the printed anchor on the first read.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 3,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "HANDWRITTEN blue-ink 2024 3-line form, three pages: p1 cover ('7 days before convention' box ticked, signed 8 April 2024), p2 FORM A, p3 FORM B - form order and page order agree. The county REDACTED the candidate's street address and cell phone on the cover before publishing (black bars); nothing behind that redaction was recovered or inferred. OFFICEHOLDER ACCOUNT: the cover's 'Totals from Last Report' column (28,610.05 / 21,218.46 / 7,391.59) is this filer's 2020 CLOSING cumulative, so both schedules itemize the PERIOD only and the cumulative column double-counts the 2020 cycle - this is why both sides are period-exact rather than exact. Neither schedule prints a per-page subtotal; each prints one grand total at the foot and both close to the cent (Form B) or to the dollar as written (Form A) against the cover. No in-kind items are labelled. Donor street addresses / PO box on Form A are deliberately NOT carried (PRIVACY.md: city/state only)."
+  }
+ }
 }

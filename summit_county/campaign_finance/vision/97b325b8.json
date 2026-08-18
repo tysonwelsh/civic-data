@@ -52,6 +52,105 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten cover, legible; zeros written as a bare '0'."
+ "itemized_transcribed": true,
+ "notes": "Handwritten cover, legible; zeros written as a bare '0'.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-07-10",
+   "donor_raw": "Ted Levey",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,25.98,84.00,2.31@p3",
+   "geometry_fit": "measured",
+   "note": "handwritten 'Ted. Levey' (the filer wrote a period after 'Ted'); read at 900 and 1400 dpi. Mailing Address cell left EMPTY by the filer; the Zipcode cell holds an aborted stroke, not a zip - no city or state inferred. Geometry spot-verified: the stored band resolves to a crop reproducing name and amount",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2014-07-10",
+   "donor_raw": "Richard Jaffa",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,27.83,84.00,2.31@p3",
+   "geometry_fit": "measured",
+   "note": "handwritten; the leading digit of the date is written with an entry hook and was escalated to 1400 and 600 dpi tight crops - it is the same '7' this hand writes one row above, so the date reads 7/10/14. Mailing Address and Zipcode cells left EMPTY by the filer",
+   "page": 3,
+   "band": 5
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-10-10",
+   "vendor_raw": "Signs",
+   "purpose": "Signs",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.80,33.61,78.96,1.83@p5",
+   "geometry_fit": "measured",
+   "note": "the filer wrote the single word 'Signs' in BOTH the 'Person or Organization' and the 'Purpose of Expenditure' cells - no vendor is actually named on this filing, and 'Signs' is transcribed verbatim in the vendor field rather than being treated as a missing value. Read at 600 dpi; geometry spot-verified. This is the only live expense row: bands 3-5 above it are struck-through cancelled entries and band 2 is the printed specimen",
+   "page": 5,
+   "band": 7
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "550.00",
+    "itemized": "550.00",
+    "result": "exact",
+    "detail": "exact. Two handwritten rows, 250.00 (Ted Levey) + 300.00 (Richard Jaffa) = 550.00, equal to the handwritten '>$50' box and to the module's stated contribution total. NO structural split50 residual on this filing: the '<=$50' box holds a handwritten '0' (a plain written zero digit, not a dash and not a slashed zero), so the filer is stating there were no sub-$50 gifts at all. The printed specimen row is excluded and the closure is the proof"
+   },
+   "expenditures": {
+    "stated": "500.00",
+    "itemized": "500.00",
+    "result": "exact",
+    "detail": "exact. ONE live row - 10/10/14 'Signs' / purpose 'Signs' / 500.00 - equal to the schedule's handwritten box and to the cover. The printed specimen (512.00) and the filer's three struck-through entries (300.00, 250.00, and one illegible scribble) are excluded; the closure is the proof, and it is corroborated by the cover's own balance line (550.00 raised - 500.00 spent = 50.00 balance, exactly as the cover states)"
+   }
+  },
+  "page_gates": "SIX pages, but only TWO are ledgers: pp2, 4 and 6 are the BLANK BACKS of pp1, 3 and 5 - each shows nothing but faint mirrored bleed-through of the ink on its own front, no printed grid at all (rowbands detects 0 bands on each), and each was read full-page to establish that. p3 'ITEMIZED CONTRIBUTION REPORT': handwritten boxes '>$50 = 550.00' and '<=$50 = 0'; below them the blank form's PRINTED SPECIMEN ROW ('8/25/10 | Jon and Jane Doe | PO Box 128, Coalville, UT | 84017 | $435.00') survives untouched at band 3 and is DROPPED - the proof being that the two handwritten rows below it, 250.00 + 300.00, reproduce the 550.00 box exactly while including the specimen would give 985.00. p5 'ITEMIZED EXPENSE REPORT': handwritten box '500.00'; the printed specimen expenditure ('8/25/10 | Name of Business | Campaign signs and flyers | $512.00') survives at band 2 and is likewise dropped, and THREE further entries (bands 3, 4, 5) are STRUCK THROUGH IN PEN by the filer - he began by copying his two CONTRIBUTORS into the expense grid ('Richard Jaffa 300.00', 'Ted Levey 250.00', plus a third scribbled-out word), crossed them out, and wrote the real expenditure four rows down ('10/10/14 | Signs | Signs | 500.00' at band 7), which is the box to the cent. Escalations: the two contribution rows were re-rendered as tight crops at 900 dpi and their date cells again at 1400 dpi and 600 dpi to settle the leading digit of the second row's date (both read 7/10/14 in the same hand); the struck expense block and the live expense row were re-rendered at 600 dpi.",
+  "escalations": 4,
+  "n_contrib_rows": 2,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 3,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "HANDWRITTEN sheet (blue ballpoint over the printed grid); the county scanner's OCR layer is noise on both ledger pages and was not used for any value. THREE source properties. (1) BLANK BACKS ARE PAGES: this 6-page PDF is cover / blank back / contributions / blank back / expenditures / blank back - the scanner captured the reverse of every sheet. They are not schedule pages and carry no data (only mirrored bleed-through), so no 'none' state is implied by them; the two real ledgers both exist and are transcribed. (2) BOTH PRINTED SPECIMEN ROWS SURVIVE, and this copy dates the contribution specimen '8/25/10' on a 2014 form - the same 2010-dated specimen the wave has seen elsewhere. Both are dropped and both drops are proved by arithmetic, not assumed. (3) THE FILER USED THE EXPENSE GRID AS SCRATCH: his first three expense lines are his own two DONORS' names and amounts, struck through in pen, followed by a blank row and then the single real expenditure. Under the handwritten-correction precedent the strike-through governs; the arithmetic agrees (the 500.00 box closes only on the live row). The struck amounts 300.00 and 250.00 are themselves NOT crossed out - only the names are - which is exactly the kind of half-cancelled row a sum-only reading would swallow, so it is recorded here explicitly. Mailing Address cells are EMPTY on both contribution rows (LEFT BLANK BY THE FILER - this is a 2014 filing, not one of the county's pre-redacted 2022/2026 copies), so donor_city / donor_state are honestly blank; the Levey row's Zipcode cell holds only an aborted pen stroke ('2' plus a dot), not a zip, and nothing was inferred from it. Geometry is MEASURED on both ledger pages (37 bands on p3, 36 on p5, regular ~1.83% pitch) even though neither page's VERTICAL rules were detected - row bands are what the contract requires. Spot-verified end-to-end on p3 band 4 (Ted Levey / 250.00) and p5 band 7 (Signs / 500.00); both crops reproduce name and amount. PAIR NOTE: this filer's Post-Election report for the same 2014 cycle is document 1273, which is the corpus's single 'narrative_letter' variant - see that record for the cover-differencing."
+ }
 }

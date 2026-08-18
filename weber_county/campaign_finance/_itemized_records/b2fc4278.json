@@ -1,0 +1,174 @@
+[
+ {
+  "index_path": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+  "page_start": 8,
+  "page_end": 10,
+  "key": "b2fc4278",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [8, 9, 10],
+  "itemized_pages_A": "9",
+  "itemized_pages_B": "10",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A 'Total Contributions: (to line 1 of report): 1,444.00'",
+    "detail": "the 5 Form A rows (500 + 300.00 + 250.00 + 100.00 + 294.00) sum to 1,444.00 = the schedule's own printed total = the cover's Totals for This Report AND its Cumulative cell (3-line 2022 form: one contrib_all cell, no separate <=$50 aggregate line; Totals from Last Report is a dash, so this-report and cumulative coincide)"
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B 'Total Expenditures: (to line 2 of report): 1,288.47'",
+    "detail": "the 4 Form B rows (305.51 + 18.80 + 257.40 + 706.76) sum to 1,288.47 = the schedule's own printed total = the cover's This Report AND Cumulative cell on line 2"
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "500-900 dpi tight crops: p9 amount-column strip and p9 date/name strip (to establish the band structure below the header), p10 amount-column strip, then three --value cell crops used as the geometry spot-verification (p9 row 3 -> $500, p9 row 7 -> $294.00, p10 row 5 -> $706.76) and one purpose-cell crop (p10 row 3) to settle the trailing comma in 'Table cover, life savers,'. No legibility dispute arose; the sheet is typed.",
+  "frames": {
+   "9": {
+    "axis": "x",
+    "cell": [83.43, 93.50],
+    "cells": [[7.66, 43.84], [43.84, 83.43], [83.43, 93.50]],
+    "rows": [
+     [80.74, 83.65], [77.71, 80.74], [74.74, 77.71], [71.74, 74.74], [68.74, 71.74],
+     [65.74, 68.74], [62.74, 65.74], [59.76, 62.74], [56.79, 59.76], [53.79, 56.79],
+     [50.76, 53.79], [47.79, 50.76], [44.74, 47.79], [41.82, 44.74], [38.91, 41.82],
+     [36.03, 38.91], [33.09, 36.03], [30.15, 33.09], [27.21, 30.15], [24.26, 27.21],
+     [21.32, 24.26], [18.38, 21.32], [15.47, 18.38], [12.59, 15.47], [9.71, 12.59]
+    ],
+    "measure_note": "ROTATED landscape sheet: the printed ROW rules are the page's VERTICAL rules, so the row bands are x-bands and the row index INCREASES as x DECREASES (the sheet's top edge is the image's right edge). All 28 vertical rules 9.71..88.91 were detected by rowbands at a constant ~2.94% pitch - nothing was extrapolated. The header row ('Date | Name of Contributor | Address | Amount') is the band [83.65,86.56]; the band above it [86.56,88.91] is the printed top margin strip; row 1 is the first band below the header, which on this sheet is the SHADED grey strip the scan renders (an empty printed row, not an entry - same convention as the 2020 Ulibarri record d0df0309). The AMOUNT column band on the other axis comes from the column rules measured with coverage restricted to the table's own x-extent (7.66 / 43.84 / 83.43 / 93.50); the Date|Name separator did not survive detection and is not declared. Proved with 900 dpi --value crops at row 3 (reproduces $500) and row 7 (reproduces $294.00)."
+   },
+   "10": {
+    "axis": "x",
+    "cell": [84.84, 94.93],
+    "cells": [[6.57, 14.25], [14.25, 57.09], [57.09, 67.14], [67.14, 84.84], [84.84, 94.93]],
+    "rows": [
+     [78.79, 81.74], [75.91, 78.79], [73.00, 75.91], [70.00, 73.00], [67.09, 70.00],
+     [64.12, 67.09], [61.24, 64.12], [58.29, 61.24], [55.38, 58.29], [52.47, 55.38],
+     [49.53, 52.47], [46.65, 49.53], [43.68, 46.65], [40.76, 43.68], [37.76, 40.76],
+     [34.79, 37.76], [31.85, 34.79], [28.91, 31.85], [25.97, 28.91], [23.09, 25.97],
+     [20.15, 23.09], [17.24, 20.15], [14.32, 17.24], [11.44, 14.32], [8.50, 11.44],
+     [5.50, 8.50]
+    ],
+    "measure_note": "Same rotated-landscape geometry as p9. All 29 vertical rules 5.50..88.85 detected at a constant ~2.93% pitch; nothing extrapolated. The header row here is TALLER than one pitch - the band [81.74,86.41] (4.67%) - because Form B's first column header 'Date of Expenditure' wraps to two printed lines; [86.41,88.85] is the top margin strip. Row 1 is the shaded grey strip immediately below the header, and unlike Form A this sheet's first ENTRY sits in row 2 (on Form A the filer left the first data line blank, so his first entry is row 3). Column bands measured with coverage restricted to the data area (6.57 / 14.25 / 57.09 / 67.14 / 84.84 / 94.93). Proved with a 900 dpi --value crop at row 5 (reproduces $706.76)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "3/23/2022",
+    "donor_raw": "Ryan Arbon",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "500",
+    "page": 9,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer printed '$500' with NO cents - the amount is carried exactly as printed, not padded to 500.00. Self-contribution: the donor address is the candidate's own address on the cover. Street address deliberately not carried (PRIVACY.md: city/state only); the form's Address column prints 'Utah' spelled out, normalized to the two-letter state."
+   },
+   {
+    "line_no": "2",
+    "date": "3/7/2022",
+    "donor_raw": "Spencer Stephens",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 9,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "3/7/2022",
+    "donor_raw": "Phillip Reese",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 9,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "3/7/2022",
+    "donor_raw": "Blake Cevering",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 9,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "2/28/2022",
+    "donor_raw": "Ryan Arbon",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "294.00",
+    "page": 9,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "second self-contribution, same address as the cover."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "3/22/2022",
+    "vendor_raw": "River Print",
+    "purpose": "Post Card mailers",
+    "amount": "305.51",
+    "page": 10,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Form B's separate City column prints 'Ogden' (no vendor_city field in the row contract)."
+   },
+   {
+    "line_no": "2",
+    "date": "3/15/2022",
+    "vendor_raw": "Walmart",
+    "purpose": "Table cover, life savers,",
+    "amount": "18.80",
+    "page": 10,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "purpose kept verbatim including the filer's trailing comma (confirmed on a 700 dpi cell crop). City column prints 'Riverdale'."
+   },
+   {
+    "line_no": "3",
+    "date": "3/10/2022",
+    "vendor_raw": "River Print",
+    "purpose": "Post Card flyers",
+    "amount": "257.40",
+    "page": 10,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   },
+   {
+    "line_no": "4",
+    "date": "2/28/2022",
+    "vendor_raw": "Weber County Clerk",
+    "purpose": "Candidate Filing",
+    "amount": "706.76",
+    "page": 10,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column prints 'Ogden'."
+   }
+  ],
+  "notes": "Fully TYPED 2022 3-line form, three pages: p8 cover (October 25 - Nov 1 box ticked, signed 10/24/2022), p9 FORM A contributions, p10 FORM B expenditures - form order and page order agree here. Both schedules are rotated landscape sheets. Neither schedule prints a per-page subtotal; each prints one grand total at the foot ('to line 1 of report' / 'to line 2 of report') and both close to the cent against the cover. Cover line 1 'Totals from Last Report' is a bare dash on all three lines and stays BLANK in the stated-totals cache (zero-glyph ruling), so This Report == Cumulative. No in-kind items are labelled on either schedule. Donor street addresses printed in Form A's Address column are deliberately NOT carried (PRIVACY.md: city/state only)."
+ }
+]

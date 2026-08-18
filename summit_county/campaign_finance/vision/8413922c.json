@@ -47,6 +47,49 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Handwritten 2020 single-total sheet, legible despite the 'low' OCR sidecar. Contributions and campaign-balance cells carry a slashed-zero nil mark (recorded blank); the Current expenditure cell is left empty and the prior period's 597.80 is carried in Last Report and Cumulative. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank)."
+ "itemized_transcribed": true,
+ "notes": "Handwritten 2020 single-total sheet, legible despite the 'low' OCR sidecar. Contributions and campaign-balance cells carry a slashed-zero nil mark (recorded blank); the Current expenditure cell is left empty and the prior period's 597.80 is carried in Last Report and Cumulative. zero-glyph audit 2026-08-02 (coordinator): this filing's blank-audit cells were re-rendered at FULL page and re-read; cells set to 'Ø' held a deliberate slashed-zero glyph on the form face (owner ruling 2026-08-02: zero-denoting glyphs = the digit 0; dashes/N-A/empty stay blank).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "withheld"
+  },
+  "withheld_reason": {
+   "expenditures": "PERIOD-vs-CUMULATIVE GRAIN (the Wolbach-24390 / Stevens-12943 class), in its blank-page form. The ITEMIZED EXPENSE REPORT page EXISTS, its 'Total amount of expenditures' box is EMPTY (verified by an 800 dpi crop of the box), the template specimen row is struck out, and every other row is blank - i.e. the page reports NO expenses. But the cover states expenditures of 597.80, and states it in the LAST REPORT and CUMULATIVE columns with the CURRENT REPORT column left blank: the filer is saying 'nothing new this period; the cycle total 597.80 was already reported'. The blank ledger is therefore the PERIOD figure and the module publishes the CUMULATIVE one. Shipping this as 'transcribed with zero rows' would assert that a 597.80 campaign itemized nothing, and the 597.80 row cannot be carried over from the Pre-Election sibling 11863 without inferring it. BOTH figures named: page total EMPTY / period zero vs stated cumulative 597.80. No rows exist to park in withheld_rows; the one real expenditure of this cycle is already transcribed on 11863 (3/13/20 Summit County Clerk, Filing Fee, 597.80)."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "0.00",
+    "itemized": "0.00",
+    "result": "exact",
+    "detail": "exact, and a REAL ZERO at BOTH grains: the cover writes a slashed zero in the current, last and cumulative contribution columns, and the schedule page carries the filer's own nil line - 'N/A' in the Name of Contributor column with a deliberate slashed-zero glyph in each of the Zipcode and Amount cells. Under the zero-glyph ruling the amount cell IS zero. Zero rows are emitted because 'N/A' is a declaration, not a contributor; inventing a donor row named N/A would be fabrication."
+   },
+   "expenditures": {
+    "stated": "597.80",
+    "itemized": "",
+    "result": "withheld",
+    "detail": "no sum claimed - the schedule page is blank with an EMPTY printed total box (a period zero) while the cover states the cumulative 597.80. See withheld_reason."
+   }
+  },
+  "page_gates": "p2 gated by the cover, whose contrib_total is a slashed zero in ALL THREE columns (current / last / cumulative) - so period and cumulative agree at zero and there is no grain conflict on this side; the page states the same thing in the filer's own hand. p3 gated by its own printed total box, which is EMPTY, against the cover's cumulative 597.80 - the grain gap that withholds the side. Row-count gate: p2 40 bands / p3 36 bands at a regular ~1.82% pitch, and on both pages exactly one non-blank line exists (the struck specimen) plus, on p2, the filer's nil line. NO GEOMETRY IS CARRIED because no rows are emitted from either side; note that neither page yielded ANY vertical rules (rowbands cols=[] on both), so had a row shipped it would have needed a declared frame. ESCALATIONS (2): (1) the two nil cells on p2 re-cropped tight at 1000 dpi to confirm they are deliberate SLASHED-ZERO glyphs and not stray marks or dashes; (2) the p3 'Total amount of expenditures' box re-cropped at 800 dpi to confirm it is genuinely empty rather than carrying a faint figure.",
+  "escalations": 2,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Rhonda Francis, County Recorder/Surveyor, 2020 POST-Election - the sibling of 11863 (Pre-Election, transcribed in this same chunk). Handwritten, low text quality, no vertical rules detected on either schedule page. THE ZERO-GLYPH CASE THE CHUNK NOTE FLAGGED, and it is real: on p2 the filer wrote 'N/A' in the name column and two deliberate SLASHED ZEROS in the Zipcode and Amount cells, matching the slashed zeros the cover tranche already recorded on this filing's contribution and balance lines. Confirmed at 1000 dpi. They transcribe as 0, verbatim glyph preserved here - and the honest state is 'transcribed with a real zero', NOT 'none': the schedule page exists. SOURCE PROPERTY WORTH FLAGGING - HEAVY BLACK-MARKER STRIKE-OUT THAT IS NOT A REDACTION: on BOTH schedule pages the template specimen row ('8/25/10 Jon and Jane Doe / PO Box 128, Coalville, UT / 84017 / $435.00' on p2; '8/25/10 Name of Business / Campaign signs and flyers / $512.00' on p3) is obliterated with a thick black marker line that at 200 dpi looks exactly like the county's black-marker address redactions on the 2022/2026 filings. It is NOT a redaction - the underlying text is the printed template specimen and is still legible under the stroke. Any future reader (or classifier) sweeping for redactions on Summit scans should expect this false positive. THE CANDIDATE-CYCLE PICTURE: Francis raised nothing and spent only her 597.80 filing fee; the Pre-Election filing 11863 carries that one row, and this Post-Election filing restates the cycle total on its cover while leaving the ledger blank. The cover's campaign-balance line is also a slashed zero, which does not equal 0.00 - 597.80 = -597.80 (11863's cover states the -597.80 correctly); that is the FILER's arithmetic on an already-transcribed cover page and is recorded here only as an observation, not changed. No in-kind schedule, no county redactions, no privacy-bearing address on any emitted row."
+ }
 }

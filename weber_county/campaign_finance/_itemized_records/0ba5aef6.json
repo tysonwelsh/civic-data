@@ -1,0 +1,90 @@
+[{
+  "index_path": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+  "page_start": 14,
+  "page_end": 17,
+  "key": "0ba5aef6",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [14, 15, 16, 17],
+  "itemized_pages_A": "16-17",
+  "itemized_pages_B": "15",
+  "sides": { "contributions": "transcribed", "expenditures": "transcribed" },
+  "withheld_reason": {},
+  "recon": {
+    "contributions": {
+      "result": "exact",
+      "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 28,610.05' (p17)",
+      "detail": "21 Form A rows sum to 28,610.05, which equals the schedule's own printed grand total on p17 AND the cover's 'Totals for This Report' cell AND its 'Cumulative Totals' cell (28,610.05 / 28,610.05). This is the 3-line 2020 form: a single contrib_all cell, no separate <=$50 aggregate line, so the line-1/line-2 basis rule does not apply and the whole published total is itemized. Column alignment across the two half-sheets was independently corroborated, not assumed: Lynn Wood appears at rows 2 and 6 against the same address (2490 Wall Ave), and rows 12-15 are four related entities all at 895 Wall Ave at 100.00 each."
+    },
+    "expenditures": {
+      "result": "exact",
+      "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 21,218.46' (p15)",
+      "detail": "15 Form B rows sum to 21,218.46, which equals the schedule's own printed total on p15 AND the cover's 'Totals for This Report' cell AND its 'Cumulative Totals' cell (21,218.46 / 21,218.46). No page subtotals on this sheet — the single-sheet grand total is the gate."
+    }
+  },
+  "escalations": 0,
+  "escalation_note": "No legibility escalation was needed — both schedules are machine-printed (only the cover face is handwritten) and both sides closed exactly on the first full-page read. Six 900 dpi tight-crop --value renders were taken purely to PROVE the measured geometry: p15 rows 1 and 15 (reproduced 321.99 and 8,000.00), p17 rows 1 and 21 (reproduced 9,058.05 and 250.00), p16 rows 1 and 21 (reproduced 'Carry Over from 2019' and 'Republic Services', which is also what proves the two half-sheets are 1:1 aligned).",
+  "frames": {
+    "15": {
+      "axis": "x",
+      "cell": [86.39, 97.02],
+      "cells": [[3.39, 11.52], [11.52, 56.93], [56.93, 67.61], [67.61, 86.39], [86.39, 97.02]],
+      "rows": [[77.68, 80.71], [74.69, 77.68], [71.68, 74.69], [68.59, 71.68], [65.44, 68.59], [62.38, 65.44], [59.28, 62.38], [56.26, 59.28], [53.29, 56.26], [50.24, 53.29], [47.13, 50.24], [44.0, 47.13], [40.96, 44.0], [37.91, 40.96], [34.82, 37.91], [31.68, 34.82], [28.71, 31.68], [25.61, 28.71], [22.59, 25.61], [19.56, 22.59]],
+      "measure_note": "ROTATED LANDSCAPE SHEET: poppler renders p15 portrait with the content turned 90 deg CW (original top edge -> render right edge), so the printed ROW rules are the render's VERTICAL rules and the column rules are the horizontal ones, and row 1 sits at the LARGEST x. rowbands.py as shipped reports v_rules=[] on this page (its vertical pass only runs inside the h-rule y-extent at 0.60 coverage); the bands here were measured by running the same dark-run collapse over the full-height column profile at 0.25 coverage after the same deskew (-0.1 deg), which yields 25 rules on a constant 3.0-3.1% pitch. Verified by two 900 dpi --value crops: row 1 (pct:77.68,86.39,3.03,10.63@p15) reproduces 321.99 and row 15 (pct:34.82,86.39,3.09,10.63@p15) reproduces 8,000.00. cells[] runs Date | Person-or-Organization | City | Purpose | Amount in render-y order. Rows 16-20 are the sheet's printed blank rows."
+    },
+    "16": {
+      "axis": "y",
+      "cell": [19.71, 54.21],
+      "cells": [[10.59, 19.71], [19.71, 54.21]],
+      "rows": [[16.73, 19.07], [19.07, 21.39], [21.39, 23.73], [23.73, 26.02], [26.02, 28.34], [28.34, 30.66], [30.66, 33.0], [33.0, 35.32], [35.32, 37.66], [37.66, 39.98], [39.98, 42.32], [42.32, 44.66], [44.66, 46.98], [46.98, 49.3], [49.3, 51.61], [51.61, 53.93], [53.93, 56.25], [56.25, 58.57], [58.57, 60.89], [60.89, 63.23], [63.23, 65.52], [65.52, 67.89], [67.89, 70.2]],
+      "measure_note": "PROVENANCE FRAME ONLY - no row is anchored here. p16 is the LEFT HALF of the Form A sheet (Date | Name of Contributor); it carries NO amount column, so `cell` is the Name-of-Contributor column band rather than an amount band. Row bands are rowbands.py's own h_rules_pct for p16 (26 rules, pitch ~2.33%), header bottom at 16.73% taken as row 1's top. Proved by 900 dpi --value crops of row 1 ('Carry Over from 2019') and row 21 ('Republic Services'). Column rules measured over the table y-extent after a vertical-optimal deskew (+0.2 deg): 10.59 / 19.71 / 54.21."
+    },
+    "17": {
+      "axis": "y",
+      "cell": [58.44, 70.65],
+      "cells": [[10.59, 58.44], [58.44, 70.65]],
+      "rows": [[16.77, 19.09], [19.09, 21.41], [21.41, 23.75], [23.75, 26.07], [26.07, 28.39], [28.39, 30.73], [30.73, 33.05], [33.05, 35.41], [35.41, 37.73], [37.73, 40.07], [40.07, 42.39], [42.39, 44.68], [44.68, 47.02], [47.02, 49.34], [49.34, 51.66], [51.66, 54.0], [54.0, 56.32], [56.32, 58.61], [58.61, 60.95], [60.95, 63.27], [63.27, 65.61], [65.61, 67.95], [67.95, 70.27]],
+      "measure_note": "p17 is the RIGHT HALF of the same Form A sheet (Address | Amount) and is where every contribution amount is printed, so all 21 contribution rows anchor here. Row bands are rowbands.py's own h_rules_pct for p17 (26 rules, pitch ~2.32%), header bottom at 16.77% taken as row 1's top; the band list is 1:1 with p16's. Column rules measured over the table y-extent after a vertical-optimal deskew (+0.2 deg): 10.59 / 58.44 / 70.65, so the Amount band is 58.44-70.65. Proved by 900 dpi --value crops: row 1 reproduces 9,058.05 and row 21 reproduces 250.00. Rows 22-23 are the sheet's printed blank rows."
+    }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "1/1/2020", "donor_raw": "Carry Over from 2019", "amount": "9058.05", "page": 17, "row": 1, "confidence": "medium", "in_kind": false, "note": "The filer entered no address here; the Address cell reads '(Personal JHH loan to campaign)' - a parenthetical annotation, not an address - so city/state are honestly blank (left empty by the FILER, not redacted by the county). Kept as the document reports it: a carry-over/officeholder-loan opening line entered on Form A." },
+    { "line_no": "2", "date": "1/22/2020", "donor_raw": "Lynn Wood", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 2, "confidence": "medium", "in_kind": false },
+    { "line_no": "3", "date": "1/26/2020", "donor_raw": "James H Harvey", "amount": "433.72", "page": 17, "row": 3, "confidence": "medium", "in_kind": false, "note": "Address cell reads '(Personal JHH loan to campaign)' - the candidate's own loan; no address printed, so city/state blank by the filer's own entry." },
+    { "line_no": "4", "date": "2/8/2020", "donor_raw": "David & Sharon Holmstrom", "donor_city": "Bloomfield", "donor_state": "CO", "amount": "500.00", "page": 17, "row": 4, "confidence": "medium", "in_kind": false },
+    { "line_no": "5", "date": "4/6/2020", "donor_raw": "James H Harvey", "amount": "2118.28", "page": 17, "row": 5, "confidence": "medium", "in_kind": false, "note": "Address cell reads '(Personal JHH loan to campaign)'; no address printed, so city/state blank by the filer's own entry." },
+    { "line_no": "6", "date": "4/22/2020", "donor_raw": "Lynn Wood", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 6, "confidence": "medium", "in_kind": false },
+    { "line_no": "7", "date": "6/16/2020", "donor_raw": "NWAOR", "donor_city": "Ogden", "donor_state": "UT", "amount": "2500.00", "page": 17, "row": 7, "confidence": "medium", "in_kind": false },
+    { "line_no": "8", "date": "7/29/2020", "donor_raw": "The Stephens Companies", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 8, "confidence": "medium", "in_kind": false },
+    { "line_no": "9", "date": "8/3/2020", "donor_raw": "Weber County Republican Party", "donor_city": "No Ogden", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 9, "confidence": "medium", "in_kind": false, "note": "City kept verbatim as the filer abbreviated it ('No Ogden' = North Ogden); not expanded." },
+    { "line_no": "10", "date": "8/21/2020", "donor_raw": "Bar M Land & Livestock LLC", "donor_city": "Ogden", "donor_state": "UT", "amount": "1500.00", "page": 17, "row": 10, "confidence": "medium", "in_kind": false },
+    { "line_no": "11", "date": "8/28/2020", "donor_raw": "John & Melissa Lewis", "donor_city": "Eden", "donor_state": "UT", "amount": "5000.00", "page": 17, "row": 11, "confidence": "medium", "in_kind": false },
+    { "line_no": "12", "date": "9/15/2020", "donor_raw": "The Paragon Group Inc", "donor_city": "Ogden", "donor_state": "UT", "amount": "100.00", "page": 17, "row": 12, "confidence": "medium", "in_kind": false },
+    { "line_no": "13", "date": "9/15/2020", "donor_raw": "Lock It Up Self Storage LC", "donor_city": "Ogden", "donor_state": "UT", "amount": "100.00", "page": 17, "row": 13, "confidence": "medium", "in_kind": false },
+    { "line_no": "14", "date": "9/15/2020", "donor_raw": "Northern Wasatch Investments LC", "donor_city": "Ogden", "donor_state": "UT", "amount": "100.00", "page": 17, "row": 14, "confidence": "medium", "in_kind": false },
+    { "line_no": "15", "date": "9/15/2020", "donor_raw": "Lock It Up Self Storage LC", "donor_city": "Ogden", "donor_state": "UT", "amount": "100.00", "page": 17, "row": 15, "confidence": "medium", "in_kind": false, "note": "The same donor name and the same address as line 13, entered twice on the same date - retained verbatim, not merged." },
+    { "line_no": "16", "date": "9/22/2020", "donor_raw": "David G Buxton", "donor_city": "Roy", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 16, "confidence": "medium", "in_kind": false },
+    { "line_no": "17", "date": "9/26/2020", "donor_raw": "Scott Wayment", "donor_city": "Ogden", "donor_state": "UT", "amount": "100.00", "page": 17, "row": 17, "confidence": "medium", "in_kind": false },
+    { "line_no": "18", "date": "10/1/2020", "donor_raw": "Nolan Karras", "donor_city": "Roy", "donor_state": "UT", "amount": "250.00", "page": 17, "row": 18, "confidence": "medium", "in_kind": false },
+    { "line_no": "19", "date": "10/24/2020", "donor_raw": "Get Air Ink", "donor_city": "Roy", "donor_state": "UT", "amount": "500.00", "page": 17, "row": 19, "confidence": "medium", "in_kind": false },
+    { "line_no": "20", "date": "10/26/2020", "donor_raw": "NWHBA", "donor_city": "Ogden", "donor_state": "UT", "amount": "1000.00", "page": 17, "row": 20, "confidence": "medium", "in_kind": false },
+    { "line_no": "21", "date": "10/26/2020", "donor_raw": "Republic Services", "donor_city": "SLC", "donor_state": "UT", "amount": "250.00", "page": 17, "row": 21, "confidence": "medium", "in_kind": false, "note": "City kept verbatim as the filer abbreviated it ('SLC')." }
+  ],
+  "expenditures": [
+    { "line_no": "1", "date": "1/1/2020", "vendor_raw": "James H Harvey  ck 133", "purpose": "repay for parade candy", "amount": "321.99", "page": 15, "row": 1, "confidence": "medium", "in_kind": false },
+    { "line_no": "2", "date": "2/1/2020", "vendor_raw": "Weber County GOP  ck 137", "purpose": "Lincoln Day", "amount": "300.00", "page": 15, "row": 2, "confidence": "medium", "in_kind": false },
+    { "line_no": "3", "date": "2/15/2020", "vendor_raw": "Gather Inc  ck 138", "purpose": "No signature gathering ins.", "amount": "2000.00", "page": 15, "row": 3, "confidence": "medium", "in_kind": false },
+    { "line_no": "4", "date": "3/10/2020", "vendor_raw": "River Print  ck 139", "purpose": "Flyers", "amount": "875.59", "page": 15, "row": 4, "confidence": "medium", "in_kind": false },
+    { "line_no": "5", "date": "3/13/2020", "vendor_raw": "Weber Elections  ck 140", "purpose": "Filing Fee", "amount": "676.91", "page": 15, "row": 5, "confidence": "medium", "in_kind": false },
+    { "line_no": "6", "date": "3/14/2020", "vendor_raw": "USPS  ck 141", "purpose": "stamps", "amount": "550.00", "page": 15, "row": 6, "confidence": "medium", "in_kind": false },
+    { "line_no": "7", "date": "4/10/2020", "vendor_raw": "River Print  ck 142", "purpose": "postcard & mailing", "amount": "584.09", "page": 15, "row": 7, "confidence": "medium", "in_kind": false },
+    { "line_no": "8", "date": "4/15/2020", "vendor_raw": "JL Studios  venmo", "purpose": "re-election film", "amount": "1500.00", "page": 15, "row": 8, "confidence": "medium", "in_kind": false },
+    { "line_no": "9", "date": "8/26/2020", "vendor_raw": "Froerer & Miles  ck 143", "purpose": "legal", "amount": "623.00", "page": 15, "row": 9, "confidence": "medium", "in_kind": false },
+    { "line_no": "10", "date": "9/4/2020", "vendor_raw": "Wright Signs  visa", "purpose": "Vote Jim Harvey signs", "amount": "3552.12", "page": 15, "row": 10, "confidence": "medium", "in_kind": false },
+    { "line_no": "11", "date": "9/17/2020", "vendor_raw": "Boman & Kemp  visa", "purpose": "rebar for signs", "amount": "98.67", "page": 15, "row": 11, "confidence": "medium", "in_kind": false, "note": "The City cell on this row is the only lower-case one on the sheet ('ogden'); Form B's City column has no slot in the itemized schema, so it is recorded here rather than dropped silently." },
+    { "line_no": "12", "date": "10/16/2020", "vendor_raw": "Ogden Valley News  ck 144", "purpose": "advertising", "amount": "630.00", "page": 15, "row": 12, "confidence": "medium", "in_kind": false },
+    { "line_no": "13", "date": "11/1/2020", "vendor_raw": "Nut & Bolt Supply (visa)", "purpose": "sign supplies", "amount": "6.09", "page": 15, "row": 13, "confidence": "medium", "in_kind": false },
+    { "line_no": "14", "date": "11/1/2020", "vendor_raw": "KSL  ck #145", "purpose": "advertising", "amount": "1500.00", "page": 15, "row": 14, "confidence": "medium", "in_kind": false, "note": "Form B City cell reads 'SLC'." },
+    { "line_no": "15", "date": "11/1/2020", "vendor_raw": "Jim Harvey  ck #146", "purpose": "repay loan", "amount": "8000.00", "page": 15, "row": 15, "confidence": "medium", "in_kind": false }
+  ],
+  "notes": "James Harrison Harvey, Commission Seat C, 2020 cycle; 4 pages: p14 cover, p15 FORM B (expenditures), p16-17 FORM A (contributions). PAGE ORDER IS NOT FORM ORDER - Form B is bound before Form A. THE SOURCE PROPERTY THIS BRIEF DID NOT ANTICIPATE: **Form A is one wide sheet SPLIT ACROSS TWO SCANNED PAGES** - p16 holds only the Date and Name-of-Contributor columns (the right side runs off the sheet edge; the title crops mid-word at 'Form A: C'), and p17 holds only the Address and Amount columns (its title resumes 'ampaign Financial Report 2020 / d Report of Contributions'). The filer hand-numbered them '1 of 2' and '2 of 2' in the lower right. They are ONE table: 21 data rows plus 2 printed blank rows on each half, 1:1 aligned, and the alignment is corroborated by content (Lynn Wood at rows 2 and 6 against the same 2490 Wall Ave address; rows 12-15 four entities all at 895 Wall Ave, 100.00 each) as well as by the printed grid pitch. Every contribution row is anchored to p17 because that is where its AMOUNT is printed; p16's frame is carried for provenance only. Form B on p15 is a ROTATED LANDSCAPE sheet (axis 'x'). PRIVACY: p17's column is headed 'Address' and prints full donor STREET addresses - only city and state are carried here, never the street, per PRIVACY.md; where the filer wrote a parenthetical instead of an address, city/state are blank because the FILER left them empty, not because the county redacted anything (no redaction bars on this filing). Form B has a City column that the itemized schema has no slot for; the two non-Ogden/odd values are noted on their rows. The cover's own two filer errors are already recorded in the stated-totals cache and are unchanged here: the 'October 20 - Oct 27' box is ticked although the clerk RECEIVED stamp is JAN 05 2021 (this is the January final report), and the candidate signature is dated '5 Jan 2020' / '1/5/20', a year typo for 2021. Officeholder-account caveat: the cover's 'Totals from Last Report' column is EMPTY on all three lines, so this report is not opened from a prior cycle and both schedules are whole-cycle, which is why both sides are 'exact' rather than 'period-exact'."
+}]

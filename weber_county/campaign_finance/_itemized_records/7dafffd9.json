@@ -1,0 +1,862 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_43ba38c9.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "7dafffd9",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "2",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "cover 'Campaign Financial Summary' line 1 Total Contributions, THIS REPORT cell, handwritten '38475.00' (the Last Report cell is EMPTY and the Cumulative Total cell repeats 38475.00)",
+    "detail": "25 contribution rows sum to 38,375.00 against the filer's handwritten cover figure of 38,475.00 - a FILER delta of -100.00, retained verbatim and never nudged. Traced as far as the document allows: the schedule prints no total of its own (2026 form variant), so the cover cell is the only anchor; every one of the 25 amounts was re-read off a 700 dpi crop of the whole amount column and again at 900 dpi for the first and last rows, and the column is machine-typed and unambiguous (5,000 / 2,500 / 2,500 / 500 / 100 / 100 / 500 / 200 / 25 / 50 / 100 / 250 / 100 / 200 / 200 / 100 / 300 / 50 / 500 / 250 / 3,750 / 500 / 500 / 20,000 / 100). The printed grid has exactly 25 data bands and all 25 are filled, so no row is missing. CORROBORATION (not an anchor - no figure here is synthesized across filings): the 2026-08-01 totals tranche recorded that this same filer's NEXT report, in May, carries 38,375.00 - the row sum, not 38,475.00 - in its own Last-Report column, i.e. the filer himself later used the schedule's figure. The cover's own cross-arithmetic uses 38,475.00 (38,475.00 - 12,994.49 = 25,480.51 = the printed Ending Balance), which is why the delta is reported against it rather than resolved away. Both in-kind conventions tested: no row on this schedule is labelled in-kind, so they give the same 38,375.00."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "cover 'Campaign Financial Summary' line 2 Total Campaign Expenditures - This Report AND Cumulative Total both handwritten 12994.49 (Last Report empty)",
+    "detail": "22 expenditure rows sum to 12,994.49 exactly - to the cent - against the cover's line-2 figure, which the filer wrote identically in the This-Report and Cumulative columns (this is a first report of the cycle: the Last-Report column is blank, so period and cumulative scope coincide and `exact` is the right verdict). The schedule prints no total of its own. The printed grid has 23 data bands; 22 carry entries and the 23rd is blank, which is an independent row-count gate on the transcription."
+   }
+  },
+  "escalations": 7,
+  "escalation_note": "7 crops. Two 700 dpi --value strips of the entire amount column (p3 contributions, p2 expenditures) to re-read every figure against the cover; then five 900 dpi tight --value cell crops for the geometry proof: p3 row 1 ('5,000.00') and row 25 ('100.00'), p2 row 1 ('50.00') and row 22 ('5.35'), plus p2 band 23 which came back EMPTY and so confirmed the sheet's last band is an unused row rather than a dropped entry.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     68.74,
+     79.29
+    ],
+    "cells": [
+     [
+      7.68,
+      19.79
+     ],
+     [
+      19.79,
+      50.94
+     ],
+     [
+      50.94,
+      68.74
+     ],
+     [
+      68.74,
+      79.29
+     ]
+    ],
+    "rows": [
+     [
+      7.68,
+      9.59
+     ],
+     [
+      9.59,
+      11.45
+     ],
+     [
+      11.45,
+      13.36
+     ],
+     [
+      13.36,
+      15.27
+     ],
+     [
+      15.27,
+      17.16
+     ],
+     [
+      17.16,
+      19.05
+     ],
+     [
+      19.05,
+      20.95
+     ],
+     [
+      20.95,
+      22.84
+     ],
+     [
+      22.84,
+      24.73
+     ],
+     [
+      24.73,
+      26.64
+     ],
+     [
+      26.64,
+      28.55
+     ],
+     [
+      28.55,
+      30.43
+     ],
+     [
+      30.43,
+      32.32
+     ],
+     [
+      32.32,
+      34.23
+     ],
+     [
+      34.23,
+      36.14
+     ],
+     [
+      36.14,
+      38.05
+     ],
+     [
+      38.05,
+      39.95
+     ],
+     [
+      39.95,
+      41.82
+     ],
+     [
+      41.82,
+      43.73
+     ],
+     [
+      43.73,
+      45.61
+     ],
+     [
+      45.61,
+      47.5
+     ],
+     [
+      47.5,
+      49.41
+     ],
+     [
+      49.41,
+      51.3
+     ],
+     [
+      51.3,
+      53.18
+     ],
+     [
+      53.18,
+      55.07
+     ]
+    ],
+    "measure_note": "UNROTATED PORTRAIT sheet (2026 form variant - a printed spreadsheet), so axis 'y': row bands are the HORIZONTAL rules and the amount column is a pair of VERTICAL rules. Horizontal rules over x=6-60 pct at 60% coverage come out as a clean regular ladder, 26 rules from 7.68 to 55.07 at a constant 1.86-1.91 pct pitch, giving exactly 25 data bands for the sheet's 25 printed rows - an independent row-count gate. This table has NO header row (the word 'Contributions' sits above the table, outside the grid), so band 1 IS data row 1 and nothing needed trimming; row N resolves to rows[N-1]. Vertical rules over the table's y-window at 35% coverage: 7.68 / 19.79 / 50.94 / 68.74 / 79.29 = Date | Name of Contributor | City,State | Amount; `cell` is the AMOUNT band [68.74,79.29], confirmed by cropping the whole band and getting the figure column. INDEXING PROOF (addendum A3): pct:68.74,7.68,10.55,1.91@p3 renders '5,000.00' = row 1's recorded amount and pct:68.74,53.18,10.55,1.89@p3 renders '100.00' = row 25's (the last transcribed row) recorded amount."
+   },
+   "2": {
+    "axis": "y",
+    "cell": [
+     77.35,
+     87.85
+    ],
+    "cells": [
+     [
+      7.62,
+      18.26
+     ],
+     [
+      18.26,
+      48.97
+     ],
+     [
+      48.97,
+      62.15
+     ],
+     [
+      62.15,
+      77.35
+     ],
+     [
+      77.35,
+      87.85
+     ]
+    ],
+    "rows": [
+     [
+      7.5,
+      9.36
+     ],
+     [
+      9.36,
+      11.27
+     ],
+     [
+      11.27,
+      13.14
+     ],
+     [
+      13.14,
+      15.05
+     ],
+     [
+      15.05,
+      16.95
+     ],
+     [
+      16.95,
+      18.86
+     ],
+     [
+      18.86,
+      20.73
+     ],
+     [
+      20.73,
+      22.64
+     ],
+     [
+      22.64,
+      24.55
+     ],
+     [
+      24.55,
+      26.41
+     ],
+     [
+      26.41,
+      28.32
+     ],
+     [
+      28.32,
+      30.23
+     ],
+     [
+      30.23,
+      32.14
+     ],
+     [
+      32.14,
+      34.02
+     ],
+     [
+      34.02,
+      35.91
+     ],
+     [
+      35.91,
+      37.82
+     ],
+     [
+      37.82,
+      39.7
+     ],
+     [
+      39.7,
+      41.59
+     ],
+     [
+      41.59,
+      43.5
+     ],
+     [
+      43.5,
+      45.36
+     ],
+     [
+      45.36,
+      47.27
+     ],
+     [
+      47.27,
+      49.18
+     ],
+     [
+      49.18,
+      51.07
+     ]
+    ],
+    "measure_note": "Same unrotated portrait geometry, axis 'y'. Horizontal rules over x=6-60 pct at 60% coverage: 24 rules from 7.5 to 51.07, constant 1.86-1.91 pct pitch = 23 data bands; the sheet has 22 filled rows and one empty band at the end (band 23), proved by cropping it. No header row here either, so band 1 is data row 1. Vertical rules at 35% coverage: 7.62 / 18.26 / 48.97 / 62.15 / 77.35 / 87.85 = Date | Person/Organization | Purpose | City | Amount - NOTE the column order differs from the other 2026 filing in this chunk (Hatch, key 69e6bd8e, prints City BEFORE Purpose), because these 2026 schedules are the filers' own spreadsheets rather than a county-printed grid. `cell` is the AMOUNT band [77.35,87.85]. INDEXING PROOF (addendum A3): pct:77.35,7.50,10.50,1.86@p2 renders '50.00' = row 1's recorded amount and pct:77.35,47.27,10.50,1.91@p2 renders '5.35' = row 22's (the last transcribed row) recorded amount; the crop of band 23 renders an empty cell, which is what caught an initial off-by-one and confirms the trim."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/12/26",
+    "donor_raw": "Dave Wadman",
+    "donor_city": "Liberty",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "1/16/26",
+    "donor_raw": "Northern Wasatch Assoc of Realtors",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "1/20/26",
+    "donor_raw": "Lyric Development LLC",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "1/22/26",
+    "donor_raw": "Julie Peterson",
+    "donor_city": "Davenport",
+    "donor_state": "FL",
+    "amount": "500.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "1/22/26",
+    "donor_raw": "Kay Greaves",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "1/28/26",
+    "donor_raw": "Ann Goodspeed",
+    "donor_city": "Moab",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "1/28/26",
+    "donor_raw": "Jon Greiner",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "1/31/26",
+    "donor_raw": "Craig Hyer",
+    "donor_city": "Farr West",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "2/5/26",
+    "donor_raw": "John Harris",
+    "donor_city": "Farr West",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Under $50; the 2026 form has no <=$50 aggregate line, so the filer itemized it."
+   },
+   {
+    "line_no": "10",
+    "date": "2/7/26",
+    "donor_raw": "Bonnie Hyer",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "11",
+    "date": "2/7/26",
+    "donor_raw": "Marlene Langford",
+    "donor_city": "Hooper",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "2/7/26",
+    "donor_raw": "Karen Peterson Campaign",
+    "donor_city": "Clinton",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "A transfer from another candidate's campaign committee, as the filer named it."
+   },
+   {
+    "line_no": "13",
+    "date": "2/7/26",
+    "donor_raw": "Debbie Langford",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "2/7/26",
+    "donor_raw": "Bret Langford",
+    "donor_city": "Brigham",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City written 'Brigham' (Brigham City); kept verbatim."
+   },
+   {
+    "line_no": "15",
+    "date": "2/9/26",
+    "donor_raw": "Mike Gailey",
+    "donor_city": "Syracuse",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 3,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "16",
+    "date": "2/14/26",
+    "donor_raw": "Craig Bradford",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "17",
+    "date": "2/25/26",
+    "donor_raw": "Tim Hahn",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 3,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "2/27/26",
+    "donor_raw": "Bonnie Hyer",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "19",
+    "date": "3/15/26",
+    "donor_raw": "Kathy Smith",
+    "donor_city": "St. George",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "3/17/26",
+    "donor_raw": "Ken Richey",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 3,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "21",
+    "date": "3/26/26",
+    "donor_raw": "Murphy Door Inc.",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "3750.00",
+    "page": 3,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "3/30/26",
+    "donor_raw": "Spencer Stevens",
+    "donor_city": "N. Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "3/30/26",
+    "donor_raw": "Mike Slater",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "3/31/26",
+    "donor_raw": "Rich Hyer. Loan",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20000.00",
+    "page": 3,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The candidate's own loan to the campaign, labelled as such by the filer in the name cell; kept verbatim including the stray period."
+   },
+   {
+    "line_no": "25",
+    "date": "4/1/26",
+    "donor_raw": "S. Neal Berube",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "10/21/25",
+    "vendor_raw": "Slackwater Pizza",
+    "purpose": "Luncheon",
+    "amount": "50.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "2",
+    "date": "1/5/26",
+    "vendor_raw": "Weber County Elections",
+    "purpose": "Filing Fee",
+    "amount": "931.39",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "3",
+    "date": "1/16/26",
+    "vendor_raw": "State Of Utah",
+    "purpose": "Corp Fee",
+    "amount": "22.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Salt Lake City, Ut."
+   },
+   {
+    "line_no": "4",
+    "date": "1/24/26",
+    "vendor_raw": "Theodor Berger",
+    "purpose": "Consulting",
+    "amount": "2000.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "5",
+    "date": "2/4/26",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Domain",
+    "amount": "38.57",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "6",
+    "date": "2/4/26",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Domain",
+    "amount": "38.54",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "7",
+    "date": "2/5/26",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Domain",
+    "amount": "142.47",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "8",
+    "date": "2/5/26",
+    "vendor_raw": "Theodor Berger",
+    "purpose": "Consulting",
+    "amount": "2000.00",
+    "page": 2,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "9",
+    "date": "2/17/26",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Domain",
+    "amount": "192.92",
+    "page": 2,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "10",
+    "date": "2/17/26",
+    "vendor_raw": "River Print",
+    "purpose": "signs",
+    "amount": "671.43",
+    "page": 2,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "11",
+    "date": "2/18/26",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Website",
+    "amount": "623.94",
+    "page": 2,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "12",
+    "date": "2/21/26",
+    "vendor_raw": "Bulk Apothecary",
+    "purpose": "Marketing",
+    "amount": "193.18",
+    "page": 2,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Aurora, Ohio."
+   },
+   {
+    "line_no": "13",
+    "date": "2/21/26",
+    "vendor_raw": "Bulk Apothecary",
+    "purpose": "Marketing",
+    "amount": "100.96",
+    "page": 2,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Aurora, Ohio."
+   },
+   {
+    "line_no": "14",
+    "date": "3/2/26",
+    "vendor_raw": "Theodor Berger",
+    "purpose": "Consulting",
+    "amount": "2095.20",
+    "page": 2,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "15",
+    "date": "3/9/26",
+    "vendor_raw": "Credit processing fee",
+    "purpose": "Fee",
+    "amount": "1.70",
+    "page": 2,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "16",
+    "date": "3/10/26",
+    "vendor_raw": "Nielsen's Frozen Custard",
+    "purpose": "Luncheon",
+    "amount": "16.53",
+    "page": 2,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: N. Ogden, Ut."
+   },
+   {
+    "line_no": "17",
+    "date": "3/16/26",
+    "vendor_raw": "Weber County Republican party",
+    "purpose": "Table",
+    "amount": "3000.00",
+    "page": 2,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "18",
+    "date": "3/23/26",
+    "vendor_raw": "Google Snap Chat",
+    "purpose": "Marketing",
+    "amount": "5.35",
+    "page": 2,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "19",
+    "date": "3/27/26",
+    "vendor_raw": "Constitiution Stud",
+    "purpose": "Marketing",
+    "amount": "245.55",
+    "page": 2,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. Vendor name kept verbatim including the filer's spelling; no expansion inferred. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "20",
+    "date": "3/30/26",
+    "vendor_raw": "River Print",
+    "purpose": "Marketing",
+    "amount": "596.45",
+    "page": 2,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden, Utah."
+   },
+   {
+    "line_no": "21",
+    "date": "3/30/26",
+    "vendor_raw": "Online Label",
+    "purpose": "Marketing",
+    "amount": "22.96",
+    "page": 2,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   },
+   {
+    "line_no": "22",
+    "date": "4/1/26",
+    "vendor_raw": "Google snap chat",
+    "purpose": "Marketing",
+    "amount": "5.35",
+    "page": 2,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Internet. 'Internet' is what the filer wrote in the City column for online vendors - not a redaction and not an omission."
+   }
+  ],
+  "notes": "Richard Hyer, 2026 cycle, '7 days before the candidates' convention - Convention' report, signed 4-2-2026. HANDWRITTEN cover over the new 2026 form variant, with MACHINE-TYPED spreadsheet schedules. PAGE ORDER IS REVERSED relative to the form's own naming: p2 is the EXPENDITURES sheet and p3 the CONTRIBUTIONS sheet, and each is a plain typed table headed only by the word 'Expenditures' / 'Contributions' - neither carries a Form A / Form B banner and neither prints a schedule total. Page position is therefore not a classifier here; each sheet was classified from its own printed heading and column set. COUNTY OVER-REDACTION: the black bar over the Street Address / City,Zip block extends across the Home/Office Phone and the NAME OF OFFICE line, so the office this candidate sought is not recoverable from this copy - a publisher redaction, not a filer omission and not an unread field; nothing behind it is reconstructed. The schedules carry CITY AND STATE only (no street addresses), so nothing had to be withheld from the rows for privacy. The cover's line-1 This-Report figure (38,475.00) is 100.00 above the sum of the filer's own 25 itemized rows (38,375.00) - retained as a delta, see recon. One donor row is the candidate's own 20,000.00 loan and one is a transfer from another candidate's campaign committee ('Karen Peterson Campaign'). For online vendors the filer wrote 'Internet' in the City column; that is the document's own value, not a gap."
+ }
+]

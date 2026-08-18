@@ -1,99 +1,585 @@
 {
-  "_meta": {
-    "index_path": "raw/2018/2018_Financial-Campaign-Report--Scott-Sweat.pdf",
-    "cache_key": "2322e95a",
-    "entity": "wasatch_county",
-    "election_year": "2018",
-    "reporting_period_index": "2018 cycle (as published by the county)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "total_contributions",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Scott H Sweat",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2018/2018_Financial-Campaign-Report--Scott-Sweat.pdf",
+  "cache_key": "2322e95a",
+  "entity": "wasatch_county",
+  "election_year": "2018",
+  "reporting_period_index": "2018 cycle (as published by the county)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "total_contributions",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_02_2018.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "6319.20",
+     "itemized": "6319.20",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (6319.20 = 6319.20, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "6319.20",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Attorney",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "7/18/18",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": []
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "6319.20",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "6319.20",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "6319.20",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "6319.20",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "6319.20",
+     "itemized": "6319.20",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (6319.20 = 6319.20, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "6319.20",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "no per-page subtotal; both sides close exactly on the cover",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 19,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 25,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "TYPED, not handwritten - this filer filled the county's Word template, so the ledger is machine-legible on the page although the retained PDF's own text layer is an OCR. One malformed amount of interest: the Walmart row prints '.71' with no leading zero, transcribed 0.71 as printed. One date is written '2-7/18' with mixed separators; every other row on the sheet is m/d/yy, so it is read as 2018-02-07 at medium confidence with the verbatim kept here."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Scott H Sweat",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed figures. The filer used LAST REPORT + CUMULATIVE and left THIS REPORT blank. No reporting-period box is marked on the face; a clerk stamp dated 7/26/18 appears at the foot."
+  "office_verbatim": {
+   "value": "Wasatch County Attorney",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "7/18/18",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": []
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "6319.20",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "6319.20",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "6319.20",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "6319.20",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed figures. The filer used LAST REPORT + CUMULATIVE and left THIS REPORT blank. No reporting-period box is marked on the face; a clerk stamp dated 7/26/18 appears at the foot.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2018-06-08",
+   "donor_raw": "Paul Sweat",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "street discarded per PRIVACY",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2018-05-29",
+   "donor_raw": "Duane Sweat",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2018-05-27",
+   "donor_raw": "Larry Ward",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2018-07-18",
+   "donor_raw": "Diane Strand",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2018-04-10",
+   "donor_raw": "Dave Phillips",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,27.20,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2018-02-07",
+   "donor_raw": "Scott Sweat",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "3019.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 0,
+   "note": "candidate self-funding; date printed '2-7/18' with mixed separators",
+   "geometry": "pct:10.00,29.25,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2018-06-08",
+   "vendor_raw": "USPS mailer postage",
+   "purpose": "",
+   "amount": "1915.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2018-06-08",
+   "vendor_raw": "Identity Signs",
+   "purpose": "banners",
+   "amount": "850.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2018-06-12",
+   "vendor_raw": "Wave",
+   "purpose": "mailer & ads",
+   "amount": "1786.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2018-06-07",
+   "vendor_raw": "Texas Roadhouse",
+   "purpose": "thank you",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2018-05-29",
+   "vendor_raw": "UPS",
+   "purpose": "Copies",
+   "amount": "12.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2018-05-30",
+   "vendor_raw": "USPS",
+   "purpose": "POSTAGE",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,26.00,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 6,
+   "date": "2018-05-21",
+   "vendor_raw": "Identity Signs",
+   "purpose": "stickers",
+   "amount": "330.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 7,
+   "date": "2018-05-21",
+   "vendor_raw": "Walmart",
+   "purpose": "postage",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,30.20,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 8,
+   "date": "2018-05-04",
+   "vendor_raw": "Walmart",
+   "purpose": "office supplies",
+   "amount": "21.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 3,
+   "row_i": 9,
+   "date": "2018-04-30",
+   "vendor_raw": "Spin Café",
+   "purpose": "consulting",
+   "amount": "85.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,34.40,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 3,
+   "row_i": 10,
+   "date": "2018-03-20",
+   "vendor_raw": "Wasatch GOP",
+   "purpose": "table fee",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,36.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 3,
+   "row_i": 11,
+   "date": "2018-03-19",
+   "vendor_raw": "Wave Printing",
+   "purpose": "flyers",
+   "amount": "329.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,38.60,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 13,
+   "page": 3,
+   "row_i": 12,
+   "date": "2018-03-20",
+   "vendor_raw": "Walmart",
+   "purpose": "",
+   "amount": "0.71",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 0,
+   "note": "amount printed '.71' with no leading zero",
+   "geometry": "pct:10.00,40.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 14,
+   "page": 3,
+   "row_i": 13,
+   "date": "2018-03-06",
+   "vendor_raw": "Staples",
+   "purpose": "",
+   "amount": "16.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,42.80,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 15,
+   "page": 3,
+   "row_i": 14,
+   "date": "2018-03-05",
+   "vendor_raw": "Wasatch County",
+   "purpose": "filing fee",
+   "amount": "588.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed 'Wasatch' as 'Wasatch County (filing fee)'; the sheet spells it 'Wasatch'",
+   "geometry": "pct:10.00,44.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 16,
+   "page": 3,
+   "row_i": 15,
+   "date": "2018-03-03",
+   "vendor_raw": "UPS",
+   "purpose": "",
+   "amount": "2.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,47.00,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 17,
+   "page": 3,
+   "row_i": 16,
+   "date": "2018-02-08",
+   "vendor_raw": "UPS",
+   "purpose": "",
+   "amount": "2.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,49.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 18,
+   "page": 3,
+   "row_i": 17,
+   "date": "2018-03-22",
+   "vendor_raw": "Wave Printing",
+   "purpose": "letters",
+   "amount": "81.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,51.20,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 19,
+   "page": 3,
+   "row_i": 18,
+   "date": "2018-03-19",
+   "vendor_raw": "Amazon",
+   "purpose": "envelopes",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:10.00,53.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

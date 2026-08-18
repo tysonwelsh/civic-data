@@ -1,114 +1,357 @@
 {
-  "_meta": {
-    "index_path": "raw/2010/2010_Scott-Sweat-6-15-10.pdf",
-    "cache_key": "01be9386",
-    "entity": "wasatch_county",
-    "election_year": "2010",
-    "reporting_period_index": "June 2010 (pre-primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Scott H Sweat",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2010/2010_Scott-Sweat-6-15-10.pdf",
+  "cache_key": "01be9386",
+  "entity": "wasatch_county",
+  "election_year": "2010",
+  "reporting_period_index": "June 2010 (pre-primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_01_2010.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "340.00",
+     "itemized": "340.00",
+     "result": "exact",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "exact (340.00 = 340.00, cover line 1 (>$50, from form A), CUMULATIVE column) NOTE: against the PUBLISHED stated total of 590.00 this reads as a -250.00 difference, because the published figure adds cover line 2 - the AGGREGATE of contributions of $50 or less, which this form deliberately does not itemize. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "590.00",
+     "csv_reconciles": "False",
+     "csv_delta": "-250.00"
     },
-    "office_verbatim": {
-      "value": "County Attorney",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "County",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Heber",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Brent Titcomb, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/15/10",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "340.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "340.00",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "250.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "250.",
-        "confidence": "medium"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "2063.18",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2063.18",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "-1473.18",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "1473.18",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2063.18",
+     "itemized": "2063.18",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (2063.18 = 2063.18, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "2063.18",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Form B carries a filer-written page figure 1,723.18 at the foot: rows 1-9 sum to exactly 1723.18 - GATE PASSES; all ten rows sum to exactly the cover's 2063.18 - COVER GATE PASSES",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 10,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten. Form A's single amount is written '340.-' (trailing dash after whole dollars = no cents) -> 340.00, and the cover's line-1 cell prints 340.00, confirming it. Form B row 5's Purpose has 'Printing' STRUCK OUT and replaced with 'Political Advertizing' (filer's spelling kept); the surviving value is transcribed. Row 7's date digits and row 9's vendor are written over earlier text; both kept as the value that survives."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Scott H Sweat",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The line-2 CUMULATIVE cell is written '250.' with a trailing strike. The balance is printed '-1473.18' in THIS REPORT but '1473.18' (no minus) in CUMULATIVE \u2014 both verbatim."
+  "office_verbatim": {
+   "value": "County Attorney",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "County",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Heber",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Brent Titcomb, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/15/10",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "340.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "340.00",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "250.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "250.",
+    "confidence": "medium"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "2063.18",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2063.18",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "-1473.18",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "1473.18",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The line-2 CUMULATIVE cell is written '250.' with a trailing strike. The balance is printed '-1473.18' in THIS REPORT but '1473.18' (no minus) in CUMULATIVE — both verbatim.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2010-06-02",
+   "donor_raw": "Silver Eagle Feed & Fuel",
+   "donor_city": "Heber",
+   "donor_state": "",
+   "amount": "340.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "amount written '340.-' (trailing dash = no cents); street discarded per PRIVACY, city 'Heber' kept as printed",
+   "geometry": "pct:6.00,9.30,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2010-03-22",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Printing",
+   "amount": "73.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,7.90,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2010-03-26",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Printing",
+   "amount": "77.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,10.18,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2010-03-17",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Printing",
+   "amount": "33.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed out of date order (3/17 after 3/26) - kept as filed",
+   "geometry": "pct:6.00,12.46,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2010-05-20",
+   "vendor_raw": "Wasatch County",
+   "purpose": "List",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,14.74,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2010-05-21",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Political Advertizing",
+   "amount": "635.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose cell has 'Printing' struck out and 'Political Advertizing' written after it; the surviving value transcribed, filer's spelling kept",
+   "geometry": "pct:6.00,17.02,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2010-05-21",
+   "vendor_raw": "Midway Printing",
+   "purpose": "Printing",
+   "amount": "61.09",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,19.30,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 6,
+   "date": "2010-05-28",
+   "vendor_raw": "Identity Signs & Designs",
+   "purpose": "Signs",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 0,
+   "note": "day digits written over an earlier value; reads 28",
+   "geometry": "pct:6.00,21.58,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 7,
+   "date": "2010-05-26",
+   "vendor_raw": "Identity Signs & Designs",
+   "purpose": "Banners",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,23.86,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 8,
+   "date": "2010-06-10",
+   "vendor_raw": "Midway Printing",
+   "purpose": "Printing",
+   "amount": "37.19",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 0,
+   "note": "vendor cell written over earlier text; 'Midway Printing' is the value that survives",
+   "geometry": "pct:6.00,26.14,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 3,
+   "row_i": 9,
+   "date": "2010-06-02",
+   "vendor_raw": "Wave Publishing",
+   "purpose": "Political Advertizing",
+   "amount": "340.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "this row falls OUTSIDE the filer's own 1,723.18 page figure and inside the cover's 2,063.18 - added after the page was subtotalled",
+   "geometry": "pct:6.00,28.42,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

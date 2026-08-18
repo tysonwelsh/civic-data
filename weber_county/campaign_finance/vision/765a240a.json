@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:11:00Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Brian Keith Rowley",
  "office_stated": "County Commission Seat C",
  "report_type_stated": "",
@@ -44,5 +44,64 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "HANDWRITTEN. NO report-type box is checked (honest blank) - the form's printed 'June 18' line overlaps its checkbox on this scan but carries no mark. County-redacted address."
+ "notes": "HANDWRITTEN. NO report-type box is checked (honest blank) - the form's printed 'June 18' line overlaps its checkbox on this scan but carries no mark. County-redacted address.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "9/14/24",
+   "donor_raw": "Kevin Bryan",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "15.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:14.06,5.20,3.26,10.62@p80",
+   "geometry_frame": "p80 axis=x cell=5.20-15.82 rowband=14.06-17.32 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "HANDWRITTEN row. The amount is written '15.' with the cents as a superscript '00' - read as 15.00 and confirmed at 900 dpi. The Address cell holds a street address which is deliberately NOT carried (PRIVACY.md: donor city/state only); the city and state written here are the filer's own, from that same cell. Two-digit year kept verbatim as the filer wrote it."
+  }
+ ],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    79,
+    80,
+    81
+   ],
+   "itemized_pages_A": "80",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 15.00, equal to the cover's CUMULATIVE line-1 cell (15.00)",
+     "detail": "The single Form A row (Kevin Bryan, 9/14/24, 15.00) sums to 15.00 = the schedule's printed total = the cover's Cumulative Totals cell. The cover's 'Totals for This Report' line-1 cell is a slashed-zero glyph, and 'Totals from Last Report' is 15.00 - i.e. this Form A restates the whole cycle rather than the period, which is why the verdict is exact and not period-exact. The row's own date (9/14/24) falls before this report's Oct 4-23 window, consistent with that reading."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "the cover's line-2 'Total Campaign Expenditures' cells, all three of which carry a slashed-zero glyph (Last Report 0, This Report 0, Cumulative 0)",
+     "detail": "Zero rows against a cumulative of 0. Form B (p81) was filed and is a completely BLANK printed grid: no date, payee, city, purpose or amount anywhere in its 23 row bands. Its own 'Total Expenditures: (to line 2 of report)' cell carries only a tiny bare tick/dash, which under the zero-glyph ruling is a nil mark and NOT a numeral, so the anchor used is the cover's zero-glyph line-2 cell."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "900 dpi --value crops on p80: the row-1 amount cell (reproduces the handwritten '15. 00' with superscript cents), the row-1 date cell ('9/14/24'), and the row-1 name cell ('Kevin Bryan'); plus 700 dpi crops of both schedules' printed grand-total cells - p80's reads 15.00, p81's holds only a bare tick. Nothing was bistable; every escalation confirmed a handwritten read or proved a band.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "HANDWRITTEN 2024 filing, three pages: p79 cover, p80 FORM A (one entry), p81 FORM B (filed but entirely BLANK - an empty-schedule, not a missing page: the sheet exists, prints its full 23-row grid and its column headers, and carries no entry at all). NO report-type box is checked on the cover (an honest blank; the printed 'June 18' line overlaps its checkbox on this scan but carries no mark) - the signature date is 10/29/2024. The candidate's street address on p79 is BLACKED OUT BY THE COUNTY (a government-applied redaction, preserved, never recovered). The cover's zero cells are slashed-zero glyphs, which under the repo's zero-glyph ruling denote 0; the tick on Form B's total line is a bare nil mark and stays blank. No per-page SUBTOTAL is printed on either schedule."
+  }
+ }
 }

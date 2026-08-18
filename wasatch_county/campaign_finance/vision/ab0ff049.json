@@ -1,86 +1,331 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_DecJKaiserman.pdf",
-    "cache_key": "ab0ff049",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "December 2020 (30 days after General)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James C Kaiserman",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_DecJKaiserman.pdf",
+  "cache_key": "ab0ff049",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "December 2020 (30 days after General)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_05.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2798.10",
+     "itemized": "2798.10",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (2798.10 = 2798.10, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "2798.10",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "11-12-2020",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "30 Days after the General Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "2548.10",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2798.10",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2798.10",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2548.10",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2548.10",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "250.00",
-        "confidence": "medium"
-      }
+    "expenditures": {
+     "stated": "2548.10",
+     "itemized": "2548.10",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (2548.10 = 2548.10, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "2548.10",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "PRINTED-TOTAL GATE fires on BOTH schedules and both PASS. Form A: filer wrote '2798.10' under a rule at row slot 14; rows 2548.10 + 250.00 = 2798.10 -- GATE PASSES. Form B: filer wrote '2548.10' under the last row; 442.15 + 700.00 + 636.69 + 172.78 + 200.36 + 115.60 + 147.42 + 23.10 + 110.00 = 2548.10 -- GATE PASSES. Cover identity also closes (contributions 2548.10 + 2798.10 printed in the last/this columns is the filer's own odd column use, but the cumulative cell 2798.10 matches the schedule; expenses 0.00 + 2548.10 = 2548.10; balance 2798.10 - 2548.10 = 250.00 as printed).",
+   "escalations": 1,
+   "escalation_note": "p3 date column re-rendered as a 600 dpi crop (x=480 y=900 W=1000 H=1900) to settle the year token on rows 3-7, which read as '2o2o' at 200 dpi; all confirmed 2020",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 9,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime, degraded scan. James C. Kaiserman, 'Wasatch County Surveyor', Republican, dated 11-12-2020; BOTH the '7 Days preceding the Primary Election' box and the '30 Days after the General Election' box carry marks (the primary box has a light stray stroke, the general box a firm X) -- recorded, not resolved. Form A has an ABANDONED struck entry ('7-22-' crossed out) at row slot 1 above the first real row; it is not transcribed as a row. Form B row 9's address cell names 'J. Kaiserman' (the candidate, reimbursed for travel) rather than an outside vendor; street discarded per the privacy rule. Ditto marks in Form B rows 3-5 resolve upward to 'Signs' from row 2."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James C Kaiserman",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Faint marks also appear on the Primary and General boxes. The cumulative balance is handwritten and read as 250.00 at medium confidence (consistent with 2798.10 - 2548.10)."
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "11-12-2020",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "30 Days after the General Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "2548.10",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2798.10",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2798.10",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2548.10",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2548.10",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "250.00",
+    "confidence": "medium"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Faint marks also appear on the Primary and General boxes. The cumulative balance is handwritten and read as 250.00 at medium confidence (consistent with 2798.10 - 2548.10).",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 2,
+   "date": "",
+   "donor_raw": "James Kaiserman",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "2548.10",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 0,
+   "note": "DATE IS A RANGE, printed verbatim '3-13 to 10/24/2020' -- blank per the date rule, not resolved to either endpoint. The entry is spread down the page: date on row slot 2, name+address on slot 4, amount on slot 6; row_i is the slot the entry STARTS on. Candidate self-funding. Amount gated by the filer's page total (2798.10 - 250.00).",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 8,
+   "date": "2020-11-02",
+   "donor_raw": "Wasatch County Republican Party",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 0,
+   "note": "date on row slot 8, name across slots 9-10, amount on slot 10. Address cell printed only 'Heber City, UT' (no street). Amount glyph is smudged; the page total 2798.10 and the cover balance (2798.10 - 2548.10 = 250.00) both close on exactly 250.00.",
+   "geometry": "pct:10.00,35.40,80.00,2.05@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-13",
+   "vendor_raw": "Filing FEE",
+   "purpose": "",
+   "amount": "442.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "filer-numbered '1'. Payee column holds a purpose ('Filing FEE'); the address cell was 25 No. Main St, Heber City 84032 (the county) -- discarded. Amount reads '$4 4 2.15' with a cramped middle digit; the page total gate closes on 442.15, which is also the county filing fee seen on other 2020 Wasatch filings. Date re-read in the 600 dpi crop.",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-07-22",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "filer-numbered '2'. Payee column holds a purpose ('Signs'); address cell was a Murray, UT vendor -- discarded. Amount written '7oo.oo'; page-total gate closes on 700.00. Date re-read in the 600 dpi crop.",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 4,
+   "date": "2020-08-11",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "636.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "filer-numbered '3'. Both the name and address cells are DITTO marks resolving upward to row 2 ('Signs', same Murray UT vendor); ditto resolution noted, address discarded. Year token read '2o2o' at 200 dpi, confirmed 2020 in the 600 dpi crop.",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 6,
+   "date": "2020-08-12",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "172.78",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=high",
+   "verified": 1,
+   "note": "filer-numbered '4'. Ditto marks in the name and address cells resolve upward to row 2 ('Signs'). Date re-read in the 600 dpi crop.",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 8,
+   "date": "2020-09-24",
+   "vendor_raw": "Signs",
+   "purpose": "",
+   "amount": "200.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;amount=medium",
+   "verified": 1,
+   "note": "filer-numbered '5'. Ditto marks resolve upward to row 2 ('Signs'). Amount written '2oo.36'; page-total gate closes on 200.36.",
+   "geometry": "pct:10.00,32.30,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 10,
+   "date": "2020-08-10",
+   "vendor_raw": "LUMBER",
+   "purpose": "",
+   "amount": "115.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "filer-numbered '6'. Payee column holds a purpose ('LUMBER'); the address cell named 'Home Depot, PC, Utah 84060' -- vendor identified there rather than in the payee column, street/city discarded per the no-address rule for expenditures. Date re-read in the 600 dpi crop.",
+   "geometry": "pct:10.00,36.50,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 12,
+   "date": "2020-08-29",
+   "vendor_raw": "Ad in Wave",
+   "purpose": "",
+   "amount": "147.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=medium",
+   "verified": 1,
+   "note": "filer-numbered '7'. Payee column holds a purpose; address cell was 165 So 100 W, Heber City 84032 (the Wasatch Wave) -- discarded. Amount reads '147.42' with a cramped cents pair; the page-total gate closes on 147.42.",
+   "geometry": "pct:10.00,40.70,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 14,
+   "date": "2020-10-24",
+   "vendor_raw": "Lumber",
+   "purpose": "",
+   "amount": "23.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 1,
+   "note": "filer-numbered '8'. Address cell named 'Home Depot PC 84060' -- discarded.",
+   "geometry": "pct:10.00,44.90,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 16,
+   "date": "",
+   "vendor_raw": "Travel to Fix Signs",
+   "purpose": "",
+   "amount": "110.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 0,
+   "note": "filer-numbered '9'. DATE IS A RANGE, printed verbatim '7/22 to 10/31/2020' across two ruled lines -- blank per the date rule. The entry occupies slots 16-17. Payee column holds a purpose; the address column names 'J. Kaiserman' (the candidate reimbursing himself for travel), street discarded.",
+   "geometry": "pct:10.00,49.10,80.00,2.10@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

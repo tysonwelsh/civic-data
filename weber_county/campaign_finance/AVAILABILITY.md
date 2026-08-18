@@ -14,8 +14,11 @@ website once listed.**
 - **98 county-office filings**, **32 distinct county-office candidates**, cycles
   **2012 · 2014 · 2016 · 2018 · 2020 · 2022 · 2024 · 2026**.
 - **STATED-TOTALS LAYER BUILT 2026-08-01** — `filing_totals.csv`, one row per
-  county-office filing, **98/98 with a stated cumulative contribution total**
-  (see §7). Itemized donor/vendor rows remain deliberately untranscribed.
+  county-office filing, **98/98 with a stated cumulative contribution total** (see §7).
+- **ITEMIZED LAYER COMPLETE — QUEUE CLOSED 2026-08-18.** All **98 of 98** county-office
+  filings carry donor/vendor rows (**1,360 contributions + 1,256 expenditures**, 100%
+  `pct:`-geometry-anchored, zero sides withheld). Read the **"QUEUE CLOSED 2026-08-18"**
+  section at the end of this file before quoting any itemized figure.
 
 ---
 
@@ -399,3 +402,483 @@ is an attribution-layer decision for the coordinator, not this tranche's to make
 - **New filings need attribution added to `filing_attribution.csv`** (read from the
   document, never from the portal label) — `build_index.py` will otherwise emit a
   `filing_grain=document` row with `needs_review=1`, which is the intended loud default.
+
+---
+
+## 9. The itemization wave — RESUMED AND AUDITED 2026-08-17 (Tranche 3 Phase B, weber wave B2)
+
+> **SUPERSEDED 2026-08-18 — the queue is now CLOSED (93 of 93 scans; 98 of 98 filings) and
+> the 18 withdrawn geometry frames have been RE-MEASURED and proved (100% coverage).** This
+> dated section is left VERBATIM as the record of the resume leg; where it and the close-out
+> disagree, the close-out governs. Read
+> **"The SCAN itemization wave — QUEUE CLOSED 2026-08-18"** at the end of this file.
+
+**Status: SUBSTANTIALLY COMPLETE, NOT CLOSED.** **83 of the 93** scanned county-office
+filings now carry a real donor/vendor layer or a reasoned statement of why no schedule
+exists — **1,155 contribution + 1,153 expenditure rows**, $946,796.20 and $816,787.73
+itemized. **10 filings remain untranscribed** and are named below. Together with the
+born-digital slice (now 4 filings after the `weber_polimorphic` single-entry family fix)
+the module publishes **1,172 contribution and 1,165 expenditure rows over 87 of 98 filings**.
+
+This section records the RESUME leg. The wave was authorized on 2026-08-14 (calibration
+pre-flight **13/13 PASS**, `_audits/cf-calibration-suite/runs.md`), killed three times that
+day, and resumed on 2026-08-17 under the same configuration — which was therefore **not
+re-run**, the configuration being unchanged.
+
+### 9a. The state audit came first, and it pulled work back out
+
+The 2026-08-14 legs had already **published** 345 contribution rows into `contributions.csv`.
+Nothing survived because it was already published. Every staged record was re-screened:
+
+| gate | result |
+|---|---|
+| `checkrec.py` (key ↔ index, side states, amounts parse, geometry resolves) | **67 of 67 records OK** |
+| reconciliation verdict **independently re-derived** from the rows + the 2026-08-01 stated cells | **132 of 134 sides agreed**; the 2 disagreements were both one filing, and the filing was right — see 9b |
+| blind render-back: resolve a stored row's `pct:` box to a fresh crop and READ it | **18 records failed** — see 9c |
+
+**Two filings were re-read independently and agreed exactly.** James H. Harvey's 2016-10-31
+report exists on two channels (`raw/wayback/wb20190828041319_harvey_commission.pdf` and pages
+14–21 of the 2016 archive). Two agents transcribed them separately, hours apart, without
+knowledge of each other: **all 60 donor rows and all 101 vendor rows agree on name and
+amount**, differing only in internal whitespace. That is the strongest evidence in this module
+that the transcription tier is sound.
+
+### 9b. Two cover-tranche corrections the itemization forced
+
+Both went through `apply_totals_corrections.py`, which is the only sanctioned path to a
+published figure, and both are decided by primary evidence, never by a glyph preference.
+
+- **Corey Combe 2012 (`6803c289`)** — `stated_total_contributions` 24,792.52 → **24,292.52**
+  and the blank `stated_ending_balance` → **4,287.87**. Schedule A page 2's own printed
+  *TOTAL CONTRIBUTIONS RECEIVED* line reads **24,122.52** (verified at the page on
+  2026-08-17), the filer's summary adds the 170.00 sub-$50 aggregate to reach 24,292.52, and
+  the cover's own balance line closes exactly at 4,287.87. Under the 2026-08-01 reading
+  (24,622.52) none of the three identities closes.
+- **Katrina C. Gibson 2026 — a SWAPPED PAIR (`76c91f61` ⇄ `8a163a02`).** The 2026-08-01
+  totals tranche transcribed these two filings' covers **into each other's cache**. Page 1 of
+  each retained PDF was re-rendered on 2026-08-17 (sha256 of both re-verified against
+  `index.csv` first — both MATCH, so the bytes never moved): `…fd9d0787.pdf` prints the
+  **June 16 – Primary Election** box with 66,670.65 / 21,550.00 / 88,220.65, while
+  `…d8532285.pdf` prints the **30-days-after-elimination** box with 88,220.65 / 4,168.61 /
+  92,389.26. Each cover closes internally and the pair chains (the later report's Last-Report
+  column IS the earlier one's Cumulative), so both readings were correct figures filed under
+  each other's key. The verbatim cells were exchanged; nothing was recomputed. Gibson's third
+  2026 primary-window filing (`32f407e4`, signed 6/16/2026) was read correctly in 2026-08-01
+  and is untouched.
+
+**Nothing else in the cover tranche moved.** `checkpoint_weber.py` asserts that on every run:
+ten frozen columns, the pre-existing born-digital block, and the rule that the set of
+`filing_totals` rows which changed is exactly (filings with an itemized layer) ∪ (the three
+declared corrections) ∪ (the one declared born-digital addition).
+
+### 9c. GEOMETRY: what the render-back audit found, and what was withheld
+
+The B2 contract stores a `pct:x,y,w,h@p<page>` box per row, pointing at the **amount cell**
+the figure was read from. The resume leg tested that claim instead of trusting it: for a
+sample row of every itemized filing, the stored box was cropped out of the retained PDF and
+read. A tesseract sweep of the amount-column band on the machine-readable pages ran the same
+test at zero vision cost across 470 rows.
+
+**On 18 filings the box did not reproduce the recorded amount.** The frame's Amount-column
+band had been set to a middle column (the donor name, the street address, the city), or the
+row band list still contained the header/shaded spacer band so every row pointed one row
+early, or both. The values on those filings are not in question — every side still closes on
+a figure the filing itself prints — but a measurement that is wrong is not published in a
+weaker form. **`geometry` is BLANK on those 18 filings' 291/275 rows**, each carrying a
+`geometry_provenance` that says the measurement was withdrawn and why, and the reason travels
+into `filing_totals.notes`. Re-measurement is a cheap follow-up pass that re-reads no values.
+
+**881 contribution and 890 expenditure rows across the other 65 filings keep a measured
+pointer that was verified by rendering it back.**
+
+**Four filings failed the first render-back and were CLEARED on re-test — the audit tool was
+wrong, not the record.** `scripts/campaign_finance/make_snippet.py` resolves a `pct:` box
+against the **unrotated MediaBox** that `pdfinfo` reports, while `pdftoppm` renders the page
+**with `/Rotate` applied**; on a `/Rotate 90|270` page its crop therefore lands somewhere else
+entirely. Two chunk agents found this independently on 2026-08-17 and neither patched the
+shared frozen script. Re-cropped against the RENDERED raster — which is the frame the B2
+contract stores geometry in — all eight sampled boxes on `14230ff0`, `4dedb81d`, `8b392841`
+and `1b428642` reproduce their recorded amounts exactly. Every withdrawal that stands is on a
+`/Rotate 0` page, where the tool is sound and the crop returned real content from the WRONG
+column. **Any stored geometry elsewhere in the repo that was "proved" with `make_snippet` on a
+rotated page is unproved** — that is a filed lead, not a weber finding.
+
+Two mechanical facts that caused the defect, recorded so the re-measure pass does not repeat
+them: `rowbands.py` on a TYPED Weber sheet registers each row's text baseline as well as the
+printed rule, so the real grid is every other detected rule; and it returns the header band
+and the hatched spacer band the form prints beneath it, which must be trimmed before the row
+list is index-aligned. A third fact bit the AUDIT rather than the wave: the 2026
+per-candidate scans hold a page-size image, so a `make_snippet --dpi 900` crop is a ~12×
+upsample and returns **blank** — crops on those filings must be taken at ~200 dpi, and a
+blank crop there is an artefact, not a defect.
+
+### 9d. Reconciliation — per SIDE (166 sides across 83 filings)
+
+| state | contributions | expenditures |
+|---|---|---|
+| **exact** — rows close on the schedule's printed total AND the cover's CUMULATIVE cell | **27** | **29** |
+| **period-exact** — rows close on the cover's *Totals For This Report* cell | **33** | **31** |
+| **delta** — rows and the printed anchor disagree, cause traced on the page | 6 | 8 |
+| **empty-schedule** — the page exists and the filer entered nothing | 13 | 10 |
+| **no-schedule-page** — the retained document has no such page at all | 4 | 5 |
+
+**120 of 134 transcribed sides reconcile EXACTLY** to a figure the document itself prints.
+Not one figure was nudged. `empty-schedule` and `no-schedule-page` remain different facts and
+are stored differently.
+
+### 9e. The reconciliation-basis rule (owner-ratified 2026-08-17) and what changed here
+
+> Reconcile each itemized side against the printed cover figure that MATCHES ITS OWN SCOPE —
+> the *This Report* column for a period-scoped ledger, the *Cumulative* column for a
+> cumulative one. **Never synthesize a figure by differencing covers.** Withhold only where
+> neither printed figure closes.
+
+Weber's module already worked this way — `period-exact` is exactly that rule, and the build
+verifies the claim mechanically against the cache's own *This Report* cell. **One thing
+diverged and was corrected:** a verified period-scoped side used to leave
+`reconciles_*`/`recon_delta_*` BLANK, which under-reported a real reconciliation as an
+unknown. Those sides now publish `reconciles_*=True` with `recon_delta_*` stated **against
+the period anchor**, every row carries `is_incremental=True`, and the note carries the
+literal marker `ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)` that
+`scripts/campaign_finance/validate_finance.py` check 6 requires as its declared exception.
+`stated_*` remains the CUMULATIVE column, is never recomputed, and is never differenced.
+32 contribution and 31 expenditure sides carry that declaration.
+
+Where the build CANNOT verify a period claim it still publishes nothing: one filing (James H.
+"Jim" Harvey 2024) closes on Form A's own printed 24,300.00 while the cover's line-1
+This-Report cell was left blank by the 2026-08-01 tranche as unresolvable between 24,300 and
+24,000 — the rows ship, the verdict stays an honest unknown, and the note says so.
+
+**In-kind is per FILER, not a form property.** Tested both conventions on every side that did
+not close first time. Sharon Arrington Bolos 2026 closes only WITH in-kind (10,500.00 fails,
+11,120.00 closes); Katrina Gibson books one in-kind item on both schedules and both printed
+totals require it. Nothing was assumed from cycle or form family.
+
+**Accounting parentheses are a filer's presentation, not a sign.** Steven Van Wagoner writes
+every expenditure cell as `(32,960.17)` across all four of his filings, and his Form B prints
+a leading minus on every row. `stated_*` keeps the parsed **signed** value verbatim; the
+period check closes the rows against the cell's **magnitude** and the note says so.
+
+### 9f. The 10 filings that remain
+
+Not started — the wave was stopped by wall-clock, not by anything the documents did. No
+partial record exists for any of them; each has its cover-page stated totals as before and an
+honestly empty itemized layer.
+
+| key | candidate | cycle | source |
+|---|---|---|---|
+| `1cb41e87` | James Ebert | 2026 | `raw/y2026/2026_ugd_92078f_f7ac73e5.pdf` |
+| `1f6d253e` | Caitlin K. Gochnour | 2016 | `raw/wayback/wb20160824043243_16June_Gochnour_Commission.pdf` (11 pp) |
+| `44a69eb1` | John E. Ulibarri II | 2014 | `raw/wayback/wb20160824043328_Ulibarri_financials.pdf` |
+| `48dde135` | Brian Rowley | 2024 | 2024 archive pp125–127 |
+| `611f381e` | James Ebert | 2014 | `raw/wayback/wb20160824055040_Ebert_financials.pdf` |
+| `7a142d87` | James H. "Jim" Harvey | 2024 | 2024 archive pp141–143 |
+| `965feb98` | John Ulibarri | 2024 | 2024 archive pp147–149 |
+| `a4ef7bda` | Leann Kilts | 2014 | `raw/wayback/wb20160824031533_Kilts_financials.pdf` |
+| `aaf819ad` | John B. Bond | 2020 | 2020 archive p18 (single page) |
+| `bc70d022` | Caitlin K. Gochnour | 2016 | `raw/wayback/wb20160824045455_16July_Gochnour_Commission.pdf` |
+
+Three of these (`44a69eb1`, `611f381e`, `a4ef7bda`) had a 2026-08-14 record that was
+**WITHDRAWN** on 2026-08-17 for the geometry defects in §9c and requeued for an independent
+re-read that did not get reached. (The fourth withdrawn record, Chris Allred 2014
+`b687614d`, WAS re-read: the fresh read found Form B on p2 and Form A on p3 and both sides
+exact at 4,067.20, and its rows are published.) Their withdrawn records are retained, unused,
+at `_backups/2026-08-14-weber-cf/quarantine-2026-08-17/` — they are evidence for the
+re-read to diff against, **not** a data source.
+
+### 9g. Provenance and rebuild
+
+Every itemized row is stamped
+`vision-itemized / itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)` and capped at
+**`medium`** confidence (SCHEMA.md §6 reserves `high` for a born-digital source). Rows live
+in each filing's `vision/<key>.json` under `_meta.itemized`, written **only** by
+`make_itemized_caches.py` from the durable records in `_itemized_records/`. The chain is
+idempotent — re-materializing and rebuilding twice reproduces `contributions.csv`,
+`expenditures.csv` and `filing_totals.csv` byte for byte.
+
+```
+python3 apply_totals_corrections.py      # curated, evidence-cited cover corrections
+python3 withdraw_geometry.py             # the 18 filings whose pointer failed render-back
+python3 make_itemized_caches.py _itemized_records
+python3 build_finance.py
+python3 ../../scripts/campaign_finance/validate_finance.py .        # PASS (0 fails, 25 warns)
+python3 ../../_backups/2026-08-14-weber-cf/workdir/checkpoint_weber.py
+```
+
+`python3 scripts/validate_entity.py weber_county` → **13 PASS / 1 WARN / 0 FAIL**, the WARN
+being the pre-existing land_use duplicate-date note, unchanged by this wave.
+
+---
+
+## The SCAN itemization wave — QUEUE CLOSED 2026-08-18 (Tranche 3 Phase B, weber wave B2)
+
+The wave authorized on 2026-08-14 and resumed on 2026-08-17 was **finished on 2026-08-18**.
+**All 93 scanned county-office filings now carry an itemized layer**, so with the 5
+born-digital filings **98 of 98 Weber county-office filings are itemized**. Nothing remains
+in the queue: the ten filings §9f named are transcribed, and the eighteen filings whose
+measured pointer §9c withdrew have been **re-measured and proved**, so the module's
+`geometry` column is now **100% populated with no withdrawals**.
+
+**Configuration:** unchanged from the 2026-08-14 pre-flight (`claude-opus-5`, Read-tool
+vision at 200 dpi full page, tight-crop escalation, `$0` API). The calibration suite was
+therefore **NOT re-run** — the recorded pre-flight for this configuration is
+`_audits/cf-calibration-suite/runs.md` §2026-08-14, **13/13 PASS**, and re-running an
+unchanged configuration would measure nothing. Fan-out: **3 concurrent chunk agents** per
+lane (transcription, then geometry), plus the coordinator's own build, audit and invariant
+passes.
+
+### The shared crop tool was repaired FIRST, because both lanes depend on it
+
+`scripts/campaign_finance/make_snippet.py` sized its crop from the page size `pdfinfo`
+reports — the **UNROTATED MediaBox** — while `pdftoppm` renders the page **with `/Rotate`
+applied**. On a `/Rotate 90|270` page the axes are swapped and the crop lands somewhere
+else entirely. That defect nearly cost four good weber records on 2026-08-17 (§9c) and it
+made every rotated-page geometry claim in the repo unproved. It is now **FIXED**:
+`page_size_pts()` returns the page **as poppler renders it**.
+
+The fix is one change serving three call paths, because `pdftotext -bbox` — which the
+`p<page>:l<line>:c<c0>-<c1>` span vocabulary resolves against — also emits WORD coordinates
+in the rotated frame while keeping an unrotated `<page>` header. Measured on a `/Rotate 90`
+specimen: a word at unrotated y-top 74.77–96.97 pts on a 612×792 page reports xMin/xMax
+**695.03/717.23** — i.e. `792 − y_top`, a value that exceeds the page width pdfinfo reports.
+
+| proof | before | after |
+|---|---|---|
+| rotated specimen `2026_ugd_92078f_741f163c.pdf` p2 (`/Rotate 270`), row "James Ebert", recorded **53,000.00**, geometry `pct:85.23,16.62,10.66,3.17@p2` | crop rendered the **address column** ("Ogden … 84403") | crop renders **`$53,000.00`** |
+| all **65** published rows sitting on a rotated page, OCR render-back | **0 of 65** reproduced the recorded amount | **54 of 65** (the residual are OCR failures on a tight cell — the 53,000.00 row is one of them and was confirmed by eye) |
+| span vocabulary on a synthetic `/Rotate 90` page | region `pct:113.57,…` — **off the page**, x > 100% | `pct:87.76,8.17,2.80,12.86`, matching the hand-computed rendered-frame box exactly |
+| **`/Rotate 0` regression control** — 40 published rows × value+row modes | — | **80 of 80 renders byte-identical**, region strings identical |
+
+A **second, independent defect** in the same tool was also fixed. `pdftoppm` crops a window
+out of a page it still rasterizes WHOLE, so the ceiling is set by the page: poppler's splash
+bitmap allocates `3 × width × height` bytes and guards that against int32. Past it, poppler
+prints *"Bogus memory allocation size"* to stderr, **exits 0, and writes an all-white PNG** —
+a silent blank that reads as evidence of absence. It bites oversized-MediaBox pages, where a
+scan is placed at roughly one point per source pixel: weber's `2026_ugd_92078f_f36d6ca9.pdf`
+is **2310 × 3012 pts**, so `--dpi 900` asks for a 28875 × 37650 raster and returned blank
+(§9c recorded the symptom without the cause). The tool now clamps the dpi to what poppler can
+render and **says so** (`dpi clamped 900 -> 693: … the region is unchanged, only its
+resolution`); a letter page at 900 dpi is untouched. Same specimen, same region: **before —
+blank (extrema 255,255); after — real content.** A stderr guard also refuses rather than
+returning a blank if the condition ever arises another way.
+
+The tool's interface and output format are unchanged, and no other county's stored geometry
+was re-audited here — that remains separately filed work.
+
+### Lane T — the ten filings §9f named
+
+Each was a clean transcription (no partial record existed). Three of them —`44a69eb1`,
+`611f381e`, `a4ef7bda` — had a WITHDRAWN 2026-08-14 record quarantined at
+`_backups/2026-08-14-weber-cf/quarantine-2026-08-17/`; that material was treated as **diff
+evidence only and never opened by the transcribing agents**. The pages were read fresh.
+
+| key | candidate | cycle | sides | rows C/E | verdict and the printed figure that gated it |
+|---|---|---|---|---|---|
+| `1f6d253e` | Caitlin K. Gochnour | 2016 | both transcribed | 147 / 35 | expenditures **exact** on Form B's printed 32,769.16; contributions **delta +2,065.00**, traced to the filer's own two SUM ranges (see below) |
+| `bc70d022` | Caitlin K. Gochnour | 2016 | both transcribed | 9 / 3 | both **period-exact** — 3,500.00 and 1,551.00, the cover's This-Report cells |
+| `1cb41e87` | James Ebert | 2026 | both transcribed | 5 / 13 | both **period-exact** — 12,904.63 and 16,004.52 |
+| `611f381e` | James Ebert | 2014 | both transcribed | 6 / 18 | both **exact** — 6,230.00 and 6,948.22 |
+| `44a69eb1` | John E. Ulibarri II | 2014 | both transcribed | 6 / 6 | both **exact** at 1,892.08 (This-Report == Cumulative) |
+| `a4ef7bda` | Leann Kilts | 2014 | both transcribed | 5 / 13 | both **period-exact** — 2,100.00 and 787.72 |
+| `7a142d87` | James H. "Jim" Harvey | 2024 | both transcribed | 9 / 3 | both **period-exact** — 8,350.00 and 6,741.67 |
+| `48dde135` | Brian Rowley | 2024 | contrib transcribed, expend **empty-schedule** | 1 / 0 | **exact** on Form A's printed 15.00 == the cover's Cumulative |
+| `965feb98` | John Ulibarri | 2024 | both **empty-schedule** | 0 / 0 | both **exact at 0.00** on the schedules' own printed zero totals |
+| `aaf819ad` | John B. Bond | 2020 | both **no-schedule-page** | 0 / 0 | no sum claimed — the filing is genuinely one page |
+
+**188 contribution and 91 expenditure rows added. Nothing withheld.**
+
+`aaf819ad` is the distinction §9d insists on, decided at the source rather than from its
+0.00 cover: p18 is a cover only, and the page-range boundary was verified by reading its
+neighbours — **p17 is the preceding filer's Form A** and **p19 is the next filer's cover**.
+So the document contains no schedule page: `no-schedule-page` (non-existence), not
+`empty-schedule` (a page the filer left blank). `965feb98` is the other case — both schedule
+pages physically exist, are blank, and print their own zero totals.
+
+**The Gochnour 2016 delta is the filer's SUM RANGE, and it is a new shape.** The precedents
+in this corpus (§9d) are single-row omissions. Here p6's printed subtotal 4,450.00 falls
+exactly 300.00 short of its 25 rows, and p7's printed 7,955.00 falls exactly 1,765.00 short
+of its 26 — and 1,765.00 is precisely the sum of that sheet's **first thirteen rows**, which
+are the ones the filer typed with the figure inline (`$100.00`) instead of in the split
+cells. Rows 14–26 alone sum to 7,955.00. The grand total 32,162.25 is the sum of the filer's
+seven subtotals, not of his rows. Retained verbatim; nothing nudged.
+
+**Two source properties this corpus had not shown before.** Harvey's 2024 schedules print
+**every date without a year** (12 of 12 rows: "10/30", "30 Oct."); kept verbatim and blanked
+by the build with `needs_review=1` — **a year is never inferred from the report date**.
+And Gochnour's `bc70d022` carries a **typed** malformed decimal, `In-Kind $1,327,00`,
+confirmed at 900 dpi: the §6 whitelist covers only the HANDWRITTEN decimal comma, so the
+amount is **blank with `needs_review=1`** and the glyph is preserved verbatim.
+
+### IN-KIND IS PER FILER — confirmed on weber, and the builder now tests both conventions
+
+`CHUNK_BRIEF.md` §6 states that weber's form counts in-kind toward the schedule total, and
+the form does instruct that. **Gochnour's 2016 Form A does the opposite**, and the page
+proves it: the seven monetary rows sum to **3,500.00**, exactly the schedule's printed total
+and the cover's This-Report cell, while including the two in-kind rows gives 8,153.00, which
+matches nothing printed anywhere on the document. That is the owner-ratified rule
+(2026-08-17) confirmed on this county: **in-kind treatment is a property of the FILER, not
+of the form.**
+
+`build_finance.py` could only test one convention, so a correctly-transcribed filer using
+the other one produced an unverifiable verdict. It now computes the monetary-only subtotal
+as well and accepts it **as a fallback, only where the all-rows sum fails, and only on an
+exact close**, naming the convention and both figures in `filing_totals.notes`. It admits
+nothing that does not land on a printed figure. Effect, measured by running the old and new
+builders over identical records: **one row of `filing_totals.csv` changed** — Gochnour
+`bc70d022` gains `reconciles_contrib=True` / `recon_delta_contrib=0.00` — and
+`contributions.csv` / `expenditures.csv` are byte-identical. `itemized_contrib_sum` still
+reports **every row that shipped** (6,826.00), so a rollup that ignores the per-filer
+convention will mis-add this filing, and the note says so in those words.
+
+### Lane G — the 18 withdrawn geometry frames, re-measured and proved
+
+Values were never in doubt and **were not re-read**: this pass re-measured a pointer. Each
+agent wrote a patch to `_remeasure/<key>.json` and the coordinator applied them centrally
+with `remeasure_geometry.py`, which by construction copies **only** the `frames` block onto
+the record — it cannot touch an amount, a name, a date, a row index or a verdict.
+
+**Result: 18 of 18 filings, 43 of 43 pages measured. Zero pages left unmeasurable, zero
+withdrawals standing.** Every page was gated by the two-crop proof the contract requires —
+the first and the last transcribed row cropped from the geometry about to be stored, at 900
+dpi, each rendering the amount already recorded. Over 70 proof crops were read and every one
+matched.
+
+**What was actually wrong** — the withdrawn frames' failures were dominated by the
+Amount-column band, not by row indexing:
+
+- **A wrong `cell` column on nearly every page.** It held the donor *Address* or *Mailing
+  Address* band, the *Name* / *Person or Organization* band, the *City* band, the *Date*
+  band, or — on two pages — a 2.5-pct sliver between two text baselines that is not a column
+  at all. ⚠ **This has a privacy dimension, not only an accuracy one:** on at least a dozen
+  pages the published pointer aimed at the **donor street-address column**, which the
+  transcription rules deliberately never carry (PRIVACY.md: city/state only). Withdrawing
+  those pointers in §9c was the right call for a second reason nobody had named.
+- **Leading-band trims that are per PAGE, not per filing, and not constant.** This corpus
+  contains 2-band, 3-band and 4-band trims; a merged header+spacer band needing an
+  interpolated rule; a page that prints a **wholly blank table row** below the grey spacer;
+  and — on Kilts — a trim at the **high**-pct end, because that filing's printed rows run
+  DESCENDING while its siblings run ascending. Deriving one page's frame from another's
+  failed wherever it was tried.
+- **Printed-line ordinal is not row ordinal.** Combe's p3 has a filer-skipped ruled line
+  between rows 23 and 24; the blank band is omitted so `rows[N-1]` remains record row N.
+  Proved with a third crop at row 26 rendering the distinctive 9,826.83.
+
+**The `rowbands.py` defects the pass had to work around** are the ones already on the [DEBT]
+queue, plus two new flavours worth the record: on the pre-2013 portrait forms the black
+**"PLEASE NOTE" instruction box** is detected as a horizontal rule and heads the band list
+(that, not a header row, mis-seated three of Combe's four pages); and at ~0.4° skew it can
+fail to return the row grid **at all** (Kilts p3: one rule for a 26-row table). The method
+that recovered every such page — worth folding into the tool — is to scan the rendered
+raster for dark runs **restricted to the Amount column's own band on the other axis**, where
+the printed grid survives even when text has destroyed it elsewhere; on Kilts p3 a deskew
+sweep was needed first. One more caution the pass earned: **a `cell` band bounded on a
+detected rule can still CLIP the value**, because a right-aligned figure overhangs the
+interior rule — the band must run to the printed border, and only a render proves it.
+
+### The coordinator's independent check on the re-measured frames
+
+The agents' proofs are on the FIRST and LAST transcribed row of each page, which is exactly
+where an off-by-one shows up. To test the middle of the band lists as well, the coordinator
+took a **MIDDLE row from every one of the 18 re-measured filings**, cropped it from the newly
+stored geometry at 500 dpi and read all eighteen: **18 of 18 rendered the recorded amount**
+(326.21 · 39.50 · 809.76 · 1,000.00 · 552.22 · 9.63 · 250.00 · 723 · 1000 · 1,205.27 ·
+585.00 · 500 · 500.00 · 1359.81 · 25.00 · 270 · 1000.00 · 300.00).
+
+⚠ **A methodological warning for the next wave.** A zero-vision-cost tesseract sweep was run
+over the same rows first and scored them almost entirely as "did not reproduce". It is
+WRONG, and the 18 visual crops above are the control that proves it: these are handwritten
+2012/2014 sheets, and tesseract on a tight handwritten cell returns noise, not a verdict.
+The same tool scored the machine-printed corpus usefully (999 of 1,124 legible crops
+reproduced across the rest of the module) and it scored the confirmed-good rotated-page
+specimen `$53,000.00` as a failure. **An OCR render-back is a screen for TYPED sheets only;
+on handwriting it must never be read as a negative** — the 2026-08-17 audit's own "87 of 133
+unverifiable" line already said as much, and this leg confirms it quantitatively.
+
+### Measured — the closed state
+
+| | |
+|---|---:|
+| county-office filings | **98** |
+| filings itemized | **98 of 98 — QUEUE CLOSED** (93 vision + 5 born-digital) |
+| scanned filings itemized | **93 of 93** |
+| still queued | **0** |
+| rows published | **1,360 contributions · 1,256 expenditures = 2,616** |
+| of which vision tier | 1,343 · 1,244 |
+| rows carrying `geometry` | **2,616 of 2,616 (100%)** — 2,587 vision rows rule-measured, 29 born-digital span-anchored |
+| geometry withdrawals standing | **0** (was 18 filings / 566 rows on 2026-08-17) |
+| money in the vision rows | **$955,399.58 monetary contributions + $63,941.58 in-kind · $849,942.81 spent + $33,539.29 in-kind** |
+| sides, all states | **186** across 93 filings |
+| sides `transcribed` | **149** (74 contributions · 75 expenditures) |
+| sides `empty-schedule` (page exists, filer entered nothing) | **26** |
+| sides `no-schedule-page` (document has no such page) | **11** |
+| sides **WITHHELD** | **0** |
+| verdict `exact` (closes on the CUMULATIVE column) | **62** |
+| verdict `period-exact` (closes on the This-Report column) | **72** |
+| verdict `delta` (filer arithmetic, traced on the page) | **15** |
+| **transcribed sides closing EXACTLY on a printed figure** | **134 of 149** |
+| tight-crop escalations used | **416** |
+| per-row confidence | **2,578 `medium` · 9 `low`** (SCHEMA.md §6 caps a page image at medium) |
+
+**134 of 149 transcribed sides reconcile EXACTLY to a figure the document itself prints, and
+not one figure was nudged.** `empty-schedule` and `no-schedule-page` remain different facts
+and are stored differently. **Zero sides are withheld** — weber is the only county in this
+tranche that finished with none.
+
+### The period basis, and the one honest unknown
+
+**71 sides publish on the PERIOD basis** — `reconciles_*=True` with `recon_delta_*` stated
+against the cover's *Totals For This Report* cell, every row `is_incremental=True` (601
+contribution + 432 expenditure rows), and the literal marker
+`ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)` in `filing_totals.notes` that
+`validate_finance.py` check 6 requires as its declared exception. On those rows
+`itemized_*_sum` is ONE REPORTING PERIOD and sits far below `stated_total_*` **by design**;
+comparing the two is a basis error, and the note names both figures. **No figure anywhere in
+this module is derived by differencing two covers.**
+
+The 72nd period claim stays an honest unknown and always has: James H. "Jim" Harvey's 2024
+filing (`03f2e863`) closes on Form A's own printed 24,300.00, but the cover's line-1
+This-Report cell was left blank by the 2026-08-01 tranche as unresolvable between 24,300 and
+24,000. The rows ship; the build says it **could not verify** the claim; `reconciles_contrib`
+stays blank rather than asserting either way. The build prints that disagreement as a WARN on
+every run, which is the intended behaviour — it is a standing, visible unknown, not a defect.
+One other standing WARN is the same kind of honesty: `eae67827` expenditures carry a
+**$0.67** filer-arithmetic gap against the schedule anchor.
+
+### Invariants proved on this leg
+
+- **No `stated_*` cell moved.** The frozen half of all **98** `vision/<key>.json` caches
+  (`stated`, `confidence`, `candidate_stated`, `office_stated`, `report_type_stated`,
+  `filing_date_stated`, `notes`, `form_variant`, …) is **byte-identical, 98 of 98**, to the
+  snapshot taken before this leg began. The three declared 2026-08-17 cover corrections
+  (Combe 2012; the Gibson swapped pair) are unchanged and remain the only ones.
+- **`checkpoint_weber.py` passes** — 93 filings itemized, 3 declared totals corrections, 1
+  declared born-digital addition, the prior born-digital block intact, 10 frozen columns held,
+  no filing shrinking against the high-water mark.
+- **The geometry pass changed geometry and nothing else.** A digest over every published
+  column EXCEPT `geometry`, taken before and after the re-measure, is **unchanged on both
+  CSVs** (1,360 and 1,256 rows).
+- **The rebuild is idempotent** — running `apply_totals_corrections.py` →
+  `remeasure_geometry.py` → `make_itemized_caches.py` → `build_finance.py` twice reproduces
+  `contributions.csv`, `expenditures.csv`, `filing_totals.csv` **and every `vision/` cache**
+  byte for byte.
+- `python3 scripts/campaign_finance/validate_finance.py .` → **PASS (0 fails, 25 warns)**,
+  the same 25 out-of-scope school-board / `unclear` / state-duplicate index rows as before.
+- `python3 scripts/validate_entity.py weber_county` → **13 PASS / 1 WARN / 0 FAIL**, equal to
+  the pre-leg baseline; the WARN is the pre-existing land_use duplicate-date note and is
+  untouched by this wave.
+
+### Rebuild
+
+```
+python3 apply_totals_corrections.py      # curated, evidence-cited cover corrections
+python3 remeasure_geometry.py            # the 2026-08-18 proved re-measurements
+python3 make_itemized_caches.py _itemized_records
+python3 build_finance.py
+python3 ../../scripts/campaign_finance/validate_finance.py .        # PASS (0 fails, 25 warns)
+python3 ../../_backups/2026-08-14-weber-cf/workdir/checkpoint_weber.py
+```
+
+`withdraw_geometry.py` is retained as the audit trail of the 2026-08-17 withdrawal and is
+**no longer part of the chain**; each re-measured record keeps its superseded frame under
+`frames_withdrawn` and a `geometry_remeasured` block carrying the date, the pages and the
+agent's proof line.

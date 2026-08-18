@@ -1,90 +1,144 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_JuneJKaiserman.pdf",
-    "cache_key": "db15af2f",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "June 2020 (7 days before Primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James C Kaiserman",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_JuneJKaiserman.pdf",
+  "cache_key": "db15af2f",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "June 2020 (7 days before Primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_03.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (0.00 = 0.00, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Surveyor",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the Primary Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (0.00 = 0.00, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant. Cover identity: 0.00 - 0.00 = 0.00 = printed balance -- HOLDS in all three columns.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime. James C. Kaiserman, Wasatch County Surveyor, Republican, signed 06/23/2020, '7 Days preceding the Primary Election' checked. Both schedules carry the filer's written declaration 'No Money Collected' with $0.00 in the Amount column -- transcribed as ZERO ROWS with the verbatim wording here, never as a donor or vendor named 'No Money Collected'. The date fragment he wrote alongside it, '06- 2020', has no day and is a period label, not a row date."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James C Kaiserman",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": ""
+  "office_verbatim": {
+   "value": "Wasatch County Surveyor",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the Primary Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "",
+ "contributions": [],
+ "expenditures": []
 }

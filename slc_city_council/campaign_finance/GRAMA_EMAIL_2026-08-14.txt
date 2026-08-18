@@ -1,0 +1,120 @@
+TO:      slcrecorder@slc.gov; keith.reynolds@slc.gov
+CC:      elections@slc.gov
+SUBJECT: GRAMA request - electronic campaign finance disclosure records, 2005-present (Archives Series 26415)
+
+===================== COPY EVERYTHING BELOW THIS LINE =====================
+
+Dear Mr. Reynolds,
+
+Under the Government Records Access and Management Act, Utah Code 63G-2-101 et
+seq., I request access to the following records.
+
+REQUESTER INFORMATION (Utah Code 63G-2-204(1))
+
+Name: [FULL NAME]
+Mailing address: [STREET, CITY, STATE, ZIP]
+Email: [EMAIL] - I am willing to receive communications by email regarding
+this request.
+Daytime telephone: [PHONE]
+
+RECORDS REQUESTED
+
+All campaign finance disclosure records filed with the City Recorder by
+candidates for Salt Lake City municipal office (Mayor and City Council, all
+districts) and by their personal campaign committees, for every election cycle
+from 2005 through the present - including itemized contributions and
+expenditures, summary and interim statements, amendments, and the associated
+candidate, committee, election-cycle and reporting-period records.
+
+These are the records described by Utah State Archives Series 26415 ("Campaign
+finance statements," Salt Lake City (Utah). City Recorder, 1981- ,
+classification Public, retention Permanent, disposition authority GRS-282), and
+required by Salt Lake City Code 2.46 and Utah Code 10-3-208.
+
+I am not requesting the 2003 cycle. I already hold those filings and they are
+outside this request.
+
+WHERE THESE RECORDS ARE HELD
+
+To assist in locating them, I believe they sit in two systems:
+
+1. 2005 through approximately 2017 - the "Salt Lake City Corporation Candidate
+Finance Reporting System," formerly served at
+dotnet.slcgov.com/ManagementServices/CandidateReporting/, whose candidate-search
+page listed election years 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017 and
+2019. That application currently returns HTTP 500, and its error response
+identifies the application directory as
+D:\IISRoot\dotnet.slcgov.com\managementservices\candidatereporting\.
+
+2. 2019 through the present - the Campaign Finance Reporting System at
+dotnet.slcgov.com/Attorneys/CampaignFinance_Public/, backed by the
+CampaignFinanceAPI web service. Its public interface has returned HTTP 503 on
+every data request continuously since at least July 5, 2026, which I verified
+again on August 14, 2026. The underlying database appears intact: the
+maintenance page itself renders a live table of 38 candidates with their offices
+and account balances.
+
+I note that the City published both of these online itself, so public
+availability of this material is not in question - only the current means of
+access is. Utah Code 10-3-208(10) likewise directs that each statement be made
+available for public inspection and copying and posted on the municipality's
+website.
+
+FORM OF PRODUCTION
+
+I request these records in the form in which they are already maintained - for
+example a database export or backup, the report files as stored on the server,
+or any existing extract. I am not asking the City to create a new record, or to
+compile, format, manipulate, package, summarize or tailor information within the
+meaning of Utah Code 63G-2-201(7).
+
+I will accept whatever format is least burdensome for your staff, including
+native database format, CSV, JSON, XML or PDF. Electronic delivery is preferred
+and no paper copies are needed. I understand the City's own public application
+already includes the angular2-csv export component, so a CSV export may already
+be available within existing tooling.
+
+If production in any form is declined, I request to inspect the records under
+Utah Code 63G-2-201, at your office at a time convenient to your staff.
+
+FEE WAIVER (Utah Code 63G-2-203(4))
+
+I request a full waiver of fees on the ground that releasing these records
+primarily benefits the public rather than me. These are Public-classified
+records that the City is directed to make available to the public; this request
+is necessary only because the City's own publication channel has been
+unavailable for an extended period. The records will be used for a
+non-commercial public research project that publishes Utah municipal civic data
+as a free, openly licensed public resource, in which Salt Lake City is currently
+the only major Utah municipality absent.
+
+If the waiver is denied, please notify me of the estimated fee before performing
+any billable work, and please do not incur charges exceeding $50 without my
+written authorization. I would also appreciate a copy of the fee schedule relied
+upon.
+
+EXPEDITED RESPONSE (Utah Code 63G-2-204)
+
+I request a response within five business days. The benefit of expedited release
+runs to the public rather than to me: this material is presently unavailable to
+every member of the public through the channel the City maintains for it.
+
+IF ANY PORTION IS WITHHELD
+
+Please cite the specific statutory exemption for each withheld item, release all
+reasonably segregable public portions, and include the notice of appeal rights
+required by Utah Code 63G-2-205. If any responsive record has been destroyed or
+transferred, please identify the record, the date and authority for that
+disposition, and the current custodian - noting that Series 26415 carries a
+permanent retention.
+
+Thank you for your time and assistance. I am happy to narrow or stage this
+request if that would make it easier to fulfil, and I am glad to discuss it by
+phone.
+
+Sincerely,
+
+[FULL NAME]
+[EMAIL]
+[PHONE]
+[DATE]

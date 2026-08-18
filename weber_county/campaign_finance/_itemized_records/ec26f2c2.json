@@ -1,0 +1,372 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 8,
+  "page_end": 10,
+  "key": "ec26f2c2",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   8,
+   9,
+   10
+  ],
+  "itemized_pages_A": "9",
+  "itemized_pages_B": "10",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 1,300.00, which is the cover's line-1 cell in BOTH the This-Report and Cumulative columns",
+    "detail": "1,000.00 + 300.00 = 1,300.00 = the schedule's printed total = the cover's line-1 This-Report AND Cumulative cells (Totals-from-Last-Report is blank \u2014 this is the candidate's first report of the 2024 cycle, so this == cumulative). 2024 is the 3-line form variant with a single contrib_all cell and no separate <=$50 aggregate line, so the whole published contributions total is anchored here."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report)' = 890.72, which is the cover's line-2 cell in BOTH the This-Report and Cumulative columns",
+    "detail": "747.61 + 18.69 + 1.48 + 22.94 + 100.00 = 890.72 = the schedule's printed total = the cover's line-2 This-Report AND Cumulative cells. Line 3 closes independently: 1,300.00 - 890.72 = 409.28, the printed ending balance."
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "six 900 dpi tight --value crops used as GEOMETRY proofs, not glyph re-reads: p9 rows 1-2 (1,000.00 / 300.00) and p10 rows 1, 4 and 5 (747.61 / 22.94 / 100.00), plus one crop of p10's band [16.15,19.41] which resolved to the printed GRAY SPACER strip and is what caught a one-band off-by-one in the p10 frame before it was recorded. Both schedules are typed, so no amount needed a legibility escalation.",
+  "frames": {
+   "9": {
+    "axis": "x",
+    "cell": [
+     5.7,
+     16.39
+    ],
+    "cells": [
+     [
+      5.7,
+      16.39
+     ],
+     [
+      16.39,
+      58.52
+     ],
+     [
+      58.52,
+      88.8
+     ],
+     [
+      88.8,
+      96.93
+     ]
+    ],
+    "rows": [
+     [
+      15.15,
+      18.47
+     ],
+     [
+      18.47,
+      21.79
+     ],
+     [
+      21.79,
+      25.09
+     ],
+     [
+      25.09,
+      28.35
+     ],
+     [
+      28.35,
+      31.68
+     ],
+     [
+      31.68,
+      34.94
+     ],
+     [
+      34.94,
+      38.29
+     ],
+     [
+      38.29,
+      41.62
+     ],
+     [
+      41.62,
+      44.94
+     ],
+     [
+      44.94,
+      48.26
+     ],
+     [
+      48.26,
+      51.59
+     ],
+     [
+      51.59,
+      54.79
+     ],
+     [
+      54.79,
+      57.97
+     ],
+     [
+      57.97,
+      61.12
+     ],
+     [
+      61.12,
+      64.26
+     ],
+     [
+      64.26,
+      67.47
+     ],
+     [
+      67.47,
+      70.65
+     ],
+     [
+      70.65,
+      73.85
+     ],
+     [
+      73.85,
+      77.06
+     ],
+     [
+      77.06,
+      80.21
+     ],
+     [
+      80.21,
+      83.38
+     ],
+     [
+      83.38,
+      86.53
+     ],
+     [
+      86.53,
+      89.68
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet, so axis='x': the printed ROW separators are the vertical rules and the column separators the horizontal ones. Column rules by dark-run projection over the table x-extent (12-88%), identical at every coverage 0.35-0.85: 5.70 / 16.39 / 58.52 / 88.80 / 96.93 = Amount | Address | Name of Contributor | Date; cell = the Amount band [5.70,16.39]. Row rules over the table y-extent (6-96%) at coverage 0.55 and stable to 0.35 \u2014 27 rules, of which 6.15 is the page-edge line, 8.62 the table's left border, 11.88 the end of the printed label column and 15.15 the end of the gray spacer strip; the 23 bands from 15.15 to 89.68 are the printed data rows, ALL DETECTED, none extrapolated. Rows 1 and 2 were proved with 900 dpi make_snippet --value crops that reproduced 1,000.00 and 300.00."
+   },
+   "10": {
+    "axis": "x",
+    "cell": [
+     4.5,
+     15.18
+    ],
+    "cells": [
+     [
+      4.5,
+      15.18
+     ],
+     [
+      15.18,
+      34.05
+     ],
+     [
+      34.05,
+      44.73
+     ],
+     [
+      44.73,
+      90.09
+     ],
+     [
+      90.09,
+      98.25
+     ]
+    ],
+    "rows": [
+     [
+      19.41,
+      22.56
+     ],
+     [
+      22.56,
+      25.74
+     ],
+     [
+      25.74,
+      28.94
+     ],
+     [
+      28.94,
+      32.18
+     ],
+     [
+      32.18,
+      35.41
+     ],
+     [
+      35.41,
+      38.65
+     ],
+     [
+      38.65,
+      41.82
+     ],
+     [
+      41.82,
+      45.0
+     ],
+     [
+      45.0,
+      48.12
+     ],
+     [
+      48.12,
+      51.29
+     ],
+     [
+      51.29,
+      54.47
+     ],
+     [
+      54.47,
+      57.71
+     ],
+     [
+      57.71,
+      60.94
+     ],
+     [
+      60.94,
+      64.12
+     ],
+     [
+      64.12,
+      67.32
+     ],
+     [
+      67.32,
+      70.47
+     ],
+     [
+      70.47,
+      73.62
+     ],
+     [
+      73.62,
+      76.74
+     ],
+     [
+      76.74,
+      79.88
+     ],
+     [
+      79.88,
+      83.12
+     ],
+     [
+      83.12,
+      86.32
+     ],
+     [
+      86.32,
+      89.53
+     ],
+     [
+      89.53,
+      92.68
+     ]
+    ],
+    "measure_note": "Same rotated geometry, axis='x'. Column rules over x 12-88%, identical at every coverage: 4.50 / 15.18 / 34.05 / 44.73 / 90.09 / 98.25 = Amount | Purpose | City | Person-or-Organization | Date; cell = [4.50,15.18]. Row rules at coverage 0.65 (stable 0.45-0.85). CAUTION recorded because it nearly cost an off-by-one: this page's printed label column is TALLER than Form A's (the 'Date of Expenditure' header wraps to three lines), so the first band after the table border, [16.15,19.41], is the GRAY SPACER, not data \u2014 a 900 dpi crop of it returned the blank gray strip while [19.41,22.56] returned 747.61. Data row 1 therefore begins at 19.41; the 23 bands 19.41-92.68 are all detected, none extrapolated. Rows 1, 4 and 5 were crop-proved (747.61 / 22.94 / 100.00)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "1/2/2024",
+    "donor_raw": "Bahram Rahimzadegan",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 9,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "self-funding: the donor is the candidate. The Address column prints a full street address; only city/state are carried (PRIVACY.md)."
+   },
+   {
+    "line_no": "2",
+    "date": "1/20/2024",
+    "donor_raw": "Bahram Rahimzadegan",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 9,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "self-funding; same address block as line 1, street not carried (PRIVACY.md)."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/5/2024",
+    "vendor_raw": "Weber County Elections Office",
+    "purpose": "Canidate Filing Fee",
+    "amount": "747.61",
+    "page": 10,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "purpose kept VERBATIM including the filer's spelling 'Canidate'. The form's City column reads 'Ogden'; Form B's row contract has no city field, so it is recorded here."
+   },
+   {
+    "line_no": "2",
+    "date": "1/5/2024",
+    "vendor_raw": "Weber County Elections Office",
+    "purpose": "Filing Service Fee",
+    "amount": "18.69",
+    "page": 10,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "3",
+    "date": "3/21/2024",
+    "vendor_raw": "FedEx Office Printer (Self Service)",
+    "purpose": "Test Flyer Print",
+    "amount": "1.48",
+    "page": 10,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "4",
+    "date": "3/21/2024",
+    "vendor_raw": "FedEx Office Printer (Self Service)",
+    "purpose": "Print Flyers",
+    "amount": "22.94",
+    "page": 10,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   },
+   {
+    "line_no": "5",
+    "date": "4/1/2024",
+    "vendor_raw": "Weber County Republican GOP Website",
+    "purpose": "Convention Table Fee",
+    "amount": "100.00",
+    "page": 10,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column reads 'Ogden'."
+   }
+  ],
+  "notes": "Bahram Rahimzadegan, 'Weber County Recorder Surveyors Office', 2024 cycle, '7 days before convention' report, signed 4/7/2024. Both schedules are TYPED (not handwritten) \u2014 unusual for this corpus and the reason confidence is uniform medium with no legibility escalation; SCHEMA \u00a76 still caps a page image at the OCR tier so nothing is marked high. Page ORDER is the form order here: cover p8, Form A p9, Form B p10. The candidate's street address on the cover is BLACKED OUT by the county before publication \u2014 the government's own redaction, preserved and not recovered (PRIVACY.md). Note a printed-form defect in the source, not a transcription issue: the 2024 cover's December-5 checkbox text says 'through December 31, 2022' (the county reused the 2022 form text); it is unticked here and does not affect any figure."
+ }
+]

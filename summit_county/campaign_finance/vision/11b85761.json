@@ -47,6 +47,65 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Newer '2018 CAMPAIGN FINANCIAL REPORT' single-total sheet, handwritten. ONLY the Current Report expenditure cell is filled ('$293 54/100' = $293.54); the contributions and campaign-balance rows are entirely EMPTY (blank, not zero) — an honest filer blank, never imputed."
+ "itemized_transcribed": true,
+ "notes": "Newer '2018 CAMPAIGN FINANCIAL REPORT' single-total sheet, handwritten. ONLY the Current Report expenditure cell is filled ('$293 54/100' = $293.54); the contributions and campaign-balance rows are entirely EMPTY (blank, not zero) — an honest filer blank, never imputed.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-07-25",
+   "vendor_raw": "filing fee",
+   "purpose": "",
+   "amount": "293.54",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,28.12,84.00,2.81@p3",
+   "geometry_fit": "measured",
+   "note": "handwritten. The filer wrote the PURPOSE ('filing fee') into the 'Person or Organization' column and left the 'Purpose of Expenditure' cell holding only a long hand-drawn horizontal dash - transcribed exactly as placed, with no column repair, and the dash left BLANK as a nil mark. The amount is written '293 54' in the cents-superscript style with no printed decimal point; the cover's stated $293.54 confirms it (arithmetic over glyph). Date written in full as 7/25/2018",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "",
+    "itemized": "0.00",
+    "result": "unknown",
+    "detail": "NO FIGURE EXISTS TO RECONCILE AGAINST, so no verdict is claimed and no mismatch is fabricated. The cover's contribution row is verified genuinely EMPTY (all three columns), the contribution schedule prints no total box, and the schedule itself carries no transactions: its only printed line is the blank form's SPECIMEN row ('8/25/10 Jon and Jane Doe, PO Box 128, Coalville UT 84017, $435.00' - the documented summit_form specimen, dropped, not a transaction). The filer did make an affirmative mark: a hand-drawn SLASHED ZERO in the Amount column of the first row below the specimen (p2 band 3), which under the zero-glyph ruling denotes 0. That is recorded here as a page property and as the side's state - the schedule EXISTS and is blank of transactions, i.e. 'transcribed' with ZERO rows, a real zero - but it is NOT promoted into a stated total, because the form and the cover both leave the contribution figure unstated."
+   },
+   "expenditures": {
+    "stated": "293.54",
+    "itemized": "293.54",
+    "result": "exact",
+    "detail": "exact - the single handwritten row (7/25/2018, filing fee, 293.54) reproduces the module's stated cover figure to the cent. The page's own 'Total amount of expenditures' box was left EMPTY by the filer, so the cover is the only printed gate. The printed specimen row ('8/25/10 Name of Business / Campaign signs and flyers / $512.00') is dropped, and the gate closing ONLY without it is the proof."
+   }
+  },
+  "page_gates": "p2 'Campaign Finacial Report 2018 / ITEMIZED CONTRIBUTION REPORT' (the form's own title typo) prints NO total box of any kind - this is the single_total variant's contribution sheet - and the COVER states no contribution figure either, so there is NOTHING to gate this side on; the page carries only the blank form's printed SPECIMEN row plus a hand-drawn slashed zero. p3 ITEMIZED EXPENSE REPORT: the printed 'Total amount of expenditures' box is EMPTY (left blank by the filer), so the only gate is the cover's $293.54 - and the single handwritten row is $293.54, exact. Dropping the printed specimen row is what makes that gate close (293.54 + the specimen's 512.00 = 805.54, which nothing on the document states).",
+  "escalations": 3,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 1,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Rhonda Francis, County Recorder/Surveyor, 2018 Pre-Election. A single_total-variant filing whose schedules are essentially UNUSED: both sheets still carry the blank form's printed specimen rows, and the filer added exactly one handwritten line (the filing fee) plus one slashed zero. THE COVER STATES NO CONTRIBUTION TOTAL AT ALL (verified empty on the full-page re-read of 2026-08-02 and again from the cover cache here), so this side has no gate; see recon. ZERO-GLYPH: the p2 Amount column carries a hand-drawn slashed zero on the row under the specimen - verified with a 1200 dpi tight crop - an affirmative written zero, not an empty cell. FIELD-SHIFT SCREEN on p3: the columns ARE assignable but the filer misused one - 'filing fee' (a purpose) is written in the 'Person or Organization' column while the 'Purpose of Expenditure' cell holds only a long hand-drawn horizontal dash. Transcribed exactly where written, never moved between columns; the dash is a nil mark and stays BLANK (zero-glyph ruling: a bare dash is not a numeral and, here, not a word either). The handwritten amount is written in the cents-superscript style '293 54' with no printed decimal point; the cover's 293.54 settles it, and arithmetic outranks the glyph. Amounts and the date were escalated with 800-1200 dpi tight band crops (3 escalations: the p2 zero glyph, the p3 specimen band, the p3 data band)."
+ }
 }

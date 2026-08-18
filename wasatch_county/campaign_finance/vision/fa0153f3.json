@@ -1,71 +1,142 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_E-Rowland.pdf",
-    "cache_key": "fa0153f3",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Erik Rowland",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_E-Rowland.pdf",
+  "cache_key": "fa0153f3",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "County Council Seat C",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "March 31, 2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "265.66",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "265.66",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "265.66",
+     "itemized": "265.66",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (265.66 = 265.66, published stated total)",
+     "published_stated": "265.66",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: blank, 0 rows -- no gate. p2 Table B TOTAL $265.66 = rows 265.66 -> GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 1,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Typed sheet, cleanly legible at 200 dpi (index.csv calls this filing 'scanned' and the module's CLAUDE.md records that its text layer came out as OCR noise -- the IMAGE is clean, which is why the vision read closes where the parser could not). Erik Kim Rowland, County Council Seat C, Republican, Heber City; Partisan Convention Report box marked, convention date April 7, 2026; signed March 31, 2026; 2026 vintage cites Utah Code 17-70-4. Cover prints a POSITIVE $265.66 balance against 0.00 contributions and 265.66 expenditures -- the known Rowland 2026-03 filer inconsistency (already in the module's CLAUDE.md); left as filed. Payee spelled 'Wasatch' on the face as 'Wasatch County' (printed 'Wasatch' correctly); note the county filing fee here is 265.66, unlike the 653.00 fees in the 2024 cycle -- different office and cycle, not a discrepancy."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Erik Rowland",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. The balance is printed +265.66 against zero contributions and 265.66 of expenditures (sign inconsistency) \u2014 verbatim."
+  "office_verbatim": {
+   "value": "County Council Seat C",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "March 31, 2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "265.66",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "265.66",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. The balance is printed +265.66 against zero contributions and 265.66 of expenditures (sign inconsistency) — verbatim.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-02",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "265.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "typed row, unambiguous at 200 dpi; amount printed '$265.66'.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -1,7 +1,33 @@
 # Salt Lake City — campaign-finance disclosures: availability & sourcing
 
-**As-of: 2026-07-05; materially CORRECTED 2026-08-02** by an adversarial channel re-hunt —
-full probe log in **`RECON_2026-08-02.md`**, which is authoritative where the two disagree.
+**As-of: 2026-07-05; materially CORRECTED 2026-08-02; UPDATED 2026-08-14** by a second
+accessibility hunt — full probe log in **`RECON_2026-08-02.md`** (incl. its **2026-08-14
+addendum**), which is authoritative where the two disagree.
+
+> ## 2026-08-14 UPDATE — the IA blocks cleared; the CITY changed nothing
+>
+> 1. **All 5 IA-interstitial-blocked objects RECOVERED.** The 2003 tranche is now **10 of 11**
+>    (`David_Spatafore` + `J_Michael_Clara` added — real, born-digital, itemized filings) and
+>    `recorder_limitations/` is **15 of 15**. Structured layer rebuilt through the existing
+>    path, additive only: filings 8→**10**, contributions 222→**248**, expenditures 162→**176**
+>    (44 insertions, 0 deletions); `validate_finance` PASS 0/0. **`Dale_Lambert.pdf` is the one
+>    permanent gap** — re-confirmed by CDX (the `fin_disc/pdfs/` prefix holds exactly 10 rows).
+> 2. **The portal is unchanged, and that is measured, not assumed.** `GetElections` still 503;
+>    the body is **byte-identical** to the 2026-08-02 retained snapshot apart from Cloudflare's
+>    rotating email-obfuscation token, and its embedded balance table still reads *"Balance as
+>    of April 2026"*. `CandidateReporting` still 500; sibling candidate app still 401.
+> 3. **New host found — `webdme.slcgov.com`** (Laserfiche WebLink 11), **8 live public apps**
+>    (Agendas/Minutes, Ordinances, Boards & Commissions, Planning…) with anonymous full-text
+>    search. **Earned negative for CF:** no campaign-finance or elections-filings subtree is
+>    exposed on any of them; the `CityElections` app that once served candidate Declaration
+>    packets is **retired (404)**. A real lead for the repo's *other* SLC layers — see LEADS.md.
+> 4. **Declared-candidates rosters harvested** (2025 live + **2021 ×2 from Wayback**) as
+>    `raw/declared_candidates/`. **Candidate spine only — no money, never a filing.**
+> 5. **Taxonomy correction:** `raw/recorder_limitations/` is described below as declarations
+>    "to voluntarily limit". It is **mixed** — Buhler and Hughes are §2.46.080 notices of a
+>    decision to **DECLINE** to limit. Both are public notices under the same section.
+> 6. **DocumentCloud regressed:** its anonymous search API is now Cloudflare-challenged to
+>    scripts (was merely non-phrase-filtering on 2026-08-02). Still unexhausted, not negative.
 Dataset scope: municipal candidates for **Salt Lake City Council (7 geographic districts) +
 Mayor**, cycles **2019 / 2021 / 2023 / 2025** (see "Deeper availability" for what the portal
 holds beyond this window).
@@ -135,19 +161,27 @@ complete and ready; re-run it when the backend is back up, then `build_index.py`
 - **Pre-portal cycles (2003–2017) — REVISED 2026-08-02.** These cycles **were** published
   online, in the `CandidateReporting` app (year dropdown 2003–2019) and, for **2003 only**,
   as per-candidate PDFs. What survives today:
-  - **2003: 8 filings recovered** → `raw/recorder_2003/` + `text/recorder_2003/`
-    (itemized contributions *and* expenditures). Honest gaps in this tranche: 2 files
-    (`David_Spatafore`, `J_Michael_Clara`) are **captured by Wayback but currently
-    unretrievable** — the Archive serves a donation interstitial instead of the object
-    (transient; **retry**); `Dale_Lambert` is on the index but **never captured** (permanent).
+  - **2003: 10 filings recovered** → `raw/recorder_2003/` + `text/recorder_2003/`
+    (itemized contributions *and* expenditures). *(8 on 2026-08-02; `David_Spatafore` and
+    `J_Michael_Clara` added 2026-08-14 once the Archive's donation interstitial cleared —
+    the "transient, retry" call was correct.)* Honest gap in this tranche: **`Dale_Lambert`
+    is on the index but was never captured by Wayback — permanent**, re-confirmed by CDX
+    2026-08-14 (the `fin_disc/pdfs/` prefix returns exactly 10 rows, all now held).
   - **2005–2019: no surviving public copy.** The app was POST-only, so Wayback holds its
     forms but never a result page; the app itself now returns HTTP 500. The files still sit
     on the city's IIS host (`D:\IISRoot\dotnet.slcgov.com\managementservices\
     candidatereporting\`, disclosed by the live error). **Honest gap, recoverable only from
     the city.**
-  - Supplementary, **not filings**: `raw/recorder_limitations/` — scanned "Public Notice"
-    declarations to voluntarily limit contributions/expenditures (2003/2005/2007 cycles,
-    from `recorder/pdfs/limitations/`); `raw/recorder_open_committees/` — the **live**
+  - Supplementary, **not filings**: `raw/recorder_limitations/` — **15 of 15** scanned
+    §2.46.080 "Public Notice" documents (2003/2005/2007 cycles, from
+    `recorder/pdfs/limitations/`; completed 2026-08-14 with Buhler, Hughes, SaxtonNotice).
+    **Mixed instrument:** most declare a decision to voluntarily *limit* contributions and
+    expenditures, but **Buhler and Hughes DECLINE to limit** — read each before
+    characterizing it. Image-only, no text layer (vision/OCR needed).
+    `raw/declared_candidates/` — **roster snapshots, not filings, no money**: the live 2025
+    `slc.gov/attorney/list-of-declared-candidates/` page plus two Wayback captures of the
+    2021 cycle (final verified roster + a mid-filing-window partial).
+    `raw/recorder_open_committees/` — the **live**
     `slcdocs.com/recorder/Open Committee's.pdf`, the roster of 22 open Personal Campaign
     Committees as of 2019-05-03 (machine-readable text).
 
@@ -194,7 +228,8 @@ complete and ready; re-run it when the backend is back up, then `build_index.py`
 | SLC files nothing to `disclosures.utah.gov` | **CONFIRMED, now earned** | 2026-08-02 sweep: 90 folders / **667 files** under `/Municipal/salt lake` downloaded and classified by the **office line inside each form** (407 image-only OCR'd). In-form jurisdiction census: **Salt Lake City = 0**. The 9 apparent hits are all *South* Salt Lake. No pre-2009 folder exists in the state system at all. The 2023/2025 folders explicitly **link out to SLC's own portal**. Statutory reason: §10-3-208 — municipal candidates file with the **municipal recorder**. |
 | Not an EasyVote city | **CONFIRMED, now earned** | 18 SLC-shaped subdomains NXDOMAIN (controls resolve). SLCo's EasyVote tenant enumerated: **64 offices** — county, metro townships, school boards — **no SLC Mayor or Council**. |
 | SLC files nothing to PMN | **NEW, earned** | JSON POST `/pmn/searchresult.html` with `X-CSRF-TOKEN`: `entityName='Salt Lake City' + agenda='campaign finance'` ⇒ *"No results found."* Query proven live (returns Hyrum / Ogden / Rich County / Wellsville rows unfiltered). |
-| Live API genuinely down | **CONFIRMED + reframed** | Static `app/main.js` 200 while `GetElections` 503s. **New:** the sibling candidate app's identical API path returns **401**, and the 503 page renders live DB rows ⇒ the app pool/read surface is off, the data is not gone. |
+| Live API genuinely down | **CONFIRMED + reframed** | Static `app/main.js` 200 while `GetElections` 503s. **New:** the sibling candidate app's identical API path returns **401**, and the 503 page renders live DB rows ⇒ the app pool/read surface is off, the data is not gone. **Re-probed 2026-08-14: unchanged, and the 503 body is byte-identical to the retained snapshot (bar Cloudflare's rotating email token) with its balance table still stamped "April 2026".** |
+| No SLC city host other than `dotnet.slcgov.com` serves CF | **REFINED 2026-08-14** | `webdme.slcgov.com` (Laserfiche WebLink 11) found — **8 live public apps**, all roots enumerated via the WebLink JSON API with anonymous search rights. **No campaign-finance / elections-filings subtree on any of them**; the `CityElections` app is retired (404) and its 2021 entry ids are unresolvable. Wayback host sweep: 5,145 captures, **0 PDFs**. |
 | No third-party mirror holds the itemized data | see `RECON_2026-08-02.md` | Ballotpedia / FollowTheMoney / news / GitHub sweep. |
 
 ## Reproduce

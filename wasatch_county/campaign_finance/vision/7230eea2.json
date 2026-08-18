@@ -1,90 +1,338 @@
 {
-  "_meta": {
-    "index_path": "raw/2020/2020_JuneKCrittenden.pdf",
-    "cache_key": "7230eea2",
-    "entity": "wasatch_county",
-    "election_year": "2020",
-    "reporting_period_index": "June 2020 (7 days before Primary)",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "wasatch_fcr_3line",
-    "form_statute_verbatim": "17-15-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Kendall Crittenden",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2020/2020_JuneKCrittenden.pdf",
+  "cache_key": "7230eea2",
+  "entity": "wasatch_county",
+  "election_year": "2020",
+  "reporting_period_index": "June 2020 (7 days before Primary)",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "wasatch_fcr_3line",
+  "form_statute_verbatim": "17-15-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_03.json",
+   "variant": "wasatch_fcr_3line",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "878.75",
+     "itemized": "878.75",
+     "result": "exact",
+     "anchor": "the cover's own total contributions line, CUMULATIVE column",
+     "detail": "exact (878.75 = 878.75, the cover's own total contributions line, CUMULATIVE column)",
+     "published_stated": "878.75",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "",
-      "confidence": ""
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "WASATCH COUNTY CLERK",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "7 Days preceding the Primary Election"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "878.75",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "878.75",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "869.42",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "869.42",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "this_report": {
-        "value": "9.33",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "9.33",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "869.42",
+     "itemized": "869.42",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "exact (869.42 = 869.42, the cover's own total expenses line, CUMULATIVE column)",
+     "published_stated": "869.42",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "TWO filer-written page totals, both gated and both PASSING. Form A (p3) footer '$878.75' = 178.75 + 100.00 + 500.00 + 100.00. Form B (p4) footer '$869.42' = 178.75 + 34.85 + 35.17 + 159.60 + 280.00 + 1.05 + 180.00 -- this is the gate that fixes the Stamps row at 280.00 rather than 200.00. Cover identity 878.75 - 869.42 = 9.33 = printed balance -- HOLDS.",
+   "escalations": 1,
+   "escalation_note": "600 dpi crop of the p3 date column (four two-digit-year dates).",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 7,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "wasatch_fcr_3line, cumulative regime; scanned. Kendall Crittenden, Heber City, Republican, signed 6/23/2020, '7 Days preceding the Primary Election' checked. THE 'NAME OF OFFICE' FIELD IS BLANK on the form -- index.csv assigns County Council from the county's candidate listing; nothing on the face contradicts it, but nothing on the face states it either. 4-page PDF: p1 cover, P2 IS A BLANK BACK-SIDE SCAN (only mirrored bleed-through of the cover, no schedule and no writing), p3 Form A, p4 Form B. TOTALS FROM LAST REPORT is a dash on all three cover lines. Every date on both schedules is written with a two-digit year (3/19/20 style). On Form B the filer put the PURPOSE in the 'Name of Expenditure' column and the PAYEE in the address column; vendor_raw keeps the name column verbatim and each row note names the payee -- no street address is retained. FIELD-SHIFT SCREEN: passed (4/4/4 on p3, 7/7/7 on p4)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Kendall Crittenden",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "'Name of Office' is left blank on the face; the office in index.csv comes from the county's own 2020 candidate listing."
+  "office_verbatim": {
+   "value": "",
+   "confidence": ""
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "WASATCH COUNTY CLERK",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "7 Days preceding the Primary Election"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "878.75",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "878.75",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "869.42",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "869.42",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "this_report": {
+    "value": "9.33",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "9.33",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "'Name of Office' is left blank on the face; the office in index.csv comes from the county's own 2020 candidate listing.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2020-03-19",
+   "donor_raw": "Kendall Crittenden",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "178.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "note": "the candidate's own contribution; matches his 3/19/20 filing-fee expenditure to the dollar; date printed '3/19/20' (two-digit year)",
+   "geometry": "pct:10.00,19.00,80.00,2.05@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2020-04-12",
+   "donor_raw": "Danny Goode",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "note": "date printed '4/12/20' (two-digit year)",
+   "geometry": "pct:10.00,21.05,80.00,2.05@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2020-06-02",
+   "donor_raw": "Steve Farrell",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "note": "date printed '6/2/20' (two-digit year)",
+   "geometry": "pct:10.00,23.10,80.00,2.05@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2020-06-04",
+   "donor_raw": "Danny Goode",
+   "donor_city": "Heber",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "note": "second contribution from the same donor -- kept as two rows, never merged; date printed '6/4/20' (two-digit year)",
+   "geometry": "pct:10.00,25.15,80.00,2.05@p3",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 4,
+   "row_i": 0,
+   "date": "2020-03-19",
+   "vendor_raw": "Candidate Filing Fee",
+   "purpose": "",
+   "amount": "178.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the address cell holds the county clerk's street address -- discarded at read time (expenditure rows carry no address fields); date printed '3/19/20' (two-digit year)",
+   "geometry": "pct:10.00,15.50,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 4,
+   "row_i": 1,
+   "date": "2020-05-26",
+   "vendor_raw": "Campaign Supplies",
+   "purpose": "",
+   "amount": "34.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the ADDRESS column as 'Timberline Hardware Heber'; the 'Name of Expenditure' cell holds the purpose, kept verbatim in vendor_raw; date printed '5/26/20' (two-digit year)",
+   "geometry": "pct:10.00,17.60,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 4,
+   "row_i": 2,
+   "date": "2020-06-04",
+   "vendor_raw": "Campaign Supplies",
+   "purpose": "",
+   "amount": "35.17",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the address column as 'Timberline Hardware Heber'; date printed '6/4/20' (two-digit year)",
+   "geometry": "pct:10.00,19.70,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 4,
+   "row_i": 3,
+   "date": "2020-06-12",
+   "vendor_raw": "Campaign Mailers",
+   "purpose": "",
+   "amount": "159.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the address column as 'Wave Publishing, Heber'; date printed '6/12/20' (two-digit year)",
+   "geometry": "pct:10.00,21.80,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 4,
+   "row_i": 4,
+   "date": "2020-06-12",
+   "vendor_raw": "Stamps",
+   "purpose": "",
+   "amount": "280.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the address column as 'U.S. Post Office Heber'. Glyph could read 200.00 or 280.00; ARITHMETIC OUTRANKS GLYPH -- only 280.00 closes the filer's own page total 869.42; date printed '6/12/20' (two-digit year)",
+   "geometry": "pct:10.00,23.90,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 4,
+   "row_i": 5,
+   "date": "2020-06-12",
+   "vendor_raw": "Stamps",
+   "purpose": "",
+   "amount": "1.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the address column as 'U.S. Post Office Heber'; date printed '6/12/20' (two-digit year)",
+   "geometry": "pct:10.00,26.00,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 4,
+   "row_i": 6,
+   "date": "2020-06-19",
+   "vendor_raw": "Campaign Ads",
+   "purpose": "",
+   "amount": "180.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;amount=high",
+   "verified": 0,
+   "note": "payee printed in the address column as 'Wave Publishing, Heber'; date printed '6/19/20' (two-digit year)",
+   "geometry": "pct:10.00,28.10,80.00,2.10@p4",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

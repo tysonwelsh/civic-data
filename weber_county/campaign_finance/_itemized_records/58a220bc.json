@@ -1,0 +1,22 @@
+[{
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 102,
+  "page_end": 104,
+  "key": "58a220bc",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [102, 103, 104],
+  "sides": { "contributions": "empty-schedule", "expenditures": "empty-schedule" },
+  "recon": {
+    "contributions": { "result": "period-exact",
+                       "anchor": "the cover's line-1 'Totals for This Report' cell, which is a BARE DASH (no numeral), against 'Totals from Last Report' 1,575.00 = 'Cumulative Totals' 1,575.00",
+                       "detail": "Form A (p103) was filed and is a completely BLANK printed grid - column headers only, no date, contributor, address or amount in any of its row bands - and its own 'Total Contributions: (to line 1 of report)' cell carries only a tiny bare dash (confirmed at 800 dpi), which under the zero-glyph ruling is a nil mark and not a numeral. The cover's own three-column arithmetic closes with nothing in the middle column: 1,575.00 (last) + nothing (this) = 1,575.00 (cumulative), so ZERO itemized rows is exactly right for this period-scoped schedule. The 1,575.00 cumulative is prior-period money reported on this filer's earlier 2024 reports and is not itemized here." },
+    "expenditures":  { "result": "period-exact",
+                       "anchor": "the cover's line-2 'Totals for This Report' cell, also a BARE DASH, against 'Totals from Last Report' 1,519.17 = 'Cumulative Totals' 1,519.17",
+                       "detail": "Form B (p104) is likewise a completely BLANK printed grid with only a bare dash on its 'Total Expenditures: (to line 2 of report)' line. 1,519.17 (last) + nothing (this) = 1,519.17 (cumulative), and the balance line closes the same way (55.83 last = 55.83 cumulative, 1,575.00 - 1,519.17 = 55.83). Zero rows is the correct and complete transcription of this period." }
+  },
+  "escalations": 1,
+  "escalation_note": "800 dpi --value crop of Form A's printed grand-total cell on p103 to settle whether the mark there is a numeral or a nil mark: it is a bare dash, so the cell stays BLANK (weber's dash-nil control). Form B's total cell on p104 carries the same mark and reads the same way at full page.",
+  "contributions": [],
+  "expenditures": [],
+  "notes": "TYPED 2024 filing, three pages: p102 cover (October 29 box ticked), p103 FORM A and p104 FORM B - BOTH FILED AND BOTH ENTIRELY BLANK. These are empty-schedules, NOT missing pages: each sheet exists, prints its full column headers and row grid, and carries no entry anywhere. The candidate reported no activity in the October 4-23 window, which the cover's dash-filled This-Report column states directly. The cover is dated 10/4/2024 - the SAME signature date as this filer's separate October-8 report (key 0ba5aef6 territory); two distinct filings sharing a signature date, retained as filed and not merged. The candidate's street address on p102 is BLACKED OUT BY THE COUNTY (a government-applied redaction, preserved). Note also a printed-form defect the county never fixed: the December 5 paragraph on this 2024 cover still says 'through December 31, 2022' - the source's own text, quoted here only as an observation, not transcribed into any field."
+}]

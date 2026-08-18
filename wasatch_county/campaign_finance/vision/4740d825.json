@@ -1,83 +1,437 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202603_J-Hales.pdf",
-    "cache_key": "4740d825",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Jeremy Hales",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202603_J-Hales.pdf",
+  "cache_key": "4740d825",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "March 2026 (Partisan Convention Report, due 3/31)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4946.84",
+     "itemized": "4946.84",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (4946.84 = 4946.84, published stated total)",
+     "published_stated": "4946.84",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Sheriff",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "59",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Republican",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "HEBER CITY",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "3-30-2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report"
-    ],
-    "convention_date_verbatim": "April 7, 2026"
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "4,946.84",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "2,069.55",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "2,877.29",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2069.55",
+     "itemized": "2069.55",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2069.55 = 2069.55, published stated total)",
+     "published_stated": "2069.55",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 4,946.84 = rows 4946.84 — GATE PASSES; p2 Table B TOTAL: 2,069.55 = rows 2069.55 — GATE PASSES. Cover identity 4946.84 - 2069.55 = 2877.29 matches printed balance. INDEPENDENT third check: pages 3-5 are QuickBooks 'Elect Jeremy Hales For Sheriff' P&L Detail / Balance Sheet / P&L whose Total Donation 4,946.84, Total Expense 2,069.55 and Net Income 2,877.29 agree line-for-line with Tables A and B.",
+   "escalations": 0,
+   "escalation_note": "none needed — born-digital typed tables, and pages 3-5 independently corroborate every figure",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 10,
+   "geometry": {
+    "bbox_exact": 5,
+    "estimated_band": 12,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "5-page filing: p1 cover, p2 Tables A+B, p3 QuickBooks Profit & Loss Detail, p4 Balance Sheet, p5 Profit & Loss summary. The attachments are supporting accounting documents, NOT additional schedule rows, so no rows were taken from them. TWO divergences between the form and its own attachment, recorded not resolved (the FORM governs, per per-row contract): (1) Table A line 1 'Jeremy Hales 1,012.77' is shown on p3 as three separate 01/08/2026 Hales contributions of 59.52, 31.20 and 922.05 — the filer aggregated them on the form; (2) the two Winred fees are dated 2/25/26 and 3/24/26 in Table B but 02/23/2026 and 03/21/2026 on p3. The Signarama 75.00 appears on BOTH sides (in-kind contribution of 10 signs on Table A, offsetting expenditure on Table B) and both printed totals include it. Only the Partisan Convention box is checked; convention date 'April 7, 2026'. Cover 'District: 59' is written on a Sheriff filing (county office has no district) — noted, transcribed from the form as-is, no schedule impact."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Jeremy Hales",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed."
+  "office_verbatim": {
+   "value": "Sheriff",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "59",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Republican",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "HEBER CITY",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "3-30-2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report"
+  ],
+  "convention_date_verbatim": "April 7, 2026"
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "4,946.84",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "2,069.55",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "2,877.29",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-08",
+   "donor_raw": "Jeremy Hales",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1012.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "candidate self-funding; p3 attachment breaks this single line into 59.52 + 31.20 + 922.05 on the same date",
+   "geometry": "pct:6.46,12.22,49.25,1.51@p2",
+   "geometry_fit": "bbox"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-02-18",
+   "donor_raw": "Jeremy Hales",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1512.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.35,14.91,49.36,1.47@p2",
+   "geometry_fit": "bbox"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-02-21",
+   "donor_raw": "Jeremy Hales",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "121.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "p3 shows this same date/donor as two lines, 80.21 + 40.83 = 121.04",
+   "geometry": "pct:6.35,17.51,48.13,1.58@p2",
+   "geometry_fit": "bbox"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-02-21",
+   "donor_raw": "Signarama",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "75.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "In-Kind / Tangible items column reads verbatim '10 campaign signs'; INCLUDED in the filer's printed TOTAL",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-02-23",
+   "donor_raw": "Dustin Lazenby",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.35,22.93,49.36,1.47@p2",
+   "geometry_fit": "bbox"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-03-21",
+   "donor_raw": "Daniel Sungail",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "26.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "surname spelling 'Sungail' identical on p2 and p3",
+   "geometry": "pct:5.00,30.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-03-30",
+   "donor_raw": "Jeremy Hales",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.23,28.27,49.53,1.48@p2",
+   "geometry_fit": "bbox"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-01-08",
+   "vendor_raw": "Walmart",
+   "purpose": "Paper, envelopes, and pens",
+   "amount": "59.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "p3 memo is longer: 'Paper, envelopes, pens, and for signature gathe...' (truncated in the attachment)",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-01-08",
+   "vendor_raw": "Lee's Marketplace",
+   "purpose": "Stamps for Thank You cards",
+   "amount": "31.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-01-08",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Campaign Filing Fee",
+   "amount": "922.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-02-06",
+   "vendor_raw": "Zeffy",
+   "purpose": "Campaign Event Booth (Wasatch GOP Lincoln Day)",
+   "amount": "721.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose wraps to a second printed line in the same cell",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-02-21",
+   "vendor_raw": "Amazon",
+   "purpose": "Candy & labels for Lincoln Day Event",
+   "amount": "80.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-02-21",
+   "vendor_raw": "Amazon",
+   "purpose": "Table Cloths for Lincoln Day Event",
+   "amount": "40.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2026-02-21",
+   "vendor_raw": "Michael's",
+   "purpose": "Vinyl Lettering for table cloths for Lincoln Day Event",
+   "amount": "98.81",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose wraps to a second printed line in the same cell",
+   "geometry": "pct:5.00,76.20,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 2,
+   "row_i": 7,
+   "date": "2026-02-25",
+   "vendor_raw": "Winred",
+   "purpose": "Merchant/Website Fee",
+   "amount": "39.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "p3 attachment dates this fee 02/23/2026 — form value retained",
+   "geometry": "pct:5.00,78.65,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 2,
+   "row_i": 8,
+   "date": "2026-02-21",
+   "vendor_raw": "Signarama",
+   "purpose": "10 signs donated by Signarama",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "the offsetting side of the in-kind sign donation booked as contribution line 4; printed in Table B with no in-kind marking, so in_kind is false as the column stands",
+   "geometry": "pct:5.00,81.10,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 2,
+   "row_i": 9,
+   "date": "2026-03-24",
+   "vendor_raw": "Winred",
+   "purpose": "Merchant/Website Fee",
+   "amount": "1.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "p3 attachment dates this fee 03/21/2026 — form value retained",
+   "geometry": "pct:5.00,83.55,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

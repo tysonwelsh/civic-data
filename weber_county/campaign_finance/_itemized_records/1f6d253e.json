@@ -1,0 +1,3275 @@
+[
+ {
+  "index_path": "raw/wayback/wb20160824043243_16June_Gochnour_Commission.pdf",
+  "page_start": 1,
+  "page_end": 11,
+  "key": "1f6d253e",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 weber close-out, lane T)",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "itemized_pages_A": "2,3,4,5,6,7,8",
+  "itemized_pages_B": "9,10",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "Form A's own printed grand total, 'Total Contributions: (to line 1 of report)  $ 32,162.25' (p2), which equals BOTH cover cells - 'Totals for This Report' 32,162.25 and 'Cumulative Totals' 32,162.25 (the 'Totals from Last Report' column is blank, so this is a single cumulative report and the cumulative-scope anchor and the period-scope anchor are the same figure)",
+    "detail": "147 Form A rows over pp2-8 sum to 34,227.25, which is 2,065.00 MORE than the printed anchor of 32,162.25. The difference is the FILER'S OWN page-subtotal arithmetic and is traced exactly: the seven printed page subtotals (5,880.00 + 3,056.00 + 4,146.25 + 3,825.00 + 4,450.00 + 7,955.00 + 2,850.00) sum to 32,162.25, i.e. the grand total is the sum of the filer's subtotals, not of the filer's rows. Two subtotals under-count their own sheets. (i) p6 'Subtotal page 5 of 7' prints 4,450.00 against 25 rows that sum to 4,750.00 - short by exactly one 300.00 row; all three 300.00 cells on that sheet (rows 1, 15, 23) were re-cropped at 900dpi and each verifiably reads 300.00, and the printed subtotal cell itself verifiably reads 4,450.00, so which of the three the filer's SUM range dropped cannot be determined FROM THE PAGE - the most likely reading, by analogy with the p7 defect below, is that the SUM range began at row 2 and omitted row 1 (Mary Evans, 300.00). (ii) p7 'Subtotal page 6 of 7' prints 7,955.00 against 26 rows that sum to 9,720.00 - short by exactly 1,765.00, which is the sum of that sheet's FIRST THIRTEEN rows (Sharon Lewis 100.00 through Yaeko Bryner 100.00); rows 14-26 alone sum to 7,955.00 exactly. Those first 13 rows are the ones typed with the figure inline as '$100.00' in a single cell instead of in the split '$ | amount' cells used by rows 14-26, so the filer's SUM range plainly started at row 14. Nothing was nudged: every row is the printed figure and the delta is left standing as the filer's arithmetic. IN-KIND CONVENTION: monetary-plus-in-kind is what the filer used - the single in-kind row (Rich & Kathy Peterson, 90.00, p6 row 16) is inside the p6 subtotal formula, since the p6 shortfall is exactly 300.00 and not 90.00, 210.00 or 390.00; excluding in-kind would move the p6 rows to 4,660.00 and close nothing."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed grand total, 'Total Expenditures: (to line 2 of report)  32,769.16' (p9), which equals BOTH cover cells - 'Totals for This Report' 32,769.16 and 'Cumulative Totals' 32,769.16",
+    "detail": "35 Form B rows sum to 32,769.16 exactly. Page gate: p9's printed 'Subtotal page 1 of 2' is 13,729.55 and its 23 rows sum to 13,729.55 exactly; p10 prints NO subtotal (its 12 rows sum to 19,039.61), and 13,729.55 + 19,039.61 = 32,769.16 = the printed grand total = both cover cells. No in-kind rows appear on Form B, so the two in-kind conventions are identical on this side."
+   }
+  },
+  "escalations": 6,
+  "escalation_note": "900dpi tight --value crops: three 300.00 amount cells and the printed subtotal cell on p6 (tracing the 300.00 page-subtotal shortfall - all four reproduced the full-page read, so the delta is arithmetic and not legibility), plus a re-crop of p10 row 12 after a first-pass index error rendered an empty cell. Geometry proof crops (18 more, first+last transcribed row of every itemized page) are recorded per-frame in measure_note.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     84.86,
+     95.55
+    ],
+    "cells": [
+     [
+      4.41,
+      12.55
+     ],
+     [
+      12.55,
+      42.75
+     ],
+     [
+      42.75,
+      84.86
+     ],
+     [
+      84.86,
+      95.55
+     ]
+    ],
+    "rows": [
+     [
+      14.71,
+      17.85
+     ],
+     [
+      17.85,
+      21.0
+     ],
+     [
+      21.0,
+      24.18
+     ],
+     [
+      24.18,
+      27.32
+     ],
+     [
+      27.32,
+      30.47
+     ],
+     [
+      30.47,
+      33.65
+     ],
+     [
+      33.65,
+      36.79
+     ],
+     [
+      36.79,
+      39.94
+     ],
+     [
+      39.94,
+      43.12
+     ],
+     [
+      43.12,
+      46.26
+     ],
+     [
+      46.26,
+      49.41
+     ],
+     [
+      49.41,
+      52.5
+     ],
+     [
+      52.5,
+      55.59
+     ],
+     [
+      55.59,
+      58.65
+     ],
+     [
+      58.65,
+      61.74
+     ],
+     [
+      61.74,
+      64.82
+     ],
+     [
+      64.82,
+      67.88
+     ],
+     [
+      67.88,
+      70.97
+     ],
+     [
+      70.97,
+      74.06
+     ],
+     [
+      74.06,
+      77.12
+     ],
+     [
+      77.12,
+      80.21
+     ],
+     [
+      80.21,
+      83.29
+     ],
+     [
+      83.29,
+      86.35
+     ]
+    ],
+    "measure_note": "rowbands.py h_rules_pct on this un-rotated portrait-rendered landscape sheet; the first THREE detected rules are the thick title rule, the header-row top and the header-row bottom, and the fourth is the bottom of the grey spacer band = the top of data row 1 - all trimmed, leaving exactly 23 bands for the 23 printed data rows. PROOF (900dpi --value crops of the stored geometry): row 1 rendered '$ 50.00' (recorded 50.00); row 23 rendered '$ 100.00' (recorded 100.00)."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     77.45,
+     92.05
+    ],
+    "cells": [
+     [
+      6.41,
+      14.86
+     ],
+     [
+      14.86,
+      41.73
+     ],
+     [
+      41.73,
+      77.45
+     ],
+     [
+      77.45,
+      92.05
+     ]
+    ],
+    "rows": [
+     [
+      23.59,
+      26.71
+     ],
+     [
+      26.71,
+      29.82
+     ],
+     [
+      29.82,
+      32.97
+     ],
+     [
+      32.97,
+      36.09
+     ],
+     [
+      36.09,
+      39.21
+     ],
+     [
+      39.21,
+      42.32
+     ],
+     [
+      42.32,
+      45.47
+     ],
+     [
+      45.47,
+      48.62
+     ],
+     [
+      48.62,
+      51.74
+     ],
+     [
+      51.74,
+      54.85
+     ],
+     [
+      54.85,
+      57.97
+     ],
+     [
+      57.97,
+      61.12
+     ],
+     [
+      61.12,
+      64.24
+     ],
+     [
+      64.24,
+      67.35
+     ],
+     [
+      67.35,
+      70.5
+     ],
+     [
+      70.5,
+      73.62
+     ],
+     [
+      73.62,
+      76.74
+     ],
+     [
+      76.74,
+      79.88
+     ],
+     [
+      79.88,
+      83.0
+     ],
+     [
+      83.0,
+      86.12
+     ]
+    ],
+    "measure_note": "same trim as p2 (3 leading rules: title rule, header top, header bottom; 4th rule = grey spacer bottom = row-1 top). 21 remaining rules -> 20 bands for 20 printed data rows. PROOF: row 1 rendered '$ 500.00' (recorded 500.00); row 20 rendered '$ 46.00' (recorded 46.00)."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     80.11,
+     95.11
+    ],
+    "cells": [
+     [
+      2.32,
+      12.77
+     ],
+     [
+      12.77,
+      42.48
+     ],
+     [
+      42.48,
+      80.11
+     ],
+     [
+      80.11,
+      95.11
+     ]
+    ],
+    "rows": [
+     [
+      27.82,
+      30.94
+     ],
+     [
+      30.94,
+      34.06
+     ],
+     [
+      34.06,
+      37.21
+     ],
+     [
+      37.21,
+      40.32
+     ],
+     [
+      40.32,
+      43.44
+     ],
+     [
+      43.44,
+      46.59
+     ],
+     [
+      46.59,
+      49.71
+     ],
+     [
+      49.71,
+      52.82
+     ],
+     [
+      52.82,
+      55.97
+     ],
+     [
+      55.97,
+      59.09
+     ],
+     [
+      59.09,
+      62.24
+     ],
+     [
+      62.24,
+      65.35
+     ],
+     [
+      65.35,
+      68.47
+     ],
+     [
+      68.47,
+      71.59
+     ],
+     [
+      71.59,
+      74.74
+     ],
+     [
+      74.74,
+      77.85
+     ],
+     [
+      77.85,
+      81.0
+     ],
+     [
+      81.0,
+      84.12
+     ],
+     [
+      84.12,
+      87.24
+     ],
+     [
+      87.24,
+      90.35
+     ]
+    ],
+    "measure_note": "same trim as p2. 21 remaining rules -> 20 bands for 20 printed data rows. PROOF: row 1 rendered '$ 100.00' (recorded 100.00); row 20 rendered '$ 350.00' (recorded 350.00)."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     75.98,
+     86.14
+    ],
+    "cells": [
+     [
+      2.32,
+      10.86
+     ],
+     [
+      10.86,
+      38.95
+     ],
+     [
+      38.95,
+      75.98
+     ],
+     [
+      75.98,
+      86.14
+     ]
+    ],
+    "rows": [
+     [
+      17.5,
+      20.62
+     ],
+     [
+      20.62,
+      23.76
+     ],
+     [
+      23.76,
+      26.88
+     ],
+     [
+      26.88,
+      30.0
+     ],
+     [
+      30.0,
+      33.12
+     ],
+     [
+      33.12,
+      36.26
+     ],
+     [
+      36.26,
+      39.38
+     ],
+     [
+      39.38,
+      42.5
+     ],
+     [
+      42.5,
+      45.65
+     ],
+     [
+      45.65,
+      48.76
+     ],
+     [
+      48.76,
+      51.88
+     ],
+     [
+      51.88,
+      55.0
+     ],
+     [
+      55.0,
+      58.15
+     ],
+     [
+      58.15,
+      61.26
+     ],
+     [
+      61.26,
+      64.41
+     ],
+     [
+      64.41,
+      67.53
+     ],
+     [
+      67.53,
+      70.65
+     ],
+     [
+      70.65,
+      73.79
+     ],
+     [
+      73.79,
+      76.91
+     ],
+     [
+      76.91,
+      80.06
+     ],
+     [
+      80.06,
+      83.18
+     ],
+     [
+      83.18,
+      86.29
+     ],
+     [
+      86.29,
+      89.41
+     ]
+    ],
+    "measure_note": "same trim as p2. 24 remaining rules -> 23 bands for 23 printed data rows. PROOF: row 1 rendered '$ 100.00' (recorded 100.00); row 23 rendered '$ 50.00' (recorded 50.00)."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     58.8,
+     66.11
+    ],
+    "cells": [
+     [
+      2.3,
+      10.02
+     ],
+     [
+      10.02,
+      26.48
+     ],
+     [
+      26.48,
+      58.8
+     ],
+     [
+      58.8,
+      66.11
+     ]
+    ],
+    "rows": [
+     [
+      14.38,
+      16.88
+     ],
+     [
+      16.88,
+      19.38
+     ],
+     [
+      19.38,
+      21.91
+     ],
+     [
+      21.91,
+      24.41
+     ],
+     [
+      24.41,
+      26.91
+     ],
+     [
+      26.91,
+      29.44
+     ],
+     [
+      29.44,
+      31.94
+     ],
+     [
+      31.94,
+      34.44
+     ],
+     [
+      34.44,
+      36.97
+     ],
+     [
+      36.97,
+      39.47
+     ],
+     [
+      39.47,
+      41.97
+     ],
+     [
+      41.97,
+      44.5
+     ],
+     [
+      44.5,
+      46.97
+     ],
+     [
+      46.97,
+      49.5
+     ],
+     [
+      49.5,
+      52.03
+     ],
+     [
+      52.03,
+      54.53
+     ],
+     [
+      54.53,
+      57.03
+     ],
+     [
+      57.03,
+      59.56
+     ],
+     [
+      59.56,
+      62.03
+     ],
+     [
+      62.03,
+      64.56
+     ],
+     [
+      64.56,
+      67.09
+     ],
+     [
+      67.09,
+      69.56
+     ],
+     [
+      69.56,
+      72.09
+     ],
+     [
+      72.09,
+      74.62
+     ],
+     [
+      74.62,
+      77.12
+     ]
+    ],
+    "measure_note": "same trim as p2. 26 remaining rules -> 25 bands for 25 printed data rows. PROOF: row 1 rendered '$ 300.00' (recorded 300.00); row 25 rendered '$ 50.00' (recorded 50.00). Two extra confirmation crops were taken while tracing the page-subtotal delta: row 15 rendered '$ 300.00' and row 23 rendered '$ 300.00', both as recorded."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     59.25,
+     67.43
+    ],
+    "cells": [
+     [
+      6.39,
+      12.3
+     ],
+     [
+      12.3,
+      29.61
+     ],
+     [
+      29.61,
+      59.25
+     ],
+     [
+      59.25,
+      67.43
+     ]
+    ],
+    "rows": [
+     [
+      19.68,
+      22.18
+     ],
+     [
+      22.18,
+      24.65
+     ],
+     [
+      24.65,
+      27.15
+     ],
+     [
+      27.15,
+      29.65
+     ],
+     [
+      29.65,
+      32.12
+     ],
+     [
+      32.12,
+      34.62
+     ],
+     [
+      34.62,
+      37.12
+     ],
+     [
+      37.12,
+      39.59
+     ],
+     [
+      39.59,
+      42.06
+     ],
+     [
+      42.06,
+      44.59
+     ],
+     [
+      44.59,
+      47.06
+     ],
+     [
+      47.06,
+      49.53
+     ],
+     [
+      49.53,
+      52.06
+     ],
+     [
+      52.06,
+      54.53
+     ],
+     [
+      54.53,
+      57.0
+     ],
+     [
+      57.0,
+      59.53
+     ],
+     [
+      59.53,
+      62.0
+     ],
+     [
+      62.0,
+      64.47
+     ],
+     [
+      64.47,
+      67.0
+     ],
+     [
+      67.0,
+      69.47
+     ],
+     [
+      69.47,
+      71.97
+     ],
+     [
+      71.97,
+      74.47
+     ],
+     [
+      74.47,
+      76.94
+     ],
+     [
+      76.94,
+      79.41
+     ],
+     [
+      79.41,
+      81.94
+     ],
+     [
+      81.94,
+      84.38
+     ]
+    ],
+    "measure_note": "same trim as p2. 27 remaining rules -> 26 bands for 26 printed data rows. PROOF: row 1 rendered '$100.00' (recorded 100.00 - rows 1-13 print the figure inline as '$100.00' rather than in the split $ | amount cells); row 26 rendered '$ 150.00' (recorded 150.00)."
+   },
+   "8": {
+    "axis": "y",
+    "cell": [
+     70.86,
+     79.07
+    ],
+    "cells": [
+     [
+      6.39,
+      14.91
+     ],
+     [
+      14.91,
+      43.36
+     ],
+     [
+      43.36,
+      70.86
+     ],
+     [
+      70.86,
+      79.07
+     ]
+    ],
+    "rows": [
+     [
+      21.21,
+      23.85
+     ],
+     [
+      23.85,
+      26.5
+     ],
+     [
+      26.5,
+      29.12
+     ],
+     [
+      29.12,
+      31.79
+     ],
+     [
+      31.79,
+      34.44
+     ],
+     [
+      34.44,
+      37.09
+     ],
+     [
+      37.09,
+      39.74
+     ],
+     [
+      39.74,
+      42.35
+     ],
+     [
+      42.35,
+      45.0
+     ],
+     [
+      45.0,
+      47.68
+     ],
+     [
+      47.68,
+      50.29
+     ],
+     [
+      50.29,
+      52.94
+     ],
+     [
+      52.94,
+      55.59
+     ],
+     [
+      55.59,
+      58.26
+     ],
+     [
+      58.26,
+      60.91
+     ],
+     [
+      60.91,
+      63.56
+     ],
+     [
+      63.56,
+      66.21
+     ],
+     [
+      66.21,
+      68.82
+     ],
+     [
+      68.82,
+      71.5
+     ],
+     [
+      71.5,
+      74.15
+     ],
+     [
+      74.15,
+      76.79
+     ],
+     [
+      76.79,
+      79.41
+     ],
+     [
+      79.41,
+      82.06
+     ],
+     [
+      82.06,
+      84.71
+     ],
+     [
+      84.71,
+      87.35
+     ]
+    ],
+    "measure_note": "same trim as p2. 26 remaining rules -> 25 bands, of which only the first 10 carry entries (rows 11-25 are printed but blank). PROOF: row 1 rendered '$ 500.00' (recorded 500.00); row 10 (the LAST transcribed row) rendered '$ 100.00' (recorded 100.00)."
+   },
+   "9": {
+    "axis": "y",
+    "cell": [
+     84.57,
+     95.25
+    ],
+    "cells": [
+     [
+      4.7,
+      12.84
+     ],
+     [
+      12.84,
+      46.73
+     ],
+     [
+      46.73,
+      57.41
+     ],
+     [
+      57.41,
+      84.57
+     ],
+     [
+      84.57,
+      95.25
+     ]
+    ],
+    "rows": [
+     [
+      16.59,
+      19.68
+     ],
+     [
+      19.68,
+      22.76
+     ],
+     [
+      22.76,
+      25.82
+     ],
+     [
+      25.82,
+      28.91
+     ],
+     [
+      28.91,
+      32.0
+     ],
+     [
+      32.0,
+      35.06
+     ],
+     [
+      35.06,
+      38.15
+     ],
+     [
+      38.15,
+      41.24
+     ],
+     [
+      41.24,
+      44.29
+     ],
+     [
+      44.29,
+      47.38
+     ],
+     [
+      47.38,
+      50.47
+     ],
+     [
+      50.47,
+      53.53
+     ],
+     [
+      53.53,
+      56.62
+     ],
+     [
+      56.62,
+      59.71
+     ],
+     [
+      59.71,
+      62.76
+     ],
+     [
+      62.76,
+      65.85
+     ],
+     [
+      65.85,
+      68.94
+     ],
+     [
+      68.94,
+      72.0
+     ],
+     [
+      72.0,
+      75.09
+     ],
+     [
+      75.09,
+      78.18
+     ],
+     [
+      78.18,
+      81.24
+     ],
+     [
+      81.24,
+      84.32
+     ],
+     [
+      84.32,
+      87.41
+     ]
+    ],
+    "measure_note": "same trim as p2 (the Form B header is two lines tall, so its two rules sit further apart, but the count is the same). 24 remaining rules -> 23 bands for 23 printed data rows. PROOF: row 1 rendered '138.00' (recorded 138.00); row 23 rendered '375.00' (recorded 375.00)."
+   },
+   "10": {
+    "axis": "y",
+    "cell": [
+     84.3,
+     93.07
+    ],
+    "cells": [
+     [
+      6.41,
+      15.66
+     ],
+     [
+      15.66,
+      53.0
+     ],
+     [
+      53.0,
+      60.66
+     ],
+     [
+      60.66,
+      84.3
+     ],
+     [
+      84.3,
+      93.07
+     ]
+    ],
+    "rows": [
+     [
+      29.12,
+      32.24
+     ],
+     [
+      32.24,
+      35.35
+     ],
+     [
+      35.35,
+      38.5
+     ],
+     [
+      38.5,
+      41.59
+     ],
+     [
+      41.59,
+      44.71
+     ],
+     [
+      44.71,
+      47.85
+     ],
+     [
+      47.85,
+      50.97
+     ],
+     [
+      50.97,
+      54.09
+     ],
+     [
+      54.09,
+      57.24
+     ],
+     [
+      57.24,
+      60.35
+     ],
+     [
+      60.35,
+      63.47
+     ],
+     [
+      63.47,
+      66.62
+     ],
+     [
+      66.62,
+      69.74
+     ],
+     [
+      69.74,
+      72.85
+     ],
+     [
+      72.85,
+      76.0
+     ],
+     [
+      76.0,
+      79.12
+     ],
+     [
+      79.12,
+      82.24
+     ],
+     [
+      82.24,
+      85.38
+     ],
+     [
+      85.38,
+      88.5
+     ]
+    ],
+    "measure_note": "FOUR leading rules trimmed here, not three: this sheet prints an EXTRA WHOLLY BLANK table row between the grey spacer band and the first data row, so rows[0] is aligned to the first row that carries an entry (US Postal Service, 5/10/2016). 20 remaining rules -> 19 bands, of which the first 12 carry entries. PROOF: row 1 rendered '4,364.50' (recorded 4364.50); row 12 (the LAST transcribed row) rendered '250.00' (recorded 250.00). A first attempt that mis-indexed row 12 to band [76.00,79.12] rendered an EMPTY cell and was corrected to [63.47,66.62] before this record was written."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "2/27/2016",
+    "donor_raw": "Kathleen Stevenson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "5/10/2016",
+    "donor_raw": "Alan Wheelwright",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "3",
+    "date": "4/3/2016",
+    "donor_raw": "Allan & Linda McDonald",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "2/27/2016",
+    "donor_raw": "Andy & Annell Blodgett",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "3/11/2016",
+    "donor_raw": "Arnie & Nan Smith",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "6",
+    "date": "3/22/2016",
+    "donor_raw": "Becky Jo Gesteland",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "4/18/2016",
+    "donor_raw": "Boyer Company - SLC",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "3/22/2016",
+    "donor_raw": "Brad & Tracy Kapple",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 2,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "9",
+    "date": "4/2/2016",
+    "donor_raw": "Brent & Karen Wright",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "10",
+    "date": "3/15/2016",
+    "donor_raw": "Brent & Mikelle Weil",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "11",
+    "date": "5/9/2016",
+    "donor_raw": "Brian & Sondra Motes",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "30.00",
+    "page": 2,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "12",
+    "date": "4/13/2016",
+    "donor_raw": "Brian Gochnour",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 2,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "13",
+    "date": "4/3/2016",
+    "donor_raw": "Bryan & Margaret Campbell",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 2,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "14",
+    "date": "4/22/2016",
+    "donor_raw": "Camille Cain",
+    "donor_city": "Ogden",
+    "donor_state": "Ut",
+    "amount": "250.00",
+    "page": 2,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "15",
+    "date": "2/27/2016",
+    "donor_raw": "Charles & Victoria Wright",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 2,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "16",
+    "date": "4/8/2016",
+    "donor_raw": "Christian & Marie Gardner",
+    "donor_city": "Salt Lake City",
+    "amount": "2000.00",
+    "page": 2,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "state not printed by the filer on this line (city and ZIP only)"
+   },
+   {
+    "line_no": "17",
+    "date": "2/29/2016",
+    "donor_raw": "Claudia & Boyd Crawford",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 2,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "18",
+    "date": "4/8/2015",
+    "donor_raw": "Cole & Teresa Panushka",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "date printed as 4/8/2015 - before this cycle; kept verbatim"
+   },
+   {
+    "line_no": "19",
+    "date": "3/5/2016",
+    "donor_raw": "Collette Mercier",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "20",
+    "date": "3/20/2016",
+    "donor_raw": "Creig Paskins",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "21",
+    "date": "4/13/2016",
+    "donor_raw": "Dan & Deanna Byck",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "22",
+    "date": "4/23/2016",
+    "donor_raw": "Dan & Dotty Steimke",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 2,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "23",
+    "date": "4/3/2016",
+    "donor_raw": "Danette Pulley",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "24",
+    "date": "3/7/2016",
+    "donor_raw": "Daniel McEntee",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "25",
+    "date": "5/9/2016",
+    "donor_raw": "Dave & Sharon Holmstrom",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "26",
+    "date": "4/13/2016",
+    "donor_raw": "David & Rosemary Hyde",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "27",
+    "date": "3/31/2016",
+    "donor_raw": "Dennise Whelan",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "28",
+    "date": "3/12/2016",
+    "donor_raw": "Dexter & Ruth Farr",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "29",
+    "date": "3/28/2016",
+    "donor_raw": "Diana Allison",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "30",
+    "date": "3/16/2016",
+    "donor_raw": "Diane Stern",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "31",
+    "date": "3/25/2016",
+    "donor_raw": "Dorene Jeske",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "32",
+    "date": "3/1/2016",
+    "donor_raw": "Dorothy Jones",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "33",
+    "date": "2/26/2016",
+    "donor_raw": "Doug & Shelley Felt",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "34",
+    "date": "2/26/2016",
+    "donor_raw": "Dr. Cliff & Elizabeth Goff",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "35",
+    "date": "2/26/2016",
+    "donor_raw": "Dr. Harold & Emily Vonk",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "36",
+    "date": "2/26/2016",
+    "donor_raw": "Dr. Robert Brodstein",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "37",
+    "date": "2/28/2016",
+    "donor_raw": "Elliott Hulet",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "38",
+    "date": "3/15/2016",
+    "donor_raw": "Ernie & Arnell Schneider",
+    "donor_city": "Riverdale",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 3,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "39",
+    "date": "3/2/2016",
+    "donor_raw": "Evan & Geraldine Christensen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 3,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "40",
+    "date": "5/23/2016",
+    "donor_raw": "Deb Badger",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "210.00",
+    "page": 3,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "41",
+    "date": "2/17/2016",
+    "donor_raw": "Carla & Charlie Trentleman",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 3,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "42",
+    "date": "3/17/2016",
+    "donor_raw": "Favero Family",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 3,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "43",
+    "date": "4/15/2016",
+    "donor_raw": "Favero Family",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "46.00",
+    "page": 3,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "44",
+    "date": "3/8/2016",
+    "donor_raw": "Frank & Laurie Brown",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 4,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "45",
+    "date": "3/2/2016",
+    "donor_raw": "Gavin & Anne Hutchinson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "75.00",
+    "page": 4,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "46",
+    "date": "3/1/2016",
+    "donor_raw": "Genette & Glen Biddulph",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "40.00",
+    "page": 4,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "47",
+    "date": "4/8/2016",
+    "donor_raw": "Greg & Kris Hyde",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 4,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "48",
+    "date": "3/23/2016",
+    "donor_raw": "Gus & Sharon Bolos",
+    "donor_city": "West Haven",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "49",
+    "date": "4/21/2016",
+    "donor_raw": "Harman Peery King",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 4,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "50",
+    "date": "3/30/2016",
+    "donor_raw": "Harry & Becky Senekjian",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 4,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "51",
+    "date": "3/6/2016",
+    "donor_raw": "Jack & Bonnie Wahlen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "52",
+    "date": "2/29/2016",
+    "donor_raw": "Jack & Shirley Rensel",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "53",
+    "date": "3/4/2016",
+    "donor_raw": "James & Laura MacBeth",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 4,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "54",
+    "date": "2/29/2016",
+    "donor_raw": "Jane Brewer",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "55",
+    "date": "3/8/2016",
+    "donor_raw": "Jean Frischknecht",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 4,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "56",
+    "date": "3/30/2016",
+    "donor_raw": "Jeanne & Alan Hall",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 4,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "57",
+    "date": "3/28/2016",
+    "donor_raw": "Jeff & Emily Heiner",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 4,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "58",
+    "date": "4/18/2016",
+    "donor_raw": "Jeff & Jeni Gochnour",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 4,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "59",
+    "date": "2/28/2016",
+    "donor_raw": "Jeff Abel & Mary Voight",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 4,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "60",
+    "date": "5/11/2016",
+    "donor_raw": "Jenny King Francl",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 4,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "61",
+    "date": "5/11/2016",
+    "donor_raw": "Jenny King Francl",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "81.25",
+    "page": 4,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "62",
+    "date": "3/30/2016",
+    "donor_raw": "George & Mary Hall",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 4,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "63",
+    "date": "3/31/2016",
+    "donor_raw": "Jack & Sandy Crosland",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "350.00",
+    "page": 4,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "64",
+    "date": "3/28/2016",
+    "donor_raw": "Jerome & Maria Berg",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "65",
+    "date": "4/18/2016",
+    "donor_raw": "Joan Evans Ahlf",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 5,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "66",
+    "date": "3/14/2016",
+    "donor_raw": "Joe & Bonnie Anderson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "67",
+    "date": "3/21/2016",
+    "donor_raw": "Joel & Deanna Porter",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 5,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "68",
+    "date": "4/2/2016",
+    "donor_raw": "John & Colleen Starley",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "69",
+    "date": "3/30/2016",
+    "donor_raw": "John & Kathleen Arrington",
+    "donor_city": "North Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 5,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "70",
+    "date": "3/23/2016",
+    "donor_raw": "John Gullo",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 5,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "71",
+    "date": "3/3/2016",
+    "donor_raw": "Jon & Debra Bingham",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "72",
+    "date": "2/26/2016",
+    "donor_raw": "Joseph & Holly Bauman",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 5,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "73",
+    "date": "4/18/2016",
+    "donor_raw": "Judy Mitchell",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 5,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "74",
+    "date": "4/18/2016",
+    "donor_raw": "Kathleen Gambles",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 5,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "75",
+    "date": "5/20/2016",
+    "donor_raw": "Catherine Feeny",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "76",
+    "date": "4/3/2016",
+    "donor_raw": "Kenlon & Sue Reeve",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 5,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "77",
+    "date": "4/20/2016",
+    "donor_raw": "Kenton & Georgia Barker",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 5,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "78",
+    "date": "3/23/2016",
+    "donor_raw": "Kristina Eversole & Shane Kearl",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 5,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "79",
+    "date": "4/3/2016",
+    "donor_raw": "Kym & Pete Buttschardt",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "275.00",
+    "page": 5,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "80",
+    "date": "5/9/2016",
+    "donor_raw": "Lee & Brenda Schussman",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 5,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "81",
+    "date": "4/2/2016",
+    "donor_raw": "Lillija & Jon Contos",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 5,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "82",
+    "date": "2/28/2016",
+    "donor_raw": "Madone Miner & David Malone",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 5,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "83",
+    "date": "2/11/2016",
+    "donor_raw": "Marcia & Bob Harris",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 5,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "84",
+    "date": "4/20/2016",
+    "donor_raw": "Marcia White",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 5,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "85",
+    "date": "4/11/2016",
+    "donor_raw": "Margaret Hillyard Lazenby",
+    "donor_city": "Belmont",
+    "donor_state": "MA",
+    "amount": "100.00",
+    "page": 5,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "86",
+    "date": "4/8/2016",
+    "donor_raw": "Mark & Carol Biddle",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 5,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "87",
+    "date": "4/26/16",
+    "donor_raw": "Mary Evans",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 6,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "88",
+    "date": "5/17/16",
+    "donor_raw": "Mary McKinley",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "89",
+    "date": "3/2/16",
+    "donor_raw": "Meg Naisbitt",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "90",
+    "date": "3/2/16",
+    "donor_raw": "Melisa Harrison",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 6,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "91",
+    "date": "4/8/16",
+    "donor_raw": "Michael & Susan DeYoung",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "92",
+    "date": "4/3/16",
+    "donor_raw": "Michael & TJ Kenny",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "60.00",
+    "page": 6,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "93",
+    "date": "4/26/16",
+    "donor_raw": "Michael Glasmann",
+    "donor_city": "OGDEN",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city printed in capitals by the filer (OGDEN)"
+   },
+   {
+    "line_no": "94",
+    "date": "3/25/16",
+    "donor_raw": "Michael Wutz & Marilee Rohan",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "95",
+    "date": "2/28/16",
+    "donor_raw": "Mikio & Masayo Obayashi",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "96",
+    "date": "2/18/16",
+    "donor_raw": "Natalie & Chris Gochnour",
+    "donor_city": "Murray",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 6,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "97",
+    "date": "3/25/16",
+    "donor_raw": "Neil & Andrea Callister",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "98",
+    "date": "4/20/16",
+    "donor_raw": "Nolan Karras",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 6,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "99",
+    "date": "2/28/16",
+    "donor_raw": "Ralph & Rosie Gochnour",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "100",
+    "date": "3/13/16",
+    "donor_raw": "Randy & Bonnie Galbraith",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "101",
+    "date": "4/11/16",
+    "donor_raw": "Rich & Kathy Peterson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 6,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "102",
+    "date": "4/11/16",
+    "donor_raw": "Rich & Kathy Peterson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "90.00",
+    "page": 6,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "IN-KIND: the filer wrote 'In-kind' in the margin immediately right of the Amount column on this row; included in the filer's page subtotal formula (see recon detail)"
+   },
+   {
+    "line_no": "103",
+    "date": "4/21/16",
+    "donor_raw": "Richard & Karen Fairbanks",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 6,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "104",
+    "date": "3/12/16",
+    "donor_raw": "Richard and Judy Weber",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 6,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "105",
+    "date": "2/24/16",
+    "donor_raw": "Robert and Sally Neill",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 6,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "106",
+    "date": "3/31/16",
+    "donor_raw": "Robin Farr",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 6,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "107",
+    "date": "3/23/16",
+    "donor_raw": "Royce Richards",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 6,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "108",
+    "date": "3/10/16",
+    "donor_raw": "Sanrford & Julie Poulsen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "109",
+    "date": "2/20/16",
+    "donor_raw": "Scott & Robin Gochnour",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 6,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "110",
+    "date": "3/12/16",
+    "donor_raw": "Scott and Pamela Parkinson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 6,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "111",
+    "date": "2/29/16",
+    "donor_raw": "Sharee 'Sarah' Kunz",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 6,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "112",
+    "date": "2/26/16",
+    "donor_raw": "Sharon Lewis",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "113",
+    "date": "2/29/16",
+    "donor_raw": "Sheldon & Janice Ward",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "114",
+    "date": "3/15/16",
+    "donor_raw": "Starla & Scott Stanley",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 7,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "115",
+    "date": "3/1/16",
+    "donor_raw": "Sterling & Barbara Sessions",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "116",
+    "date": "5/10/16",
+    "donor_raw": "Steve & Jenny Waldrip",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 7,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "117",
+    "date": "3/25/16",
+    "donor_raw": "Sylvia Newman & Bob Fudge",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "118",
+    "date": "4/26/16",
+    "donor_raw": "Teri Richards",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 7,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "119",
+    "date": "3/5/16",
+    "donor_raw": "Timothy Kenny",
+    "donor_city": "Reston",
+    "donor_state": "VA",
+    "amount": "500.00",
+    "page": 7,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "120",
+    "date": "4/2/16",
+    "donor_raw": "Tina & Bob Herman",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "121",
+    "date": "2/28/16",
+    "donor_raw": "Todd & Joye Petersen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 7,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "122",
+    "date": "3/28/16",
+    "donor_raw": "Vern Farr",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 7,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "123",
+    "date": "2/27/16",
+    "donor_raw": "Wayne & Carolyn Stromberg",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "page": 7,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "124",
+    "date": "3/28/16",
+    "donor_raw": "Yaeko Bryner",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "125",
+    "date": "3/30/16",
+    "donor_raw": "Paul & Sheryl Booth",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 7,
+    "row": 14,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "126",
+    "date": "3/6/16",
+    "donor_raw": "Kim Graff",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 15,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "127",
+    "date": "3/21/16",
+    "donor_raw": "Carolyn & Marty Rasmussen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 16,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "128",
+    "date": "5/10/16",
+    "donor_raw": "Gregory Gochnour",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "7000.00",
+    "page": 7,
+    "row": 17,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "129",
+    "date": "4/21/16",
+    "donor_raw": "Anonymous",
+    "amount": "40.00",
+    "page": 7,
+    "row": 18,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "the filer printed no address, city or state on this row (left empty by the filer, not redacted by the county)"
+   },
+   {
+    "line_no": "130",
+    "date": "5/10/16",
+    "donor_raw": "Rachel Moore & Theron Stock",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "page": 7,
+    "row": 19,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "131",
+    "date": "4/25/16",
+    "donor_raw": "Karen Burton",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 20,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "132",
+    "date": "5/13/16",
+    "donor_raw": "Roberta Glidden",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 21,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "133",
+    "date": "5/16/16",
+    "donor_raw": "Joy Beattie",
+    "donor_city": "Bountiful",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 22,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "134",
+    "date": "5/17/16",
+    "donor_raw": "Betty Jo Handy",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 7,
+    "row": 23,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "135",
+    "date": "5/20/16",
+    "donor_raw": "Shanna Francis",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "40.00",
+    "page": 7,
+    "row": 24,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "136",
+    "date": "5/21/16",
+    "donor_raw": "Jan Winniford",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 7,
+    "row": 25,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "137",
+    "date": "5/20/16",
+    "donor_raw": "Tim LaMarche",
+    "donor_city": "Huntsville",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 7,
+    "row": 26,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "138",
+    "date": "5/20/16",
+    "donor_raw": "Mr Mrs Leon L Jones",
+    "donor_city": "PV",
+    "amount": "500.00",
+    "page": 8,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "city abbreviated 'PV' by the filer (ZIP 84414 = Pleasant View); no state printed"
+   },
+   {
+    "line_no": "139",
+    "date": "5/19/16",
+    "donor_raw": "William & Alane White",
+    "donor_city": "Huntsville",
+    "amount": "250.00",
+    "page": 8,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "140",
+    "date": "5/24/16",
+    "donor_raw": "Norman Searle",
+    "donor_city": "Riverdale",
+    "amount": "250.00",
+    "page": 8,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "141",
+    "date": "5/29/16",
+    "donor_raw": "Robert & Joni Leiker",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "page": 8,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "142",
+    "date": "5/29/16",
+    "donor_raw": "America First Development Fund, Sheryl Cox",
+    "donor_city": "Ogden",
+    "amount": "500.00",
+    "page": 8,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "143",
+    "date": "5/31/16",
+    "donor_raw": "Ron & Linda Halverson",
+    "donor_city": "Ogden",
+    "amount": "100.00",
+    "page": 8,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "144",
+    "date": "6/6/16",
+    "donor_raw": "Tim Welsh, Beehive Cheese",
+    "donor_city": "Uintah",
+    "amount": "500.00",
+    "page": 8,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "145",
+    "date": "6/14/16",
+    "donor_raw": "Brent Taylor",
+    "donor_city": "North Ogden",
+    "amount": "500.00",
+    "page": 8,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   },
+   {
+    "line_no": "146",
+    "date": "5/26/16",
+    "donor_raw": "William & Barbara Cook",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 8,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "147",
+    "date": "5/18/16",
+    "donor_raw": "Allan & Kay Lipman",
+    "donor_city": "Ogden",
+    "amount": "100.00",
+    "page": 8,
+    "row": 10,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "no state printed by the filer on this row"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "2/10/2016",
+    "vendor_raw": "John Williams Photography",
+    "vendor_city": "Ogden",
+    "purpose": "Pictures",
+    "amount": "138.00",
+    "page": 9,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "2/10/2016",
+    "vendor_raw": "Gathering, Inc.",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Signature - down payment",
+    "amount": "2300.00",
+    "page": 9,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "2/22/2016",
+    "vendor_raw": "Gathering, Inc.",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Signature - final payment",
+    "amount": "4395.00",
+    "page": 9,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "4",
+    "date": "2/25/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "Stamps",
+    "amount": "98.00",
+    "page": 9,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "2/20/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "Stamps",
+    "amount": "98.00",
+    "page": 9,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "3/4/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Campaign letters, envelopes, website",
+    "amount": "181.38",
+    "page": 9,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "3/14/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "Postcard stamps",
+    "amount": "35.00",
+    "page": 9,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "8",
+    "date": "3/16/2016",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Candidate filing fee",
+    "amount": "626.34",
+    "page": 9,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "2/18/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Letters, envelopes, postcards",
+    "amount": "215.84",
+    "page": 9,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "3/29/2016",
+    "vendor_raw": "Paypal",
+    "purpose": "Donation setup",
+    "amount": "99.00",
+    "page": 9,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "3/29/2016",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Voter list",
+    "amount": "150.00",
+    "page": 9,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "12",
+    "date": "4/4/2016",
+    "vendor_raw": "Weber County Republican Convention",
+    "vendor_city": "Ogden",
+    "purpose": "Booth space",
+    "amount": "150.00",
+    "page": 9,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "13",
+    "date": "4/5/2016",
+    "vendor_raw": "Wright Signs",
+    "vendor_city": "Ogden",
+    "purpose": "Lawn signs",
+    "amount": "2920.96",
+    "page": 9,
+    "row": 13,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "14",
+    "date": "4/9/2016",
+    "vendor_raw": "M Murphey - Alexanders",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Stickers",
+    "amount": "67.32",
+    "page": 9,
+    "row": 14,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "15",
+    "date": "4/11/2016",
+    "vendor_raw": "Intermountain T-Shirt Company",
+    "vendor_city": "Ogden",
+    "purpose": "T-Shirts",
+    "amount": "454.43",
+    "page": 9,
+    "row": 15,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "16",
+    "date": "4/19/2016",
+    "vendor_raw": "Debbie Noseworthy",
+    "vendor_city": "Ogden",
+    "purpose": "Lemonade, cups, straws",
+    "amount": "150.00",
+    "page": 9,
+    "row": 16,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "17",
+    "date": "4/21/2016",
+    "vendor_raw": "Union Station",
+    "vendor_city": "Ogden",
+    "purpose": "Rental - Event kickoff",
+    "amount": "100.00",
+    "page": 9,
+    "row": 17,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "18",
+    "date": "4/21/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "Postcard stamps",
+    "amount": "34.00",
+    "page": 9,
+    "row": 18,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "19",
+    "date": "4/21/2016",
+    "vendor_raw": "Union Grill",
+    "vendor_city": "Ogden",
+    "purpose": "Kickoff desserts",
+    "amount": "62.01",
+    "page": 9,
+    "row": 19,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "20",
+    "date": "4/19/2016",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Maps",
+    "amount": "20.00",
+    "page": 9,
+    "row": 20,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "21",
+    "date": "4/27/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Delegate mailer, stickers, business cards",
+    "amount": "836.03",
+    "page": 9,
+    "row": 21,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "22",
+    "date": "5/6/2016",
+    "vendor_raw": "Interform",
+    "vendor_city": "Centerville",
+    "purpose": "300 Buttons",
+    "amount": "223.24",
+    "page": 9,
+    "row": 22,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "23",
+    "date": "5/10/2016",
+    "vendor_raw": "Phycho Analytix",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Data lists",
+    "amount": "375.00",
+    "page": 9,
+    "row": 23,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "24",
+    "date": "5/10/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "1st Mailing",
+    "amount": "4364.50",
+    "page": 10,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "25",
+    "date": "5/24/2016",
+    "vendor_raw": "Wright Signs",
+    "vendor_city": "Ogden",
+    "purpose": "Additional yard signs",
+    "amount": "711.68",
+    "page": 10,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "26",
+    "date": "5/24/2016",
+    "vendor_raw": "Interform",
+    "vendor_city": "Centerville",
+    "purpose": "Additional buttons",
+    "amount": "288.66",
+    "page": 10,
+    "row": 3,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "27",
+    "date": "5/27/2016",
+    "vendor_raw": "Business Mail Specialist",
+    "vendor_city": "West Haven",
+    "purpose": "Mailer #2",
+    "amount": "3562.80",
+    "page": 10,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "28",
+    "date": "5/27/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Mailer #1",
+    "amount": "2076.15",
+    "page": 10,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "29",
+    "date": "5/29/2016",
+    "vendor_raw": "Danette Pulley",
+    "vendor_city": "Ogden",
+    "purpose": "Strategy launch, balloons, decor, ads",
+    "amount": "253.85",
+    "page": 10,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "30",
+    "date": "6/3/2016",
+    "vendor_raw": "Weber County",
+    "vendor_city": "Ogden",
+    "purpose": "Subscrition services - voted",
+    "amount": "15.00",
+    "page": 10,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "31",
+    "date": "6/6/2016",
+    "vendor_raw": "Business Mail Specialist",
+    "vendor_city": "West Haven",
+    "purpose": "Mailer #3",
+    "amount": "3562.80",
+    "page": 10,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "32",
+    "date": "6/8/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Mailer #2 & 3",
+    "amount": "3702.32",
+    "page": 10,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "33",
+    "date": "6/11/2016",
+    "vendor_raw": "US Postal Service",
+    "vendor_city": "Ogden",
+    "purpose": "300 Stamps",
+    "amount": "141.00",
+    "page": 10,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "34",
+    "date": "6/14/2016",
+    "vendor_raw": "Stone Mountain Press",
+    "vendor_city": "Ogden",
+    "purpose": "Stickers, letter prints, envelopes",
+    "amount": "110.85",
+    "page": 10,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "35",
+    "date": "5/26/2016",
+    "vendor_raw": "YML Laboratories",
+    "vendor_city": "Clearfield",
+    "purpose": "Lip Balm",
+    "amount": "250.00",
+    "page": 10,
+    "row": 12,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "11-page filing: p1 cover (unsigned photocopy), pp2-8 Form A 'Itemized Report of Contributions' over 7 sheets self-numbered 'Subtotal page N of 7', pp9-10 Form B 'Itemized Report of Expenditures' over 2 sheets, p11 a PHOTOGRAPH (taken on a wooden desk) of the SAME cover page - and that photographed copy IS SIGNED AND DATED: candidate signature 'Caitlin K. Gochnour' dated '6.16.16' and committee-secretary signature 'Elaine Feeny' dated '6/16/16', with identical figures. This corrects, at the document, the 2026-08-01 cover-cache note for this key, which records the form as 'UNSIGNED and UNDATED' - true of p1, false of p11. No report-type box is checked on either copy, so the report type remains an honest blank. 2016 3-line form variant: one 'Total contributions from all donors' line, so there is no >$50 / <=$50 split and the line-1/line-2 basis rule does not apply; Form A itemizes every donor including sub-$50 ones (25.00 and 20.00 rows appear). Donor and vendor street addresses printed on the forms are deliberately NOT carried (PRIVACY: city/state only). Form A's address column changes shape across sheets - pp2-4 print one combined 'street, City, ST zip' cell, pp5-7 print separate City / State / ZIP columns, and p8 reverts to a combined cell in which the filer often omitted the state; those omissions are recorded as blank state with a per-row note (left empty by the filer, NOT redacted by the county). One donor row (p7 row 18) is the filer's own 'Anonymous' entry with no address at all, 40.00 - kept as one row exactly as reported. Page 10 of the PDF prints a wholly blank table row above its first entry, which is why that frame trims four leading rules instead of three."
+ }
+]

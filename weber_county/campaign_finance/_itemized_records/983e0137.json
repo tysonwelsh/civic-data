@@ -1,0 +1,31 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 98,
+  "page_end": 101,
+  "key": "983e0137",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [98, 99, 100, 101],
+  "itemized_pages_A": "100",
+  "itemized_pages_B": "101",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "empty-schedule"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "cover line 1 'Total contributions from all donors' - all three cells 0 (the typed 742.76 in the Last Report and Cumulative cells is STRUCK THROUGH with a handwritten 0 written above it; This Report is a handwritten '0 -')",
+    "detail": "Form A (p100) was FILED and is a completely blank printed grid: 23 empty data rows, no date, contributor, address or amount anywhere, and the schedule's own 'Total Contributions: (to line 1 of report)' cell carries only a bare dash. The single mark on the sheet is the filer's own handwritten banner 'None' in the Name-of-Contributor cell of the first data row - an annotation, NOT an entry - so ZERO rows is the complete and correct transcription. Zero rows sum to 0, which is the cover's corrected line-1 figure in all three columns. Under the zero-glyph ruling the schedule's bare dash is a nil mark and not a numeral, so the anchor taken is the cover's handwritten 0."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "cover line 2 'Total Campaign Expenditures' (printed on the SECOND cover sheet, p99) - all three cells 0, again with the typed 742.76 struck through and a handwritten 0 above it in the Last Report and Cumulative columns",
+    "detail": "Form B (p101) was likewise FILED and is a completely blank printed grid whose own 'Total Expenditures:' cell is a bare dash, carrying only the filer's handwritten 'None' banner in the first data row's payee cell. Zero rows sum to 0 = the cover's corrected line-2 figure. Line 3 (Ending Balance) is '0 -' in all three columns, consistent."
+   }
+  },
+  "escalations": 0,
+  "escalation_note": "None needed: no figure had to be read off either schedule (both are blank), and the cover figures were already transcribed and cross-checked in the 2026-08-01 stated-totals tranche. Every one of the four pages was read full-page at 200 dpi.",
+  "notes": "A NIL FILING WITH BOTH SCHEDULES PHYSICALLY PRESENT - the distinction the brief insists on: this is empty-schedule (the pages exist and the filer entered nothing) and NOT no-schedule-page. Four pages: p98 = cover sheet 1 (name/office/signature block, the report-type checkboxes, and summary line 1), p99 = cover sheet 2 (summary lines 2 and 3 only - THE SUMMARY BLOCK SPANS TWO SHEETS on this filing, a property already recorded in the stated-totals cache), p100 = Form A, p101 = Form B. FILER CORRECTION HONORED: on lines 1 and 2 a TYPED 742.76 appears in the Totals-from-Last-Report and Cumulative cells, is struck through, and a handwritten 0 is written above it; the handwritten correction over the struck typed value governs (brief section 6), and the struck 742.76 is recorded here rather than dropped. So this filer reports having raised and spent nothing at all as of 25 Oct 2024, having zeroed out a previously reported 742.76. The county REDACTED the candidate's street address on the cover (black bar); nothing behind it was recovered. Both schedules carry the handwritten word 'None' as the filer's own banner - kept as an annotation, never converted into a row or a donor."
+ }
+]

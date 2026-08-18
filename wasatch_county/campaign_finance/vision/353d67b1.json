@@ -1,102 +1,156 @@
 {
-  "_meta": {
-    "index_path": "raw/2022/202211_S.-Sweat-Financial-Disclosure-General_001.pdf",
-    "cache_key": "353d67b1",
-    "entity": "wasatch_county",
-    "election_year": "2022",
-    "reporting_period_index": "General 2022",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Scott H Sweat",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2022/202211_S.-Sweat-Financial-Disclosure-General_001.pdf",
+  "cache_key": "353d67b1",
+  "entity": "wasatch_county",
+  "election_year": "2022",
+  "reporting_period_index": "General 2022",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_07.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "exact (0.00 = 0, cover line 1 (>$50, from form A), CUMULATIVE column)",
+     "published_stated": "0",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "County Attorney",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey Granger, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "11-1-22",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "0",
-        "confidence": "high"
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "650.08",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "650.08",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "650.08",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "0",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "650.08",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "the cover's own total expenses line, TOTALS FOR THIS REPORT column",
+     "detail": "exact (0.00 = 0, the cover's own total expenses line, TOTALS FOR THIS REPORT column). The schedule is PERIOD-SCOPED while the cover states the CUMULATIVE figure - a real property of this three-column sheet, not a missing row; the residual against the cumulative cell is the TOTALS FROM LAST REPORT column NOTE: against the PUBLISHED stated total of 650.08 this reads as a -650.08 difference, because the published figure is the CUMULATIVE column while this schedule is period-scoped, so the difference is the TOTALS FROM LAST REPORT cell. The itemized side is COMPLETE against the figure it closes on; the difference is not a missing row.",
+     "published_stated": "650.08",
+     "csv_reconciles": "False",
+     "csv_delta": "-650.08"
     }
+   },
+   "page_subtotal_gates": "No printed TOTAL row on this variant. Cover gate: line 3 THIS REPORT = 0 and Form B holds zero rows — consistent. Filer-arithmetic note (not mine to fix): the cover prints the SAME 650.08 on line 3 (expenses) and line 4 (balance) in both the last-report and cumulative columns, i.e. a positive balance equal to total expenses against zero contributions. Retained verbatim; this matches the known Sweat 2022 filer-error already recorded in the module CLAUDE.md.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "carr_5_5_pg_4line, handwritten cover on a scanned sheet, county date-stamped 'NOV 01 '22 PM 03:01 RCVD WC' in the top-right margin. Cover: Scott H Sweat, Name of Office 'Attorney', Republican, dated 11-1-22, signed. Office District left blank. Both schedule pages examined full-page at 200 dpi and are blank ruled forms."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Scott H Sweat",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "The balance is printed POSITIVE 650.08 where his June report printed it negative \u2014 kept verbatim. Clerk stamp NOV 01 '22."
+  "office_verbatim": {
+   "value": "County Attorney",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey Granger, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "11-1-22",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "0",
+    "confidence": "high"
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "650.08",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "650.08",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "650.08",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "0",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "650.08",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "The balance is printed POSITIVE 650.08 where his June report printed it negative — kept verbatim. Clerk stamp NOV 01 '22.",
+ "contributions": [],
+ "expenditures": []
 }

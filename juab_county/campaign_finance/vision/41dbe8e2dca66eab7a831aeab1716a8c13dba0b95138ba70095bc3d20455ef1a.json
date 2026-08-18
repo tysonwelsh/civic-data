@@ -1,0 +1,53 @@
+{
+ "sha256": "41dbe8e2dca66eab7a831aeab1716a8c13dba0b95138ba70095bc3d20455ef1a",
+ "source_pdf": "raw/juab_2010_primary/Jared_Eldridge_10-28-10.pdf",
+ "form": "carr_5_5_pg",
+ "applies_to": [
+  {
+   "path": "raw/juab_2010_primary/Jared_Eldridge_10-28-10.pdf",
+   "candidate": "Jared W. Eldridge",
+   "election_year": 2010,
+   "bundle_pages": ""
+  }
+ ],
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "tranche 3 phase B \u2014 juab wave (2026-08-14)",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "reconciliation": {
+    "contributions": {
+     "result": "exact",
+     "stated": "0",
+     "basis": "lines 1+2 both 0; Form A present and blank"
+    },
+    "expenditures": {
+     "result": "unknown",
+     "reason": "2-page document (cover + Form A); no Form B page exists. Stated expenses are 0, so no dollars are unaccounted for."
+    }
+   },
+   "pages_read": [
+    1,
+    2
+   ],
+   "page_roles": {
+    "1": "cover/summary",
+    "2": "Form A"
+   },
+   "render": "pdftoppm -jpeg -r 200 (FULL PAGE, every page)",
+   "escalations": [],
+   "geometry_basis": "printed-grid band: family constants for the carr_5_5_pg scan2010 scan variant (x=5.0%, w=89.0%, pitch=2.318%) with a PER-PAGE origin measured by rule-profile correlation; row top = page_y0 + (printed_row-1)*pitch. Verified by 600 dpi render-back.",
+   "geometry_fit": "printed-grid, per-page origin",
+   "geometry_page_y0": {
+    "raw/juab_2010_primary/Jared_Eldridge_10-28-10.pdf|p2": 8.905
+   },
+   "transcribed_by": "vision-transcribed(claude-opus-5[1m]; Read tool; tranche 3 phase B \u2014 juab wave (2026-08-14))",
+   "transcribed_date": "2026-08-14",
+   "notes": ""
+  }
+ }
+}

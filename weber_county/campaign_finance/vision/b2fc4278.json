@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:09:26Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Ryan Arbon",
  "office_stated": "Sheriff",
  "report_type_stated": "October 25 - Nov 1",
@@ -44,5 +44,170 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2022 3-line form. This copy's form subtitle reads 'Weber County Office Candidates & Local School Board Candidates' and its final-report box is 'December 8' rather than 'January 10, 2023' - the county issued more than one 2022 form revision; retained as printed."
+ "notes": "Typed 2022 3-line form. This copy's form subtitle reads 'Weber County Office Candidates & Local School Board Candidates' and its final-report box is 'December 8' rather than 'January 10, 2023' - the county issued more than one 2022 form revision; retained as printed.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/23/2022",
+   "donor_raw": "Ryan Arbon",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "500",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:74.74,83.43,2.97,10.07@p9",
+   "geometry_frame": "p9 axis=x cell=83.43-93.50 rowband=74.74-77.71 (3 of 25 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer printed '$500' with NO cents - the amount is carried exactly as printed, not padded to 500.00. Self-contribution: the donor address is the candidate's own address on the cover. Street address deliberately not carried (PRIVACY.md: city/state only); the form's Address column prints 'Utah' spelled out, normalized to the two-letter state."
+  },
+  {
+   "line_no": "2",
+   "date": "3/7/2022",
+   "donor_raw": "Spencer Stephens",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:71.74,83.43,3.00,10.07@p9",
+   "geometry_frame": "p9 axis=x cell=83.43-93.50 rowband=71.74-74.74 (4 of 25 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "3/7/2022",
+   "donor_raw": "Phillip Reese",
+   "donor_city": "Plain City",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:68.74,83.43,3.00,10.07@p9",
+   "geometry_frame": "p9 axis=x cell=83.43-93.50 rowband=68.74-71.74 (5 of 25 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "3/7/2022",
+   "donor_raw": "Blake Cevering",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:65.74,83.43,3.00,10.07@p9",
+   "geometry_frame": "p9 axis=x cell=83.43-93.50 rowband=65.74-68.74 (6 of 25 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "2/28/2022",
+   "donor_raw": "Ryan Arbon",
+   "donor_city": "North Ogden",
+   "donor_state": "UT",
+   "amount": "294.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:62.74,83.43,3.00,10.07@p9",
+   "geometry_frame": "p9 axis=x cell=83.43-93.50 rowband=62.74-65.74 (7 of 25 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "second self-contribution, same address as the cover."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/22/2022",
+   "vendor_raw": "River Print",
+   "purpose": "Post Card mailers",
+   "amount": "305.51",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:75.91,84.84,2.88,10.09@p10",
+   "geometry_frame": "p10 axis=x cell=84.84-94.93 rowband=75.91-78.79 (2 of 26 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Form B's separate City column prints 'Ogden' (no vendor_city field in the row contract)."
+  },
+  {
+   "line_no": "2",
+   "date": "3/15/2022",
+   "vendor_raw": "Walmart",
+   "purpose": "Table cover, life savers,",
+   "amount": "18.80",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:73.00,84.84,2.91,10.09@p10",
+   "geometry_frame": "p10 axis=x cell=84.84-94.93 rowband=73.00-75.91 (3 of 26 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose kept verbatim including the filer's trailing comma (confirmed on a 700 dpi cell crop). City column prints 'Riverdale'."
+  },
+  {
+   "line_no": "3",
+   "date": "3/10/2022",
+   "vendor_raw": "River Print",
+   "purpose": "Post Card flyers",
+   "amount": "257.40",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:70.00,84.84,3.00,10.09@p10",
+   "geometry_frame": "p10 axis=x cell=84.84-94.93 rowband=70.00-73.00 (4 of 26 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'Ogden'."
+  },
+  {
+   "line_no": "4",
+   "date": "2/28/2022",
+   "vendor_raw": "Weber County Clerk",
+   "purpose": "Candidate Filing",
+   "amount": "706.76",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:67.09,84.84,2.91,10.09@p10",
+   "geometry_frame": "p10 axis=x cell=84.84-94.93 rowband=67.09-70.00 (5 of 26 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column prints 'Ogden'."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    8,
+    9,
+    10
+   ],
+   "itemized_pages_A": "9",
+   "itemized_pages_B": "10",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A 'Total Contributions: (to line 1 of report): 1,444.00'",
+     "detail": "the 5 Form A rows (500 + 300.00 + 250.00 + 100.00 + 294.00) sum to 1,444.00 = the schedule's own printed total = the cover's Totals for This Report AND its Cumulative cell (3-line 2022 form: one contrib_all cell, no separate <=$50 aggregate line; Totals from Last Report is a dash, so this-report and cumulative coincide)"
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B 'Total Expenditures: (to line 2 of report): 1,288.47'",
+     "detail": "the 4 Form B rows (305.51 + 18.80 + 257.40 + 706.76) sum to 1,288.47 = the schedule's own printed total = the cover's This Report AND Cumulative cell on line 2"
+    }
+   },
+   "escalations": 6,
+   "escalation_note": "500-900 dpi tight crops: p9 amount-column strip and p9 date/name strip (to establish the band structure below the header), p10 amount-column strip, then three --value cell crops used as the geometry spot-verification (p9 row 3 -> $500, p9 row 7 -> $294.00, p10 row 5 -> $706.76) and one purpose-cell crop (p10 row 3) to settle the trailing comma in 'Table cover, life savers,'. No legibility dispute arose; the sheet is typed.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 4,
+   "geometry": {
+    "measured": 9,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Fully TYPED 2022 3-line form, three pages: p8 cover (October 25 - Nov 1 box ticked, signed 10/24/2022), p9 FORM A contributions, p10 FORM B expenditures - form order and page order agree here. Both schedules are rotated landscape sheets. Neither schedule prints a per-page subtotal; each prints one grand total at the foot ('to line 1 of report' / 'to line 2 of report') and both close to the cent against the cover. Cover line 1 'Totals from Last Report' is a bare dash on all three lines and stays BLANK in the stated-totals cache (zero-glyph ruling), so This Report == Cumulative. No in-kind items are labelled on either schedule. Donor street addresses printed in Form A's Address column are deliberately NOT carried (PRIVACY.md: city/state only)."
+  }
+ }
 }

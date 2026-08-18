@@ -52,6 +52,46 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "Typed cover; identical figures to the filer's Pre-Election report (doc 3983)."
+ "itemized_transcribed": true,
+ "notes": "Typed cover; identical figures to the filer's Pre-Election report (doc 3983).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   1
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "none"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "250.00",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists in this document - nothing to reconcile. The cover states $250.00 cumulative from donors over $50 and $0.00 from donors at or under $50."
+   },
+   "expenditures": {
+    "stated": "250.00",
+    "itemized": "",
+    "result": "unknown",
+    "detail": "no schedule page exists in this document - nothing to reconcile. The cover states $250.00 cumulative expenditures."
+   }
+  },
+  "page_gates": "NOTHING TO GATE - THE DOCUMENT IS ONE PAGE. pdfinfo reports Pages: 1 and index.csv agrees; page 1 was rendered at 200 dpi and read once to CLASSIFY it, not for money, and it is the split50 'CAMPAIGN FINANCIAL REPORTS (Utah Code 17-16-6.5)' cover and nothing else - candidate/office/party lines, the four-row Current|Last|Cumulative box, the certification paragraph, the signature and the handwritten date '12-9-16'. There is no ITEMIZED CONTRIBUTION REPORT page and no itemized expenditure page in this PDF, so both sides are 'none' (non-existence), never a zero.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 0,
+  "geometry": {
+   "measured": 0,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Kim Carson's 2016 POST-ELECTION filing is a COVER-ONLY re-file: its cover box is cell-for-cell identical to her PRE-ELECTION sheet (3983) - Current $250.00 / Last $0.00 / Cumulative $250.00 on the >$50 row, $0.00 across the <=$50 row, $250.00 / $0.00 / $250.00 expenditures, $0.00 balance throughout - but where 3983 carries two ledger pages, this one carries none. So the money is unchanged between the two reports and the itemization for this candidate-cycle lives entirely on 3983's pages 2-3. This is the same behaviour the module records for Robinson/Wright/Jones/Olson/Francis/Armstrong/Larsen/Welch/Poll (an unchanged re-file of the pre-election sheet as the post-election report); Carson is not on that published list, so this is a NEW instance of the pattern and worth adding to it. The signature date is handwritten '12-9-16', already carried by the cover cache. No street address or PO box was written into this record."
+ }
 }

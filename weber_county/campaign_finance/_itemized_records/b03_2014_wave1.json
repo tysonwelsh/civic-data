@@ -1,0 +1,2747 @@
+[
+ {
+  "index_path": "raw/wayback/wb20160824055025_CAllred_1.5.15.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "10cbef31",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "frames": {},
+  "contributions": [],
+  "expenditures": [],
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "empty-schedule"
+  },
+  "withheld_reason": {},
+  "recon": {},
+  "escalations": 0,
+  "escalation_note": "",
+  "notes": "FINAL (January 5th, 2015) report. Both schedule pages are PRESENT and ENTIRELY BLANK: Form A (p2) and Form B (p3) carry no rows at all and each prints its total as the filer's bare nil dash '-', exactly as the cover's This-Report column does. So this is 'the schedule exists and is empty', NOT 'not transcribed' and NOT a zero: under the ZERO-GLYPH RULING a bare dash is a nil mark, so no amount is asserted. The cumulative 4,067.20 on the cover is carried forward from the October report (b687614d), whose schedules ARE itemized here."
+ },
+ {
+  "index_path": "raw/wayback/wb20160824031446_NHansen_1.5.15.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "b4ef6019",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "frames": {},
+  "contributions": [],
+  "expenditures": [],
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "empty-schedule"
+  },
+  "withheld_reason": {},
+  "recon": {},
+  "escalations": 0,
+  "escalation_note": "",
+  "notes": "FINAL (January 5th, 2015) report. Form A (p2) carries a single typed banner row reading 'No Donations' with amount 0 and a printed schedule total '0-'; Form B (p3) the same with 'No Expenditures' and 0. Those banner lines are the FILER's annotation, not donor/vendor entries, so no itemized row exists to emit; the printed schedule totals are a digit ZERO (zero-glyph ruling) and agree with the cover's 0 in all three columns. Empty BY THE DOCUMENT, not untranscribed."
+ },
+ {
+  "index_path": "raw/wayback/wb20160824043247_Hansen_financials.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "4acceac4",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "3-20-14",
+    "donor_raw": "Debbie Hansen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "552.22",
+    "page": 2,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "4-11-14",
+    "donor_raw": "Debbie Hansen",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "170.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "note": "surname re-read at a 600 dpi tight crop; the second row's capital is looped and reads slightly differently from row 1's, but the same hand and the same address make 'Hansen' the reading"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "3-20-14",
+    "vendor_raw": "Weber Co Clerk Office",
+    "purpose": "Filing Fee",
+    "amount": "552.22",
+    "page": 3,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "4-11-14",
+    "vendor_raw": "Weber Co Democrats",
+    "purpose": "Donation",
+    "amount": "170.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "high"
+   }
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "this == cumulative (722.22)",
+    "detail": "552.22 + 170.00 = 722.22 = the schedule's printed total and the cover's line 1 in both columns"
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "this == cumulative (722.22)",
+    "detail": "552.22 + 170.00 = 722.22 = printed schedule total = cover line 3"
+   }
+  },
+  "escalations": 1,
+  "escalation_note": "one TIGHT CROP at 600 dpi on the two Form A donor-name cells (a legibility question the page's arithmetic cannot decide); the amounts themselves needed no escalation",
+  "notes": "Handwritten schedules on a rotated landscape scan. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only).",
+  "frames_withdrawn": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     42.71,
+     83.76
+    ],
+    "cells": [
+     [
+      5.28,
+      13.19
+     ],
+     [
+      13.19,
+      42.71
+     ],
+     [
+      42.71,
+      83.76
+     ],
+     [
+      83.76,
+      94.08
+     ]
+    ],
+    "rows": [
+     [
+      80.66,
+      83.66
+     ],
+     [
+      77.62,
+      80.66
+     ],
+     [
+      74.52,
+      77.62
+     ],
+     [
+      71.46,
+      74.52
+     ],
+     [
+      68.45,
+      71.46
+     ],
+     [
+      65.43,
+      68.45
+     ],
+     [
+      62.35,
+      65.43
+     ],
+     [
+      59.31,
+      62.35
+     ],
+     [
+      56.25,
+      59.31
+     ],
+     [
+      53.25,
+      56.25
+     ],
+     [
+      50.2,
+      53.25
+     ],
+     [
+      47.21,
+      50.2
+     ],
+     [
+      44.27,
+      47.21
+     ],
+     [
+      41.31,
+      44.27
+     ],
+     [
+      38.38,
+      41.31
+     ],
+     [
+      35.35,
+      38.38
+     ],
+     [
+      32.38,
+      35.35
+     ],
+     [
+      29.37,
+      32.38
+     ],
+     [
+      26.42,
+      29.37
+     ],
+     [
+      23.49,
+      26.42
+     ],
+     [
+      20.48,
+      23.49
+     ],
+     [
+      17.5,
+      20.48
+     ],
+     [
+      14.54,
+      17.5
+     ]
+    ]
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     11.91,
+     56.17
+    ],
+    "cells": [
+     [
+      4.03,
+      11.91
+     ],
+     [
+      11.91,
+      56.17
+     ],
+     [
+      56.17,
+      66.63
+     ],
+     [
+      66.63,
+      84.99
+     ],
+     [
+      84.99,
+      95.17
+     ]
+    ],
+    "rows": [
+     [
+      78.77,
+      81.8
+     ],
+     [
+      75.84,
+      78.77
+     ],
+     [
+      72.94,
+      75.84
+     ],
+     [
+      69.91,
+      72.94
+     ],
+     [
+      66.97,
+      69.91
+     ],
+     [
+      64.03,
+      66.97
+     ],
+     [
+      60.98,
+      64.03
+     ],
+     [
+      58.04,
+      60.98
+     ],
+     [
+      55.11,
+      58.04
+     ],
+     [
+      52.2,
+      55.11
+     ],
+     [
+      49.27,
+      52.2
+     ],
+     [
+      46.4,
+      49.27
+     ],
+     [
+      43.36,
+      46.4
+     ],
+     [
+      40.34,
+      43.36
+     ],
+     [
+      37.49,
+      40.34
+     ],
+     [
+      34.42,
+      37.49
+     ],
+     [
+      31.47,
+      34.42
+     ],
+     [
+      28.46,
+      31.47
+     ],
+     [
+      25.5,
+      28.46
+     ],
+     [
+      22.49,
+      25.5
+     ],
+     [
+      19.5,
+      22.49
+     ],
+     [
+      16.49,
+      19.5
+     ],
+     [
+      13.56,
+      16.49
+     ]
+    ]
+   }
+  },
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     83.78,
+     94.1
+    ],
+    "cells": [
+     [
+      5.26,
+      13.19
+     ],
+     [
+      13.19,
+      42.69
+     ],
+     [
+      42.69,
+      83.78
+     ],
+     [
+      83.78,
+      94.1
+     ]
+    ],
+    "rows": [
+     [
+      80.62,
+      83.62
+     ],
+     [
+      77.57,
+      80.62
+     ],
+     [
+      74.5,
+      77.57
+     ],
+     [
+      71.43,
+      74.5
+     ],
+     [
+      68.41,
+      71.43
+     ],
+     [
+      65.41,
+      68.41
+     ],
+     [
+      62.3,
+      65.41
+     ],
+     [
+      59.28,
+      62.3
+     ],
+     [
+      56.25,
+      59.28
+     ],
+     [
+      53.23,
+      56.25
+     ],
+     [
+      50.18,
+      53.23
+     ],
+     [
+      47.18,
+      50.18
+     ],
+     [
+      44.25,
+      47.18
+     ],
+     [
+      41.28,
+      44.25
+     ],
+     [
+      38.34,
+      41.28
+     ],
+     [
+      35.35,
+      38.34
+     ],
+     [
+      32.35,
+      35.35
+     ],
+     [
+      29.36,
+      32.35
+     ],
+     [
+      26.39,
+      29.36
+     ],
+     [
+      23.43,
+      26.39
+     ],
+     [
+      20.43,
+      23.43
+     ],
+     [
+      17.47,
+      20.43
+     ],
+     [
+      14.5,
+      17.47
+     ]
+    ],
+    "measure_note": "Handwritten Form A on a landscape sheet rendered portrait with the ROTATION REVERSED relative to most weber sheets: the column order runs Date(top)/Name/Address/Amount(bottom) in rendered y, and the printed table rows advance RIGHT-TO-LEFT in x, so every band pair is DESCENDING. axis=x. DEFECT IN THE WITHDRAWN FRAME: `cell` was [42.71,83.76], the ADDRESS column, i.e. every published pointer aimed at the donor's street address rather than the figure (also a privacy-relevant mis-aim). Corrected to the Amount column [83.78,94.1]: rowbands' h_rules_pct on p2 give the column grid 5.26 (table top border) / 13.19 (Date|Name) / 42.69 (Name|Address) / 83.78 (Address|Amount) / 94.1 (table bottom border); the intermediate h_rules 48.02, 53.3, 56.9, 57.61, 58.5, 62.44, 63.23 are HANDWRITING STROKES read as rules (rowbands defect #1 in its handwritten form) and were discarded. Note the detected 88.66 is an internal artefact, NOT the amount column's far edge - a first proof crop bounded at 88.66 CLIPPED the figure, and the band had to be carried to the printed border at 94.1 for the whole amount to render. ROW bands: rowbands returned 26 clean v_rules at a constant ~2.98 pct pitch; the rightmost three edges (92.07 = the sheet's thick right border, 89.64 and 86.64) bound the printed header-label strip and the shaded/hatched spacer and were TRIMMED (rowbands defect #2), so rows[0] is the first DATA row [80.62,83.62]. One rule was missed by the detector between 71.43 and 77.57 and was interpolated at 74.50 on the constant pitch. deskew drift is negligible (detected rules land within 0.05 pct of the constant-pitch model), so defect #3 did not bite. PROOF (900 dpi --value crops from the stored geometry; this side has exactly TWO transcribed rows so first and last are all of them): row 1 -> pct:80.62,83.78,3.00,10.32@p2 rendered the handwritten '552.22' (recorded 552.22); row 2 -> pct:77.57,83.78,3.05,10.32@p2 rendered '170.00' (recorded 170.00)."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     85.03,
+     95.31
+    ],
+    "cells": [
+     [
+      4.01,
+      11.91
+     ],
+     [
+      11.91,
+      56.17
+     ],
+     [
+      56.17,
+      66.63
+     ],
+     [
+      66.63,
+      85.03
+     ],
+     [
+      85.03,
+      95.31
+     ]
+    ],
+    "rows": [
+     [
+      78.77,
+      81.8
+     ],
+     [
+      75.84,
+      78.77
+     ],
+     [
+      72.94,
+      75.84
+     ],
+     [
+      69.91,
+      72.94
+     ],
+     [
+      66.97,
+      69.91
+     ],
+     [
+      64.03,
+      66.97
+     ],
+     [
+      60.98,
+      64.03
+     ],
+     [
+      58.04,
+      60.98
+     ],
+     [
+      55.11,
+      58.04
+     ],
+     [
+      52.2,
+      55.11
+     ],
+     [
+      49.27,
+      52.2
+     ],
+     [
+      46.4,
+      49.27
+     ],
+     [
+      43.36,
+      46.4
+     ],
+     [
+      40.34,
+      43.36
+     ],
+     [
+      37.49,
+      40.34
+     ],
+     [
+      34.42,
+      37.49
+     ],
+     [
+      31.47,
+      34.42
+     ],
+     [
+      28.46,
+      31.47
+     ],
+     [
+      25.5,
+      28.46
+     ],
+     [
+      22.49,
+      25.5
+     ],
+     [
+      19.5,
+      22.49
+     ],
+     [
+      16.49,
+      19.5
+     ],
+     [
+      13.56,
+      16.49
+     ]
+    ],
+    "measure_note": "Handwritten Form B, same reversed rotation as p2: columns Date(top)/Person/City/Purpose/Amount(bottom) in rendered y, rows advance RIGHT-TO-LEFT, bands DESCENDING, axis=x. DEFECT IN THE WITHDRAWN FRAME: `cell` was [11.91,56.17], the 'Person or Organization to Whom Expenditure Was Made' (vendor NAME) column. Corrected to the Amount column [85.03,95.31], read straight off p3's h_rules_pct [4.01, 11.91, 56.17, 66.63, 85.03, 95.31], which on this page is a clean five-column grid with no baseline noise (rowbands defect #1 did not fire on p3). ROW bands: only 16 v_rules survived detection on p3 (13.56..55.20 at a constant 2.974 pitch, plus 92.10 = the sheet's right border), so the data-row grid in the 75-84 pct range is NOT directly detected; the withdrawn row list's constant-pitch bands in that range were re-checked against the extrapolation 55.20+2.974k (which predicts edges at 75.9 and 78.9 against the list's 75.84 and 78.77) and then PROVED by crop rather than assumed. The header-label strip and shaded spacer sit right of 81.8 and are excluded, so rows[0] is the first DATA row (rowbands defect #2 checked and clean here). PROOF (900 dpi --value crops from the stored geometry; both transcribed rows proved): row 1 -> pct:78.77,85.03,3.03,10.28@p3 rendered the handwritten '552.22' (recorded 552.22); row 2 -> pct:75.84,85.03,2.93,10.28@p3 rendered '170.00' (recorded 170.00)."
+   }
+  },
+  "geometry_remeasured": {
+   "date": "2026-08-18",
+   "pages": [
+    "2",
+    "3"
+   ],
+   "unmeasurable": {},
+   "proof": "p2: first transcribed row (row 1, recorded 552.22) rendered '552.22'; last transcribed row (row 2, recorded 170.00) rendered '170.00'. p3: first transcribed row (row 1, recorded 552.22) rendered '552.22'; last transcribed row (row 2, recorded 170.00) rendered '170.00'. All four crops at 900 dpi --value from the stored frames."
+  }
+ },
+ {
+  "index_path": "raw/wayback/wb20151203045241_Gibson_financials.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "9f7bfdf9",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "12/14/2013",
+    "donor_raw": "Ray Kimber",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "12/14/2013",
+    "donor_raw": "AFC Tanks",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "1/10/2014",
+    "donor_raw": "Preserve Ogden Valley",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "4/29/2014",
+    "donor_raw": "RPAC",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "750.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "5/1/2014",
+    "donor_raw": "Randall Moulding",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "high"
+   },
+   {
+    "line_no": "6",
+    "date": "5/16/2014",
+    "donor_raw": "ACEC",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "high"
+   },
+   {
+    "line_no": "7",
+    "date": "10/3/2014",
+    "donor_raw": "Northern Wasatch HBA PAC",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 7,
+    "confidence": "high"
+   },
+   {
+    "line_no": "8",
+    "date": "10/25/2014",
+    "donor_raw": "Staker Parsons",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 8,
+    "confidence": "high"
+   },
+   {
+    "line_no": "9",
+    "date": "10/27/2014",
+    "donor_raw": "Paul Hirst",
+    "donor_city": "Farmington",
+    "donor_state": "UT",
+    "amount": "750.00",
+    "page": 2,
+    "row": 9,
+    "confidence": "high"
+   },
+   {
+    "line_no": "10",
+    "date": "10/27/2014",
+    "donor_raw": "Matt Hirst",
+    "donor_city": "Centerville",
+    "donor_state": "UT",
+    "amount": "750.00",
+    "page": 2,
+    "row": 10,
+    "confidence": "high"
+   },
+   {
+    "line_no": "11",
+    "date": "10/28/2014",
+    "donor_raw": "Chris Dallin",
+    "donor_city": "Syracuse",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "page": 2,
+    "row": 11,
+    "confidence": "high"
+   },
+   {
+    "line_no": "12",
+    "date": "10/28/2014",
+    "donor_raw": "Select Health",
+    "donor_city": "Murray",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 2,
+    "row": 12,
+    "confidence": "high"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1/6/2014",
+    "vendor_raw": "WCRW",
+    "purpose": "Constituent Relations",
+    "amount": "170.88",
+    "page": 3,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "1/31/2014",
+    "vendor_raw": "Family Counseling Services",
+    "purpose": "Donation",
+    "amount": "300.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "2/20/2014",
+    "vendor_raw": "\"America Can Do\" Spirit Project",
+    "purpose": "Donation",
+    "amount": "150.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "2/28/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Lincoln day",
+    "amount": "500.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "2/25/2014",
+    "vendor_raw": "Lynda Pipkin",
+    "purpose": "Campaign Services",
+    "amount": "500.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "high"
+   },
+   {
+    "line_no": "6",
+    "date": "2/25/2014",
+    "vendor_raw": "Cooper Ferrario",
+    "purpose": "Donation",
+    "amount": "100.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "high"
+   },
+   {
+    "line_no": "7",
+    "date": "3/14/2014",
+    "vendor_raw": "Weber County Clerk",
+    "purpose": "Filing Fee",
+    "amount": "603.91",
+    "page": 3,
+    "row": 7,
+    "confidence": "high"
+   },
+   {
+    "line_no": "8",
+    "date": "4/12/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Convention",
+    "amount": "150.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "high"
+   },
+   {
+    "line_no": "9",
+    "date": "4/11/2014",
+    "vendor_raw": "Farr's",
+    "purpose": "Convention Supplies",
+    "amount": "215.74",
+    "page": 3,
+    "row": 9,
+    "confidence": "high"
+   },
+   {
+    "line_no": "10",
+    "date": "5/3/2014",
+    "vendor_raw": "Friends of NRA",
+    "purpose": "Donation",
+    "amount": "1200.00",
+    "page": 3,
+    "row": 10,
+    "confidence": "high"
+   },
+   {
+    "line_no": "11",
+    "date": "5/12/2014",
+    "vendor_raw": "Cream of the Crop Show",
+    "purpose": "Advertising",
+    "amount": "200.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "high"
+   },
+   {
+    "line_no": "12",
+    "date": "5/12/2014",
+    "vendor_raw": "Ernest Rowley",
+    "purpose": "Contribution",
+    "amount": "250.00",
+    "page": 3,
+    "row": 12,
+    "confidence": "high"
+   },
+   {
+    "line_no": "13",
+    "date": "6/17/2014",
+    "vendor_raw": "David Waite",
+    "purpose": "Printing",
+    "amount": "1000.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "high"
+   },
+   {
+    "line_no": "14",
+    "date": "6/15/2014",
+    "vendor_raw": "Laura Warburton",
+    "purpose": "Campaign Services",
+    "amount": "500.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "high"
+   },
+   {
+    "line_no": "15",
+    "date": "6/20/2014",
+    "vendor_raw": "Friends of Weber County Fairgrounds",
+    "purpose": "Advertising",
+    "amount": "500.00",
+    "page": 3,
+    "row": 15,
+    "confidence": "high"
+   },
+   {
+    "line_no": "16",
+    "date": "9/8/2014",
+    "vendor_raw": "WCRW",
+    "purpose": "Constituent Relations",
+    "amount": "85.00",
+    "page": 3,
+    "row": 16,
+    "confidence": "high"
+   },
+   {
+    "line_no": "17",
+    "date": "9/20/2014",
+    "vendor_raw": "Weber Morgan - Children's Justice Center",
+    "purpose": "Donation",
+    "amount": "35.00",
+    "page": 3,
+    "row": 17,
+    "confidence": "high"
+   },
+   {
+    "line_no": "18",
+    "date": "10/1/2014",
+    "vendor_raw": "John Bond",
+    "purpose": "Contribution",
+    "amount": "250.00",
+    "page": 3,
+    "row": 18,
+    "confidence": "high"
+   },
+   {
+    "line_no": "19",
+    "date": "9/14/2014",
+    "vendor_raw": "Petersen for Nine",
+    "purpose": "Contribution",
+    "amount": "250.00",
+    "page": 3,
+    "row": 19,
+    "confidence": "high"
+   },
+   {
+    "line_no": "20",
+    "date": "10/1/2014",
+    "vendor_raw": "Committee to Elect Ricky Hatch",
+    "purpose": "Contribution",
+    "amount": "250.00",
+    "page": 3,
+    "row": 20,
+    "confidence": "high"
+   }
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Totals for THIS REPORT (12,650.00)",
+    "detail": "12 Form A rows sum to 12,650.00 = the schedule's own printed total = the cover's This-Report column. The cover's CUMULATIVE column (70,740.69) is a carry-forward this schedule does not itemize, so the period figure is the only anchor this side can have."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Totals for THIS REPORT (7,210.53)",
+    "detail": "20 Form B rows sum to 7,210.53 = the printed schedule total = the cover's This-Report column; cumulative 54,704.64 is carried forward and not itemized here."
+   }
+  },
+  "escalations": 0,
+  "escalation_note": "",
+  "notes": "Typed schedules, rotated landscape scan. This is a PERIOD schedule behind a CUMULATIVE cover \u2014 the itemized rows are the reporting period only. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only).",
+  "frames_withdrawn": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     15.06,
+     57.22
+    ],
+    "cells": [
+     [
+      4.35,
+      15.06
+     ],
+     [
+      15.06,
+      57.22
+     ],
+     [
+      57.22,
+      87.52
+     ],
+     [
+      87.52,
+      95.72
+     ]
+    ],
+    "rows": [
+     [
+      16.88,
+      20.35
+     ],
+     [
+      20.35,
+      23.58
+     ],
+     [
+      23.58,
+      26.89
+     ],
+     [
+      26.89,
+      30.06
+     ],
+     [
+      30.06,
+      33.29
+     ],
+     [
+      33.29,
+      36.58
+     ],
+     [
+      36.58,
+      40.22
+     ],
+     [
+      40.22,
+      43.51
+     ],
+     [
+      43.51,
+      46.74
+     ],
+     [
+      46.74,
+      50.0
+     ],
+     [
+      50.0,
+      53.29
+     ],
+     [
+      53.29,
+      56.46
+     ],
+     [
+      56.46,
+      59.63
+     ],
+     [
+      59.63,
+      62.8
+     ],
+     [
+      62.8,
+      65.97
+     ],
+     [
+      65.97,
+      69.14
+     ],
+     [
+      69.14,
+      72.34
+     ],
+     [
+      72.34,
+      75.51
+     ]
+    ]
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     43.25,
+     89.18
+    ],
+    "cells": [
+     [
+      3.23,
+      12.8
+     ],
+     [
+      12.8,
+      13.9
+     ],
+     [
+      13.9,
+      32.78
+     ],
+     [
+      32.78,
+      40.82
+     ],
+     [
+      40.82,
+      41.96
+     ],
+     [
+      41.96,
+      43.25
+     ],
+     [
+      43.25,
+      89.18
+     ],
+     [
+      89.18,
+      90.58
+     ],
+     [
+      90.58,
+      91.3
+     ],
+     [
+      91.3,
+      97.08
+     ]
+    ],
+    "rows": [
+     [
+      21.34,
+      24.57
+     ],
+     [
+      24.57,
+      27.77
+     ],
+     [
+      27.77,
+      30.95
+     ],
+     [
+      30.95,
+      34.15
+     ],
+     [
+      34.15,
+      37.33
+     ],
+     [
+      37.33,
+      40.52
+     ],
+     [
+      40.52,
+      43.69
+     ],
+     [
+      43.69,
+      46.86
+     ],
+     [
+      46.86,
+      50.03
+     ],
+     [
+      50.03,
+      53.23
+     ],
+     [
+      53.23,
+      56.4
+     ],
+     [
+      56.4,
+      59.57
+     ],
+     [
+      59.57,
+      62.77
+     ],
+     [
+      62.77,
+      65.94
+     ],
+     [
+      65.94,
+      69.11
+     ],
+     [
+      69.11,
+      72.28
+     ],
+     [
+      72.28,
+      75.48
+     ],
+     [
+      75.48,
+      78.68
+     ],
+     [
+      78.68,
+      81.86
+     ],
+     [
+      81.86,
+      85.03
+     ]
+    ]
+   }
+  },
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     4.37,
+     15.08
+    ],
+    "cells": [
+     [
+      4.37,
+      15.08
+     ],
+     [
+      15.08,
+      57.24
+     ],
+     [
+      57.24,
+      87.52
+     ],
+     [
+      87.52,
+      95.72
+     ]
+    ],
+    "rows": [
+     [
+      16.91,
+      20.23
+     ],
+     [
+      20.23,
+      23.55
+     ],
+     [
+      23.55,
+      26.86
+     ],
+     [
+      26.86,
+      30.18
+     ],
+     [
+      30.18,
+      33.47
+     ],
+     [
+      33.47,
+      36.76
+     ],
+     [
+      36.76,
+      40.05
+     ],
+     [
+      40.05,
+      43.39
+     ],
+     [
+      43.39,
+      46.68
+     ],
+     [
+      46.68,
+      49.97
+     ],
+     [
+      49.97,
+      53.26
+     ],
+     [
+      53.26,
+      56.43
+     ],
+     [
+      56.43,
+      59.63
+     ],
+     [
+      59.63,
+      62.8
+     ],
+     [
+      62.8,
+      65.97
+     ],
+     [
+      65.97,
+      69.17
+     ],
+     [
+      69.17,
+      72.34
+     ],
+     [
+      72.34,
+      75.51
+     ]
+    ],
+    "measure_note": "Rotated landscape Form A: rows advance along page-X (axis x, v_rules_pct); columns along page-Y (h_rules_pct), and the render maps the printed column order in REVERSE along Y, so the Amount column - last in print - is the LOWEST h band [4.37,15.08]. Defect worked around: the withdrawn frame stored the ADDRESS column ([15.06,57.22]) in `cell`, aiming every pointer at a street address. rowbands defect 1 (text baselines as rules) badly contaminated h_rules_pct (60 rules); the four real column rules were matched against the render. Defect 2: trimmed the leading non-data v-bands - a stray rule outside the table (7.87), the table left edge (10.45), the header strip (10.45-13.62) and the GREY SHADED spacer (13.62-16.91) - so rows[0]=[16.91,20.23] is the first DATA row. Note the amount cell also contains a printed '$' at the low-pct end of the band; the band is kept whole so the figure is never clipped."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     3.26,
+     13.92
+    ],
+    "cells": [
+     [
+      3.26,
+      13.92
+     ],
+     [
+      13.92,
+      32.78
+     ],
+     [
+      32.78,
+      43.49
+     ],
+     [
+      43.49,
+      88.41
+     ],
+     [
+      88.41,
+      97.11
+     ]
+    ],
+    "rows": [
+     [
+      21.37,
+      24.54
+     ],
+     [
+      24.54,
+      27.77
+     ],
+     [
+      27.77,
+      30.95
+     ],
+     [
+      30.95,
+      34.12
+     ],
+     [
+      34.12,
+      37.32
+     ],
+     [
+      37.32,
+      40.52
+     ],
+     [
+      40.52,
+      43.69
+     ],
+     [
+      43.69,
+      46.86
+     ],
+     [
+      46.86,
+      50.03
+     ],
+     [
+      50.03,
+      53.23
+     ],
+     [
+      53.23,
+      56.4
+     ],
+     [
+      56.4,
+      59.57
+     ],
+     [
+      59.57,
+      62.74
+     ],
+     [
+      62.74,
+      65.94
+     ],
+     [
+      65.94,
+      69.11
+     ],
+     [
+      69.11,
+      72.28
+     ],
+     [
+      72.28,
+      75.46
+     ],
+     [
+      75.46,
+      78.66
+     ],
+     [
+      78.66,
+      81.83
+     ],
+     [
+      81.83,
+      85.03
+     ]
+    ],
+    "measure_note": "Rotated landscape Form B, same orientation (Amount = lowest h band [3.26,13.92]). The withdrawn frame stored the NAME column ([43.25,89.18]) in `cell`. Leading trim on this page needed FOUR bands' worth of care, not a constant: rowbands returned a stray rule outside the table (7.84) and the table left edge (10.36) but MISSED the header|spacer rule entirely, so the header+grey spacer arrive as one band [10.36,18.06] and there is a further wholly blank table row [18.06,21.37] below the spacer. The first DATA row is [21.37,24.54] - proved by crop, and the withdrawn row list happened to start correctly here. Row indexing additionally pinned mid-list (row 17) because the last three rows all print 250.00 and are a weak discriminator."
+   }
+  },
+  "geometry_remeasured": {
+   "date": "2026-08-18",
+   "pages": [
+    "2",
+    "3"
+   ],
+   "unmeasurable": {},
+   "proof": "p2: first-row crop pct:16.91,4.37,3.32,10.71@p2 rendered $ 500.00 (recorded 500.00); last-row (row 12) crop pct:53.26,4.37,3.17,10.71@p2 rendered $ 300.00 (recorded 300.00). p3: first-row crop pct:21.37,3.26,3.17,10.66@p3 rendered $ 170.88 (recorded 170.88); last-row (row 20) crop pct:81.83,3.26,3.20,10.66@p3 rendered $ 250.00 (recorded 250.00); extra mid-list check row 17 crop pct:72.28,3.26,3.18,10.66@p3 rendered $ 35.00 (recorded 35.00)."
+  }
+ },
+ {
+  "index_path": "raw/wayback/wb20160824031236_JUlibarri_1.5.15.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "14e72210",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "2/14/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "326.21",
+    "page": 2,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "3/3/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "477.12",
+    "page": 2,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "3/13/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "803.32",
+    "page": 2,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "4/3/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "65.15",
+    "page": 2,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "4/9/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "70.28",
+    "page": 2,
+    "row": 5,
+    "confidence": "high"
+   },
+   {
+    "line_no": "6",
+    "date": "4/11/2014",
+    "donor_raw": "John Ulibarri (Loan from personal account)",
+    "donor_city": "South Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 2,
+    "row": 6,
+    "confidence": "high"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "2/14/2014",
+    "vendor_raw": "4Imprint",
+    "purpose": "Promotional Materials",
+    "amount": "326.21",
+    "page": 3,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "3/3/2014",
+    "vendor_raw": "Bell Photography",
+    "purpose": "Promotional Materials",
+    "amount": "477.12",
+    "page": 3,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "3/13/2014",
+    "vendor_raw": "Weber County Clerk/Auditor",
+    "purpose": "Filing Fee",
+    "amount": "803.32",
+    "page": 3,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "4/3/2014",
+    "vendor_raw": "Candy Crate",
+    "purpose": "Promotional Materials",
+    "amount": "65.15",
+    "page": 3,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "4/9/2014",
+    "vendor_raw": "Bell Photography",
+    "purpose": "Promotional Materials",
+    "amount": "70.28",
+    "page": 3,
+    "row": 5,
+    "confidence": "high"
+   },
+   {
+    "line_no": "6",
+    "date": "4/11/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Convention Booth Fee",
+    "amount": "150.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "high"
+   }
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "this == cumulative (1,892.08)",
+    "detail": "6 Form A rows sum to 1,892.08 = printed schedule total = cover line 1 (both columns)"
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "this == cumulative (1,892.08)",
+    "detail": "6 Form B rows sum to 1,892.08 = printed schedule total = cover line 3 (both columns)"
+   }
+  },
+  "escalations": 0,
+  "escalation_note": "",
+  "notes": "Typed schedules, rotated landscape scan. Entirely self-funded (six loans from the candidate's own account), each matched one-for-one by a Form B line of the same date and amount. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only).",
+  "frames_withdrawn": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     4.6,
+     15.8
+    ],
+    "cells": [
+     [
+      4.6,
+      15.8
+     ]
+    ],
+    "rows": [
+     [
+      17.2,
+      20.27
+     ],
+     [
+      20.27,
+      23.34
+     ],
+     [
+      23.34,
+      26.41
+     ],
+     [
+      26.41,
+      29.48
+     ],
+     [
+      29.48,
+      32.55
+     ],
+     [
+      32.55,
+      35.61
+     ]
+    ],
+    "measure_note": "RE-MEASURED 2026-08-14 (resume audit). The original frame for this page was mis-axed (axis=y with 4 bands, so contribution rows 5-6 fell outside it). The page is a ROTATED landscape sheet: rows advance along X. rowbands.py finds the printed row rules only in the EMPTY right-hand part of the grid (48.03..87.93 pct, pitch 3.069) because the text-filled bands break the full-length dark run; the six data-row bands are that same printed pitch extrapolated back to the first data column, and were VERIFIED by 600 dpi tight crops which reproduce 326.2(1) at row 1 and 150.0(0) at row 6."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     42.57,
+     88.04
+    ],
+    "cells": [
+     [
+      2.32,
+      13.01
+     ],
+     [
+      13.01,
+      31.89
+     ],
+     [
+      31.89,
+      42.57
+     ],
+     [
+      42.57,
+      88.04
+     ],
+     [
+      88.04,
+      96.22
+     ]
+    ],
+    "rows": [
+     [
+      18.5,
+      21.54
+     ],
+     [
+      21.54,
+      24.54
+     ],
+     [
+      24.54,
+      27.66
+     ],
+     [
+      27.66,
+      30.83
+     ],
+     [
+      30.83,
+      33.89
+     ],
+     [
+      33.89,
+      36.95
+     ],
+     [
+      36.95,
+      40.11
+     ],
+     [
+      40.11,
+      43.09
+     ],
+     [
+      43.09,
+      46.07
+     ],
+     [
+      46.07,
+      49.12
+     ],
+     [
+      49.12,
+      52.2
+     ],
+     [
+      52.2,
+      55.26
+     ],
+     [
+      55.26,
+      58.37
+     ],
+     [
+      58.37,
+      61.42
+     ],
+     [
+      61.42,
+      64.5
+     ],
+     [
+      64.5,
+      67.62
+     ],
+     [
+      67.62,
+      70.7
+     ],
+     [
+      70.7,
+      73.78
+     ],
+     [
+      73.78,
+      76.89
+     ],
+     [
+      76.89,
+      79.95
+     ],
+     [
+      79.95,
+      82.97
+     ],
+     [
+      82.97,
+      86.0
+     ],
+     [
+      86.0,
+      89.02
+     ]
+    ]
+   }
+  },
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     4.03,
+     14.74
+    ],
+    "cells": [
+     [
+      4.03,
+      14.74
+     ],
+     [
+      14.74,
+      56.29
+     ],
+     [
+      56.29,
+      82.2
+     ],
+     [
+      82.2,
+      89.1
+     ]
+    ],
+    "rows": [
+     [
+      17.36,
+      20.43
+     ],
+     [
+      20.43,
+      23.49
+     ],
+     [
+      23.49,
+      26.56
+     ],
+     [
+      26.56,
+      29.63
+     ],
+     [
+      29.63,
+      32.7
+     ],
+     [
+      32.7,
+      35.76
+     ]
+    ],
+    "measure_note": "Form A (contributions), rotated landscape sheet; rows advance along X LOW-to-HIGH. rowbands.py finds the printed row rules on this page ONLY in the empty right-hand part of the grid (48.03..87.93, regular pitch 3.068) because the text-filled bands break the full-length dark run; the six data-row bands are that same pitch extrapolated BACK to the first data column (48.03 - 10*3.068 = 17.36). rowbands.py ALSO returns 7.63/10.13/13.24/16.41 at the head of the page - the header band, the header-label band and the shaded spacer column (defect 2) - and 16.41 is ~0.95 pct short of the true first data rule, so taking it would have shifted every row a third of a band; BOTH candidates were cropped and compared (16.41-start vs 17.36-start): the 16.41 series clipped row 6 and pulled in a sliver of row 5's 70.28, the 17.36 series rendered each figure cleanly bounded by its printed rules. 17.36 governs. THE WITHDRAWN FRAME's row start (17.2) was near-correct here but its `cells` list held only one band, so the column list is re-measured from h_rules_pct; `cell` [4.6,15.8] was approximately the Amount column and is tightened to the printed boundaries [4.03,14.74] (the 5.14/5.88 rules are text baselines of the 'Amount' header - defect 1 - not column rules). PROOF: 900 dpi --value crops from the geometry stored here rendered '326.21' for row 1 (recorded 326.21) and '150.00' for row 6 (recorded 150.00).",
+    "n_rows_transcribed": 6
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     2.32,
+     13.01
+    ],
+    "cells": [
+     [
+      2.32,
+      13.01
+     ],
+     [
+      13.01,
+      30.08
+     ],
+     [
+      30.08,
+      39.36
+     ],
+     [
+      39.36,
+      69.01
+     ],
+     [
+      69.01,
+      88.04
+     ]
+    ],
+    "rows": [
+     [
+      18.35,
+      21.43
+     ],
+     [
+      21.43,
+      24.49
+     ],
+     [
+      24.49,
+      27.6
+     ],
+     [
+      27.6,
+      30.68
+     ],
+     [
+      30.68,
+      33.79
+     ],
+     [
+      33.79,
+      36.88
+     ]
+    ],
+    "measure_note": "Form B (expenditures), same rotation. Row bands are the regular-pitch (3.07) v_rules_pct subsequence starting 18.35; the leading 7.75/10.22 (header) and 10.22/15.21 + 15.21/18.35 (header labels + shaded spacer column) were TRIMMED (rowbands.py defect 2). THE WITHDRAWN DEFECT WAS `cell`: it stored [42.57,88.04], the Person-or-Organization column, so every pointer aimed at the payee name. Weber Form B's Amount column is the printed table's LAST column, which under this rotation is the LOW-y band [2.32,13.01] (y order: Amount, Purpose, City, Person, Date). h_rules is baseline-contaminated (59 rules for 5 columns - defect 1); boundaries chosen against the full-page read. PROOF: 900 dpi --value crops from the geometry stored here rendered '326.21' for row 1 (recorded 326.21) and '150.00' for row 6 (recorded 150.00).",
+    "n_rows_transcribed": 6
+   }
+  },
+  "geometry_remeasured": {
+   "date": "2026-08-18",
+   "pages": [
+    "2",
+    "3"
+   ],
+   "unmeasurable": {},
+   "proof": "p2: first-row crop pct:17.36,4.03,3.06,10.71@p2 rendered '326.21' (recorded 326.21); last-row crop pct:32.71,4.03,3.07,10.71@p2 rendered '150.00' (recorded 150.00). p3: first-row crop pct:18.35,2.32,3.08,10.69@p3 rendered '326.21' (recorded 326.21); last-row crop pct:33.79,2.32,3.09,10.69@p3 rendered '150.00' (recorded 150.00)."
+  }
+ },
+ {
+  "index_path": "raw/wayback/wb20160824031246_Thompson_financials.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "2613aa33",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "9/7/11",
+    "donor_raw": "Ride for the Sheriffs Fundraiser - 2011 (Aggregate)",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "850.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "6/7/12",
+    "donor_raw": "Reed Richards",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "9/6/12",
+    "donor_raw": "Ride for the Sheriffs Fundraiser - 2012 (Aggregate)",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "2592.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "11/12/13",
+    "donor_raw": "Ride for the Sheriffs Fundraiser - 2013 (Aggregate)",
+    "donor_city": "Plain City",
+    "donor_state": "UT",
+    "amount": "1663.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "10/23/14",
+    "donor_raw": "John Wood",
+    "donor_city": "Eden",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "high"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "2/28/2011",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "Lincoln Day Dinner",
+    "amount": "50.00",
+    "page": 3,
+    "row": 1,
+    "confidence": "high"
+   },
+   {
+    "line_no": "2",
+    "date": "5/22/2011",
+    "vendor_raw": "Canteen",
+    "purpose": "Employee BBQ",
+    "amount": "435.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "high"
+   },
+   {
+    "line_no": "3",
+    "date": "5/22/2011",
+    "vendor_raw": "Weber County Search and Rescue",
+    "purpose": "Donation",
+    "amount": "262.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "high"
+   },
+   {
+    "line_no": "4",
+    "date": "5/22/2011",
+    "vendor_raw": "Summers",
+    "purpose": "Employee BBQ",
+    "amount": "200.00",
+    "page": 3,
+    "row": 4,
+    "confidence": "high"
+   },
+   {
+    "line_no": "5",
+    "date": "5/22/2011",
+    "vendor_raw": "Tramcor Trucking",
+    "purpose": "Employee BBQ",
+    "amount": "100.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "high"
+   },
+   {
+    "line_no": "6",
+    "date": "5/22/2011",
+    "vendor_raw": "Dan G Dolan Memorial Ride",
+    "purpose": "Donation",
+    "amount": "100.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "high"
+   },
+   {
+    "line_no": "7",
+    "date": "6/8/2011",
+    "vendor_raw": "Farrs Ice Cream",
+    "purpose": "Fundraiser",
+    "amount": "327.80",
+    "page": 3,
+    "row": 7,
+    "confidence": "high"
+   },
+   {
+    "line_no": "8",
+    "date": "9/7/2011",
+    "vendor_raw": "Weber County Fair",
+    "purpose": "Jr Livestock Program",
+    "amount": "809.76",
+    "page": 3,
+    "row": 8,
+    "confidence": "high"
+   },
+   {
+    "line_no": "9",
+    "date": "6/11/2012",
+    "vendor_raw": "Paypal",
+    "purpose": "Service Fee",
+    "amount": "18.08",
+    "page": 3,
+    "row": 9,
+    "confidence": "high"
+   },
+   {
+    "line_no": "10",
+    "date": "9/6/2012",
+    "vendor_raw": "Weber County Fair",
+    "purpose": "Jr Livestock Program",
+    "amount": "368.50",
+    "page": 3,
+    "row": 10,
+    "confidence": "high"
+   },
+   {
+    "line_no": "11",
+    "date": "6/24/2013",
+    "vendor_raw": "Symbol Arts",
+    "purpose": "Fundraiser",
+    "amount": "500.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "high"
+   },
+   {
+    "line_no": "12",
+    "date": "7/2/2013",
+    "vendor_raw": "Farrs Ice Cream",
+    "purpose": "Fundraiser",
+    "amount": "44.86",
+    "page": 3,
+    "row": 12,
+    "confidence": "high"
+   },
+   {
+    "line_no": "13",
+    "date": "7/2/2013",
+    "vendor_raw": "Davis Ride",
+    "purpose": "Donation",
+    "amount": "100.00",
+    "page": 3,
+    "row": 13,
+    "confidence": "high"
+   },
+   {
+    "line_no": "14",
+    "date": "1/29/2014",
+    "vendor_raw": "Friends of NRA",
+    "purpose": "Donation",
+    "amount": "50.00",
+    "page": 3,
+    "row": 14,
+    "confidence": "high"
+   },
+   {
+    "line_no": "15",
+    "date": "3/19/2014",
+    "vendor_raw": "Kents Shooter Supply",
+    "purpose": "Fundraiser",
+    "amount": "758.64",
+    "page": 3,
+    "row": 15,
+    "confidence": "high"
+   },
+   {
+    "line_no": "16",
+    "date": "3/19/2014",
+    "vendor_raw": "Bell Printing",
+    "purpose": "Printing",
+    "amount": "644.83",
+    "page": 3,
+    "row": 16,
+    "confidence": "high"
+   },
+   {
+    "line_no": "17",
+    "date": "3/19/2014",
+    "vendor_raw": "Weber County Republican Party",
+    "purpose": "County Convention",
+    "amount": "150.00",
+    "page": 3,
+    "row": 17,
+    "confidence": "high"
+   },
+   {
+    "line_no": "18",
+    "date": "3/19/2014",
+    "vendor_raw": "Weber County Clerk Auditor",
+    "purpose": "Filing Fee",
+    "amount": "551.07",
+    "page": 3,
+    "row": 18,
+    "confidence": "high"
+   },
+   {
+    "line_no": "19",
+    "date": "6/21/2014",
+    "vendor_raw": "Farrs Ice Cream",
+    "purpose": "Fundraiser",
+    "amount": "49.31",
+    "page": 3,
+    "row": 19,
+    "confidence": "high"
+   },
+   {
+    "line_no": "20",
+    "date": "10/23/2014",
+    "vendor_raw": "Symbol Arts",
+    "purpose": "Donor Appreciation",
+    "amount": "500.00",
+    "page": 3,
+    "row": 20,
+    "confidence": "high"
+   }
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "this == cumulative (5,555.00)",
+    "detail": "5 Form A rows sum to 5,555.00 = printed schedule total = cover line 1 (both columns)"
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "this == cumulative (6,019.85)",
+    "detail": "20 Form B rows sum to 6,019.85 = printed schedule total = cover line 3 (both columns)"
+   }
+  },
+  "escalations": 0,
+  "escalation_note": "",
+  "notes": "Typed schedules, rotated landscape scan. Three Form A rows are the filer's own AGGREGATE fundraiser lines ('Ride for the Sheriffs Fundraiser - 2011/2012/2013 (Aggregate)') \u2014 one row standing for many donors, kept verbatim as the document reports them and never split. The schedule reaches back to 2011, so this is a whole-account ledger, not a period one. Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only).",
+  "frames_withdrawn": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     43.62,
+     85.76
+    ],
+    "cells": [
+     [
+      2.46,
+      10.62
+     ],
+     [
+      10.62,
+      43.62
+     ],
+     [
+      43.62,
+      85.76
+     ],
+     [
+      85.76,
+      96.47
+     ]
+    ],
+    "rows": [
+     [
+      73.14,
+      75.13
+     ],
+     [
+      71.96,
+      73.14
+     ],
+     [
+      70.02,
+      71.96
+     ],
+     [
+      68.85,
+      70.02
+     ],
+     [
+      65.68,
+      68.85
+     ],
+     [
+      62.57,
+      65.68
+     ],
+     [
+      59.4,
+      62.57
+     ],
+     [
+      56.28,
+      59.4
+     ],
+     [
+      53.11,
+      56.28
+     ],
+     [
+      49.97,
+      53.11
+     ],
+     [
+      46.86,
+      49.97
+     ],
+     [
+      43.78,
+      46.86
+     ],
+     [
+      40.6,
+      43.78
+     ],
+     [
+      37.64,
+      40.6
+     ],
+     [
+      34.57,
+      37.64
+     ],
+     [
+      31.37,
+      34.57
+     ],
+     [
+      28.39,
+      31.37
+     ],
+     [
+      25.37,
+      28.39
+     ],
+     [
+      22.25,
+      25.37
+     ],
+     [
+      19.2,
+      22.25
+     ],
+     [
+      16.15,
+      19.2
+     ],
+     [
+      13.07,
+      16.15
+     ],
+     [
+      9.98,
+      13.07
+     ]
+    ]
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     9.05,
+     54.95
+    ],
+    "cells": [
+     [
+      1.16,
+      4.58
+     ],
+     [
+      4.58,
+      5.4
+     ],
+     [
+      5.4,
+      7.15
+     ],
+     [
+      7.15,
+      8.02
+     ],
+     [
+      8.02,
+      9.05
+     ],
+     [
+      9.05,
+      54.95
+     ],
+     [
+      54.95,
+      55.93
+     ],
+     [
+      55.93,
+      57.39
+     ],
+     [
+      57.39,
+      68.42
+     ],
+     [
+      68.42,
+      70.48
+     ],
+     [
+      70.48,
+      86.99
+     ],
+     [
+      86.99,
+      93.23
+     ],
+     [
+      93.23,
+      94.44
+     ],
+     [
+      94.44,
+      95.34
+     ],
+     [
+      95.34,
+      96.69
+     ],
+     [
+      96.69,
+      97.7
+     ]
+    ],
+    "rows": [
+     [
+      67.38,
+      70.41
+     ],
+     [
+      64.33,
+      67.38
+     ],
+     [
+      62.3,
+      64.33
+     ],
+     [
+      61.22,
+      62.3
+     ],
+     [
+      58.16,
+      61.22
+     ],
+     [
+      56.17,
+      58.16
+     ],
+     [
+      55.11,
+      56.17
+     ],
+     [
+      52.03,
+      55.11
+     ],
+     [
+      50.06,
+      52.03
+     ],
+     [
+      48.93,
+      50.06
+     ],
+     [
+      45.74,
+      48.93
+     ],
+     [
+      42.75,
+      45.74
+     ],
+     [
+      39.85,
+      42.75
+     ],
+     [
+      36.71,
+      39.85
+     ],
+     [
+      34.7,
+      36.71
+     ],
+     [
+      33.73,
+      34.7
+     ],
+     [
+      30.6,
+      33.73
+     ],
+     [
+      28.54,
+      30.6
+     ],
+     [
+      27.57,
+      28.54
+     ],
+     [
+      24.46,
+      27.57
+     ],
+     [
+      21.41,
+      24.46
+     ],
+     [
+      18.14,
+      21.41
+     ],
+     [
+      15.41,
+      18.14
+     ],
+     [
+      12.35,
+      15.41
+     ],
+     [
+      9.07,
+      12.35
+     ]
+    ]
+   }
+  },
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     85.79,
+     96.49
+    ],
+    "cells": [
+     [
+      2.46,
+      10.02
+     ],
+     [
+      10.02,
+      43.6
+     ],
+     [
+      43.6,
+      85.79
+     ],
+     [
+      85.79,
+      96.49
+     ]
+    ],
+    "rows": [
+     [
+      78.24,
+      81.39
+     ],
+     [
+      75.1,
+      78.24
+     ],
+     [
+      71.96,
+      75.1
+     ],
+     [
+      68.82,
+      71.96
+     ],
+     [
+      65.68,
+      68.82
+     ],
+     [
+      62.54,
+      65.68
+     ],
+     [
+      59.4,
+      62.54
+     ],
+     [
+      56.25,
+      59.4
+     ],
+     [
+      53.08,
+      56.25
+     ],
+     [
+      49.97,
+      53.08
+     ],
+     [
+      46.86,
+      49.97
+     ],
+     [
+      43.81,
+      46.86
+     ],
+     [
+      40.69,
+      43.81
+     ],
+     [
+      37.64,
+      40.69
+     ],
+     [
+      34.56,
+      37.64
+     ],
+     [
+      31.47,
+      34.56
+     ],
+     [
+      28.42,
+      31.47
+     ],
+     [
+      25.37,
+      28.42
+     ],
+     [
+      22.25,
+      25.37
+     ],
+     [
+      19.2,
+      22.25
+     ],
+     [
+      16.12,
+      19.2
+     ],
+     [
+      13.04,
+      16.12
+     ],
+     [
+      9.98,
+      13.04
+     ]
+    ],
+    "measure_note": "Typed Form A, landscape sheet rendered portrait with the REVERSED rotation (columns run Date(top)/Name/Address/Amount(bottom) in rendered y; rows advance RIGHT-TO-LEFT, so bands are DESCENDING). axis=x. THREE defects in the withdrawn frame. (1) WRONG `cell` COLUMN: [43.62,85.76] is the ADDRESS column, so every published pointer aimed at the donor's street address rather than the figure. (2) rowbands defect #1 in force: p2 returned 65 h_rules for a 4-column table - almost all of them are typed-text baselines - and the withdrawn `rows` list opened with four short irregular bands ([73.14,75.13],[71.96,73.14],[70.02,71.96],[68.85,70.02]) that are baselines, not grid rules. (3) It also started FOUR ROWS LATE (its first band sits at the 4th/5th printed row), the mirror of the usual off-by-one. Corrected as follows. COLUMN band: rowbands gives 2.46 (table top border), 43.6 (Name|Address), 85.79 (Address|Amount) and 96.49 (table bottom border); the Date|Name edge is taken as 10.02 (approximate - 9.34/10.02/10.62 are all detected and only the Amount band is load-bearing). The amount band had to be carried all the way to 96.49: a first proof crop bounded at the plausible-looking rule 91.9 CLIPPED the right-aligned figure to a bare '$', and 90.34/91.9/93.15/94.26/94.92/95.51/96.1 are digit strokes, not rules. ROW bands: p2's 27 v_rules are clean and evenly pitched (~3.07); the two rightmost edges bound the printed header-label strip ([84.53,87.58], which a probe crop confirmed by rendering the word 'Amount' on p3's twin band) and the shaded/hatched spacer ([81.39,84.53]) - both TRIMMED (rowbands defect #2), so rows[0] is the first DATA row [78.24,81.39]. deskew_deg is 0.3, i.e. above the 0.2 threshold of rowbands defect #3, so every band was treated as provisional and confirmed against RAW-render crops rather than trusted; the drift proved to be under half a row here and the detected edges reproduced the printed cells exactly. PROOF (900 dpi --value crops taken from the geometry stored above): FIRST transcribed row 1 -> pct:78.24,85.79,3.15,10.70@p2 rendered '$850.00' (recorded 850.00); LAST transcribed row 5 -> pct:65.68,85.79,3.14,10.70@p2 rendered '$300.00' (recorded 300.00)."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     87.02,
+     97.72
+    ],
+    "cells": [
+     [
+      1.18,
+      8.75
+     ],
+     [
+      8.75,
+      56.39
+     ],
+     [
+      56.39,
+      68.15
+     ],
+     [
+      68.15,
+      87.02
+     ],
+     [
+      87.02,
+      97.72
+     ]
+    ],
+    "rows": [
+     [
+      76.54,
+      79.59
+     ],
+     [
+      73.46,
+      76.54
+     ],
+     [
+      70.41,
+      73.46
+     ],
+     [
+      67.35,
+      70.41
+     ],
+     [
+      64.3,
+      67.35
+     ],
+     [
+      61.19,
+      64.3
+     ],
+     [
+      58.13,
+      61.19
+     ],
+     [
+      55.08,
+      58.13
+     ],
+     [
+      52.03,
+      55.08
+     ],
+     [
+      48.97,
+      52.03
+     ],
+     [
+      45.92,
+      48.97
+     ],
+     [
+      42.87,
+      45.92
+     ],
+     [
+      39.81,
+      42.87
+     ],
+     [
+      36.73,
+      39.81
+     ],
+     [
+      33.65,
+      36.73
+     ],
+     [
+      30.57,
+      33.65
+     ],
+     [
+      27.49,
+      30.57
+     ],
+     [
+      24.42,
+      27.49
+     ],
+     [
+      21.34,
+      24.42
+     ],
+     [
+      18.26,
+      21.34
+     ],
+     [
+      15.21,
+      18.26
+     ],
+     [
+      12.1,
+      15.21
+     ],
+     [
+      9.04,
+      12.1
+     ]
+    ],
+    "measure_note": "Typed Form B, same reversed rotation as p2 (Date(top)/Person/City/Purpose/Amount(bottom); rows RIGHT-TO-LEFT, DESCENDING bands). axis=x. Withdrawn frame had the SAME two defects: `cell` was [9.05,54.95], the vendor-NAME column, and its `rows` list was a baseline-contaminated sequence (rowbands defect #1: 34 h_rules and many sub-pitch bands such as [62.3,64.33],[61.22,62.3],[55.11,56.17]) that also began at the wrong row. Corrected: the Amount column is [87.02,97.72] (rowbands h_rules; PROBE-CONFIRMED - a crop of the band immediately right of the data area, pct:82.74,87.02,3.15,10.70@p3, renders the printed word 'Amount', i.e. that band is the HEADER strip and the amount column band is right). ROW bands: p3's v_rules are detected only in two runs (9.04-18.26 and 39.81-82.74) at a constant ~3.06 pitch; the missing middle edges were interpolated linearly between the detected 39.81 and 18.26 (7 intervals, pitch 3.079) and the extrapolation was PROVED by crop rather than assumed. The header band [82.74,85.89] and the shaded spacer [79.59,82.74] were TRIMMED (rowbands defect #2 - a crop of [79.59,82.74] renders BLANK, a crop of [82.74,85.89] renders 'Amount'), so rows[0] is the first DATA row [76.54,79.59]. deskew_deg 0.3 (> the 0.2 threshold of defect #3): every band treated as provisional and corrected against raw-render crops. PROOF (900 dpi --value crops from the stored geometry): FIRST transcribed row 1 -> pct:76.54,87.02,3.05,10.70@p3 rendered '$50.00' (recorded 50.00); LAST transcribed row 20 -> pct:18.26,87.02,3.19,10.70@p3 rendered '$500.00' (recorded 500.00), with the neighbouring row 19 figure '$49.31' visible at the crop edge, which independently confirms the list is not off by one."
+   }
+  },
+  "geometry_remeasured": {
+   "date": "2026-08-18",
+   "pages": [
+    "2",
+    "3"
+   ],
+   "unmeasurable": {},
+   "proof": "p2: first transcribed row (row 1, recorded 850.00) rendered '$850.00'; last transcribed row (row 5, recorded 300.00) rendered '$300.00'. p3: first transcribed row (row 1, recorded 50.00) rendered '$50.00'; last transcribed row (row 20, recorded 500.00) rendered '$500.00' (row 19's '$49.31' clipped in at the edge, confirming alignment). All crops 900 dpi --value from the stored frames."
+  }
+ }
+]

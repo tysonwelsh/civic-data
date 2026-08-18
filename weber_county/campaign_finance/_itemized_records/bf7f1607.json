@@ -1,0 +1,366 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_eae67827.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "bf7f1607",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $3,300.00', which is also BOTH cover cells on line 1 (This Report $3,300.00 and Cumulative Total $3,300.00)",
+    "detail": "5 Form A rows (100.00 + 2,500.00 + 500.00 + 100.00 + 1,000.00) sum to 4,200.00 against the filer's own printed schedule total of 3,300.00 - a FILER-ARITHMETIC delta of +900.00, retained verbatim and never nudged. TRACED to a single row: 3,300.00 is exactly rows 1-4 (3,200.00) plus 100.00, i.e. the filer's own addition counts the final row - Ryan Johnston, written '$1,000.00' - as 100.00. The row is kept at its printed 1,000.00 because the glyph is unambiguous at 600 and 900 dpi (a thousands comma and three zeros, unlike the genuinely bistable cell on Harvey's 2024 Form A in this same chunk, where the schedule's own sum was allowed to decide). All five amount cells were re-read from the amount column's own printed grid; the sheet has 24 printed data bands and only the first five carry ink, so no row is missing. This is the FIRST report of the cycle - the cover's Last-Report cell for line 1 is scribbled out and the This-Report and Cumulative cells are identical - so period and cumulative scope coincide and no figure was synthesized by differencing covers. No in-kind line on the sheet, so both in-kind conventions give the same 4,200.00."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): $954.67', which equals the cover's line-2 This-Report cell ($954.67)",
+    "detail": "2 Form B rows (931.39 + 23.28) sum to 954.67 exactly = the schedule's own printed total = the cover's This-Report cell. First report of the cycle (Last Report empty), so the schedule restates the whole cycle and `exact` is the right verdict. FILER INCONSISTENCY retained, not adjusted: the cover's line-2 CUMULATIVE cell is written '$954.00', 0.67 below its own This-Report cell - a slip in the filer's hand, not a scope difference; the itemized side is reconciled to the matching-scope figure (This Report), which is the one the schedule's own total reproduces. Cover line 3 Ending Balance 2,345.33 = 3,300.00 - 954.67, so the cover's own cross-arithmetic uses 954.67 too."
+   }
+  },
+  "escalations": 22,
+  "escalation_note": "22 crops, and an unusual number because this filing exposed a TOOL problem (see notes): 5 tight cell crops of Form A's amount column and 4 of Form B's at 600-900 dpi, plus a wider 900 dpi block over Form A rows 3-6, plus ~12 crops spent discovering that make_snippet.py mis-maps geometry on these pages. Legibility itself was never the issue - both schedules are clear handwriting at 200 dpi full-page; the crops were spent on the geometry proof and on the 900.00 contributions discrepancy, which they confirmed rather than resolved.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     83.82,
+     94.59
+    ],
+    "cells": [
+     [
+      3.18,
+      11.36
+     ],
+     [
+      11.36,
+      83.82
+     ],
+     [
+      83.82,
+      94.59
+     ]
+    ],
+    "rows": [
+     [
+      16.41,
+      19.59
+     ],
+     [
+      19.59,
+      22.74
+     ],
+     [
+      22.74,
+      25.88
+     ],
+     [
+      25.88,
+      29.06
+     ],
+     [
+      29.06,
+      32.21
+     ],
+     [
+      32.21,
+      35.29
+     ],
+     [
+      35.29,
+      38.41
+     ],
+     [
+      38.41,
+      41.59
+     ],
+     [
+      41.59,
+      44.74
+     ],
+     [
+      44.74,
+      47.85
+     ],
+     [
+      47.85,
+      50.97
+     ],
+     [
+      50.97,
+      54.09
+     ],
+     [
+      54.09,
+      57.18
+     ],
+     [
+      57.18,
+      60.24
+     ],
+     [
+      60.24,
+      63.29
+     ],
+     [
+      63.29,
+      66.38
+     ],
+     [
+      66.38,
+      69.41
+     ],
+     [
+      69.41,
+      72.41
+     ],
+     [
+      72.41,
+      75.47
+     ],
+     [
+      75.47,
+      78.47
+     ],
+     [
+      78.47,
+      81.56
+     ],
+     [
+      81.56,
+      84.65
+     ],
+     [
+      84.65,
+      87.76
+     ],
+     [
+      87.76,
+      90.76
+     ]
+    ],
+    "measure_note": "LANDSCAPE-rendered sheet with UPRIGHT text, so rows advance top-to-bottom: axis 'y', row bands are horizontal rules, the amount column is a pair of vertical rules. Percentages are of the page AS PDFTOPPM RENDERS IT: 2200x1700 (the PDF page is 612x792 pts with /Rotate 270, so the rendered page is landscape). TWO measurement traps here, both real: (1) the page is SKEWED about 1 degree, and rowbands.py/prep.py report percentages measured on a DESKEWED copy, which on a 2200 px page drifts up to a full row height - all bands here were re-detected with deskew DISABLED, restricted to the amount column's own x-window (84-94 pct) so the skew cannot smear the rules; (2) the AMOUNT column's grid is offset by roughly half a row from the Date/Name grid on this form (its 'Amount' header sits a row lower), so the amount cell's own bands - the ones geometry must point at - are NOT the name column's bands. Detected rules in that window: 7.85 / 10.24 (Amount header) / 13.29 (grey shaded strip) / then a constant 3.03-3.18 pct pitch from 16.41 to 90.76. The 24 DATA bands stored here start at 16.41; header and shaded strip are trimmed, so row N resolves to rows[N-1]. INDEXING PROOF (addendum A3): cropping the stored bands out of a 600 dpi render of the page renders, in order, band[13.29,16.41] = the empty grey strip, then '$100.00' (row 1's recorded amount), '$2,500.00', '$500.00', '$100.00' and '$1,000.00' (row 5, the last transcribed row) - five distinct values in five consecutive stored bands, so the list is not off by one. The proof crops had to be taken with pdftoppm directly rather than make_snippet.py (see notes)."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     79.41,
+     90.14
+    ],
+    "cells": [
+     [
+      6.91,
+      15.09
+     ],
+     [
+      15.09,
+      79.41
+     ],
+     [
+      79.41,
+      90.14
+     ]
+    ],
+    "rows": [
+     [
+      17.21,
+      20.35
+     ],
+     [
+      20.35,
+      23.44
+     ],
+     [
+      23.44,
+      26.53
+     ],
+     [
+      26.53,
+      29.62
+     ],
+     [
+      29.62,
+      32.71
+     ],
+     [
+      32.71,
+      35.79
+     ],
+     [
+      35.79,
+      38.82
+     ],
+     [
+      38.82,
+      41.88
+     ],
+     [
+      41.88,
+      44.97
+     ],
+     [
+      44.97,
+      48.03
+     ],
+     [
+      48.03,
+      51.09
+     ],
+     [
+      51.09,
+      54.21
+     ],
+     [
+      54.21,
+      57.26
+     ],
+     [
+      57.26,
+      60.32
+     ],
+     [
+      60.32,
+      63.38
+     ],
+     [
+      63.38,
+      66.5
+     ],
+     [
+      66.5,
+      69.62
+     ],
+     [
+      69.62,
+      72.65
+     ],
+     [
+      72.65,
+      75.71
+     ],
+     [
+      75.71,
+      78.76
+     ],
+     [
+      78.76,
+      81.85
+     ],
+     [
+      81.85,
+      84.94
+     ],
+     [
+      84.94,
+      88.0
+     ],
+     [
+      88.0,
+      91.03
+     ]
+    ],
+    "measure_note": "Same rendered-landscape, deskew-disabled treatment as p2 and the same half-row amount-column offset; the rules differ, so nothing was copied across. Detected in the amount column's x-window (80-90 pct): 7.68 / 10.03 (the 'Amount' header band, proved by cropping it - it renders the word 'Amount') / 14.03 (the grey shaded strip, also proved by crop) / then a constant 3.03-3.18 pct pitch from 17.21 to 91.03. The 24 DATA bands stored here start at 17.21. INDEXING PROOF (addendum A3): the stored band for row 1 renders '$931.39' and for row 2 '$23.28' - the first and last transcribed rows - matching the record exactly."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "3-1-26",
+    "donor_raw": "Dave Hardy",
+    "donor_city": "Ogden",
+    "amount": "100.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The filer's third column carries a bare CITY only - no street address anywhere on this schedule - and no state, so donor_state is honestly blank: the FILER printed none, nothing was redacted."
+   },
+   {
+    "line_no": "2",
+    "date": "3-20-26",
+    "donor_raw": "LeDell Gresham",
+    "donor_city": "Quartzite",
+    "amount": "2500.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City written 'Quartzite', kept verbatim; no state printed (Quartzsite AZ is the evident referent but the document does not say so, and nothing is inferred)."
+   },
+   {
+    "line_no": "3",
+    "date": "",
+    "donor_raw": "James Marsh",
+    "donor_city": "West Haven",
+    "amount": "500.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The filer left the Date cell EMPTY on this row (rows 3-5 carry no date at all); blank, never inferred from the report date. City only, no state printed."
+   },
+   {
+    "line_no": "4",
+    "date": "",
+    "donor_raw": "Scott Conley",
+    "donor_city": "West Weber",
+    "amount": "100.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Date cell left empty by the filer. City only, no state printed."
+   },
+   {
+    "line_no": "5",
+    "date": "",
+    "donor_raw": "Ryan Johnston",
+    "donor_city": "Willard",
+    "amount": "1000.00",
+    "page": 2,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Date cell left empty by the filer. The amount is written '$1,000.00' - unambiguously four figures with a thousands comma and three zeros at 600 and 900 dpi - and it is the row the filer's own total appears not to have counted at full value (see recon: the printed 3,300.00 equals the other four rows plus 100.00). The printed figure is kept verbatim; nothing is adjusted to make the schedule close."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "1-6-26",
+    "vendor_raw": "Election Filing  866-260-5400",
+    "purpose": "",
+    "amount": "931.39",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "This 2026 Form B has NO Purpose and NO City column - only Date | Person or Organization | (blank column) | Amount - so purpose is honestly empty, a property of the form and not an omission. The filer wrote a toll-free business phone number inside the payee cell; it is kept verbatim as part of what the document says (a business contact number, not a personal address)."
+   },
+   {
+    "line_no": "2",
+    "date": "1-6-26",
+    "vendor_raw": "Weber Co. Service Fee  866-290-5400",
+    "purpose": "",
+    "amount": "23.28",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Again no Purpose or City column on this form; payee cell verbatim, including the business phone number the filer wrote in it."
+   }
+  ],
+  "notes": "Duane D. Kearsley, Weber Co. Commissioner Seat A, 2026 cycle, '7 days before the candidates' convention' report; the signature date is written '4/3/2026' with the month digit overwritten. HANDWRITTEN throughout, on the 2026 form variant: portrait cover (p1, /Rotate 180) plus LANDSCAPE Form A (p2) and Form B (p3), both /Rotate 270. This filer's 2026 Form A/B are the COUNTY-PRINTED grid version of the 2026 form, not the free-form spreadsheet the other two 2026 filings in this chunk used, and unlike those two they DO print their own schedule totals. Form A's third column is unlabelled and the filer used it for a bare CITY - there is no street address anywhere on either schedule, so nothing had to be withheld for privacy and a blank donor_state means the filer printed none. Form B has NO Purpose and NO City column at all, so purpose is honestly empty on both expenditure rows - a property of this form, not a gap in the transcription. The cover's own candidate address block IS redacted by the county (black bar over Street Address and City,Zip). TWO filer defects retained verbatim: Form A's printed total is 900.00 below the sum of its own five rows (traced to the last row in recon), and the cover's line-2 Cumulative cell reads 954.00 against its own This-Report 954.67. ** TOOL PROBLEM FOR THE COORDINATOR, NOT FIXED HERE (shared scripts are frozen): scripts/campaign_finance/make_snippet.py resolves pct geometry using the page size pdfinfo reports (612 x 792 pts, the UNROTATED MediaBox) but crops the image pdftoppm renders WITH rotation applied (1700 x 2200 -> here 2200 x 1700). On any page carrying a /Rotate value - pages 2 and 3 of this filing are /Rotate 270, and the 2026 per-candidate PDFs generally are - x and y are effectively transposed and every stored pct: pointer resolves to the wrong part of the page. The geometry in this record is stored in the RENDERED frame, which is what the wave contract specifies ('percentages of the page as poppler renders it, rotation included') and what a re-render reproduces; the A3 proof crops were therefore taken with pdftoppm directly. Until make_snippet is taught to swap the page dimensions when rot is 90 or 270, its snippets for rotated pages will be wrong - including, potentially, for records other chunk agents proved WITH it on rotated pages. **"
+ }
+]

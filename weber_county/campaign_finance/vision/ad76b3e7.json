@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:51:39Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Richard A. Hyer",
  "office_stated": "Weber County Commisioner Seat A",
  "report_type_stated": "30 days after withdrawal or Primary Election elimination",
@@ -44,5 +44,141 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "2026 form variant, TYPED; all columns reconcile. DATE CONFLICT retained verbatim: the form is dated 5/20/26 but the clerk RECEIVED stamp is JUL 20 2026 and the report is the post-primary-elimination one - the written month is very likely a typo for 7/20/26, but nothing was corrected. Office spelled 'Commisioner' by the filer. County-redacted address and home/office phone."
+ "notes": "2026 form variant, TYPED; all columns reconcile. DATE CONFLICT retained verbatim: the form is dated 5/20/26 but the clerk RECEIVED stamp is JUL 20 2026 and the report is the post-primary-elimination one - the written month is very likely a typo for 7/20/26, but nothing was corrected. Office spelled 'Commisioner' by the filer. County-redacted address and home/office phone.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6/15/26",
+   "donor_raw": "northern Wasatch Assoc of realtors",
+   "donor_city": "Ogden",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:68.53,10.59,10.71,1.91@p2",
+   "geometry_frame": "p2 axis=y cell=68.53-79.24 rowband=10.59-12.50 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Lower-case 'northern' is the filer's own typing, retained verbatim; his May filing writes the same donor 'Northern Wasatch Assoc.'. Not normalized."
+  },
+  {
+   "line_no": "2",
+   "date": "6/23/26",
+   "donor_raw": "Golden Spike Realty- North",
+   "donor_city": "Ogden",
+   "amount": "600.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:68.53,12.50,10.71,1.89@p2",
+   "geometry_frame": "p2 axis=y cell=68.53-79.24 rowband=12.50-14.39 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/15/26",
+   "vendor_raw": "Golden Key",
+   "purpose": "Marketing",
+   "amount": "200.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:77.18,13.80,10.61,1.90@p3",
+   "geometry_frame": "p3 axis=y cell=77.18-87.79 rowband=13.80-15.70 (1 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden. The filer's May filing writes the same payee 'Golden Key Consulting'; kept as written here."
+  },
+  {
+   "line_no": "2",
+   "date": "6/17/26",
+   "vendor_raw": "Right Insight",
+   "purpose": "Marketing",
+   "amount": "1018.97",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:77.18,15.70,10.61,1.89@p3",
+   "geometry_frame": "p3 axis=y cell=77.18-87.79 rowband=15.70-17.59 (2 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Idaho (a state written into the city cell)"
+  },
+  {
+   "line_no": "3",
+   "date": "6/17/26",
+   "vendor_raw": "Right Insight",
+   "purpose": "Marketing",
+   "amount": "257.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:77.18,17.59,10.61,1.89@p3",
+   "geometry_frame": "p3 axis=y cell=77.18-87.79 rowband=17.59-19.48 (3 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Idaho. A second same-day line to the same payee - two separate printed rows, both counted in the filer's own total."
+  },
+  {
+   "line_no": "4",
+   "date": "6/20/26",
+   "vendor_raw": "Kevin Johnson",
+   "purpose": "Marketing",
+   "amount": "400.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:77.18,19.48,10.61,1.91@p3",
+   "geometry_frame": "p3 axis=y cell=77.18-87.79 rowband=19.48-21.39 (4 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Ogden"
+  },
+  {
+   "line_no": "5",
+   "date": "7/14/26",
+   "vendor_raw": "Jeong AI",
+   "purpose": "Marketing",
+   "amount": "3734.68",
+   "in_kind": false,
+   "confidence": "low",
+   "geometry": "pct:77.18,21.39,10.61,1.91@p3",
+   "geometry_frame": "p3 axis=y cell=77.18-87.79 rowband=21.39-23.30 (5 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: Online. GLYPH UNRESOLVED, recorded not decided: the payee's last character is a bare vertical stroke of cap height in a sans-serif face where uppercase I and lowercase l are identical, so 'Jeong AI' and 'Jeong Al' cannot be told apart - a 1200 dpi tight crop reproduces the same ambiguous stroke and settles nothing (escalation resolves legibility, and here there is nothing left to resolve). 'AI' is the reading written; row confidence dropped to low for the NAME only. The amount 3,734.68 is unambiguous and the side reconciles on it."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "the contributions sheet's own printed 'Total' row = 2,100.00, which equals the summary's 'This Report' line-1 cell (2,100.00)",
+     "detail": "2 contribution rows: 1,500.00 + 600.00 = 2,100.00, to the cent. Cumulative Total 60,181.31 = 58,081.31 (last) + 2,100.00 (this); the 58,081.31 is prior-period money this period-scoped sheet does not itemize."
+    },
+    "expenditures": {
+     "result": "period-exact",
+     "anchor": "the expenditures sheet's own printed 'Total' row = 5,611.15, which equals the summary's 'This Report' line-2 cell (5,611.15)",
+     "detail": "5 expenditure rows: 200.00 + 1,018.97 + 257.50 + 400.00 + 3,734.68 = 5,611.15, to the cent. Cumulative 45,674.82 = 40,063.67 (last) + 5,611.15 (this), and the balance line closes the same way; the This-Report balance is printed in accounting parentheses as (3,511.15) - a real overspend for the period, kept negative and not repaired."
+    }
+   },
+   "escalations": 5,
+   "escalation_note": "900 dpi --value crops of both p2 bands (reproduce 1,500.00 and 600.00) and of p3 bands 1 and 5 (reproduce 200.00 and 3,734.68), proving the measured row grids; plus a 1200 dpi tight crop of the p3 row-5 payee cell to settle its last glyph. That one did NOT resolve and is recorded as unresolved rather than decided - see the row note.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Richard A. Hyer's SECOND 2026 filing - the post-primary-elimination report ('30 days after withdrawal or Primary Election elimination' marked XX). Same filer habit as his May filing (key 1d5abcae): pages 2 and 3 are his OWN PORTRAIT SPREADSHEETS, not the county's Form A / Form B - here each carries a typed title cell ('Contributions', 'Expenditures') where the county form would print its banner, and a filer-typed 'Total' row. Page order IS form order on this one (contributions p2, expenditures p3) - the OPPOSITE of his May filing, so page position is not a classifier even within one candidate's own filings. Neither sheet has an Address or a state column, so donor_state is honestly BLANK on both contribution rows (left unwritten by the FILER). DATE CONFLICT retained verbatim, not corrected: the certification is dated 5/20/26 while the clerk's red RECEIVED stamp reads JUL 20 2026 and every transaction on the schedules falls in June-July 2026 - the written month is very likely a typo for 7/20/26, but nothing here repairs it. The filer also spells his own office 'Commisioner'. Continuity note for a rollup: this filing's Last Report contributions figure (58,081.31) is higher than the 54,305.00 cumulative on his May filing, so at least one intervening 2026 report exists that is not in this chunk. Candidate street address, City/Zip and home/office phone are BLACKED OUT BY THE COUNTY (government-applied redaction, preserved). SCANNED, not Polimorphic: no text layer over any page, no Polimorphic footer."
+  }
+ }
 }

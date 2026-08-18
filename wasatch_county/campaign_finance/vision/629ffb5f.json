@@ -18,7 +18,59 @@
   ],
   "text_layer_corroborated_lines": [],
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-  "transcribed_utc": "2026-08-01T22:30:00Z"
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_09.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2-3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
+    }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL: 'zero' = 0.00 = rows 0.00 — GATE PASSES; Table B TOTAL sits on PAGE 3 and prints 'zero' = 0.00 = rows 0.00 — GATE PASSES. No cover figure to gate against: all three cover TOTALS cells are blank.",
+   "escalations": 0,
+   "escalation_note": "none needed — born-digital typed form, but page 3 MUST be read: it is the only page carrying Table B's TOTAL",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "This is the Table-B-continues-onto-page-3 case. Page 1 is the cover (all three TOTALS cells BLANK — the filer never filled them); page 2 carries the signature block, all of Table A, and Table B's header plus 11 empty row slots; page 3 carries Table B's last two row slots and its printed TOTAL row, 'zero'. Both totals are therefore stated only on the schedules, as the word 'zero', which the repo zero-glyph ruling makes 0.00 — this matches the module's 2026-08-02 correction for Kahler 2026-03. The ending balance remains genuinely unstated: nothing on any page prints one. NO reporting-period box is checked, though 'Convention Date: April 7, 2026' is typed in — consistent with the module's existing note. Signed 'Rachel Kahler', March 31, 2026; cover name is 'Rachel Anne Kahler' where index.csv publishes 'Rachel Kahler'."
+  }
  },
  "cover": {
   "candidate_verbatim": {
@@ -70,5 +122,7 @@
   }
  },
  "itemized_transcribed": false,
- "notes": "Typed cover with lines 1-3 LEFT BLANK — no figures printed. Page 2's Table A prints its TOTAL as the word 'zero' and Table B prints none; the stated totals are left blank rather than promoting a word to a figure. No period box marked. Signature/date read from page 2. ZERO-GLYPH RULING 2026-08-02 (owner): page 2's Table A total is printed as the word 'zero' — under the ruling a written zero DENOTES the digit 0, so the stated contribution total is now promoted to 0.00 (verbatim word kept here); Table B prints NO total, so expenditures/balance remain honest blanks. CORRECTION 2026-08-02 (pilot adjudication): Table B CONTINUES TO PAGE 3, whose TOTAL row prints the word 'zero' — found independently by BOTH pilot contenders and confirmed by the coordinator's own page read. The prior claim 'Table B prints none' was a page-coverage gap (page 3 unread by the totals tranche). Under the zero-glyph ruling stated_total_expenditures = 0.00."
+ "notes": "Typed cover with lines 1-3 LEFT BLANK — no figures printed. Page 2's Table A prints its TOTAL as the word 'zero' and Table B prints none; the stated totals are left blank rather than promoting a word to a figure. No period box marked. Signature/date read from page 2. ZERO-GLYPH RULING 2026-08-02 (owner): page 2's Table A total is printed as the word 'zero' — under the ruling a written zero DENOTES the digit 0, so the stated contribution total is now promoted to 0.00 (verbatim word kept here); Table B prints NO total, so expenditures/balance remain honest blanks. CORRECTION 2026-08-02 (pilot adjudication): Table B CONTINUES TO PAGE 3, whose TOTAL row prints the word 'zero' — found independently by BOTH pilot contenders and confirmed by the coordinator's own page read. The prior claim 'Table B prints none' was a page-coverage gap (page 3 unread by the totals tranche). Under the zero-glyph ruling stated_total_expenditures = 0.00.",
+ "contributions": [],
+ "expenditures": []
 }

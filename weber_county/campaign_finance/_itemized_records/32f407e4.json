@@ -1,0 +1,366 @@
+[
+ {
+  "index_path": "raw/y2026/2026_ugd_92078f_6280fe33.pdf",
+  "page_start": 1,
+  "page_end": 3,
+  "key": "32f407e4",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber; resumed 2026-08-17)",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 20,550.00' on p2, equal to the cover's This Report cell ($20,550.00)",
+    "detail": "4 Form A rows (20,000.00 + 250.00 + 100.00 + 200.00) sum to 20,550.00 exactly = the schedule's printed total = the cover's This-Report column. The cover's Cumulative cell is 88,152.04, so the schedule is PERIOD-scoped (May 27 - June 15 window) behind a cumulative cover and the earlier cycle is not itemized here. NO figure was synthesized by differencing covers, and note that on THIS filing you could not do so even if you tried: the filer's 'Last Report' column repeats the PREVIOUS report's This-Report figures (24,000.00) instead of its cumulative, so last + this (44,550.00) does not equal the printed cumulative (88,152.04). That is a FILER ERROR on the cover, retained verbatim; it does not touch this side, which gates on the This-Report cell the filer did print correctly. 2026 3-line variant: no separate <=$50 aggregate line. No in-kind rows on Form A, so both in-kind conventions agree."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 36,573.66' on p3, equal to the cover's This Report cell (36,573.66)",
+    "detail": "13 Form B rows sum to 36,573.66 exactly = the schedule's printed total = the cover's This-Report column; Cumulative is 87,158.67, so period-scoped. IN-KIND TESTED BOTH WAYS: row 3 is tagged '- INKIND' by the filer (Reagan Outdoor Advertising, 1,000.00) and is INCLUDED - monetary-only would give 35,573.66 and miss the printed total by exactly that 1,000.00. Weber's in-kind convention therefore holds on the EXPENDITURE side too for this filer, which is worth recording: the in-kind tag appears on Form B here, not on Form A."
+   }
+  },
+  "escalations": 4,
+  "escalation_note": "Four 900 dpi tight --value crops, all A3 indexing proofs: p2 row 1 rendered 20,000.00 and row 4 rendered 200.00; p3 row 1 rendered 819.33 and row 13 rendered 14.35. No legibility escalation was needed - the filing is typed and clean.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     83.82,
+     93.73
+    ],
+    "cells": [
+     [
+      6.32,
+      13.86
+     ],
+     [
+      13.86,
+      44.59
+     ],
+     [
+      44.59,
+      83.82
+     ],
+     [
+      83.82,
+      93.73
+     ]
+    ],
+    "rows": [
+     [
+      20.15,
+      23.35
+     ],
+     [
+      23.35,
+      26.53
+     ],
+     [
+      26.53,
+      29.71
+     ],
+     [
+      29.71,
+      32.88
+     ]
+    ],
+    "measure_note": "Native landscape page (792x612 pts, rot 0); axis=y, ROW bands from h_rules_pct and COLUMN bands from v_rules_pct. h_rules[0]=11.24 is the rule under the title, [1]=13.79 the table top, [2]=16.97 the header bottom and [3]=20.15 the bottom of the shaded spacer row - all NON-DATA and trimmed. Only the 4 used rows are stored (h_rules[3..7]); the blank printed rows below are not stored. cell is the AMOUNT column (4th and last v_rules band), not the name column. PROOF (A3): pct:83.82,20.15,9.91,3.2@p2 rendered '20,000.00' (row 1) and pct:83.82,29.71,9.91,3.17@p2 rendered '200.00' (row 4)."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     83.07,
+     93.66
+    ],
+    "cells": [
+     [
+      6.32,
+      15.3
+     ],
+     [
+      15.3,
+      51.48
+     ],
+     [
+      51.48,
+      62.16
+     ],
+     [
+      62.16,
+      83.07
+     ],
+     [
+      83.07,
+      93.66
+     ]
+    ],
+    "rows": [
+     [
+      23.76,
+      26.82
+     ],
+     [
+      26.82,
+      29.76
+     ],
+     [
+      29.76,
+      32.76
+     ],
+     [
+      32.76,
+      35.74
+     ],
+     [
+      35.74,
+      38.74
+     ],
+     [
+      38.74,
+      41.71
+     ],
+     [
+      41.71,
+      44.71
+     ],
+     [
+      44.71,
+      47.74
+     ],
+     [
+      47.74,
+      50.68
+     ],
+     [
+      50.68,
+      53.71
+     ],
+     [
+      53.71,
+      56.65
+     ],
+     [
+      56.65,
+      59.68
+     ],
+     [
+      59.68,
+      62.62
+     ]
+    ],
+    "measure_note": "Same landscape geometry; Form B's header is two lines tall so its band ([16.44,20.76]) is wider than a data row. h_rules[0]=14.12 title rule, [1]=16.44 table top, [2]=20.76 header bottom, [3]=23.76 shaded-spacer bottom - trimmed; the 13 stored bands are h_rules[3..16], index-aligned with the 13 printed data rows, and the 5 blank rows below are not stored. cell is the AMOUNT column (5th of 5 v_rules bands). PROOF (A3): pct:83.07,23.76,10.59,3.06@p3 rendered '819.33' (row 1) and pct:83.07,59.68,10.59,2.94@p3 rendered '14.35' (row 13)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "6/2/2026",
+    "donor_raw": "Katrina Gibson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "20000.00",
+    "page": 2,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "candidate self-funding; street line BLACKED OUT BY THE COUNTY, city/state printed"
+   },
+   {
+    "line_no": "2",
+    "date": "6/10/2026",
+    "donor_raw": "John Forsgren",
+    "donor_city": "Cornish",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "page": 2,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY"
+   },
+   {
+    "line_no": "3",
+    "date": "6/11/2026",
+    "donor_raw": "Anjum Malik",
+    "donor_city": "Austin",
+    "donor_state": "TX",
+    "amount": "100.00",
+    "page": 2,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY"
+   },
+   {
+    "line_no": "4",
+    "date": "6/15/2026",
+    "donor_raw": "Kendle & Karissa Gibson",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "page": 2,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "street line BLACKED OUT BY THE COUNTY"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "5/28/2026",
+    "vendor_raw": "Election Hive",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Voter Outreach",
+    "amount": "819.33",
+    "page": 3,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "6/4/2026",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "1475.00",
+    "page": 3,
+    "row": 2,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "3",
+    "date": "6/4/2026",
+    "vendor_raw": "Reagan Outdoor Advertising - INKIND",
+    "vendor_city": "Ogden",
+    "purpose": "Advertising",
+    "amount": "1000.00",
+    "page": 3,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": true,
+    "note": "the filer's own in-kind tag is written INSIDE the payee cell ('- INKIND') and is kept verbatim; the row counts toward the printed schedule total"
+   },
+   {
+    "line_no": "4",
+    "date": "6/4/2026",
+    "vendor_raw": "Express  Digital Direct",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Mailers",
+    "amount": "13509.68",
+    "page": 3,
+    "row": 4,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "5",
+    "date": "6/4/2026",
+    "vendor_raw": "Gathering Inc.",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Voter Outreach",
+    "amount": "4076.00",
+    "page": 3,
+    "row": 5,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "6",
+    "date": "6/5/2026",
+    "vendor_raw": "Honey Communications",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Digital Advertising",
+    "amount": "9692.00",
+    "page": 3,
+    "row": 6,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "7",
+    "date": "6/10/2026",
+    "vendor_raw": "MailChimp",
+    "vendor_city": "USA",
+    "purpose": "Voter Outreach",
+    "amount": "28.42",
+    "page": 3,
+    "row": 7,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "8",
+    "date": "6/12/2026",
+    "vendor_raw": "Honey Communications",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Digital Advertising",
+    "amount": "884.00",
+    "page": 3,
+    "row": 8,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "9",
+    "date": "6/15/2026",
+    "vendor_raw": "Bell Printing and Design",
+    "vendor_city": "Layton",
+    "purpose": "Flyers",
+    "amount": "156.85",
+    "page": 3,
+    "row": 9,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "10",
+    "date": "6/15/2026",
+    "vendor_raw": "Express  Digital Direct",
+    "vendor_city": "Salt Lake City",
+    "purpose": "Mailers",
+    "amount": "4612.39",
+    "page": 3,
+    "row": 10,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "11",
+    "date": "6/15/2026",
+    "vendor_raw": "Kevin Johnson Media",
+    "vendor_city": "Ogden",
+    "purpose": "Photography",
+    "amount": "300.00",
+    "page": 3,
+    "row": 11,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "12",
+    "date": "6/15/2026",
+    "vendor_raw": "Lee's MarketPlace",
+    "vendor_city": "North Ogden",
+    "purpose": "Canvassing Supplies",
+    "amount": "5.64",
+    "page": 3,
+    "row": 12,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "13",
+    "date": "6/15/2026",
+    "vendor_raw": "Lee's MarketPlace",
+    "vendor_city": "North Ogden",
+    "purpose": "Canvassing Supplies",
+    "amount": "14.35",
+    "page": 3,
+    "row": 13,
+    "confidence": "medium"
+   }
+  ],
+  "notes": "TYPED 2026 filing, signed 6/16/2026, June-16 Primary Election box checked; p1 cover, p2 Form A, p3 Form B on the county's own grid. THIS IS ONE OF THREE GIBSON REPORTS IN THE 2026 PRIMARY WINDOW and is transcribed strictly on its own terms: 32f407e4 (this one, signed 6/16/2026), 76c91f61 (a corrected re-file of the June-16 report, signed 7/23/2026) and 8a163a02 (the 30-days-after-elimination report, also signed 7/23/2026). Nothing here is merged with, or corrected from, either of the others. Cover defect retained verbatim: the Last Report column repeats the previous report's This-Report figures rather than its cumulative totals, so last + this does not equal the printed cumulative. PRIVACY: every Form A street line is BLACKED OUT BY THE COUNTY at source (redaction, not a filer omission) while city/state/zip print in the clear; city and state are carried, the redacted street is not. The candidate's own street address on the cover is likewise blacked out. Form B's City column is carried verbatim including the non-city value 'USA'. The filer's double space in 'Express  Digital Direct' is kept."
+ }
+]

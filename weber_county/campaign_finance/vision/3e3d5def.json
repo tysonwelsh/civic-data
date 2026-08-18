@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:09:26Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Chris Allred",
  "office_stated": "Weber County Attorney",
  "report_type_stated": "October 25 - Nov 1",
@@ -44,5 +44,50 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2022 3-line form with a handwritten '0' in each CUMULATIVE cell and '-' elsewhere. A genuine zero-dollar filing (single page, p7 of the 2022 archive)."
+ "notes": "Typed 2022 3-line form with a handwritten '0' in each CUMULATIVE cell and '-' elsewhere. A genuine zero-dollar filing (single page, p7 of the 2022 archive).",
+ "contributions": [],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    7
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "The retained filing is ONE page (p7 of the 2022 archive, page_start==page_end==7) and that page is the 2022 3-line COVER/summary sheet only: name/address/office block, the checked report-type box (October 25 - Nov 1), signature dated 10/26/22, and the three-column totals block. No Form A / Schedule A page was filed with it.",
+    "expenditures": "Same single cover page; no Form B / Schedule B page exists in this filing's page range."
+   },
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "line 1 'Total contributions from all donors', Cumulative Totals cell (handwritten 0)",
+     "detail": "A zero-dollar filing: the cover prints a handwritten zero glyph in the Cumulative cell of all three lines and a bare dash in the Last Report and This Report columns. Zero itemizable rows are arithmetically consistent with a cumulative of 0, but the state is no-schedule-page (the schedule sheet was never filed), NOT empty-schedule."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "line 2 'Total Campaign Expenditures', Cumulative Totals cell (handwritten 0)",
+     "detail": "Same: cumulative 0, dashes in the other two columns; no Form B page in the document."
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Typed 2022 Weber 3-line form, single page. Zero-glyph ruling applied to the cover only (the handwritten '0' in each Cumulative cell is a zero; the bare dashes in Last Report / This Report stay blank) \u2014 that read is the 2026-08-01 totals tranche's and is unchanged here. Candidate street address and phone print on the face of the form and are deliberately NOT carried (PRIVACY.md). Nothing on this page is a donor or vendor line."
+  }
+ }
 }

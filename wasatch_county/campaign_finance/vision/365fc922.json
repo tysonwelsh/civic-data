@@ -1,77 +1,288 @@
 {
-  "_meta": {
-    "index_path": "raw/2026/202606_L-Forsyth.pdf",
-    "cache_key": "365fc922",
-    "entity": "wasatch_county",
-    "election_year": "2026",
-    "reporting_period_index": "June 2026 (Primary / Elimination Report)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Lauren Forsyth",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2026/202606_L-Forsyth.pdf",
+  "cache_key": "365fc922",
+  "entity": "wasatch_county",
+  "election_year": "2026",
+  "reporting_period_index": "June 2026 (Primary / Elimination Report)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_10.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "70.57",
+     "itemized": "70.57",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (70.57 = 70.57, published stated total)",
+     "published_stated": "70.57",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Attorney",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "Democratic",
-      "confidence": "high"
-    },
-    "residence_city": {
-      "value": "Midway",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/16/2026",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "70.57",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "1,062.84",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "$-992.27 (balance of $1,263.82 in campaign bank account from prior contributions previously reported)",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "1062.84",
+     "itemized": "1062.84",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (1062.84 = 1062.84, published stated total)",
+     "published_stated": "1062.84",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "Table A TOTAL: $70.57 = rows 70.57 — GATE PASSES. Table B TOTAL: $1,062.84 = rows 1,062.84 — GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "born-digital typed Docusign PDF; every cell legible at 200 dpi full-page",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 9,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Born-digital, Docusign Envelope ID B34CB1B9-FB01-81C5-82F4-3E58D044AB23, typed throughout — the cleanest filing in the chunk. Both schedules sit on page 2, under a repeated signature block (signed 6/16/2026). Primary Report box checked. Cover line 3 carries the filer's parenthetical prose: '$-992.27 (balance of $1,263.82 in campaign bank account from prior contributions previously reported)' — this is the filing that documents the 2026 sheet being PERIOD-SCOPED, and it is retained verbatim in the existing vision cache; nothing here changes it. Table A's In-Kind / Tangible items column reads 'cash' on all three rows — per gate (g) that column is a DESCRIPTION of a cash contribution, not an in-kind good, so in_kind is false on every row with the cell quoted in the note. Two contributions are self-funding by the candidate (21.51 and 24.06) and exactly match the two Google expenditures of the same dates and amounts — pass-through reimbursements, retained on both sides as the filer reported them. Table A rows are NOT in date order as printed (5/26 precedes 4/30 and 5/31); printed order preserved in line_no. NOTE for the wave lead: this filing already has 6 expenditure rows in expenditures.csv from TRANCHE 3 Phase A (chunk file have_e=True) — this transcription is an independent full re-read of both sides and should be reconciled against, not merged blindly with, the Phase A rows. Form prints no address column, so donor_city/donor_state are blank by design."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Lauren Forsyth",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "SEAM EVIDENCE: the balance cell carries the filer's printed parenthetical '(balance of $1,263.82 in campaign bank account from prior contributions previously reported)' \u2014 an explicit statement that earlier money was reported in a PRIOR period. Docusign-signed; signature date read from page 2, where Table A/B totals ($70.57 / $1,062.84) match the cover."
+  "office_verbatim": {
+   "value": "Wasatch County Attorney",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "Democratic",
+   "confidence": "high"
+  },
+  "residence_city": {
+   "value": "Midway",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/16/2026",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "70.57",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "1,062.84",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "$-992.27 (balance of $1,263.82 in campaign bank account from prior contributions previously reported)",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "SEAM EVIDENCE: the balance cell carries the filer's printed parenthetical '(balance of $1,263.82 in campaign bank account from prior contributions previously reported)' — an explicit statement that earlier money was reported in a PRIOR period. Docusign-signed; signature date read from page 2, where Table A/B totals ($70.57 / $1,062.84) match the cover.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-05-26",
+   "donor_raw": "Lisa Corsetti",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "date printed '5/26/26'. In-Kind column reads verbatim 'cash' — a description of a cash gift, not an in-kind item, so in_kind=false. Form prints no address column",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-04-30",
+   "donor_raw": "Lauren Forsyth",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "21.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-contribution by the candidate; In-Kind column reads verbatim 'cash'. Matches the 4/30 Google expenditure of 21.51 (pass-through). Printed out of date order, after the 5/26 row",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-05-31",
+   "donor_raw": "Lauren Forsyth",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "24.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "self-contribution; In-Kind column reads verbatim 'cash'. Matches the 5/31 Google expenditure of 24.06 (pass-through)",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2026-04-21",
+   "vendor_raw": "Sign A Rama",
+   "purpose": "Campaign Signs",
+   "amount": "1000.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$1,000.22'; payee spelled 'Sign A Rama' on this filing (Hales' filing spells the same chain 'Signarama') — retained verbatim, not normalized",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2026-04-30",
+   "vendor_raw": "Grand Valley Bank",
+   "purpose": "Bank Account Service Fee",
+   "amount": "8.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$8.00'",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2026-05-31",
+   "vendor_raw": "Grand Valley Bank",
+   "purpose": "Bank Account Service Fee",
+   "amount": "8.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$8.00'",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2026-05-26",
+   "vendor_raw": "Stripe",
+   "purpose": "Credit card processing fee",
+   "amount": "1.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$1.05'; same date as the Lisa Corsetti 25.00 contribution — the processing fee on it",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2026-04-30",
+   "vendor_raw": "Google",
+   "purpose": "Campaign Email Domain and Website",
+   "amount": "21.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$21.51'; offsets the candidate's own 4/30 contribution of the same amount",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2026-05-31",
+   "vendor_raw": "Google",
+   "purpose": "Campaign Email Domain and Website",
+   "amount": "24.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "printed '$24.06'; offsets the candidate's own 5/31 contribution of the same amount",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

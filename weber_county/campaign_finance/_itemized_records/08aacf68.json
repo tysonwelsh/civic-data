@@ -1,0 +1,187 @@
+[
+ {
+  "index_path": "raw/archives/2020_combined_7e3a53_f03540b9.pdf",
+  "page_start": 25,
+  "page_end": 28,
+  "key": "08aacf68",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "itemized_pages_A": "26",
+  "itemized_pages_B": "27",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Totals for THIS REPORT, line 1 (a slashed zero = 0); the Form A page's own 'Total Contributions: (to line 1 of report)' cell is BLANK",
+    "detail": "The Form A schedule (p26) is a completely blank printed grid \u2014 no rows, no ink anywhere, and the schedule's own total cell is empty. Zero rows sum to 0.00, which is the cover's This-Report contributions cell (written as a slashed zero followed by a dash). The cumulative cell 2,637.03 equals the Totals-from-Last-Report cell 2,637.03 unchanged, i.e. everything raised was raised in earlier periods this final report never itemizes. 3-line form, so a single contrib_all cell and no <=$50 aggregate line."
+   },
+   "expenditures": {
+    "result": "period-exact",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 1655.00', which equals the cover's Totals-for-THIS-REPORT line 2 (1,655.00)",
+    "detail": "2 Form B rows: 320.00 + 1335.00 = 1,655.00 exactly = the schedule's printed total = the cover's This-Report cell. The cover's cumulative 1,791.36 = 136.36 (Totals from Last Report) + 1,655.00, so the schedule is period-scoped behind a cumulative cover and the 136.36 of earlier spending is not itemized here."
+   }
+  },
+  "escalations": 2,
+  "escalation_note": "p27 row-1 amount column at 900 dpi tight crop (confirmed 320.00 / 1335.00 and which band is data row 1 vs the printed shaded separator strip); p27 row-2 date cell at 1800 dpi tight crop \u2014 at 200 dpi its year read bistably as '00' vs '20', and the tight crop resolves a cursive looped 2 (11/17/20), matching row 1.",
+  "frames": {
+   "27": {
+    "axis": "x",
+    "cell": [
+     3.25,
+     13.95
+    ],
+    "cells": [
+     [
+      3.25,
+      13.95
+     ],
+     [
+      13.95,
+      32.82
+     ],
+     [
+      32.82,
+      43.52
+     ],
+     [
+      43.52,
+      88.95
+     ],
+     [
+      88.95,
+      97.07
+     ]
+    ],
+    "rows": [
+     [
+      17.71,
+      20.85
+     ],
+     [
+      20.85,
+      23.97
+     ],
+     [
+      23.97,
+      27.03
+     ],
+     [
+      27.03,
+      30.13
+     ],
+     [
+      30.13,
+      33.19
+     ],
+     [
+      33.19,
+      36.31
+     ],
+     [
+      36.31,
+      39.26
+     ],
+     [
+      39.26,
+      42.32
+     ],
+     [
+      42.32,
+      45.41
+     ],
+     [
+      45.41,
+      48.59
+     ],
+     [
+      48.59,
+      51.68
+     ],
+     [
+      51.68,
+      54.79
+     ],
+     [
+      54.79,
+      57.88
+     ],
+     [
+      57.88,
+      60.94
+     ],
+     [
+      60.94,
+      64.0
+     ],
+     [
+      64.0,
+      67.09
+     ],
+     [
+      67.09,
+      70.15
+     ],
+     [
+      70.15,
+      73.18
+     ],
+     [
+      73.18,
+      76.24
+     ],
+     [
+      76.24,
+      79.26
+     ],
+     [
+      79.26,
+      82.35
+     ],
+     [
+      82.35,
+      85.41
+     ],
+     [
+      85.41,
+      88.5
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet: rows advance LEFT-TO-RIGHT, so the row rules are the VERTICAL ones and the amount column's band is measured on y. All 24 row rules 17.71..88.50 were DETECTED (dark-run projection over the table's y-extent 4-96% at 0.35 coverage; pitch 3.07 +/- 0.05, no band extrapolated). The columns are the horizontal rules 3.25 / 13.95 / 32.82 / 43.52 / 88.95 / 97.07 = Amount | Purpose | City | Person-or-Organization | Date, top to bottom. The printed SHADED separator strip occupies the band [14.55,17.71] immediately below the header-label column and is NOT a data row \u2014 proved with a 900 dpi crop of x=14.55-24.05: the strip is empty grey and the 320.00 cell sits in the next band, which is therefore data row 1."
+   }
+  },
+  "contributions": [],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "11/17/20",
+    "vendor_raw": "Weber Co Republican Women",
+    "purpose": "scholarship",
+    "amount": "320.00",
+    "page": 27,
+    "row": 1,
+    "confidence": "medium"
+   },
+   {
+    "line_no": "2",
+    "date": "11/17/20",
+    "vendor_raw": "Leann Kilts",
+    "purpose": "reimbursement loan",
+    "amount": "1335.00",
+    "page": 27,
+    "row": 2,
+    "confidence": "medium",
+    "note": "The filer's own City cell reads 'PlainCity' (no space) \u2014 Plain City, UT, the candidate's own town; this row is the candidate reimbursing herself for a campaign loan."
+   }
+  ],
+  "notes": "Handwritten 2020 3-line county form. p25 cover (report-type box checked: January 5, 2021 final report), p26 Form A BLANK, p27 Form B with 2 rows. Form B prints a City column but no state; state is honestly blank on both rows (the form has no state field \u2014 not a redaction and not a filer omission). ** SOURCE PROPERTY THE BRIEF DOES NOT LIST: p28, the last page of this filing's declared index range, is NOT part of the Kilts filing \u2014 it is a typed 2020 cover page for a DIFFERENT candidate, ALEX MCDONALD, Weber County Commissioner (final report box checked; cumulative 46,379.27 contributions / 46,838.38 expenditures / (459.11) balance; unsigned, no schedule pages follow it \u2014 p29 begins the Nancy Blair school-board filing). Alex McDonald appears NOWHERE in index.csv or filing_attribution.csv, so this is an unindexed county-office filing bound inside another filing's page range. Nothing from p28 is transcribed here; the Kilts filing is really pp.25-27. ** Donor/vendor street addresses are not carried (PRIVACY.md: city/state only)."
+ }
+]

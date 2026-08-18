@@ -47,6 +47,66 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "2024 sheet, handwritten, legible despite the 'low' OCR sidecar. ONLY the Cumulative Total column is filled (expenditures 754.95, balance -754.95); the contributions row is entirely EMPTY and the Current/Previous columns are empty — an honest filer blank, never imputed. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. The filer wrote 2/5/2023 — a year BEFORE the 2024 cycle. Retained exactly as filed (filer arithmetic/date errors are never repaired); read it as the filer's own entry, not a corrected filing date."
+ "itemized_transcribed": true,
+ "notes": "2024 sheet, handwritten, legible despite the 'low' OCR sidecar. ONLY the Cumulative Total column is filled (expenditures 754.95, balance -754.95); the contributions row is entirely EMPTY and the Current/Previous columns are empty — an honest filer blank, never imputed. Signature date not visible in the cover crop. SIGNATURE-DATE PASS 2026-08-02 (independent verification, agent 3): the form's printed signature date was re-read from a 250 dpi render of page 1 and is recorded here as printed. It had been left blank by the 2026-08-01 transcription; the date line is NOT empty on this sheet. Money cells unchanged. The filer wrote 2/5/2023 — a year BEFORE the 2024 cycle. Retained exactly as filed (filer arithmetic/date errors are never repaired); read it as the filer's own entry, not a corrected filing date.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-03",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "754.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:45.19,19.82,44.83,2.99@p2",
+   "geometry_fit": "measured",
+   "note": "amount handwritten over the typed grid",
+   "page": 2,
+   "band": 2
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2
+  ],
+  "sides": {
+   "contributions": "none",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {
+   "contributions": "THE DOCUMENT HAS NO ITEMIZED CONTRIBUTION REPORT PAGE. This filing is 2 pages - a cover and the Itemized Expense Report - where every other 2024 filing is 3. Honest NON-EXISTENCE, not a zero and not an untranscribed page. It is consistent with the cover, which states NO contribution total at all (the contributions row is verified genuinely empty on the form, already recorded in the cover tranche); the filer reported spending 754.95 of his own money against a stated ending balance of -754.95."
+  },
+  "recon": {
+   "contributions": {
+    "stated": "",
+    "itemized": "",
+    "result": "none",
+    "detail": "no schedule page exists and the cover states no figure - nothing to reconcile, and never a zero"
+   },
+   "expenditures": {
+    "stated": "754.95",
+    "itemized": "754.95",
+    "result": "exact",
+    "detail": "exact - the single row, the county filing fee, equals the cover's stated 754.95"
+   }
+  },
+  "page_gates": "The expense page prints NO total row on this variant; the gate is the cover's stated 754.95, which the single row equals exactly. The filing has no contribution page to gate.",
+  "escalations": 0,
+  "n_contrib_rows": 0,
+  "n_expend_rows": 1,
+  "geometry": {
+   "measured": 1,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "A TWO-PAGE filing: cover + Itemized Expense Report, with NO Itemized Contribution Report bound in. The amount is handwritten over the typed grid. Dallin Donaldson is one of the three filings the cover tranche flagged as stating no contribution total at all; the missing contribution PAGE is the reason, and the two facts corroborate each other."
+ }
 }

@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:04:40Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "James Ebert",
  "office_stated": "Commission Seat A",
  "report_type_stated": "January 5th, 2015 (final report)",
@@ -49,5 +49,94 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed form; RECEIVED stamp DEC 30 2014. Parenthesised figures are the filer's negative-balance notation, retained verbatim."
+ "notes": "Typed form; RECEIVED stamp DEC 30 2014. Parenthesised figures are the filer's negative-balance notation, retained verbatim.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "10/28/14",
+   "donor_raw": "Wayne Gibson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "confidence": "high",
+   "geometry": "pct:17.15,3.69,3.05,10.75@p2",
+   "geometry_frame": "p2 axis=x cell=3.69-14.44 rowband=17.15-20.20 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "2",
+   "date": "10/30/14",
+   "donor_raw": "Staker Parson",
+   "donor_city": "Ogden",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "confidence": "high",
+   "geometry": "pct:20.20,3.69,3.05,10.75@p2",
+   "geometry_frame": "p2 axis=x cell=3.69-14.44 rowband=20.20-23.25 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "11/4/14",
+   "donor_raw": "Select Health",
+   "donor_city": "Murray",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "confidence": "high",
+   "geometry": "pct:23.25,3.69,3.05,10.75@p2",
+   "geometry_frame": "p2 axis=x cell=3.69-14.44 rowband=23.25-26.30 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "11/26/14",
+   "donor_raw": "Republic Services",
+   "donor_city": "Pleasant Grove",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "confidence": "high",
+   "geometry": "pct:26.30,3.69,3.05,10.75@p2",
+   "geometry_frame": "p2 axis=x cell=3.69-14.44 rowband=26.30-29.35 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "expenditures": "the retained document is TWO pages (cover + Form A); no Form B page was filed or published with it. The cover states $0.00 expenditures for the period, which is consistent, but the absence of the page is what is recorded here"
+   },
+   "recon": {
+    "contributions": {
+     "result": "period-exact",
+     "anchor": "Totals for THIS REPORT (1,900.00)",
+     "detail": "4 Form A rows sum to 1,900.00 = printed schedule total = the cover's This-Report column; cumulative 8,130.00 carried forward"
+    }
+   },
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 4,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Two-page filing: cover + Form A only (pdfinfo: Pages 2). Donor street addresses printed on Form A are deliberately NOT carried (PRIVACY.md: the structured layer stores donor city/state only)."
+  }
+ }
 }

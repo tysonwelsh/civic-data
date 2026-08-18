@@ -1,68 +1,124 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202411_732_s-park-general.pdf",
-    "cache_key": "e243b4a0",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "General 2024 (pre-general / post-election)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "total_contributions",
-      "total_expenditures"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Spencer J. Park",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202411_732_s-park-general.pdf",
+  "cache_key": "e243b4a0",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "General 2024 (pre-general / post-election)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "total_contributions",
+   "total_expenditures"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10/11/24",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Sept 30 Report",
-      "General Report",
-      "Year End Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0.00",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "0.00",
+     "itemized": "0.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (0.00 = 0.00, published stated total)",
+     "published_stated": "0.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A and Table B TOTAL cells are both blank -- no printed page gate; cover 0.00/0.00 agrees with zero rows on both sides.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 0,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "MULTI-REPORT PDF -- FIRST REPORT ONLY TRANSCRIBED. This 5-page file binds TWO complete CAMPAIGN FINANCIAL DISCLOSURE reports. Report 1 = pp.1-2 (cover + Table A/B) with p.3 carrying only the spill line 'If additional space is needed...' (the tail of report 1's Table B block; no data). Report 2 = pp.4-5, an apparently IDENTICAL duplicate face: same filer (Spencer J Park, County Council Seat G, Republican, Wallsburg UT 84082, phone 435-671-8077), same cover figures 0.00 / 0.00 / 0.00, same three period boxes marked (Sept 30 + General + Year End -- a 'select only one' violation), same initials SJP, same signature date 10/11/24, and its Table A/B on p.5 are likewise printed and entirely blank with blank TOTAL cells. NOTHING from pp.4-5 is merged into report 1's rows or totals; I read them only to describe them. A human may want to confirm whether the second face is a true duplicate submission or a distinct period report the county bound in error -- on the page they are indistinguishable."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Spencer J. Park",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. THREE period boxes marked on a 'select only one' form."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10/11/24",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Sept 30 Report",
+   "General Report",
+   "Year End Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0.00",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. THREE period boxes marked on a 'select only one' form.",
+ "contributions": [],
+ "expenditures": []
 }

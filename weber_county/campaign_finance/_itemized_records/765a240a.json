@@ -1,0 +1,172 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 79,
+  "page_end": 81,
+  "key": "765a240a",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [
+   79,
+   80,
+   81
+  ],
+  "itemized_pages_A": "80",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "empty-schedule"
+  },
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report)' = 15.00, equal to the cover's CUMULATIVE line-1 cell (15.00)",
+    "detail": "The single Form A row (Kevin Bryan, 9/14/24, 15.00) sums to 15.00 = the schedule's printed total = the cover's Cumulative Totals cell. The cover's 'Totals for This Report' line-1 cell is a slashed-zero glyph, and 'Totals from Last Report' is 15.00 - i.e. this Form A restates the whole cycle rather than the period, which is why the verdict is exact and not period-exact. The row's own date (9/14/24) falls before this report's Oct 4-23 window, consistent with that reading."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "the cover's line-2 'Total Campaign Expenditures' cells, all three of which carry a slashed-zero glyph (Last Report 0, This Report 0, Cumulative 0)",
+    "detail": "Zero rows against a cumulative of 0. Form B (p81) was filed and is a completely BLANK printed grid: no date, payee, city, purpose or amount anywhere in its 23 row bands. Its own 'Total Expenditures: (to line 2 of report)' cell carries only a tiny bare tick/dash, which under the zero-glyph ruling is a nil mark and NOT a numeral, so the anchor used is the cover's zero-glyph line-2 cell."
+   }
+  },
+  "escalations": 5,
+  "escalation_note": "900 dpi --value crops on p80: the row-1 amount cell (reproduces the handwritten '15. 00' with superscript cents), the row-1 date cell ('9/14/24'), and the row-1 name cell ('Kevin Bryan'); plus 700 dpi crops of both schedules' printed grand-total cells - p80's reads 15.00, p81's holds only a bare tick. Nothing was bistable; every escalation confirmed a handwritten read or proved a band.",
+  "frames": {
+   "80": {
+    "axis": "x",
+    "cell": [
+     5.2,
+     15.82
+    ],
+    "cells": [
+     [
+      5.2,
+      15.82
+     ],
+     [
+      15.82,
+      57.91
+     ],
+     [
+      57.91,
+      88.05
+     ],
+     [
+      88.05,
+      96.14
+     ]
+    ],
+    "rows": [
+     [
+      14.06,
+      17.32
+     ],
+     [
+      17.32,
+      20.53
+     ],
+     [
+      20.53,
+      23.71
+     ],
+     [
+      23.71,
+      26.82
+     ],
+     [
+      26.82,
+      30.03
+     ],
+     [
+      30.03,
+      33.18
+     ],
+     [
+      33.18,
+      36.35
+     ],
+     [
+      36.35,
+      39.47
+     ],
+     [
+      39.47,
+      42.68
+     ],
+     [
+      42.68,
+      45.88
+     ],
+     [
+      45.88,
+      49.06
+     ],
+     [
+      49.06,
+      52.18
+     ],
+     [
+      52.18,
+      55.24
+     ],
+     [
+      55.24,
+      58.32
+     ],
+     [
+      58.32,
+      61.38
+     ],
+     [
+      61.38,
+      64.47
+     ],
+     [
+      64.47,
+      67.47
+     ],
+     [
+      67.47,
+      70.59
+     ],
+     [
+      70.59,
+      73.62
+     ],
+     [
+      73.62,
+      76.68
+     ],
+     [
+      76.68,
+      79.76
+     ],
+     [
+      79.76,
+      82.79
+     ],
+     [
+      82.79,
+      85.85
+     ]
+    ],
+    "measure_note": "Form A bound ROTATED (landscape; Amount at the TOP of the rendered page, Date at the bottom), so the printed column separators are the page's HORIZONTAL rules, the row separators are its VERTICAL rules, axis='x', and rows advance LEFT-TO-RIGHT (row 1 is the leftmost data band). Column separators measured over the blank x-windows 30-55% and 60-85%, which BOTH return exactly 15.82 / 57.91 / 88.05 / 96.14 = Amount|Address, Address|Name of Contributor, Name|Date, and the table's bottom edge. CAVEAT recorded honestly: the table's TOP rule did not survive this handwritten sheet's scan (no threshold from cover 0.20 to 0.70 and no dark threshold up to 215 finds it in either window), so the Amount band's upper bound 5.20 is the sheet's own table edge taken off the render rather than a detected rule - the band is therefore slightly generous but strictly contains the amount cell. Row bands from the vertical-rule projection over the table's y-extent at coverage 0.40 (27 rules on a regular ~3.15 pct pitch); the bands left of 14.06 are the sheet edge, the printed header strip and the scan-fold strip, not data rows. PROVED with 900 dpi --value crops of band 1 against the Amount, Date and Name columns, reproducing 15.00, 9/14/24 and Kevin Bryan respectively."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "9/14/24",
+    "donor_raw": "Kevin Bryan",
+    "donor_city": "Ogden",
+    "donor_state": "UT",
+    "amount": "15.00",
+    "page": 80,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "HANDWRITTEN row. The amount is written '15.' with the cents as a superscript '00' - read as 15.00 and confirmed at 900 dpi. The Address cell holds a street address which is deliberately NOT carried (PRIVACY.md: donor city/state only); the city and state written here are the filer's own, from that same cell. Two-digit year kept verbatim as the filer wrote it."
+   }
+  ],
+  "expenditures": [],
+  "notes": "HANDWRITTEN 2024 filing, three pages: p79 cover, p80 FORM A (one entry), p81 FORM B (filed but entirely BLANK - an empty-schedule, not a missing page: the sheet exists, prints its full 23-row grid and its column headers, and carries no entry at all). NO report-type box is checked on the cover (an honest blank; the printed 'June 18' line overlaps its checkbox on this scan but carries no mark) - the signature date is 10/29/2024. The candidate's street address on p79 is BLACKED OUT BY THE COUNTY (a government-applied redaction, preserved, never recovered). The cover's zero cells are slashed-zero glyphs, which under the repo's zero-glyph ruling denote 0; the tick on Form B's total line is a bare nil mark and stays blank. No per-page SUBTOTAL is printed on either schedule."
+ }
+]

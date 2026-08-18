@@ -1,70 +1,317 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202406_ToriBroughton.pdf",
-    "cache_key": "a55db81e",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "June 2024 (pre-primary)",
-    "form_family_index": "",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Tori E. Broughton",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202406_ToriBroughton.pdf",
+  "cache_key": "a55db81e",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "June 2024 (pre-primary)",
+  "form_family_index": "",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2602.53",
+     "itemized": "2602.53",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (2602.53 = 2602.53, published stated total)",
+     "published_stated": "2602.53",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "office_verbatim": {
-      "value": "Wasatch County Council District D",
-      "confidence": "high"
-    },
-    "party_verbatim": {
-      "value": "United Utah Party",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "06/18/2024",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Primary Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "2602.53",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "602.84",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "1999.69",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "602.84",
+     "itemized": "602.84",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (602.84 = 602.84, published stated total)",
+     "published_stated": "602.84",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "p2 Table A TOTAL 2602.53 = rows 2602.53 -> GATE PASSES. p2 Table B TOTAL 602.84 = rows 602.84 -> GATE PASSES.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 6,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 11,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Photographed (phone-scan) but typed ledger, legible at 200 dpi; both printed totals closed exactly on the first read. Cover: Tori E Broughton, Wasatch County Council District D, United Utah Party, Heber City; Primary Report marked with an 'x'; balance $1999.69. Form family carries no donor-address column, so donor_city/donor_state are structurally absent. FIELD-SHIFT SCREEN: all 5 contribution and 6 expenditure rows carry date-shaped content in the date column and name-shaped content in the name column; counts of names and amounts match per table -- no shift."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Tori E. Broughton",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. index.csv leaves form_family BLANK for this row; the page is the new Table A/B sheet."
+  "office_verbatim": {
+   "value": "Wasatch County Council District D",
+   "confidence": "high"
+  },
+  "party_verbatim": {
+   "value": "United Utah Party",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "06/18/2024",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Primary Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "2602.53",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "602.84",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "1999.69",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. index.csv leaves form_family BLANK for this row; the page is the new Table A/B sheet.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-01-08",
+   "donor_raw": "Toriforheber City Council campaign",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1927.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 0,
+   "note": "In-Kind/Tangible column reads verbatim 'Previous campaign funds' -- a DESCRIPTION of a cash transfer from the filer's prior (Heber City Council) campaign account, not a tangible in-kind good, so in_kind=false; donor name printed as one run-together token 'Toriforheber City Council campaign'.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-04-17",
+   "donor_raw": "Michelle Quist",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,20.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2024-02-24",
+   "donor_raw": "Kelleen Potter",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,23.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2024-04-13",
+   "donor_raw": "Wayne Woodfield",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,25.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2024-02-20",
+   "donor_raw": "Brent Allsop",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,28.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-04-27",
+   "vendor_raw": "Sarah Severson Photography",
+   "purpose": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose cell blank (column is optional on this form)",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2024-05-31",
+   "vendor_raw": "Proximitycampaigns.com",
+   "purpose": "",
+   "amount": "45.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose cell blank",
+   "geometry": "pct:5.00,63.95,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2024-04-20",
+   "vendor_raw": "Proximitycampaigns.com",
+   "purpose": "",
+   "amount": "45.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose cell blank",
+   "geometry": "pct:5.00,66.40,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2024-04-16",
+   "vendor_raw": "UPS",
+   "purpose": "Flyers",
+   "amount": "15.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,68.85,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2024-04-15",
+   "vendor_raw": "Costco",
+   "purpose": "Items for county convention",
+   "amount": "152.51",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:5.00,71.30,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2024-03-20",
+   "vendor_raw": "Proximitycampaigns.com",
+   "purpose": "",
+   "amount": "45.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 0,
+   "note": "purpose cell blank",
+   "geometry": "pct:5.00,73.75,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

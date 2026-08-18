@@ -1,0 +1,18 @@
+{"key": "4b8c476a",
+ "frames": {
+   "2": {"axis": "x",
+         "cell": [2.87, 13.58],
+         "cells": [[2.87, 13.58], [13.58, 32.44], [32.44, 43.14], [43.14, 88.56], [88.56, 96.77]],
+         "rows": [[21.34, 24.54], [24.54, 27.75], [27.75, 30.95], [30.95, 34.12], [34.12, 37.29]],
+         "measure_note": "Form B (expenditures), rotated landscape sheet; rows advance along X LOW-to-HIGH. Row bands are rowbands.py v_rules_pct on p2, taking the regular-pitch (3.2 pct) subsequence beginning at 21.34; the two leading rules 7.78/10.36 and 10.36/18.03 are the TABLE HEADER band and the wide SHADED/HATCHED spacer column the form prints before the first data row (rowbands.py defect 2) and were TRIMMED - they are not data rows. Column bands are h_rules_pct. THE WITHDRAWN DEFECT WAS `cell`: it stored [43.17,88.59], the Person-or-Organization column, so every pointer aimed at the payee name. On this rotation the printed table's LAST column (Amount) is the LOW-y band [2.87,13.58] (page order in y is Amount, Purpose, City, Person, Date). rowbands.py defect 1 (text baselines registered as rules) is present in h_rules on this typed sheet - the extra rules at 3.83/4.97/5.72/6.47/6.88/7.31 are the baselines of the header word 'Amount' and were ignored; the column boundary was taken as the outer pair. deskew was not significant. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 500.00' for row 1 (recorded 500.00) and '$ 594.95' for row 5 (recorded 594.95).",
+         "n_rows_transcribed": 5},
+   "3": {"axis": "x",
+         "cell": [4.19, 14.87],
+         "cells": [[4.19, 14.87], [14.87, 57.04], [57.04, 82.78], [82.78, 89.73]],
+         "rows": [[16.79, 20.08], [20.08, 23.43], [23.43, 26.72], [26.72, 30.04], [30.04, 33.32], [33.32, 36.64], [36.64, 39.93]],
+         "measure_note": "Form A (contributions), same rotation as p2. Row bands are the regular-pitch (3.3 pct) v_rules_pct subsequence from 16.79; the leading rules 7.72/10.28 (header band) and 10.28/13.48 + 13.48/16.79 (header labels + the shaded spacer column) were TRIMMED (rowbands.py defect 2). THE WITHDRAWN DEFECT WAS `cell`: it stored [14.87,57.04], the ADDRESS column - which also means the withdrawn pointer would have exposed donor street addresses, which PRIVACY forbids. The Amount column is [4.19,14.87] (printed column order in y: Amount, Address, Name of Contributor, Date). h_rules on this sheet is heavily contaminated by text baselines (43 rules for 4 columns; the 36-49 pct cluster is the Address text, the 52-57 cluster the Name text) - rowbands.py defect 1 - so the four column boundaries were chosen against the full-page read, not taken from the raw rule list. PROOF: 900 dpi --value crops from the geometry stored here rendered '$ 2,000.00' for row 1 (recorded 2000.00) and '$ 9.63' for row 7 (recorded 9.63).",
+         "n_rows_transcribed": 7}
+ },
+ "proof": "p2: first-row crop pct:21.34,2.87,3.20,10.71@p2 rendered '$ 500.00' (recorded 500.00); last-row crop pct:34.12,2.87,3.17,10.71@p2 rendered '$ 594.95' (recorded 594.95). p3: first-row crop pct:16.79,4.17,3.29,10.70@p3 rendered '$ 2,000.00' (recorded 2000.00); last-row crop pct:36.64,4.17,3.29,10.70@p3 rendered '$ 9.63' (recorded 9.63).",
+ "unmeasurable": {}
+}

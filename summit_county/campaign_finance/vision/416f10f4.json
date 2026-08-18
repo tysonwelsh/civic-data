@@ -47,6 +47,118 @@
   "office": "high",
   "stated_totals": "medium"
  },
- "itemized_transcribed": false,
- "notes": "FORM-VARIANT SEAM: the 2024 sheet renames the middle column 'Previous Report' (third is 'Cumulative Total') — the ORDER is unchanged: Current | Previous | Cumulative. Handwritten; the cents digits on 579.46 are over-written by the filer (medium confidence on the cents). Previous Report column left blank. Indexed as Withdrawn."
+ "itemized_transcribed": true,
+ "notes": "FORM-VARIANT SEAM: the 2024 sheet renames the middle column 'Previous Report' (third is 'Cumulative Total') — the ORDER is unchanged: Current | Previous | Cumulative. Handwritten; the cents digits on 579.46 are over-written by the filer (medium confidence on the cents). Previous Report column left blank. Indexed as Withdrawn.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Personal Contribution",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "579.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,24.74,84.00,3.75@p3",
+   "geometry_fit": "measured",
+   "note": "handwritten '$579.46'",
+   "page": 3,
+   "band": 3
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Summit County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "339.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,19.51,84.00,3.68@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 2
+  },
+  {
+   "line_no": 2,
+   "date": "2024-02-01",
+   "vendor_raw": "Campaign Partners",
+   "purpose": "Website",
+   "amount": "65.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,22.40,84.00,3.70@p2",
+   "geometry_fit": "measured",
+   "note": "handwritten and cramped at 200 dpi; confirmed by the page's own arithmetic against the cover (579.46 - 339.46 - 174.12)",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 3,
+   "date": "2024-02-01",
+   "vendor_raw": "Staples",
+   "purpose": "Flyers, banner, cards",
+   "amount": "174.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.00,25.31,84.00,3.46@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 4
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "579.46",
+    "itemized": "579.46",
+    "result": "exact",
+    "detail": "exact - one handwritten self-funding row of $579.46 against a cover of 579.46"
+   },
+   "expenditures": {
+    "stated": "579.46",
+    "itemized": "579.46",
+    "result": "exact",
+    "detail": "exact - 339.46 + 65.88 + 174.12 = 579.46, equal to the cover. No TOTAL row is filled on the page, so the cover is the gate and the arithmetic independently confirms the one cramped cell"
+   }
+  },
+  "page_gates": "THE PAGES ARE SWAPPED: p2 is the Itemized EXPENSE Report and p3 the Itemized CONTRIBUTION Report. Neither page's TOTAL row is filled in on this copy, so the gate is the cover's stated 579.46 - and it closes on both sides: the single contribution row IS 579.46 and the three expense rows sum to 579.46 exactly. The middle expense amount is handwritten and slightly cramped; the page's own arithmetic fixes it, since 579.46 - 339.46 - 174.12 = 65.88 to the cent.",
+  "escalations": 0,
+  "n_contrib_rows": 1,
+  "n_expend_rows": 3,
+  "geometry": {
+   "measured": 4,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Handwritten entries over the typed 2024 grid, pages bound in reverse order. Entirely self-funded. The filer left both TOTAL rows blank, so this filing is gated on the cover alone - which is exactly why the cover tranche had to come first."
+ }
 }

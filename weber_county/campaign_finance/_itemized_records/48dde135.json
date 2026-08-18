@@ -1,0 +1,34 @@
+[{
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 125, "page_end": 127,
+  "key": "48dde135",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [125, 126, 127],
+  "itemized_pages_A": "126", "itemized_pages_B": "127",
+  "sides": { "contributions": "transcribed", "expenditures": "empty-schedule" },
+  "recon": {
+    "contributions": { "result": "exact",
+                       "anchor": "Form A 'Total Contributions (to line 1 of report): 15.00'",
+                       "detail": "The single Form A row (Kevin Bryan, 9/14/24, 15.00) sums to 15.00 = the schedule's own printed total = the cover's CUMULATIVE line-1 cell (15.00). The cover's This-Report line-1 cell is a slashed zero and Last Report is 15.00, so this December-5 final report added nothing; the schedule restates the whole cycle, hence cumulative scope, not period scope. 3-line form variant, so there is no separate <=$50 aggregate line and no line-1/line-2 residual. No in-kind label appears anywhere on the sheet; the monetary-only convention closes exactly (a monetary-plus-in-kind reading is identical here because there are no in-kind items)." },
+    "expenditures":  { "result": "exact",
+                       "anchor": "Form B 'Total Expenditures (to line 2 of report)' printed as a slashed zero glyph",
+                       "detail": "Form B (p127) is present and its 23-row printed grid is entirely blank. The filer wrote a slashed-zero glyph on the total line outside the grid; under the zero-glyph ruling that DENOTES zero, so zero rows sum to 0 = the printed schedule total = the cover's line-2 cells (Last/This/Cumulative all slashed zeros). No expenditure row exists to be missed." }
+  },
+  "escalations": 1,
+  "escalation_note": "One 900 dpi tight --value crop on p126 to settle which x-band is the first DATA row (the band immediately after the header band is a blank spacer band, per the 2026-08-18 addendum s2.2 warning).",
+  "frames": {
+    "126": { "axis": "x",
+             "cell": [5.20, 15.86],
+             "cells": [[5.20, 15.86], [15.86, 57.93], [57.93, 88.07], [88.07, 96.16]],
+             "rows": [[14.79,17.94],[17.94,21.15],[21.15,24.35],[24.35,27.53],[27.53,30.71],[30.71,33.88],[33.88,36.97],[36.97,40.15],[40.15,43.29],[43.29,46.50],[46.50,49.74],[49.74,52.82],[52.82,55.88],[55.88,59.03],[59.03,62.03],[62.03,65.09],[65.09,68.12],[68.12,71.26],[71.26,74.29],[74.29,77.44],[77.44,80.56],[80.56,83.62],[83.62,86.68]],
+             "measure_note": "Landscape sheet rendered portrait, so rows advance LEFT-TO-RIGHT (axis x) and the column bands are the horizontal rules. Rules measured on the RAW 200 dpi poppler render (not a deskewed copy): row rules taken from the dark-column profile inside the amount-column strip y=6-15.5pct (threshold 0.8) so the ~0.4deg page skew cannot smear them; column rules from the dark-row profile over x=12-90pct. rowbands.py returned only 5 v_rules on this sheet because the skew defeats a whole-page column profile. The detector's first three bands ([6.21,8.56] outer margin, [8.56,11.62] HEADER, [11.62,14.79] blank spacer) were TRIMMED before index-aligning; the 23 bands stored are the printed data rows, so row N resolves to rows[N-1]. The amount column's outer edge is not detected (faint), so cell starts at 5.20 which the proof crop confirms sits inside the table. PROOF (2026-08-18): this side has exactly one transcribed row, so it is both the first and the last and was proved directly. Crop pct:14.79,5.20,3.15,10.66@p126 at 900 dpi --value rendered the handwritten figure 15.00 -- the amount recorded for row 1. The two neighbouring bands were also cropped as controls: pct:11.62,5.20,3.17,10.66@p126 rendered an EMPTY cell (the spacer band) and pct:8.56,5.20,3.06,10.66@p126 the header, confirming the trim is right and the indexing is not off by one." }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "9/14/24", "donor_raw": "Kevin Bryan",
+      "donor_city": "Ogden", "donor_state": "UT", "amount": "15.00",
+      "page": 126, "row": 1, "confidence": "medium",
+      "in_kind": false, "note": "Form A prints a single Address column; only city/state are carried (PRIVACY: the street line printed on the form is deliberately not transcribed). Filer wrote the city in lower case ('ogden'); normalized capitalization only." }
+  ],
+  "expenditures": [],
+  "notes": "Brian Rowley, County Commission Seat C, 2024 December-5 FINAL report, handwritten. p125 = cover (3-line variant), p126 = Form A, p127 = Form B. Cover line-1 This-Report and all of line 2 are slashed-zero glyphs (transcribed as 0 by the zero-glyph ruling); the cover's Address block is BLACKED OUT BY THE COUNTY (redaction by the county, not left empty by the filer). This filing is NOT the known Rowley filer-arithmetic specimen: it has one row and one page and no page SUBTOTAL line, so no delta arises. Both sides close on the CUMULATIVE column, so this is not an incremental filing."
+}]

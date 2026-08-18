@@ -10,7 +10,7 @@
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:27:57Z",
  "read_method": "vision (rendered summary page @200dpi)",
- "itemized_transcribed": false,
+ "itemized_transcribed": true,
  "candidate_stated": "Steven Van Wagoner",
  "office_stated": "County Commission, Seat C",
  "report_type_stated": "7 days before convention",
@@ -44,5 +44,198 @@
   "expenditures": "high",
   "ending_balance": "high"
  },
- "notes": "Typed 2024 form; the summary block runs onto the SECOND page of the filing (p16 of the archive PDF) - read there. Columns headed 'Last Report | This Report | Totals:'. County-redacted address and cell phone."
+ "notes": "Typed 2024 form; the summary block runs onto the SECOND page of the filing (p16 of the archive PDF) - read there. Columns headed 'Last Report | This Report | Totals:'. County-redacted address and cell phone.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/9/2024",
+   "donor_raw": "For Ogden",
+   "donor_city": "Ogden",
+   "donor_state": "Utah",
+   "amount": "803.35",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,32.43,10.00,1.87@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=32.43-34.30 (1 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "A committee/PAC contributor ('For Ogden'), as written."
+  },
+  {
+   "line_no": "2",
+   "date": "2/1/2024",
+   "donor_raw": "Kerry Wayne",
+   "donor_city": "Marriott-Slaterville City",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,34.30,10.00,1.88@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=34.30-36.18 (2 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The address cell prints city + ZIP with NO state - donor_state honestly blank, left empty by the FILER."
+  },
+  {
+   "line_no": "3",
+   "date": "2/9/2024",
+   "donor_raw": "Monica Hall",
+   "donor_city": "Ogden",
+   "donor_state": "Utah",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,36.18,10.00,1.89@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=36.18-38.07 (3 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "3/23/2024",
+   "donor_raw": "Jeremy Thompson",
+   "donor_city": "Roy",
+   "donor_state": "Utah",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,38.07,10.00,1.86@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=38.07-39.93 (4 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Printed OUT OF DATE ORDER, above the 3/15/2024 line - the filer's own sequence, retained."
+  },
+  {
+   "line_no": "5",
+   "date": "3/15/2024",
+   "donor_raw": "Deana Froerer",
+   "donor_city": "Huntsville",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,39.93,10.00,1.87@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=39.93-41.80 (5 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Same person the campaign pays 2,000.00 as MANAGER on Form B (3/22/2024) - both entries are the filer's and are recorded as printed, with no inference drawn."
+  },
+  {
+   "line_no": "6",
+   "date": "3/22/2024",
+   "donor_raw": "Pennsylvania, LLC",
+   "donor_city": "Ogden",
+   "donor_state": "Utah",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:81.68,41.80,10.00,1.86@p17",
+   "geometry_frame": "p17 axis=y cell=81.68-91.68 rowband=41.80-43.66 (6 of 23 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/9/2024",
+   "vendor_raw": "WEBER CO SERVICE FEE",
+   "purpose": "FILING FEE SERVICE FEE",
+   "amount": "19.59",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:82.65,37.05,10.00,1.84@p18",
+   "geometry_frame": "p18 axis=y cell=82.65-92.65 rowband=37.05-38.89 (1 of 21 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: OGDEN."
+  },
+  {
+   "line_no": "2",
+   "date": "1/9/2024",
+   "vendor_raw": "WEBER CO ELECTIONS FEE",
+   "purpose": "FILING FEE",
+   "amount": "783.76",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:82.65,38.89,10.00,1.77@p18",
+   "geometry_frame": "p18 axis=y cell=82.65-92.65 rowband=38.89-40.66 (2 of 21 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: OGDEN."
+  },
+  {
+   "line_no": "3",
+   "date": "2/3/2024",
+   "vendor_raw": "CALLHUB ONLINE SERVICE",
+   "purpose": "SOFTWARD/APP",
+   "amount": "25.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:82.65,40.66,10.00,1.79@p18",
+   "geometry_frame": "p18 axis=y cell=82.65-92.65 rowband=40.66-42.45 (3 of 21 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: ONLINE. 'SOFTWARD/APP' is the filer's own spelling - verbatim."
+  },
+  {
+   "line_no": "4",
+   "date": "3/22/2024",
+   "vendor_raw": "DEANA FROERER",
+   "purpose": "MANAGER",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:82.65,42.45,10.00,1.82@p18",
+   "geometry_frame": "p18 axis=y cell=82.65-92.65 rowband=42.45-44.27 (4 of 21 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: OGDEN. Same person who appears as a 20.00 donor on Form A (3/15/2024)."
+  },
+  {
+   "line_no": "5",
+   "date": "3/28/2024",
+   "vendor_raw": "CALLHUB ONLINCE SERVICE",
+   "purpose": "SOFTWARD/APP",
+   "amount": "25.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "geometry": "pct:82.65,44.27,10.00,1.80@p18",
+   "geometry_frame": "p18 axis=y cell=82.65-92.65 rowband=44.27-46.07 (5 of 21 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "City column: ONLINE. 'ONLINCE' and 'SOFTWARD/APP' are the filer's own spellings - verbatim; the 2/3 line spells the same vendor 'CALLHUB ONLINE SERVICE'."
+  }
+ ],
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+   "transcribed_date": "2026-08-14",
+   "pages_read": [
+    15,
+    16,
+    17,
+    18
+   ],
+   "itemized_pages_A": "17",
+   "itemized_pages_B": "18",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): 3,873.35' on p17, equal to BOTH the cover summary's 'This Report' and 'Totals:' cells for line 1 (3,873.35)",
+     "detail": "6 printed Form A rows: 803.35 + 300.00 + 500.00 + 250.00 + 20.00 + 2,000.00 = 3,873.35, to the cent. The 2024 cover is the 3-LINE variant (a single 'Total contributions from all donors' cell, no separate <=$50 aggregate line), so the anchor is contrib_all and there is no line-1/line-2 residual. The 'Last Report' column is BLANK on this filing (it is the first report of the cycle, the '7 days before convention' box, covering transactions from January 1, 2024), so This Report == Totals and 'exact' is the right verdict."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 2,853.35' on p18, equal to BOTH the cover's 'This Report' and 'Totals:' cells for line 2 (2,853.35)",
+     "detail": "5 printed Form B rows: 19.59 + 783.76 + 25.00 + 2,000.00 + 25.00 = 2,853.35, to the cent. The cover's balance closes the same way: 3,873.35 - 2,853.35 = 1,020.00, the printed line-3 figure."
+    }
+   },
+   "escalations": 4,
+   "escalation_note": "700 dpi crops of the first and last transcribed band on each schedule (p17 rows 1 and 6 reproduce 803.35 and 2,000.00; p18 rows 1 and 5 reproduce 19.59 and 25.00), proving the measured row grid and the row indexing on both sheets. No value was in doubt - both sides closed exactly on the first full-page read.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 11,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page: per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Four-page filing: p15 cover, p16 the summary block (the 2024 form runs the Last/This/Totals table onto the SECOND page), p17 Form A, p18 Form B. Both schedules are PORTRAIT typed sheets - Van Wagoner filled the county's fillable form rather than handwriting it - so the rows read top-to-bottom, unlike the rotated landscape schedules used elsewhere in this corpus. Donor STREET addresses printed on Form A are deliberately NOT carried (PRIVACY.md: donor_city / donor_state only). donor_state is recorded EXACTLY as the filer printed it, which on this sheet is 'Utah' spelled out on four rows and 'UT' on one; the Kerry Wayne row prints no state at all and is honestly blank - left empty by the filer, not redacted. The COUNTY's own redactions on this filing are on the COVER (p15: the candidate's street address and cell number are blacked out) and touch no schedule row. Report type box checked: '7 days before convention'."
+  }
+ }
 }

@@ -1,63 +1,153 @@
 {
-  "_meta": {
-    "index_path": "raw/2024/202411_735_j-kaiserman-general-001.pdf",
-    "cache_key": "31f4f9e1",
-    "entity": "wasatch_county",
-    "election_year": "2024",
-    "reporting_period_index": "General 2024 (pre-general / post-election)",
-    "form_family_index": "wasatch_disclosure_tableab",
-    "form_variant_vision": "wasatch_disclosure_tableab",
-    "form_statute_verbatim": "",
-    "filing_regime": "period",
-    "is_incremental": true,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "James C. Kaiserman",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2024/202411_735_j-kaiserman-general-001.pdf",
+  "cache_key": "31f4f9e1",
+  "entity": "wasatch_county",
+  "election_year": "2024",
+  "reporting_period_index": "General 2024 (pre-general / post-election)",
+  "form_family_index": "wasatch_disclosure_tableab",
+  "form_variant_vision": "wasatch_disclosure_tableab",
+  "form_statute_verbatim": "",
+  "filing_regime": "period",
+  "is_incremental": true,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_08.json",
+   "variant": "wasatch_disclosure_tableab",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "653.00",
+     "itemized": "653.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (653.00 = 653.00, published stated total)",
+     "published_stated": "653.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     },
-    "addressee": {
-      "value": "Joey D Granger, Wasatch County Clerk/Auditor",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "10/29/24",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": [
-      "Partisan Convention Report",
-      "General Report"
-    ]
-  },
-  "stated": {
-    "total_contributions": {
-      "period": {
-        "value": "653.00",
-        "confidence": "high"
-      }
-    },
-    "total_expenditures": {
-      "period": {
-        "value": "653.00",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "period": {
-        "value": "0",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "653.00",
+     "itemized": "653.00",
+     "result": "exact",
+     "anchor": "published stated total",
+     "detail": "exact (653.00 = 653.00, published stated total)",
+     "published_stated": "653.00",
+     "csv_reconciles": "True",
+     "csv_delta": "0.00"
     }
+   },
+   "page_subtotal_gates": "NO printed table totals on this filing -- both Table A and Table B TOTAL cells are blank, so no page gate exists; reconciliation is against the cover only, and the cover's own contributions-minus-expenditures-equals-zero identity closes exactly.",
+   "escalations": 4,
+   "escalation_note": "600 dpi cell crops of both row dates and both amounts. Amount glyphs are '653' + a cursive superscript cents pair; the cover identity (653 - 653 = 0) and an INDEPENDENT cross-document corroboration -- Todd Griffin's typed 2024 filing lists the Wasatch County candidacy fee as exactly 653.00 -- fix the reading at 653.00 (arithmetic outranks glyph).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 2,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "Handwritten in cursive. James C. Kaiserman, Wasatch County Surveyor, 'Rep', Heber City; BOTH Partisan Convention and General Report boxes marked (the known 'select only one' violation); signed 10/29/24. Cumulative-style restatement: the module's CLAUDE.md records that Kaiserman's June and general reports both print 653.00/653.00/0 -- do not sum his two 2024 filings. The single contribution funds the single expenditure (the county filing fee)."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "James C. Kaiserman",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Two period boxes marked. The stated totals are identical to his June 2024 filing (653.00 / 653.00 / 0) \u2014 the period-scoped sheet used as a cumulative restatement; do not sum his 2024 filings without reading both."
+  "addressee": {
+   "value": "Joey D Granger, Wasatch County Clerk/Auditor",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "10/29/24",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": [
+   "Partisan Convention Report",
+   "General Report"
+  ]
+ },
+ "stated": {
+  "total_contributions": {
+   "period": {
+    "value": "653.00",
+    "confidence": "high"
+   }
+  },
+  "total_expenditures": {
+   "period": {
+    "value": "653.00",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "period": {
+    "value": "0",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Two period boxes marked. The stated totals are identical to his June 2024 filing (653.00 / 653.00 / 0) — the period-scoped sheet used as a cumulative restatement; do not sum his 2024 filings without reading both.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-01-02",
+   "donor_raw": "James C. Kaiserman",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "653.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=medium",
+   "verified": 1,
+   "note": "date cell is cursive and reads 'cl-02-2y' at 600 dpi -- transcribed 01-02-24 because the same filer's Table B row on the same page prints an unambiguous '01/02/24' for the matching filing-fee payment; flagged needs_review because the month/day glyphs alone are not clean. Amount written '653' with a superscript cents pair. Self-contribution by the candidate.",
+   "geometry": "pct:5.00,18.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2024-01-02",
+   "vendor_raw": "Wasatch County Clerk",
+   "purpose": "Filing fee",
+   "amount": "653.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=medium",
+   "verified": 1,
+   "note": "date '01/02/24' confirmed in a 600 dpi crop; amount written '653' + superscript cents. Cross-corroborated: Griffin 2024-06 (this chunk) itemizes the identical county candidacy fee as 653.00.",
+   "geometry": "pct:5.00,61.50,90.00,2.45@p2",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

@@ -1,0 +1,535 @@
+[
+ {
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 40,
+  "page_end": 42,
+  "key": "1aae38f9",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+  "pages_read": [
+   40,
+   41,
+   42
+  ],
+  "itemized_pages_A": "41",
+  "itemized_pages_B": "42",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "period-exact",
+    "anchor": "Form A's own printed 'Total Contributions: (to line 1 of report): $24,3(slashed0)(slashed0) 00' = 24,300.00, which is also the cover's line-1 Totals-for-THIS-REPORT cell ($24,300.00)",
+    "detail": "8 Form A rows sum to 24,300.00 = the schedule's own printed total = the cover's This-Report cell on line 1 (both re-read on tight 700-900 dpi crops; the 2026-08-01 totals tranche left that cover cell BLANK as unresolvable between 24,300 and 24,000 - this read resolves it to 24,300). Period-scoped: the cover's Totals-from-Last-Report is 31,610.05, this officeholder's account carried from the 2020/2022 cycles, and that money is not itemized here. FILER INCONSISTENCY retained, not adjusted: 31,610.05 + 24,300.00 = 55,910.05 but the filer's printed CUMULATIVE cell is 55,610.05, i.e. the filer's own cover is 300.00 out of balance on line 1. The itemized side is reconciled to the matching-scope figure (This Report), never to a differenced cumulative. 3-line 2024 form, so a single contrib_all cell and no <=$50 aggregate line - the line-1/line-2 basis rule does not apply."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Form B's own printed 'Total Expenditures: (to line 2 of report): 17,474 00' = 17,474.00, which is also the cover's line-2 Totals-for-THIS-REPORT cell",
+    "detail": "13 Form B rows sum to 17,766.00 against the filer's printed schedule total of 17,474.00 - a FILER-ARITHMETIC delta of +292.00, retained verbatim and never nudged. Traced as far as the document allows: this sheet prints NO per-page subtotal (only the grand total), so there is no sub-anchor to localize the error against; instead every one of the 13 amount cells was re-read on a tight --value crop at 900 dpi and the five least certain again at 1,200-2,400 dpi (1,050 / 2,500 / 1,320 / 2,000 / 126 / 1,320 / 2,500 / 200 / 250 / 1,200 / 2,800 / 1,000 / 1,500), and no single row, and no pair of rows, differs from the transcription by 292.00 - so the difference is the filer's addition, not a mis-read cell and not a missing row (the sheet's 13 filled rows were counted against the printed grid: 13 dates, 13 payees, 13 amounts, rows 14+ blank). The cover is internally consistent AT 17,474.00 (21,218.46 last + 17,474.00 this = 38,692.46 cumulative, exactly as printed), which is why the printed total, not the row sum, is named as the anchor. Both in-kind conventions were tested and neither closes: no row on this schedule is labelled in-kind, so monetary-only and monetary-plus-in-kind are the same 17,766.00. Period-scoped behind a cumulative cover (last report 21,218.46 carried from the prior cycle's account), i.e. this would be period-exact but for the 292.00."
+   }
+  },
+  "escalations": 47,
+  "escalation_note": "~47 tight --value crops. p41: all 8 amount cells at 900 dpi, rows 1-2 again at 1,600 dpi (the 100-vs-1000 dispute), all 8 date cells at 1,200 dpi, plus 600 dpi name and address column strips; the schedule's own total cell at 900 dpi and the cover's totals block at 700 dpi (which resolved the cover cell the 2026-08-01 tranche had left blank). p42: all 13 amount cells at 900 dpi, five again at 1,200-1,600 dpi and two at 2,400 dpi (rows 6 and 11, hunting the 292.00), all 13 date cells at 1,200 dpi with rows 5, 7 and 10 at 2,400 dpi, plus 600 dpi payee / city / purpose column strips.",
+  "frames": {
+   "41": {
+    "axis": "x",
+    "cell": [
+     5.5,
+     16.23
+    ],
+    "cells": [
+     [
+      5.5,
+      16.23
+     ],
+     [
+      16.23,
+      58.43
+     ],
+     [
+      58.43,
+      88.61
+     ],
+     [
+      88.61,
+      96.75
+     ]
+    ],
+    "rows": [
+     [
+      15.26,
+      18.47
+     ],
+     [
+      18.47,
+      21.62
+     ],
+     [
+      21.62,
+      24.82
+     ],
+     [
+      24.82,
+      28.0
+     ],
+     [
+      28.0,
+      31.18
+     ],
+     [
+      31.18,
+      34.31
+     ],
+     [
+      34.31,
+      37.41
+     ],
+     [
+      37.41,
+      40.59
+     ],
+     [
+      40.59,
+      43.76
+     ],
+     [
+      43.76,
+      46.94
+     ],
+     [
+      46.94,
+      50.15
+     ],
+     [
+      50.15,
+      53.21
+     ],
+     [
+      53.21,
+      56.31
+     ],
+     [
+      56.31,
+      59.37
+     ],
+     [
+      59.37,
+      62.43
+     ],
+     [
+      62.43,
+      65.49
+     ],
+     [
+      65.49,
+      68.59
+     ],
+     [
+      68.59,
+      71.68
+     ],
+     [
+      71.68,
+      74.82
+     ],
+     [
+      74.82,
+      77.94
+     ],
+     [
+      77.94,
+      80.94
+     ],
+     [
+      80.94,
+      83.94
+     ],
+     [
+      83.94,
+      87.0
+     ]
+    ],
+    "measure_note": "ROTATED landscape sheet: the sheet's top edge is the image's LEFT edge, so rows advance LEFT-TO-RIGHT (axis x) and the printed ROW rules are the page's VERTICAL rules. rowbands.py's own vertical pass returns almost nothing here because it measures verticals over the whole h-rule span at 60% coverage; re-detected over the table's y-window (6-95 pct) at 30-45% coverage the grid comes out clean and regular: rules at 6.74 (binding bar), 9.06 (table border), 12.24 (label column), 15.26 (end of the grey shaded strip) and then a constant 3.06-3.21 pct pitch to 87.0. The 23 DATA bands stored here start at 15.26 - the header/label column and the shaded strip are TRIMMED OUT, so row N resolves to rows[N-1]. COLUMN bands are the horizontal rules re-detected over x=15-88 at 90% coverage: 5.5 / 16.23 / 58.43 / 88.61 / 96.75 = Amount | Address | Name of Contributor | Date; `cell` is the AMOUNT band [5.5,16.23], verified by cropping it and getting figures, not names. INDEXING PROOF (addendum A3): pct:15.26,5.50,3.21,10.73@p41 renders '$5(slashed0)(slashed0)-' = the 500.00 recorded for row 1, and pct:37.41,5.50,3.18,10.73@p41 renders '$5(slashed0)(slashed0)' = the 500.00 recorded for row 8 (NWHBA), with row 2's crop rendering the disputed '$1(slashed0)(slashed0)' and row 7's the '$5,(slashed0)(slashed0)(slashed0)-' - neighbours differ, so the band list is not off by one."
+   },
+   "42": {
+    "axis": "x",
+    "cell": [
+     4.32,
+     15.05
+    ],
+    "cells": [
+     [
+      4.32,
+      15.05
+     ],
+     [
+      15.05,
+      33.91
+     ],
+     [
+      33.91,
+      44.59
+     ],
+     [
+      44.59,
+      90.02
+     ],
+     [
+      90.02,
+      98.07
+     ]
+    ],
+    "rows": [
+     [
+      19.18,
+      22.21
+     ],
+     [
+      22.21,
+      25.26
+     ],
+     [
+      25.26,
+      28.32
+     ],
+     [
+      28.32,
+      31.47
+     ],
+     [
+      31.47,
+      34.65
+     ],
+     [
+      34.65,
+      37.76
+     ],
+     [
+      37.76,
+      40.85
+     ],
+     [
+      40.85,
+      43.94
+     ],
+     [
+      43.94,
+      47.0
+     ],
+     [
+      47.0,
+      50.06
+     ],
+     [
+      50.06,
+      53.09
+     ],
+     [
+      53.09,
+      56.18
+     ],
+     [
+      56.18,
+      59.26
+     ],
+     [
+      59.26,
+      62.38
+     ],
+     [
+      62.38,
+      65.47
+     ],
+     [
+      65.47,
+      68.59
+     ],
+     [
+      68.59,
+      71.68
+     ],
+     [
+      71.68,
+      74.74
+     ],
+     [
+      74.74,
+      77.79
+     ],
+     [
+      77.79,
+      80.82
+     ],
+     [
+      80.82,
+      83.85
+     ],
+     [
+      83.85,
+      86.94
+     ],
+     [
+      86.94,
+      90.0
+     ]
+    ],
+    "measure_note": "Same rotated landscape geometry as p41 but a DIFFERENT origin - do not copy p41's bands onto it. Vertical (row) rules re-detected over y=6-95 pct at 30% coverage: 6.62 binding bar, 9.0 table border, 12.59/13.06 label column, then the grey shaded strip [13.06,16.09] AND a further empty printed band [16.09,19.18] before the first data row; a first attempt that started the data at 16.09 pointed every row one early and was caught by the crop proof, which is exactly the defect addendum A2 describes. The 23 DATA bands stored here therefore start at 19.18, constant 3.03-3.18 pct pitch to 90.0. COLUMN bands are the horizontal rules over x=15-88 at 90% coverage: 4.32 / 15.05 / 33.91 / 44.59 / 90.02 / 98.07 = Amount | Purpose of Expenditure | City | Person or Organization | Date of Expenditure; `cell` is the AMOUNT band [4.32,15.05]. INDEXING PROOF (addendum A3): pct:19.18,4.32,3.03,10.73@p42 renders '$1,(slashed0)5(slashed0)' = the 1,050.00 recorded for row 1 (Loyal Perch Media), and pct:56.18,4.32,3.08,10.73@p42 renders '$1,5(slashed0)(slashed0)' = the 1,500.00 recorded for row 13 (DIC Inc.)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "date": "09/09",
+    "donor_raw": "Shawn Myers",
+    "donor_city": "Ogden",
+    "amount": "500.00",
+    "page": 41,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "2",
+    "date": "10/04",
+    "donor_raw": "Jim Taggart",
+    "donor_city": "So. Ogden",
+    "amount": "100.00",
+    "page": 41,
+    "row": 2,
+    "confidence": "low",
+    "in_kind": false,
+    "note": "AMOUNT DECIDED BY THE DOCUMENT'S OWN ARITHMETIC, not by the glyph. At 1600 dpi the cell reads as '$1' followed by what could be two or three slashed-zero loops and the filer's terminal flourish; there is NO comma, whereas every four-figure amount this filer wrote on both schedules ($1,050 / $1,320 / $2,500 / $5,000 / $9,000 / $4,000) carries one. With 100 here the eight rows sum to 24,300.00, which is EXACTLY the schedule's own printed 'Total Contributions: (to line 1 of report)' AND the cover's line-1 Totals-for-This-Report cell; with 1,000 nothing on the document closes. Per the GOTCHAS Rhodes ruling (escalation resolves legibility, never truth - the schedule's sum decides), 100.00 is recorded, flagged for review.",
+    "needs_review": 1
+   },
+   {
+    "line_no": "3",
+    "date": "9/25",
+    "donor_raw": "Kirk Langford",
+    "donor_city": "Eden",
+    "amount": "200.00",
+    "page": 41,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "4",
+    "date": "9/16",
+    "donor_raw": "Wolf Creek Prop.",
+    "donor_city": "Eden",
+    "amount": "5000.00",
+    "page": 41,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "5",
+    "date": "7/25",
+    "donor_raw": "Reed Hastings",
+    "donor_city": "Santa Cruz",
+    "amount": "9000.00",
+    "page": 41,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "donor_state": "CA",
+    "note": "The only row on which the filer printed a state."
+   },
+   {
+    "line_no": "6",
+    "date": "7/15",
+    "donor_raw": "Bar M Cattle Co.",
+    "donor_city": "Tremonton",
+    "amount": "4000.00",
+    "page": 41,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "7",
+    "date": "06/03",
+    "donor_raw": "No. Wasatch Assoc of Realtors",
+    "donor_city": "So. Ogden",
+    "amount": "5000.00",
+    "page": 41,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false
+   },
+   {
+    "line_no": "8",
+    "date": "05/31",
+    "donor_raw": "NWHBA",
+    "donor_city": "So. Ogden",
+    "amount": "500.00",
+    "page": 41,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "Filer's own abbreviation, kept verbatim (Northern Wasatch Home Builders Association is the evident referent but is NOT written on the page)."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "date": "09/24",
+    "vendor_raw": "Loyal Perch Media",
+    "purpose": "Mailer/Magazine",
+    "amount": "1050.00",
+    "page": 42,
+    "row": 1,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Sandy"
+   },
+   {
+    "line_no": "2",
+    "date": "05/10",
+    "vendor_raw": "Dreamwalker Designs",
+    "purpose": "electronic MEDIA",
+    "amount": "2500.00",
+    "page": 42,
+    "row": 2,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Saratoga"
+   },
+   {
+    "line_no": "3",
+    "date": "09/16",
+    "vendor_raw": "Hometown Values Magazine",
+    "purpose": "MAGAZINE Advertising",
+    "amount": "1320.00",
+    "page": 42,
+    "row": 3,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Salt Lake"
+   },
+   {
+    "line_no": "4",
+    "date": "09/13",
+    "vendor_raw": "KSL.com",
+    "purpose": "electronic Media",
+    "amount": "2000.00",
+    "page": 42,
+    "row": 4,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Salt Lake"
+   },
+   {
+    "line_no": "5",
+    "date": "08/21",
+    "vendor_raw": "Amazon",
+    "purpose": "Nylon Wire Ties",
+    "amount": "126.00",
+    "page": 42,
+    "row": 5,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "The filer left the City cell EMPTY on this row (not a county redaction - the rest of the column is filled in)."
+   },
+   {
+    "line_no": "6",
+    "date": "04/29",
+    "vendor_raw": "JHSC",
+    "purpose": "Storage",
+    "amount": "1320.00",
+    "page": 42,
+    "row": 6,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: West Haven. Written '$132(slashed 0)' with no comma; read 1,320.00, consistent with this filer's habit of omitting the thousands comma (compare line 2's '2,500' which has one)."
+   },
+   {
+    "line_no": "7",
+    "date": "07/18",
+    "vendor_raw": "Kevin Dotson",
+    "purpose": "endorsements",
+    "amount": "2500.00",
+    "page": 42,
+    "row": 7,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "8",
+    "date": "09/11",
+    "vendor_raw": "Kelly Froerer",
+    "purpose": "GAS Reimbursement",
+    "amount": "200.00",
+    "page": 42,
+    "row": 8,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "9",
+    "date": "09/30",
+    "vendor_raw": "Scott Harvey",
+    "purpose": "GAS Reimbursement",
+    "amount": "250.00",
+    "page": 42,
+    "row": 9,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: So. Weber"
+   },
+   {
+    "line_no": "10",
+    "date": "06/15",
+    "vendor_raw": "Dreamwalker Designs",
+    "purpose": "website work",
+    "amount": "1200.00",
+    "page": 42,
+    "row": 10,
+    "confidence": "low",
+    "in_kind": false,
+    "note": "City column: Saratoga. The vendor name is written more loosely here than on line 2 ('Dreamma_ller'); read as the same vendor, Dreamwalker Designs."
+   },
+   {
+    "line_no": "11",
+    "date": "07/31",
+    "vendor_raw": "Fast Signs",
+    "purpose": "Campaign Signs",
+    "amount": "2800.00",
+    "page": 42,
+    "row": 11,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "12",
+    "date": "07/01",
+    "vendor_raw": "Smith & Edwards",
+    "purpose": "T-posts",
+    "amount": "1000.00",
+    "page": 42,
+    "row": 12,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Ogden"
+   },
+   {
+    "line_no": "13",
+    "date": "09/04",
+    "vendor_raw": "DIC Inc.",
+    "purpose": "Freeway Signs",
+    "amount": "1500.00",
+    "page": 42,
+    "row": 13,
+    "confidence": "medium",
+    "in_kind": false,
+    "note": "City column: Marriott"
+   }
+  ],
+  "notes": "James H. 'Jim' Harvey, Weber County Commission Seat C, 2024 cycle, October 8 pre-election report (only that box ticked), signed 04 Oct. 2024. Handwritten 3-line county form; the filer writes SLASHED ZEROS throughout and ends most figures with a terminal dash flourish - under the zero-glyph ruling those are the digit 0. Page order is cover (40) / Form A (41) / Form B (42). The 'Address' column on Form A carries CITY ONLY in this filer's hand (one row adds a state, 'Santa Cruz, CA'); no street address is printed anywhere on the schedule, so nothing was withheld for privacy and a blank donor_state means the FILER printed none - it is not a county redaction (the county redacted nothing on these three pages; the candidate's own address is printed in full on the cover). Form B has no address column at all, only a City column, which is recorded in each expenditure row's note. OFFICEHOLDER-carried account: both cover lines open from large Totals-from-Last-Report figures (31,610.05 and 21,218.46), so both schedules are period-scoped and the cumulative column must never be read as 2024 fundraising. TWO independent filer defects are retained verbatim and NOT adjusted: (1) the cover's line-1 column arithmetic is 300.00 out (31,610.05 + 24,300.00 = 55,910.05 vs the printed 55,610.05); (2) Form B's own grand total is 292.00 below the sum of its own 13 rows. The 2026-08-01 totals tranche also flagged that this cover's line-3/line-4 Last-Report figures disagree with the filer's own prior report - a third, separate inconsistency in the same document."
+ }
+]

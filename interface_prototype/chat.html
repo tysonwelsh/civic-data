@@ -1,0 +1,757 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>civic-data — ask the archive</title>
+<style>
+:root {
+  --bg:#fbfaf8; --panel:#ffffff; --ink:#1b1a18; --ink-2:#55524d; --ink-3:#8a857e;
+  --line:#e6e2dc; --line-2:#d3cec6; --accent:#2f5d8a;
+  --c-canonical:#2f5d8a; --c-derived:#1f7a6c; --c-override:#a86a12;
+  --c-gap:#a8352f; --c-index:#6b4a9e;
+  --chip:#f1eee9; --hover:#f5f2ed; --mark:rgba(255,196,0,.30);
+  --ask:#f3f0ea;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+    --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+    --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+    --c-gap:#ef8079; --c-index:#b294e0;
+    --chip:#26272d; --hover:#232429; --mark:rgba(255,196,0,.22);
+    --ask:#232429;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#16161a; --panel:#1d1e23; --ink:#eceae6; --ink-2:#a8a49d; --ink-3:#77736c;
+  --line:#2b2c32; --line-2:#3a3b43; --accent:#7fb0dd;
+  --c-canonical:#7fb0dd; --c-derived:#5ec4b0; --c-override:#e0a94f;
+  --c-gap:#ef8079; --c-index:#b294e0;
+  --chip:#26272d; --hover:#232429; --mark:rgba(255,196,0,.22);
+  --ask:#232429;
+}
+
+* { box-sizing:border-box; }
+body {
+  margin:0; background:var(--bg); color:var(--ink);
+  font:16px/1.6 ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap { max-width:820px; margin:0 auto; padding:34px 22px 220px; }
+
+header.top { border-bottom:1px solid var(--line); padding-bottom:18px; margin-bottom:20px; }
+.eyebrow {
+  font:600 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3); margin-bottom:11px;
+}
+h1 { font-size:26px; font-weight:640; letter-spacing:-.02em; margin:0 0 6px; }
+.sub { color:var(--ink-2); font-size:14px; margin:0; max-width:70ch; }
+.bar { display:flex; gap:10px; align-items:center; margin-top:14px; flex-wrap:wrap; }
+.status { font:500 11.5px/1 ui-monospace,Menlo,monospace; color:var(--ink-3); letter-spacing:.04em; }
+.status.err { color:var(--c-gap); }
+.spacer { flex:1 1 auto; }
+button, select, textarea, input {
+  font:inherit; font-size:13px; color:var(--ink); background:var(--panel);
+  border:1px solid var(--line-2); border-radius:7px; padding:7px 11px;
+}
+button:hover { background:var(--hover); cursor:pointer; }
+button:disabled { opacity:.45; cursor:default; }
+a { color:var(--accent); }
+
+/* ---- starters ---- */
+.starters { margin-bottom:26px; }
+.starters h2 { font:600 11px/1 ui-monospace,Menlo,monospace; letter-spacing:.12em;
+  text-transform:uppercase; color:var(--ink-3); margin:0 0 11px; }
+.starter {
+  display:block; width:100%; text-align:left; margin-bottom:7px; padding:11px 14px;
+  border:1px solid var(--line); border-radius:9px; background:var(--panel);
+  font-size:14.5px; color:var(--ink); line-height:1.45;
+}
+.starter:hover { border-color:var(--accent); }
+.starter em { font-style:normal; display:block; color:var(--ink-3); font-size:12.5px; margin-top:3px; }
+
+/* ---- turns ---- */
+.turn { margin-bottom:34px; }
+.ask {
+  background:var(--ask); border:1px solid var(--line); border-radius:11px;
+  padding:12px 16px; font-size:15.5px; margin-bottom:16px; color:var(--ink);
+}
+.answer { font-size:16px; line-height:1.68; }
+.answer p { margin:0 0 14px; }
+.answer ul, .answer ol { margin:0 0 14px; padding-left:22px; }
+.answer li { margin-bottom:5px; }
+.answer strong { font-weight:650; }
+.answer code {
+  font:13.5px/1 ui-monospace,SFMono-Regular,Menlo,monospace;
+  background:var(--chip); padding:2px 5px; border-radius:4px;
+}
+.answer h3 { font-size:15px; font-weight:640; margin:20px 0 8px; }
+.answer table { border-collapse:collapse; width:100%; font-size:13.5px; margin:0 0 14px; }
+.answer th, .answer td { text-align:left; padding:6px 10px; border-bottom:1px solid var(--line); }
+.answer th { font:600 10.5px/1.4 ui-monospace,Menlo,monospace; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-3); }
+.cursor { display:inline-block; width:7px; height:1.05em; vertical-align:-2px;
+  background:var(--accent); opacity:.75; animation:blink 1.1s steps(2) infinite; }
+@keyframes blink { 50% { opacity:0; } }
+
+/* ---- activity ---- */
+.activity {
+  display:flex; flex-wrap:wrap; gap:7px; align-items:center;
+  font:500 12px/1 ui-monospace,Menlo,monospace; color:var(--ink-3); margin:0 0 14px;
+}
+.act {
+  display:inline-flex; align-items:center; gap:6px; padding:4px 9px;
+  border:1px solid var(--line); border-radius:99px; background:var(--panel);
+}
+.act.run { border-color:var(--accent); color:var(--accent); }
+.dot { width:6px; height:6px; border-radius:50%; background:currentColor; }
+.act.run .dot { animation:pulse 1.1s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity:.25; } }
+
+/* ---- caveat banner: never behind a disclosure ---- */
+.banner {
+  border:1px solid var(--line); border-left:3px solid var(--c-gap); border-radius:9px;
+  background:var(--panel); padding:14px 17px; margin:18px 0 0;
+}
+.banner h3 { font-size:13px; margin:0 0 9px; font-weight:640; color:var(--c-gap);
+  letter-spacing:.01em; }
+.banner ul { list-style:none; margin:0; padding:0; }
+.banner li { padding:8px 0; border-top:1px solid var(--line); font-size:13.5px; color:var(--ink-2);
+  line-height:1.55; }
+.banner li:first-child { border-top:0; }
+.banner code { font:11.5px/1 ui-monospace,Menlo,monospace; color:var(--c-gap);
+  background:var(--chip); padding:3px 6px; border-radius:4px; margin-right:8px;
+  border:1px solid var(--line-2); white-space:nowrap; }
+.banner .ent { font:600 11.5px/1 ui-monospace,Menlo,monospace; color:var(--ink-3); margin-right:7px; }
+.banner.warn { border-left-color:var(--c-override); }
+.banner.warn h3 { color:var(--c-override); }
+.banner.warn code { color:var(--c-override); }
+
+/* ---- chips ---- */
+.chips { display:flex; flex-wrap:wrap; gap:7px; margin:14px 0 0; }
+.chip {
+  padding:5px 11px; border:1px solid var(--line-2); border-radius:99px; background:var(--panel);
+  font:500 12.5px/1 ui-sans-serif,system-ui; color:var(--ink-2); cursor:pointer;
+}
+.chip:hover { border-color:var(--accent); color:var(--accent); }
+
+/* ---- evidence drawer ---- */
+details.evidence { margin-top:18px; border:1px solid var(--line); border-radius:9px;
+  background:var(--panel); }
+details.evidence > summary {
+  cursor:pointer; padding:11px 16px; list-style:none;
+  font:500 12px/1 ui-monospace,Menlo,monospace; letter-spacing:.05em; color:var(--ink-3);
+  display:flex; align-items:center; gap:9px;
+}
+details.evidence > summary::-webkit-details-marker { display:none; }
+details.evidence > summary:hover { color:var(--ink); }
+details.evidence[open] > summary { border-bottom:1px solid var(--line); }
+.evbody { padding:14px 16px; }
+.step { padding:12px 0; border-top:1px solid var(--line); }
+.step:first-child { border-top:0; padding-top:0; }
+.step h4 { margin:0 0 7px; font:600 11px/1 ui-monospace,Menlo,monospace;
+  letter-spacing:.07em; text-transform:uppercase; color:var(--ink-3); }
+pre.sql, pre.doc {
+  margin:0 0 9px; padding:11px 13px; border:1px solid var(--line); border-radius:7px;
+  background:var(--bg); overflow-x:auto;
+  font:12.5px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace; color:var(--ink-2);
+  white-space:pre-wrap; word-break:break-word;
+}
+.tblwrap { overflow-x:auto; border:1px solid var(--line); border-radius:7px; margin-bottom:8px; }
+table.rows { border-collapse:collapse; width:100%; font-size:12.5px; }
+table.rows th, table.rows td { text-align:left; padding:5px 10px;
+  border-bottom:1px solid var(--line); white-space:nowrap; }
+table.rows th { font:600 10px/1.4 ui-monospace,Menlo,monospace; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-3); background:var(--chip); }
+table.rows tr:last-child td { border-bottom:0; }
+.hit { padding:9px 0; border-top:1px solid var(--line); font-size:13px; }
+.hit:first-of-type { border-top:0; }
+.hit .h { font-size:12.5px; color:var(--ink-3); margin-bottom:3px;
+  font-family:ui-monospace,Menlo,monospace; }
+.hit .p { color:var(--ink-2); line-height:1.55; }
+.hit mark { background:var(--mark); color:var(--ink); border-radius:2px; padding:0 1px; }
+.srcbtn {
+  display:inline-block; margin-top:5px; font:11.5px/1.4 ui-monospace,Menlo,monospace;
+  color:var(--accent); cursor:pointer; word-break:break-all; background:none;
+  border:none; padding:0; text-align:left;
+}
+.srcbtn:hover { text-decoration:underline; background:none; }
+.meta { font:11.5px/1.5 ui-monospace,Menlo,monospace; color:var(--ink-3); }
+
+/* ---- footer of a turn ---- */
+.turnfoot { display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-top:14px;
+  font:11.5px/1 ui-monospace,Menlo,monospace; color:var(--ink-3); }
+.turnfoot button { font-size:11.5px; padding:5px 10px; }
+
+/* ---- composer ---- */
+.composer {
+  position:fixed; left:0; right:0; bottom:0; background:var(--bg);
+  border-top:1px solid var(--line); padding:14px 22px 18px;
+}
+.composer-inner { max-width:820px; margin:0 auto; display:flex; gap:9px; align-items:flex-end; }
+textarea#q {
+  flex:1 1 auto; min-height:52px; max-height:200px; resize:none; font-size:15px;
+  line-height:1.5; padding:13px 15px; border-radius:11px;
+}
+textarea#q:focus { outline:none; border-color:var(--accent); }
+#send { padding:13px 20px; font-weight:600; border-color:var(--accent); color:var(--accent); }
+.composer .hint { max-width:820px; margin:8px auto 0; font-size:11.5px; color:var(--ink-3);
+  font-family:ui-monospace,Menlo,monospace; }
+
+/* ---- source modal ---- */
+.modal {
+  position:fixed; inset:0; background:rgba(0,0,0,.45); display:none;
+  align-items:center; justify-content:center; padding:30px; z-index:50;
+}
+.modal.open { display:flex; }
+.modal-box {
+  background:var(--panel); border:1px solid var(--line-2); border-radius:12px;
+  max-width:900px; width:100%; max-height:100%; display:flex; flex-direction:column;
+}
+.modal-head { padding:14px 18px; border-bottom:1px solid var(--line); display:flex;
+  gap:12px; align-items:center; }
+.modal-head .t { font:600 12.5px/1.4 ui-monospace,Menlo,monospace; word-break:break-all;
+  flex:1 1 auto; color:var(--ink-2); }
+.modal-body { overflow:auto; padding:16px 18px; }
+.notice { color:var(--c-gap); font-size:14px; }
+footer.page { margin-top:30px; color:var(--ink-3); font-size:12.5px; max-width:74ch; }
+footer.page code { font-family:ui-monospace,Menlo,monospace; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <div class="eyebrow">civic-data · ask the archive</div>
+  <h1>Ask a question about Utah local government</h1>
+  <p class="sub">
+    44 governments — 31 cities and towns, 8 counties, 2 regional planning bodies, and the
+    State. Council votes, planning decisions, campaign finance, elections, and the minutes
+    themselves. Answers cite the entity, the date, and the document, and say plainly when
+    the record can't support the question.
+  </p>
+  <div class="bar">
+    <span class="status" id="conn">connecting…</span>
+    <div class="spacer"></div>
+    <button id="newchat">New question</button>
+    <button id="theme" title="Toggle light/dark">◐</button>
+  </div>
+</header>
+
+<div class="starters" id="starters"></div>
+<div id="thread"></div>
+
+<footer class="page" id="pagefoot"></footer>
+</div>
+
+<div class="composer">
+  <div class="composer-inner">
+    <textarea id="q" rows="1" placeholder="Ask about votes, money, land use, elections…" autocomplete="off"></textarea>
+    <button id="send">Ask</button>
+  </div>
+  <div class="hint" id="hint"></div>
+</div>
+
+<div class="modal" id="modal">
+  <div class="modal-box">
+    <div class="modal-head">
+      <span class="t" id="modal-path"></span>
+      <button id="modal-close">Close</button>
+    </div>
+    <div class="modal-body"><pre class="doc" id="modal-text"></pre></div>
+  </div>
+</div>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const el = (t, cls, txt) => { const n = document.createElement(t);
+  if (cls) n.className = cls; if (txt != null) n.textContent = txt; return n; };
+
+const STARTERS = [
+  ["Which Utah city councils dissent most often on land-use votes?",
+   "Tests whether the tool surfaces recording ceilings before you draw a conclusion."],
+  ["What has Salt Lake City's council said about accessory dwelling units?",
+   "Full-text across minutes, with the passages and the source documents."],
+  ["Who were the largest donors to Herriman city candidates, and how did those members vote on land use?",
+   "Campaign finance joined to the vote record."],
+  ["Has a planning commission ever recommended denial and had the council approve anyway?",
+   "Cross-body divergence through the reconstructed referral layer."],
+  ["What does the archive hold for Washington County?",
+   "Coverage, floors, and what is deliberately absent."],
+];
+
+/* ---------- tiny, XSS-safe markdown ----------
+   The model's text is never assigned to innerHTML. Inline spans are built as
+   DOM nodes, so a stray '<script>' in a quoted minutes passage is inert text. */
+function inline(target, text) {
+  const re = /(\*\*[^*]+\*\*|`[^`]+`|\*[^*]+\*)/g;
+  let last = 0, m;
+  while ((m = re.exec(text)) !== null) {
+    if (m.index > last) target.appendChild(document.createTextNode(text.slice(last, m.index)));
+    const tok = m[0];
+    if (tok.startsWith("**")) target.appendChild(el("strong", null, tok.slice(2, -2)));
+    else if (tok.startsWith("`")) target.appendChild(el("code", null, tok.slice(1, -1)));
+    else target.appendChild(el("em", null, tok.slice(1, -1)));
+    last = m.index + tok.length;
+  }
+  if (last < text.length) target.appendChild(document.createTextNode(text.slice(last)));
+}
+
+function renderMarkdown(host, src) {
+  host.textContent = "";
+  const lines = src.split("\n");
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (!line.trim()) { i++; continue; }
+
+    if (/^#{1,6}\s/.test(line)) {
+      inline(host.appendChild(el("h3")), line.replace(/^#{1,6}\s*/, "")); i++; continue;
+    }
+    if (/^\s*\|.*\|\s*$/.test(line) && /^\s*\|[\s:|-]+\|\s*$/.test(lines[i + 1] || "")) {
+      const cells = r => r.trim().replace(/^\||\|$/g, "").split("|").map(c => c.trim());
+      const table = el("table"), thead = el("thead"), htr = el("tr");
+      for (const c of cells(line)) inline(htr.appendChild(el("th")), c);
+      thead.appendChild(htr); table.appendChild(thead);
+      const tb = el("tbody"); i += 2;
+      while (i < lines.length && /^\s*\|.*\|\s*$/.test(lines[i])) {
+        const tr = el("tr");
+        for (const c of cells(lines[i])) inline(tr.appendChild(el("td")), c);
+        tb.appendChild(tr); i++;
+      }
+      table.appendChild(tb); host.appendChild(table); continue;
+    }
+    if (/^\s*([-*+]|\d+\.)\s+/.test(line)) {
+      const ordered = /^\s*\d+\./.test(line);
+      const list = el(ordered ? "ol" : "ul");
+      while (i < lines.length && /^\s*([-*+]|\d+\.)\s+/.test(lines[i])) {
+        inline(list.appendChild(el("li")), lines[i].replace(/^\s*([-*+]|\d+\.)\s+/, ""));
+        i++;
+      }
+      host.appendChild(list); continue;
+    }
+    const buf = [];
+    while (i < lines.length && lines[i].trim() && !/^\s*([-*+]|\d+\.)\s+/.test(lines[i])
+           && !/^#{1,6}\s/.test(lines[i]) && !/^\s*\|.*\|\s*$/.test(lines[i])) {
+      buf.push(lines[i]); i++;
+    }
+    if (buf.length) inline(host.appendChild(el("p")), buf.join(" "));
+  }
+}
+
+/* ---------- caveat + note rendering ---------- */
+function caveatBanner(caveats) {
+  if (!caveats.length) return null;
+  const box = el("div", "banner");
+  box.appendChild(el("h3", null,
+    `How this data may be read — ${caveats.length} limit${caveats.length === 1 ? "" : "s"} apply`));
+  const ul = el("ul");
+  for (const c of caveats) {
+    const li = el("li");
+    li.appendChild(el("code", null, c.code));
+    li.appendChild(el("span", "ent", c.entity === "*" ? "all entities" : (c.entity_name || c.entity)));
+    li.appendChild(document.createTextNode(c.caveat));
+    ul.appendChild(li);
+  }
+  box.appendChild(ul);
+  return box;
+}
+
+function noteBanner(notes) {
+  if (!notes.length) return null;
+  const box = el("div", "banner warn");
+  box.appendChild(el("h3", null, `Query-shape warnings — ${notes.length}`));
+  const ul = el("ul");
+  for (const n of notes) ul.appendChild(el("li", null, n));
+  box.appendChild(ul);
+  return box;
+}
+
+/* ---------- source viewer ---------- */
+async function openSource(path) {
+  $("#modal-path").textContent = path;
+  $("#modal-text").textContent = "loading…";
+  $("#modal").classList.add("open");
+  try {
+    const res = await fetch(`/api/document?path=${encodeURIComponent(path)}&max_chars=40000`);
+    const d = await res.json();
+    $("#modal-text").textContent = d.error
+      ? `${d.error}: ${d.reason || ""}`
+      : d.text + (d.truncated ? `\n\n… [showing first ${d.chars_returned} of ${d.total_chars} characters]` : "");
+  } catch (e) {
+    $("#modal-text").textContent = String(e);
+  }
+}
+$("#modal-close").addEventListener("click", () => $("#modal").classList.remove("open"));
+$("#modal").addEventListener("click", e => {
+  if (e.target === $("#modal")) $("#modal").classList.remove("open");
+});
+addEventListener("keydown", e => { if (e.key === "Escape") $("#modal").classList.remove("open"); });
+
+/* ---------- one turn ---------- */
+class Turn {
+  constructor(question) {
+    this.question = question;
+    this.text = "";
+    this.caveats = new Map();   // code|entity -> caveat
+    this.notes = new Set();
+    this.steps = [];
+    this.node = el("div", "turn");
+    this.node.appendChild(el("div", "ask", question));
+    this.activity = el("div", "activity");
+    this.node.appendChild(this.activity);
+    this.answer = el("div", "answer");
+    this.node.appendChild(this.answer);
+    this.tail = el("div");
+    this.node.appendChild(this.tail);
+    $("#thread").appendChild(this.node);
+    this.cursor = el("span", "cursor");
+    this.answer.appendChild(this.cursor);
+    this.dirty = false;
+  }
+
+  act(label, running) {
+    const a = el("div", "act" + (running ? " run" : ""));
+    a.appendChild(el("span", "dot"));
+    a.appendChild(el("span", null, label));
+    this.activity.appendChild(a);
+    return a;
+  }
+
+  addText(t) {
+    this.text += t;
+    if (!this.dirty) {
+      this.dirty = true;
+      requestAnimationFrame(() => {
+        this.dirty = false;
+        renderMarkdown(this.answer, this.text);
+        this.answer.appendChild(this.cursor);
+      });
+    }
+  }
+
+  addStep(ev) {
+    this.steps.push(ev);
+    for (const c of ev.caveats || []) this.caveats.set(`${c.code}|${c.entity}`, c);
+    for (const n of ev.notes || []) this.notes.add(n);
+  }
+
+  finish(done) {
+    this.cursor.remove();
+    renderMarkdown(this.answer, this.text);
+
+    const caveats = [...this.caveats.values()];
+    const notes = [...this.notes];
+    const nb = noteBanner(notes); if (nb) this.tail.appendChild(nb);
+    const cb = caveatBanner(caveats); if (cb) this.tail.appendChild(cb);
+
+    // Entity disambiguation chips — offer the alternatives rather than guessing.
+    const amb = this.steps.find(s => s.summary && s.summary.kind === "entity" && s.summary.ambiguous);
+    if (amb) {
+      const chips = el("div", "chips");
+      chips.appendChild(el("span", "meta", "Did you mean:"));
+      for (const c of amb.summary.candidates) {
+        const chip = el("div", "chip", `${c.name} (${c.level})`);
+        chip.addEventListener("click", () =>
+          ask(`${this.question} — specifically ${c.name}`));
+        chips.appendChild(chip);
+      }
+      this.tail.appendChild(chips);
+    }
+
+    if (this.steps.length) this.tail.appendChild(this.evidence());
+
+    const foot = el("div", "turnfoot");
+    if (done) {
+      foot.appendChild(el("span", null,
+        `${done.turns} round${done.turns === 1 ? "" : "s"} · ${done.elapsed_s}s · ` +
+        `$${done.cost_usd.toFixed(3)} · ${done.usage.output_tokens.toLocaleString()} output tokens` +
+        (done.cache_hit ? " · prompt cache hit" : " · cache written")));
+    }
+    const copy = el("button", null, "Copy for notes");
+    copy.addEventListener("click", () => {
+      navigator.clipboard.writeText(this.asNotes(done, caveats));
+      copy.textContent = "Copied";
+      setTimeout(() => (copy.textContent = "Copy for notes"), 1400);
+    });
+    foot.appendChild(copy);
+    this.tail.appendChild(foot);
+
+    for (const a of this.activity.querySelectorAll(".act.run")) a.classList.remove("run");
+  }
+
+  evidence() {
+    const d = el("details", "evidence");
+    const sum = el("summary");
+    sum.appendChild(el("span", null,
+      `EVIDENCE — ${this.steps.length} step${this.steps.length === 1 ? "" : "s"}, ` +
+      `${this.caveats.size} caveat${this.caveats.size === 1 ? "" : "s"}`));
+    d.appendChild(sum);
+    const body = el("div", "evbody");
+
+    for (const ev of this.steps) {
+      const s = ev.summary || {};
+      const step = el("div", "step");
+      step.appendChild(el("h4", null, ev.name));
+
+      if (s.kind === "error") {
+        step.appendChild(el("div", "notice", `${s.error}: ${s.reason}`));
+      } else if (s.kind === "sql") {
+        step.appendChild(el("pre", "sql", s.sql || ""));
+        if (s.columns && s.columns.length && s.rows && s.rows.length) {
+          const wrap = el("div", "tblwrap"), t = el("table", "rows");
+          const thead = el("thead"), tr = el("tr");
+          for (const c of s.columns) tr.appendChild(el("th", null, c));
+          thead.appendChild(tr); t.appendChild(thead);
+          const tb = el("tbody");
+          for (const row of s.rows) {
+            const r = el("tr");
+            for (const v of row) r.appendChild(el("td", null, v === null ? "null" : String(v)));
+            tb.appendChild(r);
+          }
+          t.appendChild(tb); wrap.appendChild(t); step.appendChild(wrap);
+        }
+        step.appendChild(el("div", "meta",
+          `${s.row_count} row${s.row_count === 1 ? "" : "s"}` +
+          (s.truncated ? " · TRUNCATED, the answer is partial" : "") +
+          ` · ${s.elapsed_ms} ms`));
+      } else if (s.kind === "search") {
+        step.appendChild(el("div", "meta",
+          `${s.corpus}: "${s.query}" — ${s.result_count} document${s.result_count === 1 ? "" : "s"}`));
+        for (const r of s.results || []) {
+          const hit = el("div", "hit");
+          hit.appendChild(el("div", "h",
+            [r.entity_name || r.city, r.date, r.title].filter(Boolean).join(" · ")));
+          const p = el("div", "p");
+          for (const [i, part] of String(r.passage || "").split(/>>|<</).entries())
+            p.appendChild(i % 2 ? el("mark", null, part) : document.createTextNode(part));
+          hit.appendChild(p);
+          if (r.path) {
+            const b = el("button", "srcbtn", r.path);
+            b.addEventListener("click", () => openSource(r.path));
+            hit.appendChild(b);
+          }
+          step.appendChild(hit);
+        }
+      } else if (s.kind === "document") {
+        const b = el("button", "srcbtn", s.path);
+        b.addEventListener("click", () => openSource(s.path));
+        step.appendChild(b);
+        step.appendChild(el("div", "meta",
+          `${s.entity_name || ""} · read ${s.chars_returned} of ${s.total_chars} characters`));
+      } else if (s.kind === "entity") {
+        step.appendChild(el("div", "meta",
+          `"${s.query}" → ` + (s.candidates || []).map(c => `${c.name} (${c.level})`).join(", ") +
+          (s.ambiguous ? "  — AMBIGUOUS" : "")));
+      } else if (s.kind === "coverage") {
+        step.appendChild(el("div", "meta",
+          `${s.entity || "all entities"} — ${s.row_count} coverage rows`));
+        if (s.rows && s.rows.length) {
+          const wrap = el("div", "tblwrap"), t = el("table", "rows");
+          const thead = el("thead"), tr = el("tr");
+          for (const c of ["entity", "dataset", "motions", "first", "last"])
+            tr.appendChild(el("th", null, c));
+          thead.appendChild(tr); t.appendChild(thead);
+          const tb = el("tbody");
+          for (const r of s.rows) {
+            const row = el("tr");
+            for (const v of [r.city, r.dataset, r.motions, r.first_date, r.last_date])
+              row.appendChild(el("td", null, v === null ? "—" : String(v)));
+            tb.appendChild(row);
+          }
+          t.appendChild(tb); wrap.appendChild(t); step.appendChild(wrap);
+        }
+      } else if (s.kind === "grep") {
+        step.appendChild(el("div", "meta",
+          `repo text: "${s.pattern}"${s.path && s.path !== "." ? " in " + s.path : ""}`
+          + ` — ${s.match_count} line${s.match_count === 1 ? "" : "s"} in `
+          + `${s.files_matched} file${s.files_matched === 1 ? "" : "s"}`
+          + (s.truncated ? ` · PARTIAL (${s.truncation_reason})` : "")));
+        for (const m of s.matches || []) {
+          const hit = el("div", "hit");
+          hit.appendChild(el("div", "h",
+            [m.entity, "line " + m.line_no].filter(Boolean).join(" · ")));
+          hit.appendChild(el("div", "p", m.line));
+          const b = el("button", "srcbtn", m.path);
+          b.addEventListener("click", () => openSource(m.path));
+          hit.appendChild(b);
+          step.appendChild(hit);
+        }
+      } else if (s.kind === "schema") {
+        step.appendChild(el("div", "meta", (s.names || []).join(", ")));
+      }
+      body.appendChild(step);
+    }
+    d.appendChild(body);
+    return d;
+  }
+
+  asNotes(done, caveats) {
+    const out = [`Q: ${this.question}`, "", this.text, ""];
+    if (caveats.length) {
+      out.push("LIMITS ON THIS DATA:");
+      for (const c of caveats)
+        out.push(`  [${c.code}] ${c.entity === "*" ? "all entities" : (c.entity_name || c.entity)}: ${c.caveat}`);
+      out.push("");
+    }
+    const sqls = this.steps.filter(s => s.summary && s.summary.kind === "sql");
+    if (sqls.length) {
+      out.push("QUERIES RUN:");
+      for (const s of sqls) out.push("  " + s.summary.sql.replace(/\n/g, "\n  "));
+      out.push("");
+    }
+    const docs = [];
+    for (const s of this.steps) {
+      if (s.summary && s.summary.kind === "search")
+        for (const r of s.summary.results || []) if (r.path) docs.push(r.path);
+      if (s.summary && s.summary.kind === "document" && s.summary.path) docs.push(s.summary.path);
+    }
+    if (docs.length) {
+      out.push("SOURCE DOCUMENTS:");
+      for (const p of [...new Set(docs)]) out.push("  " + p);
+      out.push("");
+    }
+    out.push(`— civic-data archive${done ? `, ${done.model} at ${done.effort} effort` : ""}`);
+    return out.join("\n");
+  }
+}
+
+/* ---------- ask ---------- */
+let busy = false;
+
+async function ask(question) {
+  if (busy || !question.trim()) return;
+  busy = true;
+  $("#send").disabled = true;
+  $("#starters").style.display = "none";
+  $("#q").value = "";
+
+  const turn = new Turn(question.trim());
+  turn.node.scrollIntoView({ behavior: "smooth", block: "start" });
+  let running = turn.act("thinking", true);
+  let done = null;
+
+  try {
+    const res = await fetch("/api/chat", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ question: question.trim() }),
+    });
+    const reader = res.body.getReader();
+    const dec = new TextDecoder();
+    let buf = "";
+    while (true) {
+      const { value, done: eof } = await reader.read();
+      if (eof) break;
+      buf += dec.decode(value, { stream: true });
+      const parts = buf.split("\n\n");
+      buf = parts.pop();
+      for (const part of parts) {
+        const line = part.split("\n").find(l => l.startsWith("data: "));
+        if (!line) continue;
+        let ev; try { ev = JSON.parse(line.slice(6)); } catch { continue; }
+
+        if (ev.type === "text") {
+          turn.addText(ev.text);
+        } else if (ev.type === "status") {
+          if (running) running.classList.remove("run");
+          if (ev.status === "reasoning") running = turn.act("reasoning", true);
+          else if (ev.status === "thinking" && ev.turn > 1) running = turn.act("thinking", true);
+        } else if (ev.type === "tool_use") {
+          if (running) running.classList.remove("run");
+          running = turn.act(ev.name, true);
+        } else if (ev.type === "tool_result") {
+          turn.addStep(ev);
+          if (running) { running.classList.remove("run"); running = null; }
+        } else if (ev.type === "refusal") {
+          turn.addText("\n\n*The model's safeguards declined this request" +
+            (ev.category ? ` (${ev.category})` : "") + ".*");
+        } else if (ev.type === "error") {
+          turn.addText(`\n\n**${ev.fatal ? "Could not answer" : "Stopped early"}** — ${ev.message}`);
+        } else if (ev.type === "done") {
+          done = ev;
+        }
+      }
+    }
+  } catch (e) {
+    turn.addText(`\n\n**Connection lost** — ${e}`);
+  }
+
+  turn.finish(done);
+  busy = false;
+  $("#send").disabled = false;
+  $("#q").focus();
+}
+
+/* ---------- wiring ---------- */
+for (const [q, why] of STARTERS) {
+  const b = el("button", "starter");
+  b.appendChild(document.createTextNode(q));
+  b.appendChild(el("em", null, why));
+  b.addEventListener("click", () => ask(q));
+  $("#starters").appendChild(b);
+}
+$("#starters").insertBefore(el("h2", null, "Try one of these"), $("#starters").firstChild);
+
+$("#send").addEventListener("click", () => ask($("#q").value));
+$("#q").addEventListener("keydown", e => {
+  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); ask($("#q").value); }
+});
+$("#q").addEventListener("input", e => {
+  e.target.style.height = "auto";
+  e.target.style.height = Math.min(e.target.scrollHeight, 200) + "px";
+});
+$("#newchat").addEventListener("click", () => {
+  $("#thread").textContent = "";
+  $("#starters").style.display = "";
+  $("#q").focus();
+});
+$("#theme").addEventListener("click", () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const dark = cur ? cur === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  document.documentElement.setAttribute("data-theme", dark ? "light" : "dark");
+});
+
+/* ---------- boot ---------- */
+(async function boot() {
+  let health = null, status = null;
+  try {
+    [health, status] = await Promise.all([
+      fetch("/api/health").then(r => r.json()),
+      fetch("/api/chat-status").then(r => r.json()),
+    ]);
+  } catch {
+    $("#conn").textContent = "server.py is not running — python3 interface_prototype/server.py";
+    $("#conn").classList.add("err");
+    $("#send").disabled = true;
+    return;
+  }
+
+  $("#pagefoot").textContent =
+    `${health.entities} entities · ${health.motions.toLocaleString()} motions · ` +
+    `${health.votes.toLocaleString()} member votes · ${health.caveat_rows} caveat rows · ` +
+    `database built ${String(health.built_at).slice(0, 10)}. ` +
+    `Every answer is produced by live queries against gov.db, opened read-only. ` +
+    `The evidence drawer under each answer holds the exact SQL, the rows, and the source documents.`;
+
+  if (!status.ready) {
+    $("#conn").textContent = "answering unavailable — " + (status.reason || "no credentials");
+    $("#conn").classList.add("err");
+    $("#send").disabled = true;
+    $("#q").placeholder = "Set ANTHROPIC_API_KEY and restart the server to ask questions";
+    $("#hint").textContent =
+      "The data layer is live — browse it without spending anything at /console.html";
+    return;
+  }
+  $("#conn").textContent =
+    `ready · ${status.model} · ${status.effort} effort · ${status.credential_source}`;
+  $("#hint").textContent =
+    `Enter to ask, Shift+Enter for a new line · ~${status.system_prompt.approx_tokens.toLocaleString()}-token ` +
+    `system prompt, cached · answers cost a few cents each · evidence drawer under every answer`;
+  $("#q").focus();
+})();
+</script>
+</body>
+</html>

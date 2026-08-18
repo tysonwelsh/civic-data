@@ -1,0 +1,27 @@
+[{
+  "index_path": "raw/archives/2024_combined_92078f_26b6bacd.pdf",
+  "page_start": 47, "page_end": 49,
+  "key": "166ddd03",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-17 wave B2 weber resume, chunk 01)",
+  "pages_read": [47, 48, 49],
+  "sides": { "contributions": "empty-schedule", "expenditures": "empty-schedule" },
+  "withheld_reason": {},
+  "recon": {
+    "contributions": {
+      "result": "period-exact",
+      "anchor": "cover line 1 'Total contributions from all donors', Totals for THIS REPORT cell = a bare nil dash '-' (Last Report 742.76, Cumulative 742.76)",
+      "detail": "Form A is bound on p48 and is a COMPLETELY BLANK printed grid - 23 empty data rows, no date, no contributor, no address, no amount anywhere - and the schedule's own 'Total Contributions: (to line 1 of report):' cell carries only a bare dash. Zero rows is therefore the complete and correct transcription, and zero activity is exactly what the cover's This-Report column reports (a nil dash, kept BLANK per the zero-glyph ruling, not 0). Cumulative 742.76 = Totals-from-Last-Report 742.76 unchanged, i.e. every dollar in the cumulative column was raised in earlier periods that this period-scoped schedule never itemizes. 3-line 2024 form, so a single contrib_all cell and no <=$50 aggregate line."
+    },
+    "expenditures": {
+      "result": "period-exact",
+      "anchor": "cover line 2 'Total Campaign Expenditures', Totals for THIS REPORT cell = a bare nil dash '-' (Last Report 742.76, Cumulative 742.76)",
+      "detail": "Form B is bound on p49 and is likewise a COMPLETELY BLANK printed grid with its own 'Total Expenditures: (to line 2 of report):' cell showing only a bare dash. Zero rows against a nil This-Report cell; cumulative 742.76 is carried unchanged from the last report and is not itemized here. Cover line 3 Ending Balance is a dash in all three columns."
+    }
+  },
+  "escalations": 0,
+  "escalation_note": "None needed: both schedule pages are physically blank at 200 dpi full-page and no cell was in dispute.",
+  "frames": {},
+  "contributions": [],
+  "expenditures": [],
+  "notes": "John Ulibarri, Assessor, 2024 cycle, October 8 pre-election report (that box is the only one ticked). Typed 3-line county form; the printed signature date '5-Jun-24' is STRUCK THROUGH and replaced in handwriting with 'October 2, 2024'. The candidate ADDRESS block on the cover is REDACTED BY THE COUNTY (a solid black bar over street/city/zip) - that is a county redaction, not a filer omission; it affects only the candidate's own address and no donor row exists to be affected. EMPTY-SCHEDULE, not no-schedule-page: both Form A and Form B were filed and are present in the retained document (pages 48 and 49 of the 2024 archive), they simply carry no entries. This filer also has a later 2024 report in the corpus (key 983e0137) on which the 742.76 carried figures are struck through and replaced with 0."
+}]

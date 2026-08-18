@@ -14,7 +14,16 @@ Checks (contract = SCHEMA.md):
   5. no contribution row lacking BOTH donor_raw and an unnamed-flag (blank donor_raw must be
      an anonymous / aggregate-unitemized / unknown row AND needs_review=1).
   6. reconciliation columns internally consistent (reconciles=True ⇒ |delta| ≤ $0.01 and
-     itemized_sum ≈ stated_total; booleans well-formed).
+     itemized_sum ≈ stated_total; booleans well-formed). ONE declared exception, added
+     2026-08-17 under the owner-ratified RECONCILIATION-BASIS RULE: a side may be reconciled
+     against the printed cover figure that MATCHES THE LEDGER'S OWN SCOPE — the period figure
+     for a period-scoped ledger — in which case itemized_sum is NOT comparable to a cumulative
+     stated_total. That basis must be DECLARED, and the declaration is checked, not assumed:
+     every published row on that side must carry is_incremental=True AND filing_totals.notes
+     must contain the literal marker `ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)`.
+     Absent that declaration the ordinary stated_total test applies unchanged, so the check is
+     not weakened for any dataset that does not opt in (as of 2026-08-17: summit_county and
+     weber_county).
   7. filing_totals.n_contrib_rows / n_expend_rows match the actual per-filing row counts.
   8. every (candidate, election_year) in the CSVs exists in index.csv.
 """
@@ -145,6 +154,14 @@ def main(dataset_dir):
     for r in tables.get("expenditures.csv", []):
         e_counts[r["document_id"]] = e_counts.get(r["document_id"], 0) + 1
 
+    # published rows per (document_id, side) that carry is_incremental=True — the evidence
+    # half of the period-basis declaration below (the notes marker is the intent half).
+    c_inc, e_inc = {}, {}
+    for r in tables.get("contributions.csv", []):
+        c_inc[r["document_id"]] = c_inc.get(r["document_id"], 0) + (r["is_incremental"] == "True")
+    for r in tables.get("expenditures.csv", []):
+        e_inc[r["document_id"]] = e_inc.get(r["document_id"], 0) + (r["is_incremental"] == "True")
+
     for i, r in enumerate(tables.get("filing_totals.csv", []), 2):
         where = f"filing_totals.csv row {i} ({r['candidate']} {r['election_year']})"
         if r["source_filing"] not in index_paths:
@@ -157,15 +174,33 @@ def main(dataset_dir):
             if r[col] not in ("True", "False", ""):
                 fail(f"{where}: {col} {r[col]!r} not True/False/blank")
         # reconciles=True must actually reconcile
-        for recon, itm, stated, delta in (
-            ("reconciles_contrib", "itemized_contrib_sum", "stated_total_contributions", "recon_delta_contrib"),
-            ("reconciles_expend", "itemized_expend_sum", "stated_total_expenditures", "recon_delta_expend"),
+        for recon, itm, stated, delta, side, counts in (
+            ("reconciles_contrib", "itemized_contrib_sum", "stated_total_contributions",
+             "recon_delta_contrib", "contributions", c_inc),
+            ("reconciles_expend", "itemized_expend_sum", "stated_total_expenditures",
+             "recon_delta_expend", "expenditures", e_inc),
         ):
-            if r[recon] == "True":
-                if r[itm] == "" or r[stated] == "":
-                    fail(f"{where}: {recon}=True but {itm}/{stated} blank")
-                elif round(abs(float(r[itm]) - float(r[stated])), 2) > TOL:
-                    fail(f"{where}: {recon}=True but |{itm}-{stated}| > {TOL}")
+            if r[recon] != "True":
+                continue
+            # A PERIOD-BASIS reconciliation, DECLARED and evidenced (see the docstring). Both
+            # halves are required: every published row on the side is_incremental=True, and the
+            # notes carry the literal marker. Then itemized_sum is a one-period figure and the
+            # cumulative stated_total is deliberately a different number, so the comparison
+            # below would be meaningless — recon_delta must still be stated and be within
+            # tolerance of zero, which is the reconciliation the row actually claims.
+            n_rows = int(r["n_contrib_rows"] if side == "contributions" else r["n_expend_rows"])
+            declared = (f"ITEMIZED {side} PERIOD-SCOPED (is_incremental=True)" in r["notes"]
+                        and n_rows > 0 and counts.get(r["document_id"], 0) == n_rows)
+            if declared:
+                if r[itm] == "" or r[delta] == "":
+                    fail(f"{where}: {recon}=True on the PERIOD basis but {itm}/{delta} blank")
+                elif round(abs(float(r[delta])), 2) > TOL:
+                    fail(f"{where}: {recon}=True on the PERIOD basis but {delta} > {TOL}")
+                continue
+            if r[itm] == "" or r[stated] == "":
+                fail(f"{where}: {recon}=True but {itm}/{stated} blank")
+            elif round(abs(float(r[itm]) - float(r[stated])), 2) > TOL:
+                fail(f"{where}: {recon}=True but |{itm}-{stated}| > {TOL}")
         exp_c = str(c_counts.get(r["document_id"], 0))
         exp_e = str(e_counts.get(r["document_id"], 0))
         if r["n_contrib_rows"] != exp_c:

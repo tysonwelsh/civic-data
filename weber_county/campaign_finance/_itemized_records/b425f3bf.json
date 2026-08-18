@@ -1,0 +1,95 @@
+[{
+  "index_path": "raw/archives/2022_combined_7e3a53_78d55edd.pdf",
+  "page_start": 4,
+  "page_end": 6,
+  "key": "b425f3bf",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 wave B2 weber)",
+  "pages_read": [4, 5, 6],
+  "itemized_pages_A": "5",
+  "itemized_pages_B": "6",
+  "sides": { "contributions": "transcribed", "expenditures": "transcribed" },
+  "withheld_reason": {},
+  "recon": {
+    "contributions": {
+      "result": "period-exact",
+      "anchor": "the cover's 'This Report' cell on line 1, Total contributions from all donors (500.00)",
+      "detail": "Form A (p5) prints exactly ONE data row, 500.00, which equals the cover's This-Report line-1 cell (500.00). The cover's Last Report column is 22,709.94 and the Totals column 23,209.94, so this is a period-scoped schedule behind a cumulative cover: the officeholder/committee account's prior 22,709.94 is carried forward and is NOT itemized on this document. Form A carries no printed schedule total of its own — the single row IS the schedule sum. 2022 is the 3-line form variant (a single 'contributions from all donors' cell, no separate <=$50 aggregate line), so the whole published contributions figure for the period is anchored here."
+    },
+    "expenditures": {
+      "result": "period-exact",
+      "anchor": "the cover's 'This Report' cell on line 2, Total Campaign Expenditures (1,309.77)",
+      "detail": "Form B (p6) prints 14 data rows: 11.60 + 48.00 + 317.99 + 62.50 + 67.84 + 11.50 + 2.99 + 19.56 + 9.13 + 126.00 + 27.87 + 19.79 + 60.00 + 525.00 = 1,309.77, exactly the cover's This-Report line-2 cell. Cumulative is 20,071.24 against a Last-Report 18,761.47 (difference 1,309.77), so the cover's own arithmetic confirms the period scope. Form B prints no schedule total and no page subtotal. Line 3 closes independently: 500.00 - 1,309.77 = (809.77), the printed This-Report ending balance, and 3,948.47 - 809.77 = 3,138.70, the printed cumulative balance."
+    }
+  },
+  "escalations": 6,
+  "escalation_note": "six 900 dpi tight --value crops, all used as GEOMETRY proofs rather than glyph re-reads (both schedules are TYPED, so no amount needed a legibility escalation): p6 amount cells for rows 1, 8 and 14 reproduced 11.60 / 19.56 / 525.00, confirming the every-other-rule band selection described in the p6 measure_note; p5 amount cells for the three candidate bands [19.89,21.05], [20.34,21.05] and [21.05,21.57], which located the single data row at [20.34,21.05] and showed [21.05,21.57] to be the table's closing border zone.",
+  "frames": {
+    "5": {
+      "axis": "y",
+      "cell": [71.12, 82.00],
+      "cells": [[14.74, 71.12], [71.12, 82.00]],
+      "rows": [[20.34, 21.05]],
+      "measure_note": "Portrait sheet, rows advance top-to-bottom. Vertical rules detected by rowbands at 14.74 / 71.12 / 82.00 = the table's left border, the Address|Amount separator and the right border; cell = the Amount band [71.12,82.00] (the Date|Name and Name|Address separators do not survive detection on this sparse sheet and are not claimed). Horizontal rules 10.39 / 11.56 / 12.52 / 14.20 / 15.89 / 17.52 / 18.91 / 19.89 / 20.34 / 21.05 / 21.57: everything above 19.89 is the FORM A title block and the column-header row, 19.89 is the rule under the 'Date | Name of Contributor | Address | Amount' header, and 21.05-21.57 is the table's closing double border. The ONE data row is [20.34,21.05] — proved by a 900 dpi --value crop that framed 500.00 cleanly, against crops of the two neighbouring candidates which showed the header rule above it and the empty border strip below it. No band was extrapolated."
+    },
+    "6": {
+      "axis": "y",
+      "cell": [80.00, 89.41],
+      "cells": [[7.00, 20.50], [20.50, 43.26], [43.26, 56.18], [56.18, 80.00], [80.00, 89.41]],
+      "rows": [[19.93, 21.57], [21.57, 23.23], [23.23, 24.86], [24.86, 26.50], [26.50, 28.14],
+               [28.14, 29.77], [29.77, 31.41], [31.41, 33.05], [33.05, 34.70], [34.70, 36.34],
+               [36.34, 38.00], [38.00, 39.73], [39.73, 41.39], [41.39, 43.05]],
+      "measure_note": "Portrait sheet, axis='y'. ⚠ SOURCE PROPERTY WORTH RECORDING: rowbands returns 37 horizontal rules on this page at a regular 0.82pct pitch — exactly HALF the printed row pitch — because this Excel-printed grid renders a faint MID-ROW gridline as well as the dotted row separator, so every data row yields two detected rules. Taking every OTHER rule from 19.93 (the rule under the column-header row) gives 19.93 / 21.57 / 23.23 / 24.86 / 26.50 / 28.14 / 29.77 / 31.41 / 33.05 / 34.70 / 36.34 / 38.00 / 39.73 / 41.39 / 43.05 = 15 rules = 14 bands = EXACTLY the 14 printed data rows, with 43.05 the table's bottom border. Proved with three 900 dpi --value crops at bands 1, 8 and 14, which returned 11.60, 19.56 and 525.00 — the first, eighth and last amounts of the transcribed side. The discarded intermediate rules (20.77, 22.38, ...) were also crop-tested: a crop of [19.93,20.77] cuts row 1 in half, confirming they are mid-row. No band was extrapolated. Vertical rules: rowbands finds none on this page (the column rules are broken up by the deskew and by dense text), so they were measured with a dark-pixel column projection over the DESKEWED page across the data-row y-window 19.93-43.05: table borders 7.00 and 89.41, column separators ~20.5 / 43.26 / 56.18 / 80.00 = Purchase Date | Person/Organization | City | Purpose | Amount. cell = [80.00,89.41], confirmed by the three crops above."
+    }
+  },
+  "contributions": [
+    { "line_no": "1", "date": "10/20/2022", "donor_raw": "Utah Tech Leads",
+      "donor_city": "SLC", "donor_state": "UT", "amount": "500.00",
+      "page": 5, "row": 1, "confidence": "medium", "in_kind": false,
+      "note": "The Address column prints a full street address; only the city/state portion is carried (PRIVACY.md). The filer wrote the city verbatim as 'SLC'." }
+  ],
+  "expenditures": [
+    { "line_no": "1", "date": "6/22/2022", "vendor_raw": "Fresh Market", "purpose": "Stamps",
+      "amount": "11.60", "page": 6, "row": 1, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "2", "date": "6/23/2022", "vendor_raw": "USPS", "purpose": "Postcard Stamps",
+      "amount": "48.00", "page": 6, "row": 2, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "3", "date": "6/24/2022", "vendor_raw": "Riverprint", "purpose": "Campaign mailers",
+      "amount": "317.99", "page": 6, "row": 3, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "4", "date": "6/24/2022", "vendor_raw": "Walmart", "purpose": "Parade supplies",
+      "amount": "62.50", "page": 6, "row": 4, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "5", "date": "6/25/2022", "vendor_raw": "Da Kine Grindz", "purpose": "Food for parade volunteers",
+      "amount": "67.84", "page": 6, "row": 5, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Sunset, UT'." },
+    { "line_no": "6", "date": "6/25/2022", "vendor_raw": "Zeppes", "purpose": "Food for parade volunteers",
+      "amount": "11.50", "page": 6, "row": 6, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'North Ogden, UT'." },
+    { "line_no": "7", "date": "6/25/2022", "vendor_raw": "Son Son", "purpose": "Food for parade volunteers",
+      "amount": "2.99", "page": 6, "row": 7, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "8", "date": "6/25/2022", "vendor_raw": "Rickles", "purpose": "Food for parade volunteers",
+      "amount": "19.56", "page": 6, "row": 8, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "9", "date": "6/25/2022", "vendor_raw": "Da Kine Grindz", "purpose": "Food for parade volunteers",
+      "amount": "9.13", "page": 6, "row": 9, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Sunset, UT'. Second entry for this vendor on the same date (line 5 is the other) — kept as the filer printed it, not merged." },
+    { "line_no": "10", "date": "6/30/2022", "vendor_raw": "Ogden Valley News", "purpose": "Advertisements",
+      "amount": "126.00", "page": 6, "row": 10, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Huntsville, UT'." },
+    { "line_no": "11", "date": "7/3/2022", "vendor_raw": "Amazon", "purpose": "Parade supplies",
+      "amount": "27.87", "page": 6, "row": 11, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Seattle, WA'." },
+    { "line_no": "12", "date": "8/17/2022", "vendor_raw": "Site5", "purpose": "Campaign website fees",
+      "amount": "19.79", "page": 6, "row": 12, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Austin, TX'." },
+    { "line_no": "13", "date": "8/17/2022", "vendor_raw": "USPS", "purpose": "Postcard Stamps",
+      "amount": "60.00", "page": 6, "row": 13, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." },
+    { "line_no": "14", "date": "8/23/2022", "vendor_raw": "Weber County GOP", "purpose": "Golf Tournament Sponsorship",
+      "amount": "525.00", "page": 6, "row": 14, "confidence": "medium", "in_kind": false,
+      "note": "City column reads 'Ogden, UT'." }
+  ],
+  "notes": "Ricky D. Hatch - Committee to Elect Ricky Hatch, 'County Clerk/Auditor', 2022 cycle, the 'October 25th - Nov 1st' report box ticked, signed 10/27/2022. Page order IS form order: cover p4, Form A p5, Form B p6. Both schedules are TYPED (an Excel print), not handwritten, which is why every amount read cleanly at full page and the escalations were spent on geometry instead. This is an OFFICEHOLDER-style account that opens the report from a large prior balance (Last Report contributions 22,709.94 / expenditures 18,761.47), and BOTH schedules itemize the PERIOD only — the ~$22.7k raised before this report is not itemized anywhere on this document, so neither side may be read as a cycle-cumulative list of donors or vendors. The date range covered by Form B (6/22/2022-8/23/2022) sits well before the report's own 10/25-11/1 window, another sign the filer treated the schedules as 'everything since the last report' rather than as the report period. This copy's cover columns are headed 'Last Report | This Report | Totals:' rather than the standard 'Totals from Last Report / Totals for This Report / Cumulative Totals' — same three columns, different printed labels (already recorded in the stated-totals cache). The candidate's street address and two phone numbers print on the cover and are deliberately NOT carried (PRIVACY.md); the county applied no redaction to this 2022 archive copy."
+}]

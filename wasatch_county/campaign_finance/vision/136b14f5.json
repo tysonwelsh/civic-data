@@ -1,110 +1,599 @@
 {
-  "_meta": {
-    "index_path": "raw/2022/202206_L.-Searle-Financial-Disclosure.pdf",
-    "cache_key": "136b14f5",
-    "entity": "wasatch_county",
-    "election_year": "2022",
-    "reporting_period_index": "Primary/June 2022",
-    "form_family_index": "utah_county_fcr_formab",
-    "form_variant_vision": "carr_5_5_pg_4line",
-    "form_statute_verbatim": "17-16-6.5",
-    "filing_regime": "cumulative",
-    "is_incremental": false,
-    "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
-    "source": "vision(pdftoppm -jpeg -r 200, page 1)",
-    "pages_read": [
-      1
-    ],
-    "text_layer_corroborated_lines": [
-      "balance_end",
-      "contrib_gt50",
-      "total_expenses"
-    ],
-    "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
-    "transcribed_utc": "2026-08-01T22:30:00Z"
-  },
-  "cover": {
-    "candidate_verbatim": {
-      "value": "Luke James Searle",
-      "confidence": "high"
+ "_meta": {
+  "index_path": "raw/2022/202206_L.-Searle-Financial-Disclosure.pdf",
+  "cache_key": "136b14f5",
+  "entity": "wasatch_county",
+  "election_year": "2022",
+  "reporting_period_index": "Primary/June 2022",
+  "form_family_index": "utah_county_fcr_formab",
+  "form_variant_vision": "carr_5_5_pg_4line",
+  "form_statute_verbatim": "17-16-6.5",
+  "filing_regime": "cumulative",
+  "is_incremental": false,
+  "tranche": "cover-page office + stated totals (itemized Table A/B NOT transcribed)",
+  "source": "vision(pdftoppm -jpeg -r 200, page 1)",
+  "pages_read": [
+   1
+  ],
+  "text_layer_corroborated_lines": [
+   "balance_end",
+   "contrib_gt50",
+   "total_expenses"
+  ],
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
+  "transcribed_utc": "2026-08-01T22:30:00Z",
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-14 tranche 3 Phase B wasatch wave)",
+   "transcribed_date": "2026-08-14",
+   "record_file": "chunk_06.json",
+   "variant": "carr_5_5_pg_4line",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2050.00",
+     "itemized": "2000.00",
+     "result": "delta",
+     "anchor": "cover line 1 (>$50, from form A), CUMULATIVE column",
+     "detail": "delta -50.00 - 7 row(s) sum to 2000.00 against cover line 1 (>$50, from form A), CUMULATIVE column, which prints 2050.00. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: UNRESOLVED $50.00 RESIDUAL, on the filer. Form A's 7 rows sum to 2000.00 (300.00 + 1300.00 + 25.00 + 20.00 + 100.00 + 25.00 + 230.00). Cover line 1 prints $2050.00 in both the this-report and cumulative columns; cover line 2 (<=$50 aggregate) carries an up-arrow 'see above' mark in those columns, which is a non-numeral and therefore BLANK, so the chunk's stated_c 2050.00 is line 1 alone. The cover is internally consistent (2050.00 - 2035.85 = the printed 14.15 balance), so the shortfall sits in the schedule, not in the cover. Every amount was re-read at 600 dpi and each is crisp born-digital type — this is NOT a glyph problem and no row was adjusted to close it.",
+     "published_stated": "2050.00",
+     "csv_reconciles": "False",
+     "csv_delta": "-50.00"
     },
-    "office_verbatim": {
-      "value": "County Council",
-      "confidence": "high"
-    },
-    "district_verbatim": {
-      "value": "Seat A - At Large",
-      "confidence": "high"
-    },
-    "addressee": {
-      "value": "Joey Granger, Wasatch County Clerk",
-      "confidence": "high"
-    },
-    "signature_date_verbatim": {
-      "value": "6/28/2022",
-      "confidence": "high"
-    },
-    "signed": true,
-    "report_periods_checked": null
-  },
-  "stated": {
-    "contrib_gt50": {
-      "last_report": {
-        "value": "N/A",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2050.00",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2050.00",
-        "confidence": "high"
-      }
-    },
-    "contrib_le50": {
-      "last_report": {
-        "value": "N/A",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "",
-        "confidence": ""
-      },
-      "cumulative": {
-        "value": "",
-        "confidence": ""
-      }
-    },
-    "total_expenses": {
-      "last_report": {
-        "value": "N/A",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "2035.85",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "2035.85",
-        "confidence": "high"
-      }
-    },
-    "balance_end": {
-      "last_report": {
-        "value": "N/A",
-        "confidence": "high"
-      },
-      "this_report": {
-        "value": "14.15",
-        "confidence": "high"
-      },
-      "cumulative": {
-        "value": "14.15",
-        "confidence": "high"
-      }
+    "expenditures": {
+     "stated": "2035.85",
+     "itemized": "2238.01",
+     "result": "delta",
+     "anchor": "the cover's own total expenses line, CUMULATIVE column",
+     "detail": "delta 202.16 - 18 row(s) sum to 2238.01 against the cover's own total expenses line, CUMULATIVE column, which prints 2035.85. Both figures retained verbatim; no row was adjusted and the stated total was not recomputed. || TRANSCRIBER'S ACCOUNT: EXACTLY EXPLAINED: Form B's 18 rows sum to 2238.01; 2238.01 - 2035.85 = 202.16, which is exactly line 1, the 3/4/2022 Wasatch County FILING FEE. Excluding that single row the side closes to the penny on the cover's printed 2035.85 — i.e. the filer omitted his filing fee from his own expense total. Rows are all published, the stated total is untouched, and no row was adjusted. (Excluding the one in-kind row instead does NOT close it, so the in-kind screen of section 3(g) is not the explanation here.)",
+     "published_stated": "2035.85",
+     "csv_reconciles": "False",
+     "csv_delta": "202.16"
     }
+   },
+   "page_subtotal_gates": "Neither schedule prints a TOTAL row. Cover line 1 = 2050.00 vs Form A 2000.00 — GATE DOES NOT CLOSE (50.00 short, cause unknown). Cover line 3 = 2035.85 vs Form B 2238.01 — GATE DOES NOT CLOSE as printed, but closes EXACTLY once the 202.16 filing-fee row is set aside.",
+   "escalations": 1,
+   "escalation_note": "p2 Form A amount column re-rendered as a 600 dpi cell crop to test whether the last row was 230.00 or 280.00 (280.00 would have closed the side at 2050.00 exactly); the crop reads an unambiguous typed $230.00, so the arithmetic candidate is REJECTED and the delta stands",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 18,
+   "geometry": {
+    "bbox_exact": 0,
+    "estimated_band": 25,
+    "provenance": "bbox = pdftotext -bbox-layout on a born-digital page; estimated = the form's own fixed ruled-row pitch. A band is a POINTER to the row, never a value."
+   },
+   "screen_findings": [],
+   "notes": "carr_5_5_pg_4line, born-digital (typed). Luke James Searle, County Council Seat A - At Large, Republican, Heber City UT; dated 6/28/2022. Page 4 is the printed 17-16-6.5 statute text (read, no data). All three 'TOTALS FROM LAST REPORT' cells read 'N/A'. Form B rows are NOT in date order as printed (3/22 precedes 3/15; the final row is 4/22/2022 after a 6/22/2022 row) — printed order retained. Field-shift screen: Form A 7 dates / 7 names / 7 amounts, Form B 18 dates / 18 names / 18 purposes / 18 amounts, every cell in its own column — PASS. HUMAN LOOK WORTH HAVING at the $50 contribution residual: nothing on the face accounts for it."
+  }
+ },
+ "cover": {
+  "candidate_verbatim": {
+   "value": "Luke James Searle",
+   "confidence": "high"
   },
-  "itemized_transcribed": false,
-  "notes": "Typed. Line 2 (aggregate <=$50) carries an up-arrow 'see above' mark rather than a figure \u2014 transcribed blank. The LAST REPORT column is marked 'N/A'."
+  "office_verbatim": {
+   "value": "County Council",
+   "confidence": "high"
+  },
+  "district_verbatim": {
+   "value": "Seat A - At Large",
+   "confidence": "high"
+  },
+  "addressee": {
+   "value": "Joey Granger, Wasatch County Clerk",
+   "confidence": "high"
+  },
+  "signature_date_verbatim": {
+   "value": "6/28/2022",
+   "confidence": "high"
+  },
+  "signed": true,
+  "report_periods_checked": null
+ },
+ "stated": {
+  "contrib_gt50": {
+   "last_report": {
+    "value": "N/A",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2050.00",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2050.00",
+    "confidence": "high"
+   }
+  },
+  "contrib_le50": {
+   "last_report": {
+    "value": "N/A",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "",
+    "confidence": ""
+   },
+   "cumulative": {
+    "value": "",
+    "confidence": ""
+   }
+  },
+  "total_expenses": {
+   "last_report": {
+    "value": "N/A",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "2035.85",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "2035.85",
+    "confidence": "high"
+   }
+  },
+  "balance_end": {
+   "last_report": {
+    "value": "N/A",
+    "confidence": "high"
+   },
+   "this_report": {
+    "value": "14.15",
+    "confidence": "high"
+   },
+   "cumulative": {
+    "value": "14.15",
+    "confidence": "high"
+   }
+  }
+ },
+ "itemized_transcribed": false,
+ "notes": "Typed. Line 2 (aggregate <=$50) carries an up-arrow 'see above' mark rather than a figure — transcribed blank. The LAST REPORT column is marked 'N/A'.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "page": 2,
+   "row_i": 0,
+   "date": "2022-03-04",
+   "donor_raw": "Tate & Elizabeth Stone (Loan)",
+   "donor_city": "Charleston",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "the filer's own '(Loan)' annotation is part of the name cell and kept verbatim; it is a cash loan, not an in-kind good, so in_kind is false. Street discarded at read time.",
+   "geometry": "pct:6.00,9.30,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 2,
+   "row_i": 1,
+   "date": "2022-03-04",
+   "donor_raw": "Luke Searle (Loan)",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "1300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "candidate self-loan; '(Loan)' verbatim from the name cell",
+   "geometry": "pct:6.00,11.57,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 2,
+   "row_i": 2,
+   "date": "2022-03-13",
+   "donor_raw": "Grayson Massey",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "the address cell prints only 'Salt Lake City, UT' — no street, no ZIP",
+   "geometry": "pct:6.00,13.84,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 2,
+   "row_i": 3,
+   "date": "2022-04-25",
+   "donor_raw": "Brad Burgess",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "a <=$50 gift itemized on Form A even though the form reserves line 2 for that class",
+   "geometry": "pct:6.00,16.11,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 2,
+   "row_i": 4,
+   "date": "2022-04-25",
+   "donor_raw": "Stu Waldrip",
+   "donor_city": "Midway",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:6.00,18.38,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 2,
+   "row_i": 5,
+   "date": "2022-04-25",
+   "donor_raw": "Erik Nystul",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "",
+   "geometry": "pct:6.00,20.65,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 2,
+   "row_i": 6,
+   "date": "2022-04-26",
+   "donor_raw": "Luke Searle",
+   "donor_city": "Heber City",
+   "donor_state": "UT",
+   "amount": "230.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "note": "re-read at 600 dpi specifically to test 230 vs 280 — the typed glyph is an unambiguous 3, so 230.00 stands and the 50.00 side delta is NOT a misread",
+   "geometry": "pct:6.00,22.92,88.00,2.27@p2",
+   "geometry_fit": "estimated"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "page": 3,
+   "row_i": 0,
+   "date": "2022-03-04",
+   "vendor_raw": "Wasatch County",
+   "purpose": "Filing Fee",
+   "amount": "202.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "THIS is the row the cover's expense total omits — the other 17 rows sum to exactly the printed 2035.85",
+   "geometry": "pct:6.00,7.90,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 2,
+   "page": 3,
+   "row_i": 1,
+   "date": "2022-03-08",
+   "vendor_raw": "Wasatch Back Signarama",
+   "purpose": "Campaign Signs (In-Kind)",
+   "amount": "300.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "in_kind set from the filer's own '(In-Kind)' text in the Purpose cell, quoted verbatim; this row IS inside the cover's expense total",
+   "geometry": "pct:6.00,10.18,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 3,
+   "page": 3,
+   "row_i": 2,
+   "date": "2022-03-08",
+   "vendor_raw": "UPS Store",
+   "purpose": "Campaign Flier",
+   "amount": "128.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,12.46,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 4,
+   "page": 3,
+   "row_i": 3,
+   "date": "2022-03-22",
+   "vendor_raw": "Nation Builder",
+   "purpose": "Campaign Website",
+   "amount": "37.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "printed out of date order (precedes the 3/15 row below it)",
+   "geometry": "pct:6.00,14.74,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 5,
+   "page": 3,
+   "row_i": 4,
+   "date": "2022-03-15",
+   "vendor_raw": "Utah College Republicans",
+   "purpose": "Utah First Event Sponsorship",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,17.02,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 6,
+   "page": 3,
+   "row_i": 5,
+   "date": "2022-03-23",
+   "vendor_raw": "Audrey Dow Photography",
+   "purpose": "Campaign Photos",
+   "amount": "280.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,19.30,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 7,
+   "page": 3,
+   "row_i": 6,
+   "date": "2022-03-30",
+   "vendor_raw": "Lee's Marketplace",
+   "purpose": "Townhall Food",
+   "amount": "28.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,21.58,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 8,
+   "page": 3,
+   "row_i": 7,
+   "date": "2022-03-31",
+   "vendor_raw": "The Junction",
+   "purpose": "Campaign Lunch",
+   "amount": "34.09",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,23.86,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 9,
+   "page": 3,
+   "row_i": 8,
+   "date": "2022-04-16",
+   "vendor_raw": "Call Hub",
+   "purpose": "Delegate Text Messages",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "one of two identical 4/16 Call Hub rows — both printed separately, both retained",
+   "geometry": "pct:6.00,26.14,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 10,
+   "page": 3,
+   "row_i": 9,
+   "date": "2022-04-16",
+   "vendor_raw": "Call Hub",
+   "purpose": "Delegate Text Messages",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "second of the two identical 4/16 Call Hub rows; not a duplicate-entry artefact — both are on the face and both are needed for the total",
+   "geometry": "pct:6.00,28.42,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 11,
+   "page": 3,
+   "row_i": 10,
+   "date": "2022-04-23",
+   "vendor_raw": "Buon Appetito Italian",
+   "purpose": "Campaign Lunch",
+   "amount": "45.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,30.70,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 12,
+   "page": 3,
+   "row_i": 11,
+   "date": "2022-04-26",
+   "vendor_raw": "Impact Photography",
+   "purpose": "Campaign Fliers",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,32.98,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 13,
+   "page": 3,
+   "row_i": 12,
+   "date": "2022-04-26",
+   "vendor_raw": "Outcry LLC",
+   "purpose": "Website & Campaign Consulting",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,35.26,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 14,
+   "page": 3,
+   "row_i": 13,
+   "date": "2022-05-06",
+   "vendor_raw": "Black Canyon Signs",
+   "purpose": "Campaign Stickers",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,37.54,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 15,
+   "page": 3,
+   "row_i": 14,
+   "date": "2022-05-22",
+   "vendor_raw": "Nation Builder",
+   "purpose": "Campaign Website",
+   "amount": "37.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,39.82,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 16,
+   "page": 3,
+   "row_i": 15,
+   "date": "2022-06-10",
+   "vendor_raw": "Parks and Rec Wasatch",
+   "purpose": "Parade Entry Fee",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,42.10,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 17,
+   "page": 3,
+   "row_i": 16,
+   "date": "2022-06-22",
+   "vendor_raw": "Nation Builder",
+   "purpose": "Campaign Website",
+   "amount": "7.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "",
+   "geometry": "pct:6.00,44.38,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  },
+  {
+   "line_no": 18,
+   "page": 3,
+   "row_i": 17,
+   "date": "2022-04-22",
+   "vendor_raw": "Nation Builder",
+   "purpose": "Campaign Website",
+   "amount": "37.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "note": "last printed row but an April date — the filer evidently added it out of sequence; printed order and printed date both retained verbatim",
+   "geometry": "pct:6.00,46.66,88.00,2.28@p3",
+   "geometry_fit": "estimated"
+  }
+ ]
 }

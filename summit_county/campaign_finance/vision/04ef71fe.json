@@ -52,6 +52,205 @@
   "office": "high",
   "stated_totals": "high"
  },
- "itemized_transcribed": false,
- "notes": "BROCK ADJUDICATION: the handwritten 'Office Filed For' line reads RECORDER/SURVEYOR and Party reads WRITE-IN on BOTH Brock filings (1081 Pre-Election, 1244 Post-Election) — legible at 200dpi, unreadable to OCR. Surname on this sheet reads BROCK (the 1081 sheet is ambiguous B-L/R). CALIBRATION CASE for the column trap: Current Report is all $0.00 while Last Report and Cumulative carry the money — a Millcreek-order parser taking the second-to-last token would read the Last Report column."
+ "itemized_transcribed": true,
+ "notes": "BROCK ADJUDICATION: the handwritten 'Office Filed For' line reads RECORDER/SURVEYOR and Party reads WRITE-IN on BOTH Brock filings (1081 Pre-Election, 1244 Post-Election) — legible at 200dpi, unreadable to OCR. Surname on this sheet reads BROCK (the 1081 sheet is ambiguous B-L/R). CALIBRATION CASE for the column trap: Current Report is all $0.00 while Last Report and Cumulative carry the money — a Millcreek-order parser taking the second-to-last token would read the Last Report column.",
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2014-08-14",
+   "donor_raw": "$50 or less donor",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,25.68,81.80,1.91@p3",
+   "geometry_fit": "measured",
+   "note": "ANONYMISED BY THE FORM - the filer itemized his <=$50 aggregate as placeholder lines with this literal name and empty address/zip cells. Not a named donor and never to be read as one; the two such rows total the page's printed $70.00 '<=$50' box",
+   "page": 3,
+   "band": 4
+  },
+  {
+   "line_no": 2,
+   "date": "2014-08-25",
+   "donor_raw": "$50 or less donor",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,27.59,81.80,1.95@p3",
+   "geometry_fit": "measured",
+   "note": "ANONYMISED BY THE FORM - see line 1. Address and Zipcode cells left deliberately empty by the filer, not redacted",
+   "page": 3,
+   "band": 5
+  },
+  {
+   "line_no": 3,
+   "date": "2014-08-11",
+   "donor_raw": "Walter Brock",
+   "donor_city": "Coalville",
+   "donor_state": "UT",
+   "amount": "2592.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.80,29.54,81.80,1.91@p3",
+   "geometry_fit": "measured",
+   "note": "the CANDIDATE's own contribution - the whole of the page's '>$50' box",
+   "page": 3,
+   "band": 6
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-07-30",
+   "vendor_raw": "Summit County",
+   "purpose": "GIS GRAMA Request",
+   "amount": "16.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,25.24,81.93,2.46@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 3
+  },
+  {
+   "line_no": 2,
+   "date": "",
+   "vendor_raw": "Go Daddy",
+   "purpose": "URL Purchase",
+   "amount": "1.17",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=malformed;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,27.15,81.93,2.46@p2",
+   "geometry_fit": "measured",
+   "note": "DATE MALFORMED - the cell prints verbatim '8//2014' with no day. Stored blank under the strict-date gate; never completed from the neighbouring 7/30/14 and 8/4/14 rows. The amount cell prints '1.17' without a dollar sign (the only such cell on the page)",
+   "page": 2,
+   "band": 4
+  },
+  {
+   "line_no": 3,
+   "date": "2014-08-04",
+   "vendor_raw": "Summit County",
+   "purpose": "Write-in Fee",
+   "amount": "781.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,29.06,81.93,2.44@p2",
+   "geometry_fit": "measured",
+   "note": "the county's 2014 county-office candidate fee; other 2014 Summit filers record the identical $781.03 as a 'Filing Fee'",
+   "page": 2,
+   "band": 5
+  },
+  {
+   "line_no": 4,
+   "date": "2014-08-06",
+   "vendor_raw": "Imaginos",
+   "purpose": "T Shirts, Business Cards, Signs",
+   "amount": "1193.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,30.94,81.93,2.46@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 6
+  },
+  {
+   "line_no": 5,
+   "date": "2014-08-08",
+   "vendor_raw": "Costco",
+   "purpose": "Parade Candy",
+   "amount": "70.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,32.84,81.93,2.44@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 7
+  },
+  {
+   "line_no": 6,
+   "date": "2014-08-12",
+   "vendor_raw": "Karsten Moench",
+   "purpose": "Web Site Creation",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;name=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.77,34.73,81.93,2.46@p2",
+   "geometry_fit": "measured",
+   "note": "",
+   "page": 2,
+   "band": 8
+  }
+ ],
+ "_meta_itemized": {
+  "wave": "itemized-vision(claude-opus-5; 2026-08-14 summit scan tranche, Phase B)",
+  "transcribed_date": "2026-08-14",
+  "pages_read": [
+   2,
+   3
+  ],
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "stated": "2662.89",
+    "itemized": "2662.89",
+    "result": "exact",
+    "detail": "exact - 3 rows sum to 2,662.89 = the module's stated total = the sum of the page's own two boxes. UNUSUALLY for a split50 sheet the <=$50 aggregate is itemized too, as two anonymised '$50 or less donor' lines totalling exactly the $70.00 box, so the ledger accounts for the whole stated figure rather than leaving the customary structural residual. Specimen row 'Jon and Jane Doe $435.00' (yellow-highlighted) dropped"
+   },
+   "expenditures": {
+    "stated": "2662.89",
+    "itemized": "2662.89",
+    "result": "exact",
+    "detail": "exact - 6 rows sum to 2,662.89 = the schedule's printed box = the cover. Specimen row 'Name of Business / Campaign signs and flyers / $512.00' (yellow-highlighted, and dated 8/25/14 on this copy) dropped"
+   }
+  },
+  "page_gates": "PAGE POSITION IS NOT A CLASSIFIER on this filing: p2 is the ITEMIZED EXPENSE REPORT and p3 the ITEMIZED CONTRIBUTION REPORT. p2 prints 'Total amount of expenditures $2,662.89'; its 6 real rows sum to 2,662.89 to the cent and equal the cover. p3 prints TWO boxes, '>$50 $2,592.89' and '<=$50 $70.00', which sum to the module's stated contribution figure of 2,662.89; the 3 real rows reproduce BOTH boxes exactly (Walter Brock 2,592.89 = the >$50 box; the two '$50 or less donor' rows 50.00 + 20.00 = the <=$50 box), so this filing has NO structural residual at all. On both pages the printed SPECIMEN row is highlighted in YELLOW by the county's own copy and is dropped; the arithmetic is the proof - including them gives 3,174.89 on p2 and 3,097.89 on p3.",
+  "escalations": 0,
+  "n_contrib_rows": 3,
+  "n_expend_rows": 6,
+  "geometry": {
+   "measured": 9,
+   "declared": 0,
+   "none": 0,
+   "basis": "rule-detection row banding (rowbands.py) on the page's own printed grid; box spans the full table width of the row"
+  },
+  "withheld_rows": {},
+  "notes": "Walter Brock, County Recorder/Surveyor, 2014 Post-Election; split50 form, typed ledgers on a scanned sheet, county RECEIVED stamps of Nov 2014 on both schedule pages. GRAIN: this report is unambiguously CUMULATIVE and needs no ruling - the cover's Current Report column is $0.00 on every row while Last Report and Cumulative Totals both carry the figures, i.e. the filer reported no new activity after his pre-election report, and the two ledgers sum to those cumulative figures. SOURCE PROPERTIES: (1) PAGE ORDER IS REVERSED against the module's usual layout - expenses on p2, contributions on p3 (the 1059 / 23013 / 24377 precedent, seen again here). (2) The county's published copy has the two printed SPECIMEN rows HIGHLIGHTED IN YELLOW on both pages - the clearest form yet of the marking this wave has seen struck in pen elsewhere; they are still not transactions and the printed totals close only without them. Note this copy dates the expense specimen 8/25/14 (a 2014-year variant), not the 8/25/10 seen on other copies. (3) A SOURCE PROPERTY THE BRIEF DID NOT LIST: the filer ITEMIZED HIS <=$50 AGGREGATE as two anonymised rows literally named '$50 or less donor', dated and with amounts ($50.00 on 8/14/14 and $20.00 on 8/25/14) but with the Mailing Address and Zipcode cells deliberately empty. They are printed transaction lines and they close the $70.00 box to the cent, so they are transcribed as rows with the placeholder name verbatim - they are anonymity BY THE FORM's design, not missing data, and they must never be read as a named donor. (4) $2,592.89 of the $2,662.89 raised - the entire >$50 side - is the CANDIDATE's own money, itemized as a donor row in his own name; the campaign raised and spent the same amount and closed at zero. (5) An expenditure date cell is printed '8//2014' with NO DAY; under the strict-date gate it is stored BLANK with needs_review=1 and the verbatim in the row note, never repaired from context (its neighbours are 7/30 and 8/4). (6) Addresses are printed in full and unredacted; only city/state are retained per the privacy contract. (7) The $781.03 'Write-in Fee' paid to Summit County is the same figure other 2014 Summit filers record as their 'Filing Fee' (e.g. Trussell 1058/1250) - the county's 2014 county-office fee. GEOMETRY: MEASURED on both pages. p2 detects a clean 37-band grid AND five column rules, so its boxes are fully measured; p3 detects the same clean grid but NO column rules, so the record supplies the table's own x/w (8.8 / 81.8, measured off the page) while the y bands stay measured. Verified by render-back: p2 band 3 resolves to '7/30/14 Summit County / GIS GRAMA Request / $16.50' and band 8 to '8/12/14 Karsten Moench / Web Site Creation / $600.00'; p3 band 4 to '8/14/14 $50 or less donor / $50.00' and band 6 to '8/11/14 Walter Brock / PO Box 876, Coalville, UT / 84017 / $2,592.89'."
+ }
 }

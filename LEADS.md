@@ -460,6 +460,15 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     Cheap detector, no vision cost: for every candidate with consecutive filings in a cycle,
     chain **Last-Report vs the prior filing's Cumulative** and flag breaks. Run it over all
     8 counties' cover tranches (1,911 cf_filing stated-totals rows), not just weber.
+
+- 2026-08-18 (post-consolidation): **UTAH COUNTY PHASE B WAVE BRIEF WRITTEN** —
+  `utah_county/campaign_finance/WAVE_BRIEF_PHASEB.md` (scope, the inverted per-period regime,
+  8 document traps, prerequisites, the B2 contract, sizing, and a paste-ready launch prompt).
+  Two prerequisites are called out as blocking-by-judgment: fix the `rowbands.py` [DEBT]
+  before promoting it to `scripts/campaign_finance/` for this wave, and run a FRESH
+  calibration pre-flight — **no utah pre-flight has ever been recorded, and the configuration
+  changed 2026-08-18** (make_snippet rotation + oversized-mediabox fixes), which triggers the
+  standing re-run rule on its own.
   - THREE new calibration-specimen candidates: `summit-specimen-row` (the blank form's
     printed Jon-and-Jane-Doe example rows — correct answer DROP, proof = the total closes
     only without them); `summit-two-digit-bistable` (1065 Martin — TWO different re-readings

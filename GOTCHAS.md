@@ -276,3 +276,11 @@ values are never overwritten (fixes go in extractors or documented override file
 add-member override is the sanctioned path for a garbled-value missing member); a defect found
 in another layer while working is FLAGGED (TODO [DEBT] with evidence, or LEADS.md), never
 fixed from the wrong layer.
+
+- **NEVER RELY ON THE SOURCE'S REDACTION (standing rule, promoted 2026-09-02).** In any
+  transcription, PII adjacent to a redaction bar (street addresses, ZIPs, emails, phones)
+  is DISCARDED AT READ TIME — the county's bar contributes nothing to the repo's privacy
+  guarantee; the wave's own discard rule is the guarantee. Corollary from the 2026-09-02
+  adjudication: a shape COUNT is not evidence of concealment — only token GEOMETRY
+  intersected with the bar is (the Staggs false positive: 156 visible ZIPs in a
+  deliberately-unredacted column were read as concealed donor geography).

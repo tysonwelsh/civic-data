@@ -788,3 +788,11 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 | `wasatch.utah.gov` legacy DNN host (serves 2018–2024-June wasatch CF PDFs live) | direct Portals/ URLs | host dies → 104 filings become archive-only; re-mirror check | 2026-08-01 | live; link-rot risk |
 | cache CMS migration record-drop (live 2022 page ≠ Wayback 2022 page filer list) | cachecounty.gov financial-disclosures | future migrations dropping filings | 2026-08-01 | 2022 delta captured |
 | county CF 2026 cycles (all 8 counties, finals due Dec 2026–Feb 2027) + SLCo Nov-2026 general canvass | county pages + SLCo clerk archive | post-certification refresh | 2026-08-01 | calendar-incomplete by design |
+
+- **2026-09-02 — pre-2010s clerk_legacy CF filings print contributor street addresses in the
+  clear, as published by the county** (~18 files with ≥5 street-shaped tokens; the era predates
+  the county's redaction practice — these documents never claimed redaction, so it is old
+  practice, not a defect). The repo's structured layer stores city/state only regardless; raws
+  are local-only (gitignored). Owner aware; whether to raise it with the county is an owner
+  call. Context: the 2026-08-23 "cosmetic redaction" finding was adjudicated FALSE POSITIVE
+  same day (record: `_backups/2026-09-02-redaction-false-positive/RECORD.md`).

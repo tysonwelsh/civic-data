@@ -18,7 +18,12 @@ includes contact details a clerk printed in minutes and donor street addresses o
 face of campaign-finance filings. Editing them would break the repository's verbatim-text
 guarantee (see METHODS.md, honesty rule 2). Note the deliberate asymmetry: the
 *structured* campaign-finance tables store donor city/state only, never street addresses;
-the verbatim text layer reproduces the filing as filed.
+the verbatim text layer reproduces the filing as filed. County-applied redaction bars on
+those source documents are sometimes imperfect — a bar can slightly under-cover and leave
+characters visible at its edge, on scanned and born-digital filings alike (verified across
+the SLCo corpus 2026-09-02: edge leaks only; no case of concealed-but-extractable text).
+The structured layer never relies on the source's redaction: redaction-adjacent PII is
+discarded at read time regardless (GOTCHAS.md standing rule).
 
 ## Constructed aggregation layers are contact-redacted
 
